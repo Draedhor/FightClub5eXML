@@ -3,7 +3,7 @@
   <class>
     <name>Warlock</name>
     <!-- Otherworldly Patron: Cosmic Patron (HB) -->
-    <autolevel level="1">
+    <autolevel level="3">
       <feature optional="YES">
         <name>Otherworldly Patron: Cosmic Patron (HB)</name>
         <text>Some warlocks gain their eldritch power from the very cosmos, answering to entities of space, the constellations, planets, and moons. A warlock swearing fealty to a Cosmic patron typically believes they speak to gods, or god-like beings, but these entities are shrouded in mystery, their appearance incomprehensible and horrible, and their divine power is bestowed into the warlock from the stars and galaxies beyond.
@@ -99,7 +99,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 173 (Third Party)</text>
       </feature>
     </autolevel>
     <!-- Otherworldly Patron: Flesh Patron (HB) -->
-    <autolevel level="1">
+    <autolevel level="3">
       <feature optional="YES">
         <name>Otherworldly Patron: Flesh Patron (HB)</name>
         <text>A Warlock of the Flesh has made a pact with an entity so alien and unknown that its mere existence is enough to cause madness in most people. These warlocks have allowed an alien entity to inhabit their bodies, answering to some ancient and eldritch thing from beyond comprehension. This entity creates a symbiotic relationship with the host, granting them powers while reshaping and twisting their form.

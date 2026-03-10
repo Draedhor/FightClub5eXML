@@ -18,7 +18,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 168 (Homebrew)</text>
       </feature>
     </autolevel>
     <!-- Otherworldly Patron: The Void (HB) -->
-    <autolevel level="1">
+    <autolevel level="3">
       <feature optional="YES">
         <name>Otherworldly Patron: The Void (TP)</name>
         <text>These warlocks have made a pact with an eldritch being from the deepest depths of the Cosmos—a being that devours energy, holds the secrets of creation, and paves the way to the apocalypse. Pray that they are not aware of your presence. A deep fascination for the cosmos, or perhaps profound meditation on the heat death of the universe could've brought about the circumstances that lead to this pact. Very few are able to withstand such knowledge and power, and the few that do are often seen as mysterious and reclusive figures.
@@ -101,12 +101,6 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 166 (Homebrew)</text>
 
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 166 (Homebrew)</text>
       </feature>
-      <counter>
-        <name>Oblivion</name>
-        <value>1</value>
-        <reset>L</reset>
-        <subclass>The Void (HB)</subclass>
-      </counter>
     </autolevel>
   </class>
   <spell>
