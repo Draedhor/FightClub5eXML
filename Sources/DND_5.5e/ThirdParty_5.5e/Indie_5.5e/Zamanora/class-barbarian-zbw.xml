@@ -4,7 +4,7 @@
     <name>Barbarian</name>
     <autolevel level="3">
       <feature optional="YES">
-        <name>Level 3: Veilmark Information (Zamanora)</name>
+        <name>Veilmark Information (Zamanora)</name>
         <text>It is said that trespassing upon the spirit world leaves a tangible brand on one's body and soul. Mortals should never peer beyond the Veil, lest the spirits take notice and mark them forevermore. Let a marked person into your home and you invite certain calamity. The lands of Zamanora are riddled with such fiction and cautionary tales that only work to paint those who are inquisitive in a bad light. Yet they are right about one thing; someone who interacts with the Hidden World too often is bound to be "marked".
 
 As characters engage in encounters with curses, spirits, and other supernatural phenomena, they accrue Veilmark. This attribute reflects their growing connection to the spirit realm and the transformative effects of these experiences on their physical and spiritual selves. Veilmarked is the term used by the Zamanori to describe individuals who have thus changed, and denotes characters who have accrued enough Veilmark to cross a threshold. If playing in a different setting, you may use the broader term Aura to describe the system.
@@ -132,7 +132,7 @@ Source:	Zamanora: Ballad of the Witch p. 120 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 60 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Mark of the Veil (Path of the Veilscarred (HB))</name>
+        <name>Mark of the Veil (Path of the Veilscarred (HB))</name>
         <text>Your body is inhabited by a spirit whose personality bleeds through into yours. Work with your Storyteller to determine the spirit's nature and define four key roleplaying traits: a Core Value, a Fear, a Quirk, and an Indulgence. Each dawn, you randomly gain one of these four traits until the next dawn.
 	The spirit can be a Celestial, Elemental, Fey, Fiend, or Undead entity that haunts or profoundly influences you. It inhabits your body and has an affinity for certain physical or emotional states and types of energy, according to its nature. Choose a condition from among Charmed, Frightened or Poisoned, and a damage type from Acid, Cold, Fire, Lightning, Necrotic, Psychic, or Radiant. These choices represent the ways in which your powers are influenced as this spirit's vessel.
 	For example, the spirit that you host could be an Elemental with affinity to Fire damage and immunity to the Poisoned condition, or the Undead spirit of a fearless warrior, attuned to Necrotic damage and the Frightened condition. Work with your Storyteller to determine the appropriate affinities for the spirit that haunts you.
@@ -141,7 +141,7 @@ Source:	Zamanora: Ballad of the Witch p. 60 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 61 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Spirit's Cowl (Path of the Veilscarred (HB))</name>
+        <name>Spirit's Cowl (Path of the Veilscarred (HB))</name>
         <text>The spirit's powers envelop you when you Rage. While your Rage is active, you gain the following benefits:
 
 	Aspect of the Veil. Your creature type changes to your spirit's type.
@@ -155,7 +155,7 @@ Source:	Zamanora: Ballad of the Witch p. 61 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Dark Bargain (Path of the Veilscarred (HB))</name>
+        <name>Dark Bargain (Path of the Veilscarred (HB))</name>
         <text>You've learned how to call upon your spirit's powers at a cost. When you fail a D20 Test, you may roll it again and use the new result. When you do so, one additional trait of yours becomes replaced by one of the spirit's traits (see Mark of the Veil feature) until you finish a Long Rest. If you gain all four traits of the spirit, it can seize control of your body. At any time until the next dawn, the Storyteller can have the spirit possess you until you finish a Long Rest. Though it has its own agenda and desires, the spirit will always act to preserve you.
 
 Source:	Zamanora: Ballad of the Witch p. 61 (Homebrew)</text>
@@ -163,7 +163,7 @@ Source:	Zamanora: Ballad of the Witch p. 61 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Otherworldly Surge (Path of the Veilscarred (HB))</name>
+        <name>Otherworldly Surge (Path of the Veilscarred (HB))</name>
         <text>Your spirit's barely contained power, surges forth when you allow it. When you activate your Rage, creatures within 30 feet of you must make a Wisdom saving throw (DC 8 plus your Constitution modifier and Proficiency Bonus). On a failed save, they have the condition associated with your spirit's affinity until the end of your Rage. If your spirit is an Elemental, they instead suffer an elemental curse, taking 1d8 damage of your spirit's affinity type at the start of each of their turns. At the end of each of the affected creatures' turns, the creatures repeat the save, ending the effect on itself on a success. Finally, the first time you become Bloodied during your Rage, this surge triggers again, forcing another saving throw.
 
 Source:	Zamanora: Ballad of the Witch p. 61 (Homebrew)</text>
@@ -171,14 +171,14 @@ Source:	Zamanora: Ballad of the Witch p. 61 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Willow's Embrace (Path of the Veilscarred (HB))</name>
+        <name>Willow's Embrace (Path of the Veilscarred (HB))</name>
         <text>The spirit can now push you beyond your natural limits. As a Reaction to becoming Charmed, Frightened, Incapacitated, Paralyzed, Stunned, or Unconscious, or at the start of your turn while under such a condition, you can give in to the power of the entity that you host and activate your Rage, ending the condition on yourself. This Rage does not count against your daily uses. You are then possessed by the spirit for the next hour. During this time, you have Advantage on saving throws against spells and other magical effects. Alternatively, you can use this feature if you fail your Relentless Rage feature's Constitution saving throw, gaining Hit Points equal to twice your Barbarian level.
 	You can use this feature once before finishing a Long Rest.
 
 Source:	Zamanora: Ballad of the Witch p. 62 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Level 14: Willow's Embrace</name>
+        <name>Willow's Embrace</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Path of the Veilscarred (HB)</subclass>

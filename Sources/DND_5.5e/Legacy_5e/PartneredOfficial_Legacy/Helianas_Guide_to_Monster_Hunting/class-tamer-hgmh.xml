@@ -201,7 +201,7 @@ You can make a tamer by following this suggestion: Choose Wisdom, Intelligence, 
     </trait>
     <autolevel level="1">
       <feature optional="YES">
-        <name>Level 1: Starting Tamer</name>
+        <name>Starting Tamer</name>
         <text>As a 1st-level tamer, you begin play with 8 + your Constitution modifier hit points.
 
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
@@ -223,7 +223,7 @@ If you forgo this starting equipment, as well as the items offered by your backg
 Source:	Heliana's Guide to Monster Hunting - Part One p. 195</text>
       </feature>
       <feature optional="YES">
-        <name>Level 1: Multiclass Tamer</name>
+        <name>Multiclass Tamer</name>
         <text>If your group uses the optional rule on multiclassing in the Player's Handbook, here's what you need to know if you choose tamer as one of your classes.
 
 Ability Score Minimum:
@@ -240,7 +240,7 @@ When you gain your first level in a class other than your initial class, you gai
 Source:	Heliana's Guide to Monster Hunting - Part One p. 195</text>
       </feature>
       <feature optional="YES">
-        <name>Level 1: Multiclass Features</name>
+        <name>Multiclass Features</name>
         <text>When you gain a new level in a class, you get its features for that level. You don't, however, receive the class's starting equipment, and a few features have additional rules when you're multiclassing: Channel Divinity, Extra Attack, Unarmored Defense, and Spellcasting.
 
 Channel Divinity:
@@ -272,7 +272,7 @@ If you have both the Spellcasting class feature and the Pact Magic class feature
 Source:	Player's Handbook (2014) p. 164</text>
       </feature>
       <feature>
-        <name>Level 1: Pocket Familiar</name>
+        <name>Pocket Familiar</name>
         <text>You become bonded to a companion that accompanies you on your adventures and is trained to fight alongside you. Choose a Small or smaller creature with a challenge rating of 1/2 or lower that isn't a humanoid, giant, or swarm to become your companion. When a creature becomes your companion, it has a maximum number of hit points equal to the average of its Hit Dice, as indicated in its statistics, and it can't cast spells. Work with your GM to find a companion that suits your campaign world. This companion obeys your commands and is friendly to you and your allies.
 
 	Vessel. When not summoned, your companion exists inside a magical vessel of your own design, such as a painted animal skull, bejewelled egg, or crystal sphere. While in this vessel, the companion has full cover from all attacks and other effects, is unaffected by area of effects that originate from outside the vessel, and exists in stasis; it doesn't need to eat, drink, sleep, or breathe, and it is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralised. A companion at 0 hit points is instantly stabilised when it enters its vessel.
@@ -303,14 +303,14 @@ Huge | 4x | 8x
 Source:	Heliana's Guide to Monster Hunting - Part One p. 196</text>
       </feature>
       <feature>
-        <name>Level 1: Soul Bond</name>
+        <name>Soul Bond</name>
         <text>Companions make death saving throws, die, and can be revived like any player character. A companion that has been stabilised remains unconscious until it regains hit points, or until you finish a long rest. Companions that are stable and have 0 hit points when you finish a long rest regain half their maximum hit points.
 	You have a pool of healing power equal to five times your tamer level that replenishes when you finish a long rest. Whenever you finish a short rest, you can choose to draw power from that pool, restoring a total number of hit points amongst your companions up to the maximum amount remaining in your pool.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 197</text>
       </feature>
       <feature>
-        <name>Level 1: Monster Trainer</name>
+        <name>Monster Trainer</name>
         <text>As you gain levels in this class, your companions become more powerful. Your companions use your proficiency bonus instead of their own, potentially increasing their attack, saving throw, and skill modifiers, and their saving throw DCs.
 
 	Training. Whenever you gain an Ability Score Improvement from gaining a level in the tamer class, you pass on your hardened resolve to all your companions, causing them to gain one additional Hit Die. Increase your companion's hit point maximum by rolling this Hit Die and adding your companion's Constitution modifier (minimum of 0).
@@ -383,7 +383,7 @@ Tamer Level | CR 1/2 | CR 1 | CR 2 | CR 3 | CR 4 | CR 5 | CR 6
 Source:	Heliana's Guide to Monster Hunting - Part One p. 197</text>
       </feature>
       <feature>
-        <name>Level 1: Tame Creature</name>
+        <name>Tame Creature</name>
         <text>One way to defeat deadly foes: have deadlier friends. As you explore, you will encounter new creatures which you may wish to make your companions. You can tame a Small or smaller creature of CR ½ or lower, as described below. As you gain levels in this class, the size and challenge rating of creatures you can tame increases, as shown in the Tamer Companion Summary table.
 
 	Vessel. To tame a companion, you must first prepare a vessel using special inks, gems, or other materials. Preparing the vessel takes 8 hours of work and components with a value in gold pieces equal to at least one hundred times the target creature's CR.
@@ -413,7 +413,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 198</text>
     </autolevel>
     <autolevel level="2">
       <feature>
-        <name>Level 2: Spellcasting</name>
+        <name>Spellcasting</name>
         <text>By 2nd level, you have learned to harness your mental fortitude to augment the potential of others. You can cast tamer spells.
 
 	Cantrips. At 2nd level, you know two cantrips of your choice from the tamer spell list. You learn additional tamer cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Tamer table.
@@ -459,13 +459,13 @@ Level | Spells Known
 Source:	Heliana's Guide to Monster Hunting - Part One p. 199</text>
       </feature>
       <feature>
-        <name>Level 2: Bolster</name>
+        <name>Bolster</name>
         <text>While your companion is within 100 feet of you and you are holding its vessel, or if you are holding its vessel with it inside, you can use an action to expend one spell slot to restore hit points to your companion equal to your spellcasting ability modifier (minimum 1) plus an additional 2d4 per level of the spell slot expended.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 200</text>
       </feature>
       <feature>
-        <name>Level 2: Psychic Bond</name>
+        <name>Psychic Bond</name>
         <text>While your companion is within 100 feet of you, you can communicate with it telepathically. Additionally, as an action, you can see through your companion's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the companion has. During this time, you are deaf and blind with regard to your own senses.
 
 	Spell Swap. While your companion is summoned, is within 100 feet of you, and you hold its vessel, any spells your companion knows are added to your known spells. In addition, when you cast a spell with a range of self or touch, your companion can be the target of that spell.
@@ -475,14 +475,14 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 201</text>
     </autolevel>
     <autolevel level="3">
       <feature>
-        <name>Level 3: Pocket Family</name>
+        <name>Pocket Family</name>
         <text>As you gain levels in this class, the number of companions and maximum size of companion to which you can become bonded increases. You can be bonded to two, three, four, five, or six creatures at 3rd, 7th, 11th, 15th, and 19th level, respectively. Your companions can be sized Medium at 5th level, Large at 11th level, and Huge at 17th level. If you are already bonded to your maximum number of companions and become bonded to a new companion, you must choose one existing companion to release from its vessel.
 	When you bond with a new companion, the companion gains improvements and Hit Dice based on its CR and your tamer level.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 201</text>
       </feature>
       <feature>
-        <name>Level 3: Training Paradigm</name>
+        <name>Training Paradigm</name>
         <text>You choose the type of Training Paradigm you follow from the list of available paradigms. Your choice grants you features at 3rd level and again at 7th, 10th, and 14th level. At 18th level, the 7th-level feature is improved.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 201</text>
@@ -500,13 +500,13 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 201</text>
     </autolevel>
     <autolevel level="5">
       <feature>
-        <name>Level 5: MultiAttack</name>
+        <name>MultiAttack</name>
         <text>Through rigorous training, you can access the innate fury of your companions. When you take a bonus action or action to command your companion, you can command it to use its Multiattack action, if it has one.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 201</text>
       </feature>
       <feature>
-        <name>Level 5: Malleable Presence</name>
+        <name>Malleable Presence</name>
         <text>While your companion is within 100 feet of you, you can order it to change its behaviour towards one creature you can see as part of the bonus action or action you use to command it. Choose either the aggressive or cautious behaviours. At the start of each of the target creature's turns for the next minute, it must succeed on a Wisdom saving throw versus your tamer spell save DC if it is within 30 feet of your companion and can see your companion. On a failure, it suffers the effects of the associated behaviour until the start of its next turn. On a success, it is unaffected.
 
 	• Aggressive. The creature has disadvantage on attack rolls it makes against creatures other than your companion.
@@ -520,13 +520,13 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 201</text>
     </autolevel>
     <autolevel level="6">
       <feature>
-        <name>Level 6: Alpha Strike</name>
+        <name>Alpha Strike</name>
         <text>While summoning a companion, your psychic connection is at its closest, allowing you to quickly relay your intent. As part of the action to summon a companion, you can command it to take an action in its stat block or some other action, which it does so on its turn. You can use this feature a number of times equal to your tamer spellcasting ability modifier (a minimum of once). You regain all expended uses of this feature when you finish a long rest.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 201</text>
       </feature>
       <feature>
-        <name>Level 6: Wilful Blows</name>
+        <name>Wilful Blows</name>
         <text>Your magical potency is channeled through your companions' strikes. Your companions' attacks count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 202</text>
@@ -554,7 +554,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 201</text>
     </autolevel>
     <autolevel level="13">
       <feature>
-        <name>Level 13: Switcheroo</name>
+        <name>Switcheroo</name>
         <text>You learn how to switch places with your companion in the nick of time. While you and your companion are within 100 feet of each other, you can use a bonus action, or a reaction when you or your companion is the target of an attack by an attacker you can see, to magically switch places with your companion. If performed as a reaction, the creature that appears in the targeted creature's space becomes the new target of the attack. You have a number of uses of this feature equal to your tamer spellcasting ability modifier (minimum of once). You regain all expended uses when you finish a long rest.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 202</text>
@@ -572,7 +572,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 201</text>
     </autolevel>
     <autolevel level="17">
       <feature>
-        <name>Level 17: Magnificent Presence</name>
+        <name>Magnificent Presence</name>
         <text>While your companion is within 100 feet of you, you can order it to change its behaviour as part of the bonus action or action you use to command it. Choose either the provoking poise or shrinking violet behaviours.
 
 	• Provoking Poise. For the next minute, your companion draws the attention of nearby creatures. While within 15 feet of your companion, any creature that is hostile towards your companion and that can see it has disadvantage on attack rolls it makes against creatures other than your companion.
@@ -596,7 +596,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 201</text>
     </autolevel>
     <autolevel level="20">
       <feature>
-        <name>Level 20: Summon The Horde</name>
+        <name>Summon The Horde</name>
         <text>In times of great need, a tamer can summon many of its companions simultaneously. As an action, you can summon additional companions which remain summoned for 1 minute. You can have a maximum of three companions summoned simultaneously as a result of using this feature.
 	As an action on subsequent turns, you can issue mental commands to all your companions at once, allowing them to take an action in their stat block or some other action. You choose the order in which your companions act each round. After the minute elapses, all your companions bar one (which you choose) return to their vessels and a wave of lethargy sweeps over you; you can't move or take actions until the end of your next turn. Once you use this feature, you can't do so again until you finish a long rest.
 
@@ -612,7 +612,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 202</text>
 Source:	Heliana's Guide to Monster Hunting - Part One p. 204</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Infuse (Infuser)</name>
+        <name>Infuse (Infuser)</name>
         <text>You have a deep connection with the elements and can infuse your companions with primordial energy. When you finish a long rest, you can choose one of the following elements with which to individually infuse each of your companions: acid, cold, fire, or lightning. When you do so, any previous infusion on those companions end. The first time your companion hits a target with an attack on its turn, it deals 1d4 additional damage of the infused type. This damage increases when you reach certain levels in this class: 1d6 at 6th level, 1d8 at 10th level, and 1d10 at 14th level.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 204</text>
@@ -620,7 +620,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 204</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Elemental Discharge (Infuser)</name>
+        <name>Elemental Discharge (Infuser)</name>
         <text>Your companions gain the ability to unleash a torrent of elemental energy in a devastating blow. When you infuse a companion at the end of a long rest, it gains an action option corresponding to the chosen element. The DC for the saving throw equals your tamer spell save DC.
 
 	• Acid: Caustic Mist. Your companion disperses an acidic vapour into a 20-foot cube originating from it that lasts for 1 minute, or until dispersed by a wind of moderate or greater speed (at least 10 miles per hour). Each other creature that starts its turn in the area must make a Constitution saving throw, taking 4d4 acid damage on a failure, or half as much damage on a success.
@@ -644,7 +644,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 204</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Primordial Shield (Infuser)</name>
+        <name>Primordial Shield (Infuser)</name>
         <text>Your companion gains resistance to the element with which it is infused. When your companion takes damage of that type, you can use your reaction to bolster its defences, granting it immunity to that damage type, including against the triggering damage, until the start of your next turn. Once you use this reaction, you can't do so again until you finish a short or long rest.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 205</text>
@@ -658,7 +658,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 205</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Unstable Fusion (Infuser)</name>
+        <name>Unstable Fusion (Infuser)</name>
         <text>Sometimes, more is better. As an action, you can infuse your companion with a second element for 1 minute, choosing from the options in the Infuse feature. Your companion gains the benefits of the Infuse, Elemental Discharge, and Primordial Shield features for both of the elements with which it is infused. If you activate your Primordial Shield feature while Unstable Fusion is active, your companion gains immunity to both damage types. Once you use this feature, you can't do so again until you finish a long rest.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 205</text>
@@ -687,7 +687,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 205</text>
 Source:	Heliana's Guide to Monster Hunting - Part One p. 202</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Inspire (Leader)</name>
+        <name>Inspire (Leader)</name>
         <text>As an action, you can inspire your companion through shouts, gestures, and mental encouragement. Until the beginning of your next turn, whenever your companion makes a saving throw or attack roll, it can add a d6 to its result.
 	You can use this feature a number of times equal to your tamer spellcasting ability modifier (a minimum of once). You regain any expended uses when you finish a short or long rest.
 	The die you grant when you use this feature changes when you reach certain levels in this class. The die becomes a d8 at 6th level, a d10 at 10th level, and a d12 at 14th level
@@ -697,7 +697,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 202</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Action Burst (Leader)</name>
+        <name>Action Burst (Leader)</name>
         <text>You can push your companion beyond its normal limits for a moment. When you use an action or bonus action to command your companion, you can extol it to exert greater effort. On your companion's turn, it can take one additional action of your choice.
 	Once your companion has benefited from your use of this feature, you must finish a short or long rest before that same companion can benefit from it again. Starting at 18th level, your companions can benefit from Action Burst twice before a rest, but only once on the same turn.
 
@@ -712,7 +712,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 203</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Action Burst (Leader)</name>
+        <name>Action Burst (Leader)</name>
         <text>When an attacker that you can see hits your companion with an attack, you can use both your and your companion's reactions to bolster its resilience. Your companion fortifies itself, halving the attack's damage against it
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 203</text>
@@ -720,7 +720,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 203</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Combo (Leader)</name>
+        <name>Combo (Leader)</name>
         <text>As an action, you can summon a second companion from a vessel you are holding to an unoccupied space you can see within 30 feet of you. When you use an action or bonus action to command your companion, you can command both of them simultaneously, giving a different command to each.
 	The two companions take their turns in an order of your choice, directly after your turn. At the start of their turns, you can mentally choose one creature you can see (no action required). If your first companion makes an attack against the chosen target, the second companion gains advantage on its attack rolls against this creature until the end of its turn.
 	After being summoned for 1 minute, or if your second companion is ever more than 100 feet away from you, the second companion is dismissed. Once you use this feature, you can't do so again until you finish a long rest.
@@ -751,13 +751,13 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 203</text>
 Source:	Heliana's Guide to Monster Hunting - Part One p. 205</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Life Hack (Necromancer)</name>
+        <name>Life Hack (Necromancer)</name>
         <text>Your command of necromantic magic and affinity for the no-longer-living allows you to drain your companions' life force, converting it into a temporary boon. Once per turn, when your companion hits a creature with an attack, you can mentally command the companion to shed some of its life force (no action required). Your companion takes 1d4 necrotic damage that can't be reduced in any way, gains an equal number of temporary hit points, and deals an equal amount of necrotic damage to its target. This damage increases when you reach certain levels in this class: 1d6 at 6th level, 1d8 at 10th level, and 1d10 at 14th level.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 205</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Post-Mortem (Necromancer)</name>
+        <name>Post-Mortem (Necromancer)</name>
         <text>Death is no barrier to your taming magic. You can attempt to tame one creature within 1 minute of it dying, adhering to the normal rules for taming a new companion, with the following changes:
 
 	• When you attempt to tame a dead creature, its soul makes a Charisma saving throw against your tamer spell save DC.
@@ -773,7 +773,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 205</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Animate Dead (Necromancer)</name>
+        <name>Animate Dead (Necromancer)</name>
         <text>You learn how to use your taming magic to temporarily raise new allies and bind them to your will. You learn the animate dead spell, you always have it prepared, it doesn't count against the number of spells you know, and you can cast it once without using a spell slot. After you do so, you can't cast it in this way again until you finish a long rest.
 	Once you reach 18th level, when you cast this spell using this feature, the creature you animate has the statistics of a ghast (if Medium or smaller corpse) or a minotaur skeleton (if Large or larger corpse). When you reassert your control over these creatures, you can maintain control of only 1 creature per casting of the spell, instead of 4.
 	When you issue a command to your companion using either a bonus action or action, you can issue the same command to any creatures you have created with animate dead so long as the creatures are within 100 feet of you.
@@ -783,7 +783,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 206</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Enervate (Necromancer)</name>
+        <name>Enervate (Necromancer)</name>
         <text>You learn to channel life force between you and your companions. As an action while your summoned companion is within 100 feet of you, you can deal necrotic damage to your companion up to a value equal to twice your tamer level. This damage can't be reduced in any way. You then regain hit points equal to the damage dealt. Alternatively, you can deal the necrotic damage to yourself and restore hit points to your summoned companion equal to the damage you took.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 207</text>
@@ -791,7 +791,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 207</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Aura of Undeath (Necromancer)</name>
+        <name>Aura of Undeath (Necromancer)</name>
         <text>As an action, you tap into deep pools of necromantic energy, imbuing your companion with a 15-foot aura of undeath for the next minute. While imbued with this aura, your companion can, as a bonus action on its turn, force one creature it can see within the aura to make a Constitution saving throw against your tamer spell save DC. On a failure, the creature takes 4d8 necrotic damage and your companion gains a number of temporary hit points equal to half the damage dealt.
 	In addition, for the duration, when your companion would be reduced to 0 hit points, it doesn't fall unconscious. Instead, it is reduced to 1 hit point and gains one failed death saving throw. If your companion gains three failed death saving throws during the minute, or five failed death saving throws if it has the undead type, it immediately dies. At the end of the minute, your companion drops to 0 hit points, falls unconscious, and is stable.
 	Once you use this feature, you can't do so again until you finish a long rest.
@@ -857,7 +857,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 207</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Modular Upgrades (Splicer)</name>
+        <name>Modular Upgrades (Splicer)</name>
         <text>You can upgrade each of your companions with exotic organs and appendages. At the start of a long rest, you can choose one of the following upgrades for each of your companions. At the end of the long rest, the biomantic meld completes, and your companion gains the associated action option. The DC for the saving throw equals your tamer spell save DC.
 
 	• Compelling Plumage. Each creature in a 25-foot cone that can see your companion must succeed on a Wisdom saving throw or be charmed by your companion's dazzling display of colour for the next minute. While charmed in this way, the creature is incapacitated and has a speed of 0 feet. The effect ends for an affected creature if it takes any damage, if someone else uses an action to shake the creature out of its stupor, if it no longer has line of sight to the companion, or is ever more than 25 feet away from the companion.
@@ -881,7 +881,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 209</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Battlefield Harvester (Splicer)</name>
+        <name>Battlefield Harvester (Splicer)</name>
         <text>You augment your companions with a highly adaptive mutagen, allowing them to gain the strengths of foes they defeat and confer it to your other companions through a synchronous quantum biomantic link.
 	As an action, you can command your companion to consume the corpse of a non-swarm creature that has been dead for less than 1 minute. Choose one of the consumed creature's damage resistances, damage immunities, or condition immunities (except immunity to exhaustion). All of your companions gain resistance to one damage type to which the slain creature was resistant or immune, or gain immunity to one condition to which the creature was immune.
 	After you use this feature, you can't do so again until you finish a long rest. When you use this feature again, your companions lose any benefit they had previously gained from this feature.
@@ -897,7 +897,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 209</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Adrenal Overload (Splicer)</name>
+        <name>Adrenal Overload (Splicer)</name>
         <text>As an action, you trigger a hidden, internal switch within your companion, triggering a cascade of rapid mutations that lasts for the next minute, with the following results:
 
 	• It immediately grows to Huge size (if it isn't already).

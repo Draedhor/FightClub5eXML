@@ -13,7 +13,7 @@ Your pact draws on the power of a dying god, a being once worshipped by countles
 Source:	Mystic Subclasses p. 5 (Unearthed Arcana)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Vestige Companion (Vestige Patron (UA))</name>
+        <name>Vestige Companion (Vestige Patron (UA))</name>
         <text>The vestige manifests, aiding you to do so and drawing strength from your pact. It uses the Vestige Companion stat block and is a Celestial, Fiend, or Undead (choose when you gain this feature). You determine what the vestige looks like, but regardless of its form, the vestige bears features indicating its supernatural origin. For example, you might decide your vestige is an oversize floating skull etched with sigils, a circle of glowing runes, or a constantly shifting abstract shape. The vestige is Friendly to you and your allies and obeys your commands. It vanishes if you die.
 
 	The Vestige in Combat. In combat, the vestige acts during your turn. It can move and use its Reaction on its own, but the only action it takes is the Dodge action unless you take a Bonus Action to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the Attack action to command the vestige to take the Vestige's Strike action. If you have the Incapacitated condition, the vestige acts on its own and isn't limited to the Dodge action.
@@ -24,7 +24,7 @@ Source:	Mystic Subclasses p. 5 (Unearthed Arcana)</text>
 Source:	Mystic Subclasses p. 5 (Unearthed Arcana)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Vestige Spells (Vestige Patron (UA))</name>
+        <name>Vestige Spells (Vestige Patron (UA))</name>
         <text>The magic of your Vestige Companion ensures you always have certain spells ready. Select one of the following Cleric Domains: Life, Light, Trickery, or War. The Domain Spells of your chosen Domain are Warlock spells for you. When you reach a Warlock level equal to a Cleric Level listed on the Domain Spells table for the Domain you have chosen, you thereafter always have the listed spells prepared.
 	For example, if you chose the War Domain for this have the Guiding Bolt, Magic Weapon, Shield of Faith, and Spiritual Weapon spells prepared.
 
@@ -33,7 +33,7 @@ Source:	Mystic Subclasses p. 5 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Vestige Recovery (Vestige Patron (UA))</name>
+        <name>Vestige Recovery (Vestige Patron (UA))</name>
         <text>Your Vestige Companion now regains its use of Divine Power whenever you finish a Short or Long Rest or when you use your Magical Cunning feature.
 
 Source:	Mystic Subclasses p. 6 (Unearthed Arcana)</text>
@@ -41,14 +41,14 @@ Source:	Mystic Subclasses p. 6 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Aura of Power (Vestige Patron (UA))</name>
+        <name>Aura of Power (Vestige Patron (UA))</name>
         <text>Your Vestige Companion increases in magical strength. As a Magic Action, you can cause the vestige to manifest an aura in a 30-foot Emanation that originates from the vestige. The aura lasts a number of hours equal to your Charisma modifier or until the vestige disappears or is temporarily dismissed. You, the vestige, and your allies within the aura gain Resistance to Fire, Necrotic, and Radiant damage and have Immunity to the Charmed and Frightened conditions. Once you manifest this aura, you can't do so again until you finish a Long Rest.
 	In addition, when you drop to 0 Hit Points while within the aura, you instead change your Hit Points to a number equal to your Warlock level plus your Charisma modifier. The vestige is then dismissed into a pocket dimension and can't return until you finish a Long Rest.
 
 Source:	Mystic Subclasses p. 6 (Unearthed Arcana)</text>
       </feature>
       <counter>
-        <name>Level 10: Aura of Power</name>
+        <name>Aura of Power</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Vestige Patron (UA)</subclass>
@@ -56,7 +56,7 @@ Source:	Mystic Subclasses p. 6 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Semblance of Life (Vestige Patron (UA))</name>
+        <name>Semblance of Life (Vestige Patron (UA))</name>
         <text>Your Vestige Companion continues to grow in strength, and with your assistance, it can briefly adopt a more powerful form. Depending on the vestige's type, you can cast one of the following spells while the vestige is within 90 feet of you without expending a spell slot or needing Material components: Summon Celestial (Celestial vestige),
 Summon Fiend (Fiend vestige), or Summon Undead (Undead vestige). When you cast the spell with this feature, the vestige becomes the summoned creature. Its game statistics are replaced by the summoned creature's stat block, the spell's level is equal to half your Warlock level (round down; maximum level 9), and the spell's duration is 1 minute. When the spell ends, the vestige returns to its previous form.
 	Once you have cast the spell in this way, you can't do so again until you finish a Long Rest.
@@ -64,7 +64,7 @@ Summon Fiend (Fiend vestige), or Summon Undead (Undead vestige). When you cast t
 Source:	Mystic Subclasses p. 6 (Unearthed Arcana)</text>
       </feature>
       <counter>
-        <name>Level 14: Semblance of Life</name>
+        <name>Semblance of Life</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Vestige Patron (UA)</subclass>

@@ -14,14 +14,14 @@ Warriors of Intoxication move with the jerky, unpredictable movements typical of
 Source:	Subclasses Update p. 4 (Unearthed Arcana)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Bonus Proficiencies (Warrior of Intoxication (UA))</name>
+        <name>Bonus Proficiencies (Warrior of Intoxication (UA))</name>
         <text>You gain proficiency in the Performance skill, or if you already have it, you gain proficiency in one skill of your choice from the skills available to Monks at level 1. You also gain proficiency with Brewer's Supplies if you don't already have it.
 
 Source:	Subclasses Update p. 4 (Unearthed Arcana)</text>
         <proficiency>Performance</proficiency>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Drunken Technique (Warrior of Intoxication (UA))</name>
+        <name>Drunken Technique (Warrior of Intoxication (UA))</name>
         <text>You twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, your Speed increases by 10 feet until the end of the current turn and your movement during that time doesn't provoke Opportunity Attacks.
 
 Source:	Subclasses Update p. 4 (Unearthed Arcana)</text>
@@ -29,7 +29,7 @@ Source:	Subclasses Update p. 4 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Tipsy Sway (Warrior of Intoxication (UA))</name>
+        <name>Tipsy Sway (Warrior of Intoxication (UA))</name>
         <text>You can move in sudden, swaying ways. You gain the following benefits.
 
 	Leap to Your Feet. When you have the Prone condition, you can stand up by spending 5 feet of movement, rather than half your Speed.
@@ -39,7 +39,7 @@ Source:	Subclasses Update p. 4 (Unearthed Arcana)</text>
 Source:	Subclasses Update p. 4 (Unearthed Arcana)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 6: Mystic Brew (Warrior of Intoxication (UA))</name>
+        <name>Mystic Brew (Warrior of Intoxication (UA))</name>
         <text>Whenever you finish a Short or Long Rest while holding Brewer's Supplies, you can use that tool to magically produce one magical beverage, chosen from the following options: Cinnamon Dragon, Heavenly Spirit, or Refreshing Dip. The beverage appears in a bottle or cask, and the bottle vanishes when the beverage is drunk or poured out. If any beverage remains when you finish a Short or Long Rest, the beverage and its container vanish.
 
 	Drinking a Magical Beverage. Only you can gain the benefit of drinking the beverage. You must drink at least a pint of the beverage before gaining its benefit. You can spend 1 minute drinking a pint of the beverage. You then gain the benefits of the beverage for 1 hour, as described below.
@@ -63,7 +63,7 @@ Source:	Subclasses Update p. 4 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="11">
       <feature optional="YES">
-        <name>Level 11: Master Brewer (Warrior of Intoxication (UA))</name>
+        <name>Master Brewer (Warrior of Intoxication (UA))</name>
         <text>You learn more complex flavors. The following beverages are added to your Mystic Brew options.
 
 	• Blue Lightning. Whenever you take a Reaction that isn't making an Opportunity Attack or casting a spell, you can make one Unarmed Strike as part of that Reaction.
@@ -73,7 +73,7 @@ Source:	Subclasses Update p. 4 (Unearthed Arcana)</text>
 Source:	Subclasses Update p. 5 (Unearthed Arcana)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 17: Intoxicated Frenzy (Warrior of Intoxication (UA))</name>
+        <name>Intoxicated Frenzy (Warrior of Intoxication (UA))</name>
         <text>You make an overwhelming number of attacks against a group of enemies. When you use Flurry of Blows, you can make up to three additional Unarmed Strikes with it (up to a total of six Unarmed Strike), provided that each strike targets a different creature this turn.
 
 Source:	Subclasses Update p. 5 (Unearthed Arcana)</text>

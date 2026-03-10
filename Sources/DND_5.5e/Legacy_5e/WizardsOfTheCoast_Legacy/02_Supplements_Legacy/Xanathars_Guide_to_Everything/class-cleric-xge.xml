@@ -22,20 +22,20 @@ Cleric Level | Spells
 Source:	Xanathar's Guide to Everything p. 18</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Bonus Proficiency (Forge Domain (Legacy))</name>
+        <name>Bonus Proficiency (Forge Domain (Legacy))</name>
         <text>When you choose this domain at 3rd level, you gain proficiency with heavy armor and smith's tools.
 
 Source:	Xanathar's Guide to Everything p. 19</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Blessing of the Forge (Forge Domain (Legacy))</name>
+        <name>Blessing of the Forge (Forge Domain (Legacy))</name>
         <text>At 3rd level, you gain the ability to imbue magic into a weapon or armor. At the end of a long rest, you can touch one nonmagical object that is a suit of armor or a simple or martial weapon. Until the end of your next long rest or until you die, the object becomes a magic item, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon.
 	Once you use this feature, you can't use it again until you finish a long rest.
 
 Source:	Xanathar's Guide to Everything p. 19</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Channel Divinity: Artisan's Blessing (Forge Domain (Legacy))</name>
+        <name>Channel Divinity: Artisan's Blessing (Forge Domain (Legacy))</name>
         <text>Starting at 3rd level, you can use your Channel Divinity to create simple items.
 	You conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a simple or martial weapon, a suit of armor, ten pieces of ammunition, a set of tools, or another metal object (see chapter 5, "Equipment," in the Player's Handbook for examples of these items). The creation is completed at the end of the hour, coalescing in an unoccupied space of your choice on a surface within 5 feet of you.
 	The thing you create can be something that is worth no more than 100 gp. As part of this ritual, you must lay out metal, which can include coins, with a value equal to the creation. The metal irretrievably coalesces and transforms into the creation at the ritual's end, magically forming even nonmetal parts of the creation. The ritual can create a duplicate of a nonmagical item that contains metal, such as a key, if you possess the original during the ritual.
@@ -45,7 +45,7 @@ Source:	Xanathar's Guide to Everything p. 19</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Soul of the Forge (Forge Domain (Legacy))</name>
+        <name>Soul of the Forge (Forge Domain (Legacy))</name>
         <text>Starting at 6th level, your mastery of the forge grants you special abilities:
 
 	• You gain resistance to fire damage.
@@ -57,7 +57,7 @@ Source:	Xanathar's Guide to Everything p. 19</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Saint of Forge and Fire (Forge Domain (Legacy))</name>
+        <name>Saint of Forge and Fire (Forge Domain (Legacy))</name>
         <text>At 17th level, your blessed affinity with fire and metal becomes more powerful:
 
 	• You gain immunity to fire damage
@@ -87,21 +87,21 @@ Cleric Level | Spells
 Source:	Xanathar's Guide to Everything p. 19</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Circle of Mortality (Grave Domain (Legacy))</name>
+        <name>Circle of Mortality (Grave Domain (Legacy))</name>
         <text>At 3rd level, you gain the ability to manipulate the line between life and death. When you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit points, you instead use the highest number possible for each die.
 	In addition, you learn the spare the dying cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
 
 Source:	Xanathar's Guide to Everything p. 20</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Eyes of the Grave (Grave Domain (Legacy))</name>
+        <name>Eyes of the Grave (Grave Domain (Legacy))</name>
         <text>At 3rd level, you gain the ability to occasionally sense the presence of the undead, whose existence is an insult to the natural cycle of life. As an action, you can open your awareness to magically detect undead. Until the end of your next turn, you know the location of any undead within 60 feet of you that isn't behind total cover and that isn't protected from divination magic. This sense doesn't tell you anything about a creature's capabilities or identity.
 	You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.
 
 Source:	Xanathar's Guide to Everything p. 20</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Channel Divinity: Path to the Grave (Grave Domain (Legacy))</name>
+        <name>Channel Divinity: Path to the Grave (Grave Domain (Legacy))</name>
         <text>Starting at 3rd level, you can use your Channel Divinity to mark another creature's life force for termination.
 	As an action, you choose one creature you can see within 30 feet of you, cursing it until the end of your next turn. The next time you or an ally of yours hits the cursed creature with an attack, the creature has vulnerability to all of that attack's damage, and then the curse ends.
 
@@ -110,7 +110,7 @@ Source:	Xanathar's Guide to Everything p. 20</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Sentinel at Death's Door (Grave Domain (Legacy))</name>
+        <name>Sentinel at Death's Door (Grave Domain (Legacy))</name>
         <text>At 6th level, you gain the ability to impede death's progress. As a reaction when you or a creature you can see within 30 feet of you suffers a critical hit, you can turn that hit into a normal hit. Any effects triggered by a critical hit are canceled.
 	You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.
 
@@ -119,7 +119,7 @@ Source:	Xanathar's Guide to Everything p. 20</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Keeper of Souls (Grave Domain (Legacy))</name>
+        <name>Keeper of Souls (Grave Domain (Legacy))</name>
         <text>Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't incapacitated. Once you use it, you can't do so again until the start of your next turn.
 
 Source:	Xanathar's Guide to Everything p. 20</text>

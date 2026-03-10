@@ -13,7 +13,7 @@ Reanimators defy the laws of nature in pursuit of gruesome experiment. These gri
 Source:	UA2024-Horror Subclasses p. 1</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Reanimator Spells (Reanimator (UA))</name>
+        <name>Reanimator Spells (Reanimator (UA))</name>
         <text>When you reach an Artificer level specified in the Reanimator Spells table, you thereafter always have the listed spells prepared.
 
 Reanimator Spells:
@@ -27,14 +27,14 @@ Artificer Level | Spells
 Source:	UA2024-Horror Subclasses p. 1</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Jolt To Life (Reanimator (UA))</name>
+        <name>Jolt To Life (Reanimator (UA))</name>
         <text>When you cast Spare the Dying, you can modify the spell so that it sends a jolt of electricity through the target, reviving it. The target regains 1 Hit Point, and each creature in a 10-foot Emanation originating from the target makes a Dexterity saving throw against your spell save DC, taking Lightning damage equal to 1d4 plus half your Artificer level (round up) on a failed save or half as much damage on a successful one.
 	You can modify the spell this way a number of times equal to your Intelligence modifier, and you regain all expended uses when you finish a Long Rest.
 
 Source:	UA2024-Horror Subclasses p. 1</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Reanimated Companion (Reanimator (UA))</name>
+        <name>Reanimated Companion (Reanimator (UA))</name>
         <text>Using Tinker's Tools or another type of Artisan's Tools with which you have proficiency, you can take a Magic action to create a Reanimated Companion (see the stat block) through the power of necromancy and science. The companion manifests in an unoccupied space within 5 feet of you. You determine the companion's appearance; your choices don't affect the companion's game statistics.
 	The companion is Friendly to you and your allies and obeys you. It lasts until you finish a Long Rest or until you take a Magic action to dismiss it early, at which point it harmlessly collapses into a pile of viscera. It immediately drops to 0 Hit Points and dies (triggering its Death Burst trait) if you die.
 	Once you create a companion, you can't do so again until you finish a Long Rest or expend a spell slot to create one. You can have only one companion at a time and can't create one while your companion is present.
@@ -46,7 +46,7 @@ Source:	UA2024-Horror Subclasses p. 1</text>
     </autolevel>
     <autolevel level="5">
       <feature optional="YES">
-        <name>Level 5: Strange Modifications (Reanimator (UA))</name>
+        <name>Strange Modifications (Reanimator (UA))</name>
         <text>Whenever you create a Reanimated Companion, it gains one of the following options of your choice; choose when you create the companion.
 
 	Arcane Conduit. You can cast spells as though you were in the companion's space, but you must use your own senses. Once per turn, when you cast an Artificer spell from the Evocation or Necromancy schools and deal damage while your companion is within 120 feet of you, you can add your Intelligence modifier to one damage roll of that spell.
@@ -58,7 +58,7 @@ Source:	UA2024-Horror Subclasses p. 2</text>
     </autolevel>
     <autolevel level="9">
       <feature optional="YES">
-        <name>Level 9: Improved Reanimation (Reanimator (UA))</name>
+        <name>Improved Reanimation (Reanimator (UA))</name>
         <text>You experiment and alter your companion further. Whenever you create a Reanimated Companion, it gains one of the following options of your choice; choose when you create the companion.
 
 	Bloated. The companion becomes Large or Medium (your choice). Whenever it hits a Large or smaller creature with its Dreadful Swipe action, that creature can also be pushed up to 10 feet away from the companion. Additionally, you can add your Intelligence modifier to the damage dealt by the companion's Death Burst.
@@ -72,7 +72,7 @@ Source:	UA2024-Horror Subclasses p. 2</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Promethean Reanimation (Reanimator (UA))</name>
+        <name>Promethean Reanimation (Reanimator (UA))</name>
         <text>You have mastered the science of revivification, granting you the following benefits.
 
 	Facilitated Revival. When you cast Revivify or Raise Dead, the cost of any Material components needed for that spell is halved.

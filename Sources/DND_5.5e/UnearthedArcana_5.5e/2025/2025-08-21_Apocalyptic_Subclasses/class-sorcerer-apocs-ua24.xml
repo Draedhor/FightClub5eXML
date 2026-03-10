@@ -13,7 +13,7 @@ Your innate power siphons life essence from the surrounding world. At your comma
 Source:	UA25-ApocalypticSubclasses p. 4</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Defile and Empower (Defiled Sorcery (UA))</name>
+        <name>Defile and Empower (Defiled Sorcery (UA))</name>
         <text>Once per turn when you roll damage for a spell you cast using a spell slot, you can siphon your life energy into the spell and empower it. Roll a number of your unexpended Hit Point Dice, up to a number equal to half the level of spell slot expended (round up, minimum of one die), and add the total rolled to one damage roll of the spell. Those Hit Point Dice are then expended.
 
 	Life Steal. Instead of drawing on your own life force when you use this feature, you can try to steal life from another creature you can see within 30 feet of yourself. That creature makes a Constitution saving throw against your spell save DC; creatures that have Immunity to the Exhaustion condition automatically succeed on the save. On a failed save, in place of rolling your Hit Point Dice, roll a number of the creature's unexpended Hit Point Dice, up to a number equal to half the level of slot expended (round down, minimum of one die); you then add that total rolled to one damage roll of the spell, and those Hit Point Dice are expended for the creature.
@@ -22,7 +22,7 @@ Source:	UA25-ApocalypticSubclasses p. 4</text>
 Source:	UA25-ApocalypticSubclasses p. 4</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Defiler Spells (Defiled Sorcery (UA))</name>
+        <name>Defiler Spells (Defiled Sorcery (UA))</name>
         <text>Whenever you reach a Sorcerer level specified in the Defiler Spells table, you thereafter always have the listed spells prepared.
 
 Defiler Spells:
@@ -43,7 +43,7 @@ Source:	UA25-ApocalypticSubclasses p. 4</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Corrupted Caster (Defiled Sorcery (UA))</name>
+        <name>Corrupted Caster (Defiled Sorcery (UA))</name>
         <text>You learn further ways to tap into the corrupting magic within yourself, granting you the following benefits.
 
 	Defiler's Ward. When you take a Bonus Action to transform Sorcery Points into a spell slot, you can wreathe your body in a protective web of defiling energy. Roll a number of dos equal to the level of spell slot created. You gain Temporary Hit Points equal to the total rolled.
@@ -56,7 +56,7 @@ Source:	UA25-ApocalypticSubclasses p. 4</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Withering Aura (Defiled Sorcery (UA))</name>
+        <name>Withering Aura (Defiled Sorcery (UA))</name>
         <text>When you use your Innate Sorcery, an aura of defiling magic fills a 15-foot Emanation originating from you while your Innate Sorcery is active, granting you the following additional benefits.
 
 	Defiling Shroud. When an enemy within the aura hits you with an attack roll, you can reduce that attack's total damage against you. The reduction equals your Charisma modifier.
@@ -69,7 +69,7 @@ Source:	UA25-ApocalypticSubclasses p. 4</text>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">
-        <name>Level 18: Superior Defiler (Defiled Sorcery (UA))</name>
+        <name>Superior Defiler (Defiled Sorcery (UA))</name>
         <text>You've perfected your ability to control and channel defiling magic, granting you the following benefits.
 
 	Fouled Soul. You have Immunity to the Poisoned and Exhaustion conditions.

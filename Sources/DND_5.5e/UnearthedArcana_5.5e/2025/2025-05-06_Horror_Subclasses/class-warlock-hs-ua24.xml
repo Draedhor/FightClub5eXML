@@ -24,7 +24,7 @@ Here are the main updates in this subclass since its appearance in Xanathar's Gu
 Source:	UA2024-Horror Subclasses p. 7</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Hexblade Spells (Hexblade Patron (UA))</name>
+        <name>Hexblade Spells (Hexblade Patron (UA))</name>
         <text>The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Hexblade Spells table, you thereafter always have the listed spells prepared.
 
 Hexblade Spells:
@@ -37,7 +37,7 @@ Warlock Level | Spells
 Source:	UA2024-Horror Subclasses p. 8</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Hexblade Manifest (Hexblade Patron (UA))</name>
+        <name>Hexblade Manifest (Hexblade Patron (UA))</name>
         <text>Your patron grants you the power to summon cursed echoes of its blade to hinder your foes. You gain the following benefits.
 
 	Hexblade's Curse. You can cast Hex without expending a spell slot a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest. When you cast Hex, a spectral weapon resembling your patron orbits the cursed target.
@@ -55,7 +55,7 @@ Source:	UA2024-Horror Subclasses p. 8</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Life Stealer (Hexblade Patron (UA))</name>
+        <name>Life Stealer (Hexblade Patron (UA))</name>
         <text>Your patron's might allows you to drain vitality from those you curse, granting you the following benefits.
 
 	Hungering Hex. Whenever the target cursed by your Hex drops to 0 Hit Points, you regain Hit Points equal to 1d8 plus your Charisma modifier.
@@ -67,7 +67,7 @@ Source:	UA2024-Horror Subclasses p. 8</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Armor of Hexes (Hexblade Patron (UA))</name>
+        <name>Armor of Hexes (Hexblade Patron (UA))</name>
         <text>When you take damage from the cursed target of your Hex, you can take a Reaction to reduce the damage taken by an amount equal to 2d8 plus your Charisma modifier. You can use this feature a number of times equal to your Charisma modifier, and you regain all expended uses when you finish a Long Rest.
 
 Source:	UA2024-Horror Subclasses p. 8</text>
@@ -76,7 +76,7 @@ Source:	UA2024-Horror Subclasses p. 8</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Masterful Hex (Hexblade Patron (UA))</name>
+        <name>Masterful Hex (Hexblade Patron (UA))</name>
         <text>Your patron's accursed might flows even more strongly through you, granting the following benefits.
 
 	Accursed Critical. Any attack roll you make against the target cursed by your Hex scores a Critical Hit on a roll of a 19 or 20 on the d20.
@@ -110,7 +110,7 @@ Here are the main updates in this subclass since its appearance in Van Richten's
 Source:	UA2024-Horror Subclasses p. 8</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Form of Dread (Undead Patron (UA))</name>
+        <name>Form of Dread (Undead Patron (UA))</name>
         <text>As a Bonus Action, you transform into an avatar of your patron's dreadful power, gaining the benefits below for 1 minute, until you have the Incapacitated condition, or until you end the form (no action required). You can transform a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 	Facsimile of Life. You gain Temporary Hit Points equal to 1d10 plus your Warlock level.
@@ -120,7 +120,7 @@ Source:	UA2024-Horror Subclasses p. 8</text>
 Source:	UA2024-Horror Subclasses p. 9</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Undead Spells (Undead Patron (UA))</name>
+        <name>Undead Spells (Undead Patron (UA))</name>
         <text>The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Undead Spells table, you thereafter always have the listed spells prepared.
 
 Undead Spells:
@@ -135,7 +135,7 @@ Source:	UA2024-Horror Subclasses p. 9</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Grave Touched (Undead Patron (UA))</name>
+        <name>Grave Touched (Undead Patron (UA))</name>
         <text>Your patron's powers have a profound effect on your body and magic, granting you the following benefits.
 
 	Arcane Necrosis. Whenever you cast a spell or hit a creature with an attack roll and deal Necrotic damage, the damage dealt ignores Resistance to Necrotic damage.
@@ -148,7 +148,7 @@ Source:	UA2024-Horror Subclasses p. 9</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Necrotic Husk (Undead Patron (UA))</name>
+        <name>Necrotic Husk (Undead Patron (UA))</name>
         <text>Your connection to undeath now saturates your body. You gain the following benefits.
 
 	Necrotic Resilience. You have Resistance to Necrotic damage. While using your Form of Dread, you have Immunity to Necrotic damage.
@@ -167,7 +167,7 @@ Source:	UA2024-Horror Subclasses p. 9</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Superior Dread (Undead Patron (UA))</name>
+        <name>Superior Dread (Undead Patron (UA))</name>
         <text>Your Form of Dread improves, granting you the following benefits while you are using it.
 
 	Flight. You have a Fly Speed equal to your Speed and can hover.

@@ -22,14 +22,14 @@ Cleric Level | Spells
 Source:	Player's Handbook (2014) p. 59</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Blessings of Knowledge (Knowledge Domain (Legacy))</name>
+        <name>Blessings of Knowledge (Knowledge Domain (Legacy))</name>
         <text>At 3rd level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: Arcana, History, Nature, or Religion.
 	Your proficiency bonus is doubled for any ability check you make that uses either of those skills.
 
 Source:	Player's Handbook (2014) p. 59</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Channel Divinity: Knowledge of the Ages (Knowledge Domain (Legacy))</name>
+        <name>Channel Divinity: Knowledge of the Ages (Knowledge Domain (Legacy))</name>
         <text>Starting at 3rd level, you can use your Channel Divinity to tap into a divine well of knowledge. As an action, you choose one skill or tool. For 10 minutes, you have proficiency with the chosen skill or tool.
 
 Source:	Player's Handbook (2014) p. 59</text>
@@ -37,7 +37,7 @@ Source:	Player's Handbook (2014) p. 59</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Channel Divinity: Read Thoughts (Knowledge Domain (Legacy))</name>
+        <name>Channel Divinity: Read Thoughts (Knowledge Domain (Legacy))</name>
         <text>At 6th level, you can use your Channel Divinity to read a creature's thoughts. You can then use your access to the creature's mind to command it.
 	As an action, choose one creature that you can see within 60 feet of you. That creature must make a Wisdom saving throw. If the creature succeeds on the saving throw, you can't use this feature on it again until you finish a long rest.
 	If the creature fails its save, you can read its surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) when it is within 60 feet of you. This effect lasts for 1 minute.
@@ -48,7 +48,7 @@ Source:	Player's Handbook (2014) p. 59</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Visions of the Past (Knowledge Domain (Legacy))</name>
+        <name>Visions of the Past (Knowledge Domain (Legacy))</name>
         <text>Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your Wisdom score and must maintain concentration during that time, as if you were casting a spell.
 	Once you use this feature, you can't use it again until you finish a short or long rest.
 
@@ -79,19 +79,19 @@ Cleric Level | Spells
 Source:	Player's Handbook (2014) p. 61</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Acolyte of Nature (Nature Domain (Legacy))</name>
+        <name>Acolyte of Nature (Nature Domain (Legacy))</name>
         <text>At 3rd level, you learn one druid cantrip of your choice. This cantrip counts as a cleric cantrip for you, but it doesn't count against the number of cleric cantrips you know. You also gain proficiency in one of the following skills of your choice: Animal Handling, Nature, or Survival.
 
 Source:	Player's Handbook (2014) p. 62</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Bonus Proficiency (Nature Domain (Legacy))</name>
+        <name>Bonus Proficiency (Nature Domain (Legacy))</name>
         <text>Also at 3rd level, you gain proficiency with heavy armor.
 
 Source:	Player's Handbook (2014) p. 62</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Channel Divinity: Charm Animals and Plants (Nature Domain (Legacy))</name>
+        <name>Channel Divinity: Charm Animals and Plants (Nature Domain (Legacy))</name>
         <text>Starting at 3rd level, you can use your Channel Divinity to charm animals and plants.
 	As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is friendly to you and other creatures you designate.
 
@@ -100,7 +100,7 @@ Source:	Player's Handbook (2014) p. 62</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Dampen Elements (Nature Domain (Legacy))</name>
+        <name>Dampen Elements (Nature Domain (Legacy))</name>
         <text>Starting at 6th level, when you or a creature within 30 feet of you takes acid, cold, fire, lightning, or thunder damage, you can use your reaction to grant resistance to the creature against that instance of the damage.
 
 Source:	Player's Handbook (2014) p. 62</text>
@@ -108,7 +108,7 @@ Source:	Player's Handbook (2014) p. 62</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Master of Nature (Nature Domain (Legacy))</name>
+        <name>Master of Nature (Nature Domain (Legacy))</name>
         <text>At 17th level, you gain the ability to command animals and plant creatures. While creatures are charmed by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn.
 
 Source:	Player's Handbook (2014) p. 62</text>
@@ -134,20 +134,20 @@ Cleric Level | Spells
 Source:	Player's Handbook (2014) p. 62</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Bonus Proficiencies (Tempest Domain (Legacy))</name>
+        <name>Bonus Proficiencies (Tempest Domain (Legacy))</name>
         <text>At 3rd level, you gain proficiency with martial weapons and heavy armor.
 
 Source:	Player's Handbook (2014) p. 62</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Wrath of the Storm (Tempest Domain (Legacy))</name>
+        <name>Wrath of the Storm (Tempest Domain (Legacy))</name>
         <text>Also at 3rd level, you can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw. The creature takes 2d8 lightning or thunder damage (your choice) on a failed saving throw, and half as much damage on a successful one.
 	You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
 Source:	Player's Handbook (2014) p. 62</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Channel Divinity: Destructive Wrath (Tempest Domain (Legacy))</name>
+        <name>Channel Divinity: Destructive Wrath (Tempest Domain (Legacy))</name>
         <text>Starting at 3rd level, you can use your Channel Divinity to wield the power of the storm with unchecked ferocity.
 	When you roll lightning or thunder damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.
 
@@ -156,7 +156,7 @@ Source:	Player's Handbook (2014) p. 62</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Thunderbolt Strike (Tempest Domain (Legacy))</name>
+        <name>Thunderbolt Strike (Tempest Domain (Legacy))</name>
         <text>At 6th level, when you deal lightning damage to a Large or smaller creature, you can also push it up to 10 feet away from you.
 
 Source:	Player's Handbook (2014) p. 62</text>
@@ -164,7 +164,7 @@ Source:	Player's Handbook (2014) p. 62</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Stormborn (Tempest Domain (Legacy))</name>
+        <name>Stormborn (Tempest Domain (Legacy))</name>
         <text>At 17th level, you have a flying speed equal to your current walking speed whenever you are not underground or indoors.
 
 Source:	Player's Handbook (2014) p. 62</text>

@@ -4,7 +4,7 @@
     <name>Paladin</name>
     <autolevel level="3">
       <feature optional="YES">
-        <name>Level 3: Veilmark Information (Zamanora)</name>
+        <name>Veilmark Information (Zamanora)</name>
         <text>It is said that trespassing upon the spirit world leaves a tangible brand on one's body and soul. Mortals should never peer beyond the Veil, lest the spirits take notice and mark them forevermore. Let a marked person into your home and you invite certain calamity. The lands of Zamanora are riddled with such fiction and cautionary tales that only work to paint those who are inquisitive in a bad light. Yet they are right about one thing; someone who interacts with the Hidden World too often is bound to be "marked". As characters engage in encounters with curses, spirits, and other supernatural phenomena, they accrue Veilmark. This attribute reflects their growing connection to the spirit realm and the transformative effects of these experiences on their physical and spiritual selves. Veilmarked is the term used by the Zamanori to describe individuals who have thus changed, and denotes characters who have accrued enough Veilmark to cross a threshold. If playing in a different setting, you may use the broader term Aura to describe the system.
 
 The influence of Veilmark on a character is determined by their Veilmark Score. The more a character interacts with curses, spirits, and other supernatural phenomena, delving into the mysteries of the Hidden World, the more their Veilmark Score increases. A character's Veilmark Score is effectively a pool of innate power they may tap into in order to produce certain effects that aid them when interacting with spiritual entities. However, at the same time, the higher one's Veilmark Score is, the more otherworldly they feel when interacting with their peers, making them wary and distrustful of their presence. Characters start out with a Veilmark Score of 0, which may increase up to a maximum of 100 throughout a campaign. Certain features, such as the Veilborn Origin (see Chapter II: Origins), or the Veilscarred Barbarian's Dark Bargain and Willow's Embrace (see Chapter II: Subclasses), signify that a character has already been extensively exposed to the Hidden World and influence that character's starting Veilmark Score according to their description.
@@ -132,7 +132,7 @@ The tenets of the Oath of the Firebird prompt the Paladin to become a spark of l
 Source:	Zamanora: Ballad of the Witch p. 87 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Oath of the Firebird Spells (Oath of the Firebird (HB))</name>
+        <name>Oath of the Firebird Spells (Oath of the Firebird (HB))</name>
         <text>The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of the Firebird Spells table, you thereafter always have the listed spells prepared.
 
 Oath of the Firebird Spells:
@@ -146,7 +146,7 @@ Paladin Level | Spells
 Source:	Zamanora: Ballad of the Witch p. 88 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Hope for the Hopeless (Oath of the Firebird (HB))</name>
+        <name>Hope for the Hopeless (Oath of the Firebird (HB))</name>
         <text>As a Magic Action, you can expend one use of your Channel Divinity to gain Heroic Inspiration. While you have this Heroic Inspiration, you can spend a Bonus Action to grant Heroic Inspiration to one ally within 30 feet who can see or hear you.
 	Heroic Inspiration gained in this way is lost unless used within the next minute.
 	You can activate this feature as a Reaction instead, if you or an ally you can see or hear within 30 feet of you becomes Bloodied.
@@ -156,7 +156,7 @@ Source:	Zamanora: Ballad of the Witch p. 88 (Homebrew)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Aura of Blazing Vigor (Oath of the Firebird (HB))</name>
+        <name>Aura of Blazing Vigor (Oath of the Firebird (HB))</name>
         <text>Your flames kindle the spirits of those crestfallen, urging them to stand tall in the face of adversity. Whenever you deal Fire or Radiant damage, roll 1d8 for each enemy that was dealt this type of damage. You and each ally within your Aura of Protection regain a number of Hit Points equal to the amount rolled plus your Charisma modifier.
 
 Source:	Zamanora: Ballad of the Witch p. 88 (Homebrew)</text>
@@ -164,7 +164,7 @@ Source:	Zamanora: Ballad of the Witch p. 88 (Homebrew)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Undaunted Light (Oath of the Firebird (HB))</name>
+        <name>Undaunted Light (Oath of the Firebird (HB))</name>
         <text>Those inspired by you shall come to discover they hold more potential than they knew. If a creature is subjected to damage that would reduce it to 0 Hit Points, or an effect that would kill it instantly without dealing damage, while it has Heroic Inspiration granted by you, the creature drops to 1 Hit Point instead. A creature can benefit from this effect once before it finishes a Long Rest.
 
 Source:	Zamanora: Ballad of the Witch p. 88 (Homebrew)</text>
@@ -172,7 +172,7 @@ Source:	Zamanora: Ballad of the Witch p. 88 (Homebrew)</text>
     </autolevel>
     <autolevel level="20">
       <feature optional="YES">
-        <name>Level 20: Knight of the Breaking Dawn (Oath of the Firebird (HB))</name>
+        <name>Knight of the Breaking Dawn (Oath of the Firebird (HB))</name>
         <text>As a Magic Action, you don a mantle of golden flames, removing the Frightened condition from all allies who can see you and are within 30 feet of you. You gain the benefits below for 10 minutes or until you end them (no action required).
 
 	Freedom Flight. You sprout fiery wings on your back, have a Fly Speed of 60 feet, and can hover, shedding bright light in a 30-foot radius and dim light for 30 feet beyond.
@@ -210,7 +210,7 @@ The tenets of the Oath of the Skycaller revolve around being a symbol of courage
 Source:	Zamanora: Ballad of the Witch p. 90 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Oath of the Skycaller Spells (Oath of the Skycaller (HB))</name>
+        <name>Oath of the Skycaller Spells (Oath of the Skycaller (HB))</name>
         <text>The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of the Skycaller Spells table, you thereafter always have the listed spells prepared.
 
 Oath of the Skycaller Spells:
@@ -224,7 +224,7 @@ Paladin Level | Spells
 Source:	Zamanora: Ballad of the Witch p. 92 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Thunderstrike (Oath of the Skycaller (HB))</name>
+        <name>Thunderstrike (Oath of the Skycaller (HB))</name>
         <text>As a Bonus Action, you can expend one use of your Channel Divinity to magically imbue one weapon you are holding with tempestuous energy. For the next minute, you have Advantage on attack rolls made using this weapon if the target is wearing armor made of metal. On a hit, you deal bonus Lightning damage equal to your Charisma modifier (minimum bonus of +1) and the target can't take Reactions until the start of its next turn. While your weapon is imbued in this way, you can choose to deal Lightning or Thunder instead of Radiant damage when you cast the Divine Smite spell.
 	You can end this effect on your turn as a Bonus Action. If you are no longer holding or carrying this weapon, or if you fall Unconscious, this effect ends.
 
@@ -233,7 +233,7 @@ Source:	Zamanora: Ballad of the Witch p. 92 (Homebrew)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Aura of the Living Tempest (Oath of the Skycaller (HB))</name>
+        <name>Aura of the Living Tempest (Oath of the Skycaller (HB))</name>
         <text>Your presence shelters your allies from the wrath of storms and channels their power. You and your allies have Resistance to Lightning and Thunder damage while in your Aura of Protection.
 	In addition, by using a Bonus Action, you can draw power from your Lay on Hands pool and expend 10 points to send electrical currents jolting through your body, granting you lightning reflexes for a short burst. When you do so, you can also conduct this effect to allies within your Aura of Protection by expending an additional 10 points for each ally. Each affected creature gains the benefits of the Haste spell until the start of your next turn. When this effect ends, affected creatures do not suffer the usual Incapacitated condition or Speed reduction.
 
@@ -242,7 +242,7 @@ Source:	Zamanora: Ballad of the Witch p. 92 (Homebrew)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Storm Surge (Oath of the Skycaller (HB))</name>
+        <name>Storm Surge (Oath of the Skycaller (HB))</name>
         <text>During any part of your movement, you can briefly turn into a clap of thunder and teleport up to 30 feet to an unoccupied space that you can see. Each creature within 10 feet of the point you arrive at must make a Strength saving throw. On a failed save, a creature takes Thunder damage equal to 1d8 plus your Charisma modifier, it is pushed 10 feet away from you and is Deafened until the start of its next turn. On a success, it takes half as much damage, and it isn't pushed or Deafened. The thunder can be heard from up to 300 feet away.
 	You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses of this ability when you finish a Long Rest.
 
@@ -265,7 +265,7 @@ Source:	Zamanora: Ballad of the Witch p. 93 (Homebrew)</text>
     </autolevel>
     <autolevel level="20">
       <feature optional="YES">
-        <name>Level 20: Eye of the Storm (Oath of the Skycaller (HB))</name>
+        <name>Eye of the Storm (Oath of the Skycaller (HB))</name>
         <text>You become one with the tempestuous might of the raging storms. Using your Action, you undergo a transformation. For 1 hour, you gain the following benefits:
 
 	Bringer of Storms. As part of undergoing this transformation, the weather in a 5-mile radius quickly deteriorates and then bursts into a thunderstorm. For the duration, you can as a Magic Action cast the Call Lightning spell at 5th level without expending a spell slot or maintaining Concentration. When cast in this way, you can call down lightning as a Bonus Action at any point that you can see within the thunderstorm's radius.

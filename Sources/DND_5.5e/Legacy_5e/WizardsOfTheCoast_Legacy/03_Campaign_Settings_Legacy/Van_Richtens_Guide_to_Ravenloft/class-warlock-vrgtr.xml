@@ -12,7 +12,7 @@
 Source:	Van Richten's Guide to Ravenloft p. 30</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Expanded Spell List (The Undead (Legacy))</name>
+        <name>Expanded Spell List (The Undead (Legacy))</name>
         <text>The Undead lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
 Undead Expanded Spells:
@@ -25,7 +25,7 @@ Undead Expanded Spells:
 Source:	Van Richten's Guide to Ravenloft p. 30</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Form of Dread (The Undead (Legacy))</name>
+        <name>Form of Dread (The Undead (Legacy))</name>
         <text>At 3rd level, you manifest an aspect of your patron's dreadful power. As a bonus action, you transform for 1 minute. You gain the following benefits while transformed:
 
 	• You gain temporary hit points equal to 1d10 + your warlock level.
@@ -56,7 +56,7 @@ Source:	Van Richten's Guide to Ravenloft p. 30</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Grave Touched (The Undead (Legacy))</name>
+        <name>Grave Touched (The Undead (Legacy))</name>
         <text>Starting at 6th level, your patron's powers have a profound effect on your body and magic. You don't need to eat, drink, or breathe.
 	In addition, once during each of your turns, when you hit a creature with an attack roll and roll damage against the creature, you can replace the damage type with necrotic damage. While you are using your Form of Dread, you can roll one additional damage die when determining the necrotic damage the target takes.
 
@@ -73,7 +73,7 @@ Source:	Van Richten's Guide to Ravenloft p. 30</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Necrotic Husk (The Undead (Legacy))</name>
+        <name>Necrotic Husk (The Undead (Legacy))</name>
         <text>By 10th level, your connection to undeath and necrotic energy now saturates your body. You have resistance to necrotic damage. If you are transformed using your Form of Dread, you instead become immune to necrotic damage.
 	In addition, when you would be reduced to 0 hit points, you can use your reaction to drop to 1 hit point instead and cause your body to erupt with deathly energy. Each creature of your choice that is within 30 feet of you takes necrotic damage equal to 2d10 + your warlock level. You then gain 1 level of exhaustion. Once you use this reaction, you can't do so again until you finish 1d4 long rests.
 
@@ -90,7 +90,7 @@ Source:	Van Richten's Guide to Ravenloft p. 31</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Spirit Projection (The Undead (Legacy))</name>
+        <name>Spirit Projection (The Undead (Legacy))</name>
         <text>At 14th level, your spirit can become untethered from your physical form. As an action, you can project your spirit from your body. The body you leave behind is unconscious and in a state of suspended animation.
 	Your spirit resembles your mortal form in almost every way, replicating your game statistics but not your possessions. Any damage or other effects that apply to your spirit or physical body affects the other. Your spirit can remain outside your body for up to 1 hour or until your concentration is broken (as if concentrating on a spell). When your projection ends, your spirit returns to your body or your body magically teleports to your spirit's space (your choice).
 	While projecting your spirit, you gain the following benefits:

@@ -4,7 +4,7 @@
     <name>Rogue</name>
     <autolevel level="3">
       <feature optional="YES">
-        <name>Level 3: Veilmark Information (Zamanora)</name>
+        <name>Veilmark Information (Zamanora)</name>
         <text>It is said that trespassing upon the spirit world leaves a tangible brand on one's body and soul. Mortals should never peer beyond the Veil, lest the spirits take notice and mark them forevermore. Let a marked person into your home and you invite certain calamity. The lands of Zamanora are riddled with such fiction and cautionary tales that only work to paint those who are inquisitive in a bad light. Yet they are right about one thing; someone who interacts with the Hidden World too often is bound to be "marked".
 
 As characters engage in encounters with curses, spirits, and other supernatural phenomena, they accrue Veilmark. This attribute reflects their growing connection to the spirit realm and the transformative effects of these experiences on their physical and spiritual selves. Veilmarked is the term used by the Zamanori to describe individuals who have thus changed, and denotes characters who have accrued enough Veilmark to cross a threshold. If playing in a different setting, you may use the broader term Aura to describe the system.
@@ -138,13 +138,13 @@ Source:	Zamanora: Ballad of the Witch p. 120 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 98 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Weapon Savant (Mountain Bandit (HB))</name>
+        <name>Weapon Savant (Mountain Bandit (HB))</name>
         <text>You gain proficiency with Medium armor, shields and three martial weapons of your choice. Additionally, you can use the Sneak Attack feature with any weapon you are proficient with, even if it is not a Finesse or a Ranged weapon. The other requirements for Sneak Attack still apply to you.
 
 Source:	Zamanora: Ballad of the Witch p. 99 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Skirmish Coordination (Mountain Bandit (HB))</name>
+        <name>Skirmish Coordination (Mountain Bandit (HB))</name>
         <text>The strongest weapon one could bring to a battle is their allies. When you use your Steady Aim feature, you can choose to give Advantage to allies that can see or hear you on their next attack roll. The maximum number of allies you can affect with this feature equals your Proficiency Bonus.
 	You may use this feature a number of times equal to your Proficiency Bonus before finishing a Long Rest.
 
@@ -167,7 +167,7 @@ Source:	Zamanora: Ballad of the Witch p. 99 (Homebrew)</text>
     </autolevel>
     <autolevel level="9">
       <feature optional="YES">
-        <name>Level 9: Ringleader (Mountain Bandit (HB))</name>
+        <name>Ringleader (Mountain Bandit (HB))</name>
         <text>Your keen eye can effortlessly discern the dynamics across a battlefield. You can use this understanding to shout commands at your allies, instructing them to overwhelm your foes and catch them underhanded.
 	After rolling for Initiative but before the first creature has taken its turn in combat, you can distribute a number of d6s up to the total number of your Sneak Attack dice between any allies that can hear you. The first time an ally hits a creature with an attack during the same round, they roll the d6s you have distributed to them and deal bonus damage equal to the result.
 
@@ -182,7 +182,7 @@ Source:	Zamanora: Ballad of the Witch p. 99 (Homebrew)</text>
     </autolevel>
     <autolevel level="13">
       <feature optional="YES">
-        <name>Level 13: Intimidation Tactics (Mountain Bandit (HB))</name>
+        <name>Intimidation Tactics (Mountain Bandit (HB))</name>
         <text>You learn how to use your menacing presence to your Advantage. Frightened creatures now become eligible targets for your Sneak Attack.
 	Additionally, you can now make Charisma (Intimidation) checks using a Bonus Action. When making an Intimidation check against a creature that can hear but not see you, you gain Advantage on your check. On a success, the creature has the Frightened condition for 1 minute. A creature Frightened in this way can make a Wisdom saving throw against a DC equal to the result of your initial Charisma (Intimidation) check at the end of each of its turns, ending the condition on itself on a success. On a success, the creature becomes immune to this effect for the next 24 hours.
 
@@ -197,7 +197,7 @@ Source:	Zamanora: Ballad of the Witch p. 99 (Homebrew)</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Hammer and Anvil (Mountain Bandit (HB))</name>
+        <name>Hammer and Anvil (Mountain Bandit (HB))</name>
         <text>Whenever an enemy that is within your range or reach makes an Opportunity Attack against an ally, you can use your Reaction to seize the moment and make an Opportunity Attack with Advantage against that enemy, after the original attack resolves.
 	In addition, whenever you provoke an Opportunity Attack from an enemy, you artfully create an opening in their defenses, allowing each ally within reach of that enemy to use their Reaction to make an Opportunity Attack against it, after the original attack resolves.
 

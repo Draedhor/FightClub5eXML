@@ -15,7 +15,7 @@ Winter Walkers hone their craft in the bleak and frozen wilds of places like Ice
 Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 5</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Frigid Explorer (Winter Walker (UA))</name>
+        <name>Frigid Explorer (Winter Walker (UA))</name>
         <text>You gain the following benefits.
 
 	Frost Resistance. You have Resistance to Cold damage.
@@ -25,7 +25,7 @@ Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 5</text>
 Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 6</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Hunter'S Rime (Winter Walker (UA))</name>
+        <name>Hunter'S Rime (Winter Walker (UA))</name>
         <text>Ice rimes you and your prey, protecting you and slowing them. When you cast Hunter's Mark, you gain Temporary Hit Points equal to 1d10 plus your Ranger level.
 
 Additionally, while a creature is marked by your Hunter's Mark, it can't take the Disengage action.
@@ -33,7 +33,7 @@ Additionally, while a creature is marked by your Hunter's Mark, it can't take th
 Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 6</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Winter Walker Spells (Winter Walker (UA))</name>
+        <name>Winter Walker Spells (Winter Walker (UA))</name>
         <text>When you reach a Ranger level specified in the Winter Walker Spells table, you thereafter always have the listed spells prepared.
 
 Winter Walker Spell List:
@@ -49,7 +49,7 @@ Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 6</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Fortifying Soul (Winter Walker (UA))</name>
+        <name>Fortifying Soul (Winter Walker (UA))</name>
         <text>Your experience surviving harrowing environments allows you to bolster your allies in addition to yourself. When you finish a Short Rest, you can choose a number of creatures you can see equal to your Wisdom modifier (minimum of one). A chosen creature regains Hit Points equal to 1d10 plus your Ranger level and has Advantage on saving throws to avoid or end the Frightened condition for 1 hour.
 
 Once you use this feature, you can't use it again until you finish a Long Rest.
@@ -59,7 +59,7 @@ Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 6</text>
     </autolevel>
     <autolevel level="11">
       <feature optional="YES">
-        <name>Level 11: Chilling Retribution (Winter Walker (UA))</name>
+        <name>Chilling Retribution (Winter Walker (UA))</name>
         <text>When a creature hits you with an attack roll, you can take a Reaction to force the creature to make a Wisdom saving throw against your spell save DC. On a failed save, the target has the Frightened condition until the end of your next turn. While Frightened, a target's Speed is reduced to 0 feet.
 
 You can use this Reaction a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
@@ -69,7 +69,7 @@ Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 6</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Frozen Haunt (Winter Walker (UA))</name>
+        <name>Frozen Haunt (Winter Walker (UA))</name>
         <text>When you cast Hunter's Mark, you can adopt a ghostly, snowy form. This form lasts until the spell ends, and while you are in this form, you gain the following benefits. Once you use this feature, you can't use it again until you finish a Long Rest unless you expend a level 4+ spell slot (no action required).
 
 	Frozen Soul. You have Immunity to Cold damage. When you first adopt this form and at the start of each of your subsequent turns, each creature of your choice in a 15-foot Emanation originating from you takes 2d4 Cold damage.

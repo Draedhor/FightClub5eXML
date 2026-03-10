@@ -4,7 +4,7 @@
     <name>Cleric</name>
     <autolevel level="3">
       <feature optional="YES">
-        <name>Level 3: Veilmark Information (Zamanora)</name>
+        <name>Veilmark Information (Zamanora)</name>
         <text>It is said that trespassing upon the spirit world leaves a tangible brand on one's body and soul. Mortals should never peer beyond the Veil, lest the spirits take notice and mark them forevermore. Let a marked person into your home and you invite certain calamity. The lands of Zamanora are riddled with such fiction and cautionary tales that only work to paint those who are inquisitive in a bad light. Yet they are right about one thing; someone who interacts with the Hidden World too often is bound to be "marked".
 
 As characters engage in encounters with curses, spirits, and other supernatural phenomena, they accrue Veilmark. This attribute reflects their growing connection to the spirit realm and the transformative effects of these experiences on their physical and spiritual selves. Veilmarked is the term used by the Zamanori to describe individuals who have thus changed, and denotes characters who have accrued enough Veilmark to cross a threshold. If playing in a different setting, you may use the broader term Aura to describe the system.
@@ -132,7 +132,7 @@ Source:	Zamanora: Ballad of the Witch p. 120 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 66 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Hearth Domain Spells (Hearth Domain (HB))</name>
+        <name>Hearth Domain Spells (Hearth Domain (HB))</name>
         <text>Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Hearth Domain Spells table, you thereafter always have the listed spells prepared.
 
 Hearth Domain Spells:
@@ -145,7 +145,7 @@ Cleric Level | Spells
 Source:	Zamanora: Ballad of the Witch p. 66 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Embrace and Exile (Hearth Domain (HB))</name>
+        <name>Embrace and Exile (Hearth Domain (HB))</name>
         <text>Your magic embodies the warmth of your community or the coldness towards those who reject or harm it. When you cast a spell using a spell slot that targets a willing creature, that creature also regains 1d6 Hit Points. If you cast a spell using a spell slot that targets an unwilling or Hostile creature, and they are hit by the spell attack or fail their saving throw, you may deal 1d6 Psychic damage to them.
         This die increases to a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
 
@@ -157,7 +157,7 @@ Source:	Zamanora: Ballad of the Witch p. 66 (Homebrew)</text>
         <roll description="Psychic Damage" level="15">1d12</roll>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Hearth's Spark (Hearth Domain (HB))</name>
+        <name>Hearth's Spark (Hearth Domain (HB))</name>
         <text>As a Magic Action, you present your Holy Symbol and expend a use of your Channel Divinity to bolster the resolve and spirit of your community. Choose a number of creatures within 30 feet of yourself, up to a maximum of your Wisdom modifier (minimum of one creature). Each creature gains Temporary Hit Points equal to 2d6 plus your Cleric level. While these Temporary Hit Points last, a creature can take the Help Action as a Bonus Action.
 
 Source:	Zamanora: Ballad of the Witch p. 66 (Homebrew)</text>
@@ -166,7 +166,7 @@ Source:	Zamanora: Ballad of the Witch p. 66 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: United We Stand (Hearth Domain (HB))</name>
+        <name>United We Stand (Hearth Domain (HB))</name>
         <text>Even in dire circumstances, you inspire unity among your allies. As a Reaction, when you and one or more allies within 30 feet are required to make a saving throw, you can allow your allies to use your saving throw result in place of their own against the effect.
 	You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a Long Rest.
 
@@ -181,7 +181,7 @@ Source:	Zamanora: Ballad of the Witch p. 66 (Homebrew)</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Kindred's Hearth (Hearth Domain (HB))</name>
+        <name>Kindred's Hearth (Hearth Domain (HB))</name>
         <text>You can infuse an area with the radiant energy of unity and warmth shared around the hearth, creating a sanctum of protection. As a Magic Action, you can create a stationary Sphere with a 30-foot radius centered on you that lasts for 1 hour. Whenever an ally starts their turn in the area, they gain Temporary Hit Points equal to 1d6 plus your Wisdom modifier. In addition, they gain a bonus to all D20 Tests equal to the roll on the d6, until the start of their next turn.
 	You can use this feature once per day.
 
@@ -203,7 +203,7 @@ Source:	Zamanora: Ballad of the Witch p. 66 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 69 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Journey Domain Spells (Journey Domain (HB))</name>
+        <name>Journey Domain Spells (Journey Domain (HB))</name>
         <text>Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Journey Domain Spells table, you thereafter always have the listed spells prepared.
 
 Journey Domain Spells:
@@ -216,13 +216,13 @@ Cleric Level | Spells
 Source:	Zamanora: Ballad of the Witch p. 70 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Worldly Traveler (Journey Domain (HB))</name>
+        <name>Worldly Traveler (Journey Domain (HB))</name>
         <text>You gain proficiency with the Navigator's Tools and a Vehicle type of your choice. You also gain proficiency in the Animal Handling or Survival skill and one language of your choice. As your travels take you to faraway lands, your knowledge of the world and its people grows. You gain proficiency with an additional language of your choice at 8th and at 14th level that is spoken in places you have visited in the past.
 
 Source:	Zamanora: Ballad of the Witch p. 70 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Wanderer's Repose (Journey Domain (HB))</name>
+        <name>Wanderer's Repose (Journey Domain (HB))</name>
         <text>As a Magic Action, you etch your Holy Symbol upon any solid surface, such as a tree's bark, the face of a rock, or on the ground, and expend a use of your Channel Divinity to provide a place of respite for you and your allies. The area within 20 feet of the etched symbol is protected from the effects of extreme heat and extreme cold for the next 24 hours. In addition, upon finishing a Short or Long rest within the area, a creature gains the following benefits:
 
 	Short Rest. The creature gains an amount of Temporary Hit Points equal to your level plus your Wisdom modifier.
@@ -236,13 +236,13 @@ Source:	Zamanora: Ballad of the Witch p. 70 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Tailwind (Journey Domain (HB))</name>
+        <name>Tailwind (Journey Domain (HB))</name>
         <text>Your spells breathe favorable winds towards your allies. When you cast a spell using a spell slot that targets willing creatures, each affected creature's movement does not provoke Opportunity Attacks and it is unaffected by Difficult Terrain until the end of its next turn.
 
 Source:	Zamanora: Ballad of the Witch p. 70 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 6: Vardoval's Passage (Journey Domain (HB))</name>
+        <name>Vardoval's Passage (Journey Domain (HB))</name>
         <text>Divine boons are conferred to your fellow travelers by your mere presence, carrying them forward over swift winds and hiding them from the gaze of assailants. While you are conscious, you and each friendly creature within 30 feet of you gain the following benefits, based on the time of day:
 
 	Dawn until Dusk. Your travel pace is doubled and you do not have Disadvantage on checks imposed when traveling at a Fast pace. Additionally, you add your Wisdom modifier to your Initiative rolls.
@@ -254,7 +254,7 @@ Source:	Zamanora: Ballad of the Witch p. 70 (Homebrew)</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Legacy of the Wayfarer (Journey Domain (HB))</name>
+        <name>Legacy of the Wayfarer (Journey Domain (HB))</name>
         <text>Every voyage is wondrous in its own way, precisely because it must eventually end. Once per day, you can cast the Word of Recall spell without expending a spell slot, using the location most recently affected by your Wanderer's Repose feature as the spell's designated sanctuary. Moreover, while a willing creature is under the effects of a spell cast by you, it has the benefits of your Tailwind feature for the spell's duration.
 
 Source:	Zamanora: Ballad of the Witch p. 71 (Homebrew)</text>

@@ -12,7 +12,7 @@
 Source:	Xanathar's Guide to Everything p. 9</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Ancestral Protectors (Path of the Ancestral Guardian (Legacy))</name>
+        <name>Ancestral Protectors (Path of the Ancestral Guardian (Legacy))</name>
         <text>Starting when you choose this path at 3rd level, spectral warriors appear when you enter your rage. While you're raging, the first creature you hit with an attack on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has disadvantage on any attack roll that isn't against you, and when the target hits a creature other than you with an attack, that creature has resistance to the damage dealt by the attack. The effect on the target ends early if your rage ends.
 
 Source:	Xanathar's Guide to Everything p. 10</text>
@@ -20,7 +20,7 @@ Source:	Xanathar's Guide to Everything p. 10</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Spirit Shield (Path of the Ancestral Guardian (Legacy))</name>
+        <name>Spirit Shield (Path of the Ancestral Guardian (Legacy))</name>
         <text>Beginning at 6th level, the guardian spirits that aid you can provide supernatural protection to those you defend. If you are raging and another creature you can see within 30 feet of you takes damage, you can use your reaction to reduce that damage by 2d6.
 	When you reach certain levels in this class, you can reduce the damage by more: by 3d6 at 10th level and by 4d6 at 14th level.
 
@@ -29,7 +29,7 @@ Source:	Xanathar's Guide to Everything p. 9</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Consult the Spirits (Path of the Ancestral Guardian (Legacy))</name>
+        <name>Consult the Spirits (Path of the Ancestral Guardian (Legacy))</name>
         <text>At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the augury or clairvoyance spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of clairvoyance invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
 	After you cast either spell in this way, you can't use this feature again until you finish a short or long rest.
 
@@ -44,7 +44,7 @@ Source:	Xanathar's Guide to Everything p. 10</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Vengeful Ancestors (Path of the Ancestral Guardian (Legacy))</name>
+        <name>Vengeful Ancestors (Path of the Ancestral Guardian (Legacy))</name>
         <text>At 14th level, your ancestral spirits grow powerful enough to retaliate. When you use your Spirit Shield to reduce the damage of an attack, the attacker takes an amount of force damage equal to the damage that your Spirit Shield prevents.
 
 Source:	Xanathar's Guide to Everything p. 9</text>
@@ -60,7 +60,7 @@ Source:	Xanathar's Guide to Everything p. 9</text>
 Source:	Xanathar's Guide to Everything p. 10</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Storm Aura (Path of the Storm Herald (Legacy))</name>
+        <name>Storm Aura (Path of the Storm Herald (Legacy))</name>
         <text>Starting at 3rd level, you emanate a stormy, magical aura while you rage. The aura extends 10 feet from you in every direction, but not through total cover.
 	Your aura has an effect that activates when you enter your rage, and you can activate the effect again on each of your turns as a bonus action. Choose desert, sea, or tundra. Your aura's effect depends on that chosen environment, as detailed below. You can change your environment choice whenever you gain a level in this class.
 	If your aura's effects require a saving throw, the DC equals 8 + your proficiency bonus + your Constitution modifier.
@@ -80,7 +80,7 @@ Source:	Xanathar's Guide to Everything p. 10</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Storm Soul (Path of the Storm Herald (Legacy))</name>
+        <name>Storm Soul (Path of the Storm Herald (Legacy))</name>
         <text>At 6th level, the storm grants you benefits even when your aura isn't active. The benefits are based on the environment you chose for your Storm Aura.
 
 	Desert. You gain resistance to fire damage, and you don't suffer the effects of extreme heat, as described in the Dungeon Master's Guide. Moreover, as an action, you can touch a flammable object that isn't being worn or carried by anyone else and set it on fire.
@@ -94,7 +94,7 @@ Source:	Xanathar's Guide to Everything p. 10</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Shielding Storm (Path of the Storm Herald (Legacy))</name>
+        <name>Shielding Storm (Path of the Storm Herald (Legacy))</name>
         <text>At 10th level, you learn to use your mastery of the storm to protect others. Each creature of your choice has the damage resistance you gained from the Storm Soul feature while the creature is in your Storm Aura.
 
 Source:	Xanathar's Guide to Everything p. 10</text>
@@ -102,7 +102,7 @@ Source:	Xanathar's Guide to Everything p. 10</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Raging Storm (Path of the Storm Herald (Legacy))</name>
+        <name>Raging Storm (Path of the Storm Herald (Legacy))</name>
         <text>At 14th level, the power of the storm you channel grows mightier, lashing out at your foes. The effect is based on the environment you chose for your Storm Aura.
 
 	Desert. Immediately after a creature in your aura hits you with an attack, you can use your reaction to force that creature to make a Dexterity saving throw. On a failed save, the creature takes fire damage equal to half your barbarian level.
@@ -124,13 +124,13 @@ Source:	Xanathar's Guide to Everything p. 10</text>
 Source:	Xanathar's Guide to Everything p. 11</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Divine Fury (Path of the Zealot (Legacy))</name>
+        <name>Divine Fury (Path of the Zealot (Legacy))</name>
         <text>Starting when you choose this path at 3rd level, you can channel divine fury into your weapon strikes. While you're raging, the first creature you hit on each of your turns with a weapon attack takes extra damage equal to 1d6 + half your barbarian level. The extra damage is necrotic or radiant; you choose the type of damage when you gain this feature.
 
 Source:	Xanathar's Guide to Everything p. 11</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Warrior of the Gods (Path of the Zealot (Legacy))</name>
+        <name>Warrior of the Gods (Path of the Zealot (Legacy))</name>
         <text>At 3rd level, your soul is marked for endless battle. If a spell, such as raise dead, has the sole effect of restoring you to life (but not undeath), the caster doesn't need material components to cast the spell on you.
 
 Source:	Xanathar's Guide to Everything p. 11</text>
@@ -138,7 +138,7 @@ Source:	Xanathar's Guide to Everything p. 11</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Fanatical Focus (Path of the Zealot (Legacy))</name>
+        <name>Fanatical Focus (Path of the Zealot (Legacy))</name>
         <text>Starting at 6th level, the divine power that fuels your rage can protect you. If you fail a saving throw while you're raging, you can reroll it, and you must use the new roll. You can use this ability only once per rage.
 
 Source:	Xanathar's Guide to Everything p. 11</text>
@@ -146,7 +146,7 @@ Source:	Xanathar's Guide to Everything p. 11</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Zealous Presence (Path of the Zealot (Legacy))</name>
+        <name>Zealous Presence (Path of the Zealot (Legacy))</name>
         <text>At 10th level, you learn to channel divine power to inspire zealotry in others. As a bonus action, you unleash a battle cry infused with divine energy. Up to ten other creatures of your choice within 60 feet of you that can hear you gain advantage on attack rolls and saving throws until the start of your next turn.
 	Once you use this feature, you can't use it again until you finish a long rest.
 
@@ -161,7 +161,7 @@ Source:	Xanathar's Guide to Everything p. 11</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Rage beyond Death (Path of the Zealot (Legacy))</name>
+        <name>Rage beyond Death (Path of the Zealot (Legacy))</name>
         <text>Beginning at 14th level, the divine power that fuels your rage allows you to shrug off fatal blows.
 	While you're raging, having 0 hit points doesn't knock you unconscious. You still must make death saving throws, and you suffer the normal effects of taking damage while at 0 hit points. However, if you would die due to failing death saving throws, you don't die until your rage ends, and you die then only if you still have 0 hit points.
 

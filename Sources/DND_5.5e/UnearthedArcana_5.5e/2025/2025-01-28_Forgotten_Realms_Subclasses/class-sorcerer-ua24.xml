@@ -15,7 +15,7 @@ Wielders of spellfire tend to be adventurous souls with penchants for wandering.
 Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 7</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Spellfire Burst (Spellfire Sorcery (UA))</name>
+        <name>Spellfire Burst (Spellfire Sorcery (UA))</name>
         <text>When you spend at least 1 Sorcery Point as part of the Magic action or a Bonus Action on your turn, you can unleash one of the following magical effects of your choice. You can do so only once per turn.
 
 	Bolstering Flames. You or one creature you can see within 30 feet of yourself gains Temporary Hit Points equal to 1d4 plus your Charisma modifier.
@@ -25,7 +25,7 @@ Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 7</text>
 Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 7</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Spellfire Spells (Spellfire Sorcery (UA))</name>
+        <name>Spellfire Spells (Spellfire Sorcery (UA))</name>
         <text>When you reach a Sorcerer level specified in the Spellfire Spells table, you thereafter always have the listed spells prepared.
 
 Spellfire Spell List:
@@ -40,7 +40,7 @@ Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 8</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Absorb Spells (Spellfire Sorcery (UA))</name>
+        <name>Absorb Spells (Spellfire Sorcery (UA))</name>
         <text>You always have Counterspell prepared.
 
 Additionally, whenever a target fails the saving throw against a Counterspell you cast, you regain 1d4 Sorcery Points.
@@ -50,7 +50,7 @@ Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 8</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Honed Spellfire (Spellfire Sorcery (UA))</name>
+        <name>Honed Spellfire (Spellfire Sorcery (UA))</name>
         <text>Your Spellfire Burst improves. You add your Sorcerer level to the Temporary Hit Points gained from Bolstering Flames, and the 1d6 of Radiant Fire increases to 3d6.
 
 Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 8</text>
@@ -58,7 +58,7 @@ Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 8</text>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">
-        <name>Level 18: Crown of Spellfire (Spellfire Sorcery (UA))</name>
+        <name>Crown of Spellfire (Spellfire Sorcery (UA))</name>
         <text>As a Bonus Action, you gain the following benefits for 1 minute. Once you use this Bonus Action, you can't use it again until you finish a Long Rest unless you spend 7 Sorcery Points (no action required) to restore your use of it.
 
 	Burning Life Force. Once per turn when you are hit by an attack roll, you can expend a number of Hit Dice, up to a maximum equal to your Charisma modifier (minimum of one). Roll the expended dice and reduce the amount of damage from that attack equal to the total rolled plus your Sorcerer level.

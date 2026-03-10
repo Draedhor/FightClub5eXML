@@ -11,21 +11,21 @@
 Source:	Mystic Subclasses p. 4 (Unearthed Arcana)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Empower Sneak Attack (Magic Stealer (UA))</name>
+        <name>Empower Sneak Attack (Magic Stealer (UA))</name>
         <text>Immediately after a creature you can see within 30 feet of you casts a level 1+ spell, you can take a Reaction to absorb magical energy from the spell. When you do so, until the end of your next turn, the next time you hit with your Sneak Attack you deal extra Force damage. To determine the extra damage, roll a number of d6s equal to the spell's level, and add them together.
 	You can take this Reaction a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 Source:	Mystic Subclasses p. 4 (Unearthed Arcana)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Drain Magic (Magic Stealer (UA))</name>
+        <name>Drain Magic (Magic Stealer (UA))</name>
         <text>You can drain power from ongoing spells to recharge your allies' magic. As a Magic Action, you can touch a willing creature and end one ongoing level 1 or level 2 spell on it; the creature immediately recovers one expended spell slot of level 2 or lower (the target's choice).
 	Once you use this feature, you can't do so again until you finish a Short or Long Rest.
 
 Source:	Mystic Subclasses p. 4 (Unearthed Arcana)</text>
       </feature>
       <counter>
-        <name>Level 3: Empower Sneak Attack</name>
+        <name>Empower Sneak Attack</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Magic Stealer (UA)</subclass>
@@ -33,7 +33,7 @@ Source:	Mystic Subclasses p. 4 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="9">
       <feature optional="YES">
-        <name>Level 9: Magical Sabotage (Magic Stealer (UA))</name>
+        <name>Magical Sabotage (Magic Stealer (UA))</name>
         <text>You gain the following Cunning Strike options.
 
 Spell Susceptibility (Cost: 2d6). The target has Disadvantage on the next saving throw it makes against a spell until the start of your next turn.
@@ -50,13 +50,13 @@ Source:	Mystic Subclasses p. 4 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="13">
       <feature optional="YES">
-        <name>Level 13: Occult Shroud (Magic Stealer (UA))</name>
+        <name>Occult Shroud (Magic Stealer (UA))</name>
         <text>Whenever you finish a Long Rest, you can cast the Nondetection spell, using Intelligence as your spellcasting ability. When you do so, you can target only yourself, and the duration increases to 24 hours.
 
 Source:	Mystic Subclasses p. 4 (Unearthed Arcana)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 13: Improved Drain Magic (Magic Stealer (UA))</name>
+        <name>Improved Drain Magic (Magic Stealer (UA))</name>
         <text>You can now use Drain Magic as a Bonus Action. In addition, when you use Drain Magic, you can end one ongoing level 1, level 2, or level 3 spell on the target, and the target recovers one expended spell slot of level 3 or lower (the target's choice).
 
 Source:	Mystic Subclasses p. 4 (Unearthed Arcana)</text>
@@ -64,7 +64,7 @@ Source:	Mystic Subclasses p. 4 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Eldritch Implosion (Magic Stealer (UA))</name>
+        <name>Eldritch Implosion (Magic Stealer (UA))</name>
         <text>When you use Empower Sneak Attack, you can force the target to make a Constitution saving throw DC 8 plus your Dexterity modifier and Proficiency Bonus). On a failed save, the spell dissipates with no effect, and the target has the Stunned condition until the start of its next turn.
 
 Source:	Mystic Subclasses p. 4 (Unearthed Arcana)</text>

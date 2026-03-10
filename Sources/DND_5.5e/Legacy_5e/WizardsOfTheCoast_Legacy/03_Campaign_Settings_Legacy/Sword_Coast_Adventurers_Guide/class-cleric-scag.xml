@@ -23,14 +23,14 @@ Cleric Level | Spells
 Source:	Sword Coast Adventurer's Guide p. 125</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Arcane Initiate (Arcana Domain (Legacy))</name>
+        <name>Arcane Initiate (Arcana Domain (Legacy))</name>
         <text>When you choose this domain at 3rd level, you gain proficiency in the Arcana skill, and you gain two cantrips of your choice from the wizard spell list. For you, these cantrips count as cleric cantrips.
 
 Source:	Sword Coast Adventurer's Guide p. 125</text>
         <proficiency>Arcana</proficiency>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Channel Divinity: Arcane Abjuration (Arcana Domain (Legacy))</name>
+        <name>Channel Divinity: Arcane Abjuration (Arcana Domain (Legacy))</name>
         <text>Starting at 3rd level, you can use your Channel Divinity to abjure otherworldly creatures.
 	As an action, you present your holy symbol, and one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you must make a Wisdom saving throw, provided that the creature can see or hear you. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 	A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, then the creature can use the Dodge action.
@@ -49,7 +49,7 @@ Source:	Sword Coast Adventurer's Guide p. 125</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Spell Breaker (Arcana Domain (Legacy))</name>
+        <name>Spell Breaker (Arcana Domain (Legacy))</name>
         <text>Starting at 6th level, when you restore hit points to an ally with a spell of 1st level or higher, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the level of the spell slot you use to cast the healing spell.
 
 Source:	Sword Coast Adventurer's Guide p. 126</text>
@@ -57,7 +57,7 @@ Source:	Sword Coast Adventurer's Guide p. 126</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Arcane Mastery (Arcana Domain (Legacy))</name>
+        <name>Arcane Mastery (Arcana Domain (Legacy))</name>
         <text>At 17th level, you choose four spells from the Wizard spell list, one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of domain spells. Like your other domain spells, they are always prepared and count as cleric spells for you.
 
 Source:	Sword Coast Adventurer's Guide p. 126</text>

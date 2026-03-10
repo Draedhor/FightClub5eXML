@@ -4,7 +4,7 @@
     <name>Monk</name>
     <autolevel level="3">
       <feature optional="YES">
-        <name>Level 3: Veilmark Information (Zamanora)</name>
+        <name>Veilmark Information (Zamanora)</name>
         <text>It is said that trespassing upon the spirit world leaves a tangible brand on one's body and soul. Mortals should never peer beyond the Veil, lest the spirits take notice and mark them forevermore. Let a marked person into your home and you invite certain calamity. The lands of Zamanora are riddled with such fiction and cautionary tales that only work to paint those who are inquisitive in a bad light. Yet they are right about one thing; someone who interacts with the Hidden World too often is bound to be "marked".
 
 As characters engage in encounters with curses, spirits, and other supernatural phenomena, they accrue Veilmark. This attribute reflects their growing connection to the spirit realm and the transformative effects of these experiences on their physical and spiritual selves. Veilmarked is the term used by the Zamanori to describe individuals who have thus changed, and denotes characters who have accrued enough Veilmark to cross a threshold. If playing in a different setting, you may use the broader term Aura to describe the system.
@@ -138,14 +138,14 @@ Source:	Zamanora: Ballad of the Witch p. 120 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 84 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Ritual Vestments (Kuker Warrior (HB))</name>
+        <name>Ritual Vestments (Kuker Warrior (HB))</name>
         <text>You gain proficiency with Leatherworker's Tools. If you already have this proficiency, you gain proficiency with one other type of Artisan's Tools of your choice.
 	You can use Leatherworker's Tools to craft a Kuker attire over the course of a Long Rest. This is a ceremonial outfit of carved masks, layered furs, and jingling charms, which grants your features additional effects. If you are struck by a Critical Hit while wearing it, the attire becomes damaged and stops granting its effects until you repair it over the course of a Short or Long Rest.
 
 Source:	Zamanora: Ballad of the Witch p. 85 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Dance of the Kukeri (Kuker Warrior (HB))</name>
+        <name>Dance of the Kukeri (Kuker Warrior (HB))</name>
         <text>You know the Spirit Warding Ceremony (see Chapter III: Ceremonies). Additionally, you can use a Bonus Action to begin a wild dance that lasts for the next minute. In doing so, you enter a state of trance that allows you to become more sensitive to the influence of the spiritual realm, as well as appear fearsome to its denizens. You can choose to stop dancing at any point during your turn without spending an Action. While in this state, you gain the following benefits:
 
 	Guided Strikes. Your Unarmed Strikes deal extra damage equal to your Wisdom modifier (minimum of +1).
@@ -159,7 +159,7 @@ Source:	Zamanora: Ballad of the Witch p. 85 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Bane of the Hidden World (Kuker Warrior (HB))</name>
+        <name>Bane of the Hidden World (Kuker Warrior (HB))</name>
         <text>Your consciousness of the Hidden World has honed your senses to an extraordinary magnitude. Whenever a creature within your reach misses you with an attack roll while you are under the effects of your Dance of the Kukeri feature, or fails its Wisdom saving throw against the effects of Sanctuary warding you due to it, you can use your Reaction to make a melee attack against it.
 	In addition, when a creature that has the Spirit subtype fails its saving throw against your Stunning Strike while you are wearing the traditional Kuker attire, you can now spend 1 additional Focus point to cause it to also suffer the effects of the Fear spell.
 
@@ -168,7 +168,7 @@ Source:	Zamanora: Ballad of the Witch p. 85 (Homebrew)</text>
     </autolevel>
     <autolevel level="11">
       <feature optional="YES">
-        <name>Level 11: Warden of the Real (Kuker Warrior (HB))</name>
+        <name>Warden of the Real (Kuker Warrior (HB))</name>
         <text>You grow capable of traversing the Veil in defiance of the boundaries imposed by the material world. When you use Step of the Wind, you can choose to gain the effects of the Etherealness spell until the start of your next turn.
 	In addition, when you hit another creature with a melee attack while wearing the traditional Kuker attire, you can spend 1 Focus point to attempt to exorcize the influence of spiritual entities from it, or banish it from your world. The target must succeed on a Constitution saving throw. On a failed save, the creature suffers the Break Enchantment or Dismissal effects, as presented by the Dispel Evil and Good spell.
 
@@ -177,7 +177,7 @@ Source:	Zamanora: Ballad of the Witch p. 85 (Homebrew)</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Symbol of Menace (Kuker Warrior (HB))</name>
+        <name>Symbol of Menace (Kuker Warrior (HB))</name>
         <text>You've learned to harness the lingering essence of the Hidden World to replenish your Focus. Whenever you deal at least 10 damage to a Spirit through a melee attack, you regain 1 expended Focus point.
 	In addition, while your traditional Kuker attire is damaged or you are not wearing it, you can use a Magic Action and spend 1 Focus point to cause an incorporeal version of it to manifest on you for the next minute. The incorporeal version yields you the benefits of wearing the normal Kuker attire, and cannot be damaged.
 

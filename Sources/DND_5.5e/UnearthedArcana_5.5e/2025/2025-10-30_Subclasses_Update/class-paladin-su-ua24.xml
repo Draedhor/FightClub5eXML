@@ -19,20 +19,20 @@ The power of a Paladin's oath is so great that it holds a distorted power even w
 Source:	Subclasses Update p. 5 (Unearthed Arcana)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Conjure Undead (Oathbreaker (UA))</name>
+        <name>Conjure Undead (Oathbreaker (UA))</name>
         <text>As a Bonus Action, you can expend one use of your Channel Divinity to summon a number of Undead equal to half your Charisma modifier (round up; minimum of one Undead summoned). Each Undead appears in an unoccupied space you can see within 30 feet of you and is a type of your choice: Skeleton or Zombie (see appendix B of the Player's Handbook [2024] for the stat blocks). The Undead are under your control for 1 minute, after which they dissolve into ash.
 	Each Undead is an ally to you and your allies. In combat, the Undead shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
 
 Source:	Subclasses Update p. 5 (Unearthed Arcana)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Dreadful Aspect (Oathbreaker (UA))</name>
+        <name>Dreadful Aspect (Oathbreaker (UA))</name>
         <text>Immediately after you cast Divine Smite, you can expend one use of your Channel Divinity to channel a burst of magical menace. Each creature of your choice in a 30-foot Emanation originating from you must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute. A Frightened creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 Source:	Subclasses Update p. 6 (Unearthed Arcana)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Oathbreaker Spells (Oathbreaker (UA))</name>
+        <name>Oathbreaker Spells (Oathbreaker (UA))</name>
         <text>The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oathbreaker Spells table, you thereafter always have the listed spells prepared.
 
 Oathbreaker Spells:
@@ -46,19 +46,19 @@ Paladin Level | Spells
 Source:	Subclasses Update p. 6 (Unearthed Arcana)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 7: Aura of Hate (Oathbreaker (UA))</name>
+        <name>Aura of Hate (Oathbreaker (UA))</name>
         <text>When you, as well as any Fiend or Undead in your Aura of Protection that is an ally, hits a creature with a melee attack, that attack deals extra Necrotic damage equal to your Charisma modifier.
 
 Source:	Subclasses Update p. 6 (Unearthed Arcana)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 15: Supernatural Resistance (Oathbreaker (UA))</name>
+        <name>Supernatural Resistance (Oathbreaker (UA))</name>
         <text>You gain Resistance to Bludgeoning, Piercing, and Slashing damage.
 
 Source:	Subclasses Update p. 6 (Unearthed Arcana)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 20: Dread Lord (Oathbreaker (UA))</name>
+        <name>Dread Lord (Oathbreaker (UA))</name>
         <text>As a Bonus Action, you can imbue your Aura of Protection with unholy gloom, granting the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 	Darkness. Magical Darkness fills your Aura of Protection. You and allies in your Aura of Protection can see within this magical Darkness.

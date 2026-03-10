@@ -11,13 +11,13 @@
 Source:	Tasha's Cauldron of Everything p. 44</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Bonus Proficiencies (Rune Knight (Legacy))</name>
+        <name>Bonus Proficiencies (Rune Knight (Legacy))</name>
         <text>You gain proficiency with smith's tools, and you learn to speak, read, and write Giant.
 
 Source:	Tasha's Cauldron of Everything p. 44</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Giant's Might (Rune Knight (Legacy))</name>
+        <name>Giant's Might (Rune Knight (Legacy))</name>
         <text>You have learned how to imbue yourself with the might of giants. As a bonus action, you magically gain the following benefits, which last for 1 minute:
 
 	• If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn't change.
@@ -31,7 +31,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 Source:	Tasha's Cauldron of Everything p. 44</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Rune Carver (Rune Knight (Legacy))</name>
+        <name>Rune Carver (Rune Knight (Legacy))</name>
         <text>You can use magic runes to enhance your gear. You learn two runes of your choice, from among the runes described below, and each time you gain a level in this class, you can replace one rune you know with a different one from this feature. When you reach certain levels in this class, you learn additional runes, as shown in the Runes Known table.
 
 Runes Known:
@@ -81,7 +81,7 @@ Source:	Tasha's Cauldron of Everything p. 44</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Runic Shield (Rune Knight (Legacy))</name>
+        <name>Runic Shield (Rune Knight (Legacy))</name>
         <text>You learn to invoke your rune magic to protect your allies. When another creature you can see within 60 feet of you is hit by an attack roll, you can use your reaction to force the attacker to reroll the d20 and use the new roll.
 	You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -110,7 +110,7 @@ Source:	Tasha's Cauldron of Everything p. 44</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Great Stature (Rune Knight (Legacy))</name>
+        <name>Great Stature (Rune Knight (Legacy))</name>
         <text>The magic of your runes permanently alters you. When you gain this feature, roll 3d4. You grow a number of inches in height equal to the roll.
 	Moreover, the extra damage you deal with your Giant's Might feature increases to 1d8.
 
@@ -133,7 +133,7 @@ Source:	Tasha's Cauldron of Everything p. 44</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Master of Runes (Rune Knight (Legacy))</name>
+        <name>Master of Runes (Rune Knight (Legacy))</name>
         <text>You can invoke each rune you know from your Rune Carver feature twice, rather than once, and you regain all expended uses when you finish a short or long rest.
 
 Source:	Tasha's Cauldron of Everything p. 44</text>
@@ -155,7 +155,7 @@ Source:	Tasha's Cauldron of Everything p. 44</text>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">
-        <name>Level 18: Runic Juggernaut (Rune Knight (Legacy))</name>
+        <name>Runic Juggernaut (Rune Knight (Legacy))</name>
         <text>You learn how to amplify your rune-powered transformation. As a result, the extra damage you deal with the Giant's Might feature increases to 1d10. Moreover, when you use that feature, your size can increase to Huge, and while you are that size, your reach increases by 5 feet.
 
 Source:	Tasha's Cauldron of Everything p. 44</text>

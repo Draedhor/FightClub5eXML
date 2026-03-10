@@ -13,7 +13,7 @@ Druids of the Circle of Preservation work tirelessly to conserve natural resourc
 Source:	UA25-ApocalypticSubclasses p. 2</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Circle of Preservation Spells (Circle of Preservation (UA))</name>
+        <name>Circle of Preservation Spells (Circle of Preservation (UA))</name>
         <text>When you reach a Druid level specified in the Circle of Preservation Spells table, you thereafter always have the listed spells prepared.
 
 Circle of Preservation Spells:
@@ -26,7 +26,7 @@ Druid Level | Spells
 Source:	UA25-ApocalypticSubclasses p. 2</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Preserved Land (Circle of Preservation (UA))</name>
+        <name>Preserved Land (Circle of Preservation (UA))</name>
         <text>As a Bonus Action, you can expend a use of your Wild Shape to fill a 15-foot Cube originating from a point on the ground you can see within 120 feet of yourself with revitalizing energy. The effect lasts for 1 minute or until you have the Incapacitated condition, are more than 120 feet away from the Cube, or die.
 	Whenever a creature (including you) ends its turn in the Cube, you can grant the creature one of the following benefits:
 
@@ -40,7 +40,7 @@ In addition, nonmagical vegetation native to the region sprouts on ground within
 Source:	UA25-ApocalypticSubclasses p. 2</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Student of Preservation (Circle of Preservation (UA))</name>
+        <name>Student of Preservation (Circle of Preservation (UA))</name>
         <text>Your studies have improved your understanding of the order and resilience of nature, granting you the following benefits.
 
 	Frugal Casting. When you cast a Druid spell, you can cast it without Material components, except Material components that are consumed by the spell or that have a cost specified in the spell.
@@ -53,7 +53,7 @@ Source:	UA25-ApocalypticSubclasses p. 2</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Improved Preservation (Circle of Preservation (UA))</name>
+        <name>Improved Preservation (Circle of Preservation (UA))</name>
         <text>Your Preserved Land becomes more powerful in the following ways.
 
 	Fortify Protectors. While inside the Cube created by your Preserved Land, you and your allies gain a bonus to Constitution saving throws equal to your Wisdom modifier (minimum of + 1).
@@ -66,7 +66,7 @@ Source:	UA25-ApocalypticSubclasses p. 2</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Facilitated Restoration (Circle of Preservation (UA))</name>
+        <name>Facilitated Restoration (Circle of Preservation (UA))</name>
         <text>You can cast Lesser Restoration or Greater Restoration without expending a spell slot or requiring spell components. You can use this feature to cast a spell in this way a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 Source:	UA25-ApocalypticSubclasses p. 2</text>
@@ -74,7 +74,7 @@ Source:	UA25-ApocalypticSubclasses p. 2</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Sacrosanct Land (Circle of Preservation (UA))</name>
+        <name>Sacrosanct Land (Circle of Preservation (UA))</name>
         <text>The size of the Cube created by your Preserved Land increases to a 30-foot Cube.
 	In addition, when a creature you can see in the area of your Preserved Land is hit by an attack roll, you can take a Reaction to halve that attack's damage against the creature.
 

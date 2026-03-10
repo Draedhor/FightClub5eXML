@@ -12,7 +12,7 @@
 Source:	Tasha's Cauldron of Everything p. 28</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Mote of Potential (College of Creation (Legacy))</name>
+        <name>Mote of Potential (College of Creation (Legacy))</name>
         <text>At 3rd level, whenever you give a creature a Bardic Inspiration die, you can utter a note from the Song of Creation to create a Tiny mote of potential, which orbits within 5 feet of that creature. The mote is intangible and invulnerable, and it lasts until the Bardic Inspiration die is lost. The mote looks like a musical note, a star, a flower, or another symbol of art or life that you choose.
 	When the creature uses the Bardic Inspiration die, the mote provides an additional effect based on whether the die benefits an ability check, an attack roll, or a saving throw, as detailed below:
 
@@ -25,7 +25,7 @@ Source:	Tasha's Cauldron of Everything p. 28</text>
 Source:	Tasha's Cauldron of Everything p. 28</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Performance of Creation (College of Creation (Legacy))</name>
+        <name>Performance of Creation (College of Creation (Legacy))</name>
         <text>Also at 3rd level, As an action, you can channel the magic of the Song of Creation to create one nonmagical item of your choice in an unoccupied space within 10 feet of you. The item must appear on a surface or in a liquid that can support it. The gp value of the item can't be more than 20 times your bard level, and the item must be Medium or smaller. The item glimmers softly, and a creature can faintly hear music when touching it. The created item disappears after a number of hours equal to your proficiency bonus. For examples of items you can create, see the equipment chapter of the Player's Handbook.
 	Once you create an item with this feature, you can't do so again until you finish a long rest, unless you expend a spell slot of 2nd level or higher to use this feature again. You can have only one item created by this feature at a time; if you use this action and already have an item from this feature, the first one immediately vanishes.
 	The size of the item you can create with this feature increases by one size category when you reach 6th level (Large) and 14th level (Huge).
@@ -35,7 +35,7 @@ Source:	Tasha's Cauldron of Everything p. 28</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Animating Performance (College of Creation (Legacy))</name>
+        <name>Animating Performance (College of Creation (Legacy))</name>
         <text>At 6th level, as an action, you can animate one Large or smaller nonmagical item within 30 feet of you that isn't being worn or carried. The animate item uses the Dancing Item stat block, which uses your proficiency bonus (PB). The item is friendly to you and your companions and obeys your commands. It lives for 1 hour, until it is reduced to 0 hit points, or until you die.
 	In combat, the item shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the item can take any action of its choice, not just Dodge.
 	When you use your Bardic Inspiration feature, you can command the item as part of the same bonus action you use for Bardic Inspiration.
@@ -46,7 +46,7 @@ Source:	Tasha's Cauldron of Everything p. 29</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Creative Crescendo (College of Creation (Legacy))</name>
+        <name>Creative Crescendo (College of Creation (Legacy))</name>
         <text>Starting at 14th level, When you use your Performance of Creation feature, you can create more than one item at once. The number of items equals your Charisma modifier (minimum of two items). If you create an item that would exceed that number, you choose which of the previously created items disappears. Only one of these items can be of the maximum size you can create; the rest must be Small or Tiny.
 	You are no longer limited by gp value when creating items with Performance of Creation.
 
@@ -63,14 +63,14 @@ Source:	Tasha's Cauldron of Everything p. 29,
 		Mythic Odysseys of Theros p. 28</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Silver Tongue (College of Eloquence (Legacy))</name>
+        <name>Silver Tongue (College of Eloquence (Legacy))</name>
         <text>You are a master at saying the right thing at the right time. When you make a Charisma (Persuasion) or Charisma (Deception) check, you can treat a d20 roll of 9 or lower as a 10.
 
 Source:	Tasha's Cauldron of Everything p. 29,
 		Mythic Odysseys of Theros p. 28</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Unsettling Words (College of Eloquence (Legacy))</name>
+        <name>Unsettling Words (College of Eloquence (Legacy))</name>
         <text>You can spin words laced with magic that unsettle a creature and cause it to doubt itself. As a bonus action, you can expend one use of your Bardic Inspiration and choose one creature you can see within 60 feet of you. Roll the Bardic Inspiration die. The creature must subtract the number rolled from the next saving throw it makes before the start of your next turn.
 
 Source:	Tasha's Cauldron of Everything p. 29,
@@ -79,14 +79,14 @@ Source:	Tasha's Cauldron of Everything p. 29,
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Unfailing Inspiration (College of Eloquence (Legacy))</name>
+        <name>Unfailing Inspiration (College of Eloquence (Legacy))</name>
         <text>Your inspiring words are so persuasive that others feel driven to succeed. When a creature adds one of your Bardic Inspiration dice to its ability check, attack roll, or saving throw and the roll fails, the creature can keep the Bardic Inspiration die.
 
 Source:	Tasha's Cauldron of Everything p. 29,
 		Mythic Odysseys of Theros p. 28</text>
       </feature>
       <feature optional="YES">
-        <name>Level 6: Universal Speech (College of Eloquence (Legacy))</name>
+        <name>Universal Speech (College of Eloquence (Legacy))</name>
         <text>You have gained the ability to make your speech intelligible to any creature. As an action, choose one or more creatures within 60 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). The chosen creatures can magically understand you, regardless of the language you speak, for 1 hour.
 	Once you use this feature, you can't use it again until you finish a long rest, unless you expend a spell slot to use it again.
 
@@ -96,7 +96,7 @@ Source:	Tasha's Cauldron of Everything p. 29,
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Infectious Inspiration (College of Eloquence (Legacy))</name>
+        <name>Infectious Inspiration (College of Eloquence (Legacy))</name>
         <text>When you successfully inspire someone, the power of your eloquence can now spread to someone else. When a creature within 60 feet of you adds one of your Bardic Inspiration dice to its ability check, attack roll, or saving throw and the roll succeeds, you can use your reaction to encourage a different creature (other than yourself) that can hear you within 60 feet of you, giving it a Bardic Inspiration die without expending any of your Bardic Inspiration uses.
 	You can use this reaction a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 

@@ -13,7 +13,7 @@ Gladiators are just as much performers as they are warriors. Whether brawling in
 Source:	UA25-ApocalypticSubclasses p. 3</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Brutality (Gladiator (UA))</name>
+        <name>Brutality (Gladiator (UA))</name>
         <text>Shaped by the intensity of the arena, you've learned to execute brutal martial moves. Once per turn, when you hit a creature with an attack roll using a Melee weapon, you can add one of the following Brutality effects of your choice. You can do this a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Short or Long Rest.
 
 	Bleed. You can activate the Sap mastery property in addition to a different mastery property you're using with that weapon, and the target takes extra damage equal to your Charisma modifier (minimum of 1 damage). The extra damage's type is the same type as the weapon's type.
@@ -25,7 +25,7 @@ Source:	UA25-ApocalypticSubclasses p. 3</text>
 Source:	UA25-ApocalypticSubclasses p. 3</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Combat Theatrics (Gladiator (UA))</name>
+        <name>Combat Theatrics (Gladiator (UA))</name>
         <text>You've honed your combat skills to entertain, devastating opponents and dazzling onlookers. You gain the following benefits.
 
 	Athletic Flair. Whenever you make a Dexterity (Acrobatics) or Strength (Athletics) check, you gain a bonus to the check equal to your Charisma modifier (minimum of +1).
@@ -37,7 +37,7 @@ Source:	UA25-ApocalypticSubclasses p. 3</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Flourish Parry (Gladiator (UA))</name>
+        <name>Flourish Parry (Gladiator (UA))</name>
         <text>You've learned to stylishly counter blows from your opponents. When an enemy hits you with a melee attack roll, you can take a Reaction to add your Charisma modifier (minimum of +1) to your AC against the attack, potentially causing the attack to miss.
 
 	Flourish Counter. If this Reaction causes the attack to miss, you can retaliate with a powerful counterattack as part of the same Reaction. Make an attack roll with a Melee weapon against the triggering creature. If this attack hits, you can use one of your Brutality effects on the target without expending a use of that feature.
@@ -54,7 +54,7 @@ Source:	UA25-ApocalypticSubclasses p. 3</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Bolder Brutalities (Gladiator (UA))</name>
+        <name>Bolder Brutalities (Gladiator (UA))</name>
         <text>Your brutal martial prowess has improved. The following effects are added to your Brutality options.
 
 	Rive. You can activate the Cleave mastery property in addition to a different mastery property you're using with that weapon, and you can add your ability modifier to the damage of the additional attack made as part of that property's activation.
@@ -68,7 +68,7 @@ Source:	UA25-ApocalypticSubclasses p. 3</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Brutal Resurgence (Gladiator (UA))</name>
+        <name>Brutal Resurgence (Gladiator (UA))</name>
         <text>Whenever you use your Second Wind to regain Hit Points, you regain an expended use of Brutality. You also regain an expended use of Brutality whenever you use your Action Surge.
 
 Source:	UA25-ApocalypticSubclasses p. 3</text>
@@ -76,7 +76,7 @@ Source:	UA25-ApocalypticSubclasses p. 3</text>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">
-        <name>Level 18: Mutilate (Gladiator (UA))</name>
+        <name>Mutilate (Gladiator (UA))</name>
         <text>When you hit a Bloodied creature with an attack roll, you can attempt to critically injure it. The target makes a Constitution saving throw (DC 8 plus your Charisma modifier and Proficiency Bonus). On a failed save, the target suffers the following effects:
 
 	Maimed. If the target takes the Attack action, it can make only one attack.

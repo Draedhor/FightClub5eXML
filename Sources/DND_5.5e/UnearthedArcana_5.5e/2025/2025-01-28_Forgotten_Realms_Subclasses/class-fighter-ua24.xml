@@ -15,14 +15,14 @@ Characters with this subclass are special among the order. Unlike most Purple Dr
 Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 3</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Knightly Envoy (Purple Dragon Knight (UA))</name>
+        <name>Knightly Envoy (Purple Dragon Knight (UA))</name>
         <text>You learn one language of your choice, which you choose from the language tables in the Player's Handbook.
 	Additionally, you can cast the Comprehend Languages spell but only as a Ritual. Intelligence is your spellcasting ability for it.
 
 Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 3</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Purple Dragon Companion (Purple Dragon Knight (UA))</name>
+        <name>Purple Dragon Companion (Purple Dragon Knight (UA))</name>
         <text>You are bonded with an amethyst dragon hatchling that serves as your purple dragon companion and uses the Purple Dragon Companion stat block. The purple dragon is Friendly to you and your allies and obeys your commands.
 
 	The Dragon in Combat. In combat, the dragon acts during your turn. It can move and use its Reaction on its own, but the only action it takes is the Dodge action unless you take a Bonus Action to command it to take an action in its stat block or some other action. If you have the Incapacitated condition, the dragon acts on its own and isn't limited to the Dodge action.
@@ -35,7 +35,7 @@ Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 3</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Dragon Rider (Purple Dragon Knight (UA))</name>
+        <name>Dragon Rider (Purple Dragon Knight (UA))</name>
         <text>You and your purple dragon gain the following benefits.
 
 	Dragon Mount. The dragon grows to Medium size. You can use the dragon as a mount if you are Medium or smaller, but while you're riding it, the dragon falls at the end of a turn if it's airborne and the only thing holding it aloft is its Fly Speed. It takes you only 5 feet of movement to mount or dismount the dragon.
@@ -49,7 +49,7 @@ Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 4</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Rallying Surge (Purple Dragon Knight (UA))</name>
+        <name>Rallying Surge (Purple Dragon Knight (UA))</name>
         <text>When you use your Action Surge, you can choose up to three allies within a 30-foot Emanation originating from you. Each ally can take a Reaction to use one of the following options.
 
 	Advance. The ally makes one attack with a weapon or an Unarmed Strike. If your purple dragon is one of the allies using Advance, the dragon can make one Rend attack.
@@ -61,7 +61,7 @@ Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 4</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Amethyst Pinnacle (Purple Dragon Knight (UA))</name>
+        <name>Amethyst Pinnacle (Purple Dragon Knight (UA))</name>
         <text>You and your purple dragon gain the following benefits.
 
 	Superior Mount. The purple dragon grows to Large size, and both its Speed and its Fly Speed increase to 40 feet. Additionally, the dragon no longer falls at the end of a turn if airborne while you're riding it.
@@ -73,7 +73,7 @@ Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 4</text>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">
-        <name>Level 18: Enduring Commander (Purple Dragon Knight (UA))</name>
+        <name>Enduring Commander (Purple Dragon Knight (UA))</name>
         <text>You and your purple dragon have Resistance to Force and Psychic damage.
 
 Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 4</text>

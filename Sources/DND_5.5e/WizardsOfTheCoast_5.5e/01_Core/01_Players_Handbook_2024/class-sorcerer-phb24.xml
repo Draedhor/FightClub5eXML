@@ -103,7 +103,7 @@ Hit Point Die: D6 per Sorcerer level
 Source:	Player's Handbook (2024) p. 139</text>
       </feature>
       <feature>
-        <name>Level 1: Spellcasting</name>
+        <name>Spellcasting</name>
         <text>Drawing from your innate magic, you can cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the Sorcerer spell list later in the class's description.
 
 	Cantrips. You know four Sorcerer cantrips of your choice. Light, Prestidigitation, Shocking Grasp, and Sorcerous Burst are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
@@ -147,7 +147,7 @@ Level | Prepared Spells
 Source:	Player's Handbook (2024) p. 139</text>
       </feature>
       <feature>
-        <name>Level 1: Innate Sorcery</name>
+        <name>Innate Sorcery</name>
         <text>An event in your past left an indelible mark on you, infusing you with simmering magic. As a Bonus Action, you can unleash that magic for 1 minute, during which you gain the following benefits:
 
 	• The spell save DC of your Sorcerer spells increases by 1.
@@ -165,7 +165,7 @@ Source:	Player's Handbook (2024) p. 140</text>
     </autolevel>
     <autolevel level="2">
       <feature>
-        <name>Level 2: Font of Magic</name>
+        <name>Font of Magic</name>
         <text>You can tap into the wellspring of magic within yourself. This wellspring is represented by Sorcery Points, which allow you to create a variety of magical effects.
 	You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer Features table. You can't have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a Long Rest.
 	You can use your Sorcery Points to fuel the options below, along with other features, such as Metamagic, that use those points.
@@ -186,7 +186,7 @@ Spell Slot Level | Sorcery Point Cost | Min. Sorcerer Level
 Source:	Player's Handbook (2024) p. 140</text>
       </feature>
       <feature>
-        <name>Level 2: Metamagic</name>
+        <name>Metamagic</name>
         <text>Because your magic flows from within, you can alter your spells to suit your needs; you gain two Meta magic options of your choice from "Metamagic Options" later in this class's description (added as spells in the Metamagic Options spell list). You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
 	You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.
 	Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don't know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17.
@@ -201,7 +201,7 @@ Source:	Player's Handbook (2024) p. 141</text>
     </autolevel>
     <autolevel level="3">
       <feature>
-        <name>Level 3: Sorcerer Subclass</name>
+        <name>Sorcerer Subclass</name>
         <text>You gain a Sorcerer subclass of your choice. The Aberrant Sorcery, Clockwork Sorcery, Draconic Sorcery, and Wild Magic Sorcery subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass's features that are of your Sorcerer level or lower.
 
 Source:	Player's Handbook (2024) p. 141</text>
@@ -214,7 +214,7 @@ Source:	Player's Handbook (2024) p. 141</text>
     </autolevel>
     <autolevel level="4" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Level 4: Ability Score Improvement</name>
+        <name>Ability Score Improvement</name>
         <text>You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
 
 Source:	Player's Handbook (2024) p. 141</text>
@@ -227,7 +227,7 @@ Source:	Player's Handbook (2024) p. 141</text>
     </autolevel>
     <autolevel level="5">
       <feature>
-        <name>Level 5: Sorcerous Restoration</name>
+        <name>Sorcerous Restoration</name>
         <text>When you finish a Short Rest, you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can't do so again until you finish a Long Rest.
 
 Source:	Player's Handbook (2024) p. 141</text>
@@ -252,7 +252,7 @@ Source:	Player's Handbook (2024) p. 141</text>
     </autolevel>
     <autolevel level="7">
       <feature>
-        <name>Level 7: Sorcery Incarnate</name>
+        <name>Sorcery Incarnate</name>
         <text>If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the Bonus Action to activate it.
 
 In addition, while your Innate Sorcery feature is active, you can use up to two of your Metamagic options on each spell you cast.
@@ -267,7 +267,7 @@ Source:	Player's Handbook (2024) p. 141</text>
     </autolevel>
     <autolevel level="8" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Level 8: Ability Score Improvement</name>
+        <name>Ability Score Improvement</name>
         <text>You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
 
 Source:	Player's Handbook (2024) p. 141</text>
@@ -301,7 +301,7 @@ Source:	Player's Handbook (2024) p. 141</text>
     </autolevel>
     <autolevel level="12" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Level 12: Ability Score Improvement</name>
+        <name>Ability Score Improvement</name>
         <text>You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
 
 Source:	Player's Handbook (2024) p. 141</text>
@@ -335,7 +335,7 @@ Source:	Player's Handbook (2024) p. 141</text>
     </autolevel>
     <autolevel level="16" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Level 16: Ability Score Improvement</name>
+        <name>Ability Score Improvement</name>
         <text>You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
 
 Source:	Player's Handbook (2024) p. 141</text>
@@ -362,7 +362,7 @@ Source:	Player's Handbook (2024) p. 141</text>
     </autolevel>
     <autolevel level="19">
       <feature>
-        <name>Level 19: Epic Boon</name>
+        <name>Epic Boon</name>
         <text>You gain an Epic Boon feat (see chapter 5) or another feat of your choice for which you qualify. Boon of Dimensional Travel is recommended.
 
 Source:	Player's Handbook (2024) p. 141</text>
@@ -375,7 +375,7 @@ Source:	Player's Handbook (2024) p. 141</text>
     </autolevel>
     <autolevel level="20">
       <feature>
-        <name>Level 20: Arcane Apotheosis</name>
+        <name>Arcane Apotheosis</name>
         <text>While your Innate Sorcery feature is active, you can use one Metamagic option on each of your turns without spending Sorcery Points on it.
 
 Source:	Player's Handbook (2024) p. 141</text>
@@ -398,7 +398,7 @@ An alien influence has wrapped its tendrils around your mind, giving you psionic
 Source:	Player's Handbook (2024) p. 145</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Psionic Spells (Aberrant Sorcery)</name>
+        <name>Psionic Spells (Aberrant Sorcery)</name>
         <text>When you reach a Sorcerer level specified in the Psionic Spells table, you thereafter always have the listed spells prepared.
 
 Psionic Spells:
@@ -411,7 +411,7 @@ Sorcerer Level | Spells
 Source:	Player's Handbook (2024) p. 145</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Telepathic Speech (Aberrant Sorcery)</name>
+        <name>Telepathic Speech (Aberrant Sorcery)</name>
         <text>You can form a telepathic connection between your mind and the mind of another. As a Bonus Action, choose one creature you can see within 30 feet of yourself. You and the chosen creature can communicate telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must mentally use a language the other knows.
 	The telepathic connection lasts for a number of minutes equal to your Sorcerer level. It ends early if you use this ability to form a connection with a different creature.
 
@@ -420,13 +420,13 @@ Source:	Player's Handbook (2024) p. 145</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Psionic Sorcery (Aberrant Sorcery)</name>
+        <name>Psionic Sorcery (Aberrant Sorcery)</name>
         <text>When you cast any level 1+ spell from your Psionic Spells feature, you can cast it by expending a spell slot as normal or by spending a number of Sorcery Points equal to the spell's level. If you cast the spell using Sorcery Points, it requires no Verbal or Somatic components, and it requires no Material components unless they are consumed by the spell or have a cost specified in it.
 
 Source:	Player's Handbook (2024) p. 146</text>
       </feature>
       <feature optional="YES">
-        <name>Level 6: Psychic Defenses (Aberrant Sorcery)</name>
+        <name>Psychic Defenses (Aberrant Sorcery)</name>
         <text>You have Resistance to Psychic damage, and you have Advantage on saving throws to avoid or end the Charmed or Frightened condition.
 
 Source:	Player's Handbook (2024) p. 146</text>
@@ -434,7 +434,7 @@ Source:	Player's Handbook (2024) p. 146</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Revelation In Flesh (Aberrant Sorcery)</name>
+        <name>Revelation In Flesh (Aberrant Sorcery)</name>
         <text>You can unleash the aberrant truth hidden within yourself. As a Bonus Action, you can spend 1 Sorcery Point or more to magically alter your body for 10 minutes. For each Sorcery Point you spend, you gain one of the following benefits of your choice, the effects of which last until the alteration ends.
 
 	Aquatic Adaptation. You gain a Swim Speed equal to twice your Speed, and you can breathe underwater. Gills grow from your neck or flare behind your ears, and your fingers become webbed or you grow wriggling cilia.
@@ -450,7 +450,7 @@ Source:	Player's Handbook (2024) p. 146</text>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">
-        <name>Level 18: Warping Implosion (Aberrant Sorcery)</name>
+        <name>Warping Implosion (Aberrant Sorcery)</name>
         <text>You can unleash a space-warping anomaly. As a Magic action, you teleport to an unoccupied space you can see within 120 feet of yourself. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw against your spell save DC. On a failed save, a creature takes 3d10 Force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage only.
 
 Once you use this feature, you can't do so again until you finish a Long Rest unless you spend 5 Sorcery Points (no action required) to restore your use of it.
@@ -469,7 +469,7 @@ The cosmic force of order has suffused you with magic. That power arises from Me
 Source:	Player's Handbook (2024) p. 146</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Clockwork Spells (Clockwork Sorcery)</name>
+        <name>Clockwork Spells (Clockwork Sorcery)</name>
         <text>When you reach a Sorcerer level specified in the Clockwork Spells table, you thereafter always have the listed spells prepared.
 
 Clockwork Spells:
@@ -494,7 +494,7 @@ Source:	Player's Handbook (2024) p. 146</text>
         <roll description="Manifestation">1d6</roll>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Restore Balance (Clockwork Sorcery)</name>
+        <name>Restore Balance (Clockwork Sorcery)</name>
         <text>Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of yourself is about to roll a d20 with Advantage or Disadvantage, you can take a Reaction to prevent the roll from being affected by Advantage and Disadvantage.
 	You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
@@ -503,7 +503,7 @@ Source:	Player's Handbook (2024) p. 146</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Bastion of Law (Clockwork Sorcery)</name>
+        <name>Bastion of Law (Clockwork Sorcery)</name>
         <text>You can tap into the grand equation of existence to imbue a creature with a shimmering shield of order. As a Magic action, you can expend 1 to 5 Sorcery Points to create a magical ward around yourself or another creature you can see within 30 feet of yourself. The ward is represented by a number of d8s equal to the number of Sorcery Points spent to create it. When the warded creature takes damage, it can expend a number of those dice, roll them, and reduce the damage taken by the total rolled on those dice.
 	The ward lasts until you finish a Long Rest or until you use this feature again.
 
@@ -512,7 +512,7 @@ Source:	Player's Handbook (2024) p. 147</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Trance of Order (Clockwork Sorcery)</name>
+        <name>Trance of Order (Clockwork Sorcery)</name>
         <text>You gain the ability to align your consciousness with the endless calculations of Mechanus. As a Bonus Action, you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from Advantage, and whenever you make a D20 Test, you can treat a roll of 9 or lower on the d20 as a 10.
 	Once you use this feature, you can't use it again until you finish a Long Rest unless you spend 5 Sorcery Points (no action required) to restore your use of it.
 
@@ -527,7 +527,7 @@ Source:	Player's Handbook (2024) p. 147</text>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">
-        <name>Level 18: Clockwork Cavalcade (Clockwork Sorcery)</name>
+        <name>Clockwork Cavalcade (Clockwork Sorcery)</name>
         <text>You momentarily summon spirits of order to expunge disorder around you. As a Magic action, you summon the spirits in a 30-foot Cube originating from you. The spirits look like modrons or other Constructs of your choice. The spirits are intangible and invulnerable, and they create the effects below within the Cube before vanishing. Once you use this action, you can't use it again until you finish a Long Rest unless you spend 7 Sorcery Points (no action required) to restore your use of it.
 
 	Heal. The spirits restore up to 100 Hit Points, divided as you choose among any number of creatures of your choice in the Cube.
@@ -556,7 +556,7 @@ Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon fac
 Source:	Player's Handbook (2024) p. 148</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Draconic Spells (Draconic Sorcery)</name>
+        <name>Draconic Spells (Draconic Sorcery)</name>
         <text>When you reach a Sorcerer level specified in the Draconic Spells table, you thereafter always have the listed spells prepared.
 
 Draconic Spells:
@@ -569,7 +569,7 @@ Sorcerer Level | Spells
 Source:	Player's Handbook (2024) p. 148</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Draconic Resilience (Draconic Sorcery)</name>
+        <name>Draconic Resilience (Draconic Sorcery)</name>
         <text>The magic in your body manifests physical traits of your draconic gift. Your Hit Point maximum increases by 3, and it increases by 1 whenever you gain another Sorcerer level.
 	Parts of you are also covered by dragon-like scales. While you aren't wearing armor, your base Armor Class equals 10 plus your Dexterity and Charisma modifiers.
 
@@ -580,7 +580,7 @@ Source:	Player's Handbook (2024) p. 148</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Elemental Affinity (Draconic Sorcery)</name>
+        <name>Elemental Affinity (Draconic Sorcery)</name>
         <text>Your draconic magic has an affinity with a damage type associated with dragons. Choose one of those types: Acid, Cold, Fire, Lightning, or Poison.
 	You have Resistance to that damage type, and when you cast a spell that deals damage of that type, you can add your Charisma modifier to one damage roll of that spell.
 
@@ -589,7 +589,7 @@ Source:	Player's Handbook (2024) p. 148</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Dragon Wings (Draconic Sorcery)</name>
+        <name>Dragon Wings (Draconic Sorcery)</name>
         <text>As a Bonus Action, you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a Fly Speed of 60 feet.
 	Once you use this feature, you can't use it again until you finish a Long Rest unless you spend 3 Sorcery Points (no action required) to restore your use of it.
 
@@ -604,7 +604,7 @@ Source:	Player's Handbook (2024) p. 148</text>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">
-        <name>Level 18: Dragon Companion (Draconic Sorcery)</name>
+        <name>Dragon Companion (Draconic Sorcery)</name>
         <text>You can cast Summon Dragon without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a Long Rest.
 	Whenever you start casting the spell, you can modify it so that it doesn't require Concentration. If you do so, the spell's duration becomes 1 minute for that casting.
 
@@ -622,14 +622,14 @@ Your innate magic stems from the forces of chaos that underlie the order of crea
 Source:	Player's Handbook (2024) p. 149</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Wild Magic Surge (Wild Magic Sorcery)</name>
+        <name>Wild Magic Surge (Wild Magic Sorcery)</name>
         <text>Your spellcasting can unleash surges of untamed magic. Once per turn, you can roll 1d20 immediately after you cast a Sorcerer spell with a spell slot. If you roll a 20, roll on the Wild Magic Surge table to create a magical effect.
 	If the magical effect is a spell, it is too wild to be affected by your Metamagic.
 
 Source:	Player's Handbook (2024) p. 149</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Tides of Chaos (Wild Magic Sorcery)</name>
+        <name>Tides of Chaos (Wild Magic Sorcery)</name>
         <text>You can manipulate chaos itself to give yourself Advantage on one 020 Test before you roll the d20. Once you do so, you must cast a Sorcerer spell with a spell slot or finish a Long Rest before you can use this feature again.
 	If you do cast a Sorcerer spell with a spell slot before you finish a Long Rest, you automatically roll on the Wild Magic Surge table.
 
@@ -638,7 +638,7 @@ Source:	Player's Handbook (2024) p. 149</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Bend Luck (Wild Magic Sorcery)</name>
+        <name>Bend Luck (Wild Magic Sorcery)</name>
         <text>You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the d20 for a D20 Test, you can take a Reaction and spend 1 Sorcery Point to roll 1d4 and apply t he number rolled as a bonus or penalty (your choice) to the d20 roll.
 
 Source:	Player's Handbook (2024) p. 149</text>
@@ -646,7 +646,7 @@ Source:	Player's Handbook (2024) p. 149</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Controlled Chaos (Wild Magic Sorcery)</name>
+        <name>Controlled Chaos (Wild Magic Sorcery)</name>
         <text>You gain a modicum of control over the surges of your wild magic. Whenever you roll on the Wild Magic Surge table, you can roll twice and use either number.
 
 Source:	Player's Handbook (2024) p. 149</text>
@@ -654,7 +654,7 @@ Source:	Player's Handbook (2024) p. 149</text>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">
-        <name>Level 18: Tamed Surge (Wild Magic Sorcery)</name>
+        <name>Tamed Surge (Wild Magic Sorcery)</name>
         <text>Immediately after you cast a Sorcerer spell with a spell slot, you can create an effect of your choice from the Wild Magic Surge table instead of rolling on that table. You can choose any effect in the table except for the final row, and if the chosen effect involves a roll, you must make it.
 	Once you use this feature, you can't do so again until you finish a Long Rest.
 

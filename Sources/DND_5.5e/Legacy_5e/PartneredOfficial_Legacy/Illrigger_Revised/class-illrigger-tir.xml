@@ -205,7 +205,7 @@ You can make an illrigger quickly by following these suggestions. First, put you
     </trait>
     <autolevel level="1">
       <feature optional="YES">
-        <name>Level 1: Starting Illrigger</name>
+        <name>Starting Illrigger</name>
         <text>As a 1st-level Illrigger, you begin play with 10 + your Constitution modifier hit points.
 
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
@@ -227,7 +227,7 @@ Alternatively, you can forgo this starting equipment and the equipment granted b
 Source:	The Illrigger Revised p. 10 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 1: Multiclass Illrigger</name>
+        <name>Multiclass Illrigger</name>
         <text>If your group uses the optional rule on multiclassing in the Player's Handbook, here's what you need to know if you choose illrigger as one of your classes.
 
 Ability Score Minimum:
@@ -246,7 +246,7 @@ When you gain your first level in a class other than your initial class, you gai
 Source:	The Illrigger Revised p. 11 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 1: Multiclass Features</name>
+        <name>Multiclass Features</name>
         <text>When you gain a new level in a class, you get its features for that level. You don't, however, receive the class's starting equipment, and a few features have additional rules when you're multiclassing: Channel Divinity, Extra Attack, Unarmored Defense, and Spellcasting.
 
 Channel Divinity:
@@ -278,7 +278,7 @@ If you have both the Spellcasting class feature and the Pact Magic class feature
 Source:	Player's Handbook (2014) p. 164</text>
       </feature>
       <feature>
-        <name>Level 1: Baleful Interdict</name>
+        <name>Baleful Interdict</name>
         <text>You gain the ability to censure creatures with the power of Hell. Once on your turn, you can place a magical seal on a creature within 30 feet of you. You can either place this seal when you hit that target with a weapon attack (no action required), or you can use a bonus action to place this seal on a target you can see within range. This seal lasts for 1 minute or until burned (see "Burning Seals" below). A creature with one or more of your seals is referred to as an interdicted creature. Seals you place are invisible to other creatures, and when you can see an interdicted creature, the seals appear to you as glowing glyphs on the creature's body.
 	You can only place a limited number of seals before resting, and you regain all seals when you finish a short or long rest. The number of seals you can place increases as you gain illrigger levels, as indicated in the Seals column of the Illrigger table.
 	If an interdicted creature dies, you can use a bonus action on your turn to move all seals placed on them to a new creature you can see within 30 feet of them. Each seal's duration continues to elapse when an interdicted creature dies and when that seal is moved to a new creature.
@@ -297,7 +297,7 @@ Source:	Player's Handbook (2014) p. 164</text>
 Source:	The Illrigger Revised p. 11 (Third Party)</text>
       </feature>
       <feature>
-        <name>Level 1: Forked Tongue</name>
+        <name>Forked Tongue</name>
         <text>You can instinctively speak, read, and write Infernal.
 	In addition, you can speak two other languages of your choice, but you can't read or write them. When you finish a long rest, you can draw on your archdevil's knowledge to replace one of these two languages. When you do, choose another language whose name you know; you magically forget the previous language and gain this new one instead. Once you replace a language in this way, you must finish a long rest before you can do so again.
 	Starting at 9th level, this feature grants you another language, for a total of three (in addition to Infernal). Furthermore, you gain advantage on Wisdom (Insight) checks made to ascertain the intentions or sincerity of creatures.
@@ -307,50 +307,50 @@ Source:	The Illrigger Revised p. 11 (Third Party)</text>
     </autolevel>
     <autolevel level="2">
       <feature>
-        <name>Level 2: Combat Mastery</name>
+        <name>Combat Mastery</name>
         <text>Your archdevil grants you uncanny skill in a certain form of combat. Choose one of the following illrigger combat masteries:
 
 Source:	The Illrigger Revised p. 12 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 2: Combat Mastery: Bravado</name>
+        <name>Combat Mastery: Bravado</name>
         <text>While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Charisma modifier. You can use a shield and still gain this benefit.
 
 Source:	The Illrigger Revised p. 12 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 2: Combat Mastery: Brutal</name>
+        <name>Combat Mastery: Brutal</name>
         <text>When you hit a creature who is no more than one size larger than you with an attack you make with a melee weapon you are wielding with two hands, you can move the target 5 feet horizontally. If you choose, you can then spend your movement to move into the space they left.
 
 Source:	The Illrigger Revised p. 12 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 2: Combat Mastery: Inexorable</name>
+        <name>Combat Mastery: Inexorable</name>
         <text>You gain a +1 bonus to saving throws for each hostile creature within 5 feet of you, to a maximum bonus of +5.
 
 Source:	The Illrigger Revised p. 12 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 2: Combat Mastery: Lies</name>
+        <name>Combat Mastery: Lies</name>
         <text>You can choose one type of melee weapon, such as a battleaxe, greatsword, or spear. When you attack with that type of weapon, you can use your Charisma modifier, instead of Strength or Dexterity, for the attack and damage rolls. You can choose a new weapon type, which replaces your previous choice, when you finish a long rest.
 
 Source:	The Illrigger Revised p. 12 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 2: Combat Mastery: Lissome</name>
+        <name>Combat Mastery: Lissome</name>
         <text>When you hit a creature with a melee weapon attack, you can spend your movement to move 5 feet without provoking opportunity attacks.
 
 Source:	The Illrigger Revised p. 12 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 2: Combat Mastery: Unfettered</name>
+        <name>Combat Mastery: Unfettered</name>
         <text>When you use your Baleful Interdict to place or burn a seal, its range is 60 feet instead of 30 feet. When you gain the Infernal Conduit feature at 6th level, its range is 30 feet instead of touch.
 	In addition, making a ranged attack while within 5 feet of a hostile creature does not impose disadvantage on the attack roll.
 
 Source:	The Illrigger Revised p. 12 (Third Party)</text>
       </feature>
       <feature>
-        <name>Level 2: Interdiction</name>
+        <name>Interdiction</name>
         <text>You can infuse your seals with hellish magical power, enhancing their effects.
 
 	Interdict Boons Known. You learn one interdict boon of your choice from the "Illrigger: Interdict Boons" spell list. As you gain levels in this class, you gain additional boons of your choice, as shown in the Interdict Boons table. Each new boon must be of a level you can learn. When you reach 7th level, for example, you learn one new boon of 2nd or 7th level.
@@ -387,13 +387,13 @@ Source:	The Illrigger Revised p. 12 (Third Party)</text>
     </autolevel>
     <autolevel level="3">
       <feature>
-        <name>Level 3: Diabolic Contract</name>
+        <name>Diabolic Contract</name>
         <text>You sign a diabolic contract with an archdevil who welcomes you into the Order of Desolation. Choose between the Architect of Ruin (Asmodeus), Hellspeaker (Moloch), Painkiller (Dispater), Sanguine Knight (Sutekh), or Shadowmaster (Belial) as your archdevil. Each of these subclasses is detailed after the class's description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
 
 Source:	The Illrigger Revised p. 13 (Third Party)</text>
       </feature>
       <feature>
-        <name>Level 3: Invoke Hell</name>
+        <name>Invoke Hell</name>
         <text>Your diabolic connection allows you to channel infernal energy to empower magical effects. Your chosen diabolic contract grants you two Invoke Hell options and describes how to use each.
 	When you use your Invoke Hell, you choose which option to use. You must then finish a short or long rest to use your Invoke Hell again.
 	Some Invoke Hell effects require a saving throw. When you use such an effect, the DC equals your interdict save DC.
@@ -413,7 +413,7 @@ Source:	The Illrigger Revised p. 13 (Third Party)</text>
     </autolevel>
     <autolevel level="5">
       <feature>
-        <name>Level 5: Extra Attack</name>
+        <name>Extra Attack</name>
         <text>You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 Source:	The Illrigger Revised p. 13 (Third Party)</text>
@@ -421,7 +421,7 @@ Source:	The Illrigger Revised p. 13 (Third Party)</text>
     </autolevel>
     <autolevel level="6">
       <feature>
-        <name>Level 6: Infernal Conduit</name>
+        <name>Infernal Conduit</name>
         <text>You can strengthen your allies at the cost of yourself—or drain your enemy's life force for your own gain. You have a pool of Infernal Conduit dice, which are d10s. The number of Infernal Conduit dice in your pool increase as you gain illrigger levels, as shown in the Infernal Conduit Dice table.
 	As an action, you can touch another creature and spend one or more dice from your pool. The target must make a Constitution saving throw against your interdict save DC. A creature can willingly fail this saving throw. Roll the spent dice and choose one of the following effects:
 
@@ -465,7 +465,7 @@ Source:	The Illrigger Revised p. 13 (Third Party)</text>
     </autolevel>
     <autolevel level="10">
       <feature>
-        <name>Level 10: Blood Price</name>
+        <name>Blood Price</name>
         <text>You can strengthen your defenses at the cost of your vitality. Whenever you fail a saving throw, you can spend one of your Hit Dice, rolling it and adding the number rolled to the result of the save.
 
 Source:	The Illrigger Revised p. 14 (Third Party)</text>
@@ -473,7 +473,7 @@ Source:	The Illrigger Revised p. 14 (Third Party)</text>
     </autolevel>
     <autolevel level="11">
       <feature>
-        <name>Level 11: Terrorizing Force</name>
+        <name>Terrorizing Force</name>
         <text>Your attacks are empowered with devastating might. When you gain this feature, choose a damage type: cold, fire, necrotic, or poison. When you hit with a weapon attack, you deal an extra 1d8 damage of the chosen type. You can choose a different damage type when you finish a long rest.
 
 Source:	The Illrigger Revised p. 14 (Third Party)</text>
@@ -503,7 +503,7 @@ Source:	The Illrigger Revised p. 13 (Third Party)</text>
     </autolevel>
     <autolevel level="14">
       <feature>
-        <name>Level 14: Superior Interdict</name>
+        <name>Superior Interdict</name>
         <text>Damage from your seals ignores any damage resistances the target has.
 	In addition, you can use a bonus action to regain a seal if you have none remaining. Once you regain a seal in this way, you can't do so again until you finish a long rest.
 
@@ -529,7 +529,7 @@ Source:	The Illrigger Revised p. 13 (Third Party)</text>
     </autolevel>
     <autolevel level="17">
       <feature>
-        <name>Level 17: Infernal Majesty</name>
+        <name>Infernal Majesty</name>
         <text>Your archdevil bestows on you the ability to don a measure of their power. As a bonus action, you channel the might of Hell, gaining the following benefits for 10 minutes:
 
 	• You gain resistance to fire, cold, and necrotic damage.
@@ -568,7 +568,7 @@ Source:	The Illrigger Revised p. 13 (Third Party)</text>
     </autolevel>
     <autolevel level="20">
       <feature>
-        <name>Level 20: Master of Hell</name>
+        <name>Master of Hell</name>
         <text>You learn to tear open a rift to Hell and wreak its fury on your enemies. As an action, you can summon a hellstorm centered on a point you can see within 150 feet of you. Choose one of the following effects, which fills a 50-foot-radius sphere centered on that point:
 
 	Inferno. Hellfire rains down on your foes. Each enemy in that area must make a Dexterity saving throw. On a failed save, a creature takes 5d10 fire damage plus 5d10 necrotic damage, and they burn for 1 minute. On a successful save, a creature takes half as much damage and does not burn. A creature burning in this way must repeat this saving throw at the end of their turn, taking 1d10 fire damage plus 1d10 necrotic damage on a failed save, or ending the effect on themself on a successful one. This hellfire can't be extinguished by nonmagical means.
@@ -594,7 +594,7 @@ Asmodeus rules Acheron, the City of Fear. His illriggers scour the timescape, co
 Source:	The Illrigger Revised p. 17 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Precepts of Ruin (Architect of Ruin (Legacy))</name>
+        <name>Precepts of Ruin (Architect of Ruin (Legacy))</name>
         <text>Architects of Ruin swear an oath to Asmodeus when they join the Order of Desolation. These precepts commit them to destroy Asmodeus's enemies by commanding great magic, causing fear, and sowing distrust.
 
 	The Battlefield of the Mind. By the time my armies meet yours, you'll be filled with terror and doubt your own strength. I won't have to lift a finger to defeat you.
@@ -608,14 +608,14 @@ Source:	The Illrigger Revised p. 17 (Third Party)</text>
 Source:	The Illrigger Revised p. 17 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Asmodeus's Blessing (Architect of Ruin (Legacy))</name>
+        <name>Asmodeus's Blessing (Architect of Ruin (Legacy))</name>
         <text>When Asmodeus accepts you as an Architect of Ruin, he grants you access to his infernal knowledge. You gain proficiency in one of the following skills of your choice: Arcana, History, Nature, or Religion.
 	In addition, you can also read and write the languages granted by your Forked Tongue, instead of only speaking them.
 
 Source:	The Illrigger Revised p. 17 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Spellcasting (Architect of Ruin (Legacy))</name>
+        <name>Spellcasting (Architect of Ruin (Legacy))</name>
         <text>As an Architect of Ruin, you access a well of profane magic to cast spells. See "Spellcasting" in the core rules for the general rules of spellcasting.
 
 	Cantrips. You know two cantrips of your choice from the Architect of Ruin spell list (presented at the end of this subclass). You learn an additional cantrip from this list at 10th level.
@@ -661,7 +661,7 @@ Level | Spells Known
 Source:	The Illrigger Revised p. 17 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Invoke Hell (Architect of Ruin (Legacy))</name>
+        <name>Invoke Hell (Architect of Ruin (Legacy))</name>
         <text>You gain the following two Invoke Hell options:
 
 	Enervating Spell. When you deal damage to a creature with an illrigger spell of 1st level or higher, you can expend a seal (no action required) and imbue the spell with weakening magic. The target has vulnerability to that spell's damage. If they normally have resistance or immunity to the spell's damage, that resistance or immunity is suppressed for this spell, and the target has vulnerability to the damage instead.
@@ -673,13 +673,13 @@ Source:	The Illrigger Revised p. 18 (Third Party)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Hellish Versatility (Architect of Ruin (Legacy))</name>
+        <name>Hellish Versatility (Architect of Ruin (Legacy))</name>
         <text>Once on each of your turns, you can cast one of your illrigger cantrips in place of one of your attacks granted by your Extra Attack feature.
 
 Source:	The Illrigger Revised p. 19 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 7: Asmodeus's Interdiction (Architect of Ruin (Legacy))</name>
+        <name>Asmodeus's Interdiction (Architect of Ruin (Legacy))</name>
         <text>You learn the following additional interdict boons at the noted illrigger levels. Once you learn an interdict boon granted by this feature, you always know it, and it doesn't count against the number of interdict boons you know.
 
 Axiomatic Seals (7th Level; Passive). Asmodeus's secrets allow you to infuse your seals with manifest power. When you burn one or more seals to deal damage to a creature, you can activate this boon (no action required) to add your Charisma modifier (minimum of 1) to each seal's damage roll.
@@ -693,7 +693,7 @@ Source:	The Illrigger Revised p. 19 (Third Party)</text>
     </autolevel>
     <autolevel level="11">
       <feature optional="YES">
-        <name>Level 11: Submit (Architect of Ruin (Legacy))</name>
+        <name>Submit (Architect of Ruin (Legacy))</name>
         <text>When you cast an illrigger spell you know, you can burn two seals on an interdicted creature (no action required) to impose disadvantage on their saving throw against the spell.
 
 Source:	The Illrigger Revised p. 19 (Third Party)</text>
@@ -701,7 +701,7 @@ Source:	The Illrigger Revised p. 19 (Third Party)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Vile Transmogrification (Architect of Ruin (Legacy))</name>
+        <name>Vile Transmogrification (Architect of Ruin (Legacy))</name>
         <text>You uncover two new ways to employ Asmodeus's magic:
 
 	Regaining Seals. As a bonus action on your turn, you can expend one spell slot to regain a number of seals equal to that slot's level.
@@ -735,7 +735,7 @@ This subclass has themes of mental manipulation and mind control. Before choosin
 Source:	The Illrigger Revised p. 22 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Precepts of Deception (Hellspeaker (Legacy))</name>
+        <name>Precepts of Deception (Hellspeaker (Legacy))</name>
         <text>Hellspeakers swear an oath to Moloch when they join the Order of Desolation. By following these precepts, they infiltrate the farthest reaches of power and manipulate all under their influence.
 
 	My Voice Is a Weapon. Even when my enchantments fail, if my enemy can hear me, they are mine.
@@ -749,14 +749,14 @@ Source:	The Illrigger Revised p. 22 (Third Party)</text>
 Source:	The Illrigger Revised p. 22 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Moloch's Blessing (Hellspeaker (Legacy))</name>
+        <name>Moloch's Blessing (Hellspeaker (Legacy))</name>
         <text>When Moloch accepts you as his illrigger, you gain proficiency in the Persuasion or Deception skill (your choice). If you already have proficiency in the skill of your choice, your proficiency bonus is doubled for any ability check you make with that skill.
 	In addition, your Forked Tongue feature grants you an additional language (for a total of three at 3rd level and four at 9th level). Whenever you speak in a language gained by this feature, your devilish influence is subconsciously felt by creatures who can hear and understand you, granting you advantage on Charisma checks to influence those creatures.
 
 Source:	The Illrigger Revised p. 22 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Charm Enemy (Hellspeaker (Legacy))</name>
+        <name>Charm Enemy (Hellspeaker (Legacy))</name>
         <text>When you use your bonus action to place a seal on a Humanoid, you can attempt to charm them. The target must succeed on a Charisma saving throw or be charmed by you for 1 hour or until you or your companions do anything harmful to them. While charmed, the target regards you as a friendly acquaintance. When the charmed condition ends, the target knows they were charmed by you.
 	When you use this bonus action, you can additionally burn one or more seals on one or more other interdicted Humanoids within 30 feet of you, attempting to charm those targets as well. After taking damage from the burned seals, each of those targets must succeed on a Charisma saving throw or be under the same charmed effect.
 	You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest.
@@ -764,7 +764,7 @@ Source:	The Illrigger Revised p. 22 (Third Party)</text>
 Source:	The Illrigger Revised p. 22 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Invoke Hell (Hellspeaker (Legacy))</name>
+        <name>Invoke Hell (Hellspeaker (Legacy))</name>
         <text>You gain the following two Invoke Hell options:
 
 	Honey-Sweet Blades. When you make a weapon attack against an interdicted creature, you can gain advantage on that attack (no action required). If the attack hits, it becomes a critical hit.
@@ -776,7 +776,7 @@ Source:	The Illrigger Revised p. 22 (Third Party)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Moloch's Interdiction (Hellspeaker (Legacy))</name>
+        <name>Moloch's Interdiction (Hellspeaker (Legacy))</name>
         <text>You learn the following additional interdict boons at the noted illrigger levels. Once you learn an interdict boon granted by this feature, you always know it, and it doesn't count against the number of interdict boons you know.
 
 Red Cant (7th Level):. When you make a Charisma check, you can expend a seal to treat a d20 roll of 9 or lower as a 10.
@@ -790,13 +790,13 @@ Source:	The Illrigger Revised p. 23 (Third Party)</text>
     </autolevel>
     <autolevel level="11">
       <feature optional="YES">
-        <name>Level 11: Intransigent (Hellspeaker (Legacy))</name>
+        <name>Intransigent (Hellspeaker (Legacy))</name>
         <text>You and each creature of your choice within 10 feet of you are immune to the charmed condition while you are conscious.
 
 Source:	The Illrigger Revised p. 23 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 11: Let's Make A Deal (Hellspeaker (Legacy))</name>
+        <name>Let's Make A Deal (Hellspeaker (Legacy))</name>
         <text>You can offer your allies a deal—at a price, of course. As a bonus action, you choose one willing ally within 60 feet of you who can hear you.
 	Once within the next 10 minutes, the creature can choose to gain advantage on one attack roll or saving throw they make and can add a bonus equal to your proficiency bonus to the same roll. If this attack hits or this saving throw succeeds, the creature gains temporary hit points equal to your illrigger level. If this attack misses or this saving throw fails, the creature has disadvantage on the next attack roll or saving throw they make. This disadvantage can't be canceled out with advantage in any way. A creature can strike only one deal with you at a time.
 	You can use this feature a number of times equal to your proficiency bonus. You regain any expended uses when you finish a long rest.
@@ -812,7 +812,7 @@ Source:	The Illrigger Revised p. 23 (Third Party)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Quid Pro Quo (Hellspeaker (Legacy))</name>
+        <name>Quid Pro Quo (Hellspeaker (Legacy))</name>
         <text>You can whisper to the legions of Hell, ensnaring enemies and calling allies. As an action, you can attempt to banish a creature you can see within 30 feet of you. The target must succeed on a Charisma saving throw. On a failed save, the target is banished to the wastes of Hell for 1 minute, after which they return to the unoccupied space nearest to the one they left. A target banished in this way can repeat the saving throw at the end of each of their turns, ending the effect early on a success. A creature who succeeds on a saving throw against this effect becomes immune to your Quid Pro Quo for 24 hours.
 	Additionally, when a target is banished in this way, a devil jurist (from MCDM's Flee, Mortals!) or a horned devil (from the core rules) appears in their place. This devil acts as an ally to you and follows your commands until the banished creature is no longer banished, at which time the devil disappears.
 	Once you successfully banish a creature in this way, you can't use this feature again until you finish a long rest.
@@ -839,7 +839,7 @@ Dispater rules Dis, the City of War. When Hell invades another world, Dispater's
 Source:	The Illrigger Revised p. 23 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Precepts of Pride (Painkiller (Legacy))</name>
+        <name>Precepts of Pride (Painkiller (Legacy))</name>
         <text>Dispater's heavy shock troops must be effective battlefield commanders and quickly dispatch enemies. Painkillers follow precepts instructing them to lead Hell's armies and wage war against Good across the timescape.
 
 	Lead from the Front. I charge in at the front of every battle, inspiring my soldiers and terrifying my enemies.
@@ -853,20 +853,20 @@ Source:	The Illrigger Revised p. 23 (Third Party)</text>
 Source:	The Illrigger Revised p. 24 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Dispater's Blessing (Painkiller (Legacy))</name>
+        <name>Dispater's Blessing (Painkiller (Legacy))</name>
         <text>When Dispater accepts you as his illrigger, you gain proficiency with heavy armor.
 
 Source:	The Illrigger Revised p. 24 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Devastator (Painkiller (Legacy))</name>
+        <name>Devastator (Painkiller (Legacy))</name>
         <text>As an action, you invoke the authority of Dispater. You make a weapon attack and choose a number of willing creatures up to your proficiency bonus who you can see within 30 feet of you. Each creature you choose can use a reaction to make a weapon attack or cast a damage-dealing cantrip with a casting time of 1 action.
 	Once you use this action, you can't use it again until you finish a short or long rest.
 
 Source:	The Illrigger Revised p. 24 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Invoke Hell (Painkiller (Legacy))</name>
+        <name>Invoke Hell (Painkiller (Legacy))</name>
         <text>You gain the following two Invoke Hell options:
 
 	Grand Strategist. You can order your allies to follow your formation (no action required). Choose one or more creatures within 60 feet of you who can hear you, up to a number of creatures equal to your proficiency bonus. Each target can immediately move up to half their speed without provoking opportunity attacks.
@@ -884,7 +884,7 @@ Source:	The Illrigger Revised p. 24 (Third Party)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Dispater's Interdiction (Painkiller (Legacy))</name>
+        <name>Dispater's Interdiction (Painkiller (Legacy))</name>
         <text>You learn the following additional interdict boons at the noted illrigger levels. Once you learn an interdict boon granted by this feature, you always know it, and it doesn't count against the number of interdict boons you know.
 
 Telekinetic Seal (7th Level). When a creature you can see moves within 5 feet of you, you can use your reaction to place a seal on them. When you do, the target must succeed on a Wisdom saving throw or be either pushed back 15 feet or knocked prone (your choice).
@@ -898,7 +898,7 @@ Source:	The Illrigger Revised p. 24 (Third Party)</text>
     </autolevel>
     <autolevel level="11">
       <feature optional="YES">
-        <name>Level 11: You Die on My Command! (Painkiller (Legacy))</name>
+        <name>You Die on My Command! (Painkiller (Legacy))</name>
         <text>When an ally within 30 feet of you who can hear you drops to 0 hit points without being killed outright, you can use your reaction to shout an order at them, causing them to drop to 1 hit point instead. Once you use this reaction, you can't do so again until you finish a short or long rest.
 
 Source:	The Illrigger Revised p. 24 (Third Party)</text>
@@ -912,7 +912,7 @@ Source:	The Illrigger Revised p. 24 (Third Party)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Deathstrike (Painkiller (Legacy))</name>
+        <name>Deathstrike (Painkiller (Legacy))</name>
         <text>When you hit an interdicted creature with a melee weapon attack, you can use your reaction to burn one of the seals on them to turn the hit into a critical hit. When you do, you also double the damage dice you roll for the burned seal.
 	You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -934,7 +934,7 @@ This subclass deals with manipulating another creature's blood. Before choosing 
 Source:	The Illrigger Revised p. 25 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Precepts of Blood (Sanguine Knight (Legacy))</name>
+        <name>Precepts of Blood (Sanguine Knight (Legacy))</name>
         <text>Sanguine Knights swear an oath to Sutekh when they join the Order of Desolation. These tenets swear them to wield profane blood magic, commanding loyalty and inflicting terror.
 
 	Their Strength Is Their Weakness. I target the strongest of my foes, for their vitality shall feed my victory.
@@ -948,20 +948,20 @@ Source:	The Illrigger Revised p. 25 (Third Party)</text>
 Source:	The Illrigger Revised p. 25 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Exsanguinate (Sanguine Knight (Legacy))</name>
+        <name>Exsanguinate (Sanguine Knight (Legacy))</name>
         <text>You can drain enemies to embolden your allies. Whenever you burn one or more seals on a creature who isn't a Construct or Undead, you can choose an ally you can see within 30 feet of you. That ally gains temporary hit points equal to the damage dealt by the seals to the interdicted creature.
 
 Source:	The Illrigger Revised p. 26 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Sutekh's Blessing (Sanguine Knight (Legacy))</name>
+        <name>Sutekh's Blessing (Sanguine Knight (Legacy))</name>
         <text>When Sutekh accepts you as his illrigger, he grants you access to his sacrilegious command of blood and life. You gain proficiency in the Religion skill.
 	In addition, as an action, you can expand your awareness of life around you. Until the end of your next turn, you can sense creatures who have blood within 120 feet of you without having to see them. This ability can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt. You know the distance and direction of each creature, as well as the creature's type. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 Source:	The Illrigger Revised p. 26 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Invoke Hell (Sanguine Knight (Legacy))</name>
+        <name>Invoke Hell (Sanguine Knight (Legacy))</name>
         <text>You gain the following two Invoke Hell options:
 
 	Embolden Allies. As a bonus action, you restore a total number of hit points equal to five times your illrigger level, divided however you choose between yourself and other creatures within 30 feet of you.
@@ -973,7 +973,7 @@ Source:	The Illrigger Revised p. 26 (Third Party)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Sutekh's Interdiction (Sanguine Knight (Legacy))</name>
+        <name>Sutekh's Interdiction (Sanguine Knight (Legacy))</name>
         <text>You learn the following additional interdict boons at the noted illrigger levels. Once you learn an interdict boon granted by this feature, you always know it, and it doesn't count against the number of interdict boons you know.
 
 Foul Interchange (7th Level). As an action, you choose a creature you can see within 30 feet of you and expend a seal to end one of the following conditions afflicting them: blinded, charmed, dazed, deafened, frightened, paralyzed, or poisoned. Another creature you can see within 60 feet of you must succeed on a Constitution saving throw or suffer that same condition until the end of your next turn. If that creature is immune to the condition, they don't suffer the condition, but the condition ends for the original creature.
@@ -987,7 +987,7 @@ Source:	The Illrigger Revised p. 26 (Third Party)</text>
     </autolevel>
     <autolevel level="11">
       <feature optional="YES">
-        <name>Level 11: Bloodstroke (Sanguine Knight (Legacy))</name>
+        <name>Bloodstroke (Sanguine Knight (Legacy))</name>
         <text>The magic that shields your allies now also saps their enemies' strength. When an ally who has temporary hit points from your Exsanguinate feature is hit by a melee attack, the attacker takes cold, fire, or necrotic damage (your choice) equal to your illrigger level.
 
 Source:	The Illrigger Revised p. 26 (Third Party)</text>
@@ -995,7 +995,7 @@ Source:	The Illrigger Revised p. 26 (Third Party)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Haemal Exchange (Sanguine Knight (Legacy))</name>
+        <name>Haemal Exchange (Sanguine Knight (Legacy))</name>
         <text>You have mastered the ability to enervate enemies and endow allies. When an interdicted creature within 60 feet of you makes an attack roll or saving throw, you can use your reaction to burn one of the seals on them and transfer their power. The target must roll a d8 and subtract the number rolled from the triggering attack roll or saving throw.
 	You then empower an ally within 30 feet of you. The next time that ally makes an attack roll or saving throw, they roll a d8 and add the number rolled to the attack roll or saving throw.
 
@@ -1014,7 +1014,7 @@ Belial rules Gehennom, the City of Darkness. He strives to rule Hell through poi
 Source:	The Illrigger Revised p. 27 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Precepts of Shadow (Shadowmaster (Legacy))</name>
+        <name>Precepts of Shadow (Shadowmaster (Legacy))</name>
         <text>Shadowmasters swear an oath to Belial when they join the Order of Desolation. These precepts commit them to serve Belial's foes as allies before revealing themselves as enemies.
 
 	Plans Within Plans. My enemies must never discover my true goals. If needed, I will sacrifice myself to protect my schemes.
@@ -1028,19 +1028,19 @@ Source:	The Illrigger Revised p. 27 (Third Party)</text>
 Source:	The Illrigger Revised p. 27 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Marked for Death (Shadowmaster (Legacy))</name>
+        <name>Marked for Death (Shadowmaster (Legacy))</name>
         <text>You are particularly skilled against foes you mark for death. You have advantage on your first attack against an interdicted creature on each of your turns.
 
 Source:	The Illrigger Revised p. 27 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Strike from the Dark (Shadowmaster (Legacy))</name>
+        <name>Strike from the Dark (Shadowmaster (Legacy))</name>
         <text>You understand the power of striking from the shadows. Once per turn, when you hit an interdicted creature with a melee weapon attack and you have advantage on the attack roll, you can roll a number of d4s equal to your proficiency bonus and deal extra damage equal to the total you rolled. This damage increases by 1d4 if the target is in dim light or darkness.
 
 Source:	The Illrigger Revised p. 27 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Invoke Hell (Shadowmaster (Legacy))</name>
+        <name>Invoke Hell (Shadowmaster (Legacy))</name>
         <text>You gain the following two Invoke Hell options:
 
 	Master of Disguise. As an action, you can cast the disguise self spell without expending a spell slot.
@@ -1052,7 +1052,7 @@ Source:	The Illrigger Revised p. 27 (Third Party)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Belial's Interdiction (Shadowmaster (Legacy))</name>
+        <name>Belial's Interdiction (Shadowmaster (Legacy))</name>
         <text>You learn the following additional interdict boons at the noted illrigger levels. Once you learn an interdict boon granted by this feature, you always know it, and it doesn't count against the number of interdict boons you know.
 
 Veil of Lies (7th Level). As a bonus action, you can expend a seal to become invisible for 10 minutes or until you attack or cast a spell.
@@ -1066,7 +1066,7 @@ Source:	The Illrigger Revised p. 27 (Third Party)</text>
     </autolevel>
     <autolevel level="11">
       <feature optional="YES">
-        <name>Level 11: Umbral Killer (Shadowmaster (Legacy))</name>
+        <name>Umbral Killer (Shadowmaster (Legacy))</name>
         <text>Shadows are your companion, aiding you in your exploits. You gain the following benefits:
 
 	• You gain darkvision out to 60 feet. If you already have darkvision, its range increases by 60 feet.
@@ -1081,7 +1081,7 @@ Source:	The Illrigger Revised p. 28 (Third Party)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Doomed to the Shadows (Shadowmaster (Legacy))</name>
+        <name>Doomed to the Shadows (Shadowmaster (Legacy))</name>
         <text>You have perfected your assassin's strike. The extra damage from your Strike from the Dark feature increases to a number of d8s equal to your proficiency bonus (instead of that number of d4s), and you deal an extra 2d8 damage if the target is in dim light or darkness (instead of an extra 1d4 damage).
 	In addition, when you deal damage using Strike from the Dark, you can use your reaction to burn a seal on the creature, causing them to be blinded for 1 minute instead of dealing the seal's damage.
 

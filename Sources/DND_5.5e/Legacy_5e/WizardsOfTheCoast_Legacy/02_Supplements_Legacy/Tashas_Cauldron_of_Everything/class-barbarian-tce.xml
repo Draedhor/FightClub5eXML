@@ -20,7 +20,7 @@ Source:	Tasha's Cauldron of Everything p. 24</text>
         <roll description="Origin of the Beast">1d4</roll>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Form of the Beast (Path of the Beast (Legacy))</name>
+        <name>Form of the Beast (Path of the Beast (Legacy))</name>
         <text>When you enter your rage, you can transform, revealing the bestial power within you. Until the rage ends, you manifest a natural weapon. It counts as a simple melee weapon for you, and you add your Strength modifier to the attack and damage rolls when you attack with it, as normal.
 	You choose the weapon's form each time you rage:
 
@@ -38,7 +38,7 @@ Source:	Tasha's Cauldron of Everything p. 24</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Bestial Soul (Path of the Beast (Legacy))</name>
+        <name>Bestial Soul (Path of the Beast (Legacy))</name>
         <text>The feral power within you increases, causing the natural weapons of your Form of the Beast to count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 	You can also alter your form to help you adapt to your surroundings. When you finish a short or long rest, choose one of the following benefits, which lasts until you finish your next short or long rest:
 
@@ -53,7 +53,7 @@ Source:	Tasha's Cauldron of Everything p. 24</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Infectious Fury (Path of the Beast (Legacy))</name>
+        <name>Infectious Fury (Path of the Beast (Legacy))</name>
         <text>When you hit a creature with your natural weapons while you are raging, the beast within you can curse your target with rabid fury. The target must succeed on a Wisdom saving throw (DC equal to 8 + your Constitution modifier + your proficiency bonus) or suffer one of the following effects (your choice):
 
 	• The target must use its reaction to make a melee attack against another creature of your choice that you can see.
@@ -82,7 +82,7 @@ Source:	Tasha's Cauldron of Everything p. 24</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Call the Hunt (Path of the Beast (Legacy))</name>
+        <name>Call the Hunt (Path of the Beast (Legacy))</name>
         <text>The beast within you grows so powerful that you can spread its ferocity to others and gain resilience from them joining your hunt. When you enter your rage, you can choose a number of other willing creatures you can see within 30 feet of you equal to your Constitution modifier (minimum of one creature). You gain 5 temporary hit points for each creature that accepts this feature. Until the rage ends, the chosen creatures can each use the following benefit once on each of their turns: when the creature hits a target with an attack roll and deals damage to it, the creature can roll a d6 and gain a bonus to the damage equal to the number rolled.
 	You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -112,14 +112,14 @@ Source:	Tasha's Cauldron of Everything p. 25</text>
 Source:	Tasha's Cauldron of Everything p. 25</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Magic Awareness (Path of Wild Magic (Legacy))</name>
+        <name>Magic Awareness (Path of Wild Magic (Legacy))</name>
         <text>As an action, you can open your awareness to the presence of concentrated magic. Until the end of your next turn, you know the location of any spell or magic item within 60 feet of you that isn't behind total cover. When you sense a spell, you learn which school of magic it belongs to.
 	You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 Source:	Tasha's Cauldron of Everything p. 25</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Wild Surge (Path of Wild Magic (Legacy))</name>
+        <name>Wild Surge (Path of Wild Magic (Legacy))</name>
         <text>The magical energy roiling inside you sometimes erupts from you. When you enter your rage, roll on the Wild Magic table to determine the magical effect produced.
 	If the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Constitution modifier.
 
@@ -158,7 +158,7 @@ Source:	Tasha's Cauldron of Everything p. 25</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Bolstering Magic (Path of Wild Magic (Legacy))</name>
+        <name>Bolstering Magic (Path of Wild Magic (Legacy))</name>
         <text>At 6th level, you can harness your wild magic to bolster yourself or a companion. As an action, you can touch one creature (which can be yourself) and confer one of the following benefits of your choice to that creature:
 
 	• For 10 minutes, the creature can roll a d3 whenever making an attack roll or an ability check and add the number rolled to the d20 roll.
@@ -192,7 +192,7 @@ Source:	Tasha's Cauldron of Everything p. 26</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Unstable Backlash (Path of Wild Magic (Legacy))</name>
+        <name>Unstable Backlash (Path of Wild Magic (Legacy))</name>
         <text>When you are imperiled during your rage, the magic within you can lash out; immediately after you take damage or fail a saving throw while raging, you can use your reaction to roll on the Wild Magic table and immediately produce the effect rolled. This effect replaces your current Wild Magic effect.
 
 Source:	Tasha's Cauldron of Everything p. 25</text>
@@ -214,7 +214,7 @@ Source:	Tasha's Cauldron of Everything p. 25</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Controlled Surge (Path of Wild Magic (Legacy))</name>
+        <name>Controlled Surge (Path of Wild Magic (Legacy))</name>
         <text>Whenever you roll on the Wild Magic table, you can roll the die twice and choose which of the two effects to unleash. If you roll the same number on both dice, you can ignore the number and choose any effect on the table.
 
 Source:	Tasha's Cauldron of Everything p. 25</text>

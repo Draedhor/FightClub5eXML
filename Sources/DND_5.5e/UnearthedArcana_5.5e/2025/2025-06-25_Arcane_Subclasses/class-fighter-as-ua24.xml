@@ -24,7 +24,7 @@ Here are the main updates in this subclass since its appearance in Xanathar's Gu
 Source:	UA25-ArcaneSubclasses p. 2</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Arcane Archer Lore (Arcane Archer (UA))</name>
+        <name>Arcane Archer Lore (Arcane Archer (UA))</name>
         <text>You learn magical theory and secrets of nature, granting you the following benefits.
 
 	Cantrip. You know either the Druidcraft or Prestidigitation cantrip. Intelligence is your spellcasting ability for it.
@@ -34,7 +34,7 @@ Source:	UA25-ArcaneSubclasses p. 2</text>
 Source:	UA25-ArcaneSubclasses p. 2</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Arcane Shot (Arcane Archer (UA))</name>
+        <name>Arcane Shot (Arcane Archer (UA))</name>
         <text>You learn to unleash special magical effects with some of your shots.
 
 	Arcane Shot Options. You learn two Arcane Shot options of your choice from the "Fighter (Arcane Archer (UA)): Arcane Shot Options" spell list.
@@ -53,19 +53,19 @@ Source:	UA25-ArcaneSubclasses p. 2</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Curving Shot (Arcane Archer (UA))</name>
+        <name>Curving Shot (Arcane Archer (UA))</name>
         <text>You learn how to direct an errant shot toward a new target. If you make an attack roll with a weapon with the Ammunition property and miss, as a Bonus Action immediately after the attack, you can make an extra attack with the same weapon against a different target that you can see, that is within the weapon's long range, and that isn't behind Total Cover. This extra attack doesn't require ammunition.
 
 Source:	UA25-ArcaneSubclasses p. 3</text>
       </feature>
       <feature optional="YES">
-        <name>Level 7: Ever Ready Shot (Arcane Archer (UA))</name>
+        <name>Ever Ready Shot (Arcane Archer (UA))</name>
         <text>When you roll Initiative and have no uses of Arcane Shot left, you regain one expended use of it.
 
 Source:	UA25-ArcaneSubclasses p. 3</text>
       </feature>
       <feature optional="YES">
-        <name>Level 7: Arcane Shot Improvement (1) (Arcane Archer (UA))</name>
+        <name>Arcane Shot Improvement (1) (Arcane Archer (UA))</name>
         <text>You learn an additional Arcane Shot option of your choice from the "Fighter (Arcane Archer (UA)): Arcane Shot Options" spell list when you reach Fighter levels 7. Each time you learn a new Arcane Shot option, you can also replace one option you know with a different one.
 
 Source:	UA25-ArcaneSubclasses p. 2</text>
@@ -73,14 +73,14 @@ Source:	UA25-ArcaneSubclasses p. 2</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Improved Shots (Arcane Archer (UA))</name>
+        <name>Improved Shots (Arcane Archer (UA))</name>
         <text>Your Arcane Shot Die becomes a d8.
 
 Source:	UA25-ArcaneSubclasses p. 3</text>
         <roll description="Arcane Shot">1d8</roll>
       </feature>
       <feature optional="YES">
-        <name>Level 10: Arcane Shot Improvement (2) (Arcane Archer (UA))</name>
+        <name>Arcane Shot Improvement (2) (Arcane Archer (UA))</name>
         <text>You learn an additional Arcane Shot option of your choice from the "Fighter (Arcane Archer (UA)): Arcane Shot Options" spell list when you reach Fighter levels 10. Each time you learn a new Arcane Shot option, you can also replace one option you know with a different one.
 
 Source:	UA25-ArcaneSubclasses p. 2</text>
@@ -88,14 +88,14 @@ Source:	UA25-ArcaneSubclasses p. 2</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Powerful Shots (Arcane Archer (UA))</name>
+        <name>Powerful Shots (Arcane Archer (UA))</name>
         <text>Your Arcane Shot Die becomes a d10.
 
 Source:	UA25-ArcaneSubclasses p. 2</text>
         <roll description="Arcane Shot">1d10</roll>
       </feature>
       <feature optional="YES">
-        <name>Level 15: Arcane Shot Improvement (3) (Arcane Archer (UA))</name>
+        <name>Arcane Shot Improvement (3) (Arcane Archer (UA))</name>
         <text>You learn an additional Arcane Shot option of your choice from the "Fighter (Arcane Archer (UA)): Arcane Shot Options" spell list when you reach Fighter level 18. Each time you learn a new Arcane Shot option, you can also replace one option you know with a different one.
 
 Source:	UA25-ArcaneSubclasses p. 2</text>
@@ -103,14 +103,14 @@ Source:	UA25-ArcaneSubclasses p. 2</text>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">
-        <name>Level 18: Masterful Shots (Arcane Archer (UA))</name>
+        <name>Masterful Shots (Arcane Archer (UA))</name>
         <text>Your Arcane Shot Die becomes a d12.
 
 Source:	UA25-ArcaneSubclasses p. 2</text>
         <roll description="Arcane Shot">1d12</roll>
       </feature>
       <feature optional="YES">
-        <name>Level 18: Arcane Shot Improvement (4) (Arcane Archer (UA))</name>
+        <name>Arcane Shot Improvement (4) (Arcane Archer (UA))</name>
         <text>You learn an additional Arcane Shot option of your choice from the "Fighter (Arcane Archer (UA)): Arcane Shot Options" spell list when you reach Fighter levels 7, 10, 15, and 18. Each time you learn a new Arcane Shot option, you can also replace one option you know with a different one.
 
 Source:	UA25-ArcaneSubclasses p. 2</text>

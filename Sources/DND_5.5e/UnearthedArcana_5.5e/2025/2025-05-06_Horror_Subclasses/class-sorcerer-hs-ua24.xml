@@ -24,14 +24,14 @@ Here are the main updates in this subclass since its appearance in Xanathar's Gu
 Source:	UA2024-Horror Subclasses p. 7</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Eyes of the Dark (Shadow Sorcery (UA))</name>
+        <name>Eyes of the Dark (Shadow Sorcery (UA))</name>
         <text>You have Darkvision with a range of 120 feet and Blindsight with a range of 10 feet.
 	In addition, if a spell you cast creates an area of Darkness, you can see normally through that spell's Darkness.
 
 Source:	UA2024-Horror Subclasses p. 7</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Shadow Spells (Shadow Sorcery (UA))</name>
+        <name>Shadow Spells (Shadow Sorcery (UA))</name>
         <text>When you reach a Sorcerer level specified in the Shadow Spells table, you thereafter always have the listed spells prepared.
 
 Shadow Spells:
@@ -46,7 +46,7 @@ Source:	UA2024-Horror Subclasses p. 7</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Spirits of Ill Omen (Shadow Sorcery (UA))</name>
+        <name>Spirits of Ill Omen (Shadow Sorcery (UA))</name>
         <text>You can cast Summon Undead without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a Long Rest.
 	Whenever you start casting the spell, you can modify it so that it doesn't require Concentration. If you do so, the spell's duration becomes 1 minute for that casting, and the spell ends early if you cast it again.
 
@@ -55,7 +55,7 @@ Source:	UA2024-Horror Subclasses p. 7</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Shadow Walk (Shadow Sorcery (UA))</name>
+        <name>Shadow Walk (Shadow Sorcery (UA))</name>
         <text>While you are in Dim Light or Darkness, you can take a Bonus Action to teleport up to 120 feet to an unoccupied space you can see that is also in Dim Light or Darkness.
 
 Source:	UA2024-Horror Subclasses p. 7</text>
@@ -63,7 +63,7 @@ Source:	UA2024-Horror Subclasses p. 7</text>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">
-        <name>Level 18: Umbral Form (Shadow Sorcery (UA))</name>
+        <name>Umbral Form (Shadow Sorcery (UA))</name>
         <text>As a Bonus Action, you adopt a shadowy form, gaining the benefits below for 1 minute, until you have the Incapacitated condition, or until you end the form (no action required). Once you use this feature, you can't use it again until you finish a Long Rest unless you spend 6 Sorcery Points (no action required) to restore your use of it.
 
 	Incorporeal Movement. You can move through occupied spaces as if they were Difficult Terrain. If you end your turn in such a space, you take 1d10 Force damage.

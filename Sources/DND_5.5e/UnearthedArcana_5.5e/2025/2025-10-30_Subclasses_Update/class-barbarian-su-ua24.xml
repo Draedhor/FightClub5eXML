@@ -13,7 +13,7 @@ Barbarians who walk the Path of the Spiritual Guardian call upon spirits—wheth
 Source:	Subclasses Update p. 1 (Unearthed Arcana)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Spiritual Protectors (Path of the Spiritual Guardian (UA))</name>
+        <name>Spiritual Protectors (Path of the Spiritual Guardian (UA))</name>
         <text>Your Rage summons spectral warriors to your aid. While your Rage is active, when you hit a creature with a weapon or an Unarmed Strike, it becomes the target of the spirits, which cause one of the following effects of your choice.
 
 	Distract. Until the start of your next turn, the target has Disadvantage attack rolls against targets other than you or another Barbarian who has this feature.
@@ -28,7 +28,7 @@ Source:	Subclasses Update p. 1 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Spirit Shield (Path of the Spiritual Guardian (UA))</name>
+        <name>Spirit Shield (Path of the Spiritual Guardian (UA))</name>
         <text>Your guardian spirits can provide supernatural protection to those you defend. While your Rage is active, when another creature you can see within 30 feet of you takes damage, you can take a Reaction to reduce that damage. To determine the amount the damage is reduced by, roll a number of d6s equal to your Rage Damage bonus, and add them together.
 
 Source:	Subclasses Update p. 2 (Unearthed Arcana)</text>
@@ -39,7 +39,7 @@ Source:	Subclasses Update p. 2 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Consult The Spirits (Path of the Spiritual Guardian (UA))</name>
+        <name>Consult The Spirits (Path of the Spiritual Guardian (UA))</name>
         <text>You gain the ability to consult with your guardian spirits. When you do so, you cast the Augury or Clairvoyance spell, without expending a spell slot or needing Material components. Rather than creating a spherical sensor, this use of Clairvoyance invisibly summons one of your guardian spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
 	After you cast either spell in this way, you can't use this feature again until you finish a Short or Long Rest.
 
@@ -48,7 +48,7 @@ Source:	Subclasses Update p. 2 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Vengeful Spirits (Path of the Spiritual Guardian (UA))</name>
+        <name>Vengeful Spirits (Path of the Spiritual Guardian (UA))</name>
         <text>When you make an attack roll with a Melee weapon as part of the Attack action and roll 18-20 on the d20, you can make one additional attack roll with the same weapon as part of that action. Once you use this feature, you can't do so again until the start of your next turn.
 
 Source:	Subclasses Update p. 2 (Unearthed Arcana)</text>
@@ -65,7 +65,7 @@ Barbarians who follow the Path of the Storm Herald learn to harness their Rage i
 Source:	Subclasses Update p. 2 (Unearthed Arcana)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Storm Aura (Path of the Storm Herald (UA))</name>
+        <name>Storm Aura (Path of the Storm Herald (UA))</name>
         <text>Whenever you activate your Rage, choose Desert, Sea, or Tundra. You extend an aura in a 10-foot Emanation originating from yourself for the duration of your Rage.
 	Your aura has an effect that activates when you enter your Rage, and you can activate the effect again on each of your turns as a Bonus Action. Your aura's effect depends on the chosen environment, as detailed below.
 	If your aura's effect requires a saving throw, the DC equals 8 plus your Proficiency bonus plus your Constitution modifier.
@@ -87,7 +87,7 @@ Source:	Subclasses Update p. 2 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Storm Soul (Path of the Storm Herald (UA))</name>
+        <name>Storm Soul (Path of the Storm Herald (UA))</name>
         <text>The storm grants you benefits even when your aura isn't active. The benefits are based on the environment you chose for your Storm Aura the last time you entered your Rage.
 
 	Desert. You gain Resistance to Fire damage. As a Magic action, you can touch a flammable object that isn't being worn or carried by anyone else fand cause the object to start burning.
@@ -101,7 +101,7 @@ Source:	Subclasses Update p. 2 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Shielding Storm (Path of the Storm Herald (UA))</name>
+        <name>Shielding Storm (Path of the Storm Herald (UA))</name>
         <text>You can use your mastery of the storm to protect others. Each creature of your choice within your Storm Aura has the damage Resistance you have from the Storm Soul feature.
 
 Source:	Subclasses Update p. 3 (Unearthed Arcana)</text>
@@ -109,7 +109,7 @@ Source:	Subclasses Update p. 3 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Raging Storm (Path of the Storm Herald (UA))</name>
+        <name>Raging Storm (Path of the Storm Herald (UA))</name>
         <text>The power of the storm you channel grows mightier, lashing out at your foes. The effect is based on the environment you choose for your Storm Aura.
 
 	Desert. Once per turn, when a creature you can see fails its saving throw against your Storm Aura effect, you can cause it to start burning for 1 minute or until your Rage ends. A burning creature takes an extra 1d4 Fire damage (2d4 Fire damage total) at the start of each of its turns.

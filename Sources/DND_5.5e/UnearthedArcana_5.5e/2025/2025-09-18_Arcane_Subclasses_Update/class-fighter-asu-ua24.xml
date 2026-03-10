@@ -13,7 +13,7 @@ An Arcane Archer studies a unique elven method of archery that weaves magic into
 Source:	UA25-ArcaneSubclassesUpdate p. 2</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Arcane Archer Lore (Arcane Archer v2 (UA))</name>
+        <name>Arcane Archer Lore (Arcane Archer v2 (UA))</name>
         <text>You learn magical theory and secrets of nature, granting you the following benefits.
 
 	Cantrip. You know either the Druidcraft or Prestidigitation cantrip. Intelligence is your spellcasting ability for it.
@@ -23,7 +23,7 @@ Source:	UA25-ArcaneSubclassesUpdate p. 2</text>
 Source:	UA25-ArcaneSubclassesUpdate p. 2</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Arcane Shot (Arcane Archer v2 (UA))</name>
+        <name>Arcane Shot (Arcane Archer v2 (UA))</name>
         <text>You learn to unleash special magical effects with some of your shots.
 
 	Arcane Shot Options. You learn two Arcane Shot options of your choice from the "Fighter (Arcane Archer v2 (UA)): Arcane Shot Options" spell list.
@@ -42,13 +42,13 @@ Source:	UA25-ArcaneSubclassesUpdate p. 2</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Curving Shot (Arcane Archer v2 (UA))</name>
+        <name>Curving Shot (Arcane Archer v2 (UA))</name>
         <text>You learn how to direct an errant shot toward a new target. If you make an attack roll with a weapon with the Ammunition property and miss, you can cause the shot to ricochet toward a new target as a Bonus Action immediately after the attack misses. The new target must be a creature you can see within the weapon's range and within 60 feet of the attack's original target. Make an attack roll against the new target.
 
 Source:	UA25-ArcaneSubclassesUpdate p. 3</text>
       </feature>
       <feature optional="YES">
-        <name>Level 7: Magical Ammunition (Arcane Archer v2 (UA))</name>
+        <name>Magical Ammunition (Arcane Archer v2 (UA))</name>
         <text>You learn to imbue your ammunition with magical properties. As a Magic action, you can imbue a piece of nonmagical ammunition with one of the following magical properties and fire it at a solid surface you can see within the weapon's range. On a hit, the ammunition's effect activates, and the ammunition attaches to the surface it hit for the duration of the effect; when the effect ends, the ammunition is destroyed.
 	Once you use this feature, you can't do so again until you finish a Short or Long Rest. You can also restore your use of this feature by expending a use of your Second Wind (no action required).
 
@@ -61,7 +61,7 @@ Source:	UA25-ArcaneSubclassesUpdate p. 3</text>
 Source:	UA25-ArcaneSubclassesUpdate p. 2</text>
       </feature>
       <feature optional="YES">
-        <name>Level 7: Arcane Shot Improvement (1) (Arcane Archer v2 (UA))</name>
+        <name>Arcane Shot Improvement (1) (Arcane Archer v2 (UA))</name>
         <text>You learn an additional Arcane Shot option of your choice from the "Fighter (Arcane Archer v2 (UA)): Arcane Shot Options" spell list when you reach Fighter levels 7. Each time you learn a new Arcane Shot option, you can also replace one option you know with a different one.
 
 Source:	UA25-ArcaneSubclassesUpdate p. 2</text>
@@ -69,13 +69,13 @@ Source:	UA25-ArcaneSubclassesUpdate p. 2</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Ever Ready Shot (Arcane Archer v2 (UA))</name>
+        <name>Ever Ready Shot (Arcane Archer v2 (UA))</name>
         <text>When you roll Initiative, you can regain one expended use of Arcane Shot.
 
 Source:	UA25-ArcaneSubclassesUpdate p. 3</text>
       </feature>
       <feature optional="YES">
-        <name>Level 10: Arcane Shot Improvement (2) (Arcane Archer v2 (UA))</name>
+        <name>Arcane Shot Improvement (2) (Arcane Archer v2 (UA))</name>
         <text>You learn an additional Arcane Shot option of your choice from the "Fighter (Arcane Archer v2 (UA)): Arcane Shot Options" spell list when you reach Fighter levels 10. Each time you learn a new Arcane Shot option, you can also replace one option you know with a different one.
 
 Source:	UA25-ArcaneSubclassesUpdate p. 2</text>
@@ -83,13 +83,13 @@ Source:	UA25-ArcaneSubclassesUpdate p. 2</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Arcane Burst (Arcane Archer v2 (UA))</name>
+        <name>Arcane Burst (Arcane Archer v2 (UA))</name>
         <text>You can push creatures away from you with your arcane mastery. When you use Indomitable, each creature of your choice in a 10-foot Emanation originating from you must succeed on a Strength saving throw against your Arcane Shot DC or be pushed up to 20 feet straight away from you.
 
 Source:	UA25-ArcaneSubclassesUpdate p. 2</text>
       </feature>
       <feature optional="YES">
-        <name>Level 15: Arcane Shot Improvement (3) (Arcane Archer v2 (UA))</name>
+        <name>Arcane Shot Improvement (3) (Arcane Archer v2 (UA))</name>
         <text>You learn an additional Arcane Shot option of your choice from the "Fighter (Arcane Archer v2 (UA)): Arcane Shot Options" spell list when you reach Fighter level 18. Each time you learn a new Arcane Shot option, you can also replace one option you know with a different one.
 
 Source:	UA25-ArcaneSubclassesUpdate p. 2</text>
@@ -97,13 +97,13 @@ Source:	UA25-ArcaneSubclassesUpdate p. 2</text>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">
-        <name>Level 18: Masterful Shots (Arcane Archer v2 (UA))</name>
+        <name>Masterful Shots (Arcane Archer v2 (UA))</name>
         <text>You employ agility in your sharpshooting When a creature you can see misses you with an attack roll, you can take a Reaction to move up to half your Speed away from the attacker without provoking Opportunity Attacks. You can then make a ranged attack roll against the attacker as part of this Reaction if the attacker is within the weapon's range.
 
 Source:	UA25-ArcaneSubclassesUpdate p. 3</text>
       </feature>
       <feature optional="YES">
-        <name>Level 18: Arcane Shot Improvement (4) (Arcane Archer v2 (UA))</name>
+        <name>Arcane Shot Improvement (4) (Arcane Archer v2 (UA))</name>
         <text>You learn an additional Arcane Shot option of your choice from the "Fighter (Arcane Archer v2 (UA)): Arcane Shot Options" spell list when you reach Fighter levels 7, 10, 15, and 18. Each time you learn a new Arcane Shot option, you can also replace one option you know with a different one.
 
 Source:	UA25-ArcaneSubclassesUpdate p. 2</text>

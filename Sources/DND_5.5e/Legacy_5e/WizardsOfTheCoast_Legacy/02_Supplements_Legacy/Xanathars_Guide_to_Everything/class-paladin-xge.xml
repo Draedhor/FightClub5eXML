@@ -32,13 +32,13 @@ Paladin Level | Spells
 Source:	Xanathar's Guide to Everything p. 37</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Channel Divinity: Conquering Presence (Oath of Conquest (Legacy))</name>
+        <name>Channel Divinity: Conquering Presence (Oath of Conquest (Legacy))</name>
         <text>You can use your Channel Divinity to exude a terrifying presence. As an action, you force each creature of your choice that you can see within 30 feet of you to make a Wisdom saving throw. On a failed save, a creature becomes frightened of you for 1 minute. The frightened creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 Source:	Xanathar's Guide to Everything p. 37</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Channel Divinity: Guided Strike (Oath of Conquest (Legacy))</name>
+        <name>Channel Divinity: Guided Strike (Oath of Conquest (Legacy))</name>
         <text>You can use your Channel Divinity to strike with supernatural accuracy. When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
 
 Source:	Xanathar's Guide to Everything p. 37</text>
@@ -46,7 +46,7 @@ Source:	Xanathar's Guide to Everything p. 37</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Aura of Conquest (Oath of Conquest (Legacy))</name>
+        <name>Aura of Conquest (Oath of Conquest (Legacy))</name>
         <text>Starting at 7th level, you constantly emanate a menacing aura while you're not incapacitated. The aura extends 10 feet from you in every direction, but not through total cover.
 	If a creature is frightened of you, its speed is reduced to 0 while in the aura, and that creature takes psychic damage equal to half your paladin level if it starts its turn there.
 	At 18th level, the range of this aura increases to 30 feet.
@@ -56,7 +56,7 @@ Source:	Xanathar's Guide to Everything p. 37</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Scornful Rebuke (Oath of Conquest (Legacy))</name>
+        <name>Scornful Rebuke (Oath of Conquest (Legacy))</name>
         <text>Starting at 15th level, those who dare to strike you are psychically punished for their audacity. Whenever a creature hits you with an attack, that creature takes psychic damage equal to your Charisma modifier (minimum of 1) if you're not incapacitated.
 
 Source:	Xanathar's Guide to Everything p. 37</text>
@@ -64,7 +64,7 @@ Source:	Xanathar's Guide to Everything p. 37</text>
     </autolevel>
     <autolevel level="20">
       <feature optional="YES">
-        <name>Level 20: Invincible Conqueror (Oath of Conquest (Legacy))</name>
+        <name>Invincible Conqueror (Oath of Conquest (Legacy))</name>
         <text>At 20th level, you gain the ability to harness extraordinary martial prowess. As an action, you can magically become an avatar of conquest, gaining the following benefits for 1 minute:
 
 	• You have resistance to all damage.
@@ -116,13 +116,13 @@ Paladin Level | Spells
 Source:	Xanathar's Guide to Everything p. 38</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Channel Divinity: Emissary of Peace (Oath of Redemption (Legacy))</name>
+        <name>Channel Divinity: Emissary of Peace (Oath of Redemption (Legacy))</name>
         <text>You can use your Channel Divinity to augment your presence with divine power. As a bonus action, you grant yourself a +5 bonus to Charisma (Persuasion) checks for the next 10 minutes.
 
 Source:	Xanathar's Guide to Everything p. 38</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Channel Divinity: Rebuke the Violent (Oath of Redemption (Legacy))</name>
+        <name>Channel Divinity: Rebuke the Violent (Oath of Redemption (Legacy))</name>
         <text>You can use your Channel Divinity to rebuke those who use violence. Immediately after an attacker within 30 feet of you deals damage with an attack against a creature other than you, you can use your reaction to force the attacker to make a Wisdom saving throw. On a failed save, the attacker takes radiant damage equal to the damage it just dealt. On a successful save, it takes half as much damage.
 
 Source:	Xanathar's Guide to Everything p. 38</text>
@@ -130,7 +130,7 @@ Source:	Xanathar's Guide to Everything p. 38</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Aura of the Guardian (Oath of Redemption (Legacy))</name>
+        <name>Aura of the Guardian (Oath of Redemption (Legacy))</name>
         <text>Starting at 7th level, you can shield others from harm at the cost of your own health. When a creature within 10 feet of you takes damage, you can use your reaction to magically take that damage, instead of that creature taking it. This feature doesn't transfer any other effects that might accompany the damage, and this damage can't be reduced in any way.
 	At 18th level, the range of this aura increases to 30 feet.
 
@@ -139,7 +139,7 @@ Source:	Xanathar's Guide to Everything p. 38</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Protective Spirit (Oath of Redemption (Legacy))</name>
+        <name>Protective Spirit (Oath of Redemption (Legacy))</name>
         <text>Starting at 15th level, a holy presence mends your wounds in battle. You regain hit points equal to 1d6 + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren't incapacitated.
 
 Source:	Xanathar's Guide to Everything p. 38</text>
@@ -147,7 +147,7 @@ Source:	Xanathar's Guide to Everything p. 38</text>
     </autolevel>
     <autolevel level="20">
       <feature optional="YES">
-        <name>Level 20: Emissary of Redemption (Oath of Redemption (Legacy))</name>
+        <name>Emissary of Redemption (Oath of Redemption (Legacy))</name>
         <text>At 20th level, you become an avatar of peace, which gives you two benefits:
 
 	• You have resistance to all damage dealt by other creatures (their attacks, spells, and other effects).

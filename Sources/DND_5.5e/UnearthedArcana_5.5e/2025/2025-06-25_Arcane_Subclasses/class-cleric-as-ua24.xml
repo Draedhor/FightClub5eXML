@@ -14,7 +14,7 @@ Magic suffuses the multiverse and fuels both destruction and creation. Clerics w
 Source:	UA25-ArcaneSubclasses p. 1</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Arcana Domain Spells (Arcana Domain (UA))</name>
+        <name>Arcana Domain Spells (Arcana Domain (UA))</name>
         <text>Your connection to this divine domain means you always have certain spells ready. When you reach a Cleric level specified in the Arcana Domain Spells table, you thereafter always have the listed spells prepared.
 
 Arcana Domain Spells:
@@ -27,7 +27,7 @@ Cleric Level | Prepared Spells
 Source:	UA25-ArcaneSubclasses p. 1</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Arcane Initiate (Arcana Domain (UA))</name>
+        <name>Arcane Initiate (Arcana Domain (UA))</name>
         <text>You gain the following benefits.
 
 	Arcane Knowledge. You gain proficiency in the Arcana skill if you don't have it already. You also gain Expertise in the Arcana skill.
@@ -39,7 +39,7 @@ Source:	UA25-ArcaneSubclasses p. 2</text>
         <modifier category="skill">arcana +%0</modifier>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Modify Magic (Arcana Domain (UA))</name>
+        <name>Modify Magic (Arcana Domain (UA))</name>
         <text>You can use your Channel Divinity to alter your spells as you cast them. When you cast a spell, you can expend one use of your Channel Divinity and change the spell in one of the following ways (no action required).
 
 	Fortifying Spell. One target of the spell gains a number of Temporary Hit Points equal to 2d8 plus your Cleric level.
@@ -53,7 +53,7 @@ Source:	UA25-ArcaneSubclasses p. 2</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Dispelling Recovery (Arcana Domain (UA))</name>
+        <name>Dispelling Recovery (Arcana Domain (UA))</name>
         <text>Immediately after you cast a spell with a spell slot that restores Hit Points to a creature or ends a condition on a creature, you can cast Dispel Magic on the creature as a Bonus Action without expending a spell slot.
 	You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
@@ -62,7 +62,7 @@ Source:	UA25-ArcaneSubclasses p. 2</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Arcane Mastery (Arcana Domain (UA))</name>
+        <name>Arcane Mastery (Arcana Domain (UA))</name>
         <text>You learn four Wizard spells, one from each of levels 6, 7, 8, and 9. You thereafter always have those spells prepared. Whenever you gain a Cleric level, you can replace one of these spells with another Wizard spell of the same level.
 
 Source:	UA25-ArcaneSubclasses p. 2</text>

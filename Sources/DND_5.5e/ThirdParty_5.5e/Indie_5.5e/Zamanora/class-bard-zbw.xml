@@ -4,7 +4,7 @@
     <name>Bard</name>
     <autolevel level="3">
       <feature optional="YES">
-        <name>Level 3: Veilmark Information (Zamanora)</name>
+        <name>Veilmark Information (Zamanora)</name>
         <text>It is said that trespassing upon the spirit world leaves a tangible brand on one's body and soul. Mortals should never peer beyond the Veil, lest the spirits take notice and mark them forevermore. Let a marked person into your home and you invite certain calamity. The lands of Zamanora are riddled with such fiction and cautionary tales that only work to paint those who are inquisitive in a bad light. Yet they are right about one thing; someone who interacts with the Hidden World too often is bound to be "marked".
 
 As characters engage in encounters with curses, spirits, and other supernatural phenomena, they accrue Veilmark. This attribute reflects their growing connection to the spirit realm and the transformative effects of these experiences on their physical and spiritual selves. Veilmarked is the term used by the Zamanori to describe individuals who have thus changed, and denotes characters who have accrued enough Veilmark to cross a threshold. If playing in a different setting, you may use the broader term Aura to describe the system.
@@ -132,7 +132,7 @@ Source:	Zamanora: Ballad of the Witch p. 120 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 63 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Epic Repertoire (College of the Guslar (HB))</name>
+        <name>Epic Repertoire (College of the Guslar (HB))</name>
         <text>Heroic deeds inspire you to compose epic poems that impart magical benefits to those who listen to them. As part of a Long Rest after a day during which you were witness to such a deed, you can compose a poem according to the deed's theme. At the end of each of your Long Rests, you can choose a number of your composed poems up to your Proficiency Bonus and prepare them for the day.
 	As a Magic Action, you may expend a use of your Bardic Inspiration to begin reciting a prepared poem and inspire your allies. Depending on the heroic deed recounted in the poem, you and a number of allies up to your Charisma modifier (minimum of 1) within a 30-foot Emanation originating from yourself that can hear you, gain the poem's corresponding benefits. The benefits last for 10 minutes, as long as you maintain Concentration on the recital. Consult the Epic Repertoire table below to determine the benefits yielded by each poem's theme.
 
@@ -148,7 +148,7 @@ A valiant stand against overwhelming odds. | At the end of your turn while in a 
 Source:	Zamanora: Ballad of the Witch p. 64 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Teller of Tales (College of the Guslar (HB))</name>
+        <name>Teller of Tales (College of the Guslar (HB))</name>
         <text>You have learned to entertain the masses with a captivating performance. You gain Expertise in the gusle musical instrument.
 	Additionally, you may take an hour to perform for an audience, reciting poems accompanied by the melody of your gusle. Such an audience could be a crowd of people, a creature held in high esteem by you, or one of social import. Roll a Charisma (Performance) check against a DC set by the Storyteller based on the setting and circumstantial factors that may apply, adding a roll of your Bardic Inspiration die to the total (this does not expend the die). On a success, your Bardic Inspiration die therefore counts as 1 category higher (for example, a d6 becomes a d8, a d8 becomes a d10, etc.) until you finish a Long Rest.
 	You may use this feature once before finishing a Long Rest.
@@ -156,7 +156,7 @@ Source:	Zamanora: Ballad of the Witch p. 64 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 64 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Level 3: Teller of Tales</name>
+        <name>Teller of Tales</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>College of the Guslar (HB)</subclass>
@@ -164,7 +164,7 @@ Source:	Zamanora: Ballad of the Witch p. 64 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Ancestral Heritage (College of the Guslar (HB))</name>
+        <name>Ancestral Heritage (College of the Guslar (HB))</name>
         <text>As you regale heroic deeds of yore, friends and foes alike recognize you for the trove of folkloric knowledge that you are. Every time you expend a use of your Bardic Inspiration to start recounting one of your poems, as per the Epic Repertoire feature, creatures that can hear and understand you treat you as if you were under the effects of the Sanctuary spell for the next minute or until you lose Concentration on your Epic Repertoire feature's effects. Creatures immune to the Charmed condition ignore this feature's effects.
 
 Source:	Zamanora: Ballad of the Witch p. 65 (Homebrew)</text>
@@ -172,7 +172,7 @@ Source:	Zamanora: Ballad of the Witch p. 65 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Maker of Legends (College of the Guslar (HB))</name>
+        <name>Maker of Legends (College of the Guslar (HB))</name>
         <text>When you expend a Bardic Inspiration die while maintaining Concentration on your Epic Repertoire feature's effects, you weave the target ally's current actions into your ongoing tale through improvised lyrics and inspire them to strive for heroism. Instead of gaining a Bardic Inspiration die as they normally would, the ally may instead gain the following benefits until the end of their next turn:
 
 	Determination. Each time your ally rolls a 10 or lower on the d20, they add a roll of your Bardic Inspiration die to the result.

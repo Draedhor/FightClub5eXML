@@ -4,7 +4,7 @@
     <name>Warlock</name>
     <autolevel level="3">
       <feature optional="YES">
-        <name>Level 3: Veilmark Information (Zamanora)</name>
+        <name>Veilmark Information (Zamanora)</name>
         <text>It is said that trespassing upon the spirit world leaves a tangible brand on one's body and soul. Mortals should never peer beyond the Veil, lest the spirits take notice and mark them forevermore. Let a marked person into your home and you invite certain calamity. The lands of Zamanora are riddled with such fiction and cautionary tales that only work to paint those who are inquisitive in a bad light. Yet they are right about one thing; someone who interacts with the Hidden World too often is bound to be "marked".
 
 As characters engage in encounters with curses, spirits, and other supernatural phenomena, they accrue Veilmark. This attribute reflects their growing connection to the spirit realm and the transformative effects of these experiences on their physical and spiritual selves. Veilmarked is the term used by the Zamanori to describe individuals who have thus changed, and denotes characters who have accrued enough Veilmark to cross a threshold. If playing in a different setting, you may use the broader term Aura to describe the system.
@@ -133,7 +133,7 @@ Source:	Zamanora: Ballad of the Witch p. 120 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 105 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Intoxication (The Murrain Maiden (HB))</name>
+        <name>Intoxication (The Murrain Maiden (HB))</name>
         <text>You relish in the blight wrought by your patron. Whenever you deal Poison damage to a creature within 10 feet of you, or whenever you start your turn within 5 feet of a creature that has the Poisoned condition, you can use your Reaction to become toxified for the next minute. While you are toxified, you gain the following benefits:
 
 	Fumes of the Rot. You gain 1d8 Temporary Hit Points at the start of your turn.
@@ -144,7 +144,7 @@ Source:	Zamanora: Ballad of the Witch p. 106 (Homebrew)</text>
         <roll description="Temporary Hit Points">1d8</roll>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Murrain Maiden Spells (The Murrain Maiden (HB))</name>
+        <name>Murrain Maiden Spells (The Murrain Maiden (HB))</name>
         <text>The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Murrain Maiden Spells table, you thereafter always have the listed spells prepared.
 
 Murrain Maiden Spells:
@@ -159,7 +159,7 @@ Source:	Zamanora: Ballad of the Witch p. 106 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Noxious Flower (The Murrain Maiden (HB))</name>
+        <name>Noxious Flower (The Murrain Maiden (HB))</name>
         <text>You can sprout a venomous rose, which emanates a fog of nauseating fumes that devastates your enemies. As a Magic Action, you create a 10-foot radius Sphere of toxic vapors centered on a point within 30 feet of you. The Sphere also spreads around corners. When a creature enters the effect's area for the first time on a turn or starts its turn there, it must make a Constitution saving throw. On a failure, the creature has the Poisoned condition and remains so until it ends its turn outside the affected area. During each of your turns, you can use your Bonus Action to move the cloud up to 15 feet. It lasts for 1 minute or until a strong wind (such as one created by Gust of Wind) disperses it.
 	In addition, your spells and abilities ignore Resistance to Poison damage against creatures within the area of your Noxious Flower.
 	You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses of this ability when you finish a Long Rest.
@@ -175,7 +175,7 @@ Source:	Zamanora: Ballad of the Witch p. 106 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Mudwalk (The Murrain Maiden (HB))</name>
+        <name>Mudwalk (The Murrain Maiden (HB))</name>
         <text>You can evoke your patron's putrid form with each step that you tread. At the end of each of your turns and while you are standing on soft ground, you may choose to turn the area within a 5-foot radius around you into a swamp for the next minute. The area becomes Difficult Terrain for all creatures other than you. As a Bonus Action while standing over a swamp area created by you, you can teleport to any swamp square created by you. You can teleport in this way a number of times equal to your Proficiency Bonus, and you regain all expended uses of this ability when you finish a Long Rest.
 
 Source:	Zamanora: Ballad of the Witch p. 107 (Homebrew)</text>
@@ -197,7 +197,7 @@ Source:	Zamanora: Ballad of the Witch p. 107 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Blightbringer (The Murrain Maiden (HB))</name>
+        <name>Blightbringer (The Murrain Maiden (HB))</name>
         <text>You can bring forth pestilence and disease. As a Magic Action, all creatures of your choice within the area of your Noxious Flower must succeed on a Constitution saving throw or take 6d8 Poison damage and have the Poisoned condition for the next minute. Also, choose one ability when you use this feature. While Poisoned, a creature target has Disadvantage on saving throws made with the chosen ability. At the end of each of its turns, an affected creature repeats its save, ending the effects on itself on a success.
 	Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot or higher (no action required).
 
@@ -227,7 +227,7 @@ Source:	Zamanora: Ballad of the Witch p. 107 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 109 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Old Crone Spells (The Old Crone (HB))</name>
+        <name>Old Crone Spells (The Old Crone (HB))</name>
         <text>The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Old Crone Spells table, you thereafter always have the listed spells prepared.
 
 Old Crone Spells:
@@ -240,7 +240,7 @@ Warlock level | Spells
 Source:	Zamanora: Ballad of the Witch p. 109 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Secrets of the Earth (The Old Crone (HB))</name>
+        <name>Secrets of the Earth (The Old Crone (HB))</name>
         <text>The Crone has imparted you with a fraction of her alchemical knowledge. You gain proficiency with the Alchemist's Supplies if you don't already have it. You know the recipes of 3 common Potions or Alchemical Brews (see Chapter IV: Fabled Relics) and can craft a number of brews up to your Proficiency Bonus by gathering herbs and various other ingredients as part of a Long Rest.
 	Creating a Potion or Alchemical Brew requires you to have Alchemist's Supplies on your person, and due to the borrowed nature of your powers, any brew you create with this feature lasts until it is consumed or until the end of your next Long Rest.
 	Whenever you gain a new feature in this subclass, you also learn the recipes of 3 Potions or Alchemical Brews of your choice of one step higher rarity (up to Rare). If you successfully cast the Identify spell on a brew for which you don't know the recipe for and that is of a rarity that you can craft, you can add it to your known recipes.
@@ -250,7 +250,7 @@ Source:	Zamanora: Ballad of the Witch p. 109 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Izbushka (The Old Crone (HB))</name>
+        <name>Izbushka (The Old Crone (HB))</name>
         <text>As a Magic Action you can target the area of a Tiny Hut spell that you cast, turning it into an Izbushka with the following benefits.
 
 	Chicken Legs. The Izbushka grows a pair of giant legs beneath it that resemble those of a Beast of your choice, and gains a walking Speed of 30 feet. You can mentally control its movements (no action required).
@@ -262,7 +262,7 @@ Source:	Zamanora: Ballad of the Witch p. 109 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: The Crone's Design (The Old Crone (HB))</name>
+        <name>The Crone's Design (The Old Crone (HB))</name>
         <text>Having proven your worth to the Crone, she has entrusted you with a fraction of her power. You then gain the following benefits.
 
 	Timeless Being. You can no longer die from old age. However, you still visibly age normally.
@@ -274,7 +274,7 @@ Source:	Zamanora: Ballad of the Witch p. 110 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Herbarium (The Old Crone (HB))</name>
+        <name>Herbarium (The Old Crone (HB))</name>
         <text>The Old Crone has granted you the ability to cultivate and preserve the souls of the departed. You gain a mystical herbarium that can contain a number of souls equal to your Warlock level. You can summon or dismiss the herbarium as a Magic Action. You can also use the herbarium as a spellcasting focus.
 	As a Magic Action, you can touch the body of a creature that has died within the last minute and harvest its soul, adding it to your herbarium. The soul appears as a spectral impression pressed between the pages, similar to a dried flower. If you attempt to harvest a soul when your herbarium is full, you must choose an existing soul to release. You can also release a specific soul as a Magic Action.
 	When you cast a spell that is not a cantrip, you can, as a Reaction, empower it by expending any number of souls from your herbarium. Consult the Herbarium Effects table below to determine the effects of a spell empowered in this way, based on the number of souls expended.
@@ -298,7 +298,7 @@ Source:	Zamanora: Ballad of the Witch p. 110 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 111 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Underlord Spells (The Underlord (HB))</name>
+        <name>Underlord Spells (The Underlord (HB))</name>
         <text>The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Underlord Spells table, you thereafter always have the listed spells prepared.
 
 Underlord Spells:
@@ -311,7 +311,7 @@ Warlock level | Spells
 Source:	Zamanora: Ballad of the Witch p. 112 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Indomitable Mountain (The Underlord (HB))</name>
+        <name>Indomitable Mountain (The Underlord (HB))</name>
         <text>Whenever you connect to the earth on a deeper level, you gain heightened senses and endurance. While you maintain Concentration on a spell, you gain Tremorsense with a range of 30 feet and Bludgeoning, Piercing, and Slashing damage that you take is reduced by an amount equal to your Proficiency Bonus.
 
 Source:	Zamanora: Ballad of the Witch p. 112 (Homebrew)</text>
@@ -319,7 +319,7 @@ Source:	Zamanora: Ballad of the Witch p. 112 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: One with the Earth (The Underlord (HB))</name>
+        <name>One with the Earth (The Underlord (HB))</name>
         <text>Your kinship with the earth and its metals grows. You gain proficiency with Medium armor and shields made of metal. In addition, your first attack against an enemy during each of your turns has Advantage, as long as you are both standing on solid ground.
 
 Source:	Zamanora: Ballad of the Witch p. 112 (Homebrew)</text>
@@ -327,7 +327,7 @@ Source:	Zamanora: Ballad of the Witch p. 112 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Awaken the Titan (The Underlord (HB))</name>
+        <name>Awaken the Titan (The Underlord (HB))</name>
         <text>You can awaken a small fragment of your patron's powers. As a Magic Action, you can imbue yourself with the power of the ageless mountains for 1 minute. The effect ends early if you gain the Incapacitated condition. While this effect is active, you gain the following benefits:
 
 	Echoing Strike. Your attacks send out powerful shockwaves. Each time you hit a target, it and every creature in a 15-foot Cone behind it, must make a Dexterity saving throw against your spell save DC. On a failed save, a creature takes 3d6 Bludgeoning damage and is knocked Prone. On a successful save, a creature takes half as much damage and isn't knocked Prone.
@@ -349,7 +349,7 @@ Source:	Zamanora: Ballad of the Witch p. 112 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Kingdom of Belegorn (The Underlord (HB))</name>
+        <name>Kingdom of Belegorn (The Underlord (HB))</name>
         <text>You gain the ability to permanently imprison a creature deep within the earth. You can cast the Force Cage spell once, without expending a spell slot. A trapped creature must make a Wisdom saving throw at the end of every turn it remains within the cage. If the target fails three of these saves, it falls under the effects of the Imprisonment spell (burial option).
 	You can use this feature once, regaining its usage after 7 days. You can regain its usage early if you willingly free a creature previously trapped by Imprisonment in this way.
 
