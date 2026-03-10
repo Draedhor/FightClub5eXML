@@ -2,7 +2,7 @@
 <compendium version="5" auto_indent="NO">
   <feat>
     <name>Blackpowder Expert (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
     <prerequisite>Proficiency with advanced weapons</prerequisite>
     <text>You are well-versed in the use of Blackpowder weapons and wield them with deadly efficiency. You gain the following benefits:
 
@@ -14,7 +14,7 @@
    </feat>
    <feat>
     <name>Blood Hound (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
     <prerequisite>Wisdom 13 or higher</prerequisite>
     <text>Your keen senses are heightened beyond that of most people. Whether these senses were heightened through training, through the loss of other senses, or they simply matured as you did, you gain the following benefits:
 
@@ -28,7 +28,7 @@
    </feat>
    <feat>
     <name>Hulking Figure (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
     <prerequisite>Strength 13 or higher</prerequisite>
     <text>You are a broad and formidable size for your race, either due to extensive training or natural build. You gain the following benefits:
 
@@ -42,7 +42,7 @@
    </feat>
    <feat>
     <name>Iron Gut (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
     <prerequisite>Constitution 13 or higher</prerequisite>
     <text>You eat like a giant and drink like a fish. Years of punishing your stomach and liver have led to a powerful fortitude. You gain the following benefits:
 
@@ -56,7 +56,7 @@
    </feat>
    <feat>
     <name>Lightning Caster (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
     <prerequisite>The ability to cast at least one cantrip</prerequisite>
     <text>Your rapid-fire style of casting cantrips allows you to weave magic with uncanny speed, granting you the following benefit:
 
@@ -66,7 +66,7 @@
    </feat>
    <feat>
     <name>Nimble Physique (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
     <prerequisite>Dexterity 13 or higher</prerequisite>
     <text>You are small and thin for your race. You have a mysterious and consistent ability to avoid danger. This feat grants the following benefits:
 
@@ -80,7 +80,7 @@
    </feat>
    <feat>
     <name>Nocturnal (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
     <text>Due to extensive exposure to the dark, and possible supernatural abilities, you have an unmatched ability to fight adversaries in the dark. You gain the following benefits:
 
      • You gain Darkvision with a radius of 60 feet. If you already have darkvision, then the radius of your darkvision increases by 30 feet, to a maximum of 120 feet.
@@ -91,7 +91,7 @@
    </feat>
    <feat>
     <name>Scatter Weapon Master (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
     <prerequisite>Proficiency in Advanced Weapons</prerequisite>
     <text>Through many hours spent using these destructive weapons, whether on the training grounds or setting hag huts ablaze, you have gained immense experience with scatter weapons and gain the following benefits:
 
@@ -105,7 +105,7 @@
    </feat>
    <feat>
     <name>Thrown Weapon Master (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
     <text>You excel at thrown weapons and gain the following benefits:
 
      • When you take the attack action to throw a weapon with the Thrown property, you may immediately use a bonus action to make two more attacks with a Thrown weapon. These must also be thrown attacks. You may use this ability a number of times equal to your dexterity or strength modifier per short rest.
@@ -116,7 +116,7 @@
    </feat>
    <feat>
     <name>Weaver of Maledictions (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
     <prerequisite>The ability to cast at least one spell</prerequisite>
     <text>You have learned how to use effigy dolls when cursing your targets. These dolls take 8 hours to create and can only be used on the target that the effigy was created to resemble. Only you can benefit from dolls you have created. When you use an effigy doll you gain the following benefits:
 
@@ -128,7 +128,7 @@
    </feat>
    <feat>
     <name>Witch Hunter (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
     <text>You have honed and perfected your skills fighting against spellcasters. You gain the following benefits:
 
      • Whenever a hostile creature targets you with a spell, make a Wisdom saving throw against the spellcaster's spell save DC. On a success, the creature must choose a new target or lose the spell. This does not protect you from area effects, such as the explosion of a fireball.
@@ -142,7 +142,7 @@
 
    <feat>
     <name>Academic: Antiquarian Rank 2 - Adept Collector (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
     <prerequisite> Academic: Antiquarian - Rank 1</prerequisite>
     <text>After spending a considerable amount of time and money, you have started a reasonable collection of antiquities that you wish to one day put on display.
 
@@ -169,7 +169,7 @@
       </feat>
       <feat>
         <name>Academic: Antiquarian Rank 4 - Curator (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
         <prerequisite> Academic: Antiquarian - Rank 3</prerequisite>
         <text>You have become one of the most renowned living antiquarians. Having been referenced in many scholars' books about your studies, and having authored a few yourself, you are now a consulted expert on several subjects relating to your vast collections. You are the curator of your own museum, with scholars and collectors travelling across the world to visit it.
 
@@ -180,109 +180,109 @@
         </feat>
         <feat>
           <name>Talent: Biologist (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
           <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
           <text>Whenever you make an Intelligence (Nature) check to determine the properties of animals, you can add your Profession Die to the roll.</text>
         </feat>
         <feat>
           <name>Talent: Botanist (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
           <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
           <text>Whenever you make an Intelligence (Nature) check to determine the properties of plants, you can add your Profession Die to the roll.</text>
         </feat>
         <feat>
           <name>Talent: Copycat (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
           <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
           <text>Whenever you make an Intelligence or Intelligence (Forgery Kit) check to forge or create a document, you can add your Profession Die to the roll.</text>
         </feat>
         <feat>
           <name>Talent: Diligent Researcher (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
           <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
           <text>Whenever you make an Intelligence check to research a subject, you can add your Profession Die to the roll.</text>
         </feat>
         <feat>
           <name>Talent: Disciplinarian (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
           <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
           <text>Whenever you make a Charisma (Intimidation) check while issuing a command to an individual of lower rank within your background, you can add your Profession Die to the roll.</text>
         </feat>
         <feat>
           <name>Talent: Drunkard (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
           <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
           <text>Whenever you make a Constitution check to determine if you will throw up, pass out, or how severe a hangover is, you can add your Profession Die to the roll.</text>
         </feat>
         <feat>
           <name>Talent: Forecaster (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
           <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
           <text>Whenever you make a Wisdom (Survival) check to determine the weather for the next 48 hours, you can add your Profession Die to the roll.</text>
         </feat>
         <feat>
           <name>Talent: Gambler (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
           <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
           <text>Whenever you make a Dexterity (Sleight of Hand) or Wisdom (Perception) check to cheat at a game or catch someone else cheating, you can add your Profession Die to the roll.</text>
         </feat>
         <feat>
           <name>Talent: Local Historian (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
           <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
           <text>Whenever you make an Intelligence (History) check to determine the history of an item, location, or cultural phenomenon from the same region as you, you can add your Profession Die to the roll.</text>
         </feat>
         <feat>
           <name>Talent: Mystical Scholar (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
           <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
           <text>Whenever you make an Intelligence (Arcana) check to recall information on Aberrations, Constructs, or Elementals, you can add your Profession Die to the result.</text>
         </feat>
         <feat>
           <name>Talent: Passionate Orator (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
           <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
           <text>Whenever you make a Charisma (Performance) check to influence an Academic, Military, or Clergy member, you can add your Profession Die to the roll.</text>
         </feat>
         <feat>
           <name>Talent: Pathologist (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
           <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
           <text>Whenever you make a Wisdom (Medicine) check to diagnose or treat a disease, add your Profession Die to the roll.</text>
         </feat>
         <feat>
           <name>Talent: Problem Solver (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
           <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
           <text>Whenever you make an Intelligence (Investigation) check to decipher a coded message or puzzle, you can add your Profession Die to the roll.</text>
         </feat>
         <feat>
           <name>Talent: Runekeeper (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
           <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
           <text>Whenever you make an Intelligence (Arcana) check to uncover the properties and uses of magical runes, glyphs, or other symbols, you can add your Profession Die to the roll.</text>
         </feat>
         <feat>
           <name>Talent: Sawbones (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
           <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
           <text>Whenever you make a Wisdom (Medicine) check dealing with Grievous Wounds, you can add your Profession Die to the roll.</text>
         </feat>
         <feat>
           <name>Talent: Translator (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
           <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
           <text>Whenever you make an Intelligence check to communicate with a creature who doesn't share a language with you, you can add your Profession Die to the result.</text>
         </feat>
         <feat>
           <name>Talent: Pitiable (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
           <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
           <text>When you make a Charisma (Persuasion) check to convince an Aristocrat, Criminal, Militarist, or Clergy that you are not a threat or beneath their notice, you may add your profession die to the roll.</text>
         </feat>
         <feat>
           <name>Academic: Physician Rank 2 - Barber Surgeon (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
           <prerequisite>Academic: Physician - Rank 1</prerequisite>
           <text>Armed with healer's kits and medical utensils, you are equipped to tend wounds and perform common medical procedures. However, without a medical license, you can only treat common folk and low-ranking military personnel.
 
@@ -296,7 +296,7 @@
           </feat>
           <feat>
             <name>Academic: Physician Rank 3 - Doctor (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
             <prerequisite>Academic: Physician - Rank 2</prerequisite>
             <text>You have proven your rank among honored healers within your region, winning the privilege of a medical license. You are now permitted to open a medical clinic and treat high society. As a trusted figure, you are invited to rub shoulders with the most prominent of its members.
 
@@ -311,7 +311,7 @@
             </feat>
             <feat>
               <name>Academic: Physician Rank 4 - Royal Physician (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
               <prerequisite>Academic: Physician - Rank 3</prerequisite>
               <text>You have received a monarch's patronage and been given the title of Royal Physician. Only the most revered and skilled physicians receive such a title, and the honor of building and running a Royal Hospital. As a Royal Physician, you are a gatekeeper for those who wish to become Doctors.
                 Barber Surgeons will wait at your doorstep for days to prove their devotion and, hopefully, attain a license. Kings and merchant lords will travel across the land to seek your treatment, and pay anything to be healed by you.
@@ -323,7 +323,7 @@
               </feat>
               <feat>
       <name>Academic: Archivist Rank 2 - Scribe (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
               <prerequisite>Academic: Archivist - Rank 1</prerequisite>
       <text>You have been appointed the honored task of transcribing and recreating texts. You are a builder of libraries, a recorder of history, and an entrusted relayer of knowledge for generations to come. As a Scribe, it is your job to record the knowledge of the world. Scribes often venture out into the world to find and document information first-hand.
 
@@ -820,7 +820,7 @@ Holdings:
     </feat>
     <feat>
       <name>Talent: Applied Leverage (TP)</name>
-      <prerequisite>Common Folk: Villager, Common Folk: Entertainer, Common Folk: Merchant</prerequisite>
+      <prerequisite>Common Folk Background (TP), Criminal Background (TP), Militarist Background (TP), Seafarer Background (TP), Clan Member Background (TP)</prerequisite>
       <text>When you make a Strength (Athletics) check to force open a door or container, you may add your profession die to the roll.</text>
     </feat>
     <feat>
@@ -919,7 +919,7 @@ Holdings:
     </feat>
     <feat>
       <name>Criminal: Charlatan Rank 2 - Hustler (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>You have started to work in a group as a face man, expanding your "clientele" with more lucrative cons, such as passing off colored glass as gemstones, or bleeding wealthy marks dry with long cons.
 
 Holdings:
@@ -930,7 +930,7 @@ You must acquire or create plans for a large-scale con and procure the necessary
     </feat>
     <feat>
       <name>Criminal: Charlatan Rank 3 - Con Artist (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>You have become more daring in your approach, orchestrating swindles that require planning, resources, and teamwork in pursuit of a big payday. You may set your gang about duplicating famous paintings to be sold in foreign cities, for example, or forging property title deeds in order to sell a building you do not own.
 
 Holdings:
@@ -942,7 +942,7 @@ Successfully executing a grand con that draws the outrage of a great noble house
     </feat>
     <feat>
       <name>Criminal: Charlatan Rank 4 - Mastermind (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>You have become something of a legend within the underground. Up-and-coming swindlers approach you to learn at your feet. Whether you pass on your skills or fleece your new flock is up to you.
 
 Holdings:
@@ -951,117 +951,117 @@ Holdings:
     </feat>
     <feat>
       <name>Talent: Bounty Hunter (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>Whenever you make a Wisdom (Survival) to track Criminals, you can add your Profession Die.</text>
     </feat>
     <feat>
       <name>Talent: Quick Fingers (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>Whenever you make a Dexterity (Sleight of Hand) check to place a small object on a humanoid or sneak something into their food or beverage, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Contortionist (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>Whenever you make a Dexterity or Dexterity (Acrobatics) check to squeeze through a small space or escape bonds, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Copycat (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>Whenever you make an Intelligence or Intelligence (Forgery Kit) check to forge or create a document, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Disciplinarian (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>Whenever you make a Charisma (Intimidation) check while issuing a command to an individual of lower rank within your background, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Drunkard (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>Whenever you make a Constitution check to determine if you will throw up, pass out, or how severe a hangover is, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Elusive (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>Whenever you make a Dexterity (Stealth) check to hide or blend into a crowd of humanoids that share your background, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Gambler (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>Whenever you make a Dexterity (Sleight of Hand) or Wisdom (Perception) check to cheat at a game or catch someone else cheating, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Grifter (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>Whenever you make a Charisma (Deception) check, and are attempting to pass off a fake object as authentic, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Heister (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>Whenever you make a Wisdom (Perception) check to spot traps, sentries, and other security measures, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Impressionist (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>Whenever you make a Charisma (Performance) or Charisma (Deception) check to mimic the mannerisms, voice, or appearance of another humanoid, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Interrogator (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>Whenever you make a Charisma (Intimidation) check to extract information from an enemy who is restrained, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Menacing Presence (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>Whenever you make a Charisma (Intimidation) check, and are interacting with Academics, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Nimble Fingers (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>Whenever you make a Dexterity (Thieves' Tools) check to pick a lock, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Renowned (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>Whenever you make a Charisma (Persuasion) check, and are interacting with Military, Outlanders, or Criminals, you may add your Profession Die.</text>
     </feat>
     <feat>
       <name>Talent: Ropesman (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>Whenever you make a Strength (Athletics) or Dexterity (Acrobatics) check to climb, move along, or jump onto ropes, you can add your Profession Die.</text>
     </feat>
     <feat>
       <name>Talent: Sentry (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>Whenever you make a Wisdom (Perception) check while on watch duty or defending a fortification, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Urban Sprinter (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>Whenever you make a Strength (Athletics) or Dexterity (Acrobatics) check while running away from a pursuer, or pursuing someone else, you can add your Profession Die to the roll.</text>
     </feat>
-    <feat>
+    <!-- <feat>
       <name>Talent: Applied Leverage (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>When you make a Strength (Athletics) check to force open a door or container, you may add your profession die to the roll.</text>
-    </feat>
+    </feat> -->
     <feat>
       <name>Talent: Charity Case (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>When you make a Charisma (Performance) check to fake an illness, injury, or other condition, you may add your profession die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Looter (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>When you make an Intelligence (Investigation) roll to find hidden valuables, you may add your profession die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Sticky Fingers (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>When you make a Dexterity (Sleight of Hand) check to snatch something quickly, you may add your profession die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Vacant Expression (TP)</name>
-      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar</prerequisite>
       <text>When you make a Charisma (Deception) check to feign ignorance and you are interacting with an Academic, Aristocrat, Clergy, or Militarist, you may add your profession die to the roll.</text>
     </feat>
     <feat>
@@ -1157,122 +1157,122 @@ Holdings:
     </feat>
     <feat>
       <name>Talent: Astute Intuition (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make a Wisdom (Insight) check while trying to detect a lie from Aristocrats, Criminals, or Common Folk, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Beast Whisperer (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make a Wisdom (Animal Handling) check to train or direct orders to a beast, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Born in the Saddle (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make a Wisdom (Animal Handling) check while riding an animal or interacting with your mount, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Bounty Hunter (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make a Wisdom (Survival) to track Criminals, you can add your Profession Die.</text>
     </feat>
     <feat>
       <name>Talent: Calloused Hands (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make a Strength (Athletics) check to lift, drag, or shove a heavy object, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Copycat (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make an Intelligence or Intelligence (Forgery Kit) check to forge or create a document, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Disciplinarian (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make a Charisma (Intimidation) check while issuing a command to an individual of lower rank within your background, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Drunkard (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make a Constitution check to determine if you will throw up, pass out, or how severe a hangover is, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Figure of Authority (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make a Charisma (Persuasion) check while interacting with Common Folk, you may add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Forecaster (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make a Wisdom (Survival) check to determine the weather for the next 48 hours, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Gambler (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make a Dexterity (Sleight of Hand) or Wisdom (Perception) check to cheat at a game or catch someone else cheating, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Hard-Working (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make a Constitution check for a repetitive task such as marching or laboring for hours without rest, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Interrogator (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make a Charisma (Intimidation) check to extract information from an enemy who is restrained, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Menacing Presence (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make a Charisma (Intimidation) check, and are interacting with Academics, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Navigator (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make a vehicle check, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Passionate Orator (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make a Charisma (Performance) check to influence an Academic, Military, or Clergy member, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Recruiter (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make a Charisma (Persuasion) check to recruit people into a role, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Renowned (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make a Charisma (Persuasion) check, and are interacting with Military, Outlanders, or Criminals, you may add your Profession Die.</text>
     </feat>
     <feat>
       <name>Talent: Sentry (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make a Wisdom (Perception) check while on watch duty or defending a fortification, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Shrewd Deduction (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make an Intelligence (Investigation) check to investigate a crime scene, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Urban Sprinter (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make a Strength (Athletics) or Dexterity (Acrobatics) check while running away from a pursuer, or pursuing someone else, you can add your Profession Die to the roll.</text>
     </feat>
     <feat>
       <name>Talent: Wayfarer (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>Whenever you make a Wisdom (Survival) check to find a path or avoid getting lost, you can add your Profession Die to the roll.</text>
     </feat>
-    <feat>
+    <!-- <feat>
       <name>Talent: Applied Leverage (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>When you make a Strength (Athletics) check to force open a door or container, you may add your profession die to the roll.</text>
-    </feat>
+    </feat> -->
     <feat>
       <name>Talent: Looter (TP)</name>
-      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier</prerequisite>
       <text>When you make an Intelligence (Investigation) roll to find hidden valuables, you may add your profession die to the roll.</text>
     </feat>
     <feat>
@@ -1658,11 +1658,11 @@ Holdings:
       <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
       <text>Whenever you make a Wisdom (Survival) check to find a path or avoid getting lost, you can add your Profession Die to the roll.</text>
     </feat>
-    <feat>
+    <!-- <feat>
       <name>Talent: Applied Leverage (TP)</name>
       <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
       <text>When you make a Strength (Athletics) check to force open a door or container, you may add your profession die to the roll.</text>
-    </feat>
+    </feat> -->
     <feat>
       <name>Talent: Charity Case (TP)</name>
       <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
@@ -1739,7 +1739,7 @@ Holdings:
   • A mighty weapon or artifact provided by a client or retrieved from sunken treasure.
   • An audience with any Monarch or head of state, at their convenience, to discuss matters of salvage and treasure hunting within the realm.</text>
     </feat>
-    <trait>
+    <feat>
       <name>Pauper: Begger Rank 2 - Mendicant (TP)</name>
       <text>A common sight to locals, you have moved up to a better location in a busy street or plaza. You no longer have to fight for your place and have gained the tolerance of the guards and the friendship of other local beggars. By this time you have established a begging "pitch" designed to attract attention without inconveniencing those passing by. This could be a persona or some sort of script that you devise in order to amuse or elicit sympathy from the general populace.
 
@@ -1749,8 +1749,8 @@ Holdings:
 
 Progression:
 Split a significant windfall with other beggars, earning their loyalty.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Pauper: Begger Rank 3 - Gutter Baron (TP)</name>
       <text>You have risen to a position of prominence, such as it is, among the beggars in your city. You are able to direct the actions of a number of other paupers and split the rewards in a far more efficient manner than they could do alone, and they respect and defer to you in important decisions.
 
@@ -1761,8 +1761,8 @@ Holdings:
 
 Progression:
 Perform a great service for the poor of the city either by thwarting the plans of a ranking noble or leveraging your influence to gain a powerful aristocrat patron.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Pauper: Begger Rank 4 - Beggar King (TP)</name>
       <text>You have become the undisputed master of the city's destitute population, and none of them act without your knowledge. Having control of such a wide-ranging network of informants and agents puts you at the center of the city's political power struggles. Even leaders of criminal organizations know that you are not someone to be trifled with.
 
@@ -1770,88 +1770,88 @@ Holdings:
   • A comfortable hideout hidden in the slums or sewers.
   • A network of beggars, informants, and criminals that keep you informed of all illicit activity within the city.
   • Influence with at least one major player in local crime or politics.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Calloused Hands (TP)</name>
       <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
       <text>Whenever you make a Strength (Athletics) check to lift, drag, or shove a heavy object, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Camper (TP)</name>
       <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
       <text>When you make a Wisdom (Survival) check to construct a temporary shelter, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Charity Case (TP)</name>
       <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
       <text>When you make a Charisma (Performance) check to fake an illness, injury, or other condition, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Drunkard (TP)</name>
       <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
       <text>Whenever you make a Constitution check to determine if you will throw up, pass out, or how severe a hangover is, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Elusive (TP)</name>
       <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
       <text>Whenever you make a Dexterity (Stealth) check to hide or blend into a crowd of humanoids that share your background, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Flamboyant Presentation (TP)</name>
       <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
       <text>Whenever you make a Charisma (Performance) check to entertain Aristocrats, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Forecaster (TP)</name>
       <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
       <text>Whenever you make a Wisdom (Survival) check to determine the weather for the next 48 hours, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Gambler (TP)</name>
       <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
       <text>Whenever you make a Dexterity (Sleight of Hand) or Wisdom (Perception) check to cheat at a game or catch someone else cheating, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Gut Feeling (TP)</name>
       <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
       <text>Whenever you make a Wisdom (Insight) check to detect if an Aristocrat or Criminal is lying, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Hard-Working (TP)</name>
       <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
       <text>Whenever you make a Constitution check for a repetitive task such as marching or laboring for hours without rest, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Menacing Presence (TP)</name>
       <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
       <text>Whenever you make a Charisma (Intimidation) check, and are interacting with Academics, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Pitiable (TP)</name>
       <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
       <text>When you make a Charisma (Persuasion) check to convince an Aristocrat, Criminal, Militarist, or Clergy that you are not a threat or beneath their notice, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Solidarity (TP)</name>
       <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
       <text>When you make a Charisma (Persuasion) check and you are interacting with members of your background, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Sticky Fingers (TP)</name>
       <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
       <text>When you make a Dexterity (Sleight of Hand) check to snatch something quickly, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Urban Sprinter (TP)</name>
       <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
       <text>Whenever you make a Strength (Athletics) or Dexterity (Acrobatics) check while running away from a pursuer, or pursuing someone else, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Vacant Expression (TP)</name>
       <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
       <text>When you make a Charisma (Deception) check to feign ignorance and you are interacting with an Academic, Aristocrat, Clergy, or Militarist, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Pauper: Vagabond Rank 2 - Drifter (TP)</name>
       <text>You have gotten used to life on the road and now travel aimlessly from town to town. At each stop you take on odd jobs, greet familiar faces, and then move on. Outside your small group of friends spread across Etharis, others are beginning to recognize you as a frequent visitor.
 
@@ -1861,8 +1861,8 @@ Holdings:
 
 Progression:
 Save the life of one of your contacts.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Pauper: Vagabond Rank 3 - Seeker (TP)</name>
       <text>Your aimless wanderings have taken on a new purpose. Competent in the rigors of the road and dealing with suspicious villagers, you travel from place to place in search of a new life or new direction. For good or ill, you are recognized as you travel, much as a caravan leader or traveling merchant.
 
@@ -1872,16 +1872,16 @@ Holdings:
 
 Progression:
 Play a major role in the downfall of a prominent member of society.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Pauper: Vagabond Rank 4 - Wanderer (TP)</name>
       <text>You now travel the world not out of necessity, but choice. Your deeds have garnered you an almost mythical reputation, and whispers follow you whenever you enter a new city or settlement. As a champion of righteousness or a walking plague, everyone knows that even the best laid plans are uncertain when you arrive.
 
 Holdings
   • A respected or feared reputation in any settlement you visit.
   • Information about major events across Etharis that has not yet made its way to your current location.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Pauper: Pit Fighter Rank 2 - Prize Fighter (TP)</name>
       <text>You've made your debut and are now a part of the Fighter's Guild. As part of a small stable of up-andcoming fighters, you are mostly booked for minor tournaments and as warmups for some of the bigger names in arena fighting.
 
@@ -1891,8 +1891,8 @@ Holdings:
 
 Progression:
 Enter a fight with a high-ranked fighter and either last three rounds or knock your opponent out.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Pauper: Pit Fighter Rank 3 - Contender (TP)</name>
       <text>Recognized as one of the most promising fighters in the Guild, you are now eligible for entry into major tournaments for ever-increasing amounts of prize money. Most of the money goes to your handlers, but your standard of living has increased dramatically along with your value.
 
@@ -1902,8 +1902,8 @@ Holdings:
 
 Progression:
 Win a major championship bout.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Pauper: Pit Fighter Rank 4 - Arena Champ (TP)</name>
       <text>Being champion of an underground tournament makes you a major figure within the Fighter's Guild. As your fights draw greater and greater crowds, your duties are lessened and you live in relative luxury. Admired by some, envied by others, you nevertheless command respect among those in your line of work. Even your patron is willing to bend to most of your wishes, out of fear that you will defect to another noble or trainer.
 
@@ -1911,8 +1911,8 @@ Holdings:
   • A collection of toadies and sycophants, eager to follow your wishes.
   • Job offers and party invitations from various nobles and criminals aware of your status.
   • A fancy championship trophy, which can take the form of a belt, cup, or some other trinket.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Clan Member: Raider Rank 2 - Pillager (TP)</name>
       <text>As a full member of the raiding party, you are trained to strike hard and fast, then escape with whatever loot you can find. Common tactics involve sowing confusion by setting fires or releasing livestock, or drawing the attention of the defenders to allow for easier plunder elsewhere. Your tribe depends on you as a main source of food and supplies, and your comrades depend on you to watch their backs in the chaos of a raid.
 
@@ -1922,8 +1922,8 @@ Holdings:
 
 Progression:
 Perform deeds of notable bravery and be promoted by a warlord or chieftain.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Clan Member: Raider Rank 3 - Raid Leader (TP)</name>
       <text>Through a number of raids you have proven yourself cunning, ruthless, and skilled at combat. As a raid leader you are tasked with not only gathering as much as you can from your targets, but ensuring that your warriors return alive. Your underlings look to you for the tactics to use during the raid, and you must reign in the more reckless raiders lest they go too far.
 
@@ -1934,8 +1934,8 @@ Holdings:
 
 Progression:
 Save a chieftain's life or defeat a sworn enemy of the tribe in single combat.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Clan Member: Raider Rank 4 - Warlord (TP)</name>
       <text>Your deeds are legendary. When you speak, chieftains listen, and you direct policy as much as raiding. More to the point, you are the one who decides where and when to raid and how the military might of the clan will be brought to bear.
 
@@ -1943,93 +1943,93 @@ Holdings
   • Authority over at least three raiding parties within your tribe.
   • Access to war councils and peace negotiations.
   • The ability to requisition goods and recruit new raiders.</text>
-    </trait>
-    <trait>
+    </feat>
+    <!-- <feat>
       <name>Talent: Applied Leverage (TP)</name>
       <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
       <text>When you make a Strength (Athletics) check to force open a door or container, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
+    </feat> -->
+    <feat>
       <name>Talent: Beast Whisperer (TP)</name>
       <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
       <text>Whenever you make a Wisdom (Animal Handling) check to train or direct orders to a beast, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Biologist (TP)</name>
       <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
       <text>Whenever you make an Intelligence (Nature) check to determine the properties of animals, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Botanist (TP)</name>
       <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
       <text>Whenever you make an Intelligence (Nature) check to determine the properties of plants, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Calloused Hands (TP)</name>
       <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
       <text>Whenever you make a Strength (Athletics) check to lift, drag, or shove a heavy object, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Camper (TP)</name>
       <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
       <text>When you make a Wisdom (Survival) check to construct a temporary shelter, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Disciplinarian (TP)</name>
       <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
       <text>Whenever you make a Charisma (Intimidation) check while issuing a command to an individual of lower rank within your background, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Drunkard (TP)</name>
       <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
       <text>Whenever you make a Constitution check to determine if you will throw up, pass out, or how severe a hangover is, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Gambler (TP)</name>
       <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
       <text>Whenever you make a Dexterity (Sleight of Hand) or Wisdom (Perception) check to cheat at a game or catch someone else cheating, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Hard-Working (TP)</name>
       <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
       <text>Whenever you make a Constitution check for a repetitive task such as marching or laboring for hours without rest, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Local Historian (TP)</name>
       <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
       <text>Whenever you make an Intelligence (History) check to determine the history of an item, location, or cultural phenomenon from the same region as you, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Looter (TP)</name>
       <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
       <text>When you make an Intelligence (Investigation) roll to find hidden valuables, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Menacing Presence (TP)</name>
       <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
       <text>Whenever you make a Charisma (Intimidation) check, and are interacting with Academics, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Solidarity (TP)</name>
       <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
       <text>When you make a Charisma (Persuasion) check and you are interacting with members of your background, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Temperature Tolerance (TP)</name>
       <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
       <text>When you make a Constitution saving throw to avoid exhaustion due to extreme temperatures, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Tree Springer (TP)</name>
       <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
       <text>When you make a Dexterity (Acrobatics) check to ascend, descend, or travel between trees, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Talent: Wayfarer (TP)</name>
       <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
       <text>Whenever you make a Wisdom (Survival) check to find a path or avoid getting lost, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Clan Member: Shaman Rank 2 - Hedge Witch (TP)</name>
       <text>Clan members now come to you for advice on minor matters. Your master remains in charge of the major rituals and ceremonies, but you are granted the authority to dole out minor blessings on an individual basis. Part of your duties also includes the telling of cautionary tales to the younger members of the tribe.
 
@@ -2039,8 +2039,8 @@ Holdings:
 
 Progression:
 Be selected as shaman for a new camp or inherit your master's position after their death or retirement.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Clan Member: Shaman Rank 3 - Witch Doctor (TP)</name>
       <text>You have taken over the majority of the rituals and ceremonies of the tribe. People come to you for advice with their problems, both physical and spiritual, and you are treated with deference for your position.
 
@@ -2051,8 +2051,8 @@ Holdings:
 
 Progression:
 Successfully guide an important decision by consulting the spirits for a chieftain.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Clan Member: Shaman Rank 4 - Sage (TP)</name>
       <text>You are considered the voice of the spirits and repository of your tribe's oral history. Even those from outside your tribe have heard of you and seek you out from far and wide. You are invited to preside over all cultural ceremonies and direct the tribe in matters of spirituality. This includes advising the chieftain on nearly all important decisions.
 
@@ -2060,8 +2060,8 @@ Holdings:
   • High ranking tribe members and chieftains put great value on your advice and consult with you before important decisions.
   • Apprentices and pupils that carry out the majority of the mundane tasks associated with your position.
   • The ability to designate holy or forbidden sites and limit tribal access to those areas.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Clan Member: Tribesperson Rank 2 - Hunter-Gatherer (TP)</name>
       <text>The elders of your tribe have granted you permission to venture outside the boundaries of your settlement. As a hunter-gatherer, you are responsible not only for procuring food, but also dealing with minor threats to the tribe and exploring for new resources and possible locations for expansion.
 
@@ -2071,8 +2071,8 @@ Holdings:
 
 Progression:
 Display excellent leadership and aid the tribe during a crisis.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Clan Member: Tribesperson Rank 3 - Elder (TP)</name>
       <text>Elders oversee many of the day-to-day issues within a tribe and advise the chieftain on matters of importance. Your actions on behalf of the tribe and your good judgement have earned you a place among them. The words of an elder carry great weight within the tribe, and an elder has the power to decide minor matters unilaterally. When issues require greater consideration, a number of elders may consult on the matter before rendering a decision.
 
@@ -2082,8 +2082,8 @@ Holdings:
 
 Progression:
 Serve the tribe wisely in times of trouble.</text>
-    </trait>
-    <trait>
+    </feat>
+    <feat>
       <name>Clan Member: Tribesperson Rank 4 - Chieftain (TP)</name>
       <text>By election, trial, or some other method, you have been selected as the leader of your tribe. At home in your tribe, others may advise you, but your word is law. Where multiple tribes band together, you speak for your people.
 
@@ -2091,5 +2091,5 @@ Holdings:
   • Counsel from the elders, warlords, and spiritual leaders of your tribe.
   • Final authority on all tribe decisions and disputes, and complete authority over all tribe members.
   • The grandest house in the camp or village, which doubles as a meeting place for important meetings and visiting dignitaries.</text>
-    </trait>
+    </feat>
             </compendium>
