@@ -1,21 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
-  <!-- <race><name>Bearfolk</name><size>M</size><speed>30</speed><ability>Str +2</ability><trait category="description"><name>Bearfolk</name><text>The bearfolk came to shadow not because they were drawn to its power, but because others were. The shadow chewers are said to have first pursued shadow fey into darkness and found their planar bolt-hole.
-	They soon realized the war against the undead and the shadow fey would never succeed unless they could at least understand the Shadow Realm. In time, the first druids, rangers, and other bearfolk visitors to the Shadow Realm built settlements full of light, built warding stones, and grew entire circles of moonlit oaks, gathering the strength of their intimate understanding of darkness to prevent evil from ruling the shadows without rivals. The moon wells, the groves, and the mere presence of the bearfolk have all given the Shadow Realm places of refuge.
-
-All bearfolk share an inherent iron resolve, but none more so than those who call the Shadow Realm their home. The bearfolk who hail from the Moonlit Glades are hardened by a life of constant peril—the ever-present battle against shadow corruption. Only by banding together in tight-knit communities dedicated to fulfilling their noble purpose have the bearfolk miraculously continued to thrive.
-	Since Mesikämmen the Bear King issued his fateful decree, the bearfolk have fought as a source of light in the Shadow Realm. While most of the region is deadly to even the most capable of travelers, the bearfolk have carved out pockets of safety guarded by druidic magic.
-	Hard-won wisdom has taught the bearfolk the secrets of resisting and purifying shadow corruption. As their mission to drive back the darkness has grown over the centuries, generations of bearfolk have been born in the Shadow Realm. And the longer they stay, the more of each new generation shows an innate power to shape the darkness that surrounds them.
-
-Source:	Book of Ebon Tides p. 22 (Third Party)</text></trait><trait category="description"><name>Bearfolk Names</name><text>Bearfolk are given cub names by their parents, and when they come of age, they earn a new name, either bestowed upon them by an elder or one they choose themselves. This name befits a deed undertaken during their rite of passage into adulthood, describes some honorable or prominent trait of the bearfolk in question, or honors an ancestor.
-
-Male Names: Beorst, Cauldvyr, Cirdhan, Dorngal, Erlundt, Gurralt, Hrosvir, Lhod, Nodhr, Yrn.
-
-Female Names: Anga, Burli, Daegna, Durtta, Farla, Ingyrd, Johanna, Padhra, Sivaer, Tuli.
-
-Deed Names: Fireheart, Ironhide, Lightblade, Moondancer, Razorclaws, Shadowbane, Stonebones, Valgerdsdottir, Yellowfang, Yrnsson.</text></trait><trait><name>Age</name><text>Bearfolk come of age in their late teens and live around 80 years.</text></trait><trait><name>Alignment</name><text>Bearfolk are predominantly good, mistrusting and shunning evil. While they hold rich traditions, they value their freedom and tend toward chaotic alignments.</text></trait><trait><name>Size</name><text>Bearfolk can reach a height of over 7 feet, with thick, muscular builds. Your size is Medium.</text></trait><trait category="species"><name>Bite</name><text>Your powerful jaws are natural weapons, which you can use to make unarmed strikes. If it hits, you deal 1d6 + your Strength modifier piercing damage.</text><roll description="Piercing Damage">1d6+%1</roll></trait><trait category="species"><name>Natural Armor</name><text>Your hide is thick and tough, granting you a natural AC of 13 + your Dexterity modifier.</text><special>Natural Armor: Dexterity</special></trait><trait category="species"><name>Powerful Build</name><text>You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.</text></trait><trait><name>Languages</name><text>You can speak, read, and write either Common (if you hail from the mortal lands) or Umbral (if native to the Shadow Realm).</text></trait></race> -->
   <race>
-    <name>Bearfolk, Shadowborn (TP)</name>
+    <name>Bearfolk (TP)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Str +2</ability>
+    <trait category="description">
+      <name>Bearfolk</name>
+      <text>The bearfolk came to shadow not because they were drawn to its power, but because others were. The shadow chewers are said to have first pursued shadow fey into darkness and found their planar bolt-hole.
+      They soon realized the war against the undead and the shadow fey would never succeed unless they could at least understand the Shadow Realm. In time, the first druids, rangers, and other bearfolk visitors to the Shadow Realm built settlements full of light, built warding stones, and grew entire circles of moonlit oaks, gathering the strength of their intimate understanding of darkness to prevent evil from ruling the shadows without rivals. The moon wells, the groves, and the mere presence of the bearfolk have all given the Shadow Realm places of refuge.
+      All bearfolk share an inherent iron resolve, but none more so than those who call the Shadow Realm their home. The bearfolk who hail from the Moonlit Glades are hardened by a life of constant peril—the ever-present battle against shadow corruption. Only by banding together in tight-knit communities dedicated to fulfilling their noble purpose have the bearfolk miraculously continued to thrive.
+    	Since Mesikämmen the Bear King issued his fateful decree, the bearfolk have fought as a source of light in the Shadow Realm. While most of the region is deadly to even the most capable of travelers, the bearfolk have carved out pockets of safety guarded by druidic magic.
+    	Hard-won wisdom has taught the bearfolk the secrets of resisting and purifying shadow corruption. As their mission to drive back the darkness has grown over the centuries, generations of bearfolk have been born in the Shadow Realm. And the longer they stay, the more of each new generation shows an innate power to shape the darkness that surrounds them.
+      Source:	Book of Ebon Tides p. 22 (Third Party)</text>
+</trait>
+<trait category="description">
+  <name>Bearfolk Names</name>
+  <text>Bearfolk are given cub names by their parents, and when they come of age, they earn a new name, either bestowed upon them by an elder or one they choose themselves. This name befits a deed undertaken during their rite of passage into adulthood, describes some honorable or prominent trait of the bearfolk in question, or honors an ancestor.
+    Male Names: Beorst, Cauldvyr, Cirdhan, Dorngal, Erlundt, Gurralt, Hrosvir, Lhod, Nodhr, Yrn.
+    Female Names: Anga, Burli, Daegna, Durtta, Farla, Ingyrd, Johanna, Padhra, Sivaer, Tuli.
+    Deed Names: Fireheart, Ironhide, Lightblade, Moondancer, Razorclaws, Shadowbane, Stonebones, Valgerdsdottir, Yellowfang, Yrnsson.</text>
+</trait>
+<trait>
+  <name>Age</name>
+  <text>Bearfolk come of age in their late teens and live around 80 years.</text>
+</trait>
+<trait>
+  <name>Alignment</name>
+  <text>Bearfolk are predominantly good, mistrusting and shunning evil. While they hold rich traditions, they value their freedom and tend toward chaotic alignments.</text>
+</trait>
+<trait>
+  <name>Size</name>
+  <text>Bearfolk can reach a height of over 7 feet, with thick, muscular builds. Your size is Medium.</text>
+</trait>
+<trait category="species">
+  <name>Bite</name>
+  <text>Your powerful jaws are natural weapons, which you can use to make unarmed strikes. If it hits, you deal 1d6 + your Strength modifier piercing damage.</text>
+  <roll description="Piercing Damage">1d6+%1</roll>
+</trait>
+<trait category="species">
+  <name>Natural Armor</name>
+  <text>Your hide is thick and tough, granting you a natural AC of 13 + your Dexterity modifier.</text>
+  <special>Natural Armor: Dexterity</special>
+</trait>
+<trait category="species">
+  <name>Powerful Build</name>
+  <text>You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.</text>
+</trait>
+<trait>
+  <name>Languages</name>
+  <text>You can speak, read, and write either Common (if you hail from the mortal lands) or Umbral (if native to the Shadow Realm).</text>
+</trait>
+</race>
+  <race>
+    <name>Bearfolk: Shadowborn (TP)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +2, Dex +1</ability>
@@ -81,7 +119,12 @@ Deed Names: Fireheart, Ironhide, Lightblade, Moondancer, Razorclaws, Shadowbane,
       <text>You can speak, read, and write either Common (if you hail from the mortal lands) or Umbral (if native to the Shadow Realm).</text>
     </trait>
   </race>
-  <!-- <race><name>Darakhul</name><ability>Con +1</ability><resist>necrotic, poison</resist><trait category="description"><name>Description</name><text>The darakhul are no strangers to darkness, and over the years, the members of the Twilight Empire deftly adapted to their new home and carved out a thriving civilization in the Shadow Realm. They have grown into a powerful force.
+  <race>
+  <name>Darakhul (TP)</name>
+  <ability>Con +1</ability>
+  <resist>necrotic, poison</resist>
+  <trait category="description">
+  <name>Description</name><text>The darakhul are no strangers to darkness, and over the years, the members of the Twilight Empire deftly adapted to their new home and carved out a thriving civilization in the Shadow Realm. They have grown into a powerful force.
 	Living flesh is scarce in the Shadow Realm, so while the darakhul still hunt the living denizens of the plane and maintain elaborate trade networks to secure living cargo from mortal lands, they have discovered that the crackling trees—an invasive species originating in Evermaw—can assuage much of their hunger, and they have learned to subsist on the bloodlike sap drawn from these trees. This practice marks them though, for the corruption inherent in the flora causes a permanent blackening of the teeth, recession of the gums, and shriveling of the flesh around the mouth. As a result, the darakhul of the Shadow Realm are much less concerned with concealing their true nature. After all, they are far from the worst things that stalk the darkness.
 
 Source:	Book of Ebon Tides p. 24 (Third Party)</text></trait><trait category="description"><name>Darakhul Names</name><text>Ghouls tend to keep their first names from their time among the living. Their surnames, however, tend to be granted or chosen by the newly arrived darakhul after the Crossing (their passage into undeath). These are sometimes the name of a patron, lord, or lady, or a name used within the legions of the empire or within a particular faith. Some common lineage names are provided below. Some names are most common in the priesthoods while others are from the legions.
@@ -99,9 +142,11 @@ before your transformation, and do you still pursue them? Are your new goals sim
 	Regardless of your current monstrous state, who you once were has a powerful effect on who you are now. The carefree spirit of a halfling, the fiendish urges of a tiefling, or the creative spark of a gnome: all of these do not leave you simply because of your new form. How do those traits manifest themselves in you now?
 	There is a great deal of narrative, dramatic, and roleplaying potential in that tension between the old self and the new. Darakhul may be undead, but they still must function in their own society—be it on the surface or in the empires beneath the surface. Most still have jobs to do and dreams to fulfill within their societies.
 
-Source:	Book of Ebon Tides p. 24</text></trait><trait><name>Age</name><text>An upper limit of darakhul age has never been discovered; most darakhul die violently.</text></trait><trait><name>Alignment</name><text>Your alignment does not change when you become a darakhul, but most darakhul have a strong draw toward evil.</text></trait><trait category="species"><name>Darkvision</name><text>You can see in dim light within 60 feet as though it were bright light and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text></trait><trait category="species"><name>Hunger for Flesh</name><text>You must consume 1 pound of raw meat each day or suffer the effects of starvation. If you go 24 hours without such a meal, you gain one level of exhaustion. While you have any levels of exhaustion from this trait, you can't regain hit points or remove levels of exhaustion until you spend at least 1 hour consuming 10 pounds of raw meat.</text></trait><trait category="species"><name>Imperfect Undeath</name><text>You transitioned into undeath, but your transition was imperfect. Though you are a humanoid, you are susceptible to effects that target undead. You can regain hit points from spells like cure wounds, but you can also be affected by game effects that specifically target undead, such as a cleric's Turn Undead feature. Game effects that raise a creature from the dead work on you as normal, but they return you to life as a darakhul. A true resurrection or wish spell can restore you to life as a fully living member of your original race.</text></trait><trait category="species"><name>Powerful Jaw</name><text>Your heavy jaw is powerful enough to crush bones to powder. Your bite is a natural melee weapon, which you can use to make unarmed strikes. When you hit with it, your bite deals piercing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.</text><roll description="Unarmed Strike Piercing Damage">1d4+%1</roll></trait><trait category="species"><name>Sunlight Sensitivity</name><text>You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.</text></trait><trait category="species"><name>Undead Resilience</name><text>You are infused with the dark energy of undeath, which frees you from some frailties that plague most creatures. You have resistance to necrotic damage and poison damage, you are immune to disease, and you have advantage on saving throws against being charmed or poisoned. When you finish a short rest, you can reduce your exhaustion level by 1, provided you have ingested at least I pound of raw meat in the last 24 hours (see Hunger for Flesh feature).</text></trait><trait category="species"><name>Undead Vitality</name><text>You don't need to breathe, and you don't sleep the way most creatures do. Instead, you enter a dormant state that resembles death, remaining semiconscious, for 6 hours a day. While dormant, you have disadvantage on Wisdom (Perception) checks. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</text></trait><trait category="species"><name>Heritage Subrace</name><text>You were something else before you became a darakhul. This heritage determines some of your traits.</text></trait><trait><name>Languages</name><text>You can speak, read, and write Darakhul, Umbral, and a language associated with your Heritage Subrace.</text></trait></race> -->
+Source:	Book of Ebon Tides p. 24</text>
+</trait>
+<trait><name>Age</name><text>An upper limit of darakhul age has never been discovered; most darakhul die violently.</text></trait><trait><name>Alignment</name><text>Your alignment does not change when you become a darakhul, but most darakhul have a strong draw toward evil.</text></trait><trait category="species"><name>Darkvision</name><text>You can see in dim light within 60 feet as though it were bright light and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text></trait><trait category="species"><name>Hunger for Flesh</name><text>You must consume 1 pound of raw meat each day or suffer the effects of starvation. If you go 24 hours without such a meal, you gain one level of exhaustion. While you have any levels of exhaustion from this trait, you can't regain hit points or remove levels of exhaustion until you spend at least 1 hour consuming 10 pounds of raw meat.</text></trait><trait category="species"><name>Imperfect Undeath</name><text>You transitioned into undeath, but your transition was imperfect. Though you are a humanoid, you are susceptible to effects that target undead. You can regain hit points from spells like cure wounds, but you can also be affected by game effects that specifically target undead, such as a cleric's Turn Undead feature. Game effects that raise a creature from the dead work on you as normal, but they return you to life as a darakhul. A true resurrection or wish spell can restore you to life as a fully living member of your original race.</text></trait><trait category="species"><name>Powerful Jaw</name><text>Your heavy jaw is powerful enough to crush bones to powder. Your bite is a natural melee weapon, which you can use to make unarmed strikes. When you hit with it, your bite deals piercing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.</text><roll description="Unarmed Strike Piercing Damage">1d4+%1</roll></trait><trait category="species"><name>Sunlight Sensitivity</name><text>You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.</text></trait><trait category="species"><name>Undead Resilience</name><text>You are infused with the dark energy of undeath, which frees you from some frailties that plague most creatures. You have resistance to necrotic damage and poison damage, you are immune to disease, and you have advantage on saving throws against being charmed or poisoned. When you finish a short rest, you can reduce your exhaustion level by 1, provided you have ingested at least I pound of raw meat in the last 24 hours (see Hunger for Flesh feature).</text></trait><trait category="species"><name>Undead Vitality</name><text>You don't need to breathe, and you don't sleep the way most creatures do. Instead, you enter a dormant state that resembles death, remaining semiconscious, for 6 hours a day. While dormant, you have disadvantage on Wisdom (Perception) checks. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</text></trait><trait category="species"><name>Heritage Subrace</name><text>You were something else before you became a darakhul. This heritage determines some of your traits.</text></trait><trait><name>Languages</name><text>You can speak, read, and write Darakhul, Umbral, and a language associated with your Heritage Subrace.</text></trait></race>
   <race>
-    <name>Darakhul, Bearfolk Heritage (TP)</name>
+    <name>Darakhul: Bearfolk Heritage (TP)</name>
     <displayname>Bearfolk Heritage Darakhul</displayname>
     <ancestry>Darakhul</ancestry>
     <size>M</size>
@@ -196,7 +241,7 @@ Source:	Book of Ebon Tides p. 24</text>
     </trait>
   </race>
   <race>
-    <name>Darakhul, Shadow Goblin Heritage (TP)</name>
+    <name>Darakhul: Shadow Goblin Heritage (TP)</name>
     <displayname>Shadow Goblin Heritage Darakhul</displayname>
     <ancestry>Darakhul</ancestry>
     <size>S</size>
@@ -293,7 +338,7 @@ Source:	Book of Ebon Tides p. 24</text>
     </trait>
   </race>
   <race>
-    <name>Elf, Shadow Fey (TP)</name>
+    <name>Elf: Shadow Fey (TP)</name>
     <displayname>Shadow Fey Elf</displayname>
     <ancestry>Elf</ancestry>
     <size>M</size>
@@ -381,7 +426,7 @@ If you meditate during a long rest, you finish the rest after only 4 hours. You 
     </trait>
   </race>
   <race>
-    <name>Elf, Lunar (TP)</name>
+    <name>Elf: Lunar (TP)</name>
     <displayname>Lunar Elf</displayname>
     <ancestry>Elf</ancestry>
     <size>M</size>
@@ -461,7 +506,7 @@ If you meditate during a long rest, you finish the rest after only 4 hours. You 
     </trait>
   </race>
   <race>
-    <name>Elf, Sable (TP)</name>
+    <name>Elf: Sable (TP)</name>
     <displayname>Sable Elf</displayname>
     <ancestry>Elf</ancestry>
     <size>M</size>
@@ -529,7 +574,7 @@ If you meditate during a long rest, you finish the rest after only 4 hours. You 
     </trait>
   </race>
   <race>
-    <name>Goblin, Shadow (TP)</name>
+    <name>Goblin: Shadow (TP)</name>
     <displayname>Shadow Goblin</displayname>
     <ancestry>Goblin</ancestry>
     <size>S</size>
@@ -596,8 +641,8 @@ Example Family Names: Bellringer, Butcherson, Candlesmith, Cloudchaser, Cooperso
       <text>You can speak, read, and write Goblin and Umbral.</text>
     </trait>
   </race>
-  <race>
-    <name>Human, Umbral (TP)</name>
+  <!-- <race>
+    <name>Human: Umbral (TP)</name>
     <displayname>Umbral Human</displayname>
     <ancestry>Human</ancestry>
     <size>M</size>
@@ -640,9 +685,9 @@ Source:	Book of Ebon Tides p. 30 (Third Party)</text>
       <name>Language</name>
       <text>You can speak, read, and write Common and Umbral.</text>
     </trait>
-  </race>
+  </race> -->
   <race>
-    <name>Human, Changeling Umbral (TP)</name>
+    <name>Changeling: Umbral Human (TP)</name>
     <displayname>Changeling Umbral Human</displayname>
     <ancestry>Human</ancestry>
     <size>M</size>
@@ -712,7 +757,7 @@ Your Charisma score increases by 1.</text>
     </trait>
   </race>
   <race>
-    <name>Human, Gifted Umbral (TP)</name>
+    <name>Human: Gifted Umbral (TP)</name>
     <displayname>Gifted Umbral Human</displayname>
     <ancestry>Human</ancestry>
     <size>M</size>
@@ -840,7 +885,7 @@ Example Forenames: Chiringa, Daresh, Ekirp, Ekkitta, Kerasil, Najuta, Orrin, Ski
 
 Example Surnames: Brightsong, Bristletooth, Flitpaw, Jumptwig, Silentleaf, Wisewhisker.</text></trait><trait><name>Ability Score Increase</name><text>Your Dexterity score increases by 2, but your Strength score decreases by 2.</text></trait><trait><name>Age</name><text>Ratatosk reach adulthood at age 10 and, due to their celestial nature, live up to 180 years.</text></trait><trait><name>Alignment</name><text>Ever curious and delighting in unpredictability, ekorre ratatosks gravitate toward chaotic alignments as they view laws as vague suggestions at best. The tradvakt tend to be slightly more focused and lawful in their thinking. Both groups tend toward good, placing value on doing the right thing, though some individuals lean more toward their darker impulses.</text></trait><trait><name>Speed</name><text>Your base walking speed is 25 feet, and you have a climb speed of 10 feet.</text></trait><trait category="species"><name>Darkvision</name><text>You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text></trait><trait category="species"><name>Grounded Celestial</name><text>You are descended from celestials, but you are strongly attuned to the mortal world. Though you are a humanoid, you are still susceptible to effects that target celestials.</text></trait><trait category="species"><name>Sharp Tusks</name><text>Your sharp tusks are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal 1 piercing damage plus 1d4 psychic damage.</text><roll description="Unarmed Strike Pyschic Dmage">1+1d4</roll></trait><trait category="species"><name>Telepathic</name><text>You can speak telepathically to any creature you can see, provided the creature is within a number of feet of you equal to 10 times your level. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.</text></trait><trait><name>Languages</name><text>You can understand, read, and write Celestial and Common, but you speak via Telepathy.</text></trait></race> -->
   <race>
-    <name>Ratatosk, Ekorre (Clever Tusk) (TP)</name>
+    <name>Ratatosk: Ekorre (TP)</name>
     <displayname>Ekorre Ratatosk (Clever Tusk)</displayname>
     <ancestry>Ratatosk</ancestry>
     <size>T</size>
@@ -916,7 +961,7 @@ Either your Intelligence or Charisma score increases by 1.</text>
     </trait>
   </race>
   <race>
-    <name>Ratatosk, Tradvakt (Tree Protector) (TP)</name>
+    <name>Ratatosk: Tradvakt (TP)</name>
     <displayname>Tradvakt Ratatosk (Tree Protector)</displayname>
     <ancestry>Ratatosk</ancestry>
     <speed>25</speed>
@@ -996,7 +1041,7 @@ Either your Intelligence or Charisma score increases by 1.</text>
     </trait>
   </race>
   <race>
-    <name>Erina, Spiritfarer (TP)</name>
+    <name>Erina: Spiritfarer (TP)</name>
     <displayname>Erina</displayname>
     <ancestry>Erina</ancestry>
     <size>S</size>
@@ -1088,7 +1133,7 @@ Example Names: May-nay, Wayee, Leemay, Einore, Die-Nu, Lowno, Ur-win.</text>
     </trait>
   </race>
   <race>
-    <name>Shade, Stygian (TP)</name>
+    <name>Shade: Stygian (TP)</name>
     <displayname>Stygian Shade</displayname>
     <ancestry>Shade</ancestry>
     <speed>30</speed>
@@ -1178,7 +1223,7 @@ Source:	Book of Ebon Tides p. 36 (Homebrew)</text>
     </trait>
   </race>
   <race>
-    <name>Ravenfolk, Sublime (TP)</name>
+    <name>Ravenfolk: Sublime (TP)</name>
     <displayname>Sublime Ravenfolk</displayname>
     <ancestry>Ravenfolk</ancestry>
     <size>M</size>
@@ -1249,7 +1294,7 @@ Source:	Book of Ebon Tides p. 37 (Third Party)</text>
     </trait>
   </race>
   <race>
-    <name>Satarre, Unbound (TP)</name>
+    <name>Satarre: Unbound (TP)</name>
     <displayname>Satarre</displayname>
     <ancestry>Satarre</ancestry>
     <size>M</size>
@@ -1329,7 +1374,7 @@ Example Female Names: Atlessa (jewel), Binulett (scout), Frizel (scribe), Ixa (b
     </trait>
   </race>
   <race>
-    <name>Gnome, Wyrd (TP)</name>
+    <name>Gnome: Wyrd (TP)</name>
     <size>S</size>
     <speed>25</speed>
     <ability>Int +2, Wis +1</ability>

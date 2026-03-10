@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Cnidaran, Nematocyst (HB)</name>
+    <name>Cnidaran: Nematocyst (TP)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Con +2, Dex +1</ability>
@@ -9,7 +9,7 @@
       <name>Description</name>
       <text>From nomadic, floating cities whose coral exoskeletons stretch down into the dark ocean depths to mile-long reefs and small atolls, cnidaran (NI-daran) settlements can be found wherever salt meets water. Their unique, bipartite lifecycle sets them apart from most other humanoids and fosters a zealous loyalty between cnidaran and home.
 
-Named after their whip-like appendage which can secrete a potent neurotoxin, such individuals form the warriors of a cnidaran reef.
+Named after their whip-like appendage which can secrete a potent neurotoxin, Nematocyst individuals form the warriors of a cnidaran reef.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 151</text>
     </trait>
@@ -63,7 +63,7 @@ death, exile, or declarations of war are all sanctions a cnidaran colony might e
     </trait>
   </race>
   <race>
-    <name>Cnidaran, Shimmerskin (HB)</name>
+    <name>Cnidaran: Shimmerskin (TP)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Con +1, Cha +2</ability>
@@ -72,7 +72,7 @@ death, exile, or declarations of war are all sanctions a cnidaran colony might e
       <name>Description</name>
       <text>From nomadic, floating cities whose coral exoskeletons stretch down into the dark ocean depths to mile-long reefs and small atolls, cnidaran (NI-daran) settlements can be found wherever salt meets water. Their unique, bipartite lifecycle sets them apart from most other humanoids and fosters a zealous loyalty between cnidaran and home.
 
-Diplomats and traders of a cnidaran reef are often shimmerskin morphs; their propensity to mesmerise makes them skilled negotiators.
+Diplomats and traders of a cnidaran reef are often Shimmerskin, their propensity to mesmerise makes them skilled negotiators.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 152</text>
     </trait>
@@ -123,7 +123,7 @@ death, exile, or declarations of war are all sanctions a cnidaran colony might e
     </trait>
   </race>
   <race>
-    <name>Cyclopian (HB)</name>
+    <name>Cyclopian (TP)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Int +2</ability>
@@ -191,7 +191,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 153</text>
     </trait>
   </race>
   <race>
-    <name>Gobboc (HB)</name>
+    <name>Gobboc (TP)</name>
     <size>S</size>
     <speed>25</speed>
     <ability>Dex +2</ability>
@@ -252,7 +252,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 155</text>
     </trait>
   </race>
   <race>
-    <name>Golynn (HB)</name>
+    <name>Golynn (TP)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Con +2, Str +1</ability>
@@ -311,7 +311,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 157</text>
     </trait>
   </race>
   <race>
-    <name>Lotol (HB)</name>
+    <name>Lotol (TP)</name>
     <size>M</size>
     <ability>Wis +2, Con +1</ability>
     <trait category="description">
@@ -370,7 +370,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 159</text>
     </trait>
   </race>
   <race>
-    <name>Mycelian (HB)</name>
+    <name>Mycelian (TP)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Con +2</ability>
@@ -450,7 +450,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 161</text>
     </trait>
   </race>
   <race>
-    <name>Ombrask (HB)</name>
+    <name>Ombrask (TP)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex +2</ability>
@@ -533,7 +533,7 @@ Tiefling | +1 Cha
     </trait>
   </race>
   <race>
-    <name>Oozekin (HB)</name>
+    <name>Oozekin (TP)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Con +2, Str +1</ability>
@@ -593,7 +593,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 166</text>
     </trait>
   </race>
   <race>
-    <name>Opteran (HB)</name>
+    <name>Opteran (TP)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +2</ability>
@@ -655,7 +655,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 166</text>
     </trait>
   </race>
   <race>
-    <name>Rakin, Urkin (HB)</name>
+    <name>Rakin: Urkin (TP)</name>
     <size>S</size>
     <speed>30</speed>
     <ability>Dex +2</ability>
@@ -718,7 +718,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 171</text>
     </trait>
   </race>
   <race>
-    <name>Rakin, Posskin (HB)</name>
+    <name>Rakin: Posskin (TP)</name>
     <size>S</size>
     <speed>30</speed>
     <ability>Dex +2, Con +1</ability>
@@ -786,7 +786,7 @@ The debacle spiralled into a full-on feud between the opposing rakin factions, s
     </trait>
   </race>
   <race>
-    <name>Rakin, Tanukin (HB)</name>
+    <name>Rakin: Tanukin (TP)</name>
     <size>S</size>
     <speed>30</speed>
     <ability>Dex +2</ability>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Claw of Agonizing Paralysis</name>
+    <name>Claw of Agonizing Paralysis (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -24,7 +24,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Haladie of Agonizing Paralysis</name>
+    <name>Haladie of Agonizing Paralysis (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -49,7 +49,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Nunchuck of Agonizing Paralysis</name>
+    <name>Nunchuck of Agonizing Paralysis (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -75,7 +75,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Tetherhook of Agonizing Paralysis</name>
+    <name>Tetherhook of Agonizing Paralysis (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Aarakocra</name>
+    <name>Aarakocra (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex +2, Wis +1</ability>
@@ -60,8 +60,8 @@ Weight in pounds = 70 + (1d4 × your size modifier)</text>
       <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
-  <race>
-    <name>Aasimar</name>
+  <!-- <race>
+    <name>Aasimar (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +2, Wis +1</ability>
@@ -129,23 +129,13 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
       <name>Light Bearer</name>
       <text>You know the light cantrip. Charisma is your spellcasting ability for it.</text>
     </trait>
-    <trait category="species">
-      <name>Celestial Revelation</name>
-      <text>When you reach 3rd level, choose one of the revelation options below. Thereafter, you can use a bonus action to unleash the celestial energy within yourself, gaining the benefits of that revelation. Your transformation lasts for 1 minute or until you end it as a bonus action. Once you transform using your revelation below, you can't use it again until you finish a long rest:
-
-Necrotic Shroud: Your eyes briefly become pools of darkness, and ghostly, flightless wings sprout from your back temporarily. Creatures other than your allies within 10 feet of you that can see you must succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Charisma modifier) or become frightened of you until the end of your next turn. Until the transformation ends, once on each of your turns, you can deal extra necrotic damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your proficiency bonus.
-
-Radiant Consumption: Searing light temporarily radiates from your eyes and mouth. For the duration, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, each creature within 10 feet of you takes radiant damage equal to your proficiency bonus. Until the transformation ends, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your proficiency bonus.
-
-Radiant Soul: Two luminous, spectral wings sprout from your back temporarily. Until the transformation ends, you have a flying speed equal to your walking speed, and once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your proficiency bonus.</text>
-    </trait>
     <trait>
       <name>Languages</name>
       <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
-  </race>
+  </race> -->
   <race>
-    <name>Bugbear</name>
+    <name>Bugbear (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +2, Dex +1</ability>
@@ -218,7 +208,7 @@ Weight in pounds = 200 + (2d6 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Centaur</name>
+    <name>Centaur (Legacy)</name>
     <size>M</size>
     <speed>40</speed>
     <ability>Str +2, Wis +1</ability>
@@ -283,7 +273,7 @@ Weight in pounds = 600 + (2d12 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Changeling</name>
+    <name>Changeling (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +2</ability>
@@ -340,7 +330,7 @@ Weight in pounds = 115 + (2d4 x your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Gnome, Deep</name>
+    <name>Gnome of the Depths (Legacy)</name>
     <size>S</size>
     <speed>30</speed>
     <ability>Int +2, Dex +1</ability>
@@ -402,7 +392,7 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
   </race>
   <race>
-    <name>Dwarf, Duergar / Gray</name>
+    <name>Dwarf: Duergar (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Con +2, Str +1</ability>
@@ -464,7 +454,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Elf, Eladrin</name>
+    <name>Elf: Eladrin (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex +2, Cha +1</ability>
@@ -546,7 +536,7 @@ Summer: Immediately after you use your Fey Step, each creature of your choice th
     </trait>
   </race>
   <race>
-    <name>Fairy</name>
+    <name>Fairy (Legacy)</name>
     <size>S</size>
     <speed>30</speed>
     <trait category="description">
@@ -605,7 +595,7 @@ Source:	The Wild Beyond the Witchlight p. 12,
     </trait>
   </race>
   <race>
-    <name>Firbolg</name>
+    <name>Firbolg (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Wis +2, Str +1</ability>
@@ -668,8 +658,8 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
       <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
   </race>
-  <race>
-    <name>Genasi, Air</name>
+  <!-- <race>
+    <name>Genasi: Air (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Con +2, Dex +1</ability>
@@ -736,7 +726,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Genasi, Earth</name>
+    <name>Genasi: Earth (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Con +2, Str +1</ability>
@@ -797,7 +787,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Genasi, Fire</name>
+    <name>Genasi: Fire (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Con +2, Int +1</ability>
@@ -857,7 +847,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Genasi, Water</name>
+    <name>Genasi: Water (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Con +2, Wis +1</ability>
@@ -924,9 +914,9 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
       <name>Languages</name>
       <text>Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player's Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.</text>
     </trait>
-  </race>
+  </race> -->
   <race>
-    <name>Gith, Githyanki</name>
+    <name>Gith: Githyanki (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Int +1, Str +2</ability>
@@ -983,7 +973,7 @@ Average weight: 92-196 lb</text>
     </trait>
   </race>
   <race>
-    <name>Gith, Githzerai</name>
+    <name>Gith: Githzerai (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Int +1, Wis +2</ability>
@@ -1039,7 +1029,7 @@ Average weight: 92-196 lb</text>
     </trait>
   </race>
   <race>
-    <name>Goblin</name>
+    <name>Goblin (Legacy)</name>
     <size>S</size>
     <speed>30</speed>
     <ability>Dex +2, Con +1</ability>
@@ -1096,7 +1086,7 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
   </race>
   <race>
-    <name>Goliath</name>
+    <name>Goliath (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +2, Con +1</ability>
@@ -1158,7 +1148,7 @@ Weight in pounds = 200 + (2d6 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Harengon</name>
+    <name>Harengon (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <proficiency>Perception</proficiency>
@@ -1205,7 +1195,7 @@ Source:	The Wild Beyond the Witchlight p. 13,
     </trait>
   </race>
   <race>
-    <name>Hobgoblin</name>
+    <name>Hobgoblin (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Con +2, Int +1</ability>
@@ -1275,7 +1265,7 @@ Spite: Until the start of your next turn, the first time the creature you help h
     </trait>
   </race>
   <race>
-    <name>Kenku</name>
+    <name>Kenku (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex +2, Wis +1</ability>
@@ -1334,7 +1324,7 @@ Weight in pounds = 50 + (1d6 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Kobold</name>
+    <name>Kobold (Legacy)</name>
     <size>S</size>
     <speed>30</speed>
     <ability>Dex +2</ability>
@@ -1390,7 +1380,7 @@ Draconic Sorcery: You know one cantrip of your choice from the sorcerer spell li
     </trait>
   </race>
   <race>
-    <name>Lizardfolk</name>
+    <name>Lizardfolk (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Con +2, Wis +1</ability>
@@ -1454,7 +1444,7 @@ Source:	Volo's Guide to Monsters p. 113,
     </trait>
   </race>
   <race>
-    <name>Minotaur</name>
+    <name>Minotaur (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +2, Con +1</ability>
@@ -1519,7 +1509,7 @@ Weight in pounds = 175 + (2d6 x your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Orc</name>
+    <name>Orc (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +2, Con +1</ability>
@@ -1583,7 +1573,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Satyr</name>
+    <name>Satyr (Legacy)</name>
     <size>M</size>
     <speed>35</speed>
     <ability>Cha +2, Dex +1</ability>
@@ -1645,7 +1635,7 @@ Weight in pounds = 100 + (2d4 x your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Elf, Sea</name>
+    <name>Elf: Sea (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex +2, Con +1</ability>
@@ -1722,7 +1712,7 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Elf, Shadar-kai</name>
+    <name>Elf: Shadar-kai (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex +2, Con +1</ability>
@@ -1793,7 +1783,7 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Shifter</name>
+    <name>Shifter (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <trait category="description">
@@ -1870,7 +1860,7 @@ Wildhunt: While shifted, you have advantage on Wisdom checks, and no creature wi
     </trait>
   </race>
   <race>
-    <name>Tabaxi</name>
+    <name>Tabaxi (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex +2, Cha +1</ability>
@@ -1943,7 +1933,7 @@ Weight in pounds = 90 + (2d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Tortle</name>
+    <name>Tortle (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +2, Wis +1</ability>
@@ -2010,7 +2000,7 @@ Weight in pounds = 400 + (2d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Triton</name>
+    <name>Triton (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +1, Cha +1, Con +1</ability>
@@ -2074,7 +2064,7 @@ Source:	Volo's Guide to Monsters p. 118,
     </trait>
   </race>
   <race>
-    <name>Yuan-ti</name>
+    <name>Yuan-ti (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +2, Int +1</ability>

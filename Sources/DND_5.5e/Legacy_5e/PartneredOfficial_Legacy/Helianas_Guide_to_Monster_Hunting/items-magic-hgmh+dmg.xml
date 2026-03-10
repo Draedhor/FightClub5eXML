@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Claw +1</name>
+    <name>Claw +1 (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -24,7 +24,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Haladie +1</name>
+    <name>Haladie +1 (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -49,7 +49,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Magitech Firearm +1</name>
+    <name>Magitech Firearm +1 (TP)</name>
     <detail>firearm, uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -81,7 +81,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Nunchuck +1</name>
+    <name>Nunchuck +1 (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -107,7 +107,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Tetherhook +1</name>
+    <name>Tetherhook +1 (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -133,7 +133,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Hand Tommybow +1</name>
+    <name>Hand Tommybow +1 (TP)</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -165,7 +165,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Light Tommybow +1</name>
+    <name>Light Tommybow +1 (TP)</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -195,7 +195,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Heavy Tommybow +1</name>
+    <name>Heavy Tommybow +1 (TP)</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -227,7 +227,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Claw +2</name>
+    <name>Claw +2 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -250,7 +250,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Haladie +2</name>
+    <name>Haladie +2 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -275,7 +275,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Magitech Firearm +2</name>
+    <name>Magitech Firearm +2 (TP)</name>
     <detail>firearm, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -307,7 +307,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Nunchuck +2</name>
+    <name>Nunchuck +2 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -333,7 +333,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Tetherhook +2</name>
+    <name>Tetherhook +2 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -359,7 +359,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Hand Tommybow +2</name>
+    <name>Hand Tommybow +2 (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -391,7 +391,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Light Tommybow +2</name>
+    <name>Light Tommybow +2 (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -421,7 +421,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Heavy Tommybow +2</name>
+    <name>Heavy Tommybow +2 (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -453,7 +453,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Claw +3</name>
+    <name>Claw +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -476,7 +476,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Haladie +3</name>
+    <name>Haladie +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -501,7 +501,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Magitech Firearm +3</name>
+    <name>Magitech Firearm +3 (TP)</name>
     <detail>firearm, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -533,7 +533,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Nunchuck +3</name>
+    <name>Nunchuck +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -559,7 +559,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Tetherhook +3</name>
+    <name>Tetherhook +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -585,7 +585,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Hand Tommybow +3</name>
+    <name>Hand Tommybow +3 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -617,7 +617,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Light Tommybow +3</name>
+    <name>Light Tommybow +3 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -647,7 +647,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Heavy Tommybow +3</name>
+    <name>Heavy Tommybow +3 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -679,7 +679,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Vicious Claw</name>
+    <name>Vicious Claw (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -700,7 +700,7 @@ Source:	Dungeon Master's Guide (2014) p. 209,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Vicious Haladie</name>
+    <name>Vicious Haladie (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -723,7 +723,7 @@ Source:	Dungeon Master's Guide (2014) p. 209,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Vicious Magitech Firearm</name>
+    <name>Vicious Magitech Firearm (TP)</name>
     <detail>firearm, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -753,7 +753,7 @@ Source:	Dungeon Master's Guide (2014) p. 209,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Vicious Nunchuck</name>
+    <name>Vicious Nunchuck (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -777,7 +777,7 @@ Source:	Dungeon Master's Guide (2014) p. 209,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Vicious Tetherhook</name>
+    <name>Vicious Tetherhook (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -801,7 +801,7 @@ Source:	Dungeon Master's Guide (2014) p. 209,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Vicious Hand Tommybow</name>
+    <name>Vicious Hand Tommybow (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -831,7 +831,7 @@ Source:	Dungeon Master's Guide (2014) p. 209,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Vicious Light Tommybow</name>
+    <name>Vicious Light Tommybow (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -859,7 +859,7 @@ Source:	Dungeon Master's Guide (2014) p. 209,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Vicious Heavy Tommybow</name>
+    <name>Vicious Heavy Tommybow (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -889,7 +889,7 @@ Source:	Dungeon Master's Guide (2014) p. 209,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Claw of Warning</name>
+    <name>Claw of Warning (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -910,7 +910,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Haladie of Warning</name>
+    <name>Haladie of Warning (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -933,7 +933,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Magitech Firearm of Warning</name>
+    <name>Magitech Firearm of Warning (TP)</name>
     <detail>firearm, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -963,7 +963,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Nunchuck of Warning</name>
+    <name>Nunchuck of Warning (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -987,7 +987,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Tetherhook of Warning</name>
+    <name>Tetherhook of Warning (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1011,7 +1011,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Hand Tommybow of Warning</name>
+    <name>Hand Tommybow of Warning (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1041,7 +1041,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Light Tommybow of Warning</name>
+    <name>Light Tommybow of Warning (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1069,7 +1069,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Heavy Tommybow of Warning</name>
+    <name>Heavy Tommybow of Warning (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>

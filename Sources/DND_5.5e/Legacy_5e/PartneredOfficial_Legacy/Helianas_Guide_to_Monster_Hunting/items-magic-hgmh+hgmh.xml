@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Feline's Fury Hand Tommybow</name>
+    <name>Feline's Fury Hand Tommybow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -37,7 +37,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 478,
     <roll description="Gemstone Pair">1d4</roll>
   </item>
   <item>
-    <name>Feline's Fury Light Tommybow</name>
+    <name>Feline's Fury Light Tommybow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -71,7 +71,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 478,
     <roll description="Gemstone Pair">1d4</roll>
   </item>
   <item>
-    <name>Feline's Fury Heavy Tommybow</name>
+    <name>Feline's Fury Heavy Tommybow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -107,7 +107,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 478,
     <roll description="Gemstone Pair">1d4</roll>
   </item>
   <item>
-    <name>Splinterspray Hand Tommybow (Uncommon)</name>
+    <name>Splinterspray Hand Tommybow (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -144,7 +144,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 479,
     <roll description="Piercing Damage">2d4</roll>
   </item>
   <item>
-    <name>Splinterspray Light Tommybow (Uncommon)</name>
+    <name>Splinterspray Light Tommybow (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -179,7 +179,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 479,
     <roll description="Piercing Damage">2d4</roll>
   </item>
   <item>
-    <name>Splinterspray Heavy Tommybow (Uncommon)</name>
+    <name>Splinterspray Heavy Tommybow (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -216,7 +216,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 479,
     <roll description="Piercing Damage">2d4</roll>
   </item>
   <item>
-    <name>Splinterspray Hand Tommybow (Rare)</name>
+    <name>Splinterspray Hand Tommybow (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -253,7 +253,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 479,
     <roll description="Piercing Damage">3d4</roll>
   </item>
   <item>
-    <name>Splinterspray Light Tommybow (Rare)</name>
+    <name>Splinterspray Light Tommybow (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -288,7 +288,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 479,
     <roll description="Piercing Damage">3d4</roll>
   </item>
   <item>
-    <name>Splinterspray Heavy Tommybow (Rare)</name>
+    <name>Splinterspray Heavy Tommybow (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -325,7 +325,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 479,
     <roll description="Piercing Damage">3d4</roll>
   </item>
   <item>
-    <name>Splinterspray Hand Tommybow (Very Rare)</name>
+    <name>Splinterspray Hand Tommybow (Very Rare) (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -362,7 +362,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 479,
     <roll description="Piercing Damage">3d4</roll>
   </item>
   <item>
-    <name>Splinterspray Light Tommybow (Very Rare)</name>
+    <name>Splinterspray Light Tommybow (Very Rare) (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -397,7 +397,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 479,
     <roll description="Piercing Damage">3d4</roll>
   </item>
   <item>
-    <name>Splinterspray Heavy Tommybow (Very Rare)</name>
+    <name>Splinterspray Heavy Tommybow (Very Rare) (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -434,7 +434,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 479,
     <roll description="Piercing Damage">3d4</roll>
   </item>
   <item>
-    <name>Jaw Breakers Claws (Rare)</name>
+    <name>Jaw Breakers Claws (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -465,7 +465,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Haladies (Rare)</name>
+    <name>Jaw Breakers Haladies (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -498,7 +498,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Nunchucks (Rare)</name>
+    <name>Jaw Breakers Nunchucks (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -532,7 +532,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Tetherhooks (Rare)</name>
+    <name>Jaw Breakers Tetherhooks (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -566,7 +566,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Claws (Very Rare)</name>
+    <name>Jaw Breakers Claws (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -597,7 +597,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Haladies (Very Rare)</name>
+    <name>Jaw Breakers Haladies (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -630,7 +630,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Nunchucks (Very Rare)</name>
+    <name>Jaw Breakers Nunchucks (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -664,7 +664,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Tetherhooks (Very Rare)</name>
+    <name>Jaw Breakers Tetherhooks (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>

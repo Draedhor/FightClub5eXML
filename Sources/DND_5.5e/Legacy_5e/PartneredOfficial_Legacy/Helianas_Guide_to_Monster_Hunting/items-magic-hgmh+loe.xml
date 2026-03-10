@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Lycan Claw</name>
+    <name>Lycan Claw (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -25,7 +25,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Haladie</name>
+    <name>Lycan Haladie (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -51,7 +51,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Magitech Firearm</name>
+    <name>Lycan Magitech Firearm (TP)</name>
     <detail>firearm, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -84,7 +84,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Nunchuck</name>
+    <name>Lycan Nunchuck (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -111,7 +111,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Tetherhook</name>
+    <name>Lycan Tetherhook (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -138,7 +138,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Hand Tommybow</name>
+    <name>Lycan Hand Tommybow (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -171,7 +171,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Light Tommybow</name>
+    <name>Lycan Light Tommybow (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -202,7 +202,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Heavy Tommybow</name>
+    <name>Lycan Heavy Tommybow (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>

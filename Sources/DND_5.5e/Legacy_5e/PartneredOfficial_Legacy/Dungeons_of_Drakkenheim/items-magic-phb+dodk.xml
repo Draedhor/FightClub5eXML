@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Comet Smasher Club</name>
+    <name>Comet Smasher Club (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -44,7 +44,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Arcane Anomalies">1d20</roll>
   </item>
   <item>
-    <name>Comet Smasher Flail</name>
+    <name>Comet Smasher Flail (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -85,7 +85,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Arcane Anomalies">1d20</roll>
   </item>
   <item>
-    <name>Comet Smasher Greatclub</name>
+    <name>Comet Smasher Greatclub (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -128,7 +128,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Arcane Anomalies">1d20</roll>
   </item>
   <item>
-    <name>Comet Smasher Light Hammer</name>
+    <name>Comet Smasher Light Hammer (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -176,7 +176,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Arcane Anomalies">1d20</roll>
   </item>
   <item>
-    <name>Comet Smasher Mace</name>
+    <name>Comet Smasher Mace (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -217,7 +217,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Arcane Anomalies">1d20</roll>
   </item>
   <item>
-    <name>Comet Smasher Maul</name>
+    <name>Comet Smasher Maul (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -262,7 +262,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Arcane Anomalies">1d20</roll>
   </item>
   <item>
-    <name>Comet Smasher Quarterstaff</name>
+    <name>Comet Smasher Quarterstaff (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -306,7 +306,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Arcane Anomalies">1d20</roll>
   </item>
   <item>
-    <name>Comet Smasher Staff</name>
+    <name>Comet Smasher Staff (TP)</name>
     <detail>spellcasting focus, very rare (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -352,7 +352,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Arcane Anomalies">1d20</roll>
   </item>
   <item>
-    <name>Comet Smasher Warhammer</name>
+    <name>Comet Smasher Warhammer (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -396,7 +396,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Arcane Anomalies">1d20</roll>
   </item>
   <item>
-    <name>Comet Smasher Wooden Staff</name>
+    <name>Comet Smasher Wooden Staff (TP)</name>
     <detail>druidic focus, very rare (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -444,7 +444,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Arcane Anomalies">1d20</roll>
   </item>
   <item>
-    <name>Delerium-Forged Greatsword</name>
+    <name>Delerium-Forged Greatsword (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -469,7 +469,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Necrotic Damage">3d6</roll>
   </item>
   <item>
-    <name>Delerium-Forged Longsword</name>
+    <name>Delerium-Forged Longsword (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -493,7 +493,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Necrotic Damage">3d6</roll>
   </item>
   <item>
-    <name>Delerium-Forged Rapier</name>
+    <name>Delerium-Forged Rapier (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -516,7 +516,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Necrotic Damage">3d6</roll>
   </item>
   <item>
-    <name>Delerium-Forged Scimitar</name>
+    <name>Delerium-Forged Scimitar (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -541,7 +541,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Necrotic Damage">3d6</roll>
   </item>
   <item>
-    <name>Delerium-Forged Shortsword</name>
+    <name>Delerium-Forged Shortsword (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -566,7 +566,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Necrotic Damage">3d6</roll>
   </item>
   <item>
-    <name>Hardened Delerium-Tipped Arrow</name>
+    <name>Hardened Delerium-Tipped Arrow (TP)</name>
     <detail>rare</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -581,7 +581,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Necrotic Damage">3d6</roll>
   </item>
   <item>
-    <name>Hardened Delerium-Tipped Arrows (20)</name>
+    <name>Hardened Delerium-Tipped Arrows (20) (TP)</name>
     <detail>rare</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -596,7 +596,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Necrotic Damage">3d6</roll>
   </item>
   <item>
-    <name>Hardened Delerium-Tipped Blowgun Needle</name>
+    <name>Hardened Delerium-Tipped Blowgun Needle (TP)</name>
     <detail>rare</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -611,7 +611,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Necrotic Damage">3d6</roll>
   </item>
   <item>
-    <name>Hardened Delerium-Tipped Blowgun Needles (50)</name>
+    <name>Hardened Delerium-Tipped Blowgun Needles (50) (TP)</name>
     <detail>rare</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -626,7 +626,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Necrotic Damage">3d6</roll>
   </item>
   <item>
-    <name>Hardened Delerium-Tipped Crossbow Bolt</name>
+    <name>Hardened Delerium-Tipped Crossbow Bolt (TP)</name>
     <detail>rare</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -641,7 +641,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Necrotic Damage">3d6</roll>
   </item>
   <item>
-    <name>Hardened Delerium-Tipped Crossbow Bolts (20)</name>
+    <name>Hardened Delerium-Tipped Crossbow Bolts (20) (TP)</name>
     <detail>rare</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -656,7 +656,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Necrotic Damage">3d6</roll>
   </item>
   <item>
-    <name>Hardened Delerium-Tipped Sling Bullet</name>
+    <name>Hardened Delerium-Tipped Sling Bullet (TP)</name>
     <detail>rare</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -671,7 +671,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Necrotic Damage">3d6</roll>
   </item>
   <item>
-    <name>Hardened Delerium-Tipped Sling Bullets (20)</name>
+    <name>Hardened Delerium-Tipped Sling Bullets (20) (TP)</name>
     <detail>rare</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -686,7 +686,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
     <roll description="Necrotic Damage">3d6</roll>
   </item>
   <item>
-    <name>Starcrossed Hand Crossbow</name>
+    <name>Starcrossed Hand Crossbow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -716,7 +716,7 @@ Source:	Dungeons of Drakkenheim p. 232 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Starcrossed Heavy Crossbow</name>
+    <name>Starcrossed Heavy Crossbow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -748,7 +748,7 @@ Source:	Dungeons of Drakkenheim p. 232 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Starcrossed Light Crossbow</name>
+    <name>Starcrossed Light Crossbow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -778,7 +778,7 @@ Source:	Dungeons of Drakkenheim p. 232 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Starcrossed Longbow</name>
+    <name>Starcrossed Longbow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -808,7 +808,7 @@ Source:	Dungeons of Drakkenheim p. 232 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Starcrossed Shortbow</name>
+    <name>Starcrossed Shortbow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>

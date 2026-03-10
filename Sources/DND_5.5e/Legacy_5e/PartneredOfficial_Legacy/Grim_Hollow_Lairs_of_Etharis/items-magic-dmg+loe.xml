@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Lycan Antimatter Rifle</name>
+    <name>Lycan Antimatter Rifle (TP)</name>
     <detail>firearm, futuristic, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -32,7 +32,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Automatic Pistol</name>
+    <name>Lycan Automatic Pistol (TP)</name>
     <detail>firearm, modern, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -62,7 +62,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Automatic Rifle</name>
+    <name>Lycan Automatic Rifle (TP)</name>
     <detail>firearm, modern, burst, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -96,7 +96,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Hunting Rifle</name>
+    <name>Lycan Hunting Rifle (TP)</name>
     <detail>firearm, modern, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -130,7 +130,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Laser Rifle</name>
+    <name>Lycan Laser Rifle (TP)</name>
     <detail>firearm, futuristic, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -163,7 +163,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Pistol</name>
+    <name>Lycan Pistol (TP)</name>
     <detail>firearm, renaissance, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -198,7 +198,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Revolver</name>
+    <name>Lycan Revolver (TP)</name>
     <detail>firearm, modern, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -231,7 +231,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Shotgun</name>
+    <name>Lycan Shotgun (TP)</name>
     <detail>firearm, modern, rare</detail>
     <type>R</type>
     <magic>YES</magic>

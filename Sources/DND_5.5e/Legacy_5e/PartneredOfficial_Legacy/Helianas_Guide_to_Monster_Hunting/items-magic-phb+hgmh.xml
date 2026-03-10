@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Bonze's Bokken, Wind Ripper Greatsword (Uncommon)</name>
+    <name>Bonze's Bokken, Wind Ripper Greatsword (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -29,7 +29,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">1d8</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Longsword (Uncommon)</name>
+    <name>Bonze's Bokken, Wind Ripper Longsword (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -56,7 +56,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">1d8</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Rapier (Uncommon)</name>
+    <name>Bonze's Bokken, Wind Ripper Rapier (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -82,7 +82,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">1d8</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Scimitar (Uncommon)</name>
+    <name>Bonze's Bokken, Wind Ripper Scimitar (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -110,7 +110,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">1d8</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Shortsword (Uncommon)</name>
+    <name>Bonze's Bokken, Wind Ripper Shortsword (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -138,7 +138,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">1d8</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Greatsword (Rare)</name>
+    <name>Bonze's Bokken, Wind Ripper Greatsword (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -166,7 +166,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">1d10</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Longsword (Rare)</name>
+    <name>Bonze's Bokken, Wind Ripper Longsword (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -193,7 +193,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">1d10</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Rapier (Rare)</name>
+    <name>Bonze's Bokken, Wind Ripper Rapier (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -219,7 +219,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">1d10</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Scimitar (Rare)</name>
+    <name>Bonze's Bokken, Wind Ripper Scimitar (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -247,7 +247,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">1d10</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Shortsword (Rare)</name>
+    <name>Bonze's Bokken, Wind Ripper Shortsword (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -275,7 +275,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">1d10</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Greatsword (Very Rare)</name>
+    <name>Bonze's Bokken, Wind Ripper Greatsword (Very Rare) (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -306,7 +306,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">1d12</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Longsword (Very Rare)</name>
+    <name>Bonze's Bokken, Wind Ripper Longsword (Very Rare) (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -336,7 +336,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">1d12</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Rapier (Very Rare)</name>
+    <name>Bonze's Bokken, Wind Ripper Rapier (Very Rare) (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -365,7 +365,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">1d12</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Scimitar (Very Rare)</name>
+    <name>Bonze's Bokken, Wind Ripper Scimitar (Very Rare) (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -396,7 +396,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">1d12</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Shortsword (Very Rare)</name>
+    <name>Bonze's Bokken, Wind Ripper Shortsword (Very Rare) (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -427,7 +427,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">1d12</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Greatsword (Legendary)</name>
+    <name>Bonze's Bokken, Wind Ripper Greatsword (Legendary) (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -458,7 +458,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">2d8</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Longsword (Legendary)</name>
+    <name>Bonze's Bokken, Wind Ripper Longsword (Legendary) (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -488,7 +488,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">2d8</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Rapier (Legendary)</name>
+    <name>Bonze's Bokken, Wind Ripper Rapier (Legendary) (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -517,7 +517,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">2d8</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Scimitar (Legendary)</name>
+    <name>Bonze's Bokken, Wind Ripper Scimitar (Legendary) (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -548,7 +548,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">2d8</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Shortsword (Legendary)</name>
+    <name>Bonze's Bokken, Wind Ripper Shortsword (Legendary) (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -579,7 +579,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">2d8</roll>
   </item>
   <item>
-    <name>Suncatcher Quarterstaff (Uncommon)</name>
+    <name>Suncatcher Quarterstaff (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -608,7 +608,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 444,
     <roll description="Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Suncatcher Rod (Uncommon)</name>
+    <name>Suncatcher Rod (Uncommon) (TP)</name>
     <detail>spellcasting focus, uncommon (requires attunement by a spellcaster)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -623,7 +623,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 444,
     <roll description="Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Suncatcher Staff (Uncommon)</name>
+    <name>Suncatcher Staff (Uncommon) (TP)</name>
     <detail>spellcasting focus, uncommon (requires attunement by a spellcaster)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -654,7 +654,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 444,
     <roll description="Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Suncatcher Wand (Uncommon)</name>
+    <name>Suncatcher Wand (Uncommon) (TP)</name>
     <detail>spellcasting focus, uncommon (requires attunement by a spellcaster)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -669,7 +669,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 444,
     <roll description="Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Suncatcher Wooden Staff (Uncommon)</name>
+    <name>Suncatcher Wooden Staff (Uncommon) (TP)</name>
     <detail>druidic focus, uncommon (requires attunement by a spellcaster)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -702,7 +702,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 444,
     <roll description="Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Suncatcher Quarterstaff (Rare)</name>
+    <name>Suncatcher Quarterstaff (Rare) (TP)</name>
     <detail>rare (requires attunement by a spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -732,7 +732,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 444,
     <roll description="Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Suncatcher Rod (Rare)</name>
+    <name>Suncatcher Rod (Rare) (TP)</name>
     <detail>spellcasting focus, rare (requires attunement by a spellcaster)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -747,7 +747,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 444,
     <roll description="Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Suncatcher Staff (Rare)</name>
+    <name>Suncatcher Staff (Rare) (TP)</name>
     <detail>spellcasting focus, rare (requires attunement by a spellcaster)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -779,7 +779,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 444,
     <roll description="Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Suncatcher Wand (Rare)</name>
+    <name>Suncatcher Wand (Rare) (TP)</name>
     <detail>spellcasting focus, rare (requires attunement by a spellcaster)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -794,7 +794,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 444,
     <roll description="Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Suncatcher Wooden Staff (Rare)</name>
+    <name>Suncatcher Wooden Staff (Rare) (TP)</name>
     <detail>druidic focus, rare (requires attunement by a spellcaster)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -828,7 +828,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 444,
     <roll description="Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Suncatcher Quarterstaff (Very Rare)</name>
+    <name>Suncatcher Quarterstaff (Very Rare) (TP)</name>
     <detail>very rare (requires attunement by a spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -858,7 +858,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 444,
     <roll description="Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Suncatcher Rod (Very Rare)</name>
+    <name>Suncatcher Rod (Very Rare) (TP)</name>
     <detail>spellcasting focus, very rare (requires attunement by a spellcaster)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -873,7 +873,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 444,
     <roll description="Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Suncatcher Staff (Very Rare)</name>
+    <name>Suncatcher Staff (Very Rare) (TP)</name>
     <detail>spellcasting focus, very rare (requires attunement by a spellcaster)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -905,7 +905,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 444,
     <roll description="Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Suncatcher Wand (Very Rare)</name>
+    <name>Suncatcher Wand (Very Rare) (TP)</name>
     <detail>spellcasting focus, very rare (requires attunement by a spellcaster)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -920,7 +920,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 444,
     <roll description="Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Suncatcher Wooden Staff (Very Rare)</name>
+    <name>Suncatcher Wooden Staff (Very Rare) (TP)</name>
     <detail>druidic focus, very rare (requires attunement by a spellcaster)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -954,7 +954,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 444,
     <roll description="Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Sunwing Hand Crossbow (Uncommon)</name>
+    <name>Sunwing Hand Crossbow (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -989,7 +989,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 448,
     <roll description="Radiant Damage">3d8</roll>
   </item>
   <item>
-    <name>Sunwing Heavy Crossbow (Uncommon)</name>
+    <name>Sunwing Heavy Crossbow (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1026,7 +1026,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 448,
     <roll description="Radiant Damage">3d8</roll>
   </item>
   <item>
-    <name>Sunwing Light Crossbow (Uncommon)</name>
+    <name>Sunwing Light Crossbow (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1061,7 +1061,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 448,
     <roll description="Radiant Damage">3d8</roll>
   </item>
   <item>
-    <name>Sunwing Longbow (Uncommon)</name>
+    <name>Sunwing Longbow (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1096,7 +1096,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 448,
     <roll description="Radiant Damage">3d8</roll>
   </item>
   <item>
-    <name>Sunwing Shortbow (Uncommon)</name>
+    <name>Sunwing Shortbow (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1129,7 +1129,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 448,
     <roll description="Radiant Damage">3d8</roll>
   </item>
   <item>
-    <name>Sunwing Hand Crossbow (Rare)</name>
+    <name>Sunwing Hand Crossbow (Rare) (TP)</name>
     <detail>rare (requires attunement by a spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1168,7 +1168,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 448,
     <roll description="Radiant Damage">3d8</roll>
   </item>
   <item>
-    <name>Sunwing Heavy Crossbow (Rare)</name>
+    <name>Sunwing Heavy Crossbow (Rare) (TP)</name>
     <detail>rare (requires attunement by a spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1209,7 +1209,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 448,
     <roll description="Radiant Damage">3d8</roll>
   </item>
   <item>
-    <name>Sunwing Light Crossbow (Rare)</name>
+    <name>Sunwing Light Crossbow (Rare) (TP)</name>
     <detail>rare (requires attunement by a spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1248,7 +1248,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 448,
     <roll description="Radiant Damage">3d8</roll>
   </item>
   <item>
-    <name>Sunwing Longbow (Rare)</name>
+    <name>Sunwing Longbow (Rare) (TP)</name>
     <detail>rare (requires attunement by a spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1287,7 +1287,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 448,
     <roll description="Radiant Damage">3d8</roll>
   </item>
   <item>
-    <name>Sunwing Shortbow (Rare)</name>
+    <name>Sunwing Shortbow (Rare) (TP)</name>
     <detail>rare (requires attunement by a spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1324,7 +1324,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 448,
     <roll description="Radiant Damage">3d8</roll>
   </item>
   <item>
-    <name>Sunwing Hand Crossbow (Very Rare)</name>
+    <name>Sunwing Hand Crossbow (Very Rare) (TP)</name>
     <detail>very rare (requires attunement by a spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1365,7 +1365,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 448,
     <roll description="Radiant Damage">6d8</roll>
   </item>
   <item>
-    <name>Sunwing Heavy Crossbow (Very Rare)</name>
+    <name>Sunwing Heavy Crossbow (Very Rare) (TP)</name>
     <detail>very rare (requires attunement by a spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1408,7 +1408,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 448,
     <roll description="Radiant Damage">6d8</roll>
   </item>
   <item>
-    <name>Sunwing Light Crossbow (Very Rare)</name>
+    <name>Sunwing Light Crossbow (Very Rare) (TP)</name>
     <detail>very rare (requires attunement by a spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1449,7 +1449,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 448,
     <roll description="Radiant Damage">6d8</roll>
   </item>
   <item>
-    <name>Sunwing Longbow (Very Rare)</name>
+    <name>Sunwing Longbow (Very Rare) (TP)</name>
     <detail>very rare (requires attunement by a spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1490,7 +1490,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 448,
     <roll description="Radiant Damage">6d8</roll>
   </item>
   <item>
-    <name>Sunwing Shortbow (Very Rare)</name>
+    <name>Sunwing Shortbow (Very Rare) (TP)</name>
     <detail>very rare (requires attunement by a spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1529,7 +1529,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 448,
     <roll description="Radiant Damage">6d8</roll>
   </item>
   <item>
-    <name>Breastplank Breastplate (Uncommon)</name>
+    <name>Breastplank Breastplate (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -1546,7 +1546,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 449,
     <roll description="Acid Damage">1d10</roll>
   </item>
   <item>
-    <name>Breastplank Plate Armor (Uncommon)</name>
+    <name>Breastplank Plate Armor (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -1569,7 +1569,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 449,
     <roll description="Acid Damage">1d10</roll>
   </item>
   <item>
-    <name>Breastplank Breastplate (Rare)</name>
+    <name>Breastplank Breastplate (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -1589,7 +1589,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 449,
     <roll description="Acid Damage">1d12</roll>
   </item>
   <item>
-    <name>Breastplank Plate Armor (Rare)</name>
+    <name>Breastplank Plate Armor (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -1615,7 +1615,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 449,
     <roll description="Acid Damage">1d12</roll>
   </item>
   <item>
-    <name>Breastplank Breastplate (Very Rare)</name>
+    <name>Breastplank Breastplate (Very Rare) (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -1637,7 +1637,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 449,
     <roll description="Acid Damage">1d12</roll>
   </item>
   <item>
-    <name>Breastplank Plate Armor (Very Rare)</name>
+    <name>Breastplank Plate Armor (Very Rare) (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -1665,7 +1665,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 449,
     <roll description="Acid Damage">1d12</roll>
   </item>
   <item>
-    <name>Headbanger Lute Club (Uncommon)</name>
+    <name>Headbanger Lute Club (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1686,7 +1686,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 450,
     <roll description="Acid Damage">1d8</roll>
   </item>
   <item>
-    <name>Headbanger Lute Greatclub (Uncommon)</name>
+    <name>Headbanger Lute Greatclub (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1707,7 +1707,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 450,
     <roll description="Acid Damage">1d8</roll>
   </item>
   <item>
-    <name>Headbanger Lute Club (Very Rare)</name>
+    <name>Headbanger Lute Club (Very Rare) (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1735,7 +1735,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 450,
     <roll description="Acid Damage">1d8</roll>
   </item>
   <item>
-    <name>Headbanger Lute Greatclub (Very Rare)</name>
+    <name>Headbanger Lute Greatclub (Very Rare) (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1763,7 +1763,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 450,
     <roll description="Acid Damage">1d8</roll>
   </item>
   <item>
-    <name>Mawling Maul Light Hammer (uncommon)</name>
+    <name>Mawling Maul Light Hammer (uncommon) (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1790,7 +1790,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 451,
     <roll description="Acid Damage">1d4</roll>
   </item>
   <item>
-    <name>Mawling Maul Warhammer (uncommon)</name>
+    <name>Mawling Maul Warhammer (uncommon) (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1813,7 +1813,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 451,
     <roll description="Acid Damage">1d4</roll>
   </item>
   <item>
-    <name>Mawling Maul Light Hammer (Rare)</name>
+    <name>Mawling Maul Light Hammer (Rare) (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1843,7 +1843,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 451,
     <roll description="Acid Damage">1d6</roll>
   </item>
   <item>
-    <name>Mawling Maul Warhammer (Rare)</name>
+    <name>Mawling Maul Warhammer (Rare) (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1869,7 +1869,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 451,
     <roll description="Acid Damage">1d6</roll>
   </item>
   <item>
-    <name>Haemscale Breastplate (Uncommon)</name>
+    <name>Haemscale Breastplate (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -1892,7 +1892,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Chain Mail (Uncommon)</name>
+    <name>Haemscale Chain Mail (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -1921,7 +1921,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Chain Shirt (Uncommon)</name>
+    <name>Haemscale Chain Shirt (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -1944,7 +1944,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Half Plate Armor (Uncommon)</name>
+    <name>Haemscale Half Plate Armor (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -1970,7 +1970,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Hide Armor (Uncommon)</name>
+    <name>Haemscale Hide Armor (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -1993,7 +1993,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Plate Armor (Uncommon)</name>
+    <name>Haemscale Plate Armor (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -2022,7 +2022,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Ring Mail (Uncommon)</name>
+    <name>Haemscale Ring Mail (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -2048,7 +2048,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Scale Mail (Uncommon)</name>
+    <name>Haemscale Scale Mail (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2074,7 +2074,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Splint Armor (Uncommon)</name>
+    <name>Haemscale Splint Armor (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -2103,7 +2103,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Breastplate Barding (Uncommon)</name>
+    <name>Haemscale Breastplate Barding (Uncommon) (TP)</name>
     <detail>tack and harness, uncommon (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2130,7 +2130,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Chain Barding (Uncommon)</name>
+    <name>Haemscale Chain Barding (Uncommon) (TP)</name>
     <detail>tack and harness, uncommon (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -2159,7 +2159,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Chain Shirt Barding (Uncommon)</name>
+    <name>Haemscale Chain Shirt Barding (Uncommon) (TP)</name>
     <detail>tack and harness, uncommon (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2186,7 +2186,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Half Plate Barding (Uncommon)</name>
+    <name>Haemscale Half Plate Barding (Uncommon) (TP)</name>
     <detail>tack and harness, uncommon (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2214,7 +2214,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Hide Barding (Uncommon)</name>
+    <name>Haemscale Hide Barding (Uncommon) (TP)</name>
     <detail>tack and harness, uncommon (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2241,7 +2241,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Plate Barding (Uncommon)</name>
+    <name>Haemscale Plate Barding (Uncommon) (TP)</name>
     <detail>tack and harness, uncommon (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -2270,7 +2270,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Ring Barding (Uncommon)</name>
+    <name>Haemscale Ring Barding (Uncommon) (TP)</name>
     <detail>tack and harness, uncommon (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -2298,7 +2298,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Scale Barding (Uncommon)</name>
+    <name>Haemscale Scale Barding (Uncommon) (TP)</name>
     <detail>tack and harness, uncommon (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2326,7 +2326,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Splint Barding (Uncommon)</name>
+    <name>Haemscale Splint Barding (Uncommon) (TP)</name>
     <detail>tack and harness, uncommon (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -2355,7 +2355,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Breastplate (Rare)</name>
+    <name>Haemscale Breastplate (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2380,7 +2380,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Chain Mail (Rare)</name>
+    <name>Haemscale Chain Mail (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -2411,7 +2411,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Chain Shirt (Rare)</name>
+    <name>Haemscale Chain Shirt (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2436,7 +2436,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Half Plate Armor (Rare)</name>
+    <name>Haemscale Half Plate Armor (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2464,7 +2464,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Hide Armor (Rare)</name>
+    <name>Haemscale Hide Armor (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2489,7 +2489,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Plate Armor (Rare)</name>
+    <name>Haemscale Plate Armor (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -2520,7 +2520,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Ring Mail (Rare)</name>
+    <name>Haemscale Ring Mail (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -2548,7 +2548,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Scale Mail (Rare)</name>
+    <name>Haemscale Scale Mail (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2576,7 +2576,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Splint Armor (Rare)</name>
+    <name>Haemscale Splint Armor (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -2607,7 +2607,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Breastplate Barding (Rare)</name>
+    <name>Haemscale Breastplate Barding (Rare) (TP)</name>
     <detail>tack and harness, rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2636,7 +2636,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Chain Barding (Rare)</name>
+    <name>Haemscale Chain Barding (Rare) (TP)</name>
     <detail>tack and harness, rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -2667,7 +2667,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Chain Shirt Barding (Rare)</name>
+    <name>Haemscale Chain Shirt Barding (Rare) (TP)</name>
     <detail>tack and harness, rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2696,7 +2696,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Half Plate Barding (Rare)</name>
+    <name>Haemscale Half Plate Barding (Rare) (TP)</name>
     <detail>tack and harness, rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2726,7 +2726,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Hide Barding (Rare)</name>
+    <name>Haemscale Hide Barding (Rare) (TP)</name>
     <detail>tack and harness, rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2755,7 +2755,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Plate Barding (Rare)</name>
+    <name>Haemscale Plate Barding (Rare) (TP)</name>
     <detail>tack and harness, rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -2786,7 +2786,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Ring Barding (Rare)</name>
+    <name>Haemscale Ring Barding (Rare) (TP)</name>
     <detail>tack and harness, rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -2816,7 +2816,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Scale Barding (Rare)</name>
+    <name>Haemscale Scale Barding (Rare) (TP)</name>
     <detail>tack and harness, rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2846,7 +2846,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Splint Barding (Rare)</name>
+    <name>Haemscale Splint Barding (Rare) (TP)</name>
     <detail>tack and harness, rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -2877,7 +2877,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Breastplate (Legendary)</name>
+    <name>Haemscale Breastplate (Legendary) (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2904,7 +2904,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Chain Mail (Legendary)</name>
+    <name>Haemscale Chain Mail (Legendary) (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -2937,7 +2937,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Chain Shirt (Legendary)</name>
+    <name>Haemscale Chain Shirt (Legendary) (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2964,7 +2964,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Half Plate Armor (Legendary)</name>
+    <name>Haemscale Half Plate Armor (Legendary) (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2994,7 +2994,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Hide Armor (Legendary)</name>
+    <name>Haemscale Hide Armor (Legendary) (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -3021,7 +3021,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Plate Armor (Legendary)</name>
+    <name>Haemscale Plate Armor (Legendary) (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -3054,7 +3054,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Ring Mail (Legendary)</name>
+    <name>Haemscale Ring Mail (Legendary) (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -3084,7 +3084,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Scale Mail (Legendary)</name>
+    <name>Haemscale Scale Mail (Legendary) (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -3114,7 +3114,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Splint Armor (Legendary)</name>
+    <name>Haemscale Splint Armor (Legendary) (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -3147,7 +3147,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Breastplate Barding (Legendary)</name>
+    <name>Haemscale Breastplate Barding (Legendary) (TP)</name>
     <detail>tack and harness, legendary (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -3178,7 +3178,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Chain Barding (Legendary)</name>
+    <name>Haemscale Chain Barding (Legendary) (TP)</name>
     <detail>tack and harness, legendary (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -3211,7 +3211,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Chain Shirt Barding (Legendary)</name>
+    <name>Haemscale Chain Shirt Barding (Legendary) (TP)</name>
     <detail>tack and harness, legendary (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -3242,7 +3242,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Half Plate Barding (Legendary)</name>
+    <name>Haemscale Half Plate Barding (Legendary) (TP)</name>
     <detail>tack and harness, legendary (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -3274,7 +3274,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Hide Barding (Legendary)</name>
+    <name>Haemscale Hide Barding (Legendary) (TP)</name>
     <detail>tack and harness, legendary (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -3305,7 +3305,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Plate Barding (Legendary)</name>
+    <name>Haemscale Plate Barding (Legendary) (TP)</name>
     <detail>tack and harness, legendary (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -3338,7 +3338,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Ring Barding (Legendary)</name>
+    <name>Haemscale Ring Barding (Legendary) (TP)</name>
     <detail>tack and harness, legendary (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -3370,7 +3370,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Scale Barding (Legendary)</name>
+    <name>Haemscale Scale Barding (Legendary) (TP)</name>
     <detail>tack and harness, legendary (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -3402,7 +3402,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemscale Splint Barding (Legendary)</name>
+    <name>Haemscale Splint Barding (Legendary) (TP)</name>
     <detail>tack and harness, legendary (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -3435,7 +3435,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 453,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Haemstrike Light Hammer (Uncommon)</name>
+    <name>Haemstrike Light Hammer (Uncommon) (TP)</name>
     <detail>uncommon (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3463,7 +3463,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 454,
     <roll description="Activate Property">1d4</roll>
   </item>
   <item>
-    <name>Haemstrike Warhammer (Uncommon)</name>
+    <name>Haemstrike Warhammer (Uncommon) (TP)</name>
     <detail>uncommon (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3487,7 +3487,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 454,
     <roll description="Activate Property">1d4</roll>
   </item>
   <item>
-    <name>Haemstrike Light Hammer (Rare)</name>
+    <name>Haemstrike Light Hammer (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3519,7 +3519,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 454,
     <roll description="Activate Property">1d4</roll>
   </item>
   <item>
-    <name>Haemstrike Warhammer (Rare)</name>
+    <name>Haemstrike Warhammer (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3547,7 +3547,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 454,
     <roll description="Activate Property">1d4</roll>
   </item>
   <item>
-    <name>Haemstrike Light Hammer (Very Rare)</name>
+    <name>Haemstrike Light Hammer (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3581,7 +3581,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 454,
     <roll description="Activate Property">1d4</roll>
   </item>
   <item>
-    <name>Haemstrike Warhammer (Very Rare)</name>
+    <name>Haemstrike Warhammer (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3611,7 +3611,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 454,
     <roll description="Activate Property">1d4</roll>
   </item>
   <item>
-    <name>Painblinder Mycaxe Battleaxe (Uncommon)</name>
+    <name>Painblinder Mycaxe Battleaxe (Uncommon) (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3633,7 +3633,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 463,
     <roll description="Activate Property">1d4</roll>
   </item>
   <item>
-    <name>Painblinder Mycaxe Greataxe (Uncommon)</name>
+    <name>Painblinder Mycaxe Greataxe (Uncommon) (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3656,7 +3656,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 463,
     <roll description="Activate Property">1d4</roll>
   </item>
   <item>
-    <name>Painblinder Mycaxe Handaxe (Uncommon)</name>
+    <name>Painblinder Mycaxe Handaxe (Uncommon) (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3682,7 +3682,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 463,
     <roll description="Activate Property">1d4</roll>
   </item>
   <item>
-    <name>Painblinder Mycaxe Battleaxe (Rare)</name>
+    <name>Painblinder Mycaxe Battleaxe (Rare) (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3704,7 +3704,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 463,
     <roll description="Activate Property">1d4</roll>
   </item>
   <item>
-    <name>Painblinder Mycaxe Greataxe (Rare)</name>
+    <name>Painblinder Mycaxe Greataxe (Rare) (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3727,7 +3727,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 463,
     <roll description="Activate Property">1d4</roll>
   </item>
   <item>
-    <name>Painblinder Mycaxe Handaxe (Rare)</name>
+    <name>Painblinder Mycaxe Handaxe (Rare) (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3753,7 +3753,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 463,
     <roll description="Activate Property">1d4</roll>
   </item>
   <item>
-    <name>Sporespreader Quarterstaff (Uncommon)</name>
+    <name>Sporespreader Quarterstaff (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3774,7 +3774,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 465,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Sporespreader Rod (Uncommon)</name>
+    <name>Sporespreader Rod (Uncommon) (TP)</name>
     <detail>spellcasting focus, uncommon (requires attunement by a spellcaster)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -3787,7 +3787,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 465,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Sporespreader Staff (Uncommon)</name>
+    <name>Sporespreader Staff (Uncommon) (TP)</name>
     <detail>spellcasting focus, uncommon (requires attunement by a spellcaster)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -3810,7 +3810,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 465,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Sporespreader Wand (Uncommon)</name>
+    <name>Sporespreader Wand (Uncommon) (TP)</name>
     <detail>spellcasting focus, uncommon (requires attunement by a spellcaster)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -3823,7 +3823,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 465,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Sporespreader Wooden Staff (Uncommon)</name>
+    <name>Sporespreader Wooden Staff (Uncommon) (TP)</name>
     <detail>druidic focus, uncommon (requires attunement by a spellcaster)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -3848,7 +3848,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 465,
     <roll description="Recharge">1d4+3</roll>
   </item>
   <item>
-    <name>Sporespreader Quarterstaff (Rare)</name>
+    <name>Sporespreader Quarterstaff (Rare) (TP)</name>
     <detail>rare (requires attunement by a spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3869,7 +3869,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 465,
     <roll description="Recharge">1d6+4</roll>
   </item>
   <item>
-    <name>Sporespreader Rod (Rare)</name>
+    <name>Sporespreader Rod (Rare) (TP)</name>
     <detail>spellcasting focus, rare (requires attunement by a spellcaster)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -3882,7 +3882,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 465,
     <roll description="Recharge">1d6+4</roll>
   </item>
   <item>
-    <name>Sporespreader Staff (Rare)</name>
+    <name>Sporespreader Staff (Rare) (TP)</name>
     <detail>spellcasting focus, rare (requires attunement by a spellcaster)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -3905,7 +3905,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 465,
     <roll description="Recharge">1d6+4</roll>
   </item>
   <item>
-    <name>Sporespreader Wand (Rare)</name>
+    <name>Sporespreader Wand (Rare) (TP)</name>
     <detail>spellcasting focus, rare (requires attunement by a spellcaster)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -3918,7 +3918,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 465,
     <roll description="Recharge">1d6+4</roll>
   </item>
   <item>
-    <name>Sporespreader Wooden Staff (Rare)</name>
+    <name>Sporespreader Wooden Staff (Rare) (TP)</name>
     <detail>druidic focus, rare (requires attunement by a spellcaster)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -3943,7 +3943,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 465,
     <roll description="Recharge">1d6+4</roll>
   </item>
   <item>
-    <name>Light Hammer Time</name>
+    <name>Light Hammer Time (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3968,7 +3968,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 473,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Warhammer Time</name>
+    <name>Warhammer Time (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3989,7 +3989,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 473,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Light Hammer Time</name>
+    <name>Light Hammer Time (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4016,7 +4016,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 473,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Warhammer Time</name>
+    <name>Warhammer Time (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4039,7 +4039,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 473,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Time Splitter Battleaxe (Uncommon)</name>
+    <name>Time Splitter Battleaxe (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4064,7 +4064,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 475,
     <roll description="Rounds">1d3</roll>
   </item>
   <item>
-    <name>Time Splitter Greataxe (Uncommon)</name>
+    <name>Time Splitter Greataxe (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4090,7 +4090,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 475,
     <roll description="Rounds">1d3</roll>
   </item>
   <item>
-    <name>Time Splitter Handaxe (Uncommon)</name>
+    <name>Time Splitter Handaxe (Uncommon) (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4119,7 +4119,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 475,
     <roll description="Rounds">1d3</roll>
   </item>
   <item>
-    <name>Time Splitter Battleaxe (Rare)</name>
+    <name>Time Splitter Battleaxe (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4144,7 +4144,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 475,
     <roll description="Rounds">1d4+1</roll>
   </item>
   <item>
-    <name>Time Splitter Greataxe (Rare)</name>
+    <name>Time Splitter Greataxe (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4170,7 +4170,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 475,
     <roll description="Rounds">1d4+1</roll>
   </item>
   <item>
-    <name>Time Splitter Handaxe (Rare)</name>
+    <name>Time Splitter Handaxe (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4199,7 +4199,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 475,
     <roll description="Rounds">1d4+1</roll>
   </item>
   <item>
-    <name>Tail's End Greatsword (Rare)</name>
+    <name>Tail's End Greatsword (Rare) (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4224,7 +4224,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 480,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Tail's End Longsword (Rare)</name>
+    <name>Tail's End Longsword (Rare) (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4248,7 +4248,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 480,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Tail's End Rapier (Rare)</name>
+    <name>Tail's End Rapier (Rare) (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4271,7 +4271,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 480,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Tail's End Scimitar (Rare)</name>
+    <name>Tail's End Scimitar (Rare) (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4296,7 +4296,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 480,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Tail's End Shortsword (Rare)</name>
+    <name>Tail's End Shortsword (Rare) (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4321,7 +4321,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 480,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Tail's End Greatsword (Very Rare)</name>
+    <name>Tail's End Greatsword (Very Rare) (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4346,7 +4346,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 480,
     <roll description="Slashing Damage">1d8</roll>
   </item>
   <item>
-    <name>Tail's End Longsword (Very Rare)</name>
+    <name>Tail's End Longsword (Very Rare) (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4370,7 +4370,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 480,
     <roll description="Slashing Damage">1d8</roll>
   </item>
   <item>
-    <name>Tail's End Rapier (Very Rare)</name>
+    <name>Tail's End Rapier (Very Rare) (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4393,7 +4393,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 480,
     <roll description="Slashing Damage">1d8</roll>
   </item>
   <item>
-    <name>Tail's End Scimitar (Very Rare)</name>
+    <name>Tail's End Scimitar (Very Rare) (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4418,7 +4418,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 480,
     <roll description="Slashing Damage">1d8</roll>
   </item>
   <item>
-    <name>Tail's End Shortsword (Very Rare)</name>
+    <name>Tail's End Shortsword (Very Rare) (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4443,7 +4443,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 480,
     <roll description="Slashing Damage">1d8</roll>
   </item>
   <item>
-    <name>Gunnspier Glaive (Rare)</name>
+    <name>Gunnspier Glaive (Rare) (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4471,7 +4471,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 484,
     <roll description="Piercing Damage">4d6</roll>
   </item>
   <item>
-    <name>Gunnspier Halberd (Rare)</name>
+    <name>Gunnspier Halberd (Rare) (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4499,7 +4499,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 484,
     <roll description="Piercing Damage">4d6</roll>
   </item>
   <item>
-    <name>Gunnspier Quarterstaff (Rare)</name>
+    <name>Gunnspier Quarterstaff (Rare) (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4524,7 +4524,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 484,
     <roll description="Piercing Damage">4d6</roll>
   </item>
   <item>
-    <name>Gunnspier Spear (Rare)</name>
+    <name>Gunnspier Spear (Rare) (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4554,7 +4554,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 484,
     <roll description="Piercing Damage">4d6</roll>
   </item>
   <item>
-    <name>Gunnspier Staff (Rare)</name>
+    <name>Gunnspier Staff (Rare) (TP)</name>
     <detail>spellcasting focus, rare</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -4581,7 +4581,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 484,
     <roll description="Piercing Damage">4d6</roll>
   </item>
   <item>
-    <name>Gunnspier Wooden Staff (Rare)</name>
+    <name>Gunnspier Wooden Staff (Rare) (TP)</name>
     <detail>druidic focus, rare</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -4610,7 +4610,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 484,
     <roll description="Piercing Damage">4d6</roll>
   </item>
   <item>
-    <name>Gunnspier Glaive (Very Rare)</name>
+    <name>Gunnspier Glaive (Very Rare) (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4639,7 +4639,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 484,
     <roll description="Piercing Damage">1d10</roll>
   </item>
   <item>
-    <name>Gunnspier Halberd (Very Rare)</name>
+    <name>Gunnspier Halberd (Very Rare) (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4668,7 +4668,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 484,
     <roll description="Piercing Damage">1d10</roll>
   </item>
   <item>
-    <name>Gunnspier Quarterstaff (Very Rare)</name>
+    <name>Gunnspier Quarterstaff (Very Rare) (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4694,7 +4694,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 484,
     <roll description="Piercing Damage">1d10</roll>
   </item>
   <item>
-    <name>Gunnspier Spear (Very Rare)</name>
+    <name>Gunnspier Spear (Very Rare) (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4725,7 +4725,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 484,
     <roll description="Piercing Damage">1d10</roll>
   </item>
   <item>
-    <name>Gunnspier Staff (Very Rare)</name>
+    <name>Gunnspier Staff (Very Rare) (TP)</name>
     <detail>spellcasting focus, very rare</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -4753,7 +4753,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 484,
     <roll description="Piercing Damage">1d10</roll>
   </item>
   <item>
-    <name>Gunnspier Wooden Staff (Very Rare)</name>
+    <name>Gunnspier Wooden Staff (Very Rare) (TP)</name>
     <detail>druidic focus, very rare</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -4783,7 +4783,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 484,
     <roll description="Piercing Damage">1d10</roll>
   </item>
   <item>
-    <name>Pneuma Blade Greatsword (Rare)</name>
+    <name>Pneuma Blade Greatsword (Rare) (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4810,7 +4810,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 487,
     <roll description="Poison Damage">4d6</roll>
   </item>
   <item>
-    <name>Pneuma Blade Longsword (Rare)</name>
+    <name>Pneuma Blade Longsword (Rare) (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4836,7 +4836,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 487,
     <roll description="Poison Damage">4d6</roll>
   </item>
   <item>
-    <name>Pneuma Blade Greatsword (Very Rare)</name>
+    <name>Pneuma Blade Greatsword (Very Rare) (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4864,7 +4864,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 487,
     <roll description="Poison Damage">4d6</roll>
   </item>
   <item>
-    <name>Pneuma Blade Longsword (Very Rare)</name>
+    <name>Pneuma Blade Longsword (Very Rare) (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4891,7 +4891,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 487,
     <roll description="Poison Damage">4d6</roll>
   </item>
   <item>
-    <name>Jaw Breakers Battleaxes (Rare)</name>
+    <name>Jaw Breakers Battleaxes (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4919,7 +4919,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Clubs (Rare)</name>
+    <name>Jaw Breakers Clubs (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4946,7 +4946,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Daggers (Rare)</name>
+    <name>Jaw Breakers Daggers (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4980,7 +4980,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Flails (Rare)</name>
+    <name>Jaw Breakers Flails (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5005,7 +5005,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Glaives (Rare)</name>
+    <name>Jaw Breakers Glaives (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5036,7 +5036,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Greataxes (Rare)</name>
+    <name>Jaw Breakers Greataxes (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5065,7 +5065,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Greatclubs (Rare)</name>
+    <name>Jaw Breakers Greatclubs (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5092,7 +5092,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Greatswords (Rare)</name>
+    <name>Jaw Breakers Greatswords (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5121,7 +5121,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Halberds (Rare)</name>
+    <name>Jaw Breakers Halberds (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5152,7 +5152,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Handaxes (Rare)</name>
+    <name>Jaw Breakers Handaxes (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5184,7 +5184,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Javelins (Rare)</name>
+    <name>Jaw Breakers Javelins (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5214,7 +5214,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Lances (Rare)</name>
+    <name>Jaw Breakers Lances (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5233,7 +5233,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Light Hammers (Rare)</name>
+    <name>Jaw Breakers Light Hammers (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5265,7 +5265,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Longswords (Rare)</name>
+    <name>Jaw Breakers Longswords (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5293,7 +5293,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Maces (Rare)</name>
+    <name>Jaw Breakers Maces (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5318,7 +5318,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Mauls (Rare)</name>
+    <name>Jaw Breakers Mauls (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5347,7 +5347,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Morningstars (Rare)</name>
+    <name>Jaw Breakers Morningstars (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5372,7 +5372,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Pikes (Rare)</name>
+    <name>Jaw Breakers Pikes (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5403,7 +5403,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Quarterstaffs (Rare)</name>
+    <name>Jaw Breakers Quarterstaffs (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5431,7 +5431,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Rapiers (Rare)</name>
+    <name>Jaw Breakers Rapiers (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5458,7 +5458,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Scimitars (Rare)</name>
+    <name>Jaw Breakers Scimitars (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5487,7 +5487,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Shortswords (Rare)</name>
+    <name>Jaw Breakers Shortswords (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5516,7 +5516,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Sickles (Rare)</name>
+    <name>Jaw Breakers Sickles (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5543,7 +5543,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Spears (Rare)</name>
+    <name>Jaw Breakers Spears (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5576,7 +5576,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Tridents (Rare)</name>
+    <name>Jaw Breakers Tridents (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5609,7 +5609,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers War Picks (Rare)</name>
+    <name>Jaw Breakers War Picks (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5634,7 +5634,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Warhammers (Rare)</name>
+    <name>Jaw Breakers Warhammers (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5662,7 +5662,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Whips (Rare)</name>
+    <name>Jaw Breakers Whips (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5691,7 +5691,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Battleaxes (Very Rare)</name>
+    <name>Jaw Breakers Battleaxes (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5719,7 +5719,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Clubs (Very Rare)</name>
+    <name>Jaw Breakers Clubs (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5746,7 +5746,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Daggers (Very Rare)</name>
+    <name>Jaw Breakers Daggers (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5780,7 +5780,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Flails (Very Rare)</name>
+    <name>Jaw Breakers Flails (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5805,7 +5805,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Glaives (Very Rare)</name>
+    <name>Jaw Breakers Glaives (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5836,7 +5836,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Greataxes (Very Rare)</name>
+    <name>Jaw Breakers Greataxes (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5865,7 +5865,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Greatclubs (Very Rare)</name>
+    <name>Jaw Breakers Greatclubs (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5892,7 +5892,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Greatswords (Very Rare)</name>
+    <name>Jaw Breakers Greatswords (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5921,7 +5921,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Halberds (Very Rare)</name>
+    <name>Jaw Breakers Halberds (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5952,7 +5952,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Handaxes (Very Rare)</name>
+    <name>Jaw Breakers Handaxes (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5984,7 +5984,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Javelins (Very Rare)</name>
+    <name>Jaw Breakers Javelins (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6014,7 +6014,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Lances (Very Rare)</name>
+    <name>Jaw Breakers Lances (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6033,7 +6033,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Light Hammers (Very Rare)</name>
+    <name>Jaw Breakers Light Hammers (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6065,7 +6065,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Longswords (Very Rare)</name>
+    <name>Jaw Breakers Longswords (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6093,7 +6093,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Maces (Very Rare)</name>
+    <name>Jaw Breakers Maces (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6118,7 +6118,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Mauls (Very Rare)</name>
+    <name>Jaw Breakers Mauls (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6147,7 +6147,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Morningstars (Very Rare)</name>
+    <name>Jaw Breakers Morningstars (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6172,7 +6172,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Pikes (Very Rare)</name>
+    <name>Jaw Breakers Pikes (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6203,7 +6203,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Quarterstaffs (Very Rare)</name>
+    <name>Jaw Breakers Quarterstaffs (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6231,7 +6231,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Rapiers (Very Rare)</name>
+    <name>Jaw Breakers Rapiers (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6258,7 +6258,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Scimitars (Very Rare)</name>
+    <name>Jaw Breakers Scimitars (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6287,7 +6287,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Shortswords (Very Rare)</name>
+    <name>Jaw Breakers Shortswords (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6316,7 +6316,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Sickles (Very Rare)</name>
+    <name>Jaw Breakers Sickles (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6343,7 +6343,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Spears (Very Rare)</name>
+    <name>Jaw Breakers Spears (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6376,7 +6376,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Tridents (Very Rare)</name>
+    <name>Jaw Breakers Tridents (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6409,7 +6409,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers War Picks (Very Rare)</name>
+    <name>Jaw Breakers War Picks (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6434,7 +6434,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Warhammers (Very Rare)</name>
+    <name>Jaw Breakers Warhammers (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6462,7 +6462,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Whips (Very Rare)</name>
+    <name>Jaw Breakers Whips (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6491,7 +6491,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Terrorasque Glaives (Rare)</name>
+    <name>Terrorasque Glaives (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6520,7 +6520,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 489,
     <roll description="Recharge">1d4+1</roll>
   </item>
   <item>
-    <name>Terrorasque Greataxes (Rare)</name>
+    <name>Terrorasque Greataxes (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6547,7 +6547,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 489,
     <roll description="Recharge">1d4+1</roll>
   </item>
   <item>
-    <name>Terrorasque Greatclubs (Rare)</name>
+    <name>Terrorasque Greatclubs (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6572,7 +6572,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 489,
     <roll description="Recharge">1d4+1</roll>
   </item>
   <item>
-    <name>Terrorasque Greatswords (Rare)</name>
+    <name>Terrorasque Greatswords (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6599,7 +6599,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 489,
     <roll description="Recharge">1d4+1</roll>
   </item>
   <item>
-    <name>Terrorasque Halberds (Rare)</name>
+    <name>Terrorasque Halberds (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6628,7 +6628,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 489,
     <roll description="Recharge">1d4+1</roll>
   </item>
   <item>
-    <name>Terrorasque Mauls (Rare)</name>
+    <name>Terrorasque Mauls (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6655,7 +6655,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 489,
     <roll description="Recharge">1d4+1</roll>
   </item>
   <item>
-    <name>Terrorasque Pikes (Rare)</name>
+    <name>Terrorasque Pikes (Rare) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6684,7 +6684,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 489,
     <roll description="Recharge">1d4+1</roll>
   </item>
   <item>
-    <name>Terrorasque Glaives (Very Rare)</name>
+    <name>Terrorasque Glaives (Very Rare) (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6715,7 +6715,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 489,
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>Terrorasque Greataxes (Very Rare)</name>
+    <name>Terrorasque Greataxes (Very Rare) (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6744,7 +6744,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 489,
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>Terrorasque Greatclubs (Very Rare)</name>
+    <name>Terrorasque Greatclubs (Very Rare) (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6771,7 +6771,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 489,
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>Terrorasque Greatswords (Very Rare)</name>
+    <name>Terrorasque Greatswords (Very Rare) (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6800,7 +6800,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 489,
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>Terrorasque Halberds (Very Rare)</name>
+    <name>Terrorasque Halberds (Very Rare) (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6831,7 +6831,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 489,
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>Terrorasque Mauls (Very Rare)</name>
+    <name>Terrorasque Mauls (Very Rare) (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6860,7 +6860,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 489,
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>Terrorasque Pikes (Very Rare)</name>
+    <name>Terrorasque Pikes (Very Rare) (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>

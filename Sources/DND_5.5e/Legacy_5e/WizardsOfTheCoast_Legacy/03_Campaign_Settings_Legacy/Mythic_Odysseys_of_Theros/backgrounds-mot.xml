@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Athlete</name>
+    <name>Athlete (Legacy)</name>
     <proficiency>Acrobatics, Athletics</proficiency>
     <trait>
       <name>Description</name>

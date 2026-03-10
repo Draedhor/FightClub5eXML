@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Adamantine Claw</name>
+    <name>Adamantine Claw (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -22,7 +22,7 @@ Source:	Xanathar's Guide to Everything p. 78,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Adamantine Haladie</name>
+    <name>Adamantine Haladie (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -45,7 +45,7 @@ Source:	Xanathar's Guide to Everything p. 78,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Adamantine Magitech Firearm</name>
+    <name>Adamantine Magitech Firearm (TP)</name>
     <detail>firearm, uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -75,7 +75,7 @@ Source:	Xanathar's Guide to Everything p. 78,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Adamantine Nunchuck</name>
+    <name>Adamantine Nunchuck (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -99,7 +99,7 @@ Source:	Xanathar's Guide to Everything p. 78,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Adamantine Tetherhook</name>
+    <name>Adamantine Tetherhook (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -123,7 +123,7 @@ Source:	Xanathar's Guide to Everything p. 78,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Adamantine Hand Tommybow</name>
+    <name>Adamantine Hand Tommybow (TP)</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -153,7 +153,7 @@ Source:	Xanathar's Guide to Everything p. 78,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Adamantine Light Tommybow</name>
+    <name>Adamantine Light Tommybow (TP)</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -181,7 +181,7 @@ Source:	Xanathar's Guide to Everything p. 78,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Adamantine Heavy Tommybow</name>
+    <name>Adamantine Heavy Tommybow (TP)</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>

@@ -241,8 +241,9 @@ d6 | Flaw
       <roll description="Flaw">1d6</roll>
     </trait>
   </background>
+
   <background>
-    <name>Pauper: Begger (Advanced) (TP)</name>
+    <name>Pauper: Begger (TP)</name>
     <proficiency>Persuasion</proficiency>
     <trait>
       <name>Pauper</name>
@@ -281,38 +282,6 @@ Progression:
 Gain the friendship of a local business owner by performing odd jobs or doing some other service.</text>
     </trait>
     <trait>
-      <name>Rank 2 - Mendicant</name>
-      <text>A common sight to locals, you have moved up to a better location in a busy street or plaza. You no longer have to fight for your place and have gained the tolerance of the guards and the friendship of other local beggars. By this time you have established a begging "pitch" designed to attract attention without inconveniencing those passing by. This could be a persona or some sort of script that you devise in order to amuse or elicit sympathy from the general populace.
-
-Holdings:
-	• A safe place to sleep near a merchant stall or building.
-	• Friendship with local beggars and a few local traders, who may offer you some spare coin, food, or odd jobs from time to time.
-
-Progression:
-Split a significant windfall with other beggars, earning their loyalty.</text>
-    </trait>
-    <trait>
-      <name>Rank 3 - Gutter Baron</name>
-      <text>You have risen to a position of prominence, such as it is, among the beggars in your city. You are able to direct the actions of a number of other paupers and split the rewards in a far more efficient manner than they could do alone, and they respect and defer to you in important decisions.
-
-Holdings:
-	• Squatter's rights in an abandoned building.
-	• A handful of other beggars who defer to your authority and aid you in gathering money and information.
-	• Knowledge of an illicit deal that took place in an alley in the dead of night, which implicates a minor noble.
-
-Progression:
-Perform a great service for the poor of the city either by thwarting the plans of a ranking noble or leveraging your influence to gain a powerful aristocrat patron.</text>
-    </trait>
-    <trait>
-      <name>Rank 4 - Beggar King</name>
-      <text>You have become the undisputed master of the city's destitute population, and none of them act without your knowledge. Having control of such a wide-ranging network of informants and agents puts you at the center of the city's political power struggles. Even leaders of criminal organizations know that you are not someone to be trifled with.
-
-Holdings:
-	• A comfortable hideout hidden in the slums or sewers.
-	• A network of beggars, informants, and criminals that keep you informed of all illicit activity within the city.
-	• Influence with at least one major player in local crime or politics.</text>
-    </trait>
-    <trait>
       <name>Profession Dice</name>
       <text>Profession Dice are the in-game advantages provided to characters by their background profession. Characters can add their Profession Die to skill or ability checks according to any Talents they have selected.
 	In addition, a character always adds their Profession Die when rolling for Profession Abilities.
@@ -333,73 +302,9 @@ Profession Rank | Profession Dice
       <name>Talents</name>
       <text>Talents are unique dispositions, experiences, or characteristics your character has picked up due to their time working in their profession. This is represented by allowing characters to add their Profession Die in unique situations that highlight the skills gained through their profession. A character may select a Talent from their corresponding Talent list when they select their profession, and select an additional Talent whenever they rank up within a profession.</text>
     </trait>
-    <trait>
-      <name>Talent: Calloused Hands</name>
-      <text>Whenever you make a Strength (Athletics) check to lift, drag, or shove a heavy object, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Camper</name>
-      <text>When you make a Wisdom (Survival) check to construct a temporary shelter, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Charity Case</name>
-      <text>When you make a Charisma (Performance) check to fake an illness, injury, or other condition, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Drunkard</name>
-      <text>Whenever you make a Constitution check to determine if you will throw up, pass out, or how severe a hangover is, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Elusive</name>
-      <text>Whenever you make a Dexterity (Stealth) check to hide or blend into a crowd of humanoids that share your background, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Flamboyant Presentation</name>
-      <text>Whenever you make a Charisma (Performance) check to entertain Aristocrats, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Forecaster</name>
-      <text>Whenever you make a Wisdom (Survival) check to determine the weather for the next 48 hours, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Gambler</name>
-      <text>Whenever you make a Dexterity (Sleight of Hand) or Wisdom (Perception) check to cheat at a game or catch someone else cheating, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Gut Feeling</name>
-      <text>Whenever you make a Wisdom (Insight) check to detect if an Aristocrat or Criminal is lying, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Hard-Working</name>
-      <text>Whenever you make a Constitution check for a repetitive task such as marching or laboring for hours without rest, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Menacing Presence</name>
-      <text>Whenever you make a Charisma (Intimidation) check, and are interacting with Academics, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Pitiable</name>
-      <text>When you make a Charisma (Persuasion) check to convince an Aristocrat, Criminal, Militarist, or Clergy that you are not a threat or beneath their notice, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Solidarity</name>
-      <text>When you make a Charisma (Persuasion) check and you are interacting with members of your background, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Sticky Fingers</name>
-      <text>When you make a Dexterity (Sleight of Hand) check to snatch something quickly, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Urban Sprinter</name>
-      <text>Whenever you make a Strength (Athletics) or Dexterity (Acrobatics) check while running away from a pursuer, or pursuing someone else, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Vacant Expression</name>
-      <text>When you make a Charisma (Deception) check to feign ignorance and you are interacting with an Academic, Aristocrat, Clergy, or Militarist, you may add your profession die to the roll.</text>
-    </trait>
   </background>
   <background>
-    <name>Pauper: Vagabond (Advanced) (TP)</name>
+    <name>Pauper: Vagabond (TP)</name>
     <proficiency>Insight</proficiency>
     <trait>
       <name>Pauper</name>
@@ -438,36 +343,6 @@ Progression:
 Survive a major storm on the road or participate meaningfully in a town's internal disputes.</text>
     </trait>
     <trait>
-      <name>Rank 2 - Drifter</name>
-      <text>You have gotten used to life on the road and now travel aimlessly from town to town. At each stop you take on odd jobs, greet familiar faces, and then move on. Outside your small group of friends spread across Etharis, others are beginning to recognize you as a frequent visitor.
-
-Holdings:
-	• News from far parts of your current region that are not public knowledge.
-	• A letter or package that one of your contacts asked you to deliver to another town.
-
-Progression:
-Save the life of one of your contacts.</text>
-    </trait>
-    <trait>
-      <name>Rank 3 - Seeker</name>
-      <text>Your aimless wanderings have taken on a new purpose. Competent in the rigors of the road and dealing with suspicious villagers, you travel from place to place in search of a new life or new direction. For good or ill, you are recognized as you travel, much as a caravan leader or traveling merchant.
-
-Holdings:
-	• A lightweight tent and bedroll.
-	• The ability to send messages across long distances through your network of contacts.
-
-Progression:
-Play a major role in the downfall of a prominent member of society.</text>
-    </trait>
-    <trait>
-      <name>Rank 4 - Wanderer</name>
-      <text>You now travel the world not out of necessity, but choice. Your deeds have garnered you an almost mythical reputation, and whispers follow you whenever you enter a new city or settlement. As a champion of righteousness or a walking plague, everyone knows that even the best laid plans are uncertain when you arrive.
-
-Holdings
-	• A respected or feared reputation in any settlement you visit.
-	• Information about major events across Etharis that has not yet made its way to your current location.</text>
-    </trait>
-    <trait>
       <name>Profession Dice</name>
       <text>Profession Dice are the in-game advantages provided to characters by their background profession. Characters can add their Profession Die to skill or ability checks according to any Talents they have selected.
 	In addition, a character always adds their Profession Die when rolling for Profession Abilities.
@@ -488,73 +363,9 @@ Profession Rank | Profession Dice
       <name>Talents</name>
       <text>Talents are unique dispositions, experiences, or characteristics your character has picked up due to their time working in their profession. This is represented by allowing characters to add their Profession Die in unique situations that highlight the skills gained through their profession. A character may select a Talent from their corresponding Talent list when they select their profession, and select an additional Talent whenever they rank up within a profession.</text>
     </trait>
-    <trait>
-      <name>Talent: Calloused Hands</name>
-      <text>Whenever you make a Strength (Athletics) check to lift, drag, or shove a heavy object, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Camper</name>
-      <text>When you make a Wisdom (Survival) check to construct a temporary shelter, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Charity Case</name>
-      <text>When you make a Charisma (Performance) check to fake an illness, injury, or other condition, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Drunkard</name>
-      <text>Whenever you make a Constitution check to determine if you will throw up, pass out, or how severe a hangover is, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Elusive</name>
-      <text>Whenever you make a Dexterity (Stealth) check to hide or blend into a crowd of humanoids that share your background, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Flamboyant Presentation</name>
-      <text>Whenever you make a Charisma (Performance) check to entertain Aristocrats, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Forecaster</name>
-      <text>Whenever you make a Wisdom (Survival) check to determine the weather for the next 48 hours, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Gambler</name>
-      <text>Whenever you make a Dexterity (Sleight of Hand) or Wisdom (Perception) check to cheat at a game or catch someone else cheating, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Gut Feeling</name>
-      <text>Whenever you make a Wisdom (Insight) check to detect if an Aristocrat or Criminal is lying, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Hard-Working</name>
-      <text>Whenever you make a Constitution check for a repetitive task such as marching or laboring for hours without rest, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Menacing Presence</name>
-      <text>Whenever you make a Charisma (Intimidation) check, and are interacting with Academics, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Pitiable</name>
-      <text>When you make a Charisma (Persuasion) check to convince an Aristocrat, Criminal, Militarist, or Clergy that you are not a threat or beneath their notice, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Solidarity</name>
-      <text>When you make a Charisma (Persuasion) check and you are interacting with members of your background, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Sticky Fingers</name>
-      <text>When you make a Dexterity (Sleight of Hand) check to snatch something quickly, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Urban Sprinter</name>
-      <text>Whenever you make a Strength (Athletics) or Dexterity (Acrobatics) check while running away from a pursuer, or pursuing someone else, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Vacant Expression</name>
-      <text>When you make a Charisma (Deception) check to feign ignorance and you are interacting with an Academic, Aristocrat, Clergy, or Militarist, you may add your profession die to the roll.</text>
-    </trait>
   </background>
   <background>
-    <name>Pauper: Pit Fighter (Advanced) (TP)</name>
+    <name>Pauper: Pit Fighter (TP)</name>
     <proficiency>Intimidation</proficiency>
     <trait>
       <name>Pauper</name>
@@ -594,37 +405,6 @@ Progression:
 Attract the notice of a patron among the various underground fight handlers of the Guild.</text>
     </trait>
     <trait>
-      <name>Rank 2 - Prize Fighter</name>
-      <text>You've made your debut and are now a part of the Fighter's Guild. As part of a small stable of up-andcoming fighters, you are mostly booked for minor tournaments and as warmups for some of the bigger names in arena fighting.
-
-Holdings:
-	• A mentor in the form of a handler, trainer, or promoter who helps organize and book your fights.
-	• Access to a small training area equipped with dummies and frequented by potential sparring partners.
-
-Progression:
-Enter a fight with a high-ranked fighter and either last three rounds or knock your opponent out.</text>
-    </trait>
-    <trait>
-      <name>Rank 3 - Contender</name>
-      <text>Recognized as one of the most promising fighters in the Guild, you are now eligible for entry into major tournaments for ever-increasing amounts of prize money. Most of the money goes to your handlers, but your standard of living has increased dramatically along with your value.
-
-Holdings:
-	• A private room at a high quality inn or other establishment.
-	• Several admirers among the arena patrons, willing to ingratiate themselves with gifts or bribes.
-
-Progression:
-Win a major championship bout.</text>
-    </trait>
-    <trait>
-      <name>Rank 4 - Arena Champ</name>
-      <text>Being champion of an underground tournament makes you a major figure within the Fighter's Guild. As your fights draw greater and greater crowds, your duties are lessened and you live in relative luxury. Admired by some, envied by others, you nevertheless command respect among those in your line of work. Even your patron is willing to bend to most of your wishes, out of fear that you will defect to another noble or trainer.
-
-Holdings:
-	• A collection of toadies and sycophants, eager to follow your wishes.
-	• Job offers and party invitations from various nobles and criminals aware of your status.
-	• A fancy championship trophy, which can take the form of a belt, cup, or some other trinket.</text>
-    </trait>
-    <trait>
       <name>Profession Dice</name>
       <text>Profession Dice are the in-game advantages provided to characters by their background profession. Characters can add their Profession Die to skill or ability checks according to any Talents they have selected.
 	In addition, a character always adds their Profession Die when rolling for Profession Abilities.
@@ -645,73 +425,10 @@ Profession Rank | Profession Dice
       <name>Talents</name>
       <text>Talents are unique dispositions, experiences, or characteristics your character has picked up due to their time working in their profession. This is represented by allowing characters to add their Profession Die in unique situations that highlight the skills gained through their profession. A character may select a Talent from their corresponding Talent list when they select their profession, and select an additional Talent whenever they rank up within a profession.</text>
     </trait>
-    <trait>
-      <name>Talent: Calloused Hands</name>
-      <text>Whenever you make a Strength (Athletics) check to lift, drag, or shove a heavy object, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Camper</name>
-      <text>When you make a Wisdom (Survival) check to construct a temporary shelter, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Charity Case</name>
-      <text>When you make a Charisma (Performance) check to fake an illness, injury, or other condition, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Drunkard</name>
-      <text>Whenever you make a Constitution check to determine if you will throw up, pass out, or how severe a hangover is, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Elusive</name>
-      <text>Whenever you make a Dexterity (Stealth) check to hide or blend into a crowd of humanoids that share your background, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Flamboyant Presentation</name>
-      <text>Whenever you make a Charisma (Performance) check to entertain Aristocrats, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Forecaster</name>
-      <text>Whenever you make a Wisdom (Survival) check to determine the weather for the next 48 hours, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Gambler</name>
-      <text>Whenever you make a Dexterity (Sleight of Hand) or Wisdom (Perception) check to cheat at a game or catch someone else cheating, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Gut Feeling</name>
-      <text>Whenever you make a Wisdom (Insight) check to detect if an Aristocrat or Criminal is lying, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Hard-Working</name>
-      <text>Whenever you make a Constitution check for a repetitive task such as marching or laboring for hours without rest, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Menacing Presence</name>
-      <text>Whenever you make a Charisma (Intimidation) check, and are interacting with Academics, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Pitiable</name>
-      <text>When you make a Charisma (Persuasion) check to convince an Aristocrat, Criminal, Militarist, or Clergy that you are not a threat or beneath their notice, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Solidarity</name>
-      <text>When you make a Charisma (Persuasion) check and you are interacting with members of your background, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Sticky Fingers</name>
-      <text>When you make a Dexterity (Sleight of Hand) check to snatch something quickly, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Urban Sprinter</name>
-      <text>Whenever you make a Strength (Athletics) or Dexterity (Acrobatics) check while running away from a pursuer, or pursuing someone else, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Vacant Expression</name>
-      <text>When you make a Charisma (Deception) check to feign ignorance and you are interacting with an Academic, Aristocrat, Clergy, or Militarist, you may add your profession die to the roll.</text>
-    </trait>
   </background>
+
   <background>
-    <name>Clan Member: Raider (Advanced) (TP)</name>
+    <name>Clan Member: Raider (TP)</name>
     <proficiency>Intimidation</proficiency>
     <trait>
       <name>Clan Member</name>
@@ -750,38 +467,6 @@ Progression:
 Take the place of a missing raider and prove yourself in combat.</text>
     </trait>
     <trait>
-      <name>Rank 2 - Pillager</name>
-      <text>As a full member of the raiding party, you are trained to strike hard and fast, then escape with whatever loot you can find. Common tactics involve sowing confusion by setting fires or releasing livestock, or drawing the attention of the defenders to allow for easier plunder elsewhere. Your tribe depends on you as a main source of food and supplies, and your comrades depend on you to watch their backs in the chaos of a raid.
-
-Holdings:
-	• A younger warrior assigned to maintain your equipment and carry your loot.
-	• Your pick of the goods seized on raids, in order of seniority.
-
-Progression:
-Perform deeds of notable bravery and be promoted by a warlord or chieftain.</text>
-    </trait>
-    <trait>
-      <name>Rank 3 - Raid Leader</name>
-      <text>Through a number of raids you have proven yourself cunning, ruthless, and skilled at combat. As a raid leader you are tasked with not only gathering as much as you can from your targets, but ensuring that your warriors return alive. Your underlings look to you for the tactics to use during the raid, and you must reign in the more reckless raiders lest they go too far.
-
-Holdings:
-	• A fine dwelling within the village, showcasing trophies from prior raids.
-	• Command over a raiding party and a voice at any war council.
-	• First pick of any goods seized during a raid.
-
-Progression:
-Save a chieftain's life or defeat a sworn enemy of the tribe in single combat.</text>
-    </trait>
-    <trait>
-      <name>Rank 4 - Warlord</name>
-      <text>Your deeds are legendary. When you speak, chieftains listen, and you direct policy as much as raiding. More to the point, you are the one who decides where and when to raid and how the military might of the clan will be brought to bear.
-
-Holdings
-	• Authority over at least three raiding parties within your tribe.
-	• Access to war councils and peace negotiations.
-	• The ability to requisition goods and recruit new raiders.</text>
-    </trait>
-    <trait>
       <name>Profession Dice</name>
       <text>Profession Dice are the in-game advantages provided to characters by their background profession. Characters can add their Profession Die to skill or ability checks according to any Talents they have selected.
 	In addition, a character always adds their Profession Die when rolling for Profession Abilities.
@@ -802,77 +487,9 @@ Profession Rank | Profession Dice
       <name>Talents</name>
       <text>Talents are unique dispositions, experiences, or characteristics your character has picked up due to their time working in their profession. This is represented by allowing characters to add their Profession Die in unique situations that highlight the skills gained through their profession. A character may select a Talent from their corresponding Talent list when they select their profession, and select an additional Talent whenever they rank up within a profession.</text>
     </trait>
-    <trait>
-      <name>Talent: Applied Leverage</name>
-      <text>When you make a Strength (Athletics) check to force open a door or container, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Beast Whisperer</name>
-      <text>Whenever you make a Wisdom (Animal Handling) check to train or direct orders to a beast, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Biologist</name>
-      <text>Whenever you make an Intelligence (Nature) check to determine the properties of animals, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Botanist</name>
-      <text>Whenever you make an Intelligence (Nature) check to determine the properties of plants, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Calloused Hands</name>
-      <text>Whenever you make a Strength (Athletics) check to lift, drag, or shove a heavy object, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Camper</name>
-      <text>When you make a Wisdom (Survival) check to construct a temporary shelter, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Disciplinarian</name>
-      <text>Whenever you make a Charisma (Intimidation) check while issuing a command to an individual of lower rank within your background, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Drunkard</name>
-      <text>Whenever you make a Constitution check to determine if you will throw up, pass out, or how severe a hangover is, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Gambler</name>
-      <text>Whenever you make a Dexterity (Sleight of Hand) or Wisdom (Perception) check to cheat at a game or catch someone else cheating, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Hard-Working</name>
-      <text>Whenever you make a Constitution check for a repetitive task such as marching or laboring for hours without rest, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Local Historian</name>
-      <text>Whenever you make an Intelligence (History) check to determine the history of an item, location, or cultural phenomenon from the same region as you, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Looter</name>
-      <text>When you make an Intelligence (Investigation) roll to find hidden valuables, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Menacing Presence</name>
-      <text>Whenever you make a Charisma (Intimidation) check, and are interacting with Academics, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Solidarity</name>
-      <text>When you make a Charisma (Persuasion) check and you are interacting with members of your background, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Temperature Tolerance</name>
-      <text>When you make a Constitution saving throw to avoid exhaustion due to extreme temperatures, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Tree Springer</name>
-      <text>When you make a Dexterity (Acrobatics) check to ascend, descend, or travel between trees, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Wayfarer</name>
-      <text>Whenever you make a Wisdom (Survival) check to find a path or avoid getting lost, you can add your Profession Die to the roll.</text>
-    </trait>
   </background>
   <background>
-    <name>Clan Member: Shaman (Advanced) (TP)</name>
+    <name>Clan Member: Shaman (TP)</name>
     <proficiency>Religion</proficiency>
     <trait>
       <name>Clan Member</name>
@@ -911,38 +528,6 @@ Progression:
 Promotion by your master.</text>
     </trait>
     <trait>
-      <name>Rank 2 - Hedge Witch</name>
-      <text>Clan members now come to you for advice on minor matters. Your master remains in charge of the major rituals and ceremonies, but you are granted the authority to dole out minor blessings on an individual basis. Part of your duties also includes the telling of cautionary tales to the younger members of the tribe.
-
-Holdings:
-	• A small hut set on the outskirts of your clan, near your master's dwelling.
-	• A following within the tribe's youth who are willing to aid you in minor matters.
-
-Progression:
-Be selected as shaman for a new camp or inherit your master's position after their death or retirement.</text>
-    </trait>
-    <trait>
-      <name>Rank 3 - Witch Doctor</name>
-      <text>You have taken over the majority of the rituals and ceremonies of the tribe. People come to you for advice with their problems, both physical and spiritual, and you are treated with deference for your position.
-
-Holdings:
-	• Respect and deference from the majority of your tribe, which occasionally manifests itself as gifts and offerings.
-	• A large hut, well stocked with the various tools of your trade.
-	• The secret herbs and chants required to complete a vision quest.
-
-Progression:
-Successfully guide an important decision by consulting the spirits for a chieftain.</text>
-    </trait>
-    <trait>
-      <name>Rank 4 - Sage</name>
-      <text>You are considered the voice of the spirits and repository of your tribe's oral history. Even those from outside your tribe have heard of you and seek you out from far and wide. You are invited to preside over all cultural ceremonies and direct the tribe in matters of spirituality. This includes advising the chieftain on nearly all important decisions.
-
-Holdings:
-	• High ranking tribe members and chieftains put great value on your advice and consult with you before important decisions.
-	• Apprentices and pupils that carry out the majority of the mundane tasks associated with your position.
-	• The ability to designate holy or forbidden sites and limit tribal access to those areas.</text>
-    </trait>
-    <trait>
       <name>Profession Dice</name>
       <text>Profession Dice are the in-game advantages provided to characters by their background profession. Characters can add their Profession Die to skill or ability checks according to any Talents they have selected.
 	In addition, a character always adds their Profession Die when rolling for Profession Abilities.
@@ -963,77 +548,9 @@ Profession Rank | Profession Dice
       <name>Talents</name>
       <text>Talents are unique dispositions, experiences, or characteristics your character has picked up due to their time working in their profession. This is represented by allowing characters to add their Profession Die in unique situations that highlight the skills gained through their profession. A character may select a Talent from their corresponding Talent list when they select their profession, and select an additional Talent whenever they rank up within a profession.</text>
     </trait>
-    <trait>
-      <name>Talent: Applied Leverage</name>
-      <text>When you make a Strength (Athletics) check to force open a door or container, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Beast Whisperer</name>
-      <text>Whenever you make a Wisdom (Animal Handling) check to train or direct orders to a beast, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Biologist</name>
-      <text>Whenever you make an Intelligence (Nature) check to determine the properties of animals, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Botanist</name>
-      <text>Whenever you make an Intelligence (Nature) check to determine the properties of plants, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Calloused Hands</name>
-      <text>Whenever you make a Strength (Athletics) check to lift, drag, or shove a heavy object, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Camper</name>
-      <text>When you make a Wisdom (Survival) check to construct a temporary shelter, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Disciplinarian</name>
-      <text>Whenever you make a Charisma (Intimidation) check while issuing a command to an individual of lower rank within your background, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Drunkard</name>
-      <text>Whenever you make a Constitution check to determine if you will throw up, pass out, or how severe a hangover is, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Gambler</name>
-      <text>Whenever you make a Dexterity (Sleight of Hand) or Wisdom (Perception) check to cheat at a game or catch someone else cheating, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Hard-Working</name>
-      <text>Whenever you make a Constitution check for a repetitive task such as marching or laboring for hours without rest, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Local Historian</name>
-      <text>Whenever you make an Intelligence (History) check to determine the history of an item, location, or cultural phenomenon from the same region as you, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Looter</name>
-      <text>When you make an Intelligence (Investigation) roll to find hidden valuables, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Menacing Presence</name>
-      <text>Whenever you make a Charisma (Intimidation) check, and are interacting with Academics, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Solidarity</name>
-      <text>When you make a Charisma (Persuasion) check and you are interacting with members of your background, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Temperature Tolerance</name>
-      <text>When you make a Constitution saving throw to avoid exhaustion due to extreme temperatures, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Tree Springer</name>
-      <text>When you make a Dexterity (Acrobatics) check to ascend, descend, or travel between trees, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Wayfarer</name>
-      <text>Whenever you make a Wisdom (Survival) check to find a path or avoid getting lost, you can add your Profession Die to the roll.</text>
-    </trait>
   </background>
   <background>
-    <name>Clan Member: Tribesperson (Advanced) (TP)</name>
+    <name>Clan Member: Tribesperson (TP)</name>
     <proficiency>Survival</proficiency>
     <trait>
       <name>Clan Member</name>
@@ -1072,37 +589,6 @@ Progression:
 Gain permission from an elder to venture out into the wilds on your own.</text>
     </trait>
     <trait>
-      <name>Rank 2 - Hunter-Gatherer</name>
-      <text>The elders of your tribe have granted you permission to venture outside the boundaries of your settlement. As a hunter-gatherer, you are responsible not only for procuring food, but also dealing with minor threats to the tribe and exploring for new resources and possible locations for expansion.
-
-Holdings:
-	• The tools to perform your duties, including basic hunting and fishing gear, materials, and aid from local craftsmen.
-	• The ability to recruit other tribe members to aid you in retrieving goods from the wild or helping to set up small camps outside your home territory.
-
-Progression:
-Display excellent leadership and aid the tribe during a crisis.</text>
-    </trait>
-    <trait>
-      <name>Rank 3 - Elder</name>
-      <text>Elders oversee many of the day-to-day issues within a tribe and advise the chieftain on matters of importance. Your actions on behalf of the tribe and your good judgement have earned you a place among them. The words of an elder carry great weight within the tribe, and an elder has the power to decide minor matters unilaterally. When issues require greater consideration, a number of elders may consult on the matter before rendering a decision.
-
-Holdings:
-	• Authority over the vast majority of tribe members.
-	• A fine dwelling and free access to tribal goods and services.
-
-Progression:
-Serve the tribe wisely in times of trouble.</text>
-    </trait>
-    <trait>
-      <name>Rank 4 - Chieftain</name>
-      <text>By election, trial, or some other method, you have been selected as the leader of your tribe. At home in your tribe, others may advise you, but your word is law. Where multiple tribes band together, you speak for your people.
-
-Holdings:
-	• Counsel from the elders, warlords, and spiritual leaders of your tribe.
-	• Final authority on all tribe decisions and disputes, and complete authority over all tribe members.
-	• The grandest house in the camp or village, which doubles as a meeting place for important meetings and visiting dignitaries.</text>
-    </trait>
-    <trait>
       <name>Profession Dice</name>
       <text>Profession Dice are the in-game advantages provided to characters by their background profession. Characters can add their Profession Die to skill or ability checks according to any Talents they have selected.
 	In addition, a character always adds their Profession Die when rolling for Profession Abilities.
@@ -1122,74 +608,6 @@ Profession Rank | Profession Dice
     <trait>
       <name>Talents</name>
       <text>Talents are unique dispositions, experiences, or characteristics your character has picked up due to their time working in their profession. This is represented by allowing characters to add their Profession Die in unique situations that highlight the skills gained through their profession. A character may select a Talent from their corresponding Talent list when they select their profession, and select an additional Talent whenever they rank up within a profession.</text>
-    </trait>
-    <trait>
-      <name>Talent: Applied Leverage</name>
-      <text>When you make a Strength (Athletics) check to force open a door or container, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Beast Whisperer</name>
-      <text>Whenever you make a Wisdom (Animal Handling) check to train or direct orders to a beast, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Biologist</name>
-      <text>Whenever you make an Intelligence (Nature) check to determine the properties of animals, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Botanist</name>
-      <text>Whenever you make an Intelligence (Nature) check to determine the properties of plants, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Calloused Hands</name>
-      <text>Whenever you make a Strength (Athletics) check to lift, drag, or shove a heavy object, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Camper</name>
-      <text>When you make a Wisdom (Survival) check to construct a temporary shelter, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Disciplinarian</name>
-      <text>Whenever you make a Charisma (Intimidation) check while issuing a command to an individual of lower rank within your background, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Drunkard</name>
-      <text>Whenever you make a Constitution check to determine if you will throw up, pass out, or how severe a hangover is, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Gambler</name>
-      <text>Whenever you make a Dexterity (Sleight of Hand) or Wisdom (Perception) check to cheat at a game or catch someone else cheating, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Hard-Working</name>
-      <text>Whenever you make a Constitution check for a repetitive task such as marching or laboring for hours without rest, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Local Historian</name>
-      <text>Whenever you make an Intelligence (History) check to determine the history of an item, location, or cultural phenomenon from the same region as you, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Looter</name>
-      <text>When you make an Intelligence (Investigation) roll to find hidden valuables, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Menacing Presence</name>
-      <text>Whenever you make a Charisma (Intimidation) check, and are interacting with Academics, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Solidarity</name>
-      <text>When you make a Charisma (Persuasion) check and you are interacting with members of your background, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Temperature Tolerance</name>
-      <text>When you make a Constitution saving throw to avoid exhaustion due to extreme temperatures, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Tree Springer</name>
-      <text>When you make a Dexterity (Acrobatics) check to ascend, descend, or travel between trees, you may add your profession die to the roll.</text>
-    </trait>
-    <trait>
-      <name>Talent: Wayfarer</name>
-      <text>Whenever you make a Wisdom (Survival) check to find a path or avoid getting lost, you can add your Profession Die to the roll.</text>
     </trait>
   </background>
 </compendium>

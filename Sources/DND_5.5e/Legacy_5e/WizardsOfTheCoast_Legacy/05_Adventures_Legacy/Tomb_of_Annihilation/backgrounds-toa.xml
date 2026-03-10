@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Anthropologist</name>
+    <name>Anthropologist (Legacy)</name>
     <proficiency>Insight, Religion</proficiency>
     <trait>
       <name>Description</name>
@@ -75,7 +75,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Archaeologist</name>
+    <name>Archaeologist (Legacy)</name>
     <proficiency>History, Survival</proficiency>
     <trait>
       <name>Description</name>

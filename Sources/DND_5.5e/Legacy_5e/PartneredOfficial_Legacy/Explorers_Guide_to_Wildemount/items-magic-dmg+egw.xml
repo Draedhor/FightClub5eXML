@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Corpse Slayer Antimatter Rifle</name>
+    <name>Corpse Slayer Antimatter Rifle (TP)</name>
     <detail>firearm, futuristic, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -33,7 +33,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party),
     <roll>1d8</roll>
   </item>
   <item>
-    <name>Corpse Slayer Automatic Pistol</name>
+    <name>Corpse Slayer Automatic Pistol (TP)</name>
     <detail>firearm, modern, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -64,7 +64,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party),
     <roll>1d8</roll>
   </item>
   <item>
-    <name>Corpse Slayer Automatic Rifle</name>
+    <name>Corpse Slayer Automatic Rifle (TP)</name>
     <detail>firearm, modern, burst, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -99,7 +99,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party),
     <roll>1d8</roll>
   </item>
   <item>
-    <name>Corpse Slayer Hunting Rifle</name>
+    <name>Corpse Slayer Hunting Rifle (TP)</name>
     <detail>firearm, modern, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -134,7 +134,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party),
     <roll>1d8</roll>
   </item>
   <item>
-    <name>Corpse Slayer Laser Rifle</name>
+    <name>Corpse Slayer Laser Rifle (TP)</name>
     <detail>firearm, futuristic, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -168,7 +168,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party),
     <roll>1d8</roll>
   </item>
   <item>
-    <name>Corpse Slayer Pistol</name>
+    <name>Corpse Slayer Pistol (TP)</name>
     <detail>firearm, renaissance, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -204,7 +204,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party),
     <roll>1d8</roll>
   </item>
   <item>
-    <name>Corpse Slayer Revolver</name>
+    <name>Corpse Slayer Revolver (TP)</name>
     <detail>firearm, modern, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -238,7 +238,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party),
     <roll>1d8</roll>
   </item>
   <item>
-    <name>Corpse Slayer Shotgun</name>
+    <name>Corpse Slayer Shotgun (TP)</name>
     <detail>firearm, modern, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -276,7 +276,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party),
     <roll>1d8</roll>
   </item>
   <item>
-    <name>Antimatter Rifle of Certain Death</name>
+    <name>Antimatter Rifle of Certain Death (TP)</name>
     <detail>firearm, futuristic, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -304,7 +304,7 @@ Source:	Explorer's Guide to Wildemount p. 270 (Third Party),
 		Dungeon Master's Guide (2014) p. 268</text>
   </item>
   <item>
-    <name>Automatic Pistol of Certain Death</name>
+    <name>Automatic Pistol of Certain Death (TP)</name>
     <detail>firearm, modern, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -331,7 +331,7 @@ Source:	Explorer's Guide to Wildemount p. 270 (Third Party),
 		Dungeon Master's Guide (2014) p. 268</text>
   </item>
   <item>
-    <name>Automatic Rifle of Certain Death</name>
+    <name>Automatic Rifle of Certain Death (TP)</name>
     <detail>firearm, modern, burst, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -362,7 +362,7 @@ Source:	Explorer's Guide to Wildemount p. 270 (Third Party),
 		Dungeon Master's Guide (2014) p. 268</text>
   </item>
   <item>
-    <name>Hunting Rifle of Certain Death</name>
+    <name>Hunting Rifle of Certain Death (TP)</name>
     <detail>firearm, modern, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -393,7 +393,7 @@ Source:	Explorer's Guide to Wildemount p. 270 (Third Party),
 		Dungeon Master's Guide (2014) p. 268</text>
   </item>
   <item>
-    <name>Laser Rifle of Certain Death</name>
+    <name>Laser Rifle of Certain Death (TP)</name>
     <detail>firearm, futuristic, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -423,7 +423,7 @@ Source:	Explorer's Guide to Wildemount p. 270 (Third Party),
 		Dungeon Master's Guide (2014) p. 268</text>
   </item>
   <item>
-    <name>Pistol of Certain Death</name>
+    <name>Pistol of Certain Death (TP)</name>
     <detail>firearm, renaissance, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -455,7 +455,7 @@ Source:	Explorer's Guide to Wildemount p. 270 (Third Party),
 		Dungeon Master's Guide (2014) p. 268</text>
   </item>
   <item>
-    <name>Revolver of Certain Death</name>
+    <name>Revolver of Certain Death (TP)</name>
     <detail>firearm, modern, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -485,7 +485,7 @@ Source:	Explorer's Guide to Wildemount p. 270 (Third Party),
 		Dungeon Master's Guide (2014) p. 268</text>
   </item>
   <item>
-    <name>Shotgun of Certain Death</name>
+    <name>Shotgun of Certain Death (TP)</name>
     <detail>firearm, modern, rare</detail>
     <type>R</type>
     <magic>YES</magic>

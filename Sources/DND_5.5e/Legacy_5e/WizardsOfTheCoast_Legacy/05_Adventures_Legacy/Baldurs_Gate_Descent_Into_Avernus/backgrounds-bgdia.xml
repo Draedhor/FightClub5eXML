@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Baldur's Gate Acolyte</name>
+    <name>Baldur's Gate Acolyte (Legacy)</name>
     <proficiency>Insight, Religion</proficiency>
     <trait>
       <name>Description</name>
@@ -68,7 +68,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Baldur's Gate Charlatan</name>
+    <name>Baldur's Gate Charlatan (Legacy)</name>
     <proficiency>Deception, Sleight of Hand</proficiency>
     <trait>
       <name>Description</name>
@@ -149,7 +149,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Baldur's Gate Criminal</name>
+    <name>Baldur's Gate Criminal (Legacy)</name>
     <proficiency>Deception, Stealth</proficiency>
     <trait>
       <name>Description</name>
@@ -247,7 +247,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Baldur's Gate Entertainer</name>
+    <name>Baldur's Gate Entertainer (Legacy)</name>
     <proficiency>Acrobatics, Performance</proficiency>
     <trait>
       <name>Description</name>
@@ -331,7 +331,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Baldur's Gate Folk Hero</name>
+    <name>Baldur's Gate Folk Hero (Legacy)</name>
     <proficiency>Animal Handling, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -430,7 +430,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Baldur's Gate Guild Artisan</name>
+    <name>Baldur's Gate Guild Artisan (Legacy)</name>
     <proficiency>Insight, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -529,7 +529,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Baldur's Gate Hermit</name>
+    <name>Baldur's Gate Hermit (Legacy)</name>
     <proficiency>Medicine, Religion</proficiency>
     <trait>
       <name>Description</name>
@@ -627,7 +627,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Baldur's Gate Noble</name>
+    <name>Baldur's Gate Noble (Legacy)</name>
     <proficiency>History, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -695,7 +695,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Baldur's Gate Outlander</name>
+    <name>Baldur's Gate Outlander (Legacy)</name>
     <proficiency>Athletics, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -794,7 +794,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Baldur's Gate Sage</name>
+    <name>Baldur's Gate Sage (Legacy)</name>
     <proficiency>Arcana, History</proficiency>
     <trait>
       <name>Description</name>
@@ -876,7 +876,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Baldur's Gate Sailor</name>
+    <name>Baldur's Gate Sailor (Legacy)</name>
     <proficiency>Athletics, Perception</proficiency>
     <trait>
       <name>Description</name>
@@ -942,7 +942,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Baldur's Gate Soldier</name>
+    <name>Baldur's Gate Soldier (Legacy)</name>
     <proficiency>Athletics, Intimidation</proficiency>
     <trait>
       <name>Description</name>
@@ -1030,7 +1030,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Baldur's Gate Urchin</name>
+    <name>Baldur's Gate Urchin (Legacy)</name>
     <proficiency>Sleight of Hand, Stealth</proficiency>
     <trait>
       <name>Description</name>
@@ -1096,7 +1096,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Faceless</name>
+    <name>Faceless (Legacy)</name>
     <proficiency>Deception, Intimidation</proficiency>
     <trait>
       <name>Description</name>

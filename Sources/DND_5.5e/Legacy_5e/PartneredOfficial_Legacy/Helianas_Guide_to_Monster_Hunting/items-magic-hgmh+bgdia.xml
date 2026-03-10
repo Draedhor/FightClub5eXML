@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Hellfire Claw</name>
+    <name>Hellfire Claw (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -23,7 +23,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 223,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Hellfire Haladie</name>
+    <name>Hellfire Haladie (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -47,7 +47,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 223,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Hellfire Magitech Firearm</name>
+    <name>Hellfire Magitech Firearm (TP)</name>
     <detail>firearm, uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -78,7 +78,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 223,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Hellfire Nunchuck</name>
+    <name>Hellfire Nunchuck (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -103,7 +103,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 223,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Hellfire Tetherhook</name>
+    <name>Hellfire Tetherhook (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -128,7 +128,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 223,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Hellfire Hand Tommybow</name>
+    <name>Hellfire Hand Tommybow (TP)</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -159,7 +159,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 223,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Hellfire Light Tommybow</name>
+    <name>Hellfire Light Tommybow (TP)</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -188,7 +188,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 223,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Hellfire Heavy Tommybow</name>
+    <name>Hellfire Heavy Tommybow (TP)</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>

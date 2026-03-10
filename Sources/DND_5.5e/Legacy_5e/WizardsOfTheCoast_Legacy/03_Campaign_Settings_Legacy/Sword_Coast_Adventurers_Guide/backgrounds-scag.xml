@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>City Watch</name>
+    <name>City Watch (Legacy)</name>
     <proficiency>Athletics, Insight</proficiency>
     <trait>
       <name>Description</name>
@@ -65,7 +65,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Clan Crafter</name>
+    <name>Clan Crafter (Legacy)</name>
     <proficiency>History, Insight</proficiency>
     <trait>
       <name>Description</name>
@@ -128,7 +128,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Cloistered Scholar</name>
+    <name>Cloistered Scholar (Legacy)</name>
     <ancestry>Sage</ancestry>
     <proficiency>History</proficiency>
     <trait>
@@ -194,7 +194,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Courtier</name>
+    <name>Courtier (Legacy)</name>
     <proficiency>Insight, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -257,7 +257,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Faction Agent</name>
+    <name>Faction Agent (Legacy)</name>
     <proficiency>Insight</proficiency>
     <trait>
       <name>Description</name>
@@ -333,7 +333,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Far Traveler</name>
+    <name>Far Traveler (Legacy)</name>
     <proficiency>Insight, Perception</proficiency>
     <trait>
       <name>Description</name>
@@ -433,7 +433,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Inheritor</name>
+    <name>Inheritor (Legacy)</name>
     <proficiency>Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -508,7 +508,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Knight of the Order</name>
+    <name>Knight of the Order (Legacy)</name>
     <proficiency>Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -584,7 +584,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Mercenary Veteran</name>
+    <name>Mercenary Veteran (Legacy)</name>
     <proficiency>Athletics, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -656,7 +656,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Urban Bounty Hunter</name>
+    <name>Urban Bounty Hunter (Legacy)</name>
     <proficiency/>
     <trait>
       <name>Description</name>
@@ -719,7 +719,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Uthgardt Tribe Member</name>
+    <name>Uthgardt Tribe Member (Legacy)</name>
     <proficiency>Athletics, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -791,7 +791,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Investigator</name>
+    <name>Investigator (Legacy)</name>
     <ancestry>City Watch</ancestry>
     <proficiency>Insight, Investigation</proficiency>
     <trait>
@@ -853,7 +853,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Waterdhavian Noble</name>
+    <name>Waterdhavian Noble (Legacy)</name>
     <proficiency>History, Persuasion</proficiency>
     <trait>
       <name>Description</name>

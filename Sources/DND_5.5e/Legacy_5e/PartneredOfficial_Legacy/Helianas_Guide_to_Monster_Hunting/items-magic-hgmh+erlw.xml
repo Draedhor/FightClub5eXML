@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Armblade Claw</name>
+    <name>Armblade Claw (TP)</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -24,7 +24,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Armblade Haladie</name>
+    <name>Armblade Haladie (TP)</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -49,7 +49,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Armblade Nunchuck</name>
+    <name>Armblade Nunchuck (TP)</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -75,7 +75,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Armblade Tetherhook</name>
+    <name>Armblade Tetherhook (TP)</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -101,7 +101,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Armblade Claw +1</name>
+    <name>Armblade Claw +1 (TP)</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -129,7 +129,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Haladie +1</name>
+    <name>Armblade Haladie +1 (TP)</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -159,7 +159,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Nunchuck +1</name>
+    <name>Armblade Nunchuck +1 (TP)</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -190,7 +190,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Tetherhook +1</name>
+    <name>Armblade Tetherhook +1 (TP)</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -221,7 +221,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Claw +2</name>
+    <name>Armblade Claw +2 (TP)</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -249,7 +249,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Haladie +2</name>
+    <name>Armblade Haladie +2 (TP)</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -279,7 +279,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Nunchuck +2</name>
+    <name>Armblade Nunchuck +2 (TP)</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -310,7 +310,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Tetherhook +2</name>
+    <name>Armblade Tetherhook +2 (TP)</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -341,7 +341,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Claw +3</name>
+    <name>Armblade Claw +3 (TP)</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -369,7 +369,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Haladie +3</name>
+    <name>Armblade Haladie +3 (TP)</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -399,7 +399,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Nunchuck +3</name>
+    <name>Armblade Nunchuck +3 (TP)</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -430,7 +430,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Tetherhook +3</name>
+    <name>Armblade Tetherhook +3 (TP)</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Aberrant Heir [5.5e]</name>
+    <name>Aberrant Heir [2024]</name>
     <proficiency>History, Intimidation</proficiency>
     <trait>
       <name>Description</name>
@@ -41,7 +41,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>Archaeologist [5.5e]</name>
+    <name>Archaeologist [2024]</name>
     <proficiency>History, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -71,7 +71,41 @@ Source:	Eberron: Forge of the Artificer p. 26</text>
     </trait>
   </background>
   <background>
-    <name>House Agent [5.5e]</name>
+    <name>House Agent: Cannith [2024]</name>
+    <proficiency>Investigation, Persuasion</proficiency>
+    <trait>
+      <name>Description</name>
+      <text>You are connected to one of the dragonmarked houses, but you haven't (yet) manifested a dragonmark. You might be a member of the family by birth or an employee of the house with no familial connection. You've earned your living by doing the business of the house, serving as the hands, feet, and eyes of house leadership in the world. You might have many old friends, mentors, and rivals in the house you serve, plus allies or enemies in other houses.
+
+Source: Eberron: Forge of the Artificer p. 26</text>
+    </trait>
+    <trait>
+      <name>Ability Scores: Strength, Intelligence, Charisma</name>
+      <text>A background lists three of your character's ability scores. Increase one by 2 and another one by 1, or increase all three by 1. None of these increases can raise a score above 20.</text>
+    </trait>
+    <trait>
+      <name>Feat: Lucky</name>
+      <text>You gain the following benefits.
+
+  Luck Points. You have a number of Luck Points equal to your Proficiency Bonus and can spend the points on the benefits below. You regain your expended Luck Points when you finish a Long Rest.
+
+  Advantage. When you roll a d20 for a D20 Test, you can spend 1 Luck Point to give yourself Advantage on the roll.
+
+  Disadvantage. When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.</text>
+    </trait>
+    <trait>
+      <name>Tool Proficiency: Artisan's Tools</name>
+      <text>You gain proficiency in your choice of Artisan's Tools.</text>
+    </trait>
+    <trait>
+      <name>Starting Equipment</name>
+      <text>Choose A or B:
+  • (A) Artisan's Tools (same as above), Fine Clothes, 20 GP
+  • (B) 50 GP</text>
+    </trait>
+  </background>
+  <background>
+    <name>House Agent: Deneith [2024]</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -95,24 +129,7 @@ Source:	Eberron: Forge of the Artificer p. 26</text>
     </trait>
     <trait>
       <name>Tool Proficiency: Artisan's Tools</name>
-      <text>You gain proficiency in your choice of Artisan's Tools.
-
-At character creation, you may replace your Artisan's Tools proficiency with a tool proficiency related to your house.
-
-House Tool Proficiencies:
-Your House | Alternative Tool Proficiency
-Deneith | Gaming Set
-Ghallanda | Cook's Utensils
-Jorasco | Herbalism Kit
-Kundarak | Thieves' Tools
-Lyrandar | Navigator's Tools
-Medani | Disguise Kit
-Orien | Cartographer's Tools
-Phiarlan | Disguise Kit
-Sivis | Calligrapher's Supplies
-Tharashk | Gaming Set
-Thuranni | Musical Instrument
-Vadalis | Herbalism Kit</text>
+      <text>You gain proficiency in your choice of Artisan's Tools.</text>
     </trait>
     <trait>
       <name>Starting Equipment</name>
@@ -122,7 +139,381 @@ Vadalis | Herbalism Kit</text>
     </trait>
   </background>
   <background>
-    <name>House Cannith Heir (Human) [5.5e]</name>
+    <name>House Agent: Ghallanda [2024]</name>
+    <proficiency>Investigation, Persuasion</proficiency>
+    <trait>
+      <name>Description</name>
+      <text>You are connected to one of the dragonmarked houses, but you haven't (yet) manifested a dragonmark. You might be a member of the family by birth or an employee of the house with no familial connection. You've earned your living by doing the business of the house, serving as the hands, feet, and eyes of house leadership in the world. You might have many old friends, mentors, and rivals in the house you serve, plus allies or enemies in other houses.
+
+Source: Eberron: Forge of the Artificer p. 26</text>
+    </trait>
+    <trait>
+      <name>Ability Scores: Strength, Intelligence, Charisma</name>
+      <text>A background lists three of your character's ability scores. Increase one by 2 and another one by 1, or increase all three by 1. None of these increases can raise a score above 20.</text>
+    </trait>
+    <trait>
+      <name>Feat: Lucky</name>
+      <text>You gain the following benefits.
+
+  Luck Points. You have a number of Luck Points equal to your Proficiency Bonus and can spend the points on the benefits below. You regain your expended Luck Points when you finish a Long Rest.
+
+  Advantage. When you roll a d20 for a D20 Test, you can spend 1 Luck Point to give yourself Advantage on the roll.
+
+  Disadvantage. When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.</text>
+    </trait>
+    <trait>
+      <name>Tool Proficiency: Artisan's Tools</name>
+      <text>You gain proficiency in your choice of Artisan's Tools.</text>
+    </trait>
+    <trait>
+      <name>Starting Equipment</name>
+      <text>Choose A or B:
+  • (A) Artisan's Tools (same as above), Fine Clothes, 20 GP
+  • (B) 50 GP</text>
+    </trait>
+  </background>
+  <background>
+    <name>House Agent: Jorasco [2024]</name>
+    <proficiency>Investigation, Persuasion</proficiency>
+    <trait>
+      <name>Description</name>
+      <text>You are connected to one of the dragonmarked houses, but you haven't (yet) manifested a dragonmark. You might be a member of the family by birth or an employee of the house with no familial connection. You've earned your living by doing the business of the house, serving as the hands, feet, and eyes of house leadership in the world. You might have many old friends, mentors, and rivals in the house you serve, plus allies or enemies in other houses.
+
+Source: Eberron: Forge of the Artificer p. 26</text>
+    </trait>
+    <trait>
+      <name>Ability Scores: Strength, Intelligence, Charisma</name>
+      <text>A background lists three of your character's ability scores. Increase one by 2 and another one by 1, or increase all three by 1. None of these increases can raise a score above 20.</text>
+    </trait>
+    <trait>
+      <name>Feat: Lucky</name>
+      <text>You gain the following benefits.
+
+  Luck Points. You have a number of Luck Points equal to your Proficiency Bonus and can spend the points on the benefits below. You regain your expended Luck Points when you finish a Long Rest.
+
+  Advantage. When you roll a d20 for a D20 Test, you can spend 1 Luck Point to give yourself Advantage on the roll.
+
+  Disadvantage. When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.</text>
+    </trait>
+    <trait>
+      <name>Tool Proficiency: Artisan's Tools</name>
+      <text>You gain proficiency in your choice of Artisan's Tools.</text>
+    </trait>
+    <trait>
+      <name>Starting Equipment</name>
+      <text>Choose A or B:
+  • (A) Artisan's Tools (same as above), Fine Clothes, 20 GP
+  • (B) 50 GP</text>
+    </trait>
+  </background>
+  <background>
+    <name>House Agent: Kundarak [2024]</name>
+    <proficiency>Investigation, Persuasion</proficiency>
+    <trait>
+      <name>Description</name>
+      <text>You are connected to one of the dragonmarked houses, but you haven't (yet) manifested a dragonmark. You might be a member of the family by birth or an employee of the house with no familial connection. You've earned your living by doing the business of the house, serving as the hands, feet, and eyes of house leadership in the world. You might have many old friends, mentors, and rivals in the house you serve, plus allies or enemies in other houses.
+
+Source: Eberron: Forge of the Artificer p. 26</text>
+    </trait>
+    <trait>
+      <name>Ability Scores: Strength, Intelligence, Charisma</name>
+      <text>A background lists three of your character's ability scores. Increase one by 2 and another one by 1, or increase all three by 1. None of these increases can raise a score above 20.</text>
+    </trait>
+    <trait>
+      <name>Feat: Lucky</name>
+      <text>You gain the following benefits.
+
+  Luck Points. You have a number of Luck Points equal to your Proficiency Bonus and can spend the points on the benefits below. You regain your expended Luck Points when you finish a Long Rest.
+
+  Advantage. When you roll a d20 for a D20 Test, you can spend 1 Luck Point to give yourself Advantage on the roll.
+
+  Disadvantage. When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.</text>
+    </trait>
+    <trait>
+      <name>Tool Proficiency: Artisan's Tools</name>
+      <text>You gain proficiency in your choice of Artisan's Tools.</text>
+    </trait>
+    <trait>
+      <name>Starting Equipment</name>
+      <text>Choose A or B:
+  • (A) Artisan's Tools (same as above), Fine Clothes, 20 GP
+  • (B) 50 GP</text>
+    </trait>
+  </background>
+  <background>
+    <name>House Agent: Lyrandar [2024]</name>
+    <proficiency>Investigation, Persuasion</proficiency>
+    <trait>
+      <name>Description</name>
+      <text>You are connected to one of the dragonmarked houses, but you haven't (yet) manifested a dragonmark. You might be a member of the family by birth or an employee of the house with no familial connection. You've earned your living by doing the business of the house, serving as the hands, feet, and eyes of house leadership in the world. You might have many old friends, mentors, and rivals in the house you serve, plus allies or enemies in other houses.
+
+Source: Eberron: Forge of the Artificer p. 26</text>
+    </trait>
+    <trait>
+      <name>Ability Scores: Strength, Intelligence, Charisma</name>
+      <text>A background lists three of your character's ability scores. Increase one by 2 and another one by 1, or increase all three by 1. None of these increases can raise a score above 20.</text>
+    </trait>
+    <trait>
+      <name>Feat: Lucky</name>
+      <text>You gain the following benefits.
+
+  Luck Points. You have a number of Luck Points equal to your Proficiency Bonus and can spend the points on the benefits below. You regain your expended Luck Points when you finish a Long Rest.
+
+  Advantage. When you roll a d20 for a D20 Test, you can spend 1 Luck Point to give yourself Advantage on the roll.
+
+  Disadvantage. When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.</text>
+    </trait>
+    <trait>
+      <name>Tool Proficiency: Artisan's Tools</name>
+      <text>You gain proficiency in your choice of Artisan's Tools.</text>
+    </trait>
+    <trait>
+      <name>Starting Equipment</name>
+      <text>Choose A or B:
+  • (A) Artisan's Tools (same as above), Fine Clothes, 20 GP
+  • (B) 50 GP</text>
+    </trait>
+  </background>
+  <background>
+    <name>House Agent: Medani [2024]</name>
+    <proficiency>Investigation, Persuasion</proficiency>
+    <trait>
+      <name>Description</name>
+      <text>You are connected to one of the dragonmarked houses, but you haven't (yet) manifested a dragonmark. You might be a member of the family by birth or an employee of the house with no familial connection. You've earned your living by doing the business of the house, serving as the hands, feet, and eyes of house leadership in the world. You might have many old friends, mentors, and rivals in the house you serve, plus allies or enemies in other houses.
+
+Source: Eberron: Forge of the Artificer p. 26</text>
+    </trait>
+    <trait>
+      <name>Ability Scores: Strength, Intelligence, Charisma</name>
+      <text>A background lists three of your character's ability scores. Increase one by 2 and another one by 1, or increase all three by 1. None of these increases can raise a score above 20.</text>
+    </trait>
+    <trait>
+      <name>Feat: Lucky</name>
+      <text>You gain the following benefits.
+
+  Luck Points. You have a number of Luck Points equal to your Proficiency Bonus and can spend the points on the benefits below. You regain your expended Luck Points when you finish a Long Rest.
+
+  Advantage. When you roll a d20 for a D20 Test, you can spend 1 Luck Point to give yourself Advantage on the roll.
+
+  Disadvantage. When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.</text>
+    </trait>
+    <trait>
+      <name>Tool Proficiency: Artisan's Tools</name>
+      <text>You gain proficiency in your choice of Artisan's Tools.</text>
+    </trait>
+    <trait>
+      <name>Starting Equipment</name>
+      <text>Choose A or B:
+  • (A) Artisan's Tools (same as above), Fine Clothes, 20 GP
+  • (B) 50 GP</text>
+    </trait>
+  </background>
+  <background>
+    <name>House Agent: Orien [2024]</name>
+    <proficiency>Investigation, Persuasion</proficiency>
+    <trait>
+      <name>Description</name>
+      <text>You are connected to one of the dragonmarked houses, but you haven't (yet) manifested a dragonmark. You might be a member of the family by birth or an employee of the house with no familial connection. You've earned your living by doing the business of the house, serving as the hands, feet, and eyes of house leadership in the world. You might have many old friends, mentors, and rivals in the house you serve, plus allies or enemies in other houses.
+
+Source: Eberron: Forge of the Artificer p. 26</text>
+    </trait>
+    <trait>
+      <name>Ability Scores: Strength, Intelligence, Charisma</name>
+      <text>A background lists three of your character's ability scores. Increase one by 2 and another one by 1, or increase all three by 1. None of these increases can raise a score above 20.</text>
+    </trait>
+    <trait>
+      <name>Feat: Lucky</name>
+      <text>You gain the following benefits.
+
+  Luck Points. You have a number of Luck Points equal to your Proficiency Bonus and can spend the points on the benefits below. You regain your expended Luck Points when you finish a Long Rest.
+
+  Advantage. When you roll a d20 for a D20 Test, you can spend 1 Luck Point to give yourself Advantage on the roll.
+
+  Disadvantage. When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.</text>
+    </trait>
+    <trait>
+      <name>Tool Proficiency: Artisan's Tools</name>
+      <text>You gain proficiency in your choice of Artisan's Tools.</text>
+    </trait>
+    <trait>
+      <name>Starting Equipment</name>
+      <text>Choose A or B:
+  • (A) Artisan's Tools (same as above), Fine Clothes, 20 GP
+  • (B) 50 GP</text>
+    </trait>
+  </background>
+  <background>
+    <name>House Agent: Phiarlan [2024]</name>
+    <proficiency>Investigation, Persuasion</proficiency>
+    <trait>
+      <name>Description</name>
+      <text>You are connected to one of the dragonmarked houses, but you haven't (yet) manifested a dragonmark. You might be a member of the family by birth or an employee of the house with no familial connection. You've earned your living by doing the business of the house, serving as the hands, feet, and eyes of house leadership in the world. You might have many old friends, mentors, and rivals in the house you serve, plus allies or enemies in other houses.
+
+Source: Eberron: Forge of the Artificer p. 26</text>
+    </trait>
+    <trait>
+      <name>Ability Scores: Strength, Intelligence, Charisma</name>
+      <text>A background lists three of your character's ability scores. Increase one by 2 and another one by 1, or increase all three by 1. None of these increases can raise a score above 20.</text>
+    </trait>
+    <trait>
+      <name>Feat: Lucky</name>
+      <text>You gain the following benefits.
+
+  Luck Points. You have a number of Luck Points equal to your Proficiency Bonus and can spend the points on the benefits below. You regain your expended Luck Points when you finish a Long Rest.
+
+  Advantage. When you roll a d20 for a D20 Test, you can spend 1 Luck Point to give yourself Advantage on the roll.
+
+  Disadvantage. When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.</text>
+    </trait>
+    <trait>
+      <name>Tool Proficiency: Artisan's Tools</name>
+      <text>You gain proficiency in your choice of Artisan's Tools.</text>
+    </trait>
+    <trait>
+      <name>Starting Equipment</name>
+      <text>Choose A or B:
+  • (A) Artisan's Tools (same as above), Fine Clothes, 20 GP
+  • (B) 50 GP</text>
+    </trait>
+  </background>
+  <background>
+    <name>House Agent: Sivis [2024]</name>
+    <proficiency>Investigation, Persuasion</proficiency>
+    <trait>
+      <name>Description</name>
+      <text>You are connected to one of the dragonmarked houses, but you haven't (yet) manifested a dragonmark. You might be a member of the family by birth or an employee of the house with no familial connection. You've earned your living by doing the business of the house, serving as the hands, feet, and eyes of house leadership in the world. You might have many old friends, mentors, and rivals in the house you serve, plus allies or enemies in other houses.
+
+Source: Eberron: Forge of the Artificer p. 26</text>
+    </trait>
+    <trait>
+      <name>Ability Scores: Strength, Intelligence, Charisma</name>
+      <text>A background lists three of your character's ability scores. Increase one by 2 and another one by 1, or increase all three by 1. None of these increases can raise a score above 20.</text>
+    </trait>
+    <trait>
+      <name>Feat: Lucky</name>
+      <text>You gain the following benefits.
+
+  Luck Points. You have a number of Luck Points equal to your Proficiency Bonus and can spend the points on the benefits below. You regain your expended Luck Points when you finish a Long Rest.
+
+  Advantage. When you roll a d20 for a D20 Test, you can spend 1 Luck Point to give yourself Advantage on the roll.
+
+  Disadvantage. When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.</text>
+    </trait>
+    <trait>
+      <name>Tool Proficiency: Artisan's Tools</name>
+      <text>You gain proficiency in your choice of Artisan's Tools.</text>
+    </trait>
+    <trait>
+      <name>Starting Equipment</name>
+      <text>Choose A or B:
+  • (A) Artisan's Tools (same as above), Fine Clothes, 20 GP
+  • (B) 50 GP</text>
+    </trait>
+  </background>
+  <background>
+    <name>House Agent: Tharashk [2024]</name>
+    <proficiency>Investigation, Persuasion</proficiency>
+    <trait>
+      <name>Description</name>
+      <text>You are connected to one of the dragonmarked houses, but you haven't (yet) manifested a dragonmark. You might be a member of the family by birth or an employee of the house with no familial connection. You've earned your living by doing the business of the house, serving as the hands, feet, and eyes of house leadership in the world. You might have many old friends, mentors, and rivals in the house you serve, plus allies or enemies in other houses.
+
+Source: Eberron: Forge of the Artificer p. 26</text>
+    </trait>
+    <trait>
+      <name>Ability Scores: Strength, Intelligence, Charisma</name>
+      <text>A background lists three of your character's ability scores. Increase one by 2 and another one by 1, or increase all three by 1. None of these increases can raise a score above 20.</text>
+    </trait>
+    <trait>
+      <name>Feat: Lucky</name>
+      <text>You gain the following benefits.
+
+  Luck Points. You have a number of Luck Points equal to your Proficiency Bonus and can spend the points on the benefits below. You regain your expended Luck Points when you finish a Long Rest.
+
+  Advantage. When you roll a d20 for a D20 Test, you can spend 1 Luck Point to give yourself Advantage on the roll.
+
+  Disadvantage. When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.</text>
+    </trait>
+    <trait>
+      <name>Tool Proficiency: Artisan's Tools</name>
+      <text>You gain proficiency in your choice of Artisan's Tools.</text>
+    </trait>
+    <trait>
+      <name>Starting Equipment</name>
+      <text>Choose A or B:
+  • (A) Artisan's Tools (same as above), Fine Clothes, 20 GP
+  • (B) 50 GP</text>
+    </trait>
+  </background>
+  <background>
+    <name>House Agent: Thuranni [2024]</name>
+    <proficiency>Investigation, Persuasion</proficiency>
+    <trait>
+      <name>Description</name>
+      <text>You are connected to one of the dragonmarked houses, but you haven't (yet) manifested a dragonmark. You might be a member of the family by birth or an employee of the house with no familial connection. You've earned your living by doing the business of the house, serving as the hands, feet, and eyes of house leadership in the world. You might have many old friends, mentors, and rivals in the house you serve, plus allies or enemies in other houses.
+
+Source: Eberron: Forge of the Artificer p. 26</text>
+    </trait>
+    <trait>
+      <name>Ability Scores: Strength, Intelligence, Charisma</name>
+      <text>A background lists three of your character's ability scores. Increase one by 2 and another one by 1, or increase all three by 1. None of these increases can raise a score above 20.</text>
+    </trait>
+    <trait>
+      <name>Feat: Lucky</name>
+      <text>You gain the following benefits.
+
+  Luck Points. You have a number of Luck Points equal to your Proficiency Bonus and can spend the points on the benefits below. You regain your expended Luck Points when you finish a Long Rest.
+
+  Advantage. When you roll a d20 for a D20 Test, you can spend 1 Luck Point to give yourself Advantage on the roll.
+
+  Disadvantage. When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.</text>
+    </trait>
+    <trait>
+      <name>Tool Proficiency: Artisan's Tools</name>
+      <text>You gain proficiency in your choice of Artisan's Tools.</text>
+    </trait>
+    <trait>
+      <name>Starting Equipment</name>
+      <text>Choose A or B:
+  • (A) Artisan's Tools (same as above), Fine Clothes, 20 GP
+  • (B) 50 GP</text>
+    </trait>
+  </background>
+  <background>
+    <name>House Agent: Vadalis [2024]</name>
+    <proficiency>Investigation, Persuasion</proficiency>
+    <trait>
+      <name>Description</name>
+      <text>You are connected to one of the dragonmarked houses, but you haven't (yet) manifested a dragonmark. You might be a member of the family by birth or an employee of the house with no familial connection. You've earned your living by doing the business of the house, serving as the hands, feet, and eyes of house leadership in the world. You might have many old friends, mentors, and rivals in the house you serve, plus allies or enemies in other houses.
+
+Source: Eberron: Forge of the Artificer p. 26</text>
+    </trait>
+    <trait>
+      <name>Ability Scores: Strength, Intelligence, Charisma</name>
+      <text>A background lists three of your character's ability scores. Increase one by 2 and another one by 1, or increase all three by 1. None of these increases can raise a score above 20.</text>
+    </trait>
+    <trait>
+      <name>Feat: Lucky</name>
+      <text>You gain the following benefits.
+
+  Luck Points. You have a number of Luck Points equal to your Proficiency Bonus and can spend the points on the benefits below. You regain your expended Luck Points when you finish a Long Rest.
+
+  Advantage. When you roll a d20 for a D20 Test, you can spend 1 Luck Point to give yourself Advantage on the roll.
+
+  Disadvantage. When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.</text>
+    </trait>
+    <trait>
+      <name>Tool Proficiency: Artisan's Tools</name>
+      <text>You gain proficiency in your choice of Artisan's Tools.</text>
+    </trait>
+    <trait>
+      <name>Starting Equipment</name>
+      <text>Choose A or B:
+  • (A) Artisan's Tools (same as above), Fine Clothes, 20 GP
+  • (B) 50 GP</text>
+    </trait>
+  </background>
+  <background>
+    <name>House Cannith Heir: Human [2024]</name>
     <proficiency>Investigation, Sleight of Hand</proficiency>
     <trait>
       <name>Description</name>
@@ -188,7 +579,7 @@ Woodcarver's tools | 1 gp | 5 lb.</text>
     </trait>
   </background>
   <background>
-    <name>House Deneith Heir (Human) [5.5e]</name>
+    <name>House Deneith Heir: Human [2024]</name>
     <proficiency>Insight, Perception</proficiency>
     <trait>
       <name>Description</name>
@@ -238,7 +629,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Ghallanda Heir (Halfling) [5.5e]</name>
+    <name>House Ghallanda Heir: Halfling [2024]</name>
     <proficiency>Insight, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -287,7 +678,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Jorasco Heir (Halfling) [5.5e]</name>
+    <name>House Jorasco Heir: Halfling [2024]</name>
     <proficiency>Medicine, Stealth</proficiency>
     <trait>
       <name>Description</name>
@@ -338,7 +729,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Kundarak Heir (Dwarf) [5.5e]</name>
+    <name>House Kundarak Heir: Dwarf [2024]</name>
     <proficiency>Arcana, Investigation</proficiency>
     <trait>
       <name>Description</name>
@@ -387,7 +778,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Lyrandar Heir (Khoravar) [5.5e]</name>
+    <name>House Lyrandar Heir: Khoravar [2024]</name>
     <proficiency>Acrobatics, Nature</proficiency>
     <trait>
       <name>Description</name>
@@ -437,7 +828,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Medani Heir (Human) [5.5e]</name>
+    <name>House Medani Heir: Human [2024]</name>
     <proficiency>Insight, Investigation</proficiency>
     <trait>
       <name>Description</name>
@@ -486,7 +877,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Orien Heir (Human) [5.5e]</name>
+    <name>House Orien Heir: Human [2024]</name>
     <proficiency>Acrobatics, Athletics</proficiency>
     <trait>
       <name>Description</name>
@@ -536,7 +927,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Phiarlan Heir (Elf) [5.5e]</name>
+    <name>House Phiarlan Heir: Elf [2024]</name>
     <proficiency>Deception, Stealth</proficiency>
     <trait>
       <name>Description</name>
@@ -584,7 +975,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Sivis Heir (Gnome) [5.5e]</name>
+    <name>House Sivis Heir: Gnome [2024]</name>
     <proficiency>History, Perception</proficiency>
     <trait>
       <name>Description</name>
@@ -633,7 +1024,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Tharashk Heir (Orc) [5.5e]</name>
+    <name>House Tharashk Heir: Orc [2024]</name>
     <proficiency>Perception, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -682,7 +1073,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Thuranni Heir (Elf) [5.5e]</name>
+    <name>House Thuranni Heir: Elf [2024]</name>
     <proficiency>Performance, Stealth</proficiency>
     <trait>
       <name>Description</name>
@@ -730,7 +1121,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Vadalis Heir (Human) [5.5e]</name>
+    <name>House Vadalis Heir: Human [2024]</name>
     <proficiency>Animal Handling, Nature</proficiency>
     <trait>
       <name>Description</name>
@@ -779,7 +1170,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>Inquisitive [5.5e]</name>
+    <name>Inquisitive [2024]</name>
     <proficiency>Insight, Investigation</proficiency>
     <trait>
       <name>Description</name>

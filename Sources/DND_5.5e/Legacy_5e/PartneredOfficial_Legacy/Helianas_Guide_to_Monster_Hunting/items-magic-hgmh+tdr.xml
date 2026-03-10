@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Oceanic Claw</name>
+    <name>Oceanic Claw (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -25,7 +25,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Haladie</name>
+    <name>Oceanic Haladie (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -51,7 +51,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Magitech Firearm</name>
+    <name>Oceanic Magitech Firearm (TP)</name>
     <detail>firearm, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -84,7 +84,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Nunchuck</name>
+    <name>Oceanic Nunchuck (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -111,7 +111,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Tetherhook</name>
+    <name>Oceanic Tetherhook (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -138,7 +138,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Hand Tommybow</name>
+    <name>Oceanic Hand Tommybow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -171,7 +171,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Light Tommybow</name>
+    <name>Oceanic Light Tommybow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -202,7 +202,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Heavy Tommybow</name>
+    <name>Oceanic Heavy Tommybow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>

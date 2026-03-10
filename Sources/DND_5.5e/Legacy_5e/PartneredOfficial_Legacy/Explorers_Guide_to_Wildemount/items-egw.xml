@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Amulet of the Drunkard</name>
+    <name>Amulet of the Drunkard (TP)</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -11,7 +11,7 @@ Source:	Explorer's Guide to Wildemount p. 265 (Third Party)</text>
     <roll description="Heal">4d4+4</roll>
   </item>
   <item>
-    <name>Arcane Cannon</name>
+    <name>Arcane Cannon (TP)</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -37,7 +37,7 @@ Source:	Explorer's Guide to Wildemount p. 265 (Third Party)</text>
     <roll description="Poison Damage">4d10</roll>
   </item>
   <item>
-    <name>Battering Shield</name>
+    <name>Battering Shield (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -53,7 +53,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Black Sap</name>
+    <name>Black Sap (TP)</name>
     <type>P</type>
     <value>300.0</value>
     <text>This tarry substance harvested from the dark boughs of the death's head willow is a powerful intoxicant. It can be smoked as a concentrate or injected directly into the bloodstream. A creature subjected to a dose of black sap cannot be charmed or frightened for 1d6 hours.
@@ -64,7 +64,7 @@ Source:	Explorer's Guide to Wildemount p. 152 (Third Party)</text>
     <roll description="Hours">2d4</roll>
   </item>
   <item>
-    <name>Blade of Broken Mirrors</name>
+    <name>Blade of Broken Mirrors (TP)</name>
     <detail>dagger, artifact (requires attunement by a humanoid)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -112,7 +112,7 @@ Proficiency: simple, dagger
 Source:	Explorer's Guide to Wildemount p. 275 (Third Party)</text>
   </item>
   <item>
-    <name>Blasting Powder</name>
+    <name>Blasting Powder (TP)</name>
     <type>G</type>
     <text>This volatile alchemical powder comes in a small pouch. When ignited by an open flame or a fuse, the powder explodes. Each creature within 5 feet of the exploding pouch must make a DC 13 Dexterity saving throw, taking 3d6 bludgeoning damage on a failed save, or half as much damage on a successful one.
 	A character can bind multiple pouches of blasting powder together so they explode at the same time. Each additional pouch increases the damage by 1d6 (maximum of 10d6) and the blast radius by 5 feet (maximum of 20 feet).
@@ -129,7 +129,7 @@ Source:	Explorer's Guide to Wildemount p. 225 (Third Party)</text>
     <roll description="Damage Increase">1d6</roll>
   </item>
   <item>
-    <name>Blight Ichor</name>
+    <name>Blight Ichor (TP)</name>
     <type>P</type>
     <value>200.0</value>
     <text>This bitter chartreuse concoction is distilled from a fungus native to the Blightshore badlands. The sickly green liqueur harbors potent psychedelic properties. Provided it is neither a construct nor undead, a creature subjected to a dose of blight ichor gains advantage on Intelligence and Wisdom checks, as well as vulnerability to psychic damage, for 1 hour. For each dose of blight ichor consumed, the creature must succeed on a DC 15 Constitution saving throw or become poisoned for 1d6 hours and suffer the effects of a confusion spell for 1 minute. An undead creature subjected to a dose of blight ichor gains advantage on all Dexterity checks and is immune to the frightened condition for 1 hour.
@@ -138,7 +138,7 @@ Source:	Explorer's Guide to Wildemount p. 152 (Third Party)</text>
     <roll description="Hours">1d6</roll>
   </item>
   <item>
-    <name>Bloodaxe</name>
+    <name>Bloodaxe (TP)</name>
     <detail>greataxe, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -166,7 +166,7 @@ The bubble contains 1 hour of breathable air. The bubble regains all its expende
 
 Source:	Explorer's Guide to Wildemount p. 266 (Third Party)</text></item-->
   <item>
-    <name>Brooch of Living Essence</name>
+    <name>Brooch of Living Essence (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -175,7 +175,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party)</text></item-->
 Source:	Explorer's Guide to Wildemount p. 266 (Third Party)</text>
   </item>
   <item>
-    <name>Butcher's Bib</name>
+    <name>Butcher's Bib (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -187,7 +187,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party)</text>
 Source:	Explorer's Guide to Wildemount p. 266 (Third Party)</text>
   </item>
   <item>
-    <name>Coin of Delving</name>
+    <name>Coin of Delving (TP)</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -196,7 +196,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party)</text>
 Source:	Explorer's Guide to Wildemount p. 266 (Third Party)</text>
   </item>
   <item>
-    <name>Danoth's Visor</name>
+    <name>Danoth's Visor (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -218,7 +218,7 @@ Exalted: When Danoth's Visor reaches an exalted state, it gains the following pr
 Source:	Explorer's Guide to Wildemount p. 270 (Third Party)</text>
   </item>
   <item>
-    <name>Dispelling Stone</name>
+    <name>Dispelling Stone (TP)</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -227,7 +227,7 @@ Source:	Explorer's Guide to Wildemount p. 270 (Third Party)</text>
 Source:	Explorer's Guide to Wildemount p. 266 (Third Party)</text>
   </item>
   <item>
-    <name>Duskcrusher</name>
+    <name>Duskcrusher (TP)</name>
     <detail>warhammer, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -250,7 +250,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party)</text>
     <roll description="Radiant Damage">1d8</roll>
   </item>
   <item>
-    <name>Dust of Deliciousness</name>
+    <name>Dust of Deliciousness (TP)</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -259,7 +259,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party)</text>
 Source:	Explorer's Guide to Wildemount p. 267 (Third Party)</text>
   </item>
   <item>
-    <name>Explosive Seed</name>
+    <name>Explosive Seed (TP)</name>
     <type>G</type>
     <text>This acorn-sized sphere of brass contains a small amount of blasting powder and a clockwork trigger. An explosive seed can be thrown up to 30 feet as an action, detonating on impact. Each creature within 5 feet of the exploding seed must make a DC 10 Dexterity saving throw, taking 1d8 bludgeoning damage on a failed save, or half as much damage on a successful one.
 
@@ -267,7 +267,7 @@ Source:	Explorer's Guide to Wildemount p. 225 (Third Party)</text>
     <roll description="Bludgeoning Damage">1d8</roll>
   </item>
   <item>
-    <name>Goggles of Object Reading</name>
+    <name>Goggles of Object Reading (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -277,7 +277,7 @@ Source:	Explorer's Guide to Wildemount p. 225 (Third Party)</text>
 Source:	Explorer's Guide to Wildemount p. 267 (Third Party)</text>
   </item>
   <item>
-    <name>Grimoire Infinitus</name>
+    <name>Grimoire Infinitus (TP)</name>
     <detail>legendary (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -300,7 +300,7 @@ Exalted: When the Grimoire Infinitus reaches an exalted state, it gains the foll
 Source:	Explorer's Guide to Wildemount p. 271 (Third Party)</text>
   </item>
   <item>
-    <name>Grovelthrash</name>
+    <name>Grovelthrash (TP)</name>
     <detail>warhammer, artifact (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -344,7 +344,7 @@ Source:	Explorer's Guide to Wildemount p. 275 (Third Party)</text>
     <roll description="Psychic Damage">1d6</roll>
   </item>
   <item>
-    <name>Hide of the Feral Guardian</name>
+    <name>Hide of the Feral Guardian (TP)</name>
     <detail>studded leather armor, legendary (requires attunement)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -374,7 +374,7 @@ Exalted: When the armor reaches an exalted state, it gains the following propert
 Source:	Explorer's Guide to Wildemount p. 271 (Third Party)</text>
   </item>
   <item>
-    <name>Hunter's Coat</name>
+    <name>Hunter's Coat (TP)</name>
     <detail>leather armor, very rare (requires attunement)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -391,7 +391,7 @@ Source:	Explorer's Guide to Wildemount p. 267 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Infiltrator's Key</name>
+    <name>Infiltrator's Key (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -415,7 +415,7 @@ Exalted: When the Infiltrator's Key reaches an exalted state, it gains the follo
 Source:	Explorer's Guide to Wildemount p. 272 (Third Party)</text>
   </item>
   <item>
-    <name>Lash of Shadows</name>
+    <name>Lash of Shadows (TP)</name>
     <detail>whip, artifact (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -461,7 +461,7 @@ Source:	Explorer's Guide to Wildemount p. 276 (Third Party)</text>
     <roll description="Poison Damage">3d6</roll>
   </item>
   <item>
-    <name>Luxon Beacon</name>
+    <name>Luxon Beacon (TP)</name>
     <detail>legendary</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -476,7 +476,7 @@ Soul Snare: If a follower of the Luxon who has undergone a ritual of consecution
 Source:	Explorer's Guide to Wildemount p. 268 (Third Party)</text>
   </item>
   <item>
-    <name>Mace of the Black Crown</name>
+    <name>Mace of the Black Crown (TP)</name>
     <detail>artifact (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -518,7 +518,7 @@ Source:	Explorer's Guide to Wildemount p. 276 (Third Party)</text>
     <roll description="Fire Damage">3d6</roll>
   </item>
   <item>
-    <name>Moorbounder</name>
+    <name>Moorbounder (TP)</name>
     <detail>mount</detail>
     <type>G</type>
     <value>400.0</value>
@@ -528,7 +528,7 @@ Source:	Explorer's Guide to Wildemount p. 276 (Third Party)</text>
 Source:	Explorer's Guide to Wildemount p. 132 (Third Party)</text>
   </item>
   <item>
-    <name>Muroosa Balm</name>
+    <name>Muroosa Balm (TP)</name>
     <type>P</type>
     <value>100.0</value>
     <text>This paste made from the muroosa bush is known to help prevent sunburn, but it is also a fire retardant. After spending 1 minute applying a quarter pint of muroosa balm to your skin, you gain resistance against fire damage for 1 hour.
@@ -537,7 +537,7 @@ Source:	Explorer's Guide to Wildemount p. 132 (Third Party)</text>
 Source:	Explorer's Guide to Wildemount p. 70 (Third Party)</text>
   </item>
   <item>
-    <name>Needle of Mending</name>
+    <name>Needle of Mending (TP)</name>
     <detail>dagger, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -564,7 +564,7 @@ Source:	Explorer's Guide to Wildemount p. 268 (Third Party)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Nightfall Pearl</name>
+    <name>Nightfall Pearl (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -573,7 +573,7 @@ Source:	Explorer's Guide to Wildemount p. 268 (Third Party)</text>
 Source:	Explorer's Guide to Wildemount p. 268 (Third Party)</text>
   </item>
   <item>
-    <name>Olisuba Leaf</name>
+    <name>Olisuba Leaf (TP)</name>
     <type>P</type>
     <value>50.0</value>
     <text>These dried leaves of the Olisuba tree, when steeped to make a tea, can help a body recover from strenuous activity. If you drink a dose of Olisuba tea during a long rest, your exhaustion level is reduced by 2 instead of 1 at the end of that long rest.
@@ -581,7 +581,7 @@ Source:	Explorer's Guide to Wildemount p. 268 (Third Party)</text>
 Source:	Explorer's Guide to Wildemount p. 70 (Third Party)</text>
   </item>
   <item>
-    <name>Orb of the Veil</name>
+    <name>Orb of the Veil (TP)</name>
     <detail>very rare, cursed (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -599,7 +599,7 @@ Curse: The orb is cursed, and becoming attuned to it extends the curse to you. A
 Source:	Explorer's Guide to Wildemount p. 268 (Third Party)</text>
   </item>
   <item>
-    <name>Potion of Maximum Power</name>
+    <name>Potion of Maximum Power (TP)</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -609,7 +609,7 @@ Source:	Explorer's Guide to Wildemount p. 268 (Third Party)</text>
 Source:	Explorer's Guide to Wildemount p. 268 (Third Party)</text>
   </item>
   <item>
-    <name>Potion of Possibility</name>
+    <name>Potion of Possibility (TP)</name>
     <detail>very rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -621,7 +621,7 @@ Source:	Explorer's Guide to Wildemount p. 268 (Third Party)</text>
 Source:	Explorer's Guide to Wildemount p. 268 (Third Party)</text>
   </item>
   <item>
-    <name>Pride Silk</name>
+    <name>Pride Silk (TP)</name>
     <type>G</type>
     <weight>1</weight>
     <value>100.0</value>
@@ -630,7 +630,7 @@ Source:	Explorer's Guide to Wildemount p. 268 (Third Party)</text>
 Source:	Explorer's Guide to Wildemount p. 103 (Third Party)</text>
   </item>
   <item>
-    <name>Pride Silk Outfit</name>
+    <name>Pride Silk Outfit (TP)</name>
     <type>LA</type>
     <weight>4</weight>
     <value>500.0</value>
@@ -640,7 +640,7 @@ Source:	Explorer's Guide to Wildemount p. 103 (Third Party)</text>
 Source:	Explorer's Guide to Wildemount p. 103 (Third Party)</text>
   </item>
   <item>
-    <name>Reincarnation Dust</name>
+    <name>Reincarnation Dust (TP)</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -649,7 +649,7 @@ Source:	Explorer's Guide to Wildemount p. 103 (Third Party)</text>
 Source:	Explorer's Guide to Wildemount p. 268 (Third Party)</text>
   </item>
   <item>
-    <name>Ring of Obscuring</name>
+    <name>Ring of Obscuring (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -659,7 +659,7 @@ Source:	Explorer's Guide to Wildemount p. 269 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Ring of Temporal Salvation</name>
+    <name>Ring of Temporal Salvation (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -669,7 +669,7 @@ Source:	Explorer's Guide to Wildemount p. 269 (Third Party)</text>
     <roll description="Hit Points">3d6+%3</roll>
   </item>
   <item>
-    <name>Rod of Retribution</name>
+    <name>Rod of Retribution (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>RD</type>
     <magic>YES</magic>
@@ -681,7 +681,7 @@ Source:	Explorer's Guide to Wildemount p. 269 (Third Party)</text>
     <roll description="Lightning Damage">2d10</roll>
   </item>
   <item>
-    <name>Ruin's Wake</name>
+    <name>Ruin's Wake (TP)</name>
     <detail>spear, artifact (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -730,7 +730,7 @@ Source:	Explorer's Guide to Wildemount p. 277 (Third Party)</text>
     <roll description="Lightning Damage">8d6</roll>
   </item>
   <item>
-    <name>Silken Spite</name>
+    <name>Silken Spite (TP)</name>
     <detail>rapier, artifact (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -774,7 +774,7 @@ Proficiency: martial, rapier
 Source:	Explorer's Guide to Wildemount p. 277 (Third Party)</text>
   </item>
   <item>
-    <name>Skyship (Vehicle)</name>
+    <name>Skyship (Vehicle) (TP)</name>
     <detail>vehicle (air)</detail>
     <type>G</type>
     <value>100000.0</value>
@@ -802,7 +802,7 @@ Ship Repair: Repairs to a damaged ship can be made while the vessel is berthed. 
 Source:	Explorer's Guide to Wildemount p. 72 (Third Party)</text>
   </item>
   <item>
-    <name>Soothsalts</name>
+    <name>Soothsalts (TP)</name>
     <type>P</type>
     <value>150.0</value>
     <text>Soothsalts are derived from a naturally occurring crystalline substance discovered throughout the wilds of the Miskath Strand. The crimson crystals have been mined from cavernous veins like those in the mouth of the Miskath Pit and found within smaller geode formations near sites ravaged by the Calamity. Soothsalts are consumed orally in lozenge-sized doses, and frequent users can be identified by the telltale crimson stain around their mouths. A creature subjected to a dose of soothsalts gains advantage on all Intelligence checks for 1d4 hours.
@@ -812,7 +812,7 @@ Source:	Explorer's Guide to Wildemount p. 152 (Third Party)</text>
     <roll description="Hours">1d4</roll>
   </item>
   <item>
-    <name>Spell Bottle</name>
+    <name>Spell Bottle (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -824,7 +824,7 @@ Source:	Explorer's Guide to Wildemount p. 152 (Third Party)</text>
 Source:	Explorer's Guide to Wildemount p. 269 (Third Party)</text>
   </item>
   <item>
-    <name>Staff of Dunamancy</name>
+    <name>Staff of Dunamancy (TP)</name>
     <detail>spellcasting focus, very rare (requires attunement by a wizard)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -847,7 +847,7 @@ Source:	Explorer's Guide to Wildemount p. 270 (Third Party)</text>
     <roll description="Recharge">1d6+4</roll>
   </item>
   <item>
-    <name>Staff of the Ivory Claw</name>
+    <name>Staff of the Ivory Claw (TP)</name>
     <detail>spellcasting focus, rare (requires attunement by a spellcaster)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -868,7 +868,7 @@ Source:	Explorer's Guide to Wildemount p. 270 (Third Party)</text>
     <roll description="Radiant Damage">3d6</roll>
   </item>
   <item>
-    <name>Stormgirdle</name>
+    <name>Stormgirdle (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -900,7 +900,7 @@ Source:	Explorer's Guide to Wildemount p. 273 (Third Party)</text>
     <roll description="Lightning Damage">5d6</roll>
   </item>
   <item>
-    <name>The Bloody End</name>
+    <name>The Bloody End (TP)</name>
     <detail>morningstar, artifact (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -944,7 +944,7 @@ Source:	Explorer's Guide to Wildemount p. 278 (Third Party)</text>
     <roll description="Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Theki Root</name>
+    <name>Theki Root (TP)</name>
     <type>P</type>
     <value>3.0</value>
     <text>This thick marsh root tastes bitter but is thought to aid digestive health. When you use an action to consume a dose, you gain advantage on saving throws against the effects of poisonous or toxic substances for 8 hours.
@@ -952,7 +952,7 @@ Source:	Explorer's Guide to Wildemount p. 278 (Third Party)</text>
 Source:	Explorer's Guide to Wildemount p. 70 (Third Party)</text>
   </item>
   <item>
-    <name>Verminshroud</name>
+    <name>Verminshroud (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -979,7 +979,7 @@ Source:	Explorer's Guide to Wildemount p. 273 (Third Party)</text>
     <roll description="Bludgeoning Damage">1d6</roll>
   </item>
   <item>
-    <name>Vox Seeker</name>
+    <name>Vox Seeker (TP)</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -988,7 +988,7 @@ Source:	Explorer's Guide to Wildemount p. 273 (Third Party)</text>
 Source:	Explorer's Guide to Wildemount p. 270 (Third Party)</text>
   </item>
   <item>
-    <name>Will of the Talon</name>
+    <name>Will of the Talon (TP)</name>
     <detail>war pick, artifact (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1041,7 +1041,7 @@ Source:	Explorer's Guide to Wildemount p. 279 (Third Party)</text>
     <roll>5d6</roll>
   </item>
   <item>
-    <name>Willowshade Oil</name>
+    <name>Willowshade Oil (TP)</name>
     <type>P</type>
     <value>30.0</value>
     <text>A dark blue oil can be extracted from the rare fruit of the willowshade plant. A creature can use its action to apply the oil to another creature that has been petrified for less than 1 minute, causing the petrified condition on that creature to end at the start of what would be that creature's next turn.
@@ -1049,7 +1049,7 @@ Source:	Explorer's Guide to Wildemount p. 279 (Third Party)</text>
 Source:	Explorer's Guide to Wildemount p. 70 (Third Party)</text>
   </item>
   <item>
-    <name>Wreath of the Prism</name>
+    <name>Wreath of the Prism (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>

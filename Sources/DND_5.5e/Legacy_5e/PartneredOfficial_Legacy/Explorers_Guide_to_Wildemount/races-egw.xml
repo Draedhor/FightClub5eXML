@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
-  <race>
-    <name>Dragonborn, Draconblood</name>
+  <!-- <race>
+    <name>Dragonborn: Draconblood (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Int +2, Cha +1</ability>
@@ -99,9 +99,9 @@ White | Cold | 15 ft. cone (Con. save)</text>
       <name>Languages</name>
       <text>You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.</text>
     </trait>
-  </race>
-  <race>
-    <name>Dragonborn, Ravenite</name>
+  </race> -->
+  <!-- <race>
+    <name>Dragonborn: Ravenite (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +2, Con +1</ability>
@@ -195,9 +195,9 @@ White | Cold | 15 ft. cone (Con. save)</text>
       <name>Languages</name>
       <text>You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.</text>
     </trait>
-  </race>
+  </race> -->
   <race>
-    <name>Elf, Pallid</name>
+    <name>Elf: Pallid (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex +2, Wis +1</ability>
@@ -296,7 +296,7 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Halfling, Lotusden</name>
+    <name>Halfling: Lotusden (Legacy)</name>
     <size>S</size>
     <speed>25</speed>
     <ability>Dex +2, Wis +1</ability>
@@ -389,8 +389,8 @@ Weight in pounds = 35 + your size modifie</text>
       <text>You can speak, read, and write Common and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.</text>
     </trait>
   </race>
-  <race>
-    <name>Orc (Wildemount)</name>
+   <race>
+    <name>Orc of Wildemount (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +2, Con +1</ability>
@@ -458,5 +458,5 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
       <name>Languages</name>
       <text>You can speak, read, and write Common and Orc.</text>
     </trait>
-  </race>
+  </race> 
 </compendium>

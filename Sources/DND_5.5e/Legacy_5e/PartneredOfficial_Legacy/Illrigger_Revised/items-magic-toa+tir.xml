@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>True Name Yklwa (Rare)</name>
+    <name>True Name Yklwa (Rare) (TP)</name>
     <detail>rare (requires attunement by an illrigger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -33,7 +33,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Yklwa (Very Rare)</name>
+    <name>True Name Yklwa (Very Rare) (TP)</name>
     <detail>very rare (requires attunement by an illrigger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -65,7 +65,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Yklwa (Legendary)</name>
+    <name>True Name Yklwa (Legendary) (TP)</name>
     <detail>legendary (requires attunement by an illrigger)</detail>
     <type>M</type>
     <magic>YES</magic>

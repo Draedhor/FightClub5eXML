@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
-  <race>
-    <name>Dragonborn, Gem</name>
+  <!-- <race>
+    <name>Dragonborn: Gem (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <proficiency />
@@ -70,5 +70,5 @@ You can use your Breath Weapon a number of times equal to your proficiency bonus
       <name>Languages</name>
       <text>You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.</text>
     </trait>
-  </race>
+  </race> -->
 </compendium>

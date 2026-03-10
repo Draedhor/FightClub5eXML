@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Claw</name>
+    <name>Claw (TP)</name>
     <detail>common</detail>
     <type>M</type>
     <weight>2</weight>
@@ -19,7 +19,7 @@ Proficiency: simple, claw
 Source:	Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Haladie</name>
+    <name>Haladie (TP)</name>
     <detail>common</detail>
     <type>M</type>
     <weight>2</weight>
@@ -39,7 +39,7 @@ Proficiency: martial, haladie
 Source:	Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Magitech Firearm</name>
+    <name>Magitech Firearm (TP)</name>
     <detail>firearm, common</detail>
     <type>R</type>
     <weight>3</weight>
@@ -66,7 +66,7 @@ Proficiency: firearms
 Source:	Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Nunchuck</name>
+    <name>Nunchuck (TP)</name>
     <detail>common</detail>
     <type>M</type>
     <weight>4</weight>
@@ -87,7 +87,7 @@ Proficiency: martial, nunchucks
 Source:	Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Tetherhook</name>
+    <name>Tetherhook (TP)</name>
     <detail>common</detail>
     <type>M</type>
     <property>R,S,2H,M</property>
@@ -106,7 +106,7 @@ Two-Handed: This weapon requires two hands to use. This property is relevant onl
 Source:	Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Hand Tommybow</name>
+    <name>Hand Tommybow (TP)</name>
     <detail>common</detail>
     <type>R</type>
     <weight>3</weight>
@@ -133,7 +133,7 @@ Proficiency: martial, hand tommybow
 Source:	Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Light Tommybow</name>
+    <name>Light Tommybow (TP)</name>
     <detail>common</detail>
     <type>R</type>
     <weight>5</weight>
@@ -158,7 +158,7 @@ Proficiency: martial, light tommybow
 Source:	Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Heavy Tommybow</name>
+    <name>Heavy Tommybow (TP)</name>
     <detail>common</detail>
     <type>R</type>
     <weight>18</weight>

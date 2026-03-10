@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Azorius Functionary</name>
+    <name>Azorius Functionary (Legacy)</name>
     <proficiency>Insight, Intimidation</proficiency>
     <trait>
       <name>Description</name>
@@ -109,7 +109,7 @@ An Azorius soldier or lawmage is a force for order, charged with fighting crime 
     </trait>
   </background>
   <background>
-    <name>Boros Legionnaire</name>
+    <name>Boros Legionnaire (Legacy)</name>
     <proficiency>Athletics, Intimidation</proficiency>
     <trait>
       <name>Description</name>
@@ -218,7 +218,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Dimir Operative</name>
+    <name>Dimir Operative (Legacy)</name>
     <proficiency>Deception, Stealth</proficiency>
     <trait>
       <name>Description</name>
@@ -330,7 +330,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Golgari Agent</name>
+    <name>Golgari Agent (Legacy)</name>
     <proficiency>Nature, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -443,7 +443,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Gruul Anarch</name>
+    <name>Gruul Anarch (Legacy)</name>
     <proficiency>Animal Handling, Athletics</proficiency>
     <trait>
       <name>Description</name>
@@ -554,7 +554,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Izzet Engineer</name>
+    <name>Izzet Engineer (Legacy)</name>
     <proficiency>Arcana, Investigation</proficiency>
     <trait>
       <name>Description</name>
@@ -667,7 +667,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Orzhov Representative</name>
+    <name>Orzhov Representative (Legacy)</name>
     <proficiency>Intimidation, Religion</proficiency>
     <trait>
       <name>Description</name>
@@ -777,7 +777,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Rakdos Cultist</name>
+    <name>Rakdos Cultist (Legacy)</name>
     <proficiency>Acrobatics, Performance</proficiency>
     <trait>
       <name>Description</name>
@@ -903,7 +903,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Selesnya Initiate</name>
+    <name>Selesnya Initiate (Legacy)</name>
     <proficiency>Nature, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -1014,7 +1014,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Simic Scientist</name>
+    <name>Simic Scientist (Legacy)</name>
     <proficiency>Arcana, Medicine</proficiency>
     <trait>
       <name>Description</name>

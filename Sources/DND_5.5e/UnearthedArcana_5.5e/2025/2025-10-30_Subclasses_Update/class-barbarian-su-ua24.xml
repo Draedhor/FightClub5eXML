@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Barbarian [5.5e]</name>
+    <name>Barbarian</name>
     <!-- Barbarian Subclass: Path of the Spiritual Guardian (UA) -->
     <autolevel level="3">
       <feature optional="YES">

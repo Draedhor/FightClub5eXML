@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Oceanic Battleaxe</name>
+    <name>Oceanic Battleaxe (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -22,7 +22,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Blowgun</name>
+    <name>Oceanic Blowgun (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -50,7 +50,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Club</name>
+    <name>Oceanic Club (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -70,7 +70,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Dagger</name>
+    <name>Oceanic Dagger (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -97,7 +97,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Dart</name>
+    <name>Oceanic Dart (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -122,7 +122,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Flail</name>
+    <name>Oceanic Flail (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -140,7 +140,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Glaive</name>
+    <name>Oceanic Glaive (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -164,7 +164,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Greataxe</name>
+    <name>Oceanic Greataxe (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -186,7 +186,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Greatclub</name>
+    <name>Oceanic Greatclub (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -206,7 +206,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Greatsword</name>
+    <name>Oceanic Greatsword (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -228,7 +228,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Halberd</name>
+    <name>Oceanic Halberd (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -252,7 +252,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Hand Crossbow</name>
+    <name>Oceanic Hand Crossbow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -282,7 +282,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Handaxe</name>
+    <name>Oceanic Handaxe (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -307,7 +307,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Heavy Crossbow</name>
+    <name>Oceanic Heavy Crossbow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -339,7 +339,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Javelin</name>
+    <name>Oceanic Javelin (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -362,7 +362,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Lance</name>
+    <name>Oceanic Lance (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -381,7 +381,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Light Crossbow</name>
+    <name>Oceanic Light Crossbow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -411,7 +411,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Light Hammer</name>
+    <name>Oceanic Light Hammer (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -436,7 +436,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Longbow</name>
+    <name>Oceanic Longbow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -466,7 +466,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Longsword</name>
+    <name>Oceanic Longsword (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -487,7 +487,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Mace</name>
+    <name>Oceanic Mace (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -505,7 +505,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Maul</name>
+    <name>Oceanic Maul (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -527,7 +527,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Morningstar</name>
+    <name>Oceanic Morningstar (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -545,7 +545,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Net</name>
+    <name>Oceanic Net (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -565,7 +565,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Pike</name>
+    <name>Oceanic Pike (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -589,7 +589,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Quarterstaff</name>
+    <name>Oceanic Quarterstaff (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -610,7 +610,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Rapier</name>
+    <name>Oceanic Rapier (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -630,7 +630,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Scimitar</name>
+    <name>Oceanic Scimitar (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -652,7 +652,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Shortbow</name>
+    <name>Oceanic Shortbow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -680,7 +680,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Shortsword</name>
+    <name>Oceanic Shortsword (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -702,7 +702,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Sickle</name>
+    <name>Oceanic Sickle (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -722,7 +722,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Sling</name>
+    <name>Oceanic Sling (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -748,7 +748,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Spear</name>
+    <name>Oceanic Spear (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -774,7 +774,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Trident</name>
+    <name>Oceanic Trident (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -800,7 +800,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic War Pick</name>
+    <name>Oceanic War Pick (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -818,7 +818,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Warhammer</name>
+    <name>Oceanic Warhammer (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -839,7 +839,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Whip</name>
+    <name>Oceanic Whip (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>

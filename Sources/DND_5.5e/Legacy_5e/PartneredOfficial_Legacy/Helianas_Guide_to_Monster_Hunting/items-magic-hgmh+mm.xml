@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Drow Claw +1</name>
+    <name>Drow Claw +1 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -24,7 +24,7 @@ Source:	Monster Manual (2014) p. 126,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Drow Haladie +1</name>
+    <name>Drow Haladie +1 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -49,7 +49,7 @@ Source:	Monster Manual (2014) p. 126,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Drow Magitech Firearm +1</name>
+    <name>Drow Magitech Firearm +1 (TP)</name>
     <detail>firearm, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -81,7 +81,7 @@ Source:	Monster Manual (2014) p. 126,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Drow Nunchuck +1</name>
+    <name>Drow Nunchuck +1 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -107,7 +107,7 @@ Source:	Monster Manual (2014) p. 126,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Drow Tetherhook +1</name>
+    <name>Drow Tetherhook +1 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -133,7 +133,7 @@ Source:	Monster Manual (2014) p. 126,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Drow Hand Tommybow +1</name>
+    <name>Drow Hand Tommybow +1 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -165,7 +165,7 @@ Source:	Monster Manual (2014) p. 126,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Drow Light Tommybow +1</name>
+    <name>Drow Light Tommybow +1 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -195,7 +195,7 @@ Source:	Monster Manual (2014) p. 126,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Drow Heavy Tommybow +1</name>
+    <name>Drow Heavy Tommybow +1 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>

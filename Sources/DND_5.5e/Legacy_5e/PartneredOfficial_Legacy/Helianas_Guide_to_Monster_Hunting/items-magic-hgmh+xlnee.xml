@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Chaos Claw</name>
+    <name>Chaos Claw (TP)</name>
     <detail>legendary</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -48,7 +48,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 63 (Homebrew),
     <roll description="Necrotic Damage">1d8</roll>
   </item>
   <item>
-    <name>Chaos Haladie</name>
+    <name>Chaos Haladie (TP)</name>
     <detail>legendary</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -97,7 +97,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 63 (Homebrew),
     <roll description="Necrotic Damage">1d8</roll>
   </item>
   <item>
-    <name>Chaos Magitech Firearm</name>
+    <name>Chaos Magitech Firearm (TP)</name>
     <detail>firearm, legendary</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -153,7 +153,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 63 (Homebrew),
     <roll description="Necrotic Damage">1d8</roll>
   </item>
   <item>
-    <name>Chaos Nunchuck</name>
+    <name>Chaos Nunchuck (TP)</name>
     <detail>legendary</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -203,7 +203,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 63 (Homebrew),
     <roll description="Necrotic Damage">1d8</roll>
   </item>
   <item>
-    <name>Chaos Tetherhook</name>
+    <name>Chaos Tetherhook (TP)</name>
     <detail>legendary</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -253,7 +253,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 63 (Homebrew),
     <roll description="Necrotic Damage">1d8</roll>
   </item>
   <item>
-    <name>Chaos Hand Tommybow</name>
+    <name>Chaos Hand Tommybow (TP)</name>
     <detail>legendary</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -309,7 +309,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 63 (Homebrew),
     <roll description="Necrotic Damage">1d8</roll>
   </item>
   <item>
-    <name>Chaos Light Tommybow</name>
+    <name>Chaos Light Tommybow (TP)</name>
     <detail>legendary</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -363,7 +363,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 63 (Homebrew),
     <roll description="Necrotic Damage">1d8</roll>
   </item>
   <item>
-    <name>Chaos Heavy Tommybow</name>
+    <name>Chaos Heavy Tommybow (TP)</name>
     <detail>legendary</detail>
     <type>R</type>
     <magic>YES</magic>

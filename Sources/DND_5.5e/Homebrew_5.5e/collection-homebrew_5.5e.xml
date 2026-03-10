@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <collection xmlns:xi="http://www.w3.org/2001/XInclude">
-  <xi:include pubdate="2025-01-06" source="Alternate Blood Hunter v2.1.2 (2024)" href="_LaserLlama/Alternate_Blood_Hunter24/source-abh24.xml" xpointer="xpointer(/source/collection/doc)" />
+  <!-- <xi:include pubdate="2025-01-06" source="Alternate Blood Hunter v2.1.2 (2024)" href="_LaserLlama/Alternate_Blood_Hunter24/source-abh24.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2025-01-06" source="Alternate Ranger v4.3.0 (2024)" href="_LaserLlama/Alternate_Ranger24/source-ll-ar.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include source="LaserLlama's Compendium of Spells" href="_LaserLlama/Compendium_of_Spells/source-spells-ll.xml" xpointer="xpointer(/source/collection/doc)" />
-  <xi:include source="Other Homebrew 2024" href="Misc/Other/source-hb24.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include source="Other Homebrew 2024" href="Misc/Other/source-hb24.xml" xpointer="xpointer(/source/collection/doc)" /> -->
+  <xi:include source="Barbarian: Totem of the Duck" href="_Matthew_Mercer/Barbarian_Totem_of_the_Duck_2024/source-btotd.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include source="Bard: College of the Maestro" href="_Matthew_Mercer/Bard_College_of_the_Maestro_2024/source-bard-mm.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include source="Blood Hunter" href="_Matthew_Mercer/Blood_Hunter_2024/source-bloodhunter-mm.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include source="Fighter: Gunslinger" href="_Matthew_Mercer/Gunslinger_2024/source-gunslinger-mm.xml" xpointer="xpointer(/source/collection/doc)" />
+  <!--<xi:include source="Matther Mercer's Firearms and Magic Items" href="_Matthew_Mercer/Firearms/source-items-mm.xml" xpointer="xpointer(/source/collection/doc)" /> -->
 </collection>

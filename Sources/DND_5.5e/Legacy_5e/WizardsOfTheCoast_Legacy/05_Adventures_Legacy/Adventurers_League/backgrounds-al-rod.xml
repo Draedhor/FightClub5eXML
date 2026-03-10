@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Cormanthor Refugee</name>
+    <name>Cormanthor Refugee (Legacy)</name>
     <proficiency>Nature, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -63,7 +63,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Gate Urchin</name>
+    <name>Gate Urchin (Legacy)</name>
     <proficiency>Deception, Sleight of Hand</proficiency>
     <trait>
       <name>Description</name>
@@ -124,7 +124,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Hillsfar Merchant</name>
+    <name>Hillsfar Merchant (Legacy)</name>
     <proficiency>Insight, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -189,7 +189,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Hillsfar Smuggler</name>
+    <name>Hillsfar Smuggler (Legacy)</name>
     <proficiency>Perception, Stealth</proficiency>
     <trait>
       <name>Description</name>
@@ -252,7 +252,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Secret Identity</name>
+    <name>Secret Identity (Legacy)</name>
     <proficiency>Deception, Stealth</proficiency>
     <trait>
       <name>Description</name>
@@ -315,7 +315,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Shade Fanatic</name>
+    <name>Shade Fanatic (Legacy)</name>
     <proficiency>Deception, Intimidation</proficiency>
     <trait>
       <name>Description</name>
@@ -378,7 +378,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Trade Sheriff</name>
+    <name>Trade Sheriff (Legacy)</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>

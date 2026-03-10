@@ -223,7 +223,7 @@ Source:	Grim Hollow: Player's Guide p. 11 (Third Party)</text>
       <text>You can speak, read, and write three languages of your choice.</text>
     </trait>
   </race>
-  <race>
+  <!-- <race>
     <name>Downcast (TP)</name>
     <size>M</size>
     <speed>30</speed>
@@ -270,9 +270,9 @@ Source:	Grim Hollow: Player's Guide p. 12 (Third Party)</text>
       <name>Languages</name>
       <text>You can speak, read, and write Celestial and one other language of your choice.</text>
     </trait>
-  </race>
+  </race> -->
   <race>
-    <name>Downcast, Aurelian (TP)</name>
+    <name>Downcast: Aurelian (TP)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Wis +2, Cha +1</ability>
@@ -326,7 +326,7 @@ Source:	Grim Hollow: Player's Guide p. 13 (Third Party)</text>
     </trait>
   </race>
   <race>
-    <name>Downcast, Ulmyrite (TP)</name>
+    <name>Downcast: Ulmyrite (TP)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Wis +2, Int +1</ability>
@@ -379,7 +379,7 @@ Source:	Grim Hollow: Player's Guide p. 13 (Third Party)</text>
     </trait>
   </race>
   <race>
-    <name>Downcast, Maliganti (TP)</name>
+    <name>Downcast: Maliganti (TP)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Wis +2, Str +1</ability>
@@ -432,7 +432,7 @@ Source:	Grim Hollow: Player's Guide p. 13 (Third Party)</text>
     </trait>
   </race>
   <race>
-    <name>Downcast, Galtian (TP)</name>
+    <name>Downcast: Galtian (TP)</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Wis +2, Con +1</ability>

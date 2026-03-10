@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Boggart [5.5e]</name>
+    <name>Boggart</name>
     <size>S</size>
     <speed>30</speed>
     <trait category="description">
@@ -49,7 +49,7 @@ Source:	Lorwyn: First Light</text>
     </trait>
   </race>
   <race>
-    <name>Elf, Lorwyn [5.5e]</name>
+    <name>Elf of Lorwyn</name>
     <size>M</size>
     <speed>30</speed>
     <trait category="description">
@@ -101,7 +101,7 @@ Level 5 | Silence</text>
     </trait>
   </race>
   <race>
-    <name>Elf, Shadowmoor [5.5e]</name>
+    <name>Elf of Shadowmoor</name>
     <size>M</size>
     <speed>30</speed>
     <trait category="description">
@@ -153,7 +153,7 @@ Level 5 | Gentle Repose</text>
     </trait>
   </race>
   <race>
-    <name>Faerie, Lorwyn [5.5e]</name>
+    <name>Faerie of Lorwyn</name>
     <size>S</size>
     <speed>30</speed>
     <trait category="description">
@@ -186,7 +186,7 @@ Source:	Lorwyn: First Light</text>
     </trait>
   </race>
   <race>
-    <name>Faerie, Shadowmoor [5.5e]</name>
+    <name>Faerie of Shadowmoor</name>
     <size>S</size>
     <speed>30</speed>
     <trait category="description">
@@ -223,7 +223,7 @@ Source:	Lorwyn: First Light</text>
     </trait>
   </race>
   <race>
-    <name>Flamekin [5.5e]</name>
+    <name>Flamekin</name>
     <size>M</size>
     <speed>30</speed>
     <resist>fire</resist>
@@ -266,7 +266,7 @@ Source:	Lorwyn: First Light</text>
     </trait>
   </race>
   <race>
-    <name>Kithkin, Lorwyn [5.5e]</name>
+    <name>Kithkin of Lorwyn</name>
     <size>S</size>
     <speed>30</speed>
     <trait category="description">
@@ -306,7 +306,7 @@ Source:	Lorwyn: First Light</text>
     </trait>
   </race>
   <race>
-    <name>Kithkin, Shadowmoor [5.5e]</name>
+    <name>Kithkin of Shadowmoor</name>
     <size>S</size>
     <speed>30</speed>
     <trait category="description">
@@ -350,7 +350,7 @@ Source:	Lorwyn: First Light</text>
     </trait>
   </race>
   <race>
-    <name>Changeling, Lorwyn [5.5e]</name>
+    <name>Changeling of Lorwyn</name>
     <size>M</size>
     <speed>30</speed>
     <proficiency>Performance</proficiency>
@@ -388,7 +388,7 @@ Source:	Lorwyn: First Light</text>
     </trait>
   </race>
   <race>
-    <name>Rimekin [5.5e]</name>
+    <name>Rimekin</name>
     <size>M</size>
     <speed>30</speed>
     <resist>cold</resist>

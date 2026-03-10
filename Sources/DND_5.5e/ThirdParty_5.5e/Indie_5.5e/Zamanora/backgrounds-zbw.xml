@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Bounty Hunter (HB) [5.5e]</name>
+    <name>Bounty Hunter (TP) [2024]</name>
     <proficiency>Investigation, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -38,7 +38,7 @@ Three-Dragon Ante set | 1 gp | -</text>
     </trait>
   </background>
   <background>
-    <name>Hedge Mage (HB) [5.5e]</name>
+    <name>Hedge Mage (TP) [2024]</name>
     <proficiency>Arcana, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -88,7 +88,7 @@ Woodcarver's tools | 1 gp | 5 lb.</text>
     </trait>
   </background>
   <background>
-    <name>Kupalen'ka (HB) [5.5e]</name>
+    <name>Kupalen'ka (TP) [2024]</name>
     <proficiency>Insight, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -131,7 +131,7 @@ Viol | 30 gp | 1 lb.</text>
     </trait>
   </background>
   <background>
-    <name>Lorekeeper (HB) [5.5e]</name>
+    <name>Lorekeeper (TP) [2024]</name>
     <proficiency>History, Performance</proficiency>
     <trait>
       <name>Description</name>
@@ -176,7 +176,7 @@ Viol | 30 gp | 1 lb.</text>
     </trait>
   </background>
   <background>
-    <name>Remembrancer (HB) [5.5e]</name>
+    <name>Remembrancer (TP) [2024]</name>
     <proficiency>History, Investigation</proficiency>
     <trait>
       <name>Description</name>
@@ -206,7 +206,7 @@ Source:	Zamanora: Ballad of the Witch p. 32 (Homebrew)</text>
     </trait>
   </background>
   <background>
-    <name>Veilborn (HB) [5.5e]</name>
+    <name>Veilborn (TP) [2024]</name>
     <proficiency>Arcana, Deception, Nature, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -260,7 +260,7 @@ Woodcarver's tools | 1 gp | 5 lb.</text>
     </trait>
   </background>
   <background>
-    <name>Woebringer (HB) [5.5e]</name>
+    <name>Woebringer (TP) [2024]</name>
     <proficiency>Deception, Stealth, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -306,7 +306,7 @@ Woodcarver's tools | 1 gp | 5 lb.</text>
     </trait>
   </background>
   <background>
-    <name>Epic Origin: The Crone's Progeny (HB) [5.5e]</name>
+    <name>The Crone's Progeny (TP) [2024]</name>
     <proficiency>Arcana, Nature</proficiency>
     <trait>
       <name>Description</name>
@@ -327,7 +327,7 @@ Source:	Zamanora: Ballad of the Witch p. 36 (Homebrew)</text>
       <text>A background lists three of your character's ability scores. Increase one by 2 and another one by 1, or increase all three by 1. None of these increases can raise a score above 20.</text>
     </trait>
     <trait>
-      <name>Feat: The Crone's Own</name>
+      <name>Epic Origin: The Crone's Own</name>
       <text>Epic Origin Feats are reserved solely for Epic Origins. You gain the following benefits.
 
 	Homunculus. When you walk within 15 feet of an area where a spell was cast within the last 24 hours, you can sense its school of magic. If multiple spells were cast, you sense the school of magic of the most powerful spell.
@@ -346,7 +346,7 @@ Source:	Zamanora: Ballad of the Witch p. 36 (Homebrew)</text>
     </trait>
   </background>
   <background>
-    <name>Epic Origin: The Drangue (HB) [5.5e]</name>
+    <name>The Drangue (TP) [2024]</name>
     <proficiency>Athletics, Acrobatics</proficiency>
     <trait>
       <name>Description</name>
@@ -367,7 +367,7 @@ Source:	Zamanora: Ballad of the Witch p. 38 (Homebrew)</text>
       <text>A background lists three of your character's ability scores. Increase one by 2 and another one by 1, or increase all three by 1. None of these increases can raise a score above 20.</text>
     </trait>
     <trait>
-      <name>Feat: Dragonslayer</name>
+      <name>Epic Origin: Dragonslayer</name>
       <text>Epic Origin Feats are reserved solely for Epic Origins. You gain the following benefits.
 
 	Apex Predator. Whenever you deal damage to a Dragon with an attack or spell, you can add your Proficiency Bonus to one damage roll.
@@ -406,7 +406,7 @@ Woodcarver's tools | 1 gp | 5 lb.</text>
     </trait>
   </background>
   <background>
-    <name>Epic Origin: The Elden Soul (HB) [5.5e]</name>
+    <name>The Elden Soul (TP) [2024]</name>
     <proficiency>Insight, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -427,7 +427,7 @@ Source:	Zamanora: Ballad of the Witch p. 40 (Homebrew)</text>
       <text>A background lists three of your character's ability scores. Increase one by 2 and another one by 1, or increase all three by 1. None of these increases can raise a score above 20.</text>
     </trait>
     <trait>
-      <name>Feat: Inner Compass</name>
+      <name>Epic Origin: Inner Compass</name>
       <text>Epic Origin Feats are reserved solely for Epic Origins. You gain the following benefits.
 
 	Adventure Sense. You have Advantage on D20 Tests made to collect information about creatures, locations or items of legendary importance.

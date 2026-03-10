@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Lycan Battleaxe</name>
+    <name>Lycan Battleaxe (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -22,7 +22,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Blowgun</name>
+    <name>Lycan Blowgun (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -50,7 +50,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Club</name>
+    <name>Lycan Club (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -70,7 +70,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Dagger</name>
+    <name>Lycan Dagger (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -97,7 +97,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Dart</name>
+    <name>Lycan Dart (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -122,7 +122,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Flail</name>
+    <name>Lycan Flail (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -140,7 +140,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Glaive</name>
+    <name>Lycan Glaive (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -164,7 +164,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Greataxe</name>
+    <name>Lycan Greataxe (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -186,7 +186,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Greatclub</name>
+    <name>Lycan Greatclub (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -206,7 +206,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Greatsword</name>
+    <name>Lycan Greatsword (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -228,7 +228,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Halberd</name>
+    <name>Lycan Halberd (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -252,7 +252,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Hand Crossbow</name>
+    <name>Lycan Hand Crossbow (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -282,7 +282,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Handaxe</name>
+    <name>Lycan Handaxe (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -307,7 +307,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Heavy Crossbow</name>
+    <name>Lycan Heavy Crossbow (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -339,7 +339,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Javelin</name>
+    <name>Lycan Javelin (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -362,7 +362,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Lance</name>
+    <name>Lycan Lance (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -381,7 +381,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Light Crossbow</name>
+    <name>Lycan Light Crossbow (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -411,7 +411,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Light Hammer</name>
+    <name>Lycan Light Hammer (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -436,7 +436,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Longbow</name>
+    <name>Lycan Longbow (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -466,7 +466,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Longsword</name>
+    <name>Lycan Longsword (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -487,7 +487,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Mace</name>
+    <name>Lycan Mace (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -505,7 +505,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Maul</name>
+    <name>Lycan Maul (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -527,7 +527,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Morningstar</name>
+    <name>Lycan Morningstar (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -545,7 +545,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Net</name>
+    <name>Lycan Net (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -565,7 +565,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Pike</name>
+    <name>Lycan Pike (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -589,7 +589,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Quarterstaff</name>
+    <name>Lycan Quarterstaff (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -610,7 +610,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Rapier</name>
+    <name>Lycan Rapier (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -630,7 +630,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Scimitar</name>
+    <name>Lycan Scimitar (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -652,7 +652,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Shortbow</name>
+    <name>Lycan Shortbow (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -680,7 +680,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Shortsword</name>
+    <name>Lycan Shortsword (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -702,7 +702,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Sickle</name>
+    <name>Lycan Sickle (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -722,7 +722,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Sling</name>
+    <name>Lycan Sling (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -748,7 +748,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Spear</name>
+    <name>Lycan Spear (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -774,7 +774,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Trident</name>
+    <name>Lycan Trident (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -800,7 +800,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan War Pick</name>
+    <name>Lycan War Pick (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -818,7 +818,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Warhammer</name>
+    <name>Lycan Warhammer (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -839,7 +839,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Whip</name>
+    <name>Lycan Whip (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>

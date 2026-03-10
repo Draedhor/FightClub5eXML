@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Corpse Slayer Claw</name>
+    <name>Corpse Slayer Claw (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -26,7 +26,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party),
     <roll>1d8</roll>
   </item>
   <item>
-    <name>Corpse Slayer Haladie</name>
+    <name>Corpse Slayer Haladie (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -53,7 +53,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party),
     <roll>1d8</roll>
   </item>
   <item>
-    <name>Corpse Slayer Magitech Firearm</name>
+    <name>Corpse Slayer Magitech Firearm (TP)</name>
     <detail>firearm, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -87,7 +87,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party),
     <roll>1d8</roll>
   </item>
   <item>
-    <name>Corpse Slayer Nunchuck</name>
+    <name>Corpse Slayer Nunchuck (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -115,7 +115,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party),
     <roll>1d8</roll>
   </item>
   <item>
-    <name>Corpse Slayer Tetherhook</name>
+    <name>Corpse Slayer Tetherhook (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -143,7 +143,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party),
     <roll>1d8</roll>
   </item>
   <item>
-    <name>Corpse Slayer Hand Tommybow</name>
+    <name>Corpse Slayer Hand Tommybow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -177,7 +177,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party),
     <roll>1d8</roll>
   </item>
   <item>
-    <name>Corpse Slayer Light Tommybow</name>
+    <name>Corpse Slayer Light Tommybow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -209,7 +209,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party),
     <roll>1d8</roll>
   </item>
   <item>
-    <name>Corpse Slayer Heavy Tommybow</name>
+    <name>Corpse Slayer Heavy Tommybow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -243,7 +243,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party),
     <roll>1d8</roll>
   </item>
   <item>
-    <name>Claw of Certain Death</name>
+    <name>Claw of Certain Death (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -264,7 +264,7 @@ Source:	Explorer's Guide to Wildemount p. 270 (Third Party),
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Haladie of Certain Death</name>
+    <name>Haladie of Certain Death (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -287,7 +287,7 @@ Source:	Explorer's Guide to Wildemount p. 270 (Third Party),
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Magitech Firearm of Certain Death</name>
+    <name>Magitech Firearm of Certain Death (TP)</name>
     <detail>firearm, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -317,7 +317,7 @@ Source:	Explorer's Guide to Wildemount p. 270 (Third Party),
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Nunchuck of Certain Death</name>
+    <name>Nunchuck of Certain Death (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -341,7 +341,7 @@ Source:	Explorer's Guide to Wildemount p. 270 (Third Party),
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Tetherhook of Certain Death</name>
+    <name>Tetherhook of Certain Death (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -365,7 +365,7 @@ Source:	Explorer's Guide to Wildemount p. 270 (Third Party),
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Hand Tommybow of Certain Death</name>
+    <name>Hand Tommybow of Certain Death (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -395,7 +395,7 @@ Source:	Explorer's Guide to Wildemount p. 270 (Third Party),
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Light Tommybow of Certain Death</name>
+    <name>Light Tommybow of Certain Death (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -423,7 +423,7 @@ Source:	Explorer's Guide to Wildemount p. 270 (Third Party),
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Heavy Tommybow of Certain Death</name>
+    <name>Heavy Tommybow of Certain Death (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>

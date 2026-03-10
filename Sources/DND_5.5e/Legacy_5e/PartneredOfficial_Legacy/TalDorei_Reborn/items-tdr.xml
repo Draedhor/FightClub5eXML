@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Boots of Haste</name>
+    <name>Boots of Haste (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -10,7 +10,7 @@
 Source:	Tal'Dorei Campaign Setting: Reborn p. 194 (Third Party)</text>
   </item>
   <item>
-    <name>Boots of the Vigilant</name>
+    <name>Boots of the Vigilant (TP)</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -20,7 +20,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 194 (Third Party)</text>
     <roll description="Add to Initiative">1d8</roll>
   </item>
   <item>
-    <name>Cataclysm Bolts</name>
+    <name>Cataclysm Bolts (TP)</name>
     <detail>crossbow bolts, very rare</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -44,7 +44,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 194 (Third Party)</text>
     <roll description="Piercing Damage">1d6</roll>
   </item>
   <item>
-    <name>Coat of the Crest</name>
+    <name>Coat of the Crest (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -56,7 +56,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 194 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Corecut Dagger</name>
+    <name>Corecut Dagger (TP)</name>
     <detail>very rare, cursed (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -84,7 +84,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 195 (Third Party)</text>
     <roll description="Necrotic Damage">3d6</roll>
   </item>
   <item>
-    <name>Dagger of Denial</name>
+    <name>Dagger of Denial (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -102,7 +102,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 195 (Third Party)</text>
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Doublet of Dramatic Demise</name>
+    <name>Doublet of Dramatic Demise (TP)</name>
     <detail>clothes, common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -111,7 +111,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 195 (Third Party)</text>
 Source:	Tal'Dorei Campaign Setting: Reborn p. 195 (Third Party)</text>
   </item>
   <item>
-    <name>Echo Stone</name>
+    <name>Echo Stone (TP)</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -120,7 +120,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 195 (Third Party)</text>
 Source:	Tal'Dorei Campaign Setting: Reborn p. 195 (Third Party)</text>
   </item>
   <item>
-    <name>Graz'tchar, The Decadent End</name>
+    <name>Graz'tchar, The Decadent End (TP)</name>
     <detail>greatsword, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -152,7 +152,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 195 (Third Party)</text>
     <roll description="Acid Damage">10d6</roll>
   </item>
   <item>
-    <name>Inescapable Lash</name>
+    <name>Inescapable Lash (TP)</name>
     <detail>whip, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -174,7 +174,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 196 (Third Party)</text>
     <roll description="DC">8+%8+%1</roll>
   </item>
   <item>
-    <name>Magician's Judge</name>
+    <name>Magician's Judge (TP)</name>
     <detail>greatsword, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -194,7 +194,7 @@ Proficiency: martial, greatsword
 Source:	Tal'Dorei Campaign Setting: Reborn p. 196 (Third Party)</text>
   </item>
   <item>
-    <name>Mirror of Infinite Transpondence</name>
+    <name>Mirror of Infinite Transpondence (TP)</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -218,7 +218,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 196 (Third Party)</text>
     <roll description="Mirror Location">1d8</roll>
   </item>
   <item>
-    <name>Raven's Slumber</name>
+    <name>Raven's Slumber (TP)</name>
     <detail>pendant, very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -229,7 +229,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 196 (Third Party)</text>
 Source:	Tal'Dorei Campaign Setting: Reborn p. 197 (Third Party)</text>
   </item>
   <item>
-    <name>Rod of Mercurial Form</name>
+    <name>Rod of Mercurial Form (TP)</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -238,7 +238,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 197 (Third Party)</text>
 Source:	Tal'Dorei Campaign Setting: Reborn p. 197 (Third Party)</text>
   </item>
   <item>
-    <name>Stormrider Boots</name>
+    <name>Stormrider Boots (TP)</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -256,7 +256,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 197 (Third Party)</text>
     <roll description="Lightning Damage">3d8</roll>
   </item>
   <item>
-    <name>Summer's Dance</name>
+    <name>Summer's Dance (TP)</name>
     <detail>scimitar, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -277,7 +277,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 197 (Third Party)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Tinkertop Boltblaster 1000</name>
+    <name>Tinkertop Boltblaster 1000 (TP)</name>
     <detail>hand crossbow, very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -303,7 +303,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 197 (Third Party)</text>
     <roll description="Piercing Damage">1d6</roll>
   </item>
   <item>
-    <name>Earthboard</name>
+    <name>Earthboard (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -323,7 +323,7 @@ These benefits last until you end your turn not standing on the earthboard.
 Source:	Tal'Dorei Campaign Setting: Reborn p. 198 (Third Party)</text>
   </item>
   <item>
-    <name>Flamefriend Lantern</name>
+    <name>Flamefriend Lantern (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -346,7 +346,7 @@ Willful Attunement: Your attunement to the lantern lasts until you choose to end
 Source:	Tal'Dorei Campaign Setting: Reborn p. 198 (Third Party)</text>
   </item>
   <item>
-    <name>Skysail</name>
+    <name>Skysail (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -358,7 +358,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 198 (Third Party)</text>
 Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party)</text>
   </item>
   <item>
-    <name>Agony</name>
+    <name>Agony (TP)</name>
     <detail>flail, legendary (requires attunement by a creature of non-good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -391,7 +391,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 202 (Third Party)</text>
     <roll description="Extra Damage">2d8</roll>
   </item>
   <item>
-    <name>Armor of the Valiant Soul</name>
+    <name>Armor of the Valiant Soul (TP)</name>
     <detail>scale mail, legendary (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -423,7 +423,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 202 (Third Party)</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Cabal's Ruin</name>
+    <name>Cabal's Ruin (TP)</name>
     <detail>cloak, legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -449,7 +449,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 203 (Third Party)</text>
     <roll description="Lightning Damage">1d6+4</roll>
   </item>
   <item>
-    <name>Circlet of Barbed Vision</name>
+    <name>Circlet of Barbed Vision (TP)</name>
     <detail>legendary (requires attunement by a creature of non-good alignment)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -474,7 +474,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 203 (Third Party)</text>
     <roll description="Psychic Damage">4d6</roll>
   </item>
   <item>
-    <name>Condemner</name>
+    <name>Condemner (TP)</name>
     <detail>heavy crossbow, legendary (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -524,7 +524,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 204 (Third Party)</text>
     <roll description="Poison Damage">1d8</roll>
   </item>
   <item>
-    <name>Deathwalker's Ward</name>
+    <name>Deathwalker's Ward (TP)</name>
     <detail>leather armor, legendary (requires attunement)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -548,7 +548,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 204 (Third Party)</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Fenthras</name>
+    <name>Fenthras (TP)</name>
     <detail>longbow, legendary (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -592,7 +592,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 205 (Third Party)</text>
     <roll description="Lightning Damage">1d6</roll>
   </item>
   <item>
-    <name>Honor's Last Stand</name>
+    <name>Honor's Last Stand (TP)</name>
     <detail>shield, legendary (requires attunement by a creature of non-evil alignment)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -620,7 +620,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 206 (Third Party)</text>
     <roll description="Force Damage">2d6</roll>
   </item>
   <item>
-    <name>Kiss of the Changebringer</name>
+    <name>Kiss of the Changebringer (TP)</name>
     <detail>amulet, legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -644,7 +644,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 206 (Third Party)</text>
     <modifier category="bonus">saving throws +1</modifier>
   </item>
   <item>
-    <name>Mythcarver</name>
+    <name>Mythcarver (TP)</name>
     <detail>longsword, legendary (requires attunement by a bard)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -679,7 +679,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 207 (Third Party)</text>
     <roll description="Force Damage">1d6</roll>
   </item>
   <item>
-    <name>Plate of the Dawnmartyr</name>
+    <name>Plate of the Dawnmartyr (TP)</name>
     <detail>armor, legendary (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -710,7 +710,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 208 (Third Party)</text>
     <roll description="Fire Damage">2d6</roll>
   </item>
   <item>
-    <name>Pyremaul</name>
+    <name>Pyremaul (TP)</name>
     <detail>maul, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -753,7 +753,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 209 (Third Party)</text>
     <roll description="Fire Damage">10d10</roll>
   </item>
   <item>
-    <name>Spire of Conflux</name>
+    <name>Spire of Conflux (TP)</name>
     <detail>staff, spellcasting focus, legendary (requires attunement by a spellcaster)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -787,7 +787,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 209 (Third Party)</text>
     <roll description="Recharge">1d6+4</roll>
   </item>
   <item>
-    <name>Star Razor</name>
+    <name>Star Razor (TP)</name>
     <detail>longsword, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -826,7 +826,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 210 (Third Party)</text>
     <roll description="Radiant Damage">1d12</roll>
   </item>
   <item>
-    <name>Titanstone Knuckles</name>
+    <name>Titanstone Knuckles (TP)</name>
     <detail>gauntlets, legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -847,7 +847,7 @@ Exalted: When the Titanstone Knuckles reach an exalted state, they gain the foll
 Source:	Tal'Dorei Campaign Setting: Reborn p. 211 (Third Party)</text>
   </item>
   <item>
-    <name>Whisper</name>
+    <name>Whisper (TP)</name>
     <detail>dagger, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -882,7 +882,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 211 (Third Party)</text>
     <roll description="Feet">1d6x5</roll>
   </item>
   <item>
-    <name>Wraps of Dyamak</name>
+    <name>Wraps of Dyamak (TP)</name>
     <detail>legendary (requires attunement by a monk)</detail>
     <type>W</type>
     <magic>YES</magic>

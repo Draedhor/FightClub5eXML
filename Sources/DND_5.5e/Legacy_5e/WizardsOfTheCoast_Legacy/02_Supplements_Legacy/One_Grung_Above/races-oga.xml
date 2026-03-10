@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Grung</name>
+    <name>Grung (Legacy)</name>
     <size>S</size>
     <speed>25</speed>
     <ability>Dex +2, Con +1</ability>

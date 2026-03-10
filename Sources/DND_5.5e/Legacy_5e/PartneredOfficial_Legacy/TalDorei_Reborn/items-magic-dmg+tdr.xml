@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Oceanic Antimatter Rifle</name>
+    <name>Oceanic Antimatter Rifle (TP)</name>
     <detail>firearm, futuristic, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -32,7 +32,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Automatic Pistol</name>
+    <name>Oceanic Automatic Pistol (TP)</name>
     <detail>firearm, modern, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -62,7 +62,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Automatic Rifle</name>
+    <name>Oceanic Automatic Rifle (TP)</name>
     <detail>firearm, modern, burst, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -96,7 +96,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Hunting Rifle</name>
+    <name>Oceanic Hunting Rifle (TP)</name>
     <detail>firearm, modern, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -130,7 +130,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Laser Rifle</name>
+    <name>Oceanic Laser Rifle (TP)</name>
     <detail>firearm, futuristic, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -163,7 +163,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Pistol</name>
+    <name>Oceanic Pistol (TP)</name>
     <detail>firearm, renaissance, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -198,7 +198,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Revolver</name>
+    <name>Oceanic Revolver (TP)</name>
     <detail>firearm, modern, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -231,7 +231,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Shotgun</name>
+    <name>Oceanic Shotgun (TP)</name>
     <detail>firearm, modern, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>

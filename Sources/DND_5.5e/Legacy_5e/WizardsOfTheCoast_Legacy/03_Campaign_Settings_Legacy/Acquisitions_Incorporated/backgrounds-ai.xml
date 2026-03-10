@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Celebrity Adventurer's Scion</name>
+    <name>Celebrity Adventurer's Scion (Legacy)</name>
     <proficiency>Perception, Performance</proficiency>
     <trait>
       <name>Description</name>
@@ -64,7 +64,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Failed Merchant</name>
+    <name>Failed Merchant (Legacy)</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -126,7 +126,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Gambler</name>
+    <name>Gambler (Legacy)</name>
     <proficiency>Deception, Insight</proficiency>
     <trait>
       <name>Description</name>
@@ -187,7 +187,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Plaintiff</name>
+    <name>Plaintiff (Legacy)</name>
     <proficiency>Medicine, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -250,7 +250,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Rival Intern</name>
+    <name>Rival Intern (Legacy)</name>
     <proficiency>History, Investigation</proficiency>
     <trait>
       <name>Description</name>

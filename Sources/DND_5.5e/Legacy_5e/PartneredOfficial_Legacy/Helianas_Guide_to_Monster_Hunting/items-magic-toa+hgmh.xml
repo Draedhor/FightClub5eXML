@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Jaw Breakers Yklwas (Rare)</name>
+    <name>Jaw Breakers Yklwas (Rare) (TP)</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -33,7 +33,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Jaw Breakers Yklwas (Very Rare)</name>
+    <name>Jaw Breakers Yklwas (Very Rare) (TP)</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>

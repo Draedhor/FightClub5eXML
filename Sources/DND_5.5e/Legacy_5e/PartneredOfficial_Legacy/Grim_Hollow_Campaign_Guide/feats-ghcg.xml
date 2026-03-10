@@ -2,130 +2,2094 @@
 <compendium version="5" auto_indent="NO">
   <feat>
     <name>Blackpowder Expert (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
     <prerequisite>Proficiency with advanced weapons</prerequisite>
     <text>You are well-versed in the use of Blackpowder weapons and wield them with deadly efficiency. You gain the following benefits:
 
-	• You ignore the loading property of Blackpowder weapons with which you are proficient.
+     • You ignore the loading property of Blackpowder weapons with which you are proficient.
 
-	• Whenever a hostile creature moves within 10 feet of you, and you did not move on your last turn, you can use a reaction to make a ranged weapon attack against that creature.
+     • Whenever a hostile creature moves within 10 feet of you, and you did not move on your last turn, you can use a reaction to make a ranged weapon attack against that creature.
 
-Source:	Grim Hollow: Campaign Guide p. 15 (Third Party)</text>
-  </feat>
-  <feat>
+     Source:	Grim Hollow: Campaign Guide p. 15 (Third Party)</text>
+   </feat>
+   <feat>
     <name>Blood Hound (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
     <prerequisite>Wisdom 13 or higher</prerequisite>
     <text>Your keen senses are heightened beyond that of most people. Whether these senses were heightened through training, through the loss of other senses, or they simply matured as you did, you gain the following benefits:
 
-	• While conscious, whenever a creature that is small or larger moves, within 10 feet of you, you immediately become aware of its presence.
+     • While conscious, whenever a creature that is small or larger moves, within 10 feet of you, you immediately become aware of its presence.
 
-	• Your attack rolls do not have disadvantage against invisible creatures that you are aware of.
+     • Your attack rolls do not have disadvantage against invisible creatures that you are aware of.
 
-	• You have advantage on Wisdom (perception) and Wisdom (survival) checks that rely on sound or smell.
+     • You have advantage on Wisdom (perception) and Wisdom (survival) checks that rely on sound or smell.
 
-Source:	Grim Hollow: Campaign Guide p. 16 (Third Party)</text>
-  </feat>
-  <feat>
+     Source:	Grim Hollow: Campaign Guide p. 16 (Third Party)</text>
+   </feat>
+   <feat>
     <name>Hulking Figure (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
     <prerequisite>Strength 13 or higher</prerequisite>
     <text>You are a broad and formidable size for your race, either due to extensive training or natural build. You gain the following benefits:
 
-	• You count as one size larger (to a maximum size of large) when determining your carrying capacity and the weight you can push, drag, and lift.
+     • You count as one size larger (to a maximum size of large) when determining your carrying capacity and the weight you can push, drag, and lift.
 
-	• When you hit a creature with a melee attack, if you used your strength modifier to hit the creature, you deal an additional 1d4 damage. This damage is of the same type as the weapon attack.
+     • When you hit a creature with a melee attack, if you used your strength modifier to hit the creature, you deal an additional 1d4 damage. This damage is of the same type as the weapon attack.
 
-	• Whenever you attempt a Charisma (intimidation) check against a creature of your size or smaller, you can add your Strength modifier to the result.
+     • Whenever you attempt a Charisma (intimidation) check against a creature of your size or smaller, you can add your Strength modifier to the result.
 
-Source:	Grim Hollow: Campaign Guide p. 16 (Third Party)</text>
-  </feat>
-  <feat>
+     Source:	Grim Hollow: Campaign Guide p. 16 (Third Party)</text>
+   </feat>
+   <feat>
     <name>Iron Gut (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
     <prerequisite>Constitution 13 or higher</prerequisite>
     <text>You eat like a giant and drink like a fish. Years of punishing your stomach and liver have led to a powerful fortitude. You gain the following benefits:
 
-	• You have advantage on Saving Throws against being poisoned.
+     • You have advantage on Saving Throws against being poisoned.
 
-	• Upon completing a long rest, you regain 1 additional spent Hit Dice.
+     • Upon completing a long rest, you regain 1 additional spent Hit Dice.
 
-	• As an action, you can spend Hit Dice to heal yourself, as if you have taken a short rest. You can use this ability a number of times equal to your Constitution modifier (minimum of 1) per long rest.
+     • As an action, you can spend Hit Dice to heal yourself, as if you have taken a short rest. You can use this ability a number of times equal to your Constitution modifier (minimum of 1) per long rest.
 
-Source:	Grim Hollow: Campaign Guide p. 16 (Third Party)</text>
-  </feat>
-  <feat>
+     Source:	Grim Hollow: Campaign Guide p. 16 (Third Party)</text>
+   </feat>
+   <feat>
     <name>Lightning Caster (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
     <prerequisite>The ability to cast at least one cantrip</prerequisite>
     <text>Your rapid-fire style of casting cantrips allows you to weave magic with uncanny speed, granting you the following benefit:
 
-	• Whenever you cast a cantrip that can only target a single enemy, you can use your bonus action to target two enemies within 5 feet of one another instead.
+     • Whenever you cast a cantrip that can only target a single enemy, you can use your bonus action to target two enemies within 5 feet of one another instead.
 
-Source:	Grim Hollow: Campaign Guide p. 16 (Third Party)</text>
-  </feat>
-  <feat>
+     Source:	Grim Hollow: Campaign Guide p. 16 (Third Party)</text>
+   </feat>
+   <feat>
     <name>Nimble Physique (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
     <prerequisite>Dexterity 13 or higher</prerequisite>
     <text>You are small and thin for your race. You have a mysterious and consistent ability to avoid danger. This feat grants the following benefits:
 
-	• As long as you are not wearing armor, you may take the dodge action as a bonus action. You can use this feature a number of times equal to your Dexterity modifier (minimum of once) per long rest.
+     • As long as you are not wearing armor, you may take the dodge action as a bonus action. You can use this feature a number of times equal to your Dexterity modifier (minimum of once) per long rest.
 
-	• You can fit and squeeze through spaces as though you were one size smaller than you are.
+     • You can fit and squeeze through spaces as though you were one size smaller than you are.
 
-	• Moving through spaces occupied by allies does not impose movement penalties.
+     • Moving through spaces occupied by allies does not impose movement penalties.
 
-Source:	Grim Hollow: Campaign Guide p. 16 (Third Party)</text>
-  </feat>
-  <feat>
+     Source:	Grim Hollow: Campaign Guide p. 16 (Third Party)</text>
+   </feat>
+   <feat>
     <name>Nocturnal (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
     <text>Due to extensive exposure to the dark, and possible supernatural abilities, you have an unmatched ability to fight adversaries in the dark. You gain the following benefits:
 
-	• You gain Darkvision with a radius of 60 feet. If you already have darkvision, then the radius of your darkvision increases by 30 feet, to a maximum of 120 feet.
+     • You gain Darkvision with a radius of 60 feet. If you already have darkvision, then the radius of your darkvision increases by 30 feet, to a maximum of 120 feet.
 
-	• You have advantage on Dexterity (Stealth) checks while in dim light or nonmagical darkness.
+     • You have advantage on Dexterity (Stealth) checks while in dim light or nonmagical darkness.
 
-Source:	Grim Hollow: Campaign Guide p. 16 (Third Party)</text>
-  </feat>
-  <feat>
+     Source:	Grim Hollow: Campaign Guide p. 16 (Third Party)</text>
+   </feat>
+   <feat>
     <name>Scatter Weapon Master (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
     <prerequisite>Proficiency in Advanced Weapons</prerequisite>
     <text>Through many hours spent using these destructive weapons, whether on the training grounds or setting hag huts ablaze, you have gained immense experience with scatter weapons and gain the following benefits:
 
-	• Critical hits double the damage dealt by the Scatter property on a failed save.
+     • Critical hits double the damage dealt by the Scatter property on a failed save.
 
-	• When making an attack with a weapon with the Scatter property, you may choose any number of targets to gain advantage on saving throws caused by your attack.
+     • When making an attack with a weapon with the Scatter property, you may choose any number of targets to gain advantage on saving throws caused by your attack.
 
-	• You ignore the Loading quality of Scatter weapons with which you are proficient.
+     • You ignore the Loading quality of Scatter weapons with which you are proficient.
 
-Source:	Grim Hollow: Campaign Guide p. 17 (Third Party)</text>
-  </feat>
-  <feat>
+     Source:	Grim Hollow: Campaign Guide p. 17 (Third Party)</text>
+   </feat>
+   <feat>
     <name>Thrown Weapon Master (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
     <text>You excel at thrown weapons and gain the following benefits:
 
-	• When you take the attack action to throw a weapon with the Thrown property, you may immediately use a bonus action to make two more attacks with a Thrown weapon. These must also be thrown attacks. You may use this ability a number of times equal to your dexterity or strength modifier per short rest.
+     • When you take the attack action to throw a weapon with the Thrown property, you may immediately use a bonus action to make two more attacks with a Thrown weapon. These must also be thrown attacks. You may use this ability a number of times equal to your dexterity or strength modifier per short rest.
 
-	• If you throw a weapon as part of an attack, you may immediately draw another one-handed weapon as part of that attack.
+     • If you throw a weapon as part of an attack, you may immediately draw another one-handed weapon as part of that attack.
 
-Source:	Grim Hollow: Campaign Guide p. 17 (Third Party)</text>
-  </feat>
-  <feat>
+     Source:	Grim Hollow: Campaign Guide p. 17 (Third Party)</text>
+   </feat>
+   <feat>
     <name>Weaver of Maledictions (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
     <prerequisite>The ability to cast at least one spell</prerequisite>
     <text>You have learned how to use effigy dolls when cursing your targets. These dolls take 8 hours to create and can only be used on the target that the effigy was created to resemble. Only you can benefit from dolls you have created. When you use an effigy doll you gain the following benefits:
 
-	• The target of the curse has disadvantage on their initial saving throw.
+     • The target of the curse has disadvantage on their initial saving throw.
 
-	• The target of your curse does not know that you tried to curse them upon a successful save against being cursed.
+     • The target of your curse does not know that you tried to curse them upon a successful save against being cursed.
 
-Source:	Grim Hollow: Campaign Guide p. 17 (Third Party)</text>
-  </feat>
-  <feat>
+     Source:	Grim Hollow: Campaign Guide p. 17 (Third Party)</text>
+   </feat>
+   <feat>
     <name>Witch Hunter (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
     <text>You have honed and perfected your skills fighting against spellcasters. You gain the following benefits:
 
-	• Whenever a hostile creature targets you with a spell, make a Wisdom saving throw against the spellcaster's spell save DC. On a success, the creature must choose a new target or lose the spell. This does not protect you from area effects, such as the explosion of a fireball.
+     • Whenever a hostile creature targets you with a spell, make a Wisdom saving throw against the spellcaster's spell save DC. On a success, the creature must choose a new target or lose the spell. This does not protect you from area effects, such as the explosion of a fireball.
 
-	• Whenever you hit a spellcaster with a melee attack, the target's speed is reduced by 10 feet until the beginning of your next turn.
+     • Whenever you hit a spellcaster with a melee attack, the target's speed is reduced by 10 feet until the beginning of your next turn.
 
-	• You have advantage on saving throws against being cursed.
+     • You have advantage on saving throws against being cursed.
 
-Source:	Grim Hollow: Campaign Guide p. 17 (Third Party)</text>
-  </feat>
-</compendium>
+     Source:	Grim Hollow: Campaign Guide p. 17 (Third Party)</text>
+   </feat>
+
+   <feat>
+    <name>Academic: Antiquarian Rank 2 - Adept Collector (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+    <prerequisite> Academic: Antiquarian - Rank 1</prerequisite>
+    <text>After spending a considerable amount of time and money, you have started a reasonable collection of antiquities that you wish to one day put on display.
+
+      Holdings:
+      • A small collection of prized antiquities, and a quaint office to display and store them in.
+      • A hireling scholar who tends to your collection and undertakes research for you.
+
+      Progression:
+      To progress in this profession, you must build multiple collections dedicated to diverse subjects. Additionally, you must accommodate your collection in a gallery of suitable size and grandeur.</text>
+    </feat>
+    <feat>
+      <name>Academic: Antiquarian Rank 3 - Senior Professor (TP)</name>
+      <prerequisite> Academic: Antiquarian - Rank 2</prerequisite>
+      <text>You now hold a position of esteem within the world of academia. You have dedicated a large portion of your time and efforts to extracting secrets from each item and sharing these discoveries with others. Students flock from around the world to hear you speak on the subjects of your specialisation.
+
+        Holdings:
+        • An array of prized collections, each holding secrets to lost civilisations, forgotten magics, or legends.
+        • An extravagant gallery that displays and protects vour collections.
+        • A team of assistants and scholars who attend to the collections, conduct research, and explore the world to find more antiquities.
+        • A small following within the world of academia, who seek you out to discuss and learn about your collection.
+
+        Progression:
+        To progress in this profession, you must create a great museum, with extensive collections spanning many subjects, time periods, and cultures within the world. You must document a great finding about a lost subject, magic item, or tradition, and be cited in others' work regarding the subject.</text>
+      </feat>
+      <feat>
+        <name>Academic: Antiquarian Rank 4 - Curator (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+        <prerequisite> Academic: Antiquarian - Rank 3</prerequisite>
+        <text>You have become one of the most renowned living antiquarians. Having been referenced in many scholars' books about your studies, and having authored a few yourself, you are now a consulted expert on several subjects relating to your vast collections. You are the curator of your own museum, with scholars and collectors travelling across the world to visit it.
+
+          Holdings:
+          • A great museum, with collections that draw monarchs and common folk alike, inspiring wonder and awe.
+          • A dedicated team of antiquarians that manage your collections and museum, scouring the world for relics that would make fine additions to your impressive array.
+          • A position within a prestigious council of academics, who regard you as an esteemed peer and assist you with your studies.</text>
+        </feat>
+        <feat>
+          <name>Talent: Biologist (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+          <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
+          <text>Whenever you make an Intelligence (Nature) check to determine the properties of animals, you can add your Profession Die to the roll.</text>
+        </feat>
+        <feat>
+          <name>Talent: Botanist (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+          <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
+          <text>Whenever you make an Intelligence (Nature) check to determine the properties of plants, you can add your Profession Die to the roll.</text>
+        </feat>
+        <feat>
+          <name>Talent: Copycat (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+          <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
+          <text>Whenever you make an Intelligence or Intelligence (Forgery Kit) check to forge or create a document, you can add your Profession Die to the roll.</text>
+        </feat>
+        <feat>
+          <name>Talent: Diligent Researcher (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+          <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
+          <text>Whenever you make an Intelligence check to research a subject, you can add your Profession Die to the roll.</text>
+        </feat>
+        <feat>
+          <name>Talent: Disciplinarian (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+          <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
+          <text>Whenever you make a Charisma (Intimidation) check while issuing a command to an individual of lower rank within your background, you can add your Profession Die to the roll.</text>
+        </feat>
+        <feat>
+          <name>Talent: Drunkard (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+          <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
+          <text>Whenever you make a Constitution check to determine if you will throw up, pass out, or how severe a hangover is, you can add your Profession Die to the roll.</text>
+        </feat>
+        <feat>
+          <name>Talent: Forecaster (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+          <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
+          <text>Whenever you make a Wisdom (Survival) check to determine the weather for the next 48 hours, you can add your Profession Die to the roll.</text>
+        </feat>
+        <feat>
+          <name>Talent: Gambler (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+          <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
+          <text>Whenever you make a Dexterity (Sleight of Hand) or Wisdom (Perception) check to cheat at a game or catch someone else cheating, you can add your Profession Die to the roll.</text>
+        </feat>
+        <feat>
+          <name>Talent: Local Historian (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+          <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
+          <text>Whenever you make an Intelligence (History) check to determine the history of an item, location, or cultural phenomenon from the same region as you, you can add your Profession Die to the roll.</text>
+        </feat>
+        <feat>
+          <name>Talent: Mystical Scholar (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+          <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
+          <text>Whenever you make an Intelligence (Arcana) check to recall information on Aberrations, Constructs, or Elementals, you can add your Profession Die to the result.</text>
+        </feat>
+        <feat>
+          <name>Talent: Passionate Orator (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+          <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
+          <text>Whenever you make a Charisma (Performance) check to influence an Academic, Military, or Clergy member, you can add your Profession Die to the roll.</text>
+        </feat>
+        <feat>
+          <name>Talent: Pathologist (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+          <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
+          <text>Whenever you make a Wisdom (Medicine) check to diagnose or treat a disease, add your Profession Die to the roll.</text>
+        </feat>
+        <feat>
+          <name>Talent: Problem Solver (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+          <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
+          <text>Whenever you make an Intelligence (Investigation) check to decipher a coded message or puzzle, you can add your Profession Die to the roll.</text>
+        </feat>
+        <feat>
+          <name>Talent: Runekeeper (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+          <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
+          <text>Whenever you make an Intelligence (Arcana) check to uncover the properties and uses of magical runes, glyphs, or other symbols, you can add your Profession Die to the roll.</text>
+        </feat>
+        <feat>
+          <name>Talent: Sawbones (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+          <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
+          <text>Whenever you make a Wisdom (Medicine) check dealing with Grievous Wounds, you can add your Profession Die to the roll.</text>
+        </feat>
+        <feat>
+          <name>Talent: Translator (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+          <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
+          <text>Whenever you make an Intelligence check to communicate with a creature who doesn't share a language with you, you can add your Profession Die to the result.</text>
+        </feat>
+        <feat>
+          <name>Talent: Pitiable (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+          <prerequisite>Academic: Antiquarian, Academic: Physician, Academic: Archivist</prerequisite>
+          <text>When you make a Charisma (Persuasion) check to convince an Aristocrat, Criminal, Militarist, or Clergy that you are not a threat or beneath their notice, you may add your profession die to the roll.</text>
+        </feat>
+        <feat>
+          <name>Academic: Physician Rank 2 - Barber Surgeon (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+          <prerequisite>Academic: Physician - Rank 1</prerequisite>
+          <text>Armed with healer's kits and medical utensils, you are equipped to tend wounds and perform common medical procedures. However, without a medical license, you can only treat common folk and low-ranking military personnel.
+
+            Holdings:
+            • A crude medical clinic known as a "Chop Shop",
+            to facilitate the surgeries you perform.
+            • Up to half a dozen apprentices who follow your commands, assist you where possible, and aspire to become surgeons themselves.
+
+            Progression:
+            To progress in this profession, you must obtain your medical licence by proving your skill and dedication to a Royal Physician.</text>
+          </feat>
+          <feat>
+            <name>Academic: Physician Rank 3 - Doctor (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+            <prerequisite>Academic: Physician - Rank 2</prerequisite>
+            <text>You have proven your rank among honored healers within your region, winning the privilege of a medical license. You are now permitted to open a medical clinic and treat high society. As a trusted figure, you are invited to rub shoulders with the most prominent of its members.
+
+              Holdings:
+              • A medical clinic, equipped with an infirmary to care for long-term patients with a variety of illnesses.
+              • A medical license granted by a Royal Physician, granting you the right to treat individuals of any background.
+              • A clinic staff of half a dozen Barber Surgeons and a team of apprentices.
+              • A patient list of influential figures of various backgrounds who employ your practice for their medical needs.
+
+              Progression:
+              To progress in this profession, you must build your practice into a hospital, with multiple Barber Surgeons and Doctors working alongside you. In addition, you must accomplish a great medical achievement, such as discover a cure to a disease or a breakthrough in medical practices.</text>
+            </feat>
+            <feat>
+              <name>Academic: Physician Rank 4 - Royal Physician (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+              <prerequisite>Academic: Physician - Rank 3</prerequisite>
+              <text>You have received a monarch's patronage and been given the title of Royal Physician. Only the most revered and skilled physicians receive such a title, and the honor of building and running a Royal Hospital. As a Royal Physician, you are a gatekeeper for those who wish to become Doctors.
+                Barber Surgeons will wait at your doorstep for days to prove their devotion and, hopefully, attain a license. Kings and merchant lords will travel across the land to seek your treatment, and pay anything to be healed by you.
+
+                Holdings:
+                • A Royal Hospital, complete with multiple wards dedicated to various specializations, reserved for the upper class.
+                • An experienced team of physicians of all ranks, dedicated to running the Royal Hospital and advancing medical practices.
+                • A client list consisting of Monarchs, powerful merchants, and other important individuals.</text>
+              </feat>
+              <feat>
+      <name>Academic: Archivist Rank 2 - Scribe (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+              <prerequisite>Academic: Archivist - Rank 1</prerequisite>
+      <text>You have been appointed the honored task of transcribing and recreating texts. You are a builder of libraries, a recorder of history, and an entrusted relayer of knowledge for generations to come. As a Scribe, it is your job to record the knowledge of the world. Scribes often venture out into the world to find and document information first-hand.
+
+Holdings:
+  • An office with printing materials, binding equipment, and a dedicated hireling assistant who completes minor tasks for you.
+  • Access to restricted sections of libraries and other places of collective knowledge.
+
+Progression:
+To progress in this profession, you must complete and restore a catalogue of books or scrolls to be added to a library. Your contribution to the library must be deemed a worthy addition by your superiors.</text>
+    </feat>
+    <feat>
+      <name>Academic: Archivist Rank 3 - Chief Librarian (TP)</name>
+      <prerequisite>Academic: Archivist - Rank 2</prerequisite>
+      <text>Your dedication to the acquisition and preservation of knowledge has brought you to great heights within the world of academia. You are responsible for the library you serve, from acquiring and copying new texts, to preserving and reviewing existing ones. A Chief Librarian is expected to go to great lengths to fact-check the contents of their library, preferably in person.
+
+Holdings:
+  • A great library containing texts collected over centuries.
+  • A team of hirelings who attend the day-to-day running of the library, such as scribes, assistants, and scholars. Additionally, your name is highly regarded within the world of academia.
+  • Access to the entire library, including forbidden tomes and the knowledge they contain.
+
+Progression:
+To progress in this profession, you must have made an unprecedented contribution to the world of academia. This may be the uncovering of a great truth, or the invention of a new methodology.</text>
+    </feat>
+    <feat>
+      <name>Academic: Archivist Rank 4 - Grand Loremaster (TP)</name>
+      <prerequisite>Academic: Archivist - Rank 3</prerequisite>
+      <text>As Grand Loremaster, you are the undisputed regional authority in all matters of scholarly concern. For this reason, you are highly revered by figures of prominence for your knowledge and advice. A system of academics looks to you for guidance on obtaining knowledge and spreading enlightenment.
+
+Holdings:
+  • You have become head of a regional educational or knowledge-based institute, such as a ministry or college. The institution's resources are at your command.
+  • You have authority over all smaller libraries and educational institutions within your region, including access to their resources and hirelings.
+  • You have access to sources of knowledge that have otherwise been sworn to secrecy by Imperial order, royal decree, or a warlord's command. These sources of knowledge can include such secrets as forbidden arcane practices, demons' true names, and schematics for powerful artifacts.</text>
+    </feat>
+    <feat>
+      <name>Aristocrat: Courtier Rank 2 - Court Official (TP)</name>
+      <prerequisite>Aristocrat: Courtier - Rank 1</prerequisite>
+      <text>You have proven yourself to be a valuable asset to your patron, political allies, and other courtiers. You have been promoted to an official, granting you a minor title and the responsibilities that accompany it. These titles vary, including cofferer, master of the hunt, or any other title befitting your station.
+
+Holdings:
+  • The authority and resources associated with your minor title. For example, a cofferer would control financial records, and perhaps even bank access.
+  • Up to half a dozen servant hirelings to assist in your daily responsibilities.
+
+Progression:
+To be granted a greater court title by your patron that reflects your station.</text>
+    </feat>
+    <feat>
+      <name>Aristocrat: Courtier Rank 3 - Court Patrician (TP)</name>
+      <prerequisite>Aristocrat: Courtier - Rank 2</prerequisite>
+      <text>With a greater court title, you have become an essential and respected member of the court. You may have been promoted to steward, cupbearer, master of ceremonies, or some other position of considerable influence in the court.
+
+Holdings:
+  • A greater court title and all the privileges that accompany it. For example, the master of ceremonies would have personal access to their patrons' family for event-planning purposes.
+  • A team of servants and lesser Courtiers sworn to you either through authority or intrigue.
+  • A private suite within your patron's estate that provides easy access to court and extravagant luxury.
+  • Informants and spies throughout the court who report intrigue and valuable information to you.
+
+Progression:
+To progress in this profession, you must achieve complete control of your Court, through coercion, deception, or any other means. Additionally, you must attain an honorable title.</text>
+    </feat>
+    <feat>
+      <name>Aristocrat: Courtier Rank 4 - Royal Chamberlain (TP)</name>
+      <prerequisite>Aristocrat: Courtier - Rank 3</prerequisite>
+      <text>You have become the most influential member at court. Whether through earnest reputation or political manipulation, you have attained an honorable title of considerable power such as spymaster, regent, or majordomo. Your powerful connections and political alliances make you the unofficial leader at court, arguably with greater power over practical matters than your patron.
+
+Holdings:
+  • Complete control of the court's resources, such as finances, hirelings, and establishments.
+  • Incriminating information relating to each member at court and their possible weaknesses.
+  • Informants and spies across the region, who feed you intrigue regarding your court and others.</text>
+    </feat>
+    <feat>
+      <name>Talent: Born in the Saddle (TP)</name>
+      <prerequisite>Aristocrat: Courtier, Aristocrat: Envoy, Aristocrat: Noble</prerequisite>
+      <text>Whenever you make a Wisdom (Animal Handling) check while riding an animal or interacting with your mount, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Copycat (TP)</name>
+      <prerequisite>Aristocrat: Courtier, Aristocrat: Envoy, Aristocrat: Noble</prerequisite>
+      <text>Whenever you make an Intelligence or Intelligence (Forgery Kit) check to forge or create a document, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Court Schemer (TP)</name>
+      <prerequisite>Aristocrat: Courtier, Aristocrat: Envoy, Aristocrat: Noble</prerequisite>
+      <text>Whenever you make a Charisma (Deception) check when conversing with Aristocrats, you can add your Profession Die.</text>
+    </feat>
+    <feat>
+      <name>Talent: Disciplinarian (TP)</name>
+      <prerequisite>Aristocrat: Courtier, Aristocrat: Envoy, Aristocrat: Noble</prerequisite>
+      <text>Whenever you make a Charisma (Intimidation) check while issuing a command to an individual of lower rank within your background, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Drunkard (TP)</name>
+      <prerequisite>Aristocrat: Courtier, Aristocrat: Envoy, Aristocrat: Noble</prerequisite>
+      <text>Whenever you make a Constitution check to determine if you will throw up, pass out, or how severe a hangover is, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Elusive (TP)</name>
+      <prerequisite>Aristocrat: Courtier, Aristocrat: Envoy, Aristocrat: Noble</prerequisite>
+      <text>Whenever you make a Dexterity (Stealth) check to hide or blend into a crowd of humanoids that share your background, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Figure of Authority (TP)</name>
+      <prerequisite>Aristocrat: Courtier, Aristocrat: Envoy, Aristocrat: Noble</prerequisite>
+      <text>Whenever you make a Charisma (Persuasion) check while interacting with Common Folk, you may add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Gambler (TP)</name>
+      <prerequisite>Aristocrat: Courtier, Aristocrat: Envoy, Aristocrat: Noble</prerequisite>
+      <text>Whenever you make a Dexterity (Sleight of Hand) or Wisdom (Perception) check to cheat at a game or catch someone else cheating, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Impressionist (TP)</name>
+      <prerequisite>Aristocrat: Courtier, Aristocrat: Envoy, Aristocrat: Noble</prerequisite>
+      <text>Whenever you make a Charisma (Performance) or Charisma (Deception) check to mimic the mannerisms, voice, or appearance of another humanoid, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Local Historian (TP)</name>
+      <prerequisite>Aristocrat: Courtier, Aristocrat: Envoy, Aristocrat: Noble</prerequisite>
+      <text>Whenever you make an Intelligence (History) check to determine the history of an item, location, or cultural phenomenon from the same region as you, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Problem Solver (TP)</name>
+      <prerequisite>Aristocrat: Courtier, Aristocrat: Envoy, Aristocrat: Noble</prerequisite>
+      <text>Whenever you make an Intelligence (Investigation) check to decipher a coded message or puzzle, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Quick Fingers (TP)</name>
+      <prerequisite>Aristocrat: Courtier, Aristocrat: Envoy, Aristocrat: Noble</prerequisite>
+      <text>Whenever you make a Dexterity (Sleight of Hand) check to place a small object on a humanoid or sneak something into their food or beverage, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Translator (TP)</name>
+      <prerequisite>Aristocrat: Courtier, Aristocrat: Envoy, Aristocrat: Noble</prerequisite>
+      <text>Whenever you make an Intelligence check to communicate with a creature who doesn't share a language with you, you can add your Profession Die to the result.</text>
+    </feat>
+    <feat>
+      <name>Aristocrat: Envoy Rank 2 - Councillor (TP)</name>
+      <prerequisite>Aristocrat: Envoy - Rank 1</prerequisite>
+      <text>You have been entrusted to undertake your first diplomatic missions. Whether stealing a secret, proposing a treaty, or inciting rebellion, you have been sent to the far corners of the world to advance your side's interests. While not yet entrusted with high-profile diplomatic missions, you are still positioned to meet lesser rulers and influence their future actions.
+
+Holdings:
+  • A personal assistant to help with organizing, who accompanies you on diplomatic journeys.
+  • Access to equipment and information known to the consulate.
+
+Progression:
+Complete your own diplomatic mission successfully.</text>
+    </feat>
+    <feat>
+      <name>Aristocrat: Envoy Rank 3 - Ambassador (TP)</name>
+      <prerequisite>Aristocrat: Envoy - Rank 2</prerequisite>
+      <text>Your promotion places you on solid footing within the political landscape. You have met many powerful figures throughout the world and can secure a formal audience with them, at their convenience. Many wish to meet you, and are interested in becoming a part of your vast network of allies. After all, you know exactly the right person for any given job.
+
+Holdings:
+  • A team of Envoys to assist you at your consulate.
+  • Provisions and resources sent to you by your home region to assist in diplomatic missions.
+  • An encryption codex, used to decipher encoded messages sent to and from your home region.
+
+Progression:
+Negotiate an important treaty between nations, or uncover a great espionage conspiracy within your province.</text>
+    </feat>
+    <feat>
+      <name>Aristocrat: Envoy Rank 4 - Grand Chancellor (TP)</name>
+      <prerequisite>Aristocrat: Envoy - Rank 3</prerequisite>
+      <text>You have single-handedly led negotiations that have reshaped the geopolitical landscape. Wars have been declared and ended based on your efforts. You have travelled the world and made lasting relationships with the truly powerful. While you are not a monarch, monarchs look to you for guidance. There is no doubt that you are the true ruler of kingdoms.
+
+Holdings:
+  • Access to restricted and classified documents.
+  • You represent your monarch or other absolute authority in external relations. You have access to any resources your monarch will provide you, and broad authority to use them.</text>
+    </feat>
+    <feat>
+      <name>Aristocrat: Noble Rank 2 - Lord Baron (TP)</name>
+      <prerequisite>Aristocrat: Noble - Rank 1</prerequisite>
+      <text>You have been titled Lord Baron of an estate. Your barony is small, but you have high hopes for it. You have started to attend noble soirees, and can see your reputation within the aristocracy rise. You are the local authority within your barony, however you delegate much of it to administrators. With patience and good relations, a county could be yours.
+
+Holdings:
+  • A barony estate, including resources and hirelings.
+  • A baron's title, granting you authority and affirming your social status among other individuals of your region.
+
+Progression:
+To progress in this profession, you must be made a Count by a Duke or Monarch. You must construct a noble estate befitting a Count.</text>
+    </feat>
+    <feat>
+      <name>Aristocrat: Noble Rank 3 - Count (TP)</name>
+      <prerequisite>Aristocrat: Noble - Rank 2</prerequisite>
+      <text>Your reputation has risen to prominence. You walk the halls of powerful estates and hear passers-by whisper your name. You control an entire county, with multiple baronies under your influence. You are expected to represent them at court upon summons, and must navigate the political landscape of the aristocracy. While you wield considerable power, you find two-faced advisories and political masterminds wherever you turn.
+
+Holdings:
+  • A county estate, which includes resources and hirelings.
+  • A count's title, granting you authority and affirming your social status among other individuals of your region.
+
+Progression:
+To progress in this profession, you must be made a Duke by a Monarch. You must construct a noble estate befitting a Duke.</text>
+    </feat>
+    <feat>
+      <name>Aristocrat: Noble Rank 4 - Duke (TP)</name>
+      <prerequisite>Aristocrat: Noble - Rank 3</prerequisite>
+      <text>You have been appointed as a direct vassal of your Monarch, whether a king, queen, or emperor. You are invited to the greatest balls and soirees across the land, and feasts are held in your honour. With your family name restored to glory, you hold considerable influence throughout your region and the entire world. However, with such heights comes a great distance to fall. Political enemies will go to great lengths to tarnish your name and steal your titles.
+
+Holdings:
+  • A Duke's estate, which includes resources and hirelings.
+  • A Duke's title, granting you authority and social status among other individuals of your region.</text>
+    </feat>
+    <feat>
+      <name>Clergy: Inquisitor Rank 2 - Inquisitor (TP)</name>
+      <prerequisite>Clergy: Inquisitor - Rank 1</prerequisite>
+      <text>You have been appointed to the role of Inquisitor, charged with enforcing divine justice by hunting down cultists, spellcasters who have violated magical laws, and other threats. Many institutions recognize your Inquisitorial authority, and temples of the faith that you serve will grant you sanctuary, food, and useful information.
+
+Holdings:
+  • Access to information and equipment provided by the Order, in addition to information obtained by temples of the faith.
+
+Progression:
+Be promoted to Chapter Master by a Grand Theologist Inquisitor.</text>
+    </feat>
+    <feat>
+      <name>Clergy: Inquisitor Rank 3 - Chapter Master (TP)</name>
+      <prerequisite>Clergy: Inquisitor - Rank 2</prerequisite>
+      <text>You have risen through the ranks and now oversee an Inquisitorial Chapter. Initiates and Inquisitors alike answer to you, and seek your advice in matters of executing divine justice, as well as rooting out corruption within the ranks of the faith you serve. You are still active in the field, often leading factions of Inquisitors in bringing cultist organizations and powerful spellcasters to heel.
+
+Holdings:
+  • Access to the restricted section of the chapter library, which contains all known weaknesses of supernatural entities.
+  • Free lodging at any religious institution or temple of the faith that you serve.
+  • Your religious institution invests you with the authority to declare people of high standing as enemies of the faith, if you have irrefutable evidence of their crimes.
+
+Progression:
+Being appointed to Grand Theologist Inquisitor by the head of your Order and a panel of ranking clergy.</text>
+    </feat>
+    <feat>
+      <name>Clergy: Inquisitor Rank 4 - Grand Theologist Inquisitor (TP)</name>
+      <prerequisite>Clergy: Inquisitor - Rank 3</prerequisite>
+      <text>You have cultivated a reputation as a devout and accomplished Inquisitor, following the teachings of the divine, executing divine justice, and seeking divine enlightenment. You hold significant influence within and outside your Order, and Chapter Masters seek your counsel on matters of the faith and the Order's mission.
+
+Holdings:
+  • Access to a council of Chapter Masters and other ranked clergy with whom you discuss matters of your Order.
+  • You have the authority to dismiss and appoint chapter members to positions of power, both within the Inquisition and temples of the faith.
+  • You have the ability to denounce those who you know (or suspect) to be enemies of the faith, dispatching Inquisitor factions to investigate and restore order.</text>
+    </feat>
+    <feat>
+      <name>Talent: Astute Intuition (TP)</name>
+      <prerequisite>Clergy: Inquisitor, Clergy: Preacher, Clergy: Priest</prerequisite>
+      <text>Whenever you make a Wisdom (Insight) check while trying to detect a lie from Aristocrats, Criminals, or Common Folk, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Cabal Lorekeeper (TP)</name>
+      <prerequisite>Clergy: Inquisitor, Clergy: Preacher, Clergy: Priest</prerequisite>
+      <text>Whenever you make an Intelligence (Religion) check to recall information about Celestials, Fiends, Fey, or Undead, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Confessor (TP)</name>
+      <prerequisite>Clergy: Inquisitor, Clergy: Preacher, Clergy: Priest</prerequisite>
+      <text>Whenever you make a Charisma (Persuasion) check to reveal a secret or ask a favor of anyone who follows the same religion or deity as you, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Copycat (TP)</name>
+      <prerequisite>Clergy: Inquisitor, Clergy: Preacher, Clergy: Priest</prerequisite>
+      <text>Whenever you make an Intelligence or Intelligence (Forgery Kit) check to forge or create a document, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Diligent Researcher (TP)</name>
+      <prerequisite>Clergy: Inquisitor, Clergy: Preacher, Clergy: Priest</prerequisite>
+      <text>Whenever you make an Intelligence check to research a subject, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Disciplinarian (TP)</name>
+      <prerequisite>Clergy: Inquisitor, Clergy: Preacher, Clergy: Priest</prerequisite>
+      <text>Whenever you make a Charisma (Intimidation) check while issuing a command to an individual of lower rank within your background, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Drunkard (TP)</name>
+      <prerequisite>Clergy: Inquisitor, Clergy: Preacher, Clergy: Priest</prerequisite>
+      <text>Whenever you make a Constitution check to determine if you will throw up, pass out, or how severe a hangover is, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Figure of Authority (TP)</name>
+      <prerequisite>Clergy: Inquisitor, Clergy: Preacher, Clergy: Priest</prerequisite>
+      <text>Whenever you make a Charisma (Persuasion) check while interacting with Common Folk, you may add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Idolist (TP)</name>
+      <prerequisite>Clergy: Inquisitor, Clergy: Preacher, Clergy: Priest</prerequisite>
+      <text>Whenever you make an Intelligence (Religion) check to recall information on religious or cult-related symbols, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Interrogator (TP)</name>
+      <prerequisite>Clergy: Inquisitor, Clergy: Preacher, Clergy: Priest</prerequisite>
+      <text>Whenever you make a Charisma (Intimidation) check to extract information from an enemy who is restrained, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Local Historian (TP)</name>
+      <prerequisite>Clergy: Inquisitor, Clergy: Preacher, Clergy: Priest</prerequisite>
+      <text>Whenever you make an Intelligence (History) check to determine the history of an item, location, or cultural phenomenon from the same region as you, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Menacing Presence (TP)</name>
+      <prerequisite>Clergy: Inquisitor, Clergy: Preacher, Clergy: Priest</prerequisite>
+      <text>Whenever you make a Charisma (Intimidation) check, and are interacting with Academics, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Mystical Scholar (TP)</name>
+      <prerequisite>Clergy: Inquisitor, Clergy: Preacher, Clergy: Priest</prerequisite>
+      <text>Whenever you make an Intelligence (Arcana) check to recall information on Aberrations, Constructs, or Elementals, you can add your Profession Die to the result.</text>
+    </feat>
+    <feat>
+      <name>Talent: Passionate Orator (TP)</name>
+      <prerequisite>Clergy: Inquisitor, Clergy: Preacher, Clergy: Priest</prerequisite>
+      <text>Whenever you make a Charisma (Performance) check to influence an Academic, Military, or Clergy member, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Pathologist (TP)</name>
+      <prerequisite>Clergy: Inquisitor, Clergy: Preacher, Clergy: Priest</prerequisite>
+      <text>Whenever you make a Wisdom (Medicine) check to diagnose or treat a disease, add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Sawbones (TP)</name>
+      <prerequisite>Clergy: Inquisitor, Clergy: Preacher, Clergy: Priest</prerequisite>
+      <text>Whenever you make a Wisdom (Medicine) check dealing with Grievous Wounds, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Shrewd Deduction (TP)</name>
+      <prerequisite>Clergy: Inquisitor, Clergy: Preacher, Clergy: Priest</prerequisite>
+      <text>Whenever you make an Intelligence (Investigation) check to investigate a crime scene, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Solidarity (TP)</name>
+      <prerequisite>Clergy: Inquisitor, Clergy: Preacher, Clergy: Priest</prerequisite>
+      <text>When you make a Charisma (Persuasion) check and you are interacting with members of your background, you may add your profession die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Clergy: Preacher Rank 2 - Truth Speaker (TP)</name>
+      <prerequisite>Clergy: Preacher - Rank 1</prerequisite>
+      <text>You have cultivated a reputation in your local town or city as a persuasive and charismatic orator, able to inspire the righteous and decry the evil. Common folk and nobility alike often stop to hear you speak, moved by your unique conviction to consider joining your religion.
+
+Holdings:
+  • You advise a group of criers in your province on religious matters and outline the agenda for each homily.
+
+Progression:
+You progress after having converted a significant number of people to your religion.</text>
+    </feat>
+    <feat>
+      <name>Clergy: Preacher Rank 3 - Enlightened Evangelist (TP)</name>
+      <prerequisite>Clergy: Preacher - Rank 2</prerequisite>
+      <text>You have gained considerable reputation in the province where you preach, regularly recruiting new converts to your faith. Your overt exhibitions of devotion and charity combined with a natural charisma make you a well-liked figure among the common people, though the more cynical uninitiated may regard you as a heretic or a charlatan.
+
+Holdings:
+  • A temple of the faith grants you a letter of religious immunity from Inquisitors, verifying that you are not a heretic.
+  • You have a following of disciples who accompany you on your travels to new unenlightened provinces, further glorifying your deity and you as their disciple.
+
+Progression:
+A member of your congregation observes you performing a miracle, drawing new converts to the faith.</text>
+    </feat>
+    <feat>
+      <name>Clergy: Preacher Rank 4 - Exalted Savior (TP)</name>
+      <prerequisite>Clergy: Preacher - Rank 3</prerequisite>
+      <text>You have established your reputation as a captivating rhetorician, and people are naturally drawn to you, sometimes seemingly against their will. You may even begin to perceive yourself as a messianic figure, showing the will of your deity through conspicuous demonstrations of personal devotion and charity toward the poor. For those with spellcasting abilities, magic that is woven into such demonstrations is particularly compelling.
+
+Holdings:
+  • A dozen or more faithful disciples that observe and convey your teachings, and thousands of followers loyal to you.
+  • A divine mandate bestowed by your deity or seraph that elevates you above the laws of humanity.</text>
+    </feat>
+    <feat>
+      <name>Clergy: Priest Rank 2 - Priest (TP)</name>
+      <prerequisite>Clergy: Preist - Rank 1</prerequisite>
+      <text>You oversee a local parish with a substantial following, where you perform rites, sermonize on the teachings of your deity, and provide spiritual guidance to followers whose faith has waned. You use your modest influence to inspire the virtuous, uplift the downtrodden, or incite fear.
+
+Holdings:
+  • You have a modest parish that you oversee, including humble lodgings, and regularly receive locals for confession.
+  • You have knowledge of a wealthy noble who possesses a first edition book of scripture that the church greatly desires.
+
+Progression:
+You must either expose the senior clergy member exploiting the faith for personal gain, or acquire the first edition book of scripture.</text>
+    </feat>
+    <feat>
+      <name>Clergy: Priest Rank 3 - Bishop (TP)</name>
+      <prerequisite>Clergy: Preist - Rank 2</prerequisite>
+      <text>In recognition of your service to the faith, you have risen to the title of Bishop, taking up residence in your own diocese in a major city. You oversee a number of senior clergy who seek your counsel and spiritual guidance in all aspects of the divine. Bishops are elected from senior priests in their Order and retain the title for as long as they remain true to the doctrine.
+
+Holdings:
+  • You are the steward of the largest temple of your faith in your region, and receive well-appointed lodgings nearby.
+  • You oversee your own diocese in a major city, speaking on behalf of the faith and supervising the clergy there.
+
+Progression:
+You become Cardinal in the event that a Cardinal passes away or retires, and the head of your faith appoints you in their stead due to your outstanding commitment to the faith.</text>
+    </feat>
+    <feat>
+      <name>Clergy: Priest Rank 4 - Cardinal (TP)</name>
+      <prerequisite>Clergy: Preist - Rank 3</prerequisite>
+      <text>As a Cardinal, you answer directly to the head of your faith. You oversee the diocese within your province, to root out corruption and heresy from on high. Cardinals are appointed by the head of their faith, and as such have their ear in all matters of spiritual and political adjudication.
+
+Holdings:
+  • A number of dioceses that you oversee within your province.
+  • Free lodging at any parish or diocese that recognizes your appointment, and any institution under the control of the faith.</text>
+    </feat>
+<feat>
+      <name>Common Folk: Villager Rank 2 - Land Owner (TP)</name>
+      <prerequisite>Common Folk: Villager - Rank 1</prerequisite>
+      <text>You oversee a modest farm that produces various crops and small goods that you sell to local businesses and at markets for a modest profit. You have cultivated your reputation as an honest distributor among your customers, and a fair boss to the hired hands who help you manage your land.
+
+Holdings:
+  • A small farmstead, including livestock, crops, and stores suitable to the location.
+  • Half a dozen unskilled hirelings who live and work on your farm.
+
+Progression:
+Become a respected and influential member of your local village.</text>
+    </feat>
+    <feat>
+      <name>Common Folk: Villager Rank 3 - Council Member (TP)</name>
+      <prerequisite>Common Folk: Villager - Rank 2</prerequisite>
+      <text>You have been elected to a seat on the local council, assuming a public role in the governance of your village. You and your fellow council members discuss matters of trade, infrastructure, keeping the peace, and placating the local lords. You receive complaints and resolve disputes among locals, reaching an amicable resolution where possible.
+
+Holdings:
+  • A skilled, professional hireling assistant. They may be a lawyer, accountant, or other expert who helps you manage your affairs.
+  • Resources allocated by the Mayor for you to complete your duties as a council member.
+
+Progression:
+To be elected or appointed Mayor by a lord, council, electorate, or other means.</text>
+    </feat>
+    <feat>
+      <name>Common Folk: Villager Rank 4 - Mayor (TP)</name>
+      <prerequisite>Common Folk: Villager - Rank 3</prerequisite>
+      <text>You have risen from humble beginnings to become the Mayor of your village, either by election or appointment. Charged as a custodian of the peace, you preside over council meetings and represent your local province at ceremonial events and in dealings with the regional government.
+
+Holdings:
+  • You have the resources of your village council at your disposal.
+  • A team of skilled hirelings trained in professional services who assist you in your endeavors to run your holdings.
+  • Resources granted to you by your Monarch, such as gold, military support, and other useful assets, to maintain order within the settlement.</text>
+    </feat>
+    <feat>
+      <name>Talent: Beast Whisperer (TP)</name>
+      <prerequisite>Common Folk: Villager, Common Folk: Entertainer, Common Folk: Merchant</prerequisite>
+      <text>Whenever you make a Wisdom (Animal Handling) check to train or direct orders to a beast, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Biologist (TP)</name>
+      <prerequisite>Common Folk: Villager, Common Folk: Entertainer, Common Folk: Merchant</prerequisite>
+      <text>Whenever you make an Intelligence (Nature) check to determine the properties of animals, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Botanist (TP)</name>
+      <prerequisite>Common Folk: Villager, Common Folk: Entertainer, Common Folk: Merchant</prerequisite>
+      <text>Whenever you make an Intelligence (Nature) check to determine the properties of plants, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Calloused Hands (TP)</name>
+      <prerequisite>Common Folk: Villager, Common Folk: Entertainer, Common Folk: Merchant</prerequisite>
+      <text>Whenever you make a Strength (Athletics) check to lift, drag, or shove a heavy object, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Disciplinarian (TP)</name>
+      <prerequisite>Common Folk: Villager, Common Folk: Entertainer, Common Folk: Merchant</prerequisite>
+      <text>Whenever you make a Charisma (Intimidation) check while issuing a command to an individual of lower rank within your background, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Drunkard (TP)</name>
+      <prerequisite>Common Folk: Villager, Common Folk: Entertainer, Common Folk: Merchant</prerequisite>
+      <text>Whenever you make a Constitution check to determine if you will throw up, pass out, or how severe a hangover is, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Elusive (TP)</name>
+      <prerequisite>Common Folk: Villager, Common Folk: Entertainer, Common Folk: Merchant</prerequisite>
+      <text>Whenever you make a Dexterity (Stealth) check to hide or blend into a crowd of humanoids that share your background, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Flamboyant Presentation (TP)</name>
+      <prerequisite>Common Folk: Villager, Common Folk: Entertainer, Common Folk: Merchant</prerequisite>
+      <text>Whenever you make a Charisma (Performance) check to entertain Aristocrats, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Forecaster (TP)</name>
+      <prerequisite>Common Folk: Villager, Common Folk: Entertainer, Common Folk: Merchant</prerequisite>
+      <text>Whenever you make a Wisdom (Survival) check to determine the weather for the next 48 hours, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Gambler (TP)</name>
+      <prerequisite>Common Folk: Villager, Common Folk: Entertainer, Common Folk: Merchant</prerequisite>
+      <text>Whenever you make a Dexterity (Sleight of Hand) or Wisdom (Perception) check to cheat at a game or catch someone else cheating, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Gut Feeling (TP)</name>
+      <prerequisite>Common Folk: Villager, Common Folk: Entertainer, Common Folk: Merchant</prerequisite>
+      <text>Whenever you make a Wisdom (Insight) check to detect if an Aristocrat or Criminal is lying, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Hard-Working (TP)</name>
+      <prerequisite>Common Folk: Villager, Common Folk: Entertainer, Common Folk: Merchant</prerequisite>
+      <text>Whenever you make a Constitution check for a repetitive task such as marching or laboring for hours without rest, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Navigator (TP)</name>
+      <prerequisite>Common Folk: Villager, Common Folk: Entertainer, Common Folk: Merchant</prerequisite>
+      <text>Whenever you make a vehicle check, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Wayfarer (TP)</name>
+      <prerequisite>Common Folk: Villager, Common Folk: Entertainer, Common Folk: Merchant</prerequisite>
+      <text>Whenever you make a Wisdom (Survival) check to find a path or avoid getting lost, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Applied Leverage (TP)</name>
+      <prerequisite>Common Folk: Villager, Common Folk: Entertainer, Common Folk: Merchant</prerequisite>
+      <text>When you make a Strength (Athletics) check to force open a door or container, you may add your profession die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Camper (TP)</name>
+      <prerequisite>Common Folk: Villager, Common Folk: Entertainer, Common Folk: Merchant</prerequisite>
+      <text>When you make a Wisdom (Survival) check to construct a temporary shelter, you may add your profession die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Charity Case (TP)</name>
+      <prerequisite>Common Folk: Villager, Common Folk: Entertainer, Common Folk: Merchant</prerequisite>
+      <text>When you make a Charisma (Performance) check to fake an illness, injury, or other condition, you may add your profession die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Pitiable (TP)</name>
+      <prerequisite>Common Folk: Villager, Common Folk: Entertainer, Common Folk: Merchant</prerequisite>
+      <text>When you make a Charisma (Persuasion) check to convince an Aristocrat, Criminal, Militarist, or Clergy that you are not a threat or beneath their notice, you may add your profession die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Solidarity (TP)</name>
+      <prerequisite>Common Folk: Villager, Common Folk: Entertainer, Common Folk: Merchant</prerequisite>
+      <text>When you make a Charisma (Persuasion) check and you are interacting with members of your background, you may add your profession die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Vacant Expression (TP)</name>
+      <prerequisite>Common Folk: Villager, Common Folk: Entertainer, Common Folk: Merchant</prerequisite>
+      <text>When you make a Charisma (Deception) check to feign ignorance and you are interacting with an Academic, Aristocrat, Clergy, or Militarist, you may add your profession die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Common Folk: Entertainer Rank 2 - Performer (TP)</name>
+      <prerequisite>Common Folk: Entertainer - Rank 1</prerequisite>
+      <text>You have made a name for yourself as a traveling performer, whether by yourself or as part of a troupe of other entertainers. You are easily identifiable by your colorful attire and striking appearance. Your performances stir the hearts of those who hear you.
+
+Holdings:
+  • Access to a troupe's performing equipment and supplies, including instruments, concoctions, and other resources.
+  • Free lodging and food at any establishment you perform in.
+
+Progression:
+A traveling noble or court official observes your performance, and days later you receive a letter of invitation to perform at a court or estate.</text>
+    </feat>
+    <feat>
+      <name>Common Folk: Entertainer Rank 3 - Troupe Leader (TP)</name>
+      <prerequisite>Common Folk: Entertainer - Rank 2</prerequisite>
+      <text>You are the leader of a troupe of traveling performers, and are responsible for securing performances in towns, cities, and noble estates. You have mastered the various components of artistic performance: poetry, dance, music, and comedy. Proprietors of establishments that you perform in compensate you and your troupe with free lodgings and food.
+
+Holdings:
+  • A following of loyal fans, including several influential individuals.
+  • A troupe of skilled performers who are adept in a variety of forms of entertainment.
+
+Progression:
+You have been offered a large sum of money by a wealthy fan to perform for them on a semi-regular basis.</text>
+    </feat>
+    <feat>
+      <name>Common Folk: Entertainer Rank 4 - Court Troubadour (TP)</name>
+      <prerequisite>Common Folk: Entertainer - Rank 3</prerequisite>
+      <text>You have secured a permanent position as an entertainer in a prestigious estate or court, performing for the delight of high nobility. You are considered a virtuoso in your chosen art.
+
+Holdings:
+  • Permanent lodgings at the noble estate or court where you are employed.
+  • A scandalous secret about the lord of the manor or a prominent courtier, which you have irrefutable evidence of.</text>
+    </feat>
+    <feat>
+      <name>Common Folk: Merchant Rank 2 - Merchant (TP)</name>
+      <prerequisite>Common Folk: Merchant - Rank 1</prerequisite>
+      <text>You have struck out on your own to seek your fortune, opening your own shop in the marketplace. You begin to cultivate a reputation as a keen appraiser, providing fair prices to customers both buying and selling. You balance the books yourself, taking care to ensure that you do not fall into debt through risky investments.
+
+Holdings:
+  • A quaint store or shop front, in which you sell your specialized goods.
+  • A clerk who maintains your store and runs it on a day-to-day basis in your absence.
+
+Progression:
+Own and maintain multiple successful businesses simultaneously.</text>
+    </feat>
+    <feat>
+      <name>Common Folk: Merchant Rank 3 - Magnate (TP)</name>
+      <prerequisite>Common Folk: Merchant - Rank 2</prerequisite>
+      <text>You have become a business mogul, opening a chain of successful stores. You are wise or exceptionally lucky in your investments, and your risks have proven profitable, while maintaining an amicable relationship with both customers and fellow Merchants. Your fortune is more secure now that it comes from several different kinds of businesses.
+
+Holdings:
+  • A series of successful businesses spanning multiple industries, and a network of suppliers.
+  • A senior position in the regional Merchants Guild, including networks and guild benefits.
+  • Teams of skilled and unskilled hirelings who work to keep the day-to-day operations of your businesses running smoothly.
+
+Progression:
+Defeat your largest competitor by driving them out of business, buying them out, or merging your businesses.</text>
+    </feat>
+    <feat>
+      <name>Common Folk: Merchant Rank 4 - Guild Chancellor (TP)</name>
+      <prerequisite>Common Folk: Merchant - Rank 3</prerequisite>
+      <text>You have been appointed Guild Chancellor of your Merchant's Guild. You oversee the membership of new merchants, approve regulation prices and supply, and provide protection for caravans, goods, and stockpiles for guild members under your chancellorship.
+
+Holdings:
+  • A Trade Certificate signed by your Monarch, granting you an exclusive right to sell certain specialist goods in your area.
+  • No other business within may trade in this commodity without your consent.
+  • Complete control of the regional Merchant Guild you originally joined.
+  • A trade empire containing many businesses and subsidiaries, each serving your interests.</text>
+    </feat>
+    <feat>
+      <name>Criminal: Charlatan Rank 2 - Hustler (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>You have started to work in a group as a face man, expanding your "clientele" with more lucrative cons, such as passing off colored glass as gemstones, or bleeding wealthy marks dry with long cons.
+
+Holdings:
+  • A group of miscreants that assist your cons, with whom you split the spoils of your larceny.
+
+Progression:
+You must acquire or create plans for a large-scale con and procure the necessary elements.</text>
+    </feat>
+    <feat>
+      <name>Criminal: Charlatan Rank 3 - Con Artist (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>You have become more daring in your approach, orchestrating swindles that require planning, resources, and teamwork in pursuit of a big payday. You may set your gang about duplicating famous paintings to be sold in foreign cities, for example, or forging property title deeds in order to sell a building you do not own.
+
+Holdings:
+  • A team of charismatic swindlers and skilled forgers who can recreate items at your request with great accuracy and detail.
+  • An unmarked warehouse in a disreputable part of town, where you can store and create forged items and oversee your operations.
+
+Progression:
+Successfully executing a grand con that draws the outrage of a great noble household, religious faction, or other powerful institution. It also makes you famous among other criminals.</text>
+    </feat>
+    <feat>
+      <name>Criminal: Charlatan Rank 4 - Mastermind (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>You have become something of a legend within the underground. Up-and-coming swindlers approach you to learn at your feet. Whether you pass on your skills or fleece your new flock is up to you.
+
+Holdings:
+  • Many detailed plans of cons you have devised or procured.
+  • A network of talented individuals who work at your behest, aiding you in orchestrating your ploys.</text>
+    </feat>
+    <feat>
+      <name>Talent: Bounty Hunter (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>Whenever you make a Wisdom (Survival) to track Criminals, you can add your Profession Die.</text>
+    </feat>
+    <feat>
+      <name>Talent: Quick Fingers (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>Whenever you make a Dexterity (Sleight of Hand) check to place a small object on a humanoid or sneak something into their food or beverage, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Contortionist (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>Whenever you make a Dexterity or Dexterity (Acrobatics) check to squeeze through a small space or escape bonds, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Copycat (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>Whenever you make an Intelligence or Intelligence (Forgery Kit) check to forge or create a document, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Disciplinarian (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>Whenever you make a Charisma (Intimidation) check while issuing a command to an individual of lower rank within your background, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Drunkard (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>Whenever you make a Constitution check to determine if you will throw up, pass out, or how severe a hangover is, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Elusive (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>Whenever you make a Dexterity (Stealth) check to hide or blend into a crowd of humanoids that share your background, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Gambler (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>Whenever you make a Dexterity (Sleight of Hand) or Wisdom (Perception) check to cheat at a game or catch someone else cheating, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Grifter (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>Whenever you make a Charisma (Deception) check, and are attempting to pass off a fake object as authentic, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Heister (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>Whenever you make a Wisdom (Perception) check to spot traps, sentries, and other security measures, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Impressionist (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>Whenever you make a Charisma (Performance) or Charisma (Deception) check to mimic the mannerisms, voice, or appearance of another humanoid, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Interrogator (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>Whenever you make a Charisma (Intimidation) check to extract information from an enemy who is restrained, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Menacing Presence (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>Whenever you make a Charisma (Intimidation) check, and are interacting with Academics, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Nimble Fingers (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>Whenever you make a Dexterity (Thieves' Tools) check to pick a lock, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Renowned (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>Whenever you make a Charisma (Persuasion) check, and are interacting with Military, Outlanders, or Criminals, you may add your Profession Die.</text>
+    </feat>
+    <feat>
+      <name>Talent: Ropesman (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>Whenever you make a Strength (Athletics) or Dexterity (Acrobatics) check to climb, move along, or jump onto ropes, you can add your Profession Die.</text>
+    </feat>
+    <feat>
+      <name>Talent: Sentry (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>Whenever you make a Wisdom (Perception) check while on watch duty or defending a fortification, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Urban Sprinter (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>Whenever you make a Strength (Athletics) or Dexterity (Acrobatics) check while running away from a pursuer, or pursuing someone else, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Applied Leverage (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>When you make a Strength (Athletics) check to force open a door or container, you may add your profession die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Charity Case (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>When you make a Charisma (Performance) check to fake an illness, injury, or other condition, you may add your profession die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Looter (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>When you make an Intelligence (Investigation) roll to find hidden valuables, you may add your profession die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Sticky Fingers (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>When you make a Dexterity (Sleight of Hand) check to snatch something quickly, you may add your profession die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Vacant Expression (TP)</name>
+      <prerequisite>Criminal: Charlatan, Criminal: Cutthroat, Criminal: Burglar </prerequisite>
+      <text>When you make a Charisma (Deception) check to feign ignorance and you are interacting with an Academic, Aristocrat, Clergy, or Militarist, you may add your profession die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Criminal: Cutthorat Rank 2 - Crew Leader (TP)</name>
+      <text>Being the leader of your ragtag team comes with some nice perks. Shop owners shower you with gifts and praise in order to remain on your good side during your weekly rounds. Some will even go out of their way to source rare and valuable items that you require, if they believe doing so will earn your favor.
+
+Holdings:
+  • A group of thugs that you command, overseeing their various ploys.
+  • Knowledge of back alleys and slipways that allow you and your group to escape unpursued by local law enforcement.
+  • A rundown establishment that you and your fellow henchmen operate out of.
+
+Progression:
+Your group of thugs has progressed in size to exert control over an entire village or district within a city. A sizable collection of shop owners that you can regularly exploit for "protection".</text>
+    </feat>
+    <feat>
+      <name>Criminal: Cutthorat Rank 3 - Gang Boss (TP)</name>
+      <text>You are now a big fish in a small pond, often butting heads with rival gangs. Your presence is not quite strong enough to force your competition out of your territory. Whether you make a bid for control or they do, one thing is for certain: there will be blood in the streets.
+
+Holdings:
+  • Multiple warehouses and business fronts to launder and store your spoils until a suitable buyer can be located.
+  • A network of contacts that you use to acquire and sell illicit goods.
+
+Progression:
+You must overthrow a rival crime lord, or claim the territory of all surrounding rival gangs.</text>
+    </feat>
+    <feat>
+      <name>Criminal: Cutthorat Rank 4 - Crime Lord (TP)</name>
+      <text>You sit at the top of the criminal pyramid of your city or region. While there are still gangs that you don't directly control, they know to stay well clear of your territory.
+
+Holdings:
+  • A number of personal secrets and incriminating evidence about high-ranking nobles, clergy, or business magnates.
+  • A corrupt, influential state official who does your bidding and provides you with confidential information.</text>
+    </feat>
+    <feat>
+      <name>Criminal: Burglar Rank 2 - Burglar Specialist (TP)</name>
+      <text>Working in a team, while risky, allows for heists that would be beyond the reach of any one burglar, no matter how skilled. Increasingly, when someone has an ambitious crime planned and needs to assemble a team of "the best," they reach out to you.
+
+Holdings:
+  • A team of specialist thieves who operate under your instruction to execute more ambitious heists.
+  • A contact working inside an establishment which you plan on robbing, who provides you information on the routine of the occupants, the location of valuable items, and escape routes.
+
+Progression:
+Membership in an established Thieves' Guild in a major city or town.</text>
+    </feat>
+    <feat>
+      <name>Criminal: Burglar Rank 3 - Heist Master (TP)</name>
+      <text>Your skill as both a burglar and a leader has grown considerably over time. Whether by virtue of your own confidence or a message from the divine, you believe that you are capable of executing a major heist, with the right preparation and henchmen of course. Will it be a priceless painting you have been tasked with acquiring for a prospective buyer? A slovenly prince whose private affairs you seek to meddle in, having acquired his signet ring?
+
+Holdings:
+  • You hold a senior position in the Thieves' Guild, instructing junior members in lockpicking, housebreaking, and evading law enforcers.
+  • You uncover evidence of an attempted assassination on the life of a noble whose estate you robbed.
+
+Progression:
+You orchestrate a large-scale heist to rob the estate of a local noble.</text>
+    </feat>
+    <feat>
+      <name>Criminal: Burglar Rank 4 - Prince of Thieves (TP)</name>
+      <text>You have squirreled away enough gold to live comfortably for the rest of your life. However, you now steal to satiate a greater motivation through the exchange of private information, blackmail, and the acquisition of rare and powerful artifacts. After all, knowledge is power, and you've risen to a level where power is mandatory.
+
+Holdings:
+  • Your own estate with a household of staff, acquiring and selling rare and valuable items through your own circle of thieves, fences, and buyers.</text>
+    </feat>
+    <feat>
+      <name>Militarist: Free Sword Rank 2 - Sellsword (TP)</name>
+      <text>After proving your competence and trustworthiness, you have become a guild-licensed Sellsword. You start to receive specific requests for jobs as your reputation grows.
+
+Holdings:
+  • A Free Sword licence, which allows you to accept your own contracts as a mercenary and collect the rewards.
+  • Access to hirelings belonging to the Free Swords guild, who you can contract for a small fee.
+
+Progression:
+Lead a team successfully through several high-stakes encounters during mercenary contracts.</text>
+    </feat>
+    <feat>
+      <name>Militarist: Free Sword Rank 3 - Sword Commander (TP)</name>
+      <text>You have proven your combat prowess and command of battlefield tactics. Special requests for your services are becoming more frequent, often from people or groups of higher social status. The mercenary companions who accompany you on your jobs have matured into disciplined soldiers who trust you as their commander.
+
+Holdings:
+  • Your own private room in a guild house and a retainer who can either take care of business for you at the guild house or accompany you on your travels.
+  • Command authority over lower ranks and the power to employ them for jobs.
+  • Access to restricted jobs that depend on sensitive information or extraordinary risk.
+
+Progression:
+Successfully complete a restricted job for a high-profile client.</text>
+    </feat>
+    <feat>
+      <name>Militarist: Free Sword Rank 4 - Battlelord (TP)</name>
+      <text>You have been elected by the members of your Free Swords guild to lead them forward to greater power and acclaim. What type of commander are you going to be? Will you lead by example and rush into the fray during combat, or retire the sword and pick up the pen?
+
+Holdings:
+  • Command of the Free Sword's guild and its members, including managing contracts, and overseeing the training of hirelings.
+  • A guild chapterhouse, which includes housing for you and your lieutenants as well as an extensive armory for guild members.</text>
+    </feat>
+    <feat>
+      <name>Talent: Astute Intuition (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make a Wisdom (Insight) check while trying to detect a lie from Aristocrats, Criminals, or Common Folk, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Beast Whisperer (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make a Wisdom (Animal Handling) check to train or direct orders to a beast, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Born in the Saddle (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make a Wisdom (Animal Handling) check while riding an animal or interacting with your mount, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Bounty Hunter (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make a Wisdom (Survival) to track Criminals, you can add your Profession Die.</text>
+    </feat>
+    <feat>
+      <name>Talent: Calloused Hands (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make a Strength (Athletics) check to lift, drag, or shove a heavy object, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Copycat (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make an Intelligence or Intelligence (Forgery Kit) check to forge or create a document, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Disciplinarian (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make a Charisma (Intimidation) check while issuing a command to an individual of lower rank within your background, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Drunkard (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make a Constitution check to determine if you will throw up, pass out, or how severe a hangover is, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Figure of Authority (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make a Charisma (Persuasion) check while interacting with Common Folk, you may add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Forecaster (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make a Wisdom (Survival) check to determine the weather for the next 48 hours, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Gambler (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make a Dexterity (Sleight of Hand) or Wisdom (Perception) check to cheat at a game or catch someone else cheating, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Hard-Working (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make a Constitution check for a repetitive task such as marching or laboring for hours without rest, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Interrogator (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make a Charisma (Intimidation) check to extract information from an enemy who is restrained, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Menacing Presence (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make a Charisma (Intimidation) check, and are interacting with Academics, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Navigator (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make a vehicle check, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Passionate Orator (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make a Charisma (Performance) check to influence an Academic, Military, or Clergy member, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Recruiter (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make a Charisma (Persuasion) check to recruit people into a role, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Renowned (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make a Charisma (Persuasion) check, and are interacting with Military, Outlanders, or Criminals, you may add your Profession Die.</text>
+    </feat>
+    <feat>
+      <name>Talent: Sentry (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make a Wisdom (Perception) check while on watch duty or defending a fortification, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Shrewd Deduction (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make an Intelligence (Investigation) check to investigate a crime scene, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Urban Sprinter (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make a Strength (Athletics) or Dexterity (Acrobatics) check while running away from a pursuer, or pursuing someone else, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Wayfarer (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>Whenever you make a Wisdom (Survival) check to find a path or avoid getting lost, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Applied Leverage (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>When you make a Strength (Athletics) check to force open a door or container, you may add your profession die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Looter (TP)</name>
+      <prerequisite>Militarist: Free Sword, Militarist: Guard, Militarist: Soldier </prerequisite>
+      <text>When you make an Intelligence (Investigation) roll to find hidden valuables, you may add your profession die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Militarist: Guard Rank 2 - Captain of the Watch (TP)</name>
+      <text>Your dedication to your city has not gone unnoticed, and you have been promoted to Captain of the Watch. You now lead a small detail of guards who follow your orders.
+
+Holdings:
+  • Access to the keys to the city gates.
+  • A group of militia guards to train and organize as you see fit.
+
+Progression:
+Catch a renowned criminal before they can escape the city, or another act worthy of a promotion.</text>
+    </feat>
+    <feat>
+      <name>Militarist: Guard Rank 3 - Palace Guard (TP)</name>
+      <text>You have shown initiative and critical thinking under strain in leading your guard detail, and have been suitably promoted to the rank of Palace Guard. Your loyalty is highly valued, and your discretion is even more so.
+  Your focus has shifted from keeping the peace to protecting the most important places and people in the city.
+
+Holdings:
+  • Free lodging on the grounds of the palace or other place of work.
+  • Unquestioned access to restricted areas of the city.
+  • Permission to view the casefiles of ongoing investigations and past crimes. You can also access documents detailing guard routes and rosters.
+
+Progression:
+Save a VIP from an assassination attempt, rescue a kidnapped princess, or anything of equal import to be promoted.</text>
+    </feat>
+    <feat>
+      <name>Militarist: Guard Rank 4 - Lord Commander (TP)</name>
+      <text>You now command the entire law enforcement system of your area, with accompanying fortresses and militia. You stand as the final authority for most executive and judicial problems in your region, making you the physical embodiment of the law. When the leaders of your city need protection or want a crime investigated, they go through you.
+
+Holdings:
+  • Command of the entire guard hierarchy within your area, with the authority to conscript new militia and impose martial law within a region or town.
+  • Command of a fortress within a major town or city, granting you access to weapons, defensive siege equipment, and squadrons of guards under your command.
+  • You report directly to the highest officials, and have the ear of the monarch on matters of the city's defenses.</text>
+    </feat>
+    <feat>
+      <name>Militarist: Soldier Rank 2 - Sergeant (TP)</name>
+      <text>Your superiors have promoted you to the rank of Sergeant. This brings new challenges in training and commanding the new conscripts who have been assigned to you. How do you train them - on training grounds or in the wilds of Etharis? Or do you let them fend for themselves?
+
+Holdings:
+  • Command over a small unit of Foot Soldiers.
+  • A valet who attends to your personal needs in the field and relays important messages when required.
+
+Progression:
+Maintain your troops' discipline through multiple skirmishes.</text>
+    </feat>
+    <feat>
+      <name>Militarist: Soldier Rank 3 - Lieutenant (TP)</name>
+      <text>Several Sergeants have been placed under your command so that you can coordinate their movements in and out of battle. You maintain an air of command about you, and instill confidence in those you command. You have also proven adept with battle tactics, knowing how to read an encounter and when to deploy reserves.
+
+Holdings:
+  • Command over a brigade of soldiers.
+  • A command tent that serves as your headquarters for battlefield operations.
+
+Progression:
+Decisively win an even battle or win a battle against the odds.</text>
+    </feat>
+    <feat>
+      <name>Militarist: Soldier Rank 4 - Field Marshal (TP)</name>
+      <text>Your recent promotion to Field Marshal has been foreseen by many and scorned by few. You command whole armies at a time. Whether you are an artist with your masterful maneuvering of battlelines, or utterly brutal in your encounters, none can deny your efficiency in war.
+
+Holdings:
+  • Command over the region's military.
+  • A seat at any council meetings relevant to military matters of the kingdom.
+  • Residence in a manor close to the training grounds in the capital city.</text>
+    </feat>
+    <feat>
+      <name>Outlander: Beast Hunter 2 - Trapper (TP)</name>
+      <text>You have developed your hunting skills to the point where you can make a living from them, beyond just feeding yourself day to day. You are adept in setting traps, and have an eye for where to ready your snares to maximize your chances of an easy kill. You seek out game trails where there is evidence of recent activity, and almost always return to find a creature snared in your trap.
+
+Holdings:
+  • Up to a handful of apprentices who wish to learn the trade.
+  • Use of equipment from a Beast Hunters' Lodge to hunt any beast you accept a contract to kill. You must have access to a Beast Hunters' Lodge.
+
+Progression:
+Complete a contract to kill a particularly rare and dangerous beast for a community or an influential individual. You must determine the creature's species, track it, and slay it.</text>
+    </feat>
+    <feat>
+      <name>Outlander: Beast Hunter 3 - Venator (TP)</name>
+      <text>You are the one to call in the surrounding area if farmers are being slain by beasts, or if mages require a specific magical component.
+
+Holdings:
+  • A team of experienced hunters who assist you in large hunts and handle smaller jobs you assign to them.
+  • Access to the Beast Hunters' Lodge's library, which contains all known weaknesses of beasts and monsters.
+
+Progression:
+Slay a legendary beast. The event must draw the awe of influential individuals across the land.</text>
+    </feat>
+    <feat>
+      <name>Outlander: Beast Hunter 4 - Mythical Beast Hunter (TP)</name>
+      <text>Your skills as a hunter are known to be unparalleled in the lands. Monarchs and nobles request your aid to remove the most difficult of monsters from their lands. Merchants contract you to capture the most vicious of mythical creatures, and druids ask for your assistance to relocate dangerous but endangered fantastical creatures.
+
+Holdings:
+  • Control of the guild of Beast Hunters, including the resources and personnel the guild controls.
+  • Fame and high repute across the land as a figure of legend.
+  • A mighty weapon or artifact handed down to you by the guild, a satisfied customer, or an admirer.
+  • An audience with any ruler at their convenience to discuss matters of beast hunting in their domain.</text>
+    </feat>
+    <feat>
+      <name>Talent: Beast Whisperer (TP)</name>
+      <prerequisite>Outlander: Beast Hunter, Outlander: Pioneer, Outlander: Explorer</prerequisite>
+
+      <text>Whenever you make a Wisdom (Animal Handling) check to train or direct orders to a beast, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Biologist (TP)</name>
+      <prerequisite>Outlander: Beast Hunter, Outlander: Pioneer, Outlander: Explorer</prerequisite>
+
+      <text>Whenever you make an Intelligence (Nature) check to determine the properties of animals, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Born in the Saddle (TP)</name>
+      <prerequisite>Outlander: Beast Hunter, Outlander: Pioneer, Outlander: Explorer</prerequisite>
+
+      <text>Whenever you make a Wisdom (Animal Handling) check while riding an animal or interacting with your mount, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Botanist (TP)</name>
+      <prerequisite>Outlander: Beast Hunter, Outlander: Pioneer, Outlander: Explorer</prerequisite>
+
+      <text>Whenever you make an Intelligence (Nature) check to determine the properties of plants, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Calloused Hands (TP)</name>
+      <prerequisite>Outlander: Beast Hunter, Outlander: Pioneer, Outlander: Explorer</prerequisite>
+
+      <text>Whenever you make a Strength (Athletics) check to lift, drag, or shove a heavy object, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Disciplinarian (TP)</name>
+      <prerequisite>Outlander: Beast Hunter, Outlander: Pioneer, Outlander: Explorer</prerequisite>
+
+      <text>Whenever you make a Charisma (Intimidation) check while issuing a command to an individual of lower rank within your background, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Drunkard (TP)</name>
+      <prerequisite>Outlander: Beast Hunter, Outlander: Pioneer, Outlander: Explorer</prerequisite>
+
+      <text>Whenever you make a Constitution check to determine if you will throw up, pass out, or how severe a hangover is, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Forecaster (TP)</name>
+      <prerequisite>Outlander: Beast Hunter, Outlander: Pioneer, Outlander: Explorer</prerequisite>
+
+      <text>Whenever you make a Wisdom (Survival) check to determine the weather for the next 48 hours, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Gambler (TP)</name>
+      <prerequisite>Outlander: Beast Hunter, Outlander: Pioneer, Outlander: Explorer</prerequisite>
+      <text>Whenever you make a Dexterity (Sleight of Hand) or Wisdom (Perception) check to cheat at a game or catch someone else cheating, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Gut Feeling (TP)</name>
+      <prerequisite>Outlander: Beast Hunter, Outlander: Pioneer, Outlander: Explorer</prerequisite>
+
+      <text>Whenever you make a Wisdom (Insight) check to detect if an Aristocrat or Criminal is lying, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Hard-Working (TP)</name>
+      <prerequisite>Outlander: Beast Hunter, Outlander: Pioneer, Outlander: Explorer</prerequisite>
+
+      <text>Whenever you make a Constitution check for a repetitive task such as marching or laboring for hours without rest, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Local Historian (TP)</name>
+      <prerequisite>Outlander: Beast Hunter, Outlander: Pioneer, Outlander: Explorer</prerequisite>
+
+      <text>Whenever you make an Intelligence (History) check to determine the history of an item, location, or cultural phenomenon from the same region as you, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Navigator (TP)</name>
+      <prerequisite>Outlander: Beast Hunter, Outlander: Pioneer, Outlander: Explorer</prerequisite>
+
+      <text>Whenever you make a vehicle check, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Renowned (TP)</name>
+      <prerequisite>Outlander: Beast Hunter, Outlander: Pioneer, Outlander: Explorer</prerequisite>
+
+      <text>Whenever you make a Charisma (Persuasion) check, and are interacting with Military, Outlanders, or Criminals, you may add your Profession Die.</text>
+    </feat>
+    <feat>
+      <name>Talent: Translator (TP)</name>
+      <prerequisite>Outlander: Beast Hunter, Outlander: Pioneer, Outlander: Explorer</prerequisite>
+
+      <text>Whenever you make an Intelligence check to communicate with a creature who doesn't share a language with you, you can add your Profession Die to the result.</text>
+    </feat>
+    <feat>
+      <name>Talent: Camper (TP)</name>
+      <prerequisite>Outlander: Beast Hunter, Outlander: Pioneer, Outlander: Explorer</prerequisite>
+
+      <text>When you make a Wisdom (Survival) check to construct a temporary shelter, you may add your profession die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Temperature Tolerance (TP)</name>
+      <prerequisite>Outlander: Beast Hunter, Outlander: Pioneer, Outlander: Explorer</prerequisite>
+
+      <text>When you make a Constitution saving throw to avoid exhaustion due to extreme temperatures, you may add your profession die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Tree Springer (TP)</name>
+      <prerequisite>Outlander: Beast Hunter, Outlander: Pioneer, Outlander: Explorer</prerequisite>
+
+      <text>When you make a Dexterity (Acrobatics) check to ascend, descend, or travel between trees, you may add your profession die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Outlander: Pioneer Rank 2 - Secluded Cultivator (TP)</name>
+      <text>You have constructed a sturdy dwelling and started to make the land support you. While your fences are rudimentary and your tools crude, you have begun to produce more than you need to survive. Others may follow you, seeing the opportunity this land offers.
+
+Holdings:
+  • A small herd or a field of crops.
+  • A small family or group of farmhands who help tend your homestead.
+
+Progression:
+Gather a small community around your homestead</text>
+    </feat>
+    <feat>
+      <name>Outlander: Pioneer Rank 3 - Homestead Proprietor (TP)</name>
+      <text>You have established your own homestead, and maintain a year-round reserve of crops, salted meat and animal pelts to sustain you and your people through the winter months. People have gathered around you with specialized skills, such as carpenters, blacksmiths, and doctors. The beginning of a village has grown up around you.
+
+Holdings:
+  • Small self-sufficient, village-sized community that takes care of the daily requirements of your ranch or plantation.
+  • A track/road that leads to the nearest town for traveling merchants to buy and sell wares.
+  • A sizable plantation or ranch of your chosen commodity, bringing in a significant profit each harvest.
+
+Progression:
+Acquire a rare or magical animal or plant to be farmed.</text>
+    </feat>
+    <feat>
+      <name>Outlander: Pioneer Rank 4 - Governor (TP)</name>
+      <text>Your steading is renowned for production of its unique commodity. You are held in high regard in the surrounding provinces, and known throughout the lands as a foremost producer of your chosen commodity. As the first and most influential settler in the area, it was natural to make your authority official. In your frontier town, you are the head of the local government, with all the powers and responsibilities that entails.
+
+Holdings:
+  • Your position as a local authority is your entry into the society of notable merchants, nobles, and royalty. Powerful people approach you to buy what you offer and deal with your town.
+  • A caravansary that houses incoming and outgoing merchant caravans from across the land.
+  • A large house for you and your family, suitable for receiving important visitors.
+  • A small but disciplined militia to protect your homestead and its surroundings.
+  • A political alliance with a neighboring state that supports your independence.</text>
+    </feat>
+    <feat>
+      <name>Outlander: Explorer Rank 2 - Pathfinder (TP)</name>
+      <text>Merchants and travelers, learning of you by reputation, hire you as a guide through dangerous and remote terrain. You may also be recruited by military entities to advise on which remote routes will enable them to travel quickly and undetected in enemy territory.
+
+Holdings:
+  • Detailed knowledge of your chosen wilderness, including locations of interest and danger.
+  • A contract with a local guild or faction to guide members through the area.
+
+Progression:
+Establish a new road or trade route between known settlements or landmarks that is safe to travel.</text>
+    </feat>
+    <feat>
+      <name>Outlander: Explorer Rank 3 - Royal Surveyor (TP)</name>
+      <text>You are commissioned by the office of a ruler or provincial leader to chart regions unknown to them. Your expertise in navigating the wilds and uncovering their secrets has made you highly sought-after.
+
+Holdings:
+  • Resources provided to you by your clients, to assist in your exploration.
+  • An assistant cartographer, scribe, or other related profession.
+  • Maps and charts that have been procured by your assistant, detailing hidden routes.
+
+Progression:
+Complete an exploration mission of great notoriety, commissioned by a Monarch or other regional leader.</text>
+    </feat>
+    <feat>
+      <name>Outlander: Explorer Rank 4 - Master of the Horizon (TP)</name>
+      <text>Whether under the banner of a nation or for your own glory, you lead an exploration company into the unknown. You understand the hidden secrets of the natural world, and have discovered ways to venture into parallel planes of existence. With an entire company of explorers behind you, your adventure will be awe-inspiring.
+
+Holdings:
+  • If your campaign permits it, you know of gateways to other planes of existence.
+  • An ancient map leading to a lost landmark of great importance. It may contain wealth, power, or knowledge.
+  • An exploration company of skilled and unskilled hirelings, including laborers, soldiers, academics, carpenters, and many other professions.
+  • A port or encampment at a strategic location that acts as a frontier post from which you launch exploration missions.</text>
+    </feat>
+    <feat>
+      <name>Seafarer: Sailor Rank 2 - Boatswain</name>
+      <text>A Captain has chosen you as the Boatswain, responsible for the organization and wellbeing of the crew, as well as ensuring their loyalty to the captain. You have also become a capable seafarer, knowing the ins and outs of running a ship with clockwork precision.
+
+Holdings:
+  • Command over the deckhands on the ship when not under the orders of a higher rank.
+  • An officer's quarters which doubles as your cabin and living space.
+
+Progression:
+Be promoted to Ship Captain or become Captain of your own ship by other means.</text>
+    </feat>
+    <feat>
+      <name>Seafarer: Sailor Rank 3 - Ship Captain</name>
+      <text>You are the undisputed master aboard your own ship. Your crew follow your every command (or suffer the consequences), and look to you for a vision of the future. You now face such challenges as potential mutinies, provisions and payments for the sailors, and the delicate art of navigating dangerous seas.
+
+Holdings:
+  • Your own ship, or else have been entrusted with command of one, as in the case of a military ship provided by a nation.
+  • Command of a loyal crew that see to the operation and maintenance of your ship.
+  • If there is nobody above you in the chain of command, you have complete control of your ship, but you also have to pay for the upkeep. Even if the ship belongs to an admiralty or business interest, on board the ship you are the one in charge.
+
+Progression:
+Be promoted to Admiral by a higher authority, or by obtaining a fleet of your own.</text>
+    </feat>
+    <feat>
+      <name>Seafarer: Sailor Rank 4 - Fleet Admiral</name>
+      <text>You command a fleet of ships, whose captains are your subordinates and carry out your orders. The sailors sing shanties of your glory and you are known from port to harbor across the world. Your fleet contains an array of ships built for many different purposes, which you can assign as you see fit. You personally command the flagship of your fleet. What the future holds for you and the men sailing with you, is shaped by you and your command.
+
+Holdings:
+  • A fleet of ships that follow your every command.
+  • Command of multiple loyal crews that see to the operation and maintenance of your fleet.
+  • You are known in other lands for the tales of your victories and expertise.
+  • Free lodging on any ship you are in command of, and any port or shipyard you are docked at.</text>
+    </feat>
+    <feat>
+      <name>Talent: Calloused Hands (TP)</name>
+      <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
+      <text>Whenever you make a Strength (Athletics) check to lift, drag, or shove a heavy object, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Copycat (TP)</name>
+      <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
+      <text>Whenever you make an Intelligence or Intelligence (Forgery Kit) check to forge or create a document, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Disciplinarian (TP)</name>
+      <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
+      <text>Whenever you make a Charisma (Intimidation) check while issuing a command to an individual of lower rank within your background, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Drunkard (TP)</name>
+      <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
+      <text>Whenever you make a Constitution check to determine if you will throw up, pass out, or how severe a hangover is, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Forecaster (TP)</name>
+      <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
+      <text>Whenever you make a Wisdom (Survival) check to determine the weather for the next 48 hours, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Gambler (TP)</name>
+      <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
+      <text>Whenever you make a Dexterity (Sleight of Hand) or Wisdom (Perception) check to cheat at a game or catch someone else cheating, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Gut Feeling (TP)</name>
+      <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
+      <text>Whenever you make a Wisdom (Insight) check to detect if an Aristocrat or Criminal is lying, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Hard-Working (TP)</name>
+      <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
+      <text>Whenever you make a Constitution check for a repetitive task such as marching or laboring for hours without rest, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Menacing Presence (TP)</name>
+      <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
+      <text>Whenever you make a Charisma (Intimidation) check, and are interacting with Academics, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Navigator (TP)</name>
+      <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
+      <text>Whenever you make a vehicle check, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Recruiter (TP)</name>
+      <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
+      <text>Whenever you make a Charisma (Persuasion) check to recruit people into a role, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Renowned (TP)</name>
+      <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
+      <text>Whenever you make a Charisma (Persuasion) check, and are interacting with Military, Outlanders, or Criminals, you may add your Profession Die.</text>
+    </feat>
+    <feat>
+      <name>Talent: Ropesman (TP)</name>
+      <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
+      <text>Whenever you make a Strength (Athletics) or Dexterity (Acrobatics) check to climb, move along, or jump onto ropes, you can add your Profession Die.</text>
+    </feat>
+    <feat>
+      <name>Talent: Sea Dog (TP)</name>
+      <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
+      <text>Whenever you make a Strength (Athletics) check to swim in water, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Sentry (TP)</name>
+      <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
+      <text>Whenever you make a Wisdom (Perception) check while on watch duty or defending a fortification, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Wayfarer (TP)</name>
+      <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
+      <text>Whenever you make a Wisdom (Survival) check to find a path or avoid getting lost, you can add your Profession Die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Applied Leverage (TP)</name>
+      <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
+      <text>When you make a Strength (Athletics) check to force open a door or container, you may add your profession die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Charity Case (TP)</name>
+      <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
+      <text>When you make a Charisma (Performance) check to fake an illness, injury, or other condition, you may add your profession die to the roll.</text>
+    </feat>
+    <feat>
+      <name>Talent: Temperature Tolerance (TP)</name>
+      <prerequisite>Seafarer: Sailor, Seafarer: Dock Worker, Seafarer: Sea Gatherer</prerequisite>
+      <text>When you make a Constitution saving throw to avoid exhaustion due to extreme temperatures, you may add your profession die to the roll.</text>
+    </feat>
+        <feat>
+          <name>Seafarer: Dock Worker Rank 2 - Customs Inspector (TP)</name>
+          <text>Your days of hard labor are behind you, as you are now charged with inspecting cargo for contraband, collecting tariffs, and filling ledgers of incoming and outgoing vessels. Corruption is rife at any port, and you are exposed to the shady deals, illegal goods, and criminal activities that take place there. It's up to you whether you use your authority to enforce the law or just make sure you get a cut of the action.
+
+    Holdings:
+      • A list of your fellow Customs Inspectors known for accepting bribes and forging ledger entries, and who bribed them.
+      • A letter or clue revealing the smuggling operations of a criminal organization.
+      • Authority over low ranking dockworkers and port guards.
+
+    Progression:
+    Expose a large quantity of contraband or a criminal organization.</text>
+        </feat>
+        <feat>
+          <name>Seafarer: Dock Worker Rank 3 - Harbour Master (TP)</name>
+          <text>Your keen eye and efficient work in customs has earned you the rank of Harbor Master. You now preside over the dock of a harbor town or city. You set the local laws and regulations, governing the flow of trade and passage within your jurisdiction. All who wish to conduct business without hassle make sure they are on good terms with you, as nothing moves without your approval.
+
+    Holdings:
+      • Comfortable accommodation within the port town or city of your station.
+      • Authority of all resources, funding, and personnel of the harbor you manage.
+      • The authority to grant commodity licenses, allowing the import or harvesting of the commodity in the local area.
+
+    Progression:
+    Be promoted by a Monarch or state leader.</text>
+        </feat>
+        <feat>
+          <name>Seafarer: Dock Worker Rank 4 - Sealord (TP)</name>
+          <text>Residing in the capital city of your region, you dictate the laws, taxes, and flow of sea commerce across the region. As a Sealord, you are the undisputed authority in your region when it comes to all subjects related to the harbor.
+
+    Holdings：
+      • Luxurious lodging near the mercantile district of the capital city where you oversee the operations of the region.
+      • Control over docking fees and other charges associated with trading posts and ports across the region.
+      • A seat at any council meetings pertaining to trade or the sea in the kingdom.</text>
+        </feat>
+        <feat>
+      <name>Seafarer: Sea Gatherer Rank 2 - Trawler (TP)</name>
+      <text>Your life begins as a master of waves, as you battle the ocean to attain its most prized treasures. A sturdier ship allows you to venture further and recover more (and more valuable) treasures from the sea. From whale oil to black pearls, you descend upon the seas with a fierce determination and a steely resolve.
+
+Holdings:
+  • A single-masted trawling boat with a few assistants to crew it.
+  • A rumor of a great sunken treasure and the identity of who currently holds the map to it.
+
+Progression:
+Complete a contract to kill a particularly rare and dangerous nautical monster or find a sunken treasure. The contract must be completed for a wizard, merchant prince, or similarly influential individual.</text>
+    </feat>
+    <feat>
+      <name>Seafarer: Sea Gatherer Rank 3 - Trawl Master (TP)</name>
+      <text>With a crew at your back, you have become renowned as one of the fiercest Trawlers alive. No catch is too dangerous, or prize too well-guarded beneath the waves. You are hired by powerful mages, wealthy merchants, and kings to retrieve exotic treasures from the ocean - a task you perform with great prowess.
+
+Holdings:
+  • A deep-sea trawling boat, equipped to spend months at sea.
+  • A team of expert trawlers and divers to assist you in adventures and maintain your boat.
+  • The audience of wizards and merchant princes who wish to hire you.
+
+Progression:
+Slay a major sea monster or find a sunken treasure that becomes legend. The event must draw the awe of influential individuals across the land.</text>
+    </feat>
+    <feat>
+      <name>Seafarer: Sea Gatherer Rank 4 - Nautical Legend (TP)</name>
+      <text>Bards sing of the sea monsters you face and the storms you tame. It is said that even the Primordials of the tempest cannot deter you from your prize. All know that if there is a sunken ruin that needs plundering or an ancient sea creature that needs slaying, there is no one better suited for the task than you.
+
+Holdings:
+  • Control of a coastal island awarded to you by a Monarch in recognition of your feats. The island houses a fortress, guild house, or similar structure where nautical legends gather.
+  • Repute across the land as a figure of legend.
+  • A mighty weapon or artifact provided by a client or retrieved from sunken treasure.
+  • An audience with any Monarch or head of state, at their convenience, to discuss matters of salvage and treasure hunting within the realm.</text>
+    </feat>
+    <trait>
+      <name>Pauper: Begger Rank 2 - Mendicant (TP)</name>
+      <text>A common sight to locals, you have moved up to a better location in a busy street or plaza. You no longer have to fight for your place and have gained the tolerance of the guards and the friendship of other local beggars. By this time you have established a begging "pitch" designed to attract attention without inconveniencing those passing by. This could be a persona or some sort of script that you devise in order to amuse or elicit sympathy from the general populace.
+
+Holdings:
+  • A safe place to sleep near a merchant stall or building.
+  • Friendship with local beggars and a few local traders, who may offer you some spare coin, food, or odd jobs from time to time.
+
+Progression:
+Split a significant windfall with other beggars, earning their loyalty.</text>
+    </trait>
+    <trait>
+      <name>Pauper: Begger Rank 3 - Gutter Baron (TP)</name>
+      <text>You have risen to a position of prominence, such as it is, among the beggars in your city. You are able to direct the actions of a number of other paupers and split the rewards in a far more efficient manner than they could do alone, and they respect and defer to you in important decisions.
+
+Holdings:
+  • Squatter's rights in an abandoned building.
+  • A handful of other beggars who defer to your authority and aid you in gathering money and information.
+  • Knowledge of an illicit deal that took place in an alley in the dead of night, which implicates a minor noble.
+
+Progression:
+Perform a great service for the poor of the city either by thwarting the plans of a ranking noble or leveraging your influence to gain a powerful aristocrat patron.</text>
+    </trait>
+    <trait>
+      <name>Pauper: Begger Rank 4 - Beggar King (TP)</name>
+      <text>You have become the undisputed master of the city's destitute population, and none of them act without your knowledge. Having control of such a wide-ranging network of informants and agents puts you at the center of the city's political power struggles. Even leaders of criminal organizations know that you are not someone to be trifled with.
+
+Holdings:
+  • A comfortable hideout hidden in the slums or sewers.
+  • A network of beggars, informants, and criminals that keep you informed of all illicit activity within the city.
+  • Influence with at least one major player in local crime or politics.</text>
+    </trait>
+    <trait>
+      <name>Talent: Calloused Hands (TP)</name>
+      <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
+      <text>Whenever you make a Strength (Athletics) check to lift, drag, or shove a heavy object, you can add your Profession Die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Camper (TP)</name>
+      <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
+      <text>When you make a Wisdom (Survival) check to construct a temporary shelter, you may add your profession die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Charity Case (TP)</name>
+      <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
+      <text>When you make a Charisma (Performance) check to fake an illness, injury, or other condition, you may add your profession die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Drunkard (TP)</name>
+      <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
+      <text>Whenever you make a Constitution check to determine if you will throw up, pass out, or how severe a hangover is, you can add your Profession Die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Elusive (TP)</name>
+      <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
+      <text>Whenever you make a Dexterity (Stealth) check to hide or blend into a crowd of humanoids that share your background, you can add your Profession Die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Flamboyant Presentation (TP)</name>
+      <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
+      <text>Whenever you make a Charisma (Performance) check to entertain Aristocrats, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Forecaster (TP)</name>
+      <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
+      <text>Whenever you make a Wisdom (Survival) check to determine the weather for the next 48 hours, you can add your Profession Die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Gambler (TP)</name>
+      <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
+      <text>Whenever you make a Dexterity (Sleight of Hand) or Wisdom (Perception) check to cheat at a game or catch someone else cheating, you can add your Profession Die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Gut Feeling (TP)</name>
+      <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
+      <text>Whenever you make a Wisdom (Insight) check to detect if an Aristocrat or Criminal is lying, you can add your Profession Die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Hard-Working (TP)</name>
+      <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
+      <text>Whenever you make a Constitution check for a repetitive task such as marching or laboring for hours without rest, you can add your Profession Die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Menacing Presence (TP)</name>
+      <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
+      <text>Whenever you make a Charisma (Intimidation) check, and are interacting with Academics, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Pitiable (TP)</name>
+      <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
+      <text>When you make a Charisma (Persuasion) check to convince an Aristocrat, Criminal, Militarist, or Clergy that you are not a threat or beneath their notice, you may add your profession die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Solidarity (TP)</name>
+      <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
+      <text>When you make a Charisma (Persuasion) check and you are interacting with members of your background, you may add your profession die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Sticky Fingers (TP)</name>
+      <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
+      <text>When you make a Dexterity (Sleight of Hand) check to snatch something quickly, you may add your profession die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Urban Sprinter (TP)</name>
+      <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
+      <text>Whenever you make a Strength (Athletics) or Dexterity (Acrobatics) check while running away from a pursuer, or pursuing someone else, you can add your Profession Die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Vacant Expression (TP)</name>
+      <prerequisite>Pauper: Begger, Pauper: Vagabond, Pauper: Pit Fighter</prerequisite>
+      <text>When you make a Charisma (Deception) check to feign ignorance and you are interacting with an Academic, Aristocrat, Clergy, or Militarist, you may add your profession die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Pauper: Vagabond Rank 2 - Drifter (TP)</name>
+      <text>You have gotten used to life on the road and now travel aimlessly from town to town. At each stop you take on odd jobs, greet familiar faces, and then move on. Outside your small group of friends spread across Etharis, others are beginning to recognize you as a frequent visitor.
+
+Holdings:
+  • News from far parts of your current region that are not public knowledge.
+  • A letter or package that one of your contacts asked you to deliver to another town.
+
+Progression:
+Save the life of one of your contacts.</text>
+    </trait>
+    <trait>
+      <name>Pauper: Vagabond Rank 3 - Seeker (TP)</name>
+      <text>Your aimless wanderings have taken on a new purpose. Competent in the rigors of the road and dealing with suspicious villagers, you travel from place to place in search of a new life or new direction. For good or ill, you are recognized as you travel, much as a caravan leader or traveling merchant.
+
+Holdings:
+  • A lightweight tent and bedroll.
+  • The ability to send messages across long distances through your network of contacts.
+
+Progression:
+Play a major role in the downfall of a prominent member of society.</text>
+    </trait>
+    <trait>
+      <name>Pauper: Vagabond Rank 4 - Wanderer (TP)</name>
+      <text>You now travel the world not out of necessity, but choice. Your deeds have garnered you an almost mythical reputation, and whispers follow you whenever you enter a new city or settlement. As a champion of righteousness or a walking plague, everyone knows that even the best laid plans are uncertain when you arrive.
+
+Holdings
+  • A respected or feared reputation in any settlement you visit.
+  • Information about major events across Etharis that has not yet made its way to your current location.</text>
+    </trait>
+    <trait>
+      <name>Pauper: Pit Fighter Rank 2 - Prize Fighter (TP)</name>
+      <text>You've made your debut and are now a part of the Fighter's Guild. As part of a small stable of up-andcoming fighters, you are mostly booked for minor tournaments and as warmups for some of the bigger names in arena fighting.
+
+Holdings:
+  • A mentor in the form of a handler, trainer, or promoter who helps organize and book your fights.
+  • Access to a small training area equipped with dummies and frequented by potential sparring partners.
+
+Progression:
+Enter a fight with a high-ranked fighter and either last three rounds or knock your opponent out.</text>
+    </trait>
+    <trait>
+      <name>Pauper: Pit Fighter Rank 3 - Contender (TP)</name>
+      <text>Recognized as one of the most promising fighters in the Guild, you are now eligible for entry into major tournaments for ever-increasing amounts of prize money. Most of the money goes to your handlers, but your standard of living has increased dramatically along with your value.
+
+Holdings:
+  • A private room at a high quality inn or other establishment.
+  • Several admirers among the arena patrons, willing to ingratiate themselves with gifts or bribes.
+
+Progression:
+Win a major championship bout.</text>
+    </trait>
+    <trait>
+      <name>Pauper: Pit Fighter Rank 4 - Arena Champ (TP)</name>
+      <text>Being champion of an underground tournament makes you a major figure within the Fighter's Guild. As your fights draw greater and greater crowds, your duties are lessened and you live in relative luxury. Admired by some, envied by others, you nevertheless command respect among those in your line of work. Even your patron is willing to bend to most of your wishes, out of fear that you will defect to another noble or trainer.
+
+Holdings:
+  • A collection of toadies and sycophants, eager to follow your wishes.
+  • Job offers and party invitations from various nobles and criminals aware of your status.
+  • A fancy championship trophy, which can take the form of a belt, cup, or some other trinket.</text>
+    </trait>
+    <trait>
+      <name>Clan Member: Raider Rank 2 - Pillager (TP)</name>
+      <text>As a full member of the raiding party, you are trained to strike hard and fast, then escape with whatever loot you can find. Common tactics involve sowing confusion by setting fires or releasing livestock, or drawing the attention of the defenders to allow for easier plunder elsewhere. Your tribe depends on you as a main source of food and supplies, and your comrades depend on you to watch their backs in the chaos of a raid.
+
+Holdings:
+  • A younger warrior assigned to maintain your equipment and carry your loot.
+  • Your pick of the goods seized on raids, in order of seniority.
+
+Progression:
+Perform deeds of notable bravery and be promoted by a warlord or chieftain.</text>
+    </trait>
+    <trait>
+      <name>Clan Member: Raider Rank 3 - Raid Leader (TP)</name>
+      <text>Through a number of raids you have proven yourself cunning, ruthless, and skilled at combat. As a raid leader you are tasked with not only gathering as much as you can from your targets, but ensuring that your warriors return alive. Your underlings look to you for the tactics to use during the raid, and you must reign in the more reckless raiders lest they go too far.
+
+Holdings:
+  • A fine dwelling within the village, showcasing trophies from prior raids.
+  • Command over a raiding party and a voice at any war council.
+  • First pick of any goods seized during a raid.
+
+Progression:
+Save a chieftain's life or defeat a sworn enemy of the tribe in single combat.</text>
+    </trait>
+    <trait>
+      <name>Clan Member: Raider Rank 4 - Warlord (TP)</name>
+      <text>Your deeds are legendary. When you speak, chieftains listen, and you direct policy as much as raiding. More to the point, you are the one who decides where and when to raid and how the military might of the clan will be brought to bear.
+
+Holdings
+  • Authority over at least three raiding parties within your tribe.
+  • Access to war councils and peace negotiations.
+  • The ability to requisition goods and recruit new raiders.</text>
+    </trait>
+    <trait>
+      <name>Talent: Applied Leverage (TP)</name>
+      <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
+      <text>When you make a Strength (Athletics) check to force open a door or container, you may add your profession die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Beast Whisperer (TP)</name>
+      <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
+      <text>Whenever you make a Wisdom (Animal Handling) check to train or direct orders to a beast, you can add your Profession Die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Biologist (TP)</name>
+      <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
+      <text>Whenever you make an Intelligence (Nature) check to determine the properties of animals, you can add your Profession Die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Botanist (TP)</name>
+      <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
+      <text>Whenever you make an Intelligence (Nature) check to determine the properties of plants, you can add your Profession Die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Calloused Hands (TP)</name>
+      <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
+      <text>Whenever you make a Strength (Athletics) check to lift, drag, or shove a heavy object, you can add your Profession Die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Camper (TP)</name>
+      <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
+      <text>When you make a Wisdom (Survival) check to construct a temporary shelter, you may add your profession die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Disciplinarian (TP)</name>
+      <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
+      <text>Whenever you make a Charisma (Intimidation) check while issuing a command to an individual of lower rank within your background, you can add your Profession Die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Drunkard (TP)</name>
+      <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
+      <text>Whenever you make a Constitution check to determine if you will throw up, pass out, or how severe a hangover is, you can add your Profession Die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Gambler (TP)</name>
+      <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
+      <text>Whenever you make a Dexterity (Sleight of Hand) or Wisdom (Perception) check to cheat at a game or catch someone else cheating, you can add your Profession Die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Hard-Working (TP)</name>
+      <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
+      <text>Whenever you make a Constitution check for a repetitive task such as marching or laboring for hours without rest, you can add your Profession Die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Local Historian (TP)</name>
+      <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
+      <text>Whenever you make an Intelligence (History) check to determine the history of an item, location, or cultural phenomenon from the same region as you, you can add your Profession Die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Looter (TP)</name>
+      <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
+      <text>When you make an Intelligence (Investigation) roll to find hidden valuables, you may add your profession die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Menacing Presence (TP)</name>
+      <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
+      <text>Whenever you make a Charisma (Intimidation) check, and are interacting with Academics, Common Folk, or Seafarers, you can add your Profession Die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Solidarity (TP)</name>
+      <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
+      <text>When you make a Charisma (Persuasion) check and you are interacting with members of your background, you may add your profession die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Temperature Tolerance (TP)</name>
+      <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
+      <text>When you make a Constitution saving throw to avoid exhaustion due to extreme temperatures, you may add your profession die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Tree Springer (TP)</name>
+      <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
+      <text>When you make a Dexterity (Acrobatics) check to ascend, descend, or travel between trees, you may add your profession die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Talent: Wayfarer (TP)</name>
+      <prerequisite>Clan Member: Raider, Clan Member: Shaman, Clan Member: Tribesperson</prerequisite>
+      <text>Whenever you make a Wisdom (Survival) check to find a path or avoid getting lost, you can add your Profession Die to the roll.</text>
+    </trait>
+    <trait>
+      <name>Clan Member: Shaman Rank 2 - Hedge Witch (TP)</name>
+      <text>Clan members now come to you for advice on minor matters. Your master remains in charge of the major rituals and ceremonies, but you are granted the authority to dole out minor blessings on an individual basis. Part of your duties also includes the telling of cautionary tales to the younger members of the tribe.
+
+Holdings:
+  • A small hut set on the outskirts of your clan, near your master's dwelling.
+  • A following within the tribe's youth who are willing to aid you in minor matters.
+
+Progression:
+Be selected as shaman for a new camp or inherit your master's position after their death or retirement.</text>
+    </trait>
+    <trait>
+      <name>Clan Member: Shaman Rank 3 - Witch Doctor (TP)</name>
+      <text>You have taken over the majority of the rituals and ceremonies of the tribe. People come to you for advice with their problems, both physical and spiritual, and you are treated with deference for your position.
+
+Holdings:
+  • Respect and deference from the majority of your tribe, which occasionally manifests itself as gifts and offerings.
+  • A large hut, well stocked with the various tools of your trade.
+  • The secret herbs and chants required to complete a vision quest.
+
+Progression:
+Successfully guide an important decision by consulting the spirits for a chieftain.</text>
+    </trait>
+    <trait>
+      <name>Clan Member: Shaman Rank 4 - Sage (TP)</name>
+      <text>You are considered the voice of the spirits and repository of your tribe's oral history. Even those from outside your tribe have heard of you and seek you out from far and wide. You are invited to preside over all cultural ceremonies and direct the tribe in matters of spirituality. This includes advising the chieftain on nearly all important decisions.
+
+Holdings:
+  • High ranking tribe members and chieftains put great value on your advice and consult with you before important decisions.
+  • Apprentices and pupils that carry out the majority of the mundane tasks associated with your position.
+  • The ability to designate holy or forbidden sites and limit tribal access to those areas.</text>
+    </trait>
+    <trait>
+      <name>Clan Member: Tribesperson Rank 2 - Hunter-Gatherer (TP)</name>
+      <text>The elders of your tribe have granted you permission to venture outside the boundaries of your settlement. As a hunter-gatherer, you are responsible not only for procuring food, but also dealing with minor threats to the tribe and exploring for new resources and possible locations for expansion.
+
+Holdings:
+  • The tools to perform your duties, including basic hunting and fishing gear, materials, and aid from local craftsmen.
+  • The ability to recruit other tribe members to aid you in retrieving goods from the wild or helping to set up small camps outside your home territory.
+
+Progression:
+Display excellent leadership and aid the tribe during a crisis.</text>
+    </trait>
+    <trait>
+      <name>Clan Member: Tribesperson Rank 3 - Elder (TP)</name>
+      <text>Elders oversee many of the day-to-day issues within a tribe and advise the chieftain on matters of importance. Your actions on behalf of the tribe and your good judgement have earned you a place among them. The words of an elder carry great weight within the tribe, and an elder has the power to decide minor matters unilaterally. When issues require greater consideration, a number of elders may consult on the matter before rendering a decision.
+
+Holdings:
+  • Authority over the vast majority of tribe members.
+  • A fine dwelling and free access to tribal goods and services.
+
+Progression:
+Serve the tribe wisely in times of trouble.</text>
+    </trait>
+    <trait>
+      <name>Clan Member: Tribesperson Rank 4 - Chieftain (TP)</name>
+      <text>By election, trial, or some other method, you have been selected as the leader of your tribe. At home in your tribe, others may advise you, but your word is law. Where multiple tribes band together, you speak for your people.
+
+Holdings:
+  • Counsel from the elders, warlords, and spiritual leaders of your tribe.
+  • Final authority on all tribe decisions and disputes, and complete authority over all tribe members.
+  • The grandest house in the camp or village, which doubles as a meeting place for important meetings and visiting dignitaries.</text>
+    </trait>
+            </compendium>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Acheron Double-Bladed Scimitar</name>
+    <name>Acheron Double-Bladed Scimitar (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -32,7 +32,7 @@ Source:	Explorer's Guide to Wildemount p. 265 (Third Party),
     <roll>1d4+4</roll>
   </item>
   <item>
-    <name>Corpse Slayer Double-Bladed Scimitar</name>
+    <name>Corpse Slayer Double-Bladed Scimitar (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -59,7 +59,7 @@ Source:	Explorer's Guide to Wildemount p. 266 (Third Party),
     <roll>1d8</roll>
   </item>
   <item>
-    <name>Double-Bladed Scimitar of Certain Death</name>
+    <name>Double-Bladed Scimitar of Certain Death (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>

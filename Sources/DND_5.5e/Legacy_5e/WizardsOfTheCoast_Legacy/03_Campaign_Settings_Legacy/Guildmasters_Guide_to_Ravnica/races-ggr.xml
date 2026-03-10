@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Goblin (Ravnica)</name>
+    <name>Goblin of Ravnica (Legacy)</name>
     <size>S</size>
     <speed>30</speed>
     <proficiency />
@@ -49,7 +49,7 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
   </race>
   <race>
-    <name>Loxodon</name>
+    <name>Loxodon (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <proficiency />
@@ -103,7 +103,7 @@ Your trunk can't wield weapons or shields or do anything that requires manual pr
     </trait>
   </race>
   <race>
-    <name>Simic Hybrid</name>
+    <name>Simic Hybrid (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <proficiency />
@@ -162,7 +162,7 @@ At 5th level, your body evolves further, developing new characteristics. Choose 
     </trait>
   </race>
   <race>
-    <name>Vedalken</name>
+    <name>Vedalken (Legacy)</name>
     <size>M</size>
     <speed>30</speed>
     <proficiency />
