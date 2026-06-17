@@ -8,7 +8,7 @@
     <alignment>Chaotic Neutral</alignment>
     <ac>21</ac>
     <hp>668 (89d8+267)</hp>
-    <speed>30 ft. (fly 150 ft. in fairy form)</speed>
+    <speed>walk 30 ft. (fly 150 ft. in fairy form)</speed>
     <str>15</str>
     <dex>23</dex>
     <con>16</con>
@@ -80,7 +80,7 @@
     </legendary>
     <slots>0,4,3,3,3,3,2,2,1,1</slots>
     <spells>Druidcraft, Poison Spray, Resistance, Thorn Whip, Charm Person, Cure Wounds, Faerie Fire, Healing Word, Heat Metal, Hold Person, Moonbeam, Spike Growth, Call Lightning, Conjure Animals, Dispel Magic, Sleet Storm, Confusion, Dominate Beast, Grasping Vine, Awaken, Geas, Scrying, Conjure Fey, Heal, Sunbeam, Regenerate, Reverse Gravity, Earthquake, Feeblemind, Foresight, Shapechange</spells>
-    <description>Source:	Tasha's Scrapped Book p. 59 (Homebrew)</description>
+    <description>Source:	Tasha's Scrapped Book p. 59 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -91,7 +91,7 @@
     <alignment>Chaotic Neutral</alignment>
     <ac>20 (enchanted leather armor)</ac>
     <hp>308 (41d8+123)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>18</str>
     <dex>22</dex>
     <con>17</con>
@@ -168,7 +168,7 @@ Below</name>
       <text>Oberon chooses one target he can see. All his attacks against that target inflict an additional 14 (4d6) damage until the end of his next turn.</text>
       <attack>Mark the Target||4d6</attack>
     </legendary>
-    <description>Source:	Tasha's Scrapped Book p. 60 (Homebrew)</description>
+    <description>Source:	Tasha's Scrapped Book p. 60 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -179,7 +179,7 @@ Below</name>
     <alignment>Neutral Evil</alignment>
     <ac>20 (natural armor)</ac>
     <hp>615 (82d8+246)</hp>
-    <speed>30 ft., fly 60 ft. (hover)</speed>
+    <speed>walk 30 ft., fly 60 ft. (hover)</speed>
     <str>9</str>
     <dex>22</dex>
     <con>17</con>
@@ -252,7 +252,7 @@ Below</name>
       <name>Glimpse of the Eternal</name>
       <text>The Queen of Air and Darkness reaches into the mind of a creature within 30 feet and reveals her face. The creature must make a DC 22 Wisdom saving throw or be incapacitated until the end of their next turn.</text>
     </legendary>
-    <description>Source:	Tasha's Scrapped Book p. 61 (Homebrew)</description>
+    <description>Source:	Tasha's Scrapped Book p. 61 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -263,7 +263,7 @@ Below</name>
     <alignment>Neutral Evil</alignment>
     <ac>17 (enchanted leather armor)</ac>
     <hp>156 (24d8+48)</hp>
-    <speed>35 ft.</speed>
+    <speed>walk 35 ft.</speed>
     <str>12</str>
     <dex>19</dex>
     <con>15</con>
@@ -327,7 +327,7 @@ Below</name>
       <text>Ice may move up to his full speed. This attack does not provoke opportunity attacks.</text>
     </action>
     <spells>Hunter's Mark, Jump, Longstrider</spells>
-    <description>Source:	Tasha's Scrapped Book p. 62 (Homebrew)</description>
+    <description>Source:	Tasha's Scrapped Book p. 62 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -337,7 +337,7 @@ Below</name>
     <alignment>Unaligned</alignment>
     <ac>18 (natural armor)</ac>
     <hp>294 (28d12+112)</hp>
-    <speed>40 ft., climb 40 ft.</speed>
+    <speed>walk 40 ft., climb 40 ft.</speed>
     <str>22</str>
     <dex>10</dex>
     <con>18</con>
@@ -397,7 +397,7 @@ Below</name>
     </action>
     <description>Do note that although one throne is made of ice and the other of solid shadow and smoke, the statistics for both thrones are the same.
 
-Source:	Tasha's Scrapped Book p. 63 (Homebrew)</description>
+Source:	Tasha's Scrapped Book p. 63 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -410,7 +410,7 @@ Source:	Tasha's Scrapped Book p. 63 (Homebrew)</description>
     <alignment>Chaotic Neutral</alignment>
     <ac>14 (leather armor)</ac>
     <hp>45 (10d8)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>11</str>
     <dex>15</dex>
     <con>10</con>
@@ -448,7 +448,7 @@ Source:	Tasha's Scrapped Book p. 63 (Homebrew)</description>
     </action>
     <description>Fey nobles attend both courts. They are the primary players in the convoluted politics of both courts. Mortals find them beautiful, and they find mortals to be useful tools. Nearly every noble belongs to a clan, usually bound by blood. These clans form the basis of fey society and are always beholden to at least one fey lord. Marriages between different clans are supposed to create new alliances, but mostly just cause more chaos.
 
-Source:	Tasha's Scrapped Book p. 64 (Homebrew)</description>
+Source:	Tasha's Scrapped Book p. 64 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -461,7 +461,7 @@ Source:	Tasha's Scrapped Book p. 64 (Homebrew)</description>
     <alignment>Any Alignment</alignment>
     <ac>11 (natural armor)</ac>
     <hp>45 (10d8)</hp>
-    <speed>35 ft.</speed>
+    <speed>walk 35 ft.</speed>
     <str>9</str>
     <dex>14</dex>
     <con>10</con>
@@ -498,7 +498,7 @@ Source:	Tasha's Scrapped Book p. 64 (Homebrew)</description>
     <description>Fey consorts are neither combat veterans or skilled assassins, but they are some of the most dangerous members of either fey court. They are skilled manipulators and spies. They excel at gathering information and spotting corrupt individuals they can manipulate into giving the fey consorts what they want.
 	Fey consorts avoid combat whenever possible, leaving that for the more boorish members of the court. Fey consorts are almost perversely fond of mortals, who are easy to manipulate.
 
-Source:	Tasha's Scrapped Book p. 65 (Homebrew)</description>
+Source:	Tasha's Scrapped Book p. 65 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -510,7 +510,7 @@ Source:	Tasha's Scrapped Book p. 65 (Homebrew)</description>
     <alignment>any non-good alignment</alignment>
     <ac>14 (leather armor)</ac>
     <hp>61 (11d8+11)</hp>
-    <speed>35 ft.</speed>
+    <speed>walk 35 ft.</speed>
     <str>11</str>
     <dex>16</dex>
     <con>12</con>
@@ -554,7 +554,7 @@ Source:	Tasha's Scrapped Book p. 65 (Homebrew)</description>
     <spells>Friends, Minor Illusion</spells>
     <description>The Unseelie Court is the home of the dark hunt. The dark hunt is a collection of fey and unique creatures that the Queen of Air and Darkness unleashes on anyone foolish enough to displease her, anger her, or if she's bored. The dark hunt gleefully seeks out its prey. Prizes and honor will be showered on the fey that kills the target of the hunt. Particularly painful or artistic kills will be given even greater honor. Competition amongst the dark hunt is extremely high, and most fey consider the race back to the Unseelie Court to deliver the target's head to be the most exciting part.
 
-Source:	Tasha's Scrapped Book p. 65 (Homebrew)</description>
+Source:	Tasha's Scrapped Book p. 65 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -565,7 +565,7 @@ Source:	Tasha's Scrapped Book p. 65 (Homebrew)</description>
     <alignment>Neutral Evil</alignment>
     <ac>22 (natural armor)</ac>
     <hp>690 (60d8+420)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>30</str>
     <dex>17</dex>
     <con>24</con>
@@ -654,7 +654,7 @@ Source:	Tasha's Scrapped Book p. 65 (Homebrew)</description>
 	Baba Yaga is an ancient witch that has been called the mother of hags, the first night hag, the first witch and a thousand other titles besides. She is a wizened figure barely five feet tall, although severely hunched. Her hands are tipped with iron claws, and despite her appearance, she is devastatingly fast. Her eyes are black as coal, and when she smiles it is apparent that her teeth are made of sharpened stones. Baba Yaga smiles a lot.
 	Baba Yaga is a mysterious figure within the Feywild. Sometimes helpful, and sometimes a cataclysmic force of nature. She does what she wishes when she wishes and very few creatures have the power to stop her.
 
-Source:	Tasha's Scrapped Book p. 66 (Homebrew)</description>
+Source:	Tasha's Scrapped Book p. 66 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -666,7 +666,7 @@ Source:	Tasha's Scrapped Book p. 66 (Homebrew)</description>
     <alignment>Lawful Good</alignment>
     <ac>14</ac>
     <hp>105 (14d8+42)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>16</str>
     <dex>17</dex>
     <con>14</con>
@@ -715,7 +715,7 @@ Source:	Tasha's Scrapped Book p. 66 (Homebrew)</description>
     </action>
     <description>These wingless angels have the heads of dogs &amp; the bodies of muscled paladins. They serve as angelic guards &amp; foot soldiers.
 
-Source:	Tasha's Scrapped Book p. 68 (Homebrew)</description>
+Source:	Tasha's Scrapped Book p. 68 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -725,7 +725,7 @@ Source:	Tasha's Scrapped Book p. 68 (Homebrew)</description>
     <alignment>Unaligned</alignment>
     <ac>19</ac>
     <hp>336 (32d12+128)</hp>
-    <speed>40 ft., fly 80 ft.</speed>
+    <speed>walk 40 ft., fly 80 ft.</speed>
     <str>24</str>
     <dex>8</dex>
     <con>18</con>
@@ -810,7 +810,7 @@ Source:	Tasha's Scrapped Book p. 68 (Homebrew)</description>
 	The jabberwocky is a massive dragon shaped creature nearly thirty feet in length. It is a gangly mishmash of limbs, with a head far too large for its neck. Its eyes constantly wander, never looking at anything for very long and its heavy jaws constantly move. The jabberwocky has small wings that are barely able to lift its massive body off the ground.
 	Little is known about the history of the jabberwocky. Some sages think it to be a type of dragon, and others a mutilated fiend or celestial. No one really knows. Sages even argue if there is one jabberwocky or if it is a species of dragon native to the Feywild. The only sure thing is that the jabberwocky isn't telling anyone.
 
-Source:	Tasha's Scrapped Book p. 69 (Homebrew)</description>
+Source:	Tasha's Scrapped Book p. 69 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -822,7 +822,7 @@ Source:	Tasha's Scrapped Book p. 69 (Homebrew)</description>
     <alignment>Neutral Good</alignment>
     <ac>19</ac>
     <hp>12 (5d4)</hp>
-    <speed>0 ft., fly 50 ft. (hover)</speed>
+    <speed>walk 0 ft., fly 50 ft. (hover)</speed>
     <str>1</str>
     <dex>28</dex>
     <con>10</con>
@@ -865,7 +865,7 @@ Source:	Tasha's Scrapped Book p. 69 (Homebrew)</description>
     <spells>Cure Wounds, Sacred Flame</spells>
     <description>These wispy entities appear to be harmless balls of floating light to untrained observers. Yet, their ephemeral and benign appearance hides their true natures. They are the departed spirits of great warriors, tasked by the gods with protecting their people.
 
-Source:	Tasha's Scrapped Book p. 70 (Homebrew)</description>
+Source:	Tasha's Scrapped Book p. 70 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -875,7 +875,7 @@ Source:	Tasha's Scrapped Book p. 70 (Homebrew)</description>
     <alignment>Chaotic Evil</alignment>
     <ac>14</ac>
     <hp>18 (4d8)</hp>
-    <speed>40 ft., climb 40 ft.</speed>
+    <speed>walk 40 ft., climb 40 ft.</speed>
     <str>13</str>
     <dex>17</dex>
     <con>10</con>
@@ -916,7 +916,7 @@ Source:	Tasha's Scrapped Book p. 70 (Homebrew)</description>
     </reaction>
     <description>These fiendish creatures resemble hairless pale-white dogs but with elongated legs. Being experts at following magical trails left behind by arcane uses, they are frequently used by both bounty hunters to track down unlawful mages and by Devils who are looking for someone to enslave. Once one of these creatures mark a target, they will stop at almost nothing until they catch their quarry.
 
-Source:	Tasha's Scrapped Book p. 70 (Homebrew)</description>
+Source:	Tasha's Scrapped Book p. 70 (Indie)</description>
     <environment/>
   </monster>
 </compendium>

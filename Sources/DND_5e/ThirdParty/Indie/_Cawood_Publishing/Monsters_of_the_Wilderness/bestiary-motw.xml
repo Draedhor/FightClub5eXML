@@ -7,7 +7,7 @@
     <alignment>unaligned</alignment>
     <ac>16 (mind armor)</ac>
     <hp>60 (8d10+16)</hp>
-    <speed>0 ft., fly 30 ft. (hover)</speed>
+    <speed>walk 0 ft., fly 30 ft. (hover)</speed>
     <str>17</str>
     <dex>11</dex>
     <con>15</con>
@@ -58,7 +58,7 @@
 
 	Neural Network. Cerebrax can communicate with others of their kind, even through portals like Riftgates. They share a hive mind where they can access each others' memories.
 
-Source:	Monsters of the Wilderness p. 7 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 7 (Indie)</description>
     <environment>any</environment>
   </monster>
   <monster>
@@ -69,7 +69,7 @@ Source:	Monsters of the Wilderness p. 7 (Homebrew)</description>
     <alignment>chaotic good</alignment>
     <ac>13 (16 with mage armor)</ac>
     <hp>127 (15d8+60)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>12</str>
     <dex>16</dex>
     <con>18</con>
@@ -130,7 +130,7 @@ Source:	Monsters of the Wilderness p. 7 (Homebrew)</description>
     <spells>fire bolt, light, mage hand, message, prestidigitation, expeditious retreat, feather fall, longstrider, magic missile, shield, alter self, darkvision, invisibility, misty step, scorching ray, spider climb, counterspell, fireball, gaseous form, haste, meld into stone, water breathing, fabricate, polymorph, stone shape, animate objects, control wind, modify memory, passwall, raise dead, flesh to stone, wind walk, etherealness, reverse gravity, control weather, mind blank, gate</spells>
     <description>Oswald Myrr is a legendary wizard and a new member of the Alliance of the Griffon. Some call him the Wizard of Zogg, after his homeland. Oswald currently lives in a secret woodland manor on the continent of Naern. The people of Zogg and Myrr believe the wizard died 500 years ago. However, he is still alive and on a path of redemption. Long ago he was banished from the Wizard Council for his hazardous experiments. After causing so much turmoil, the ancient mage has joined the Alliance to try to make things right. He usually rides a pegasus as his mount.
 
-Source:	Monsters of the Wilderness p. 147 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 147 (Indie)</description>
     <environment>any</environment>
   </monster>
   <monster>
@@ -143,7 +143,7 @@ Source:	Monsters of the Wilderness p. 147 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>165 (22d8+66)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>18</str>
     <dex>15</dex>
     <con>16</con>
@@ -199,7 +199,7 @@ Source:	Monsters of the Wilderness p. 147 (Homebrew)</description>
 
 	Lost Love. At the core of her madness is a broken heart. Her husband didn't just leave her, he didn't love her anymore. While Edmund quickly forgot about his wife, she could never get over him.
 
-Source:	Monsters of the Wilderness p. 148 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 148 (Indie)</description>
     <environment>any</environment>
   </monster>
   <monster>
@@ -212,7 +212,7 @@ Source:	Monsters of the Wilderness p. 148 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>218 (23d8+115)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>15</str>
     <dex>16</dex>
     <con>20</con>
@@ -280,7 +280,7 @@ Source:	Monsters of the Wilderness p. 148 (Homebrew)</description>
 
 	Dark Path. Fed up with the restrictions of the Wizard Council, Edmund took drastic action. He met with necromancers from the Void and threw himself off Grim Rock. Then the evil spellcasters helped him return to the world as a Lich King. Over a short period of time, Edmund took his place as one of the seven undead Kings of the Void.
 
-Source:	Monsters of the Wilderness p. 149 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 149 (Indie)</description>
     <environment>any</environment>
   </monster>
   <!-- Ocean Region -->
@@ -291,7 +291,7 @@ Source:	Monsters of the Wilderness p. 149 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>21 (natural armor)</ac>
     <hp>518 (28d20+224)</hp>
-    <speed>0 ft., swim 60 ft.</speed>
+    <speed>walk 0 ft., swim 60 ft.</speed>
     <str>30</str>
     <dex>20</dex>
     <con>27</con>
@@ -377,7 +377,7 @@ There's Always a Bigger Fish. This massive monster hunts constantly and needs a 
 
 	Secluded Sea Cave. Legends say that the Waugan inhabits a mammoth sea cave. The creature has looted many of the ships it has sunk and taken the bounty. Therefore, most scholars believe a sizeable treasure hoard must be stowed in its cave.
 
-Source:	Monsters of the Wilderness p. 10 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 10 (Indie)</description>
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
@@ -388,7 +388,7 @@ Source:	Monsters of the Wilderness p. 10 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>13 (16 with mage armor)</ac>
     <hp>60 (8d8+24)</hp>
-    <speed>30 ft., swim 40 ft.</speed>
+    <speed>walk 30 ft., swim 40 ft.</speed>
     <str>14</str>
     <dex>16</dex>
     <con>17</con>
@@ -449,7 +449,7 @@ Source:	Monsters of the Wilderness p. 10 (Homebrew)</description>
 
 	Scheming Seaman. Kairos is seeking to overthrow King Nemos with the help of sahuagin and aquarian rebels. He uses a unique conch shell to summon the Waugan.
 
-Source:	Monsters of the Wilderness p. 12 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 12 (Indie)</description>
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
@@ -460,7 +460,7 @@ Source:	Monsters of the Wilderness p. 12 (Homebrew)</description>
     <alignment>lawful evil</alignment>
     <ac>14 (shell armor)</ac>
     <hp>27 (5d8+5)</hp>
-    <speed>30 ft., swim 50 ft.</speed>
+    <speed>walk 30 ft., swim 50 ft.</speed>
     <str>14</str>
     <dex>15</dex>
     <con>12</con>
@@ -510,7 +510,7 @@ Source:	Monsters of the Wilderness p. 12 (Homebrew)</description>
 
 	Uneasy Alliance. The sahuagin used to be enemies of the aquarians but a recent treaty has changed all that. However, having an alliance with the devious sea devils is never easy. A missing aquarian scouting party has raised fears that the sahuagin cannot be trusted.
 
-Source:	Monsters of the Wilderness p. 13 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 13 (Indie)</description>
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
@@ -521,7 +521,7 @@ Source:	Monsters of the Wilderness p. 13 (Homebrew)</description>
     <alignment>lawful evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>115 (11d10+55)</hp>
-    <speed>30 ft., swim 40 ft.</speed>
+    <speed>walk 30 ft., swim 40 ft.</speed>
     <str>22</str>
     <dex>15</dex>
     <con>20</con>
@@ -576,7 +576,7 @@ Source:	Monsters of the Wilderness p. 13 (Homebrew)</description>
 
 	Elite Entourage. A group of elite aquarian soldiers protects the queen. She also has a trio of coroctopi (page 15) near her at all times. She has the support of most of her people, although this is based on fear.
 
-Source:	Monsters of the Wilderness p. 14 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 14 (Indie)</description>
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
@@ -588,7 +588,7 @@ Source:	Monsters of the Wilderness p. 14 (Homebrew)</description>
     <alignment>unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>85 (10d10+30)</hp>
-    <speed>20 ft., swim 50 ft.</speed>
+    <speed>walk 20 ft., swim 50 ft.</speed>
     <str>18</str>
     <dex>15</dex>
     <con>16</con>
@@ -634,7 +634,7 @@ Source:	Monsters of the Wilderness p. 14 (Homebrew)</description>
 
 	Fishermen's Friend. Local fishermen can actually benefit from the presence of this monster. It doesn't usually attack them and the coroctopus scares fish, crabs, and other creatures into the open.
 
-Source:	Monsters of the Wilderness p. 15 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 15 (Indie)</description>
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
@@ -646,7 +646,7 @@ Source:	Monsters of the Wilderness p. 15 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>45 (6d10+12)</hp>
-    <speed>0 ft., swim 60 ft.</speed>
+    <speed>walk 0 ft., swim 60 ft.</speed>
     <str>18</str>
     <dex>14</dex>
     <con>14</con>
@@ -688,7 +688,7 @@ Source:	Monsters of the Wilderness p. 15 (Homebrew)</description>
 
 	Gregarious Gangs. Coral eels often travel in groups of about ten. Although they can be found in the hundreds near the coast. They mainly eat cod, halibut, shrimp, salmon, and octopi. However, their magical bubbles enable them to hunt larger prey such as seals.
 
-Source:	Monsters of the Wilderness p. 16 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 16 (Indie)</description>
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
@@ -699,7 +699,7 @@ Source:	Monsters of the Wilderness p. 16 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>172 (15d12+75)</hp>
-    <speed>0 ft., swim 40 ft.</speed>
+    <speed>walk 0 ft., swim 40 ft.</speed>
     <str>21</str>
     <dex>11</dex>
     <con>20</con>
@@ -748,7 +748,7 @@ Source:	Monsters of the Wilderness p. 16 (Homebrew)</description>
 
 	Deep Magic. Even though it swims far from royal palaces and other seats of power, the Deep One uses magic to enter the minds of unsuspecting creatures. It will use its scrying and dream spells, as well as telepathy to influence others. At times, the monster will have its victims make an undersea journey to meet face-to-face.
 
-Source:	Monsters of the Wilderness p. 17 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 17 (Indie)</description>
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
@@ -760,7 +760,7 @@ Source:	Monsters of the Wilderness p. 17 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>76 (8d10+32)</hp>
-    <speed>30 ft., swim 40 ft.</speed>
+    <speed>walk 30 ft., swim 40 ft.</speed>
     <str>18</str>
     <dex>16</dex>
     <con>18</con>
@@ -809,7 +809,7 @@ Source:	Monsters of the Wilderness p. 17 (Homebrew)</description>
 
 	Evil Eye. The fiend's large eye can shoot out a bizarre green ray. This magical beam can cause a creature to be mutilated in strange ways. The unfortunate victims are often ostracized when they return to their communities.
 
-Source:	Monsters of the Wilderness p. 18 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 18 (Indie)</description>
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
@@ -819,7 +819,7 @@ Source:	Monsters of the Wilderness p. 18 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>14 (17 with mage armor)</ac>
     <hp>66 (7d8+35)</hp>
-    <speed>30 ft., swim 60 ft.</speed>
+    <speed>walk 30 ft., swim 60 ft.</speed>
     <str>10</str>
     <dex>18</dex>
     <con>20</con>
@@ -878,7 +878,7 @@ Source:	Monsters of the Wilderness p. 18 (Homebrew)</description>
 
 	Sea of Love. Recently the Fathomer has fallen in love with a mermaid. Although she is drawn to the tormented creature, she is scared of his unpredictable nature.
 
-Source:	Monsters of the Wilderness p. 19 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 19 (Indie)</description>
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
@@ -890,7 +890,7 @@ Source:	Monsters of the Wilderness p. 19 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>8</ac>
     <hp>230 (20d12+100)</hp>
-    <speed>0 ft., swim 40 ft.</speed>
+    <speed>walk 0 ft., swim 40 ft.</speed>
     <str>25</str>
     <dex>7</dex>
     <con>20</con>
@@ -941,7 +941,7 @@ Source:	Monsters of the Wilderness p. 19 (Homebrew)</description>
 
 	Undead Nature. The ghost whale doesn't require air, food, drink, or sleep.
 
-Source:	Monsters of the Wilderness p. 20 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 20 (Indie)</description>
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
@@ -953,7 +953,7 @@ Source:	Monsters of the Wilderness p. 20 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>13 (natural armor)</ac>
     <hp>87 (7d12+42)</hp>
-    <speed>0 ft., swim 50 ft.</speed>
+    <speed>walk 0 ft., swim 50 ft.</speed>
     <str>21</str>
     <dex>10</dex>
     <con>23</con>
@@ -1005,7 +1005,7 @@ Source:	Monsters of the Wilderness p. 20 (Homebrew)</description>
 
 	Undead Nature. A giant shark zombie doesn't require air, food, drink, or sleep.
 
-Source:	Monsters of the Wilderness p. 21 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 21 (Indie)</description>
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
@@ -1016,7 +1016,7 @@ Source:	Monsters of the Wilderness p. 21 (Homebrew)</description>
     <alignment>lawful good</alignment>
     <ac>17 (natural armor)</ac>
     <hp>133 (14d10+56)</hp>
-    <speed>0 ft., swim 50 ft.</speed>
+    <speed>walk 0 ft., swim 50 ft.</speed>
     <str>20</str>
     <dex>20</dex>
     <con>18</con>
@@ -1072,7 +1072,7 @@ Source:	Monsters of the Wilderness p. 21 (Homebrew)</description>
 
 	Undersea Palace. His large family, including the many princesses, all live in Coral Castle. A company of merfolk knights are based at the castle with a stable of dolphins and sea horses.
 
-Source:	Monsters of the Wilderness p. 22 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 22 (Indie)</description>
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
@@ -1083,7 +1083,7 @@ Source:	Monsters of the Wilderness p. 22 (Homebrew)</description>
     <alignment>lawful good</alignment>
     <ac>16 (merfolk armor)</ac>
     <hp>65 (10d8+20)</hp>
-    <speed>0 ft., swim 40 ft.</speed>
+    <speed>walk 0 ft., swim 40 ft.</speed>
     <str>18</str>
     <dex>18</dex>
     <con>14</con>
@@ -1134,7 +1134,7 @@ Source:	Monsters of the Wilderness p. 22 (Homebrew)</description>
 
 	Underwater Cavalry. Merfolk knights are often mounted on dolphins or giant sea horses.
 
-Source:	Monsters of the Wilderness p. 23 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 23 (Indie)</description>
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
@@ -1145,7 +1145,7 @@ Source:	Monsters of the Wilderness p. 23 (Homebrew)</description>
     <alignment>chaotic good</alignment>
     <ac>14</ac>
     <hp>44 (8d8+8)</hp>
-    <speed>30 ft. (human form), swim 40 ft.</speed>
+    <speed>walk 30 ft. (human form), swim 40 ft.</speed>
     <str>12</str>
     <dex>18</dex>
     <con>12</con>
@@ -1196,7 +1196,7 @@ Source:	Monsters of the Wilderness p. 23 (Homebrew)</description>
 
 	Loyal Companions. Mermaids often have sea creatures as close companions. Dolphins, seals, crabs, and other beasts often befriend them.
 
-Source:	Monsters of the Wilderness p. 24 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 24 (Indie)</description>
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
@@ -1208,7 +1208,7 @@ Source:	Monsters of the Wilderness p. 24 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>296 (16d20+128)</hp>
-    <speed>0 ft., swim 50 ft.</speed>
+    <speed>walk 0 ft., swim 50 ft.</speed>
     <str>28</str>
     <dex>21</dex>
     <con>26</con>
@@ -1260,7 +1260,7 @@ Source:	Monsters of the Wilderness p. 24 (Homebrew)</description>
 
 	Salty Mouth. A sea serpent's breath is so awful it will harm any nearby creatures. The odor is rumored to smell like a salty dead whale.
 
-Source:	Monsters of the Wilderness p. 25 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 25 (Indie)</description>
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
@@ -1270,7 +1270,7 @@ Source:	Monsters of the Wilderness p. 25 (Homebrew)</description>
     <alignment>chaotic neutral</alignment>
     <ac>13</ac>
     <hp>45 (7d8+14)</hp>
-    <speed>30 ft. (human form), swim 40 ft.</speed>
+    <speed>walk 30 ft. (human form), swim 40 ft.</speed>
     <str>14</str>
     <dex>16</dex>
     <con>14</con>
@@ -1327,7 +1327,7 @@ Source:	Monsters of the Wilderness p. 25 (Homebrew)</description>
 
 	Seven Year Hitch. Every seven years there is a chance a selkie can't return to its humanoid form and remains in seal form. These shapechangers are usually shunned by other fey creatures and forgotten about.
 
-Source:	Monsters of the Wilderness p. 26 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 26 (Indie)</description>
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
@@ -1339,7 +1339,7 @@ Source:	Monsters of the Wilderness p. 26 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>14 (armor scraps)</ac>
     <hp>19 (3d8+6)</hp>
-    <speed>30 ft., swim 30 ft.</speed>
+    <speed>walk 30 ft., swim 30 ft.</speed>
     <str>15</str>
     <dex>16</dex>
     <con>15</con>
@@ -1404,7 +1404,7 @@ Source:	Monsters of the Wilderness p. 26 (Homebrew)</description>
 
 	Undead Nature. An undead pirate doesn't require air, food, drink, or sleep.
 
-Source:	Monsters of the Wilderness p. 27 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 27 (Indie)</description>
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
@@ -1416,7 +1416,7 @@ Source:	Monsters of the Wilderness p. 27 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>17 (armor scraps)</ac>
     <hp>102 (12d8+48)</hp>
-    <speed>30 ft., swim 30 ft.</speed>
+    <speed>walk 30 ft., swim 30 ft.</speed>
     <str>18</str>
     <dex>18</dex>
     <con>19</con>
@@ -1483,7 +1483,7 @@ Source:	Monsters of the Wilderness p. 27 (Homebrew)</description>
 
 	Undead Nature. An undead pirate doesn't require air, food, drink, or sleep.
 
-Source:	Monsters of the Wilderness p. 28 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 28 (Indie)</description>
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
@@ -1495,7 +1495,7 @@ Source:	Monsters of the Wilderness p. 28 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>13</ac>
     <hp>52 (8d8+16)</hp>
-    <speed>40 ft., swim 40 ft.</speed>
+    <speed>walk 40 ft., swim 40 ft.</speed>
     <str>14</str>
     <dex>16</dex>
     <con>14</con>
@@ -1556,7 +1556,7 @@ Source:	Monsters of the Wilderness p. 28 (Homebrew)</description>
 
 	Peculiar Pirate. These fey engage in piracy and also make life difficult for ordinary pirates. A group of wave riders can easily overwhelm a ship's crew. Sailors and pirates alike are trying to find a way to deal with this new threat.
 
-Source:	Monsters of the Wilderness p. 29 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 29 (Indie)</description>
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
@@ -1568,7 +1568,7 @@ Source:	Monsters of the Wilderness p. 29 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>13 (natural armor)</ac>
     <hp>26 (4d10+4)</hp>
-    <speed>0 ft., swim 40 ft.</speed>
+    <speed>walk 0 ft., swim 40 ft.</speed>
     <str>18</str>
     <dex>12</dex>
     <con>13</con>
@@ -1612,7 +1612,7 @@ Source:	Monsters of the Wilderness p. 29 (Homebrew)</description>
 
 	Wild Waves. Wicked tuna cause mayhem with fishing fleets. They sink boats, rip nets apart, and eat fisherfolk. Most people know to pull in their nets and head back to land if a wicked tuna arrives on the scene.
 
-Source:	Monsters of the Wilderness p. 30 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 30 (Indie)</description>
     <environment>coastal, underwater</environment>
   </monster>
   <!-- Arctic Region -->
@@ -1625,7 +1625,7 @@ Source:	Monsters of the Wilderness p. 30 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>296 (17d20+119)</hp>
-    <speed>40 ft., climb 20 ft.</speed>
+    <speed>walk 40 ft., climb 20 ft.</speed>
     <str>26</str>
     <dex>9</dex>
     <con>25</con>
@@ -1698,7 +1698,7 @@ Source:	Monsters of the Wilderness p. 30 (Homebrew)</description>
 
 	Roaming Around. This titan usually feeds on ozlogs. It's an incredible sight to see the enormous Ragnar chasing a herd of the beasts across an expansive glacier. Only Varga the Ice Witch knows that that this monster was created when dark magic came through a portal. These strange magical gates are known as Riftgates. The witch has a close bond with the fearsome creature.
 
-Source:	Monsters of the Wilderness p. 32 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 32 (Indie)</description>
     <environment>arctic</environment>
   </monster>
   <monster>
@@ -1709,7 +1709,7 @@ Source:	Monsters of the Wilderness p. 32 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>12 (15 with mage armor)</ac>
     <hp>133 (14d8+70)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>15</str>
     <dex>15</dex>
     <con>20</con>
@@ -1771,7 +1771,7 @@ Source:	Monsters of the Wilderness p. 32 (Homebrew)</description>
 
 	Wolf Mount. She usually travels around the frozen land on her wolf named Ulfar. The wolf's pack and other beasts help protect Varga's cave.
 
-Source:	Monsters of the Wilderness p. 34 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 34 (Indie)</description>
     <environment>arctic</environment>
   </monster>
   <monster>
@@ -1783,7 +1783,7 @@ Source:	Monsters of the Wilderness p. 34 (Homebrew)</description>
     <alignment>unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>42 (5d10+15)</hp>
-    <speed>30 ft., climb 40 ft.</speed>
+    <speed>walk 30 ft., climb 40 ft.</speed>
     <str>18</str>
     <dex>16</dex>
     <con>16</con>
@@ -1834,7 +1834,7 @@ Source:	Monsters of the Wilderness p. 34 (Homebrew)</description>
 
 	Icy Inhabitants. The spider's crystal caves are usually hidden far away from other creatures. These lairs are littered with crystals, gemstones, bones, and furs. Finding these lairs is an adventure in itself.
 
-Source:	Monsters of the Wilderness p. 35 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 35 (Indie)</description>
     <environment>arctic</environment>
   </monster>
   <monster>
@@ -1886,7 +1886,7 @@ Source:	Monsters of the Wilderness p. 35 (Homebrew)</description>
 
 	Icy Inhabitants. The spider's crystal caves are usually hidden far away from other creatures. These lairs are littered with crystals, gemstones, bones, and furs. Finding these lairs is an adventure in itself.
 
-Source:	Monsters of the Wilderness p. 35 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 35 (Indie)</description>
     <environment>arctic</environment>
   </monster>
   <monster>
@@ -1898,7 +1898,7 @@ Source:	Monsters of the Wilderness p. 35 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>195 (17d12+85)</hp>
-    <speed>40 ft., fly 80 ft.</speed>
+    <speed>walk 40 ft., fly 80 ft.</speed>
     <str>22</str>
     <dex>14</dex>
     <con>20</con>
@@ -1977,7 +1977,7 @@ Source:	Monsters of the Wilderness p. 35 (Homebrew)</description>
 
 	Snow Problem. Snow elf forces often hunt these dragons. The two foes don't feel they can share the Arctic peacefully. Ferocious air battles between the snow elves' airships and ice dragons are legendary. The elves are always working on new ways to protect their craft from these creatures.
 
-Source:	Monsters of the Wilderness p. 37 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 37 (Indie)</description>
     <environment>arctic</environment>
   </monster>
   <monster>
@@ -1988,7 +1988,7 @@ Source:	Monsters of the Wilderness p. 37 (Homebrew)</description>
     <alignment>chaotic neutral</alignment>
     <ac>18 (plate)</ac>
     <hp>165 (22d8+66)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>20</str>
     <dex>16</dex>
     <con>16</con>
@@ -2046,7 +2046,7 @@ Source:	Monsters of the Wilderness p. 37 (Homebrew)</description>
 
 	Formidable Fortress. Harald makes his home in a massive castle near the sea. He has a force of over 2000 soldiers, spellcasters, many ships, and hundreds of armored polar bears.
 
-Source:	Monsters of the Wilderness p. 38 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 38 (Indie)</description>
     <environment>arctic</environment>
   </monster>
   <monster>
@@ -2057,7 +2057,7 @@ Source:	Monsters of the Wilderness p. 38 (Homebrew)</description>
     <alignment>chaotic neutral</alignment>
     <ac>11 (14 with frostskin)</ac>
     <hp>65 (10d8+20)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>12</str>
     <dex>12</dex>
     <con>15</con>
@@ -2124,7 +2124,7 @@ While in a new form, the shaman retains their game statistics and ability to spe
 
 	Natural Cycle. They are extraordinary people, deeply in tune with nature and the inner lives of humans. Some shamans spend more time in their animal form than their human shape. Other elders say that shamans even know of future events that haven't manifested yet.
 
-Source:	Monsters of the Wilderness p. 42 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 42 (Indie)</description>
     <environment>arctic</environment>
   </monster>
   <monster>
@@ -2135,7 +2135,7 @@ Source:	Monsters of the Wilderness p. 42 (Homebrew)</description>
     <alignment>chaotic neutral</alignment>
     <ac>16 (chain mail)</ac>
     <hp>13 (2d8+4)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>16</str>
     <dex>14</dex>
     <con>14</con>
@@ -2174,7 +2174,7 @@ Source:	Monsters of the Wilderness p. 42 (Homebrew)</description>
 
 	Southern Settlements. The tribe lives in several settlements on the continents of Norvald, Zogg, and Myrr. Most Norvans live in a few well-protected, large cities near the sea. Sailing the turbulent, dangerous oceans is a central part of their culture.
 
-Source:	Monsters of the Wilderness p. 43 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 43 (Indie)</description>
     <environment>arctic</environment>
   </monster>
   <monster>
@@ -2184,7 +2184,7 @@ Source:	Monsters of the Wilderness p. 43 (Homebrew)</description>
     <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>157 (15d12+60)</hp>
-    <speed>0 ft., swim 40 ft.</speed>
+    <speed>walk 0 ft., swim 40 ft.</speed>
     <str>24</str>
     <dex>14</dex>
     <con>19</con>
@@ -2231,7 +2231,7 @@ If the ice breaker takes 20 damage or more on a single turn from the swallowed c
 
 	Local Fare. These monstrosities feed on anything they can find. They prefer to hunt seals, polar bears, nordaks, ozlogs, and other beasts. However, they will also dive deep down and feed on plants on the sea floor.
 
-Source:	Monsters of the Wilderness p. 39 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 39 (Indie)</description>
     <environment>arctic</environment>
   </monster>
   <monster>
@@ -2241,7 +2241,7 @@ Source:	Monsters of the Wilderness p. 39 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>12 (natural armor)</ac>
     <hp>87 (7d12+42)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>24</str>
     <dex>7</dex>
     <con>22</con>
@@ -2288,7 +2288,7 @@ Source:	Monsters of the Wilderness p. 39 (Homebrew)</description>
 
 	Undead Nature. An undead mammoth doesn't require air, food, drink, or sleep.
 
-Source:	Monsters of the Wilderness p. 40 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 40 (Indie)</description>
     <environment>arctic</environment>
   </monster>
   <monster>
@@ -2298,7 +2298,7 @@ Source:	Monsters of the Wilderness p. 40 (Homebrew)</description>
     <alignment>neutral</alignment>
     <ac>14 (natural armor)</ac>
     <hp>30 (4d10+8)</hp>
-    <speed>50 ft.</speed>
+    <speed>walk 50 ft.</speed>
     <str>18</str>
     <dex>14</dex>
     <con>15</con>
@@ -2340,7 +2340,7 @@ Source:	Monsters of the Wilderness p. 40 (Homebrew)</description>
 
 	Inner Warmth. When a nordak is cut open it can be used to keep a humanoid warm. During this process, a number of interesting items have been found in the stomachs of these beasts. The vothdar also make a warming potion from the creature's blood.
 
-Source:	Monsters of the Wilderness p. 44 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 44 (Indie)</description>
     <environment>arctic</environment>
   </monster>
   <monster>
@@ -2350,7 +2350,7 @@ Source:	Monsters of the Wilderness p. 44 (Homebrew)</description>
     <alignment>neutral</alignment>
     <ac>13 (natural armor)</ac>
     <hp>15 (2d10+4)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>16</str>
     <dex>10</dex>
     <con>14</con>
@@ -2388,7 +2388,7 @@ Source:	Monsters of the Wilderness p. 44 (Homebrew)</description>
 
 	Home on the Range. Ozlogs live off plants in the tundra and must keep moving to find food. Their thick skin and hardy coats provide them good protection from the elements.
 
-Source:	Monsters of the Wilderness p. 44 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 44 (Indie)</description>
     <environment>Arctic</environment>
   </monster>
   <monster>
@@ -2398,7 +2398,7 @@ Source:	Monsters of the Wilderness p. 44 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>15</ac>
     <hp>126 (11d12+55)</hp>
-    <speed>0 ft. fly 80 ft. (hover)</speed>
+    <speed>walk 0 ft. fly 80 ft. (hover)</speed>
     <str>18</str>
     <dex>20</dex>
     <con>20</con>
@@ -2445,7 +2445,7 @@ If this action fails to lure the target, the people of the sky will speak direct
 
 	The Far Away. Nobody has found their true home, believed to be deep inside Feyland. There is no doubt the cruel creatures are members of the Unseelie Court. Rumors persist that this malevolent court are using the people of the sky to further their agenda.
 
-Source:	Monsters of the Wilderness p. 45 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 45 (Indie)</description>
     <environment>Arctic</environment>
   </monster>
   <monster>
@@ -2457,7 +2457,7 @@ Source:	Monsters of the Wilderness p. 45 (Homebrew)</description>
     <alignment>neutral</alignment>
     <ac>16 (half-plate)</ac>
     <hp>63 (6d10+30)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>22</str>
     <dex>12</dex>
     <con>20</con>
@@ -2504,7 +2504,7 @@ Source:	Monsters of the Wilderness p. 45 (Homebrew)</description>
 
 	Big Bad Bear King. An armored polar bear named Karhu Nan considers himself to be the ruler of his species. This evil creature plots to take control of the bears and rebel against their Norvan masters.
 
-Source:	Monsters of the Wilderness p. 46 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 46 (Indie)</description>
     <environment>Arctic</environment>
   </monster>
   <monster>
@@ -2516,7 +2516,7 @@ Source:	Monsters of the Wilderness p. 46 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>190 (20d8+100)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>20</str>
     <dex>18</dex>
     <con>20</con>
@@ -2579,7 +2579,7 @@ Source:	Monsters of the Wilderness p. 46 (Homebrew)</description>
 
 	Like the Plague. A shapeshifter has caused all kinds of havoc in the vothdar community. Many, many snow elves died before they got the shapeshifter out of their settlements. However, it survived and continues to spread its influence.
 
-Source:	Monsters of the Wilderness p. 47 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 47 (Indie)</description>
     <environment>arctic</environment>
   </monster>
   <monster>
@@ -2589,7 +2589,7 @@ Source:	Monsters of the Wilderness p. 47 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>95 (10d10+40)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>20</str>
     <dex>12</dex>
     <con>18</con>
@@ -2632,7 +2632,7 @@ Source:	Monsters of the Wilderness p. 47 (Homebrew)</description>
 
 	Wild Kingdom. When these creatures can't find ozlogs or nordaks to eat, they explore the many caves in the Arctic. They will attempt to survive on snow hares and other smaller animals if they have to. Most snogres live and hunt alone.
 
-Source:	Monsters of the Wilderness p. 48 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 48 (Indie)</description>
     <environment>arctic</environment>
   </monster>
   <monster>
@@ -2643,7 +2643,7 @@ Source:	Monsters of the Wilderness p. 48 (Homebrew)</description>
     <alignment>lawful evil</alignment>
     <ac>16 (vithral armor)</ac>
     <hp>22 (4d8+4)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>14</str>
     <dex>12</dex>
     <con>12</con>
@@ -2693,7 +2693,7 @@ Source:	Monsters of the Wilderness p. 48 (Homebrew)</description>
 
 	New World Order. The vothdar have plans to conquer the entire world. Their scouts have already ventured onto the continents of Naern and Norvald. They plan to invade by using their massive airships to ferry soldiers over to neighboring lands. They despise other elves and will attack them on sight.
 
-Source:	Monsters of the Wilderness p. 49 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 49 (Indie)</description>
     <environment>arctic</environment>
   </monster>
   <monster>
@@ -2704,7 +2704,7 @@ Source:	Monsters of the Wilderness p. 49 (Homebrew)</description>
     <alignment>lawful evil</alignment>
     <ac>11 (14 with mage armor)</ac>
     <hp>52 (8d8+16)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>12</str>
     <dex>12</dex>
     <con>14</con>
@@ -2761,7 +2761,7 @@ Source:	Monsters of the Wilderness p. 49 (Homebrew)</description>
 
 	Rival Casters. There is an ongoing rivalry between the blizzard wizards and the vothlocks. The necromancers are part of the king's inner circle and have a higher rank than the warlocks. A few female vothdar are vothlocks, but only male vothdar can become wizards.
 
-Source:	Monsters of the Wilderness p. 50 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 50 (Indie)</description>
     <environment>arctic</environment>
   </monster>
   <monster>
@@ -2772,7 +2772,7 @@ Source:	Monsters of the Wilderness p. 50 (Homebrew)</description>
     <alignment>lawful evil</alignment>
     <ac>12 (15 with mage armor)</ac>
     <hp>44 (8d8+8)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>12</str>
     <dex>14</dex>
     <con>12</con>
@@ -2831,7 +2831,7 @@ Source:	Monsters of the Wilderness p. 50 (Homebrew)</description>
 
 	Gory Details. The vothlock take charge of any interrogations and run the vothdar prisons. They love nothing more than toying with prisoners, especially other races. The king won't think twice about having the vothlocks do his dirty work.
 
-Source:	Monsters of the Wilderness p. 51 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 51 (Indie)</description>
     <environment>arctic</environment>
   </monster>
   <monster>
@@ -2842,7 +2842,7 @@ Source:	Monsters of the Wilderness p. 51 (Homebrew)</description>
     <alignment>lawful evil</alignment>
     <ac>19 (vithral armor)</ac>
     <hp>150 (20d8+60)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>20</str>
     <dex>18</dex>
     <con>16</con>
@@ -2920,7 +2920,7 @@ Source:	Monsters of the Wilderness p. 51 (Homebrew)</description>
 
 	Imminent Invasion. Vuthar plans to invade the neighbouring lands of Naern and Norvald soon. The vothdar believe they need to take the two smaller continents before starting any war with Myrr or Zogg. Soldiers are training for the war and the tools of war are being built at a rapid pace.
 
-Source:	Monsters of the Wilderness p. 52 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 52 (Indie)</description>
     <environment>arctic</environment>
   </monster>
   <monster>
@@ -2930,7 +2930,7 @@ Source:	Monsters of the Wilderness p. 52 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>37 (5d10+10)</hp>
-    <speed>20 ft., fly 80 ft.</speed>
+    <speed>walk 20 ft., fly 80 ft.</speed>
     <str>18</str>
     <dex>17</dex>
     <con>14</con>
@@ -2981,7 +2981,7 @@ Source:	Monsters of the Wilderness p. 52 (Homebrew)</description>
 
 	Adaptable Avian. The large birds will also hunt for fish in the lakes, rivers, and coastal areas. Yarr beaks boldly dive into the water after spotting fish, seals, and other creatures from high above.
 
-Source:	Monsters of the Wilderness p. 54 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 54 (Indie)</description>
     <environment>arctic</environment>
   </monster>
   <!-- Desert Region -->
@@ -2994,7 +2994,7 @@ Source:	Monsters of the Wilderness p. 54 (Homebrew)</description>
     <alignment>unaligned</alignment>
     <ac>20 (natural armor)</ac>
     <hp>350 (20d20+140)</hp>
-    <speed>40 ft., burrow 40 ft.</speed>
+    <speed>walk 40 ft., burrow 40 ft.</speed>
     <str>26</str>
     <dex>12</dex>
     <con>24</con>
@@ -3058,7 +3058,7 @@ Source:	Monsters of the Wilderness p. 54 (Homebrew)</description>
 
 	Desert Diet. This carnivorous titan will feed on beasts, humanoids, and even other monsters. It has no interest in feeding on plants, so it's well-suited to the desert.
 
-Source:	Monsters of the Wilderness p. 56 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 56 (Indie)</description>
     <environment>desert</environment>
   </monster>
   <monster>
@@ -3069,7 +3069,7 @@ Source:	Monsters of the Wilderness p. 56 (Homebrew)</description>
     <alignment>lawful evil</alignment>
     <ac>13 (16 with mage armor)</ac>
     <hp>84 (13d6+39)</hp>
-    <speed>25 ft.</speed>
+    <speed>walk 25 ft.</speed>
     <str>9</str>
     <dex>16</dex>
     <con>17</con>
@@ -3122,7 +3122,7 @@ Source:	Monsters of the Wilderness p. 56 (Homebrew)</description>
 
 	Unpopular Illusionist. This gnome is a spineless, selfish wizard who acts before he thinks. If Quora is ever in danger in the desert, he'll use his illusion magic to turn invisible and head for the closest Riftgate. Once there, he'll travel to his home city in Zogg and take refuge in his well-protected manor.
 
-Source:	Monsters of the Wilderness p. 58 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 58 (Indie)</description>
     <environment>desert</environment>
   </monster>
   <monster>
@@ -3132,7 +3132,7 @@ Source:	Monsters of the Wilderness p. 58 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>100 (8d12+48)</hp>
-    <speed>25 ft.</speed>
+    <speed>walk 25 ft.</speed>
     <str>24</str>
     <dex>12</dex>
     <con>23</con>
@@ -3183,7 +3183,7 @@ Source:	Monsters of the Wilderness p. 58 (Homebrew)</description>
 
 	Plant Eater. The appalorus lives on a diet of cacti and other desert plants. The Jinnan (page 68) will hunt these creatures for food if they're desperate.
 
-Source:	Monsters of the Wilderness p. 59 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 59 (Indie)</description>
     <environment>desert</environment>
   </monster>
   <monster>
@@ -3194,7 +3194,7 @@ Source:	Monsters of the Wilderness p. 59 (Homebrew)</description>
     <alignment>lawful evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>32 (5d8+10)</hp>
-    <speed>35 ft., fly 30 ft.</speed>
+    <speed>walk 35 ft., fly 30 ft.</speed>
     <str>15</str>
     <dex>16</dex>
     <con>15</con>
@@ -3245,7 +3245,7 @@ Source:	Monsters of the Wilderness p. 59 (Homebrew)</description>
 
 	New Voices. When the Riftgates opened, Oswald's curse took away their ability to speak. Arthrops used to speak in clicks and other natural sounds. Chaos tore apart their close society until healing crystals were found. Magical energy from the gems gave the arthrops a new voice and immunity against being charmed.
 
-Source:	Monsters of the Wilderness p. 60 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 60 (Indie)</description>
     <environment>desert</environment>
   </monster>
   <monster>
@@ -3257,7 +3257,7 @@ Source:	Monsters of the Wilderness p. 60 (Homebrew)</description>
     <alignment>chaotic good</alignment>
     <ac>16 (studded leather)</ac>
     <hp>65 (10d8+20)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>16</str>
     <dex>18</dex>
     <con>14</con>
@@ -3324,7 +3324,7 @@ Source:	Monsters of the Wilderness p. 60 (Homebrew)</description>
 
 	Dune Rider. Bakkar usually rides a sand strider (page 69) he has named Skrattle.
 
-Source:	Monsters of the Wilderness p. 61 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 61 (Indie)</description>
     <environment>desert</environment>
   </monster>
   <monster>
@@ -3334,7 +3334,7 @@ Source:	Monsters of the Wilderness p. 61 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>12 (natural armor)</ac>
     <hp>45 (6d10+12)</hp>
-    <speed>25 ft.</speed>
+    <speed>walk 25 ft.</speed>
     <str>14</str>
     <dex>10</dex>
     <con>14</con>
@@ -3381,7 +3381,7 @@ Source:	Monsters of the Wilderness p. 61 (Homebrew)</description>
 
 	Weakest Link. These plants will target small groups of creatures or pick off stragglers in a larger convoy. Sometimes the cause of death remains undetermined for a long time.
 
-Source:	Monsters of the Wilderness p. 62 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 62 (Indie)</description>
     <environment>desert</environment>
   </monster>
   <monster>
@@ -3393,7 +3393,7 @@ Source:	Monsters of the Wilderness p. 62 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>112 (15d10+30)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>22</str>
     <dex>16</dex>
     <con>15</con>
@@ -3450,7 +3450,7 @@ Source:	Monsters of the Wilderness p. 62 (Homebrew)</description>
 
 	Immortal Nature. A naga doesn't require air, food, drink, or sleep.
 
-Source:	Monsters of the Wilderness p. 63 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 63 (Indie)</description>
     <environment>desert</environment>
   </monster>
   <monster>
@@ -3462,7 +3462,7 @@ Source:	Monsters of the Wilderness p. 63 (Homebrew)</description>
     <alignment>unaligned</alignment>
     <ac>13 (natural armor)</ac>
     <hp>22 (4d8+4)</hp>
-    <speed>35 ft.</speed>
+    <speed>walk 35 ft.</speed>
     <str>13</str>
     <dex>15</dex>
     <con>13</con>
@@ -3496,7 +3496,7 @@ Source:	Monsters of the Wilderness p. 63 (Homebrew)</description>
 
 	Insect Mount. Some Jinnan (page 68) use dune bugs as mounts. Every new moon there is a race down the highest dune with these beasts. The winner is showered with gold and other treasures.
 
-Source:	Monsters of the Wilderness p. 64 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 64 (Indie)</description>
     <environment>desert</environment>
   </monster>
   <monster>
@@ -3506,7 +3506,7 @@ Source:	Monsters of the Wilderness p. 64 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>85 (9d12+27)</hp>
-    <speed>40 ft., burrow 20 ft.</speed>
+    <speed>walk 40 ft., burrow 20 ft.</speed>
     <str>23</str>
     <dex>14</dex>
     <con>16</con>
@@ -3550,7 +3550,7 @@ Source:	Monsters of the Wilderness p. 64 (Homebrew)</description>
 
 	Crude Construction. Some of the worm's tunnels aren't very stable though. There is always a chance that one of these passages can collapse.
 
-Source:	Monsters of the Wilderness p. 65 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 65 (Indie)</description>
     <environment>desert</environment>
   </monster>
   <monster>
@@ -3562,7 +3562,7 @@ Source:	Monsters of the Wilderness p. 65 (Homebrew)</description>
     <alignment>unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>45 (6d10+12)</hp>
-    <speed>30 ft., burrow 30 ft.</speed>
+    <speed>walk 30 ft., burrow 30 ft.</speed>
     <str>16</str>
     <dex>14</dex>
     <con>15</con>
@@ -3604,7 +3604,7 @@ Source:	Monsters of the Wilderness p. 65 (Homebrew)</description>
 
 	Noxious Nest. Giant trapdoor spiders make their nests in large underground lairs. These are not the same burrows as the holes they dig for hunting.
 
-Source:	Monsters of the Wilderness p. 66 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 66 (Indie)</description>
     <environment>desert</environment>
   </monster>
   <monster>
@@ -3614,7 +3614,7 @@ Source:	Monsters of the Wilderness p. 66 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>138 (12d12+60)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>20</str>
     <dex>8</dex>
     <con>20</con>
@@ -3661,7 +3661,7 @@ Source:	Monsters of the Wilderness p. 66 (Homebrew)</description>
 
 	Underground Allies. An underground ecosystem is supported by this apex predator. Other small creatures live in the tunnels and feed off the remains of its victims.
 
-Source:	Monsters of the Wilderness p. 67 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 67 (Indie)</description>
     <environment>desert</environment>
   </monster>
   <monster>
@@ -3672,7 +3672,7 @@ Source:	Monsters of the Wilderness p. 67 (Homebrew)</description>
     <alignment>lawful neutral</alignment>
     <ac>15 (bone armor)</ac>
     <hp>15 (2d8+6)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>16</str>
     <dex>12</dex>
     <con>16</con>
@@ -3711,7 +3711,7 @@ Source:	Monsters of the Wilderness p. 67 (Homebrew)</description>
 
 	Desert Mounts. Jinnan usually use sand striders (page 69) to travel around. However, the beasts are temperamental, and conflicts can occur with their riders.
 
-Source:	Monsters of the Wilderness p. 68 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 68 (Indie)</description>
     <environment>desert</environment>
   </monster>
   <monster>
@@ -3723,7 +3723,7 @@ Source:	Monsters of the Wilderness p. 68 (Homebrew)</description>
     <alignment>unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>34 (4d10+12)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>14</str>
     <dex>16</dex>
     <con>16</con>
@@ -3770,7 +3770,7 @@ Source:	Monsters of the Wilderness p. 68 (Homebrew)</description>
 
 	Deep Resources. This creature stores a surprising amount of water in its unusual frame. This enables sand striders to survive the extremely dry conditions.
 
-Source:	Monsters of the Wilderness p. 69 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 69 (Indie)</description>
     <environment>desert</environment>
   </monster>
   <monster>
@@ -3780,7 +3780,7 @@ Source:	Monsters of the Wilderness p. 69 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>250 (20d12+120)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>25</str>
     <dex>15</dex>
     <con>22</con>
@@ -3837,7 +3837,7 @@ Source:	Monsters of the Wilderness p. 69 (Homebrew)</description>
 
 	Undead Nature. Scorpla doesn't require air, food, drink, or sleep.
 
-Source:	Monsters of the Wilderness p. 70 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 70 (Indie)</description>
     <environment>desert</environment>
   </monster>
   <monster>
@@ -3849,7 +3849,7 @@ Source:	Monsters of the Wilderness p. 70 (Homebrew)</description>
     <alignment>unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>45 (7d10+7)</hp>
-    <speed>50 ft.</speed>
+    <speed>walk 50 ft.</speed>
     <str>16</str>
     <dex>16</dex>
     <con>13</con>
@@ -3890,7 +3890,7 @@ Source:	Monsters of the Wilderness p. 70 (Homebrew)</description>
 
 	Like a Flash. Being able to blast across the desert in spectacular fashion intimidates most other creatures. Keeping up with this speedster is extremely difficult, if not impossible. Therefore, the sun horse has few rivals.
 
-Source:	Monsters of the Wilderness p. 71 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 71 (Indie)</description>
     <environment>desert</environment>
   </monster>
   <monster>
@@ -3900,7 +3900,7 @@ Source:	Monsters of the Wilderness p. 71 (Homebrew)</description>
     <alignment>lawful evil</alignment>
     <ac>14</ac>
     <hp>22 (5d6+5)</hp>
-    <speed>35 ft.</speed>
+    <speed>walk 35 ft.</speed>
     <str>10</str>
     <dex>18</dex>
     <con>12</con>
@@ -3950,7 +3950,7 @@ Source:	Monsters of the Wilderness p. 71 (Homebrew)</description>
 
 	Downsizing. A creature who is cursed with weremeerkat lycanthropy is in for a shock. At times, the transformations can be spontaneous.
 
-Source:	Monsters of the Wilderness p. 72 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 72 (Indie)</description>
     <environment>desert</environment>
   </monster>
   <!-- Jungle/Swamp Region -->
@@ -3963,7 +3963,7 @@ Source:	Monsters of the Wilderness p. 72 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>330 (20d20+120)</hp>
-    <speed>30 ft., swim 30 ft.</speed>
+    <speed>walk 30 ft., swim 30 ft.</speed>
     <str>25</str>
     <dex>18</dex>
     <con>22</con>
@@ -4037,7 +4037,7 @@ Source:	Monsters of the Wilderness p. 72 (Homebrew)</description>
 
 	Misty Mysteries. Since nobody actually survives a visit to the Ryssarav's swamp, its legend has grown. Some people say the monster emerges when mists cover the region. The villagers from nearby settlements avoid the area at all cost. However, an old halfling wizard has been sighted near the creature's lair.
 
-Source:	Monsters of the Wilderness p. 74 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 74 (Indie)</description>
     <environment>forest, swamp</environment>
   </monster>
   <monster>
@@ -4047,7 +4047,7 @@ Source:	Monsters of the Wilderness p. 74 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>12 (15 with mage armor)</ac>
     <hp>84 (13d6+39)</hp>
-    <speed>25 ft.</speed>
+    <speed>walk 25 ft.</speed>
     <str>10</str>
     <dex>15</dex>
     <con>17</con>
@@ -4114,7 +4114,7 @@ Source:	Monsters of the Wilderness p. 74 (Homebrew)</description>
 
 	Odd Couple. Merric is a companion of the titan known as the Ryssarav. He seems to be the only one who can communicate with the legendary monster.
 
-Source:	Monsters of the Wilderness p. 76 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 76 (Indie)</description>
     <environment>forest, swamp</environment>
   </monster>
   <monster>
@@ -4124,7 +4124,7 @@ Source:	Monsters of the Wilderness p. 76 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>14</ac>
     <hp>60 (8d8+24)</hp>
-    <speed>40 ft., swim 30 ft.</speed>
+    <speed>walk 40 ft., swim 30 ft.</speed>
     <str>16</str>
     <dex>18</dex>
     <con>16</con>
@@ -4204,7 +4204,7 @@ Source:	Monsters of the Wilderness p. 76 (Homebrew)</description>
 
 	Wild Fey. Scholars believe that bog hoppers crossed into the world from Feyland. Most experts think the fey horrors came through a Riftgate or one of the other entrances to the fey world. The phrase "those crazy boggers" comes from dealings with these peculiar creatures.
 
-Source:	Monsters of the Wilderness p. 77 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 77 (Indie)</description>
     <environment>forest, swamp</environment>
   </monster>
   <monster>
@@ -4214,7 +4214,7 @@ Source:	Monsters of the Wilderness p. 77 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>105 (10d10+50)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>17</str>
     <dex>9</dex>
     <con>20</con>
@@ -4275,7 +4275,7 @@ Source:	Monsters of the Wilderness p. 77 (Homebrew)</description>
 
 	Dark Shadows. These curious plants live in the shade in bogs, fens, and swamps. They appear to be identical to other giant mushrooms in the region.
 
-Source:	Monsters of the Wilderness p. 78 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 78 (Indie)</description>
     <environment>forest, swamp</environment>
   </monster>
   <monster>
@@ -4287,7 +4287,7 @@ Source:	Monsters of the Wilderness p. 78 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>12 (16 with barkskin)</ac>
     <hp>82 (11d8+33)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>16</str>
     <dex>14</dex>
     <con>17</con>
@@ -4340,7 +4340,7 @@ Source:	Monsters of the Wilderness p. 78 (Homebrew)</description>
 
 	Creepy Court. Her lair is an eerie cave located far off the beaten track. Giant undead crocodiles (page 83), giant crocodiles, evil druids, evil necromancers, and other creatures patrol her territory.
 
-Source:	Monsters of the Wilderness p. 79 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 79 (Indie)</description>
     <environment>forest, swamp</environment>
   </monster>
   <monster>
@@ -4352,7 +4352,7 @@ Source:	Monsters of the Wilderness p. 79 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>95 (10d12+30)</hp>
-    <speed>20 ft., swim 40 ft.</speed>
+    <speed>walk 20 ft., swim 40 ft.</speed>
     <str>19</str>
     <dex>13</dex>
     <con>17</con>
@@ -4405,7 +4405,7 @@ Source:	Monsters of the Wilderness p. 79 (Homebrew)</description>
 
 	Swamp Snacks. Demon turtles feed on whatever they can find in the gloomy region. They usually take over an entire swamp and live at its center.
 
-Source:	Monsters of the Wilderness p. 80 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 80 (Indie)</description>
     <environment>forest, swamp</environment>
   </monster>
   <monster>
@@ -4415,7 +4415,7 @@ Source:	Monsters of the Wilderness p. 80 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>15</ac>
     <hp>17 (5d4+5)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>6</str>
     <dex>20</dex>
     <con>12</con>
@@ -4469,7 +4469,7 @@ Source:	Monsters of the Wilderness p. 80 (Homebrew)</description>
 
 	Riftgate Rascal. After he escaped from Oswald's tower, the weasel headed for the closest Riftgate. Having no fear, Evil Kneasel raced through the portal and now travels around the World of Myrr.
 
-Source:	Monsters of the Wilderness p. 81 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 81 (Indie)</description>
     <environment>forest, swamp</environment>
   </monster>
   <monster>
@@ -4479,7 +4479,7 @@ Source:	Monsters of the Wilderness p. 81 (Homebrew)</description>
     <alignment>chaotic neutral</alignment>
     <ac>13</ac>
     <hp>49 (9d8+9)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>10</str>
     <dex>16</dex>
     <con>12</con>
@@ -4538,7 +4538,7 @@ Source:	Monsters of the Wilderness p. 81 (Homebrew)</description>
 
 	Back to Reality. This sensitive, romantic fellow wants his old life back. He is desperate and will do anything to reclaim his noble title.
 
-Source:	Monsters of the Wilderness p. 82 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 82 (Indie)</description>
     <environment>forest, swamp</environment>
   </monster>
   <monster>
@@ -4550,7 +4550,7 @@ Source:	Monsters of the Wilderness p. 82 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>138 (12d12+60)</hp>
-    <speed>20 ft., swim 60 ft.</speed>
+    <speed>walk 20 ft., swim 60 ft.</speed>
     <str>24</str>
     <dex>9</dex>
     <con>20</con>
@@ -4607,7 +4607,7 @@ Source:	Monsters of the Wilderness p. 82 (Homebrew)</description>
 
 	Undead Nature. The undead crocodile doesn't require air, food, drink, or sleep.
 
-Source:	Monsters of the Wilderness p. 83 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 83 (Indie)</description>
     <environment>forest, swamp</environment>
   </monster>
   <monster>
@@ -4617,7 +4617,7 @@ Source:	Monsters of the Wilderness p. 83 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>147 (14d10+70)</hp>
-    <speed>30 ft., swim 30 ft.</speed>
+    <speed>walk 30 ft., swim 30 ft.</speed>
     <str>22</str>
     <dex>16</dex>
     <con>20</con>
@@ -4656,7 +4656,7 @@ Source:	Monsters of the Wilderness p. 83 (Homebrew)</description>
     </action>
     <action>
       <name>Bite</name>
-      <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 29 (4d10 + 6) piercing damage,</text>
+      <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 29 (4d10 + 6) piercing damage.</text>
       <attack>Bite|10|4d10+6</attack>
     </action>
     <action>
@@ -4670,7 +4670,7 @@ Source:	Monsters of the Wilderness p. 83 (Homebrew)</description>
 
 	Home Cooking. The tormented fiend still lives at home with its mother. They live in an underground cave near a gloomy swamp. The two fiends swim through the murky waters and search for prey.
 
-Source:	Monsters of the Wilderness p. 84 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 84 (Indie)</description>
     <environment>forest, swamp</environment>
   </monster>
   <monster>
@@ -4682,7 +4682,7 @@ Source:	Monsters of the Wilderness p. 84 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>13</ac>
     <hp>22 (4d6+8)</hp>
-    <speed>20 ft., fly 40 ft.</speed>
+    <speed>walk 20 ft., fly 40 ft.</speed>
     <str>12</str>
     <dex>16</dex>
     <con>15</con>
@@ -4716,7 +4716,7 @@ Source:	Monsters of the Wilderness p. 84 (Homebrew)</description>
 
 	Nesting Place. Murder hornets dig their nests in the ground or take over the homes of other beasts. The poisonous beasts will wrap up corpses in sticky saliva to save for later meals.
 
-Source:	Monsters of the Wilderness p. 85 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 85 (Indie)</description>
     <environment>forest, swamp, desert</environment>
   </monster>
   <monster>
@@ -4727,7 +4727,7 @@ Source:	Monsters of the Wilderness p. 85 (Homebrew)</description>
     <alignment>lawful evil</alignment>
     <ac>13 (natural armor)</ac>
     <hp>22 (4d8+4)</hp>
-    <speed>30 ft., swim 40 ft.</speed>
+    <speed>walk 30 ft., swim 40 ft.</speed>
     <str>12</str>
     <dex>16</dex>
     <con>12</con>
@@ -4776,7 +4776,7 @@ Source:	Monsters of the Wilderness p. 85 (Homebrew)</description>
 
 	Lizardfolk Rivals. Salamans hate all lizardfolk and are involved in a seemingly endless war with them. Both races control large parts of the lost world of Tyranos. However, large reptilian creatures make the land a challenging place to live.
 
-Source:	Monsters of the Wilderness p. 86 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 86 (Indie)</description>
     <environment>forest, swamp</environment>
   </monster>
   <monster>
@@ -4789,7 +4789,7 @@ Source:	Monsters of the Wilderness p. 86 (Homebrew)</description>
     <alignment>lawful evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>65 (10d8+20)</hp>
-    <speed>30 ft., swim 40 ft.</speed>
+    <speed>walk 30 ft., swim 40 ft.</speed>
     <str>16</str>
     <dex>17</dex>
     <con>15</con>
@@ -4840,7 +4840,7 @@ Source:	Monsters of the Wilderness p. 86 (Homebrew)</description>
 
 	Sunken Temple. The salaman king lives in a large, sunken stone temple. Reptiles and many salaman guard their supreme leader.
 
-Source:	Monsters of the Wilderness p. 87 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 87 (Indie)</description>
     <environment>forest, swamp</environment>
   </monster>
   <monster>
@@ -4853,7 +4853,7 @@ Source:	Monsters of the Wilderness p. 87 (Homebrew)</description>
     <alignment>lawful evil</alignment>
     <ac>13 (natural armor)</ac>
     <hp>37 (5d8+15)</hp>
-    <speed>30 ft., swim 40 ft.</speed>
+    <speed>walk 30 ft., swim 40 ft.</speed>
     <str>12</str>
     <dex>15</dex>
     <con>16</con>
@@ -4903,7 +4903,7 @@ Source:	Monsters of the Wilderness p. 87 (Homebrew)</description>
 
 	Jungle Alchemy. Many different poisons and unusual substances are used by these shamans. They always poison their weapons with toxins they find in the wilderness.
 
-Source:	Monsters of the Wilderness p. 88 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 88 (Indie)</description>
     <environment>forest, swamp</environment>
   </monster>
   <monster>
@@ -4913,7 +4913,7 @@ Source:	Monsters of the Wilderness p. 88 (Homebrew)</description>
     <alignment>unaligned</alignment>
     <ac>12</ac>
     <hp>21 (6d4+6)</hp>
-    <speed>30 ft., swim 20 ft.</speed>
+    <speed>walk 30 ft., swim 20 ft.</speed>
     <str>7</str>
     <dex>14</dex>
     <con>12</con>
@@ -4958,7 +4958,7 @@ Source:	Monsters of the Wilderness p. 88 (Homebrew)</description>
 
 	Shocking Sounds. Some monster hunters say that the screech leech's spooky call is worse than its bite. A few alchemists are reported to use these beasts to make healing potions.
 
-Source:	Monsters of the Wilderness p. 89 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 89 (Indie)</description>
     <environment>forest, swamp, desert</environment>
   </monster>
   <monster>
@@ -4969,7 +4969,7 @@ Source:	Monsters of the Wilderness p. 89 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>13</ac>
     <hp>119 (14d8+56)</hp>
-    <speed>30 ft. (30 ft., 30 ft. swim in hybrid form)</speed>
+    <speed>walk 30 ft. (30 ft., 30 ft. swim in hybrid form)</speed>
     <str>20</str>
     <dex>16</dex>
     <con>18</con>
@@ -5037,7 +5037,7 @@ Source:	Monsters of the Wilderness p. 89 (Homebrew)</description>
 
 	Lost Boy. Many scholars debate about the origins of this strange monster. Nobody realizes it was created because of a Riftgate. The young man's family is still hunting for their lost son.
 
-Source:	Monsters of the Wilderness p. 90 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 90 (Indie)</description>
     <environment>forest, swamp</environment>
   </monster>
   <!-- Forest Region -->
@@ -5048,7 +5048,7 @@ Source:	Monsters of the Wilderness p. 90 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>248 (16d20+80)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>24</str>
     <dex>17</dex>
     <con>20</con>
@@ -5130,7 +5130,7 @@ d10 Effect
 
 	Resting Place. The Arborian sleeps underneath an enormous, old tree deep in the woods. Beasts and forest dwellers make sure to stay far away from the titan. Rolen Xiloscient (page 94), a powerful elf mage, is the only creature on good terms with this terror.
 
-Source:	Monsters of the Wilderness p. 92 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 92 (Indie)</description>
     <environment>forest</environment>
   </monster>
   <monster>
@@ -5140,7 +5140,7 @@ Source:	Monsters of the Wilderness p. 92 (Homebrew)</description>
     <alignment>chaotic neutral</alignment>
     <ac>13 (18 with mage armor)</ac>
     <hp>76 (9d8+36)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>10</str>
     <dex>16</dex>
     <con>18</con>
@@ -5211,7 +5211,7 @@ Once the effect ends, or if the creature succeeds on its initial saving throw ag
 
 	Aloof Elf. The high elf isn't too interested in the opinions of others. He doesn't get along with many of the other members of the Wizard Council. Rolen doesn't even keep a home in Zogg anymore, preferring to live in the woods on the beautiful continent of Naern.
 
-Source:	Monsters of the Wilderness p. 94 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 94 (Indie)</description>
     <environment>forest</environment>
   </monster>
   <monster>
@@ -5222,7 +5222,7 @@ Source:	Monsters of the Wilderness p. 94 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>190 (20d8+100)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>20</str>
     <dex>18</dex>
     <con>21</con>
@@ -5290,7 +5290,7 @@ Source:	Monsters of the Wilderness p. 94 (Homebrew)</description>
 
 	The Little Grandmother. Even though she is truly a horrifying monster, many folks seek her out. Baba Yaga's wisdom is legendary, and sages, scholars, and explorers seek her advice. However, there is a price to be paid for her assistance. The witch will ask for a favor in return, usually in the form of a dangerous quest.
 
-Source:	Monsters of the Wilderness p. 95 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 95 (Indie)</description>
     <environment>forest</environment>
   </monster>
   <monster>
@@ -5300,7 +5300,7 @@ Source:	Monsters of the Wilderness p. 95 (Homebrew)</description>
     <alignment>unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>92 (8d12+40)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>20</str>
     <dex>14</dex>
     <con>20</con>
@@ -5346,7 +5346,7 @@ Source:	Monsters of the Wilderness p. 95 (Homebrew)</description>
 
 	Mortar and Pestle. The witch also stores her magical mortar inside her hut. When Baba Yaga flies around in this smaller construct, she sweeps the air with a birch broom to cover up the tracks she leaves behind.
 
-Source:	Monsters of the Wilderness p. 99 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 99 (Indie)</description>
     <environment>forest</environment>
   </monster>
   <monster>
@@ -5358,7 +5358,7 @@ Source:	Monsters of the Wilderness p. 99 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>42 (5d10+15)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>18</str>
     <dex>12</dex>
     <con>16</con>
@@ -5421,7 +5421,7 @@ Source:	Monsters of the Wilderness p. 99 (Homebrew)</description>
 
 	Horrible Henchmen. At times evil druids and other nefarious characters fall into league with this fey. If it's in a good mood, the black stag will even let these villains use it as a mount.
 
-Source:	Monsters of the Wilderness p. 97 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 97 (Indie)</description>
     <environment>forest</environment>
   </monster>
   <monster>
@@ -5432,7 +5432,7 @@ Source:	Monsters of the Wilderness p. 97 (Homebrew)</description>
     <alignment>chaotic good</alignment>
     <ac>13 (16 with barkskin)</ac>
     <hp>102 (12d8+48)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>15</str>
     <dex>16</dex>
     <con>18</con>
@@ -5493,7 +5493,7 @@ Source:	Monsters of the Wilderness p. 97 (Homebrew)</description>
 
 	Natural Warrior. Seeing herself as part of the natural world, Briar is at home in the wild. She uses her magic and her powerful sword against evil foes. The Sword of Power is legendary and many creatures would love to get their hands on it.
 
-Source:	Monsters of the Wilderness p. 98 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 98 (Indie)</description>
     <environment>forest</environment>
   </monster>
   <monster>
@@ -5505,7 +5505,7 @@ Source:	Monsters of the Wilderness p. 98 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>60 (8d10+16)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>16</str>
     <dex>19</dex>
     <con>14</con>
@@ -5562,7 +5562,7 @@ Source:	Monsters of the Wilderness p. 98 (Homebrew)</description>
 
 	Undead Nature. The creeping shadow doesn't require air, food, drink, or sleep.
 
-Source:	Monsters of the Wilderness p. 99 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 99 (Indie)</description>
     <environment>forest</environment>
   </monster>
   <monster>
@@ -5572,7 +5572,7 @@ Source:	Monsters of the Wilderness p. 99 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>67 (9d10+18)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>18</str>
     <dex>17</dex>
     <con>15</con>
@@ -5627,7 +5627,7 @@ Source:	Monsters of the Wilderness p. 99 (Homebrew)</description>
 
 	Dark Cloud. The clouds of insects breathed out by dimspriggans make a great deal of noise. Deep, buzzing sounds continue to haunt any survivors long after an encounter with these fey.
 
-Source:	Monsters of the Wilderness p. 100 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 100 (Indie)</description>
     <environment>forest</environment>
   </monster>
   <monster>
@@ -5637,7 +5637,7 @@ Source:	Monsters of the Wilderness p. 100 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>85 (10d8+40)</hp>
-    <speed>35 ft.</speed>
+    <speed>walk 35 ft.</speed>
     <str>16</str>
     <dex>14</dex>
     <con>18</con>
@@ -5686,7 +5686,7 @@ Source:	Monsters of the Wilderness p. 100 (Homebrew)</description>
 
 	Undead Nature. The faun doesn't require air, food, drink, or sleep.
 
-Source:	Monsters of the Wilderness p. 101 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 101 (Indie)</description>
     <environment>forest</environment>
   </monster>
   <monster>
@@ -5698,7 +5698,7 @@ Source:	Monsters of the Wilderness p. 101 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>13</ac>
     <hp>32 (5d8+10)</hp>
-    <speed>20 ft., fly 80 ft.</speed>
+    <speed>walk 20 ft., fly 80 ft.</speed>
     <str>15</str>
     <dex>16</dex>
     <con>15</con>
@@ -5751,7 +5751,7 @@ Source:	Monsters of the Wilderness p. 101 (Homebrew)</description>
 
 	Tree House. Gloom Owls make their homes in large cavities of huge trees. Some of these homes are also filled with the remains of their victims and hidden treasures.
 
-Source:	Monsters of the Wilderness p. 102 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 102 (Indie)</description>
     <environment>forest</environment>
   </monster>
   <monster>
@@ -5763,7 +5763,7 @@ Source:	Monsters of the Wilderness p. 102 (Homebrew)</description>
     <alignment>lawful evil</alignment>
     <ac>14</ac>
     <hp>7 (2d4+2)</hp>
-    <speed>35 ft., climb 30 ft.</speed>
+    <speed>walk 35 ft., climb 30 ft.</speed>
     <str>7</str>
     <dex>18</dex>
     <con>12</con>
@@ -5810,7 +5810,7 @@ Source:	Monsters of the Wilderness p. 102 (Homebrew)</description>
 
 	Flying Mounts. Noble and elite warriors ride gloom owls as their mounts. The bold owls enable these dark fey to conduct daring raids.
 
-Source:	Monsters of the Wilderness p. 103 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 103 (Indie)</description>
     <environment>forest</environment>
   </monster>
   <monster>
@@ -5820,7 +5820,7 @@ Source:	Monsters of the Wilderness p. 103 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>15</ac>
     <hp>71 (11d8+22)</hp>
-    <speed>30 ft., fly 60 ft.</speed>
+    <speed>walk 30 ft., fly 60 ft.</speed>
     <str>17</str>
     <dex>20</dex>
     <con>14</con>
@@ -5880,7 +5880,7 @@ Source:	Monsters of the Wilderness p. 103 (Homebrew)</description>
 
 	Homesick Horror. The Mothman longs to return home to its world. It has attempted to use Riftgates to get there. But the portals are rare, and the creature can't seem to find its way home. It has become frustrated and plans to enlist the aid of a spellcaster.
 
-Source:	Monsters of the Wilderness p. 104 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 104 (Indie)</description>
     <environment>forest</environment>
   </monster>
   <monster>
@@ -5891,7 +5891,7 @@ Source:	Monsters of the Wilderness p. 104 (Homebrew)</description>
     <alignment>chaotic neutral</alignment>
     <ac>13</ac>
     <hp>33 (6d6+12)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>12</str>
     <dex>16</dex>
     <con>14</con>
@@ -5929,7 +5929,7 @@ Source:	Monsters of the Wilderness p. 104 (Homebrew)</description>
     </action>
     <action>
       <name>Fey Charm</name>
-      <text>The phooka targets one humanoid or beast that it can see withing 30 feet of it. If the target can see the phooka, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the phooka as a trusted friend to be heeded and protected.
+      <text>The phooka targets one humanoid or beast that it can see within 30 feet of it. If the target can see the phooka, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the phooka as a trusted friend to be heeded and protected.
 
   Each time the phooka or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts for 10 minutes or until the phooka dies, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the phooka's Fey Charm for the next 24 hours. The phooka can have no more than one humanoid and up to 3 beasts charmed at a time.</text>
     </action>
@@ -5942,7 +5942,7 @@ Source:	Monsters of the Wilderness p. 104 (Homebrew)</description>
 
 	Rocky Ride. One of the phooka's favorite trick is talking a humanoid into riding them in horse form. The fey takes the foolish victim on a wild, dangerous ride and then returns them back to the place they started from.
 
-Source:	Monsters of the Wilderness p. 105 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 105 (Indie)</description>
     <environment>forest</environment>
   </monster>
   <monster>
@@ -5954,7 +5954,7 @@ Source:	Monsters of the Wilderness p. 105 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>13</ac>
     <hp>33 (6d6+12)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>12</str>
     <dex>16</dex>
     <con>14</con>
@@ -5992,7 +5992,7 @@ Source:	Monsters of the Wilderness p. 105 (Homebrew)</description>
     </action>
     <action>
       <name>Fey Charm</name>
-      <text>The phooka targets one humanoid or beast that it can see withing 30 feet of it. If the target can see the phooka, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the phooka as a trusted friend to be heeded and protected.
+      <text>The phooka targets one humanoid or beast that it can see within 30 feet of it. If the target can see the phooka, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the phooka as a trusted friend to be heeded and protected.
 
   Each time the phooka or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts for 10 minutes or until the phooka dies, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the phooka's Fey Charm for the next 24 hours. The phooka can have no more than one humanoid and up to 3 beasts charmed at a time.</text>
     </action>
@@ -6005,7 +6005,7 @@ Source:	Monsters of the Wilderness p. 105 (Homebrew)</description>
 
 	Rocky Ride. One of the phooka's favorite trick is talking a humanoid into riding them in horse form. The fey takes the foolish victim on a wild, dangerous ride and then returns them back to the place they started from.
 
-Source:	Monsters of the Wilderness p. 105 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 105 (Indie)</description>
     <environment>forest</environment>
   </monster>
   <monster>
@@ -6017,7 +6017,7 @@ Source:	Monsters of the Wilderness p. 105 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>112 (15d8+45)</hp>
-    <speed>35 ft.</speed>
+    <speed>walk 35 ft.</speed>
     <str>19</str>
     <dex>18</dex>
     <con>16</con>
@@ -6073,7 +6073,7 @@ Source:	Monsters of the Wilderness p. 105 (Homebrew)</description>
 
 	Dark Castle. Several oddballs have joined the pumpkin king in a bizarre version of a royal court. Black stags, other evil fey, rogues, and foul spellcasters have allied with the pumpkin king. They live together in an abandoned castle far from any forest trails.
 
-Source:	Monsters of the Wilderness p. 106 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 106 (Indie)</description>
     <environment>forest</environment>
   </monster>
   <monster>
@@ -6083,7 +6083,7 @@ Source:	Monsters of the Wilderness p. 106 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>78 (12d8+24)</hp>
-    <speed>35 ft.</speed>
+    <speed>walk 35 ft.</speed>
     <str>18</str>
     <dex>18</dex>
     <con>15</con>
@@ -6148,7 +6148,7 @@ Grandmother Skull: Weakening Gaze. Three skulls fixes its gaze on one creature i
 
 	Undead Nature. Three Skulls doesn't require air, food, drink, or sleep.
 
-Source:	Monsters of the Wilderness p. 107 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 107 (Indie)</description>
     <environment>forest</environment>
   </monster>
   <monster>
@@ -6160,7 +6160,7 @@ Source:	Monsters of the Wilderness p. 107 (Homebrew)</description>
     <alignment>chaotic good</alignment>
     <ac>16 (+2 leather armor)</ac>
     <hp>82 (11d8+33)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>10</str>
     <dex>16</dex>
     <con>16</con>
@@ -6222,7 +6222,7 @@ Source:	Monsters of the Wilderness p. 107 (Homebrew)</description>
 
 	Fervent Following. Twiggy has become popular in the many forests of the world. They put on performances to warn about the curse. The fey has gained a legion of fans who would do anything for them.
 
-Source:	Monsters of the Wilderness p. 108 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 108 (Indie)</description>
     <environment>forest</environment>
   </monster>
   <monster>
@@ -6232,7 +6232,7 @@ Source:	Monsters of the Wilderness p. 108 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>85 (10d10+30)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>19</str>
     <dex>13</dex>
     <con>16</con>
@@ -6279,7 +6279,7 @@ Source:	Monsters of the Wilderness p. 108 (Homebrew)</description>
 
 	Terrible Teamwork. The twisted sisters works with other evil creatures that can communicate with plants. However, the plant doesn't always remain loyal to its new allies.
 
-Source:	Monsters of the Wilderness p. 109 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 109 (Indie)</description>
     <environment>forest</environment>
   </monster>
   <monster>
@@ -6291,7 +6291,7 @@ Source:	Monsters of the Wilderness p. 109 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>13 (16 with barkskin)</ac>
     <hp>75 (10d8+30)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>16</str>
     <dex>17</dex>
     <con>16</con>
@@ -6351,7 +6351,7 @@ Source:	Monsters of the Wilderness p. 109 (Homebrew)</description>
 
 	Wicked Witches. Many of the kingdoms affected by the witches' terrible acts want them hunted down. There are a number of bounties on the witches and several adventurers have sought out these horrid creatures.
 
-Source:	Monsters of the Wilderness p. 110 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 110 (Indie)</description>
     <environment>forest</environment>
   </monster>
   <!-- Hills/Lakes Region -->
@@ -6362,7 +6362,7 @@ Source:	Monsters of the Wilderness p. 110 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>20 (natural armor)</ac>
     <hp>330 (20d20+120)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>26</str>
     <dex>16</dex>
     <con>22</con>
@@ -6441,7 +6441,7 @@ Whenever the Hakkon takes 40 or more damage in a single turn, one of its heads d
 
 	Clash of the Titans. This monster is rumored to be from a faraway land. Oswald Myrr found evidence that numerous titans have arrived from this mysterious realm. The wizard knows that it would be disastrous if more creatures like the Hakkon entered the world.
 
-Source:	Monsters of the Wilderness p. 112 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 112 (Indie)</description>
     <environment>grassland, hill</environment>
   </monster>
   <monster>
@@ -6451,7 +6451,7 @@ Source:	Monsters of the Wilderness p. 112 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>13 (16 with mage armor)</ac>
     <hp>65 (10d8+20)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>10</str>
     <dex>17</dex>
     <con>15</con>
@@ -6493,8 +6493,8 @@ Source:	Monsters of the Wilderness p. 112 (Homebrew)</description>
       <name>Undead Thralls</name>
       <text>When he casts animate dead, he can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate. Whenever he creates an undead using a necromancy spell, it has additional benefits:
 
-- The creature's hit point maximum is increased by 13 hit points.
-- The creature adds +4 to its weapon damage rolls.</text>
+	• The creature's hit point maximum is increased by 13 hit points.
+	• The creature adds +4 to its weapon damage rolls.</text>
     </trait>
     <action>
       <name>+2 Dagger</name>
@@ -6509,7 +6509,7 @@ Source:	Monsters of the Wilderness p. 112 (Homebrew)</description>
 
 	Hilltop Headquarters. Jacob lives in a hilltop wilderness compound. Inside is a beautiful manor, barracks for his undead soldiers, stables, a forge, and an armory. Hidden underground passages lead to tunnels that can access different areas in the hills. The entire place is built to withstand an attack by a large military force.
 
-Source:	Monsters of the Wilderness p. 114 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 114 (Indie)</description>
     <environment>grassland, hill</environment>
   </monster>
   <monster>
@@ -6519,7 +6519,7 @@ Source:	Monsters of the Wilderness p. 114 (Homebrew)</description>
     <alignment>chaotic neutral</alignment>
     <ac>14 (hide)</ac>
     <hp>133 (14d8+70)</hp>
-    <speed>30 ft., (40 ft., climb 40 ft. in bear form)</speed>
+    <speed>walk 30 ft., (40 ft., climb 40 ft. in bear form)</speed>
     <str>20</str>
     <dex>14</dex>
     <con>20</con>
@@ -6596,7 +6596,7 @@ Source:	Monsters of the Wilderness p. 114 (Homebrew)</description>
 
 	Friends in Need. A few adventurers have sought refuge at the Beastmaster's lodge. These heroes reported that the shapechanger was a kind but aloof host.
 
-Source:	Monsters of the Wilderness p. 115 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 115 (Indie)</description>
     <environment>grassland, hill</environment>
   </monster>
   <monster>
@@ -6608,7 +6608,7 @@ Source:	Monsters of the Wilderness p. 115 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>68 (8d10+24)</hp>
-    <speed>40 ft., climb 30 ft.</speed>
+    <speed>walk 40 ft., climb 30 ft.</speed>
     <str>20</str>
     <dex>18</dex>
     <con>17</con>
@@ -6655,7 +6655,7 @@ Source:	Monsters of the Wilderness p. 115 (Homebrew)</description>
 
 	Alchemical Aids. Some witches, hags, cultists, and alchemists use the parts of a demon goat to create bizarre potions. Its milk is said to enable the drinker to speak Abyssal for a day. At times, evildoers will hire an unsuspecting party to kill a demon goat in order to use the fiend as an alchemical resource.
 
-Source:	Monsters of the Wilderness p. 116 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 116 (Indie)</description>
     <environment>grassland, hill</environment>
   </monster>
   <monster>
@@ -6665,7 +6665,7 @@ Source:	Monsters of the Wilderness p. 116 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>14</ac>
     <hp>66 (7d10+28)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>17</str>
     <dex>18</dex>
     <con>18</con>
@@ -6720,7 +6720,7 @@ Source:	Monsters of the Wilderness p. 116 (Homebrew)</description>
 
 	Feared Fey. Other fey aren't fond of these cowardly scoundrels. The Seelie Court sends out fey rangers to hunt them down when they're spotted. At times, the trackers will follow grabbits into the ordinary world.
 
-Source:	Monsters of the Wilderness p. 117 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 117 (Indie)</description>
     <environment>grassland, hill</environment>
   </monster>
   <monster>
@@ -6732,7 +6732,7 @@ Source:	Monsters of the Wilderness p. 117 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>14 (hide armor)</ac>
     <hp>138 (12d12+60)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>23</str>
     <dex>12</dex>
     <con>21</con>
@@ -6779,7 +6779,7 @@ Source:	Monsters of the Wilderness p. 117 (Homebrew)</description>
 
 	Hungry Hunters. Able to hunt large prey, these giants are a threat to the entire region. However, if they can't find bigger prey, they will eat cattle, horses, and other beasts.
 
-Source:	Monsters of the Wilderness p. 118 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 118 (Indie)</description>
     <environment>grassland, hill</environment>
   </monster>
   <monster>
@@ -6791,7 +6791,7 @@ Source:	Monsters of the Wilderness p. 118 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>45 (6d10+12)</hp>
-    <speed>35 ft.</speed>
+    <speed>walk 35 ft.</speed>
     <str>16</str>
     <dex>14</dex>
     <con>14</con>
@@ -6835,7 +6835,7 @@ Source:	Monsters of the Wilderness p. 118 (Homebrew)</description>
 
 	Undead Nature. A hill hound doesn't require air, food, drink, or sleep.
 
-Source:	Monsters of the Wilderness p. 119 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 119 (Indie)</description>
     <environment>grassland, hill</environment>
   </monster>
   <monster>
@@ -6845,7 +6845,7 @@ Source:	Monsters of the Wilderness p. 119 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>133 (14d10+56)</hp>
-    <speed>40 ft., climb 35 ft.</speed>
+    <speed>walk 40 ft., climb 35 ft.</speed>
     <str>20</str>
     <dex>20</dex>
     <con>19</con>
@@ -6914,7 +6914,7 @@ Source:	Monsters of the Wilderness p. 119 (Homebrew)</description>
 
 	Unwanted Disruptions. The Hunter is able to harness psionic power to disrupt ranged weapons and spells. Archers and spellcasters are very surprised when encountering this monster.
 
-Source:	Monsters of the Wilderness p. 120 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 120 (Indie)</description>
     <environment>grassland, hill</environment>
   </monster>
   <monster>
@@ -6924,7 +6924,7 @@ Source:	Monsters of the Wilderness p. 120 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>14</ac>
     <hp>40 (9d6+9)</hp>
-    <speed>40 ft., burrow 20 ft.</speed>
+    <speed>walk 40 ft., burrow 20 ft.</speed>
     <str>16</str>
     <dex>18</dex>
     <con>12</con>
@@ -6992,7 +6992,7 @@ Source:	Monsters of the Wilderness p. 120 (Homebrew)</description>
 
 	Odd Origin. Some folks believe these monsters were banished from Feyland. Others believe they hail from another plane of existence. There are also rumors that jackolops were created by Oswald Myrr to guard his many properties.
 
-Source:	Monsters of the Wilderness p. 121 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 121 (Indie)</description>
     <environment>grassland, hill</environment>
   </monster>
   <monster>
@@ -7002,7 +7002,7 @@ Source:	Monsters of the Wilderness p. 121 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>27 (5d8+5)</hp>
-    <speed>20 ft., swim 40 ft.</speed>
+    <speed>walk 20 ft., swim 40 ft.</speed>
     <str>16</str>
     <dex>15</dex>
     <con>12</con>
@@ -7061,7 +7061,7 @@ Source:	Monsters of the Wilderness p. 121 (Homebrew)</description>
 
 	Water Horses. Horses born from the mating of kelpies and horses can breathe underwater.
 
-Source:	Monsters of the Wilderness p. 122 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 122 (Indie)</description>
     <environment>grassland, hill</environment>
   </monster>
   <monster>
@@ -7071,7 +7071,7 @@ Source:	Monsters of the Wilderness p. 122 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>157 (15d12+60)</hp>
-    <speed>30 ft., fly 80 ft., swim 40 ft.</speed>
+    <speed>walk 30 ft., fly 80 ft., swim 40 ft.</speed>
     <str>22</str>
     <dex>16</dex>
     <con>18</con>
@@ -7119,7 +7119,7 @@ Source:	Monsters of the Wilderness p. 122 (Homebrew)</description>
 
 	Unwanted Attention. Most of these dragons found near rural communities get a lot of attention. Townsfolk will organize and send out armed militia to deal with the threat. They often attempt to destroy the monster's knuckerhole.
 
-Source:	Monsters of the Wilderness p. 123 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 123 (Indie)</description>
     <environment>grassland, hill</environment>
   </monster>
   <monster>
@@ -7129,7 +7129,7 @@ Source:	Monsters of the Wilderness p. 123 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>9 (2d6+2)</hp>
-    <speed>30 ft., burrow 20 ft.</speed>
+    <speed>walk 30 ft., burrow 20 ft.</speed>
     <str>12</str>
     <dex>14</dex>
     <con>12</con>
@@ -7167,7 +7167,7 @@ Source:	Monsters of the Wilderness p. 123 (Homebrew)</description>
 
 	Hidden from View. Odd sods will also feed on beasts from the surrounding area. They will eat cattle, rabbits, badgers, and rodents. Some farming communities have been decimated by these monsters. The cause of such attacks can go undiscovered for months, or even years.
 
-Source:	Monsters of the Wilderness p. 124 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 124 (Indie)</description>
     <environment>grassland, hill</environment>
   </monster>
   <monster>
@@ -7177,7 +7177,7 @@ Source:	Monsters of the Wilderness p. 124 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>52 (7d10+14)</hp>
-    <speed>0 ft., swim 40 ft.</speed>
+    <speed>walk 0 ft., swim 40 ft.</speed>
     <str>17</str>
     <dex>13</dex>
     <con>15</con>
@@ -7228,7 +7228,7 @@ Source:	Monsters of the Wilderness p. 124 (Homebrew)</description>
 
 	Out of Sight. Sinkers make their lairs in many different places. Some sinkers live in sunken boats, others live in caves dug into the side of riverbanks.
 
-Source:	Monsters of the Wilderness p. 125 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 125 (Indie)</description>
     <environment>grassland, hill</environment>
   </monster>
   <monster>
@@ -7240,7 +7240,7 @@ Source:	Monsters of the Wilderness p. 125 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>9</ac>
     <hp>38 (4d12+12)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>16</str>
     <dex>9</dex>
     <con>17</con>
@@ -7293,7 +7293,7 @@ Source:	Monsters of the Wilderness p. 125 (Homebrew)</description>
 
 	Undead Nature. A swarm of zombies doesn't require air, food, drink, or sleep.
 
-Source:	Monsters of the Wilderness p. 126 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 126 (Indie)</description>
     <environment>grassland, hill</environment>
   </monster>
   <monster>
@@ -7303,7 +7303,7 @@ Source:	Monsters of the Wilderness p. 126 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>14</ac>
     <hp>10 (3d6)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>7</str>
     <dex>18</dex>
     <con>11</con>
@@ -7354,7 +7354,7 @@ Source:	Monsters of the Wilderness p. 126 (Homebrew)</description>
 
 	Mound on the Moors. Most trow make their homes in earthen mounds in the hills. Other creatures that live nearby, such as badgers and foxes, can't stand the little troublemakers. They detest the noises and odors that come from the trow lairs.
 
-Source:	Monsters of the Wilderness p. 127 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 127 (Indie)</description>
     <environment>grassland, hill</environment>
   </monster>
   <monster>
@@ -7366,7 +7366,7 @@ Source:	Monsters of the Wilderness p. 127 (Homebrew)</description>
     <alignment>unaligned</alignment>
     <ac>14 (studded leather)</ac>
     <hp>27 (5d8+5)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>14</str>
     <dex>14</dex>
     <con>13</con>
@@ -7404,7 +7404,7 @@ Source:	Monsters of the Wilderness p. 127 (Homebrew)</description>
 
 	Favored Food. War boars usually feed on nuts, berries, seeds, roots, bark, leaves, earthworms, frogs, rodents, lizards, and snakes. However, they will take on larger prey.
 
-Source:	Monsters of the Wilderness p. 128 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 128 (Indie)</description>
     <environment>grassland, hill</environment>
   </monster>
   <!-- Mountain Region -->
@@ -7415,7 +7415,7 @@ Source:	Monsters of the Wilderness p. 128 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>21 (natural armor)</ac>
     <hp>313 (19d20+114)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>26</str>
     <dex>17</dex>
     <con>22</con>
@@ -7488,7 +7488,7 @@ Source:	Monsters of the Wilderness p. 128 (Homebrew)</description>
 
 	Lava Homeland. Volcan enjoys its home in the volcanic region of the world. It bathes in lava and rests on the sides of mountains. Fire elementals, salamanders, and mephits are often found nearby.
 
-Source:	Monsters of the Wilderness p. 130 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 130 (Indie)</description>
     <environment>mountain</environment>
   </monster>
   <monster>
@@ -7499,7 +7499,7 @@ Source:	Monsters of the Wilderness p. 130 (Homebrew)</description>
     <alignment>lawful good</alignment>
     <ac>11 (14 with mage armor)</ac>
     <hp>82 (11d8+33)</hp>
-    <speed>25 ft.</speed>
+    <speed>walk 25 ft.</speed>
     <str>14</str>
     <dex>13</dex>
     <con>17</con>
@@ -7570,7 +7570,7 @@ Source:	Monsters of the Wilderness p. 130 (Homebrew)</description>
 
 	Ancient Knowledge. Sage and kind, this dwarf is often sought after for advice. Good-aligned beings will even travel from other continents to visit the seer. The mountain Aimar lives on is extremely difficult to traverse. A long winding path is the only route to the top and numerous monsters inhabit the area.
 
-Source:	Monsters of the Wilderness p. 132 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 132 (Indie)</description>
     <environment>mountain</environment>
   </monster>
   <monster>
@@ -7580,7 +7580,7 @@ Source:	Monsters of the Wilderness p. 132 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>200 (16d12+96)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>21</str>
     <dex>11</dex>
     <con>19</con>
@@ -7630,7 +7630,7 @@ Source:	Monsters of the Wilderness p. 132 (Homebrew)</description>
 
 	Cozy Caverns. Biclopes' caves are lined with large furs to keep the giants warm. Large sacks filled with food and treasures are usually hidden nearby.
 
-Source:	Monsters of the Wilderness p. 133 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 133 (Indie)</description>
     <environment>mountain</environment>
   </monster>
   <monster>
@@ -7640,7 +7640,7 @@ Source:	Monsters of the Wilderness p. 133 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>84 (8d10+40)</hp>
-    <speed>40 ft., climb 30 ft., fly 80 ft.</speed>
+    <speed>walk 40 ft., climb 30 ft., fly 80 ft.</speed>
     <str>22</str>
     <dex>17</dex>
     <con>20</con>
@@ -7697,7 +7697,7 @@ Source:	Monsters of the Wilderness p. 133 (Homebrew)</description>
 
 	New Land. Cliffhangers are originally from Feyland. Over time they have adapted to their new home. They speak Terran now and have forgotten how to speak Sylvan.
 
-Source:	Monsters of the Wilderness p. 134 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 134 (Indie)</description>
     <environment>mountain</environment>
   </monster>
   <monster>
@@ -7707,7 +7707,7 @@ Source:	Monsters of the Wilderness p. 134 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>47 (5d10+20)</hp>
-    <speed>25 ft.</speed>
+    <speed>walk 25 ft.</speed>
     <str>21</str>
     <dex>11</dex>
     <con>19</con>
@@ -7746,7 +7746,7 @@ Source:	Monsters of the Wilderness p. 134 (Homebrew)</description>
 
 	Undead Nature. The deadly path doesn't require air, food, drink, or sleep.
 
-Source:	Monsters of the Wilderness p. 135 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 135 (Indie)</description>
     <environment>mountain</environment>
   </monster>
   <monster>
@@ -7756,7 +7756,7 @@ Source:	Monsters of the Wilderness p. 135 (Homebrew)</description>
     <alignment>chaotic neutral</alignment>
     <ac>13</ac>
     <hp>19 (3d6+9)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>7</str>
     <dex>16</dex>
     <con>16</con>
@@ -7806,7 +7806,7 @@ Source:	Monsters of the Wilderness p. 135 (Homebrew)</description>
 
 	Harsh Hearth. On rare occasions, fire dancers can also be found indoors. As they enjoy hot flames, they have been known to live in fireplaces.
 
-Source:	Monsters of the Wilderness p. 136 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 136 (Indie)</description>
     <environment>mountain</environment>
   </monster>
   <monster>
@@ -7817,7 +7817,7 @@ Source:	Monsters of the Wilderness p. 136 (Homebrew)</description>
     <alignment>lawful good</alignment>
     <ac>20 (natural armor)</ac>
     <hp>243 (18d10+144)</hp>
-    <speed>40 ft., fly 120 ft.</speed>
+    <speed>walk 40 ft., fly 120 ft.</speed>
     <str>22</str>
     <dex>20</dex>
     <con>26</con>
@@ -7887,7 +7887,7 @@ Source:	Monsters of the Wilderness p. 136 (Homebrew)</description>
 
 	Cloud Castle. A Riftgate is located at the center of his cloud fortress. The Griffon and his allies use the portal to travel around the multiverse.
 
-Source:	Monsters of the Wilderness p. 137 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 137 (Indie)</description>
     <environment>mountain</environment>
   </monster>
   <monster>
@@ -7899,7 +7899,7 @@ Source:	Monsters of the Wilderness p. 137 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>350 (20d20+140)</hp>
-    <speed>30 ft., fly 120 ft.</speed>
+    <speed>walk 30 ft., fly 120 ft.</speed>
     <str>30</str>
     <dex>10</dex>
     <con>24</con>
@@ -7955,7 +7955,7 @@ Source:	Monsters of the Wilderness p. 137 (Homebrew)</description>
 
 	Undead Nature. The grim roc doesn't require air, food, drink, or sleep.
 
-Source:	Monsters of the Wilderness p. 138 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 138 (Indie)</description>
     <environment>mountain</environment>
   </monster>
   <monster>
@@ -7967,7 +7967,7 @@ Source:	Monsters of the Wilderness p. 138 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>60 (8d10+16)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>17</str>
     <dex>14</dex>
     <con>15</con>
@@ -8010,7 +8010,7 @@ Source:	Monsters of the Wilderness p. 138 (Homebrew)</description>
 
 	Hot-Tempered. Although some are trained by fire giants, these monsters are generally in a bad mood. It doesn't take much to get a lava dog enraged.
 
-Source:	Monsters of the Wilderness p. 139 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 139 (Indie)</description>
     <environment>mountain, underdark</environment>
   </monster>
   <monster>
@@ -8022,7 +8022,7 @@ Source:	Monsters of the Wilderness p. 139 (Homebrew)</description>
     <alignment>neutral evil</alignment>
     <ac>15</ac>
     <hp>95 (10d10+40)</hp>
-    <speed>0 ft., fly 80 ft. (hover)</speed>
+    <speed>walk 0 ft., fly 80 ft. (hover)</speed>
     <str>16</str>
     <dex>20</dex>
     <con>18</con>
@@ -8064,7 +8064,7 @@ Source:	Monsters of the Wilderness p. 139 (Homebrew)</description>
 
 	Undead Nature. A rift wraith doesn't require air, food, drink, or sleep.
 
-Source:	Monsters of the Wilderness p. 140 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 140 (Indie)</description>
     <environment>any</environment>
   </monster>
   <monster>
@@ -8074,7 +8074,7 @@ Source:	Monsters of the Wilderness p. 140 (Homebrew)</description>
     <alignment>chaotic neutral</alignment>
     <ac>18 (natural armor)</ac>
     <hp>66 (7d10+28)</hp>
-    <speed>30 ft., burrow 40 ft.</speed>
+    <speed>walk 30 ft., burrow 40 ft.</speed>
     <str>21</str>
     <dex>11</dex>
     <con>19</con>
@@ -8129,7 +8129,7 @@ Source:	Monsters of the Wilderness p. 140 (Homebrew)</description>
 
 	Down to Earth. These fey can shapechange into a rock or a stony humanoid. Stoneshapers are very good at traversing the mountain region. They can even burrow through solid rock.
 
-Source:	Monsters of the Wilderness p. 141 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 141 (Indie)</description>
     <environment>mountain, underdark</environment>
   </monster>
   <monster>
@@ -8139,7 +8139,7 @@ Source:	Monsters of the Wilderness p. 141 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>68 (8d10+24)</hp>
-    <speed>50 ft.</speed>
+    <speed>walk 50 ft.</speed>
     <str>19</str>
     <dex>16</dex>
     <con>17</con>
@@ -8191,11 +8191,11 @@ Source:	Monsters of the Wilderness p. 141 (Homebrew)</description>
 
 	Ferocious Feline. The thunder paw is heavily built and won't back down from any opponent. They are wild, unpredictable monsters that enjoy their freedom.
 
-	Silent Stalker. These monstrosities are able to move quickly and quietly, especially adept at hiding in the mountains. With the ability to see in the dark, they can go almost anywhere. The stealthy creatures are known to ambush unsuspecting travellers on mountain paths.
+	Silent Stalker. These monstrosities are able to move quickly and quietly, especially adept at hiding in the mountains. With the ability to see in the dark, they can go almost anywhere. The stealthy creatures are known to ambush unsuspecting travelers on mountain paths.
 
 	Cat Cave. Thunder paws live in hidden caves. They use furs to line their lair and sleep most of the day.
 
-Source:	Monsters of the Wilderness p. 142 (Homebrew)</description>
+Source:	Monsters of the Wilderness p. 142 (Indie)</description>
     <environment>mountain</environment>
   </monster>
 </compendium>

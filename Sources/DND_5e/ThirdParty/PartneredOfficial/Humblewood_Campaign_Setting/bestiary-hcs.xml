@@ -502,7 +502,7 @@ Source:	Humblewood Campaign Setting p. 182 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>75 (10d10+20)</hp>
-    <speed>40 ft., climbing 40 ft.</speed>
+    <speed>walk 40 ft., climbing 40 ft.</speed>
     <str>15</str>
     <dex>18</dex>
     <con>14</con>
@@ -720,9 +720,9 @@ Source:	Humblewood Campaign Setting p. 184 (Third Party)</description>
       <text>Any creature that touches the slime or hits it with a melee attack while within 5 feet of it must succeed on a DC 12 Dexterity saving throw or take 2 (1d4) points of acid damage.</text>
     </trait>
     <action>
-      <name>Psuedopod</name>
+      <name>Pseudopod</name>
       <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) acid damage.</text>
-      <attack>Psuedopod|+4|1d6+2</attack>
+      <attack>Pseudopod|+4|1d6+2</attack>
     </action>
     <reaction>
       <name>Split</name>
@@ -788,9 +788,9 @@ Source:	Humblewood Campaign Setting p. 186 (Third Party)</description>
       <text>The Caustic Slime can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</text>
     </trait>
     <action>
-      <name>Psuedopod</name>
+      <name>Pseudopod</name>
       <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) acid damage. The target is grappled (escape DC 13). Until this grapple ends, the target is restrained and the shifting slime can't make a pseudopod attack against another target.</text>
-      <attack>Psuedopod|+4|1d6+2</attack>
+      <attack>Pseudopod|+4|1d6+2</attack>
     </action>
     <action>
       <name>Swallow</name>
@@ -885,9 +885,9 @@ Source:	Humblewood Campaign Setting p. 187 (Third Party)</description>
       <text>When the slime is hit by a melee attack, the attacker must succeed on a DC 12 Strength saving throw or their weapon becomes stuck in the slime. The weapon can be wrenched out by using an action to make a Strength (Athletics) check against the same DC, freeing the weapon on a success. All weapons stuck in the slime can be retrieved once the slime is slain.</text>
     </trait>
     <action>
-      <name>Psuedopod</name>
+      <name>Pseudopod</name>
       <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.</text>
-      <attack>Psuedopod|+3|1d4+1</attack>
+      <attack>Pseudopod|+3|1d4+1</attack>
     </action>
     <description>Deep in the murky marshes of the Mokk Fields, where water lays stagnant and the stench of decay permeates all, the worlds of life and death intertwine. Within this ominous mire lurk some of the most unusual natural predators in Humblewood. Collectively known as "slimes", these oozes move slowly through the muck, well-camouflaged by the dark and pungent waters, waiting to devour any hapless being that wanders within reach.
 
@@ -1282,7 +1282,7 @@ Source:	Humblewood Campaign Setting p. 191 (Third Party)</description>
     <alignment>Neutral Evil</alignment>
     <ac>15 (studded leather)</ac>
     <hp>65 (10d8+20)</hp>
-    <speed>35 ft.</speed>
+    <speed>walk 35 ft.</speed>
     <str>14</str>
     <dex>17</dex>
     <con>14</con>
@@ -2666,7 +2666,7 @@ Source:	Humblewood Campaign Setting p. 198 (Third Party)</description>
     </action>
     <slots>0,2</slots>
     <spells>eldritch blast, minor illusion, charm person, hellish rebuke, unseen servant</spells>
-    <description>Susan is an eccentric hedge whose magical aptitude has always been outclassed by her hunger for knowledge. She studied at the Avium for a short time, but left of her own accord to experiment with magics the Avium found unsavory. Susan recently settled in the swamp in the hopes of pursuing her arcane curiosities in peace. She shares her modest home with her beetle familiar, Normal, and spends her time foraging for ingredients, testing spells, and reading mystery novels in addition to tomes of eldritch lore. Though she performs her rituals a safe distance away from the cities and towns, her presence in the region has made the Magistrate of Winnowing Reach uneasy, and he wants her gone. Susan uses the hedge witch stat block. Her alignment is chaotic good.
+    <description>Susan is an eccentric hedge whose magical aptitude has always been outclassed by her hunger for knowledge. She studied at the Avium for a short time, but left of her own accord to experiment with magics the Avium found unsavory. Susan recently settled in the swamp in the hopes of pursuing her arcane curiousities in peace. She shares her modest home with her beetle familiar, Normal, and spends her time foraging for ingredients, testing spells, and reading mystery novels in addition to tomes of eldritch lore. Though she performs her rituals a safe distance away from the cities and towns, her presence in the region has made the Magistrate of Winnowing Reach uneasy, and he wants her gone. Susan uses the hedge witch stat block. Her alignment is chaotic good.
 
 Stat Block Origin: Hedge Witch
 Source:	Humblewood Campaign Setting p. 198 (Third Party)</description>
@@ -3798,7 +3798,7 @@ Source:	Humblewood Campaign Setting p. 203 (Third Party)</description>
       <text>The knight casts the gust of wind spell (save DC 15).</text>
     </action>
     <spells>gust of wind</spells>
-    <description>The Perch Guard produces many skilled soldiers, but only those who possess a great degree of talent are trained to become knights. The knights of Alderheart's Perch Guard are taught how to protect others by creating opportunities for allies to regroup or retreat as necessary. Experts in sword-and-shield fighting, the knight's heavily-armoured fighting style allows them to hold the line against even the fiercest of enemies. The strig knight listed is equipped with a wing crest shield (see Humblewood Campaign Setting Appendix D: New Magic Items).
+    <description>The Perch Guard produces many skilled soldiers, but only those who possess a great degree of talent are trained to become knights. The knights of Alderheart's Perch Guard are taught how to protect others by creating opportunities for allies to regroup or retreat as necessary. Experts in sword-and-shield fighting, the knight's heavily-armored fighting style allows them to hold the line against even the fiercest of enemies. The strig knight listed is equipped with a wing crest shield (see Humblewood Campaign Setting Appendix D: New Magic Items).
 
 Source:	Humblewood Campaign Setting p. 204 (Third Party)</description>
     <environment/>

@@ -74,7 +74,7 @@ Source:	Grim Hollow: Player's Guide p. 48 (Third Party)</text>
         <name>Create Blood Elemental</name>
         <value>1</value>
         <reset>L</reset>
-        <subclass>Circle of Blood (Third Party)</subclass>
+        <subclass>Circle of Blood (TP)</subclass>
       </counter>
     </autolevel>
     <!-- Druid Circle: Circle of Mutation -->
@@ -153,40 +153,40 @@ Source:	Grim Hollow: Player's Guide p. 50 (Third Party)</text>
         <name>Apex Predator Aura</name>
         <value>1</value>
         <reset>L</reset>
-        <subclass>Circle of Mutation (Third Party)</subclass>
+        <subclass>Circle of Mutation (TP)</subclass>
       </counter>
     </autolevel>
   </class>
   <spell>
     <name>Hold Person</name>
-    <classes>Druid (Circle of Blood (Third Party))</classes>
+    <classes>Druid (Circle of Blood (TP))</classes>
   </spell>
   <spell>
     <name>Sense Lifeblood (TP)</name>
-    <classes>Druid (Circle of Blood (Third Party))</classes>
+    <classes>Druid (Circle of Blood (TP))</classes>
   </spell>
   <spell>
     <name>Blood Bond (TP)</name>
-    <classes>Druid (Circle of Blood (Third Party))</classes>
+    <classes>Druid (Circle of Blood (TP))</classes>
   </spell>
   <spell>
     <name>Sanguine Poppet (TP)</name>
-    <classes>Druid (Circle of Blood (Third Party))</classes>
+    <classes>Druid (Circle of Blood (TP))</classes>
   </spell>
   <spell>
     <name>Circle of Scarlet (TP)</name>
-    <classes>Druid (Circle of Blood (Third Party))</classes>
+    <classes>Druid (Circle of Blood (TP))</classes>
   </spell>
   <spell>
     <name>Dark Sacrament (TP)</name>
-    <classes>Druid (Circle of Blood (Third Party))</classes>
+    <classes>Druid (Circle of Blood (TP))</classes>
   </spell>
   <spell>
     <name>Dominate Person</name>
-    <classes>Druid (Circle of Blood (Third Party))</classes>
+    <classes>Druid (Circle of Blood (TP))</classes>
   </spell>
   <spell>
     <name>Mortality (TP)</name>
-    <classes>Druid (Circle of Blood (Third Party))</classes>
+    <classes>Druid (Circle of Blood (TP))</classes>
   </spell>
 </compendium>

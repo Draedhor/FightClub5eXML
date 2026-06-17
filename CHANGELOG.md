@@ -1,12 +1,38 @@
 ## CHANGE LOG
 
 ### 2026-##-##
-* Added `Exploring Eberron` content, shared by @ViannaEuphoria.
-* Added `Dark Arts Player's Companion v3.0` homebrew content, shared by @ViannaEuphoria.
-* Added `Zamanora: Ballad of the Witch` core book v0.9 indie 2024 content, shared by @B.
+* Added `Ravenloft: The Horrors Within` 5.5e content, shared by @vokyal84.
+* Added Avantris' `The Crooked Moon` 5e content, shared by @SillyK.
+* Added Ben Huffman's `The Pugilist Class` 5.5e edition, shared by @ViannaEuphoria.
+* Updated Ben Huffman's `Pugilist` 5e class to v4.0, shared by @ViannaEuphoria.
+* Added `Griffon's Saddlebag: Book One` 5e content, shared by @ViannaEuphoria.
+* Added `Tasha's Hideous Leftovers` 5e content, shared by @ViannaEuphoria.
+* Added Marco Giulio Fossati's `Treasures from Oerth` 5.5e homebrew, shared by @B.
+* Added additional `Alchemist (Valda)` Subclasses from the `Complete Alchemist`, shared by @ViannaEuphoria.
+* Added additional `Necromancer (Valda)` Subclasses from the `Complete Necromancer`, shared by @ViannaEuphoria.
+* Added additional `Warmage (Valda)` Subclasses from the `Complete Warmage`, shared by @ViannaEuphoria.
+* Added additional `Witch (Valda)` Subclasses from the `Complete Witch`, shared by @ViannaEuphoria.
+* Added `Villainous Options (UA24)` 5.5e Unearthed Arcana, shared by @ViannaEuphoria.
+* Added `Villainous Options 2 (UA24)` 5.5e Unearthed Arcana, shared by @ViannaEuphoria.
+* Added `D&D Beyond Drops` 5.5e features from May and June as Unearthed Arcana, shared by @ViannaEuphoria.
+* Fixed some XML formatting errors with help from @Garras.
+* Added an optional Android option for better Android support when merging compendiums, shared by @Nikjft.
+* Other changes and fixes.
+
+### 2026-04-01
+* Added the 5.5e adventure `Stranger Things: Welcome to the Hellfire Club`, shared by @[DM-Velek](https://www.reddit.com/r/FightClub5e/comments/1ryp67m/comment/objripg).
+* Added `Ryoko's Guide to the Yokai Realms` 5e content, shared by @SillyK.
+* Added `Exploring Eberron` 5e content, shared by @ViannaEuphoria.
+* Added `Dark Arts Player's Companion v3.0` 5e homebrew content, shared by @ViannaEuphoria.
+* Added `Zamanora: Ballad of the Witch` core book v0.9 5.5e indie content, shared by @B.
 * Added `Fredricks Fortunes - Grand Species Almanac v1.1` homebrew content, shared by @B.
-* Added `Wanderer's Guide To Merchants & Magic` indie content, shared by @Cvamped.
-* Added `The Elder Scrolls: Delvebound` species content, shared by @GoldenTanager.
+* Added `The Old World's Might: Subclasses from Old Europe` 5.5e homebrew content, shared by @B.
+* Added several `Sewage Orc` 5.5e homebrew content, shared by @B.
+* Added `Alchemist Class` 5.5e homebrew content, shared by @B.
+* Added `Wanderer's Guide To Merchants & Magic` 5e indie content, shared by @Cvamped.
+* Added `The Elder Scrolls: Delvebound` 5e species content, shared by @GoldenTanager.
+* Added several 5.5e homebrew subclasses by `Niall Keegan`, shared by @B.
+* Added an updated and formatted version of the 5th Edition SRD.
 * Fixed the `Mystic (UA)` class.
 * Changed `[2024]` name tags to `[5.5e]`.
 * Shortened `(Third Party)` tags in names to `(TP)`.
@@ -62,7 +88,7 @@
 * Added Unearthed Arcana 2025 `Apocalyptic Subclasses (UA24)` content, shared by @ViannaEuphoria.
 * Added `SemiOfficial` and `PartneredOfficial` to 2024 `legacy` content, shared by @ViannaEuphoria.
 * Formatted `Legacy [2024]` subclasses to match the modern format.
-* Addded homebrew dinosaurian race `Brutan` by @rattatooey.
+* Added homebrew dinosaurian race `Brutan` by @rattatooey.
 * Updated Monsters of the Dungeon bestiary by @Reccho.
 * Added schools to spells which were missing.
 * Tweaked starting gold message to clarify that it replaces both class and background gear.

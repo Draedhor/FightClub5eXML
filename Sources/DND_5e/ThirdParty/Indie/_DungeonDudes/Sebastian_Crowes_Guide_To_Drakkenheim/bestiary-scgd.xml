@@ -9,7 +9,7 @@
     <alignment>Lawful Neutral</alignment>
     <ac>17 (robe of the archmage)</ac>
     <hp>225 (30d8+90)</hp>
-    <speed>30 ft., fly 60 ft. (hover)</speed>
+    <speed>walk 30 ft., fly 60 ft. (hover)</speed>
     <str>10</str>
     <dex>15</dex>
     <con>16</con>
@@ -99,7 +99,7 @@ blank, simulacrum, clone, demiplane</text>
       <name>Cast a Spell (costs 3 Actions)</name>
       <text>The Academy Director casts a spell.</text>
     </legendary>
-    <spells>mage hand, minor illusion, prestidigitation, dispel magic, sending, Bigby's Hand, invisibility, detect thoughts, project image, scrying, , teleport, wall of force, telekinesis, time stop, forcecage, reverse gravity, prismatic wall, maze, mind blank, simulacrum, clone, demiplane</spells>
+    <spells>mage hand, minor illusion, prestidigitation, dispel magic, sending, Bigby's Hand, invisibility, detect thoughts, project image, scrying, teleport, wall of force, telekinesis, time stop, forcecage, reverse gravity, prismatic wall, maze, mind blank, simulacrum, clone, demiplane</spells>
     <description>Academy Director Variants:
 The eight members of the Amethyst Academy directorate are the mightiest arcane spellcasters upon the earth. These directors are Marigold Kettleborn, Penumbra, Alabaster, Zodiac Allsight, Xel'vohca the Ancient, Adrianna Modera, Amaranthyst the Ultraviolet and Lasaia Nightbreeze.
 	Feel free to add, modify, or change the spells available to the Academy Directors to customize them further:
@@ -129,7 +129,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 224 (Third Party)</description
     <alignment>Any Alignment</alignment>
     <ac>12 ((15 with mage armor))</ac>
     <hp>44 (8d8+8)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>8</str>
     <dex>15</dex>
     <con>13</con>
@@ -153,7 +153,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 224 (Third Party)</description
       <name>Spellcasting</name>
       <text>The outcast casts one of the following spells, using Charisma as their spellcasting ability (spell save DC 13, +5 to hit with spell attacks):
 
-	• At will: mage hand, mage armor,, minor illusion, prestidigitation
+	• At will: mage hand, mage armor, minor illusion, prestidigitation
 	• 2/Day each: darkness, disguise self, suggestion
 	• 1/Day each: bestow curse, dimension door, fear, lightning bolt, web</text>
       <attack>Spellcasting|+5|</attack>
@@ -172,7 +172,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 224 (Third Party)</description
       <recharge>1/DAY</recharge>
       <text>The outcast magically summons three dretches or one quasit. The summoned creatures appear in an unoccupied space within 60 feet of the outcast, whom they obey. They take their turns immediately after the outcast. The demons remain for 1 hour, until it or the outcast dies, or until the outcast dismisses them as a bonus action.</text>
     </action>
-    <spells>mage hand, mage armor, , minor illusion, prestidigitation, darkness, disguise self, suggestion, bestow curse, dimension door, fear, lightning bolt, web</spells>
+    <spells>mage hand, mage armor, minor illusion, prestidigitation, darkness, disguise self, suggestion, bestow curse, dimension door, fear, lightning bolt, web</spells>
     <description>Not all mageborn are cut out for the rules, regulations, and intense study and practice required by the Amethyst Academy, and some do not make it through their schooling. An outcast may still be under the guidance of the Academy, performing field work or odd jobs that require a more hands on approach. Oftentimes these outcasts dabble in dangerous magics, and have far less caution, and far too much confidence for the Academy's liking.
 
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 216 (Third Party)</description>
@@ -188,7 +188,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 216 (Third Party)</description
     <alignment>Chaotic Neutral</alignment>
     <ac>22 (natural armor)</ac>
     <hp>546 (28d20+252)</hp>
-    <speed>40 ft., fly 80 ft., swim 40 ft.</speed>
+    <speed>walk 40 ft., fly 80 ft., swim 40 ft.</speed>
     <str>30</str>
     <dex>14</dex>
     <con>29</con>
@@ -553,7 +553,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 98 (Third Party),
     <alignment>Any Alignment</alignment>
     <ac>12 ((15 with mage armor))</ac>
     <hp>36 (8d8)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>8</str>
     <dex>14</dex>
     <con>11</con>
@@ -603,7 +603,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 216 (Third Party)</description
     <alignment>Lawful Neutral</alignment>
     <ac>17 (robe of the archmage)</ac>
     <hp>225 (30d8+90)</hp>
-    <speed>30 ft., fly 60 ft. (hover)</speed>
+    <speed>walk 30 ft., fly 60 ft. (hover)</speed>
     <str>10</str>
     <dex>15</dex>
     <con>16</con>
@@ -693,7 +693,7 @@ blank, simulacrum, clone, demiplane</text>
       <name>Cast a Spell (costs 3 Actions)</name>
       <text>The Academy Director casts a spell.</text>
     </legendary>
-    <spells>mage hand, minor illusion, prestidigitation, dispel magic, sending, Bigby's Hand, invisibility, detect thoughts, project image, scrying, , teleport, wall of force, telekinesis, time stop, forcecage, reverse gravity, prismatic wall, maze, mind blank, simulacrum, clone, demiplane</spells>
+    <spells>mage hand, minor illusion, prestidigitation, dispel magic, sending, Bigby's Hand, invisibility, detect thoughts, project image, scrying, teleport, wall of force, telekinesis, time stop, forcecage, reverse gravity, prismatic wall, maze, mind blank, simulacrum, clone, demiplane</spells>
     <description>This powerful Academy Director wizard is descended from a line of sorcerer-kings who infused their bloodline with a celestial heritage. As a result, he has angelic features, pale lavender skin, a short black beard, and sparkling opalescent eyes. He is often encountered simply wearing goggles and a stained leather smith's apron over a purple tunic, setting aside his Academy robes for attire more appropriate for his work.
 	Alabaster is a peerless master of alchemy and transmutation magic. His experimentations and research involve using delerium to alter the material properties of other matter. Alabaster is well known to have created the formula for aqua delerium. He has already successfully developed a process to use delerium to transform lead into gold, but is now much more interested in using the stones to create some form of life. However, Alabaster is keenly aware of the erratic and chaotic effects of the crystals on flesh, which tend to produce insane, contaminated monsters. Instead, deep within the depths of the Enigma Ziggurat, he has fashioned several prototype human-sized golems with delerium crystal hearts. His unique method has produced magically animated constructs imbued with sentience and personality. Each is a unique and immaculately crafted being with intricate facial features, often decorated with porcelain, glass, and silver. The archmage quietly released a handful of his creations into the world to see what adventures they will find.
 
@@ -720,7 +720,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 110 (Third Party)</description
     <alignment>Lawful Neutral</alignment>
     <ac>17 (robe of the archmage)</ac>
     <hp>225 (30d8+90)</hp>
-    <speed>30 ft., fly 60 ft. (hover)</speed>
+    <speed>walk 30 ft., fly 60 ft. (hover)</speed>
     <str>10</str>
     <dex>15</dex>
     <con>16</con>
@@ -810,7 +810,7 @@ blank, simulacrum, clone, demiplane</text>
       <name>Cast a Spell (costs 3 Actions)</name>
       <text>The Academy Director casts a spell.</text>
     </legendary>
-    <spells>mage hand, minor illusion, prestidigitation, dispel magic, sending, Bigby's Hand, invisibility, detect thoughts, project image, scrying, , teleport, wall of force, telekinesis, time stop, forcecage, reverse gravity, prismatic wall, maze, mind blank, simulacrum, clone, demiplane</spells>
+    <spells>mage hand, minor illusion, prestidigitation, dispel magic, sending, Bigby's Hand, invisibility, detect thoughts, project image, scrying, teleport, wall of force, telekinesis, time stop, forcecage, reverse gravity, prismatic wall, maze, mind blank, simulacrum, clone, demiplane</spells>
     <description>Director of the Amethyst Academy, Lasaia is a pencil-thin elven woman of indeterminate age. The Academy Director always levitates or flies through the air; her long elegant purple robes sweeping across the floors, and her platinum hair is constantly moving as if she were underwater.
 	Writings attributed to Lasaia Nightbreeze have been found in Academy textbooks hundreds of years old, most notably a thousand-year-old tome titled On the Origins of Evocation buried in the great Starspire Observatory. She is sometimes seen drifting through the halls of Paradox Castle like a wayward ghost. She greets students occasionally, but many are uneasy around her and find her blank stares and emotionless expression rather haunting.
 
@@ -843,7 +843,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 96 (Third Party)</description>
     <alignment>Lawful Neutral</alignment>
     <ac>17 (robe of the archmage)</ac>
     <hp>225 (30d8+90)</hp>
-    <speed>30 ft., fly 60 ft. (hover)</speed>
+    <speed>walk 30 ft., fly 60 ft. (hover)</speed>
     <str>10</str>
     <dex>15</dex>
     <con>16</con>
@@ -933,7 +933,7 @@ blank, simulacrum, clone, demiplane</text>
       <name>Cast a Spell (costs 3 Actions)</name>
       <text>The Academy Director casts a spell.</text>
     </legendary>
-    <spells>mage hand, minor illusion, prestidigitation, dispel magic, sending, Bigby's Hand, invisibility, detect thoughts, project image, scrying, , teleport, wall of force, telekinesis, time stop, forcecage, reverse gravity, prismatic wall, maze, mind blank, simulacrum, clone, demiplane</spells>
+    <spells>mage hand, minor illusion, prestidigitation, dispel magic, sending, Bigby's Hand, invisibility, detect thoughts, project image, scrying, teleport, wall of force, telekinesis, time stop, forcecage, reverse gravity, prismatic wall, maze, mind blank, simulacrum, clone, demiplane</spells>
     <description>Academy Penumbra, one of the Academy Directors, is a short tiefling woman with mottled brown-red skin. She has large, spiraling gray horns emerging from her forehead, and keeps her bluegreen hair in buns along the sides of her head. The archmage has deep, dark eyes, and sharp pointed teeth.
 	Amongst the few who have met her in person, Penumbra is known as being both incredibly charming and extremely disarming. Those who speak with her are caught completely off guard by her outward kindness, and find themselves talking endlessly to her. Only after Penumbra leaves do they realize she never said anything about herself, and simply listened to them talk Penumbra enjoys the trappings of everyday life, and is fascinated by the people in it. She enjoys spending time amongst the locals and admiring the sandy beaches and warm weather in Terene, though her powerful enchantments cause those who meet her to forget she was ever there. Penumbra's tendency to mingle with common folk has been a concern of the other Directors for some time. They know she travels to cities all over the continent, and often appears in taverns and pubs to hear tales of local problems, or sometimes sends hapless adventurers on dangerous quests to unknown ends.
 
@@ -1088,7 +1088,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 53 (Third Party),
     <alignment>Any Alignment</alignment>
     <ac>16 (studded leather armor)</ac>
     <hp>78 (12d8+24)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>10</str>
     <dex>18</dex>
     <con>14</con>
@@ -1225,7 +1225,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 71 (Third Party),
     <alignment>Any Alignment</alignment>
     <ac>16 (studded leather armor)</ac>
     <hp>78 (12d8+24)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>10</str>
     <dex>18</dex>
     <con>14</con>
@@ -1289,7 +1289,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 218 (Third Party)</description
     <alignment>Unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>22 (4d8+4)</hp>
-    <speed>50 ft.</speed>
+    <speed>walk 50 ft.</speed>
     <str>17</str>
     <dex>18</dex>
     <con>12</con>
@@ -1617,7 +1617,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 110 (Third Party),
     <type>construct</type>
     <ac>16</ac>
     <hp>10</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>18</str>
     <dex>10</dex>
     <con>16</con>
@@ -1675,7 +1675,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 110 (Third Party),
     <alignment>Chaotic Evil</alignment>
     <ac>11</ac>
     <hp>11 (2d8+2)</hp>
-    <speed>20 ft., swim 30 ft.</speed>
+    <speed>walk 20 ft., swim 30 ft.</speed>
     <str>13</str>
     <dex>12</dex>
     <con>13</con>
@@ -1746,7 +1746,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 202 (Third Party)</description
     <alignment>Chaotic Evil</alignment>
     <ac>18 (natural armor, shield)</ac>
     <hp>59 (10d10+4)</hp>
-    <speed>20 ft., swim 60 ft.</speed>
+    <speed>walk 20 ft., swim 60 ft.</speed>
     <str>18</str>
     <dex>15</dex>
     <con>17</con>
@@ -1820,7 +1820,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 202 (Third Party)</description
     <alignment>Chaotic Evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>55 (10d8+10)</hp>
-    <speed>30 ft., swim 60 ft.</speed>
+    <speed>walk 30 ft., swim 60 ft.</speed>
     <str>10</str>
     <dex>17</dex>
     <con>13</con>
@@ -1894,7 +1894,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 203 (Third Party)</description
     <alignment>Unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>60</hp>
-    <speed>40 ft., burrow 40 ft. (walking geode only); fly 60 ft. (living haze only); swim 30 ft. (animated sludge only)</speed>
+    <speed>walk 40 ft., burrow 40 ft. (walking geode only); fly 60 ft. (living haze only); swim 30 ft. (animated sludge only)</speed>
     <str>19</str>
     <dex>14</dex>
     <con>18</con>
@@ -1936,7 +1936,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 203 (Third Party)</description
     </action>
     <action>
       <name>Slam</name>
-      <text>Melee Weapon Attack: your spell attack modifier to hit, reach 5ft., one target. Hit: 1d10 + 4 + the spell's level bludgeoning damage.</text>
+      <text>Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d10 + 4 + the spell's level bludgeoning damage.</text>
       <attack>Bludgeoning Damage||1d10+4</attack>
     </action>
     <action>
@@ -1966,7 +1966,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 203 (Third Party)</description
     <alignment>Lawful Good</alignment>
     <ac>16 (breastplate)</ac>
     <hp>225 (30d8+90)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>11</str>
     <dex>14</dex>
     <con>17</con>
@@ -2087,7 +2087,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 229 (Third Party)</description
     <alignment>Any Alignment</alignment>
     <ac>13 (leather armor)</ac>
     <hp>22 (4d8+4)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>10</str>
     <dex>14</dex>
     <con>13</con>
@@ -2193,7 +2193,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 48 (Third Party),
     <alignment>Any Alignment</alignment>
     <ac>19 ((half-plate, shield))</ac>
     <hp>65 (10d8+20)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>17</str>
     <dex>14</dex>
     <con>15</con>
@@ -2404,7 +2404,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 30 (Third Party),
     <alignment>Neutral</alignment>
     <ac>14 (natural armor)</ac>
     <hp>32 (5d10+5)</hp>
-    <speed>40 ft., climb 40 ft.</speed>
+    <speed>walk 40 ft., climb 40 ft.</speed>
     <str>15</str>
     <dex>15</dex>
     <con>12</con>
@@ -2471,7 +2471,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 209 (Third Party)</description
     <alignment>Lawful Evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>199 (19d10+95)</hp>
-    <speed>0 ft., fly 50 ft. (hover)</speed>
+    <speed>walk 0 ft., fly 50 ft. (hover)</speed>
     <str>15</str>
     <dex>18</dex>
     <con>20</con>
@@ -2588,7 +2588,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 206 (Third Party)</description
     <alignment>Chaotic Evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>90 (12d8+36)</hp>
-    <speed>30 ft., fly 10 ft. (hover)</speed>
+    <speed>walk 30 ft., fly 10 ft. (hover)</speed>
     <str>8</str>
     <dex>12</dex>
     <con>17</con>
@@ -2666,7 +2666,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 211 (Third Party)</description
     <alignment>Any Alignment</alignment>
     <ac>14 (chain shirt)</ac>
     <hp>58 (9d8+18)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>10</str>
     <dex>12</dex>
     <con>14</con>
@@ -3131,7 +3131,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 104 (Third Party),
     <description>Headmaster of Paradox Castle
 Rupert is a human archmage in his late sixties. He has a bushy brown beard, and a thick curled mustache that spans the entire length of his face. He has large circular glasses that cause his eyes to look much larger than they should. He is a hefty man who wears elegant purple robes and a pointed purple hat. He is always smiling and his bellowing laugh echoes through the chambers of his school. He adores the Academy Stronghold and loves meeting and pranking the students. Headmaster Greywell has a tendency to speak in riddles, and half-true jovial warnings. Many a new student is often put off at first when Rupert chuckles "Stay clear of the necromancy section in the library at night, unless you don't mind being possessed!"
 
-	Personality Trait. I love riddles, trivia, and curiosities. I adore the look of wonder on a student's face when they are unprepared for the magical madness that is my castle. Always play with their minds!
+	Personality Trait. I love riddles, trivia, and curiousities. I adore the look of wonder on a student's face when they are unprepared for the magical madness that is my castle. Always play with their minds!
 
 	Ideal. Being a wizard takes years of hard work and dedication, but what's the point of all that work if you can't have a bit of fun with it!
 
@@ -3266,7 +3266,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 72 (Third Party),
     <alignment>Any Alignment</alignment>
     <ac>14 (chain shirt)</ac>
     <hp>58 (9d8+18)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>10</str>
     <dex>12</dex>
     <con>14</con>
@@ -3338,7 +3338,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 215 (Third Party)</description
     <alignment>Lawful Neutral</alignment>
     <ac>19 (half-plate, shield)</ac>
     <hp>150 (20d8+60)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>15</str>
     <dex>19</dex>
     <con>17</con>
@@ -3431,7 +3431,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 228 (Third Party)</description
     <alignment>Lawful Good</alignment>
     <ac>23 (plate)</ac>
     <hp>285 (30d8+150)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>20</str>
     <dex>10</dex>
     <con>20</con>
@@ -3548,7 +3548,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 223 (Third Party)</description
     <alignment>Any Alignment</alignment>
     <ac>15 (leather armor)</ac>
     <hp>75 (10d8+30)</hp>
-    <speed>40 ft., climb 20 ft.</speed>
+    <speed>walk 40 ft., climb 20 ft.</speed>
     <str>10</str>
     <dex>18</dex>
     <con>16</con>
@@ -3607,7 +3607,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 221 (Third Party)</description
     <alignment>Any Alignment</alignment>
     <ac>20 (plate, shield)</ac>
     <hp>75 (10d8+30)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>17</str>
     <dex>10</dex>
     <con>17</con>
@@ -3755,7 +3755,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 47 (Third Party),
     <alignment>Any Alignment</alignment>
     <ac>19 ((half-plate, shield))</ac>
     <hp>65 (10d8+20)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>17</str>
     <dex>14</dex>
     <con>15</con>
@@ -3820,7 +3820,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 217 (Third Party)</description
     <alignment>Lawful Neutral</alignment>
     <ac>15 (natural armor)</ac>
     <hp>39 (6d8+12)</hp>
-    <speed>0 ft., fly 30 ft. (hover)</speed>
+    <speed>walk 0 ft., fly 30 ft. (hover)</speed>
     <str>8</str>
     <dex>15</dex>
     <con>15</con>
@@ -3902,7 +3902,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 207 (Third Party)</description
     <alignment>Any Alignment</alignment>
     <ac>17 (unarmored defense)</ac>
     <hp>58 (9d8+18)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>10</str>
     <dex>18</dex>
     <con>14</con>
@@ -3963,7 +3963,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 221 (Third Party)</description
     <alignment>Any Alignment</alignment>
     <ac>17 (unarmored defense)</ac>
     <hp>58 (9d8+18)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>10</str>
     <dex>18</dex>
     <con>14</con>
@@ -4039,7 +4039,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 119 (Third Party)</description
     <alignment>Any Alignment</alignment>
     <ac>15 (leather armor)</ac>
     <hp>75 (10d8+30)</hp>
-    <speed>40 ft., climb 20 ft.</speed>
+    <speed>walk 40 ft., climb 20 ft.</speed>
     <str>10</str>
     <dex>18</dex>
     <con>16</con>
@@ -4223,7 +4223,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 119 (Third Party),
     <alignment>Typically Chaotic Evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>157 (15d10+75)</hp>
-    <speed>0 ft., fly 30 ft. (hover)</speed>
+    <speed>walk 0 ft., fly 30 ft. (hover)</speed>
     <str>18</str>
     <dex>15</dex>
     <con>20</con>
@@ -4317,7 +4317,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 208 (Third Party)</description
     <alignment>Lawful Neutral</alignment>
     <ac>17 (robe of the archmage)</ac>
     <hp>225 (30d8+90)</hp>
-    <speed>30 ft., fly 60 ft. (hover)</speed>
+    <speed>walk 30 ft., fly 60 ft. (hover)</speed>
     <str>10</str>
     <dex>15</dex>
     <con>16</con>
@@ -4407,7 +4407,7 @@ blank, simulacrum, clone, demiplane</text>
       <name>Cast a Spell (costs 3 Actions)</name>
       <text>The Academy Director casts a spell.</text>
     </legendary>
-    <spells>mage hand, minor illusion, prestidigitation, dispel magic, sending, Bigby's Hand, invisibility, detect thoughts, project image, scrying, , teleport, wall of force, telekinesis, time stop, forcecage, reverse gravity, prismatic wall, maze, mind blank, simulacrum, clone, demiplane</spells>
+    <spells>mage hand, minor illusion, prestidigitation, dispel magic, sending, Bigby's Hand, invisibility, detect thoughts, project image, scrying, teleport, wall of force, telekinesis, time stop, forcecage, reverse gravity, prismatic wall, maze, mind blank, simulacrum, clone, demiplane</spells>
     <description>Marigold is an Academy Director, and possibly the most mysterious of them all. This two-and-a-half foot gnomish woman is about as wide as she is tall. She has curled yellow hair that falls about her round rosy face. She is always beaming with a large smile, red dimpled cheeks, and an abundance of chins. She has a round nose and big bright eyes; one is green, the other is a strange crimson red. She carries a short staff made of iron laced with golden swirls.
 	Marigold wears a wide-brimmed, pointed, purple hat and a well-fitted purple Academy tunic. She is always a delight to be around and many Caspians admire her optimistic attitude and overt friendliness.
 
@@ -4434,7 +4434,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 88 (Third Party)</description>
     <alignment>Any Alignment</alignment>
     <ac>13 (hide armor)</ac>
     <hp>75 (10d8+30)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>18</str>
     <dex>13</dex>
     <con>16</con>
@@ -4508,7 +4508,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 103 (Third Party)</description
     <alignment>Unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>138 (12d12+60)</hp>
-    <speed>20 ft.</speed>
+    <speed>walk 20 ft.</speed>
     <str>23</str>
     <dex>13</dex>
     <con>20</con>
@@ -4582,7 +4582,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 210 (Third Party)</description
     <alignment>Any Alignment</alignment>
     <ac>13 (leather armor)</ac>
     <hp>22 (4d8+4)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>10</str>
     <dex>14</dex>
     <con>13</con>
@@ -4855,7 +4855,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 74 (Third Party),
     <alignment>Any Alignment</alignment>
     <ac>17 (half plate)</ac>
     <hp>135 (18d8+54)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>8</str>
     <dex>16</dex>
     <con>16</con>
@@ -4863,7 +4863,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 74 (Third Party),
     <wis>11</wis>
     <cha>12</cha>
     <save>Dex +7, Con +7, Int +9</save>
-    <skill>Arcana +13, History +9,</skill>
+    <skill>Arcana +13, History +9</skill>
     <passive>10</passive>
     <languages>any six languages</languages>
     <cr>12</cr>
@@ -4985,7 +4985,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 115 (Third Party),
     <alignment>Any Alignment</alignment>
     <ac>19 ((half-plate, shield))</ac>
     <hp>65 (10d8+20)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>17</str>
     <dex>14</dex>
     <con>15</con>
@@ -5137,7 +5137,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 86 (Third Party),
     <alignment>Any Alignment</alignment>
     <ac>19 ((half-plate, shield))</ac>
     <hp>65 (10d8+20)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>17</str>
     <dex>14</dex>
     <con>15</con>
@@ -5340,7 +5340,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 104 (Third Party),
     <alignment>Any Alignment</alignment>
     <ac>13 (hide armor)</ac>
     <hp>75 (10d8+30)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>18</str>
     <dex>13</dex>
     <con>16</con>
@@ -5402,7 +5402,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 215 (Third Party)</description
     <alignment>Chaotic Neutral</alignment>
     <ac>19 (natural armor)</ac>
     <hp>285 (30d8+150)</hp>
-    <speed>40 ft. (60 ft. in wolf form), climb 30 ft. (hybrid form only)</speed>
+    <speed>walk 40 ft. (60 ft. in wolf form), climb 30 ft. (hybrid form only)</speed>
     <str>22</str>
     <dex>18</dex>
     <con>21</con>
@@ -5568,7 +5568,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 30 (Third Party),
     <alignment>Any Alignment</alignment>
     <ac>18 (full plate)</ac>
     <hp>112 (15d8+45)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>18</str>
     <dex>15</dex>
     <con>16</con>
@@ -5683,7 +5683,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 72 (Third Party),
     <alignment>Any Alignment</alignment>
     <ac>20 (plate, shield)</ac>
     <hp>75 (10d8+30)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>17</str>
     <dex>10</dex>
     <con>17</con>
@@ -5752,7 +5752,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 219 (Third Party)</description
     <alignment>Any Alignment</alignment>
     <ac>18 (full plate)</ac>
     <hp>112 (15d8+45)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>18</str>
     <dex>15</dex>
     <con>16</con>
@@ -5832,7 +5832,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 87 (Third Party)</description>
     <alignment>Any Alignment</alignment>
     <ac>14 (hide)</ac>
     <hp>65 (10d8+20)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>17</str>
     <dex>15</dex>
     <con>16</con>
@@ -5897,7 +5897,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 220 (Third Party)</description
     <alignment>Unaligned</alignment>
     <ac>17 (natural armor)</ac>
     <hp>102 (12d10+36)</hp>
-    <speed>40 ft., climb 40 ft., fly 60 ft.</speed>
+    <speed>walk 40 ft., climb 40 ft., fly 60 ft.</speed>
     <str>19</str>
     <dex>15</dex>
     <con>16</con>
@@ -6034,7 +6034,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 53 (Third Party),
     <alignment>Any Alignment</alignment>
     <ac>14 (studded leather armor)</ac>
     <hp>45 (10d8)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>9</str>
     <dex>14</dex>
     <con>14</con>
@@ -6099,7 +6099,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 212 (Third Party)</description
     <alignment>Chaotic Evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>290 (20d20+80)</hp>
-    <speed>10 ft., swim 60 ft.</speed>
+    <speed>walk 10 ft., swim 60 ft.</speed>
     <str>22</str>
     <dex>10</dex>
     <con>18</con>
@@ -6228,7 +6228,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 204 (Third Party)</description
     <alignment>Unaligned</alignment>
     <ac>16</ac>
     <hp>50</hp>
-    <speed>40 ft., climb 30 ft.</speed>
+    <speed>walk 40 ft., climb 30 ft.</speed>
     <str>13</str>
     <dex>19</dex>
     <con>12</con>
@@ -6265,7 +6265,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 204 (Third Party)</description
     </action>
     <action>
       <name>Claw</name>
-      <text>Melee Weapon Attack: your spell attack modifier to hit, reach 5ft., one target. Hit: 1d6 + the spell's level (minimum 4) + 4 slashing damage plus 2d6 cold damage.</text>
+      <text>Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d6 + the spell's level (minimum 4) + 4 slashing damage plus 2d6 cold damage.</text>
       <attack>Claw||1d6+4+4+2d6</attack>
       <attack>Slashing Damage||1d6+4</attack>
       <attack>Cold Damage||2d6</attack>
@@ -6280,7 +6280,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 204 (Third Party)</description
       <text>The thing psychically lashes out at one creature it can see within 5 feet. The target must make an Intelligence saving throw. On a failed save, the target takes 4d6 psychic damage, and it can't take a reaction until the end of its next turn. Additionally, on its next turn, it must choose whether it gets a move, an action, or a bonus action; it gets only one of the three.</text>
       <attack>Psychic Damage||4d6</attack>
     </action>
-    <description>This eldritch spell summons a manifestation of the Thing with the Writhing Tail, a mysterious entity with a vaguely feline form which dwells in the Space Between Worlds. Perhaps it is the favoured cat of Phantasia, or a fragment of Shegorach, but to others, it is simply known by the odd name "Bruce".
+    <description>This eldritch spell summons a manifestation of the Thing with the Writhing Tail, a mysterious entity with a vaguely feline form which dwells in the Space Between Worlds. Perhaps it is the favored cat of Phantasia, or a fragment of Shegorach, but to others, it is simply known by the odd name "Bruce".
 
 When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
@@ -6809,7 +6809,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 51 (Third Party),
     <alignment>Any Alignment</alignment>
     <ac>13 (hide armor)</ac>
     <hp>75 (10d8+30)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>18</str>
     <dex>13</dex>
     <con>16</con>
@@ -7026,7 +7026,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 70 (Third Party),
     <alignment>Lawful Neutral</alignment>
     <ac>17 (robe of the archmage)</ac>
     <hp>315 (30d12+90)</hp>
-    <speed>30 ft., fly 60 ft. (hover)</speed>
+    <speed>walk 30 ft., fly 60 ft. (hover)</speed>
     <str>25</str>
     <dex>15</dex>
     <con>16</con>
@@ -7116,7 +7116,7 @@ blank, simulacrum, clone, demiplane</text>
       <name>Cast a Spell (costs 3 Actions)</name>
       <text>The Academy Director casts a spell.</text>
     </legendary>
-    <spells>mage hand, minor illusion, prestidigitation, dispel magic, sending, Bigby's Hand, invisibility, detect thoughts, project image, scrying, , teleport, wall of force, telekinesis, time stop, forcecage, reverse gravity, prismatic wall, maze, mind blank, simulacrum, clone, demiplane</spells>
+    <spells>mage hand, minor illusion, prestidigitation, dispel magic, sending, Bigby's Hand, invisibility, detect thoughts, project image, scrying, teleport, wall of force, telekinesis, time stop, forcecage, reverse gravity, prismatic wall, maze, mind blank, simulacrum, clone, demiplane</spells>
     <description>This hermetic storm giant Academy Director is one of the eight members of the Amethyst Academy Directorate. Standing thirty feet tall with a flowing midnight-blue beard and pale blue skin, he carries a colossal staff carved from the trunk of an elm tree, topped with a boulder of elemental gemstones.
 	Zodiac performs most of his research at Starspire Observatory, where he has spent centuries cataloging and monitoring the stars and cosmos. Zodiac rarely interacts with other mages in the observatory, and usually only speaks to the other Academy Directors. His oldest friend and former apprentice Delilah Willowart manages the day-to-day administration of the observatory, as Zodiac hates being disturbed and is quick to anger when someone interrupts him.
 

@@ -18,7 +18,7 @@
     <save>Cha +6, Con +7</save>
     <skill>Deception +7, Nature +3, Persuasion +6, Stealth +6</skill>
     <passive>12</passive>
-    <languages>Common, Sylvan, , Telepathy 60 ft.</languages>
+    <languages>Common, Sylvan, Telepathy 60 ft.</languages>
     <cr>5</cr>
     <vulnerable/>
     <resist>Psychic, bludgeoning, piercing, and slashing from nonmagical attacks.</resist>
@@ -111,7 +111,7 @@ Source:	GM Toolkit Monthly - Fantastic Flora p. 14 (Third Party)</description>
     <action>
       <name>Aureolin Musk</name>
       <recharge>3/DAY</recharge>
-      <text>The creeper's flowers release an irrating musk that targets all humanoids and beasts within 30 ft. of it. Each target must succeed on a DC 13 Wisdom saving throw or become enraged for 1 minute. An enraged creature must spend its turn moving to be adjacent to the nearest other humanoid or beast, dashing if necessary, and then attacking with a mele attack. A creature enraged by the creature can repeat the saving throw at the end of its of its turns, ending the effect on itself on a success. Creatures that are immune to being charmed cannot be affected by the musk.,</text>
+      <text>The creeper's flowers release an irrating musk that targets all humanoids and beasts within 30 ft. of it. Each target must succeed on a DC 13 Wisdom saving throw or become enraged for 1 minute. An enraged creature must spend its turn moving to be adjacent to the nearest other humanoid or beast, dashing if necessary, and then attacking with a mele attack. A creature enraged by the creature can repeat the saving throw at the end of its of its turns, ending the effect on itself on a success. Creatures that are immune to being charmed cannot be affected by the musk.</text>
     </action>
     <description>A dangerous, vine-like plant that exudes a sweet, intoxicating musk to lure living creatures close. Once ensnared, it implants spores that slowly turn victims into mindless thralls, spreading its tending the monstrous flora.
 
@@ -495,7 +495,7 @@ Source:	GM Toolkit Monthly - Fantastic Flora p. 24 (Third Party)</description>
     </action>
     <action>
       <name>Bite</name>
-      <text>Melee Weapon Attack: +8 to hit, reach 30 ft., one target. Hit: 12 (2d6+5) piercing damage, and the target must make a DC 18 Strenth (Athletics) check or be restrained. While it has a creature restrained, the snapping bloom cannot bite another target.</text>
+      <text>Melee Weapon Attack: +8 to hit, reach 30 ft., one target. Hit: 12 (2d6+5) piercing damage, and the target must make a DC 18 Strength (Athletics) check or be restrained. While it has a creature restrained, the snapping bloom cannot bite another target.</text>
       <attack>Piercing Damage|+8|2d6+5</attack>
     </action>
     <action>
@@ -532,7 +532,7 @@ Source:	GM Toolkit Monthly - Fantastic Flora p. 25 (Third Party)</description>
     <languages/>
     <cr>1</cr>
     <vulnerable>slashing</vulnerable>
-    <resist>lightning, , piercing, bludgeoning</resist>
+    <resist>lightning, piercing, bludgeoning</resist>
     <immune/>
     <conditionImmune/>
     <senses>darkvision 60 ft.</senses>

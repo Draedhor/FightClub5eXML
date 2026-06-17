@@ -8,7 +8,7 @@
     <type>dragon</type>
     <alignment>neutral</alignment>
     <ac>13 (natural armor)</ac>
-    <speed>40 ft., fly 80 ft.</speed>
+    <speed>walk 40 ft., fly 80 ft.</speed>
     <str>20</str>
     <dex>12</dex>
     <con>18</con>
@@ -62,7 +62,7 @@
       <text>The draconic avatar exhales a powerful blast of its damage type. If the damage type is acid or lightning, the breath weapon is a 60-foot line that is 5 feet wide and requires a Dexterity save against your spell save DC. If the damage type is cold, fire, or poison, the breath weapon is a 30-foot cone and requires a Constitution saving throw against your spell save DC. On a failed save, a creature takes 38 (11d6) damage of your patron's damage type, or half that on a successful save.</text>
       <attack>Breath Weapon||11d6</attack>
     </action>
-    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 39 (Homebrew)</description>
+    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 39 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -71,7 +71,7 @@
     <ancestry>Mimic</ancestry>
     <type>varying size monstrosity (shapechanger)</type>
     <alignment>neutral</alignment>
-    <speed>15 ft.</speed>
+    <speed>walk 15 ft.</speed>
     <dex>12</dex>
     <con>13</con>
     <int>10</int>
@@ -156,7 +156,7 @@ Large | 10 times the level of the spell slot used | 2d8 + the mimic's Strength m
 Huge | 12 times the level of the spell slot used | 3d8 + the mimic's Strength modifier
 Gargantuan | 20 times the level of the spell slot used | 4d8 + the mimic's Strength modifier
 
-Source:	Tasha's Crucible of Everything Else - Volume 2 p. 39 (Homebrew)</description>
+Source:	Tasha's Crucible of Everything Else - Volume 2 p. 39 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -213,7 +213,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 2 p. 39 (Homebrew)</descrip
       <attack>Stones|+2|2d4</attack>
       <attack>Half Swarm|+2|1d4</attack>
     </action>
-    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 58 (Homebrew)</description>
+    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 58 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -225,7 +225,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 2 p. 39 (Homebrew)</descrip
     <alignment>Neutral Evil</alignment>
     <ac>12</ac>
     <hp>45 (10d8)</hp>
-    <speed>20 ft., climb 20 ft.</speed>
+    <speed>walk 20 ft., climb 20 ft.</speed>
     <str>19</str>
     <dex>14</dex>
     <con>11</con>
@@ -272,7 +272,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 2 p. 39 (Homebrew)</descrip
       <attack>Claw|+4|4d6</attack>
       <attack>Half Swarm|+4|2d6</attack>
     </action>
-    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 59 (Homebrew)</description>
+    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 59 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -284,7 +284,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 2 p. 39 (Homebrew)</descrip
     <alignment>Unaligned</alignment>
     <ac>11</ac>
     <hp>21 (6d8-6)</hp>
-    <speed>20 ft., swim 20 ft.</speed>
+    <speed>walk 20 ft., swim 20 ft.</speed>
     <str>7</str>
     <dex>13</dex>
     <con>8</con>
@@ -326,7 +326,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 2 p. 39 (Homebrew)</descrip
       <attack>BIte|+3|2d6</attack>
       <attack>Half Swarm|+3|1d6</attack>
     </action>
-    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 60 (Homebrew)</description>
+    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 60 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -338,7 +338,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 2 p. 39 (Homebrew)</descrip
     <alignment>Chaotic Evil</alignment>
     <ac>15 (hide armor, shield)</ac>
     <hp>117 (18d12)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>20</str>
     <dex>12</dex>
     <con>11</con>
@@ -391,7 +391,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 2 p. 39 (Homebrew)</descrip
       <attack>Longbow|+8|4d8</attack>
       <attack>Half Swarm|+8|2d8</attack>
     </action>
-    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 60 (Homebrew)</description>
+    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 60 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -403,7 +403,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 2 p. 39 (Homebrew)</descrip
     <alignment>Neutral Evil</alignment>
     <ac>15 (leather armor, shield)</ac>
     <hp>55 (10d10)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>14</str>
     <dex>14</dex>
     <con>10</con>
@@ -448,7 +448,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 2 p. 39 (Homebrew)</descrip
       <attack>Shortbow|+5|2d6</attack>
       <attack>Half Swarm|+5|1d6</attack>
     </action>
-    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 61 (Homebrew)</description>
+    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 61 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -460,7 +460,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 2 p. 39 (Homebrew)</descrip
     <alignment>Lawful Evil</alignment>
     <ac>12</ac>
     <hp>110 (20d12-20)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>13</str>
     <dex>15</dex>
     <con>9</con>
@@ -513,7 +513,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 2 p. 39 (Homebrew)</descrip
       <name>Hogtie</name>
       <text>The swarm engulfs a creature within its space, which must succeed on a DC 13 Strength saving throw or else become restrained by ropes and dropped prone by the kobolds. A creature can use its action to attempt a DC 13 Dexterity (Sleight of Hand) or Wisdom (Survival) check, untying the ropes on a success.</text>
     </action>
-    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 62 (Homebrew)</description>
+    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 62 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -525,7 +525,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 2 p. 39 (Homebrew)</descrip
     <alignment>Lawful Evil</alignment>
     <ac>13 (armor scraps)</ac>
     <hp>102 (12d12+24)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>16</str>
     <dex>14</dex>
     <con>15</con>
@@ -570,7 +570,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 2 p. 39 (Homebrew)</descrip
       <attack>Shortbow|+4|4d6</attack>
       <attack>Half Swarm|+4|2d6</attack>
     </action>
-    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 62 (Homebrew)</description>
+    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 62 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -582,7 +582,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 2 p. 39 (Homebrew)</descrip
     <alignment>Neutral Good</alignment>
     <ac>15 (leather armor)</ac>
     <hp>36 (8d8)</hp>
-    <speed>10 ft., fly 40 ft.</speed>
+    <speed>walk 10 ft., fly 40 ft.</speed>
     <str>9</str>
     <dex>18</dex>
     <con>10</con>
@@ -639,7 +639,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 2 p. 39 (Homebrew)</descrip
       <name>Lift</name>
       <text>The swarm attempts to grab a creature within its space. The target must succeed on a DC 15 Dexterity saving throw, or else be grappled and restrained by the swarm. The swarm can magically lift any Medium or smaller creature or object that weighs 500 pounds or less. As an action, the swarm can drop a held creature or object.</text>
     </action>
-    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 63 (Homebrew)</description>
+    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 63 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -651,7 +651,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 2 p. 39 (Homebrew)</descrip
     <alignment>Unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>45 (10d8)</hp>
-    <speed>10 ft., fly 40 ft.</speed>
+    <speed>walk 10 ft., fly 40 ft.</speed>
     <str>10</str>
     <dex>16</dex>
     <con>11</con>
@@ -689,7 +689,7 @@ The swarm can detach itself by spending 5 feet of its movement. It does so after
       <attack>Blood Drain|+7|10d4</attack>
       <attack>Half Swarm|+7|5d4</attack>
     </action>
-    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 63 (Homebrew)</description>
+    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 63 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -701,7 +701,7 @@ The swarm can detach itself by spending 5 feet of its movement. It does so after
     <alignment>Unaligned</alignment>
     <ac>13 (natural armor)</ac>
     <hp>75 (10d12+10)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>18</str>
     <dex>15</dex>
     <con>12</con>
@@ -740,7 +740,7 @@ The swarm can detach itself by spending 5 feet of its movement. It does so after
       <attack>Pouncing Bite|+6|4d4</attack>
       <attack>Half Swarm|+6|2d4</attack>
     </action>
-    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 65 (Homebrew)</description>
+    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 65 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -752,7 +752,7 @@ The swarm can detach itself by spending 5 feet of its movement. It does so after
     <alignment>Neutral Evil</alignment>
     <ac>8</ac>
     <hp>81 (6d20+18)</hp>
-    <speed>20 ft.</speed>
+    <speed>walk 20 ft.</speed>
     <str>19</str>
     <dex>6</dex>
     <con>16</con>
@@ -793,7 +793,7 @@ petrified, poisoned, prone, restrained, stunned</conditionImmune>
       <attack>Slam|+7|6d6</attack>
       <attack>Half Swarm|+7|3d6</attack>
     </action>
-    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 65 (Homebrew)</description>
+    <description>Source:	Tasha's Crucible of Everything Else - Volume 2 p. 65 (Indie)</description>
     <environment/>
   </monster>
 </compendium>

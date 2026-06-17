@@ -2,7 +2,7 @@
 <compendium version="5" auto_indent="NO">
   <class>
     <name>Artificer</name>
-    <!-- Artificer Specialist: Forge Adept (Third Party) -->
+    <!-- Artificer Specialist: Forge Adept (TP) -->
     <autolevel level="3">
       <feature optional="YES">
         <name>Artificer Specialist: Forge Adept (TP)</name>
@@ -57,7 +57,7 @@ Source:	Exploring Eberron p. 214 (Third Party)</text>
       <feature optional="YES">
         <name>Runes of War (Forge Adept (TP))</name>
         <text>At 9th level, you gain the ability to enhance the weapons of your squad, targeting the damage to the weakness of your enemies. As an action, you can activate an aura that extends from you in a 30-foot radius. The aura moves with you, centered on you, and lasts for 1 minute or until your concentration ends (as if you were casting a spell).
-When you activate this aura, choose one of the following damage types: acid, cold, fire, lightning, or thunder. Each creature of your choice in the aura deals an extra 1d4 damage of the chosen type when it hits with a weapon attack.
+	When you activate this aura, choose one of the following damage types: acid, cold, fire, lightning, or thunder. Each creature of your choice in the aura deals an extra 1d4 damage of the chosen type when it hits with a weapon attack.
 	You can use this feature a number of times equal to your Intelligence modifier (minimum of once, and you regain all expended uses after a long rest.
 
 Source:	Exploring Eberron p. 214 (Third Party)</text>
@@ -66,7 +66,7 @@ Source:	Exploring Eberron p. 214 (Third Party)</text>
         <name>Runes of War</name>
         <value>1</value>
         <reset>L</reset>
-        <subclass>Forge Adept (Third Party)</subclass>
+        <subclass>Forge Adept (TP)</subclass>
       </counter>
     </autolevel>
     <autolevel level="15">
@@ -83,7 +83,7 @@ Source:	Exploring Eberron p. 215 (Third Party)</text>
         <roll description="Extra Damage">1d6</roll>
       </feature>
     </autolevel>
-    <!-- Artificer Specialist: Maverick (Third Party) -->
+    <!-- Artificer Specialist: Maverick (TP) -->
     <autolevel level="3">
       <feature optional="YES">
         <name>Artificer Specialist: Maverick (TP)</name>
@@ -141,7 +141,7 @@ Source:	Exploring Eberron p. 215 (Third Party)</text>
         <name>Work in Progress</name>
         <value>1</value>
         <reset>L</reset>
-        <subclass>Maverick (Third Party)</subclass>
+        <subclass>Maverick (TP)</subclass>
       </counter>
     </autolevel>
     <autolevel level="15">
@@ -155,50 +155,49 @@ Source:	Exploring Eberron p. 215 (Third Party)</text>
   </class>
   <spell>
     <name>Armor of Agathys</name>
-    <classes>Artificer (Forge Adept (Third Party))</classes>
+    <classes>Artificer (Forge Adept (TP))</classes>
   </spell>
   <spell>
     <name>Shield of Faith</name>
-    <classes>Artificer (Forge Adept (Third Party))</classes>
+    <classes>Artificer (Forge Adept (TP))</classes>
   </spell>
   <spell>
     <name>Spiritual Weapon</name>
-    <classes>Artificer (Forge Adept (Third Party))</classes>
+    <classes>Artificer (Forge Adept (TP))</classes>
   </spell>
   <spell>
     <name>Warding Bond</name>
-    <classes>Artificer (Forge Adept (Third Party))</classes>
+    <classes>Artificer (Forge Adept (TP))</classes>
   </spell>
   <spell>
     <name>Beacon of Hope</name>
-    <classes>Artificer (Forge Adept (Third Party))</classes>
+    <classes>Artificer (Forge Adept (TP))</classes>
   </spell>
   <spell>
     <name>Remove Curse</name>
-    <classes>Artificer (Forge Adept (Third Party))</classes>
+    <classes>Artificer (Forge Adept (TP))</classes>
   </spell>
   <spell>
     <name>Death Ward</name>
-    <classes>Artificer (Forge Adept (Third Party))</classes>
+    <classes>Artificer (Forge Adept (TP))</classes>
   </spell>
   <spell>
     <name>Fire Shield</name>
-    <classes>Artificer (Forge Adept (Third Party))</classes>
+    <classes>Artificer (Forge Adept (TP))</classes>
   </spell>
   <spell>
     <name>Banishing Smite</name>
-    <classes>Artificer (Forge Adept (Third Party))</classes>
+    <classes>Artificer (Forge Adept (TP))</classes>
   </spell>
   <spell>
     <name>Wall of Force</name>
-    <classes>Artificer (Forge Adept (Third Party))</classes>
+    <classes>Artificer (Forge Adept (TP))</classes>
   </spell>
   <spell>
     <name>Infusion: Bane Weapon (TP)</name>
     <level>0</level>
     <classes>Artificer Infusions</classes>
     <text>Prerequisite: 6th-level artificer
-
 Item: A simple or martial melee weapon (requires attunement)
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it.
@@ -213,7 +212,6 @@ Source:	Exploring Eberron p. 215 (Third Party)</text>
     <level>0</level>
     <classes>Artificer Infusions</classes>
     <text>Prerequisite: 6th-level artificer
-
 Item: A suit of armor (requires attunement)
 
 A creature gains a +1 bonus to Armor Class while wearing this armor.
@@ -238,7 +236,6 @@ Source:	Exploring Eberron p. 216 (Third Party)</text>
     <level>0</level>
     <classes>Artificer Infusions</classes>
     <text>Prerequisite: 6th-level artificer
-
 Item: A quiver (requires attunement)
 
 When you infuse this item, choose one damage type: cold, fire, lightning, or poison. The first time each turn that the bearer hits a target with a weapon attack using ammunition drawn from this quiver, the attack deals an extra 1d6 damage of the chosen type.

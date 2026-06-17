@@ -104,7 +104,7 @@ Source:	Grim Hollow: Campaign Guide p. 223 (Third Party),
 	• 3rd level (3 slots): counterspell, fear, hypnotic pattern, tongues
 	• 4th level (3 slots): greater invisibility, polymorph
 	• 5th level (2 slots): animate objects, awaken, modify memory
-	• 6th level (1 slot): programed illusion
+	• 6th level (1 slot): programmed illusion
 	• 7th level (1 slot): forcecage</text>
       <attack>Spellcasting|+9|</attack>
     </trait>
@@ -137,7 +137,7 @@ Animate Object. The tavern, channeling through Vieri, casts animate object on fu
 Entangling Floorboards. Each creature of the taverns's choice that starts its turn standing on floor boards must succeed on a DC 15 Dexterity saving throw or be grappled. Escaping requires a successful DC 15 Strength (Athletics) or Dexterity (Acrobatics) check.</text>
     </legendary>
     <slots>0,4,3,3,3,2,1,1</slots>
-    <spells>Message, Minor Illusion, Prestidigitation, Vicious Mockery, Bane, Tasha's Hideous Laughter, Thunderwave, Blindness/Deafness, Cloud of Daggers, Crown of Madness, Counterspell, Fear, Hypnotic Pattern, Tongues, Greater Invisibility, Polymorph, Animate Objects, Awaken, Modify Memory, Programed Illusion, Forcecage</spells>
+    <spells>Message, Minor Illusion, Prestidigitation, Vicious Mockery, Bane, Tasha's Hideous Laughter, Thunderwave, Blindness/Deafness, Cloud of Daggers, Crown of Madness, Counterspell, Fear, Hypnotic Pattern, Tongues, Greater Invisibility, Polymorph, Animate Objects, Awaken, Modify Memory, Programmed Illusion, Forcecage</spells>
     <description>This aloof bard performs at the tavern and is frequently seen tuning a lute he rarely plays. His angular face and distinctly feline mannerisms distinguish him from the other patrons.
 	Vieri's secret is that he is a spy and the physical manifestation of the tavern's power, which extends to influence over time and space. While not a living creature, he is very fond of Dreams Leave—a highly addictive substance that produces distortions of perception.
 	Vieri is pallid with raven-black hair that he often wears tied back from his face. Like other half-elves, he has slightly pointed ears and darkvision. He has steely grey eyes set off by green veins that radiate across his face. Vieri carries a pouch of Dreams Leave that replenishes itself at the end of each day. He has a lean build and nimble fingers, ideal for plucking the strings of his lute when the fancy takes him.
@@ -177,7 +177,7 @@ Source:	Grim Hollow: Campaign Guide p. 223 (Third Party)</description>
     </action>
     <action>
       <name>Greataxe</name>
-      <text>Melee Weapon Attack: +5 to hit, reach 5ft., one target. Hit: 9 (1d12 + 3) slashing damage</text>
+      <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage</text>
       <attack>Slashing Damage|+5|1d12+3</attack>
     </action>
     <action>
@@ -1434,7 +1434,7 @@ Source:	Grim Hollow: Campaign Guide p. 266 (Third Party)</description>
       <attack>Lightning Damage||8d6</attack>
     </action>
     <description>Like other creatures spawned from vile curses, Body Snatchers are the result of a humanoid who has succumbed to a Curse of Damned Aging. However, much to the dismay of investigators, Body Snatchers are notoriously difficult to locate, as they hide in plain sight. When on the trail of a Body Snatcher, investigators often close in on the suspect only arrive a step too late, and find a withered and discarded skin sack.
-	Body Snatchers are ooze-like creatures that inhabit the bodies of victims, living inside them like a parasite feeding on their life force. The Body Snatcher takes complete control of its host body, which it enhances with supernatural capabilities. The only sign that an individual has been invaded by a body snatcher is their erratic behaviour and rapid aging—a host can age a lifetime in a matter of a few weeks.
+	Body Snatchers are ooze-like creatures that inhabit the bodies of victims, living inside them like a parasite feeding on their life force. The Body Snatcher takes complete control of its host body, which it enhances with supernatural capabilities. The only sign that an individual has been invaded by a body snatcher is their erratic behavior and rapid aging—a host can age a lifetime in a matter of a few weeks.
 	Fighting a Body Snatcher is easier said than done. While far from helpless, Body Snatchers prefer to avoid detection and will engage enemies only in dire situations or when changing hosts. They do their gruesome business in seclusion as much as possible.
 
 Curse Monsters:
@@ -1477,7 +1477,7 @@ Source:	Grim Hollow: Campaign Guide p. 269 (Third Party)</description>
     </trait>
     <trait>
       <name>Cloud of Blight</name>
-      <text>Whenever another creature starts its turn or moves within 20 feet of the Plague Carrion, they recieve a cumulative - 1 penalty to damage rolls and AC. This penalty is removed upon completing a short rest.</text>
+      <text>Whenever another creature starts its turn or moves within 20 feet of the Plague Carrion, they receive a cumulative - 1 penalty to damage rolls and AC. This penalty is removed upon completing a short rest.</text>
     </trait>
     <action>
       <name>Bite</name>

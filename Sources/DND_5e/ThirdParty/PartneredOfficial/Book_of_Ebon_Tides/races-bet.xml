@@ -13,7 +13,7 @@ Male Names: Beorst, Cauldvyr, Cirdhan, Dorngal, Erlundt, Gurralt, Hrosvir, Lhod,
 
 Female Names: Anga, Burli, Daegna, Durtta, Farla, Ingyrd, Johanna, Padhra, Sivaer, Tuli.
 
-Deed Names: Fireheart, Ironhide, Lightblade, Moondancer, Razorclaws, Shadowbane, Stonebones, Valgerdsdottir, Yellowfang, Yrnsson.</text></trait><trait><name>Age</name><text>Bearfolk come of age in their late teens and live around 80 years.</text></trait><trait><name>Alignment</name><text>Bearfolk are predominantly good, mistrusting and shunning evil. While they hold rich traditions, they value their freedom and tend toward chaotic alignments.</text></trait><trait><name>Size</name><text>Bearfolk can reach a height of over 7 feet, with thick, muscular builds. Your size is Medium.</text></trait><trait category="species"><name>Bite</name><text>Your powerful jaws are natural weapons, which you can use to make unarmed strikes. If it hits, you deal 1d6 + your Strength modifier piercing damage.</text><roll description="Piercing Damage">1d6+%1</roll></trait><trait category="species"><name>Natural Armor</name><text>Your hide is thick and tough, granting you a natural AC of 13 + your Dexterity modifier.</text><special>Natural Armor: Dexterity</special></trait><trait category="species"><name>Powerful Build</name><text>You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.</text></trait><trait><name>Languages</name><text>You can speak, read, and write either Common (if you hail from the mortal lands) or Umbral (if native to the Shadow Realm).</text></trait></race> -->
+Deed Names: Fireheart, Ironhide, Lightblade, Moondancer, Razorclaws, Shadowbane, Stonebones, Valgerdsdottir, Yellowfang, Yrnsson.</text></trait><trait><name>Age</name><text>Bearfolk come of age in their late teens and live around 80 years.</text></trait><trait><name>Alignment</name><text>Bearfolk are predominantly good, mistrusting and shunning evil. While they hold rich traditions, they value their freedom and tend toward chaotic alignments.</text></trait><trait><name>Size</name><text>Bearfolk can reach a height of over 7 feet, with thick, muscular builds. Your size is Medium.</text></trait><trait category="species"><name>Bite</name><text>Your powerful jaws are natural weapons, which you can use to make unarmed strikes. If it hits, you deal 1d6 + your Strength modifier piercing damage.</text><roll description="Piercing Damage">1d6+%1</roll></trait><trait category="species"><name>Natural Armor</name><text>Your hide is thick and tough, granting you a natural AC of 13 + your Dexterity modifier.</text><special>Natural Armor: 13+%2</special></trait><trait category="species"><name>Powerful Build</name><text>You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.</text></trait><trait><name>Languages</name><text>You can speak, read, and write either Common (if you hail from the mortal lands) or Umbral (if native to the Shadow Realm).</text></trait></race> -->
   <race>
     <name>Bearfolk, Shadowborn (TP)</name>
     <size>M</size>
@@ -22,10 +22,8 @@ Deed Names: Fireheart, Ironhide, Lightblade, Moondancer, Razorclaws, Shadowbane,
     <trait category="description">
       <name>Bearfolk</name>
       <text>All bearfolk share an inherent iron resolve, but none more so than those who call the Shadow Realm their home. The bearfolk who hail from the Moonlit Glades are hardened by a life of constant peril—the ever-present battle against shadow corruption. Only by banding together in tight-knit communities dedicated to fulfilling their noble purpose have the bearfolk miraculously continued to thrive.
-
-Since Mesikämmen the Bear King issued his fateful decree, the bearfolk have fought as a source of light in the Shadow Realm. While most of the region is deadly to even the most capable of travelers, the bearfolk have carved out pockets of safety guarded by druidic magic.
-
-Hard-won wisdom has taught the bearfolk the secrets of resisting and purifying shadow corruption. As their mission to drive back the darkness has grown over the centuries, generations of bearfolk have been born in the Shadow Realm. And the longer they stay, the more of each new generation shows an innate power to shape the darkness that surrounds them.
+	Since Mesikämmen the Bear King issued his fateful decree, the bearfolk have fought as a source of light in the Shadow Realm. While most of the region is deadly to even the most capable of travelers, the bearfolk have carved out pockets of safety guarded by druidic magic.
+	Hard-won wisdom has taught the bearfolk the secrets of resisting and purifying shadow corruption. As their mission to drive back the darkness has grown over the centuries, generations of bearfolk have been born in the Shadow Realm. And the longer they stay, the more of each new generation shows an innate power to shape the darkness that surrounds them.
 
 As a shadowborn bearfolk, you are one of the cubs born in the Shadow Realm with a proclivity for the darkness. Shadowborn are marked by gray coats from infancy and sometimes possess strangely arcane black markings. Shadowborn not only seem to resist the darkness more easily than other bearfolk but are also often drawn to its presence.
 
@@ -901,6 +899,7 @@ Example Names: Birch, Bolt, Crimson, Dandy, Double Time, Echo, Glory, Hotspur, I
     </trait>
     <trait category="species">
       <name>Startling Speed</name>
+      <text>Your movements are so swift that you are almost invisible when in motion. If you move at least 10 feet on your turn, attack rolls against you have disadvantage until the start of your next turn. This feature does not function if you are incapacitated or restrained. You can use this ability a number of rounds per day equal to your level.</text>
     </trait>
     <trait>
       <name>Languages</name>
@@ -914,7 +913,7 @@ Source:	Book of Ebon Tides p. 33 (Third Party)</text></trait><trait category="de
 
 Example Forenames: Chiringa, Daresh, Ekirp, Ekkitta, Kerasil, Najuta, Orrin, Skirekkeret, Tiptup, Turorri.
 
-Example Surnames: Brightsong, Bristletooth, Flitpaw, Jumptwig, Silentleaf, Wisewhisker.</text></trait><trait><name>Ability Score Increase</name><text>Your Dexterity score increases by 2, but your Strength score decreases by 2.</text></trait><trait><name>Age</name><text>Ratatosk reach adulthood at age 10 and, due to their celestial nature, live up to 180 years.</text></trait><trait><name>Alignment</name><text>Ever curious and delighting in unpredictability, ekorre ratatosks gravitate toward chaotic alignments as they view laws as vague suggestions at best. The tradvakt tend to be slightly more focused and lawful in their thinking. Both groups tend toward good, placing value on doing the right thing, though some individuals lean more toward their darker impulses.</text></trait><trait><name>Speed</name><text>Your base walking speed is 25 feet, and you have a climb speed of 10 feet.</text></trait><trait category="species"><name>Darkvision</name><text>You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text></trait><trait category="species"><name>Grounded Celestial</name><text>You are descended from celestials, but you are strongly attuned to the mortal world. Though you are a humanoid, you are still susceptible to effects that target celestials.</text></trait><trait category="species"><name>Sharp Tusks</name><text>Your sharp tusks are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal 1 piercing damage plus 1d4 psychic damage.</text><roll description="Unarmed Strike Pyschic Dmage">1+1d4</roll></trait><trait category="species"><name>Telepathic</name><text>You can speak telepathically to any creature you can see, provided the creature is within a number of feet of you equal to 10 times your level. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.</text></trait><trait><name>Languages</name><text>You can understand, read, and write Celestial and Common, but you speak via Telepathy.</text></trait></race> -->
+Example Surnames: Brightsong, Bristletooth, Flitpaw, Jumptwig, Silentleaf, Wisewhisker.</text></trait><trait><name>Ability Score Increase</name><text>Your Dexterity score increases by 2, but your Strength score decreases by 2.</text></trait><trait><name>Age</name><text>Ratatosk reach adulthood at age 10 and, due to their celestial nature, live up to 180 years.</text></trait><trait><name>Alignment</name><text>Ever curious and delighting in unpredictability, ekorre ratatosks gravitate toward chaotic alignments as they view laws as vague suggestions at best. The tradvakt tend to be slightly more focused and lawful in their thinking. Both groups tend toward good, placing value on doing the right thing, though some individuals lean more toward their darker impulses.</text></trait><trait><name>Speed</name><text>Your base walking speed is 25 feet, and you have a climb speed of 10 feet.</text></trait><trait category="species"><name>Darkvision</name><text>You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text></trait><trait category="species"><name>Grounded Celestial</name><text>You are descended from celestials, but you are strongly attuned to the mortal world. Though you are a humanoid, you are still susceptible to effects that target celestials.</text></trait><trait category="species"><name>Sharp Tusks</name><text>Your sharp tusks are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal 1 piercing damage plus 1d4 psychic damage.</text><roll description="Unarmed Strike Pyschic Ddmage">1+1d4</roll></trait><trait category="species"><name>Telepathic</name><text>You can speak telepathically to any creature you can see, provided the creature is within a number of feet of you equal to 10 times your level. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.</text></trait><trait><name>Languages</name><text>You can understand, read, and write Celestial and Common, but you speak via Telepathy.</text></trait></race> -->
   <race>
     <name>Ratatosk, Ekorre (Clever Tusk) (TP)</name>
     <displayname>Ekorre Ratatosk (Clever Tusk)</displayname>
@@ -972,7 +971,7 @@ Either your Intelligence or Charisma score increases by 1.</text>
     <trait category="species">
       <name>Sharp Tusks</name>
       <text>Your sharp tusks are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal 1 piercing damage plus 1d4 psychic damage.</text>
-      <roll description="Unarmed Pyschic Dmage">1+1d4</roll>
+      <roll description="Unarmed Pyschic Ddmage">1+1d4</roll>
     </trait>
     <trait category="species">
       <name>Telepathic</name>
@@ -1048,7 +1047,7 @@ Either your Intelligence or Charisma score increases by 1.</text>
     <trait category="species">
       <name>Sharp Tusks</name>
       <text>Your sharp tusks are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal 1 piercing damage plus 1d4 psychic damage.</text>
-      <roll description="Unarmed Pyschic Dmage">1+1d4</roll>
+      <roll description="Unarmed Pyschic Ddmage">1+1d4</roll>
     </trait>
     <trait category="species">
       <name>Telepathic</name>
@@ -1172,7 +1171,7 @@ Example Names: May-nay, Wayee, Leemay, Einore, Die-Nu, Lowno, Ur-win.</text>
     <displayname>Stygian Shade</displayname>
     <ancestry>Shade</ancestry>
     <speed>30</speed>
-    <ability>Con +1</ability>
+    <ability>Con +2</ability>
     <resist>necrotic</resist>
     <trait category="description">
       <name>Description</name>

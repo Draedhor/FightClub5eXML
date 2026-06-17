@@ -72,7 +72,7 @@
 	Stepping into lightless chambers filled with ancient dust and lingering whispers, the halfling picks up the warning of imminent danger from the scraping of bone and claw on nearby stone. She winces as she runs her blade across her palm, the steel transmuting blood and essence into glowing runes of powerful magic, eager to brand and burn the flesh of her enemies.
 	Blood hunters are clever warriors driven by an unending determination to destroy evils old and new. Armed with rites of secretive blood magic and a willingness to sacrifice their own vitality and humanity for their cause, they protect the realms from the shadows—even as they remain ever vigilant against being drawn to the darkness that consumes the monsters they hunt.
 
-Source:	Player's Handbook (2014) p. 164</text>
+Source:	Matther Mercer</text>
     </trait>
     <trait>
       <name>Sacrifice to Preserve Life</name>
@@ -193,35 +193,35 @@ Source:	Player's Handbook (2014) p. 164</text>
         <name>Fighting Style</name>
         <text>At 2nd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can't take a fighting style more than once, even if you later get to choose again.
 
-(You can find a list of all fighting styles in ‘Feats’)</text>
+(You can find a list of all fighting styles in 'Feats')</text>
       </feature>
       <feature optional="YES">
         <name>Fighting Style: Archery</name>
         <text>You gain a +2 bonus to attack rolls you make with ranged weapons.
 
 Source:	Player's Handbook (2014) p. 72</text>
-        <special>fighting style archery</special>
+        <special>Fighting Style: Archery</special>
       </feature>
       <feature optional="YES">
         <name>Fighting Style: Dueling</name>
         <text>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
 
 Source:	Player's Handbook (2014) p. 72</text>
-        <special>fighting style dueling</special>
+        <special>Fighting Style: Dueling</special>
       </feature>
       <feature optional="YES">
         <name>Fighting Style: Great Weapon Fighting</name>
         <text>When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
 
 Source:	Player's Handbook (2014) p. 72</text>
-        <special>fighting style great weapon fighting</special>
+        <special>Fighting Style: Great Weapon Fighting</special>
       </feature>
       <feature optional="YES">
         <name>Fighting Style: Two-Weapon Fighting</name>
         <text>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
 Source:	Player's Handbook (2014) p. 72</text>
-        <special>fighting style two-weapon fighting</special>
+        <special>Fighting Style: Two-Weapon Fighting</special>
       </feature>
       <feature>
         <name>Crimson Rite</name>

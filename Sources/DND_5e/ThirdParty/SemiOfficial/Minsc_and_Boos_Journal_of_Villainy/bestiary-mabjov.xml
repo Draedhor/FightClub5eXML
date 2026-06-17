@@ -1148,7 +1148,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <vulnerable/>
     <immune/>
     <conditionImmune/>
-    <senses>darkvision 60ft.</senses>
+    <senses>darkvision 60 ft.</senses>
     <passive>11</passive>
     <languages>Common</languages>
     <cr>5</cr>
@@ -1519,7 +1519,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <vulnerable/>
     <immune/>
     <conditionImmune/>
-    <senses>darkvision 60ft.</senses>
+    <senses>darkvision 60 ft.</senses>
     <passive>12</passive>
     <languages>Sylvan</languages>
     <cr>2</cr>
@@ -1692,7 +1692,6 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <passive>19</passive>
     <languages>Abyssal, Celestial, Common, Elvish, Infernal, Sylvan</languages>
     <cr>22</cr>
-    <description>Source:	Minsc and Boo's Journal of Villainy p. 73</description>
     <trait>
       <name>Legendary Resistance (3/Day)</name>
       <recharge>3/DAY</recharge>
@@ -1722,7 +1721,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
 	• 9th level (1 slot): power word kill, time stop</text>
     </trait>
     <action>
-      <name>Multiattack (only useable with Tenser's Transformation)</name>
+      <name>Multiattack (only usable with Tenser's Transformation)</name>
       <text>Jon Irenicus makes two flame tongue attacks or two mace attacks. Each attack does an additional 13 (2d12) force damage.</text>
     </action>
     <action>
@@ -2557,7 +2556,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
       <text>The phaerimm uses an action to do a stinger attack against a paralyzed target. If the stinger hits, an egg is implanted in the target. This egg can only be removed by spells that cure disease, such as lesser restoration. If the egg is not removed within 90 days, the larva emerges, and the host is killed. A phaerimm has a single egg so may only use this ability once.</text>
     </action>
     <spells>mage hand, minor illusion, poison spray, ray of frost, dissonant whispers, magic missile, shield, crown of madness, detect thoughts, phantasmal force, fireball, fear, hypnotic pattern, confusion, greater invisibility, phantasmal killer, dominate person, hold monster, telekinesis, chain lightning, mass suggestion, prismatic spray, reverse gravity, dominate monster</spells>
-    <slots>0, 4, 3, 3, 3, 2, 1, 1, </slots>
+    <slots>0, 4, 3, 3, 3, 2, 1, 1</slots>
     <description>Source:	Minsc and Boo's Journal of Villainy p. 147</description>
   </monster>
   <monster>
@@ -2683,7 +2682,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     </action>
     <action>
       <name>Long Sword</name>
-      <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage or 10 (1d10 + 5)if wielded in two hands. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed by Bhaal. The cursed target can't regain hit points. The curse lasts until removed by the remove curse spell or other magic.</text>
+      <text>Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage or 10 (1d10 + 5) if wielded in two hands. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed by Bhaal. The cursed target can't regain hit points. The curse lasts until removed by the remove curse spell or other magic.</text>
       <attack>Long Sword|+10|1d8+5</attack>
       <attack>Long Sword (Two-Handed)|+10|1d10+5</attack>
     </action>
@@ -2731,7 +2730,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <vulnerable/>
     <immune/>
     <conditionImmune/>
-    <senses>darkvision 60ft.</senses>
+    <senses>darkvision 60 ft.</senses>
     <passive>10</passive>
     <languages>Common, Elvish, Sylvan</languages>
     <cr>3</cr>

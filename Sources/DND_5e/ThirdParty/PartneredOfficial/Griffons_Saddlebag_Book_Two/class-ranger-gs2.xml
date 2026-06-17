@@ -49,7 +49,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 223 (Third Party)</text>
         <name>Whispers of Knowledge</name>
         <value>1</value>
         <reset>L</reset>
-        <subclass>Rocborne (Third Party)</subclass>
+        <subclass>Rocborne (TP)</subclass>
       </counter>
     </autolevel>
     <autolevel level="7">
@@ -83,28 +83,28 @@ Source:	The Griffon's Saddlebag: Book Two p. 223 (Third Party)</text>
         <name>Hurricane</name>
         <value>1</value>
         <reset>S</reset>
-        <subclass>Rocborne (Third Party)</subclass>
+        <subclass>Rocborne (TP)</subclass>
       </counter>
     </autolevel>
   </class>
   <spell>
     <name>Feather Fall</name>
-    <classes>Ranger (Rocborne (Third Party))</classes>
+    <classes>Ranger (Rocborne (TP))</classes>
   </spell>
   <spell>
     <name>Gust of Wind</name>
-    <classes>Ranger (Rocborne (Third Party))</classes>
+    <classes>Ranger (Rocborne (TP))</classes>
   </spell>
   <spell>
     <name>Lightning Bolt</name>
-    <classes>Ranger (Rocborne (Third Party))</classes>
+    <classes>Ranger (Rocborne (TP))</classes>
   </spell>
   <spell>
     <name>Ice Storm</name>
-    <classes>Ranger (Rocborne (Third Party))</classes>
+    <classes>Ranger (Rocborne (TP))</classes>
   </spell>
   <spell>
     <name>Legend Lore</name>
-    <classes>Ranger (Rocborne (Third Party))</classes>
+    <classes>Ranger (Rocborne (TP))</classes>
   </spell>
 </compendium>

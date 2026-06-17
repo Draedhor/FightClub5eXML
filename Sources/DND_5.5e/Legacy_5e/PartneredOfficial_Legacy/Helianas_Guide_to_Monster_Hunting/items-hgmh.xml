@@ -146,7 +146,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 440</text>
     <detail>common (socketable)</detail>
     <type>W</type>
     <magic>YES</magic>
-    <text>A sticky string connects this pair of translucent dice, which jiggle enthusiastically with the slightest movement. Their vibrant colour is sure to turn heads, making them an excellent accessory.
+    <text>A sticky string connects this pair of translucent dice, which jiggle enthusiastically with the slightest movement. Their vibrant color is sure to turn heads, making them an excellent accessory.
 
 Lucky: These dice impart luck when socketed on weapons, mounts, or vehicles. Once they've been used to reroll a 1, they can't be used again until the next dawn.
 
@@ -277,7 +277,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 452</text>
     <detail>common (socketable)</detail>
     <type>W</type>
     <magic>YES</magic>
-    <text>Learning and developing new spells can be a tedious and time-consuming process. Luckily, the spelleater tome is a shortcut to becoming a spell-slinging savant. Originally a creation of Jonjo Starr, the tome has become a favourite among lazy wizarding apprentices the world over.
+    <text>Learning and developing new spells can be a tedious and time-consuming process. Luckily, the spelleater tome is a shortcut to becoming a spell-slinging savant. Originally a creation of Jonjo Starr, the tome has become a favorite among lazy wizarding apprentices the world over.
 	This book has 8 charges and regains 1d4 + 4 expended charges daily at dawn. It can be used as a spellbook and as a spellcasting focus by wizards.
 
 Living Library: This tome is capable of copying and storing magical information. As an action, you can give it a spell scroll of 2nd level or lower, which it devours, destroying the scroll and adding the spell to its pages. While holding the book, you can cast one of the spells stored within it by expending a number of charges equal to the spell's level (save DC 13, +5 to hit; 1 charge for cantrips). The tome can store up to five spells in this way. If storing a new spell would take it above this maximum, you can choose one of its current spells to be replaced. When found, the book already contains one 1st-level spell and one 2nd-level spell, randomly determined.
@@ -290,7 +290,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 452</text>
     <detail>rare (socketable)</detail>
     <type>W</type>
     <magic>YES</magic>
-    <text>Learning and developing new spells can be a tedious and time-consuming process. Luckily, the spelleater tome is a shortcut to becoming a spell-slinging savant. Originally a creation of Jonjo Starr, the tome has become a favourite among lazy wizarding apprentices the world over.
+    <text>Learning and developing new spells can be a tedious and time-consuming process. Luckily, the spelleater tome is a shortcut to becoming a spell-slinging savant. Originally a creation of Jonjo Starr, the tome has become a favorite among lazy wizarding apprentices the world over.
 	This book has 8 charges and regains 1d4 + 4 expended charges daily at dawn. It can be used as a spellbook and as a spellcasting focus by wizards.
 	Additionally, the tome has the Arcane Feast property.
 
@@ -453,7 +453,7 @@ Copper, Slow; Rare: A creature must succeed on a DC 15 Constitution saving throw
 
 Gold, Weakening; Very rare: A creature must succeed on a DC 16 Constitution saving throw or have disadvantage on all ability checks, attack rolls, and saving throws, and also deal half damage with Strength-based attacks until the end of its next turn. Diamond dust: 1200 gp.
 
-Silver, Paralysing; Legendary: A creature must succeed on a DC 17 Constitution saving throw or be paralysed until the start of its next turn. Diamond dust: 2400 gp.
+Silver, Paralysing; Legendary: A creature must succeed on a DC 17 Constitution saving throw or be paralyzed until the start of its next turn. Diamond dust: 2400 gp.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 458</text>
     <roll description="Bludgeoning Damage">2d6</roll>
@@ -1010,7 +1010,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 474</text>
     <detail>uncommon (socketable)</detail>
     <type>W</type>
     <magic>YES</magic>
-    <text>A pocketwatch that keeps perfect time is always a useful bit of kit. Socketed on any clothing or armour, this specimen is even more special, allowing its user a second chance to perform some action.
+    <text>A pocketwatch that keeps perfect time is always a useful bit of kit. Socketed on any clothing or armor, this specimen is even more special, allowing its user a second chance to perform some action.
 	As a bonus action, immediately before you make an ability check or attack roll, you can activate the stopwatch, setting a call-back marker. After you make the ability check or attack roll (and after you know the outcome), you can choose to rewind time by a few seconds to the moment you took the bonus action (no action required). You must then reroll the ability check or attack roll and use the new result. Whether or not you choose to rewind to the callback marker, after you use this property, it can't be used again until the next dawn.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 475</text>
@@ -1075,7 +1075,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 476</text>
     <detail>common (socketable, requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
-    <text>While socketed on armour, clothing, a focus, or a weapon, you have a preternatural ability to land on your feet. You have advantage on checks made to maintain your footing and you can subtract up to 20 feet from the fall when calculating falling damage.
+    <text>While socketed on armor, clothing, a focus, or a weapon, you have a preternatural ability to land on your feet. You have advantage on checks made to maintain your footing and you can subtract up to 20 feet from the fall when calculating falling damage.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 476</text>
   </item>
@@ -1309,7 +1309,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 486,
     <detail>common (socketable)</detail>
     <type>W</type>
     <magic>YES</magic>
-    <text>This magik oil can be socketed on any item you don't mind getting oil stains on. The slow drip of oil from its never-closing spout imbues the item to which it is attached with magic, rendering the item much more durable. Metal can't be corroded by acid and wood &amp; clothing cease being flammable. Strong magic, such as that from a 6th-level spell or higher, can overcome this enhanced resilience. If socketed on a weapon, that weapon's damage becomes magical. If socketed on armour, the oil lubricates the joints, removing any disadvantage on Dexterity (Stealth) checks the armour normally imposes.
+    <text>This magik oil can be socketed on any item you don't mind getting oil stains on. The slow drip of oil from its never-closing spout imbues the item to which it is attached with magic, rendering the item much more durable. Metal can't be corroded by acid and wood &amp; clothing cease being flammable. Strong magic, such as that from a 6th-level spell or higher, can overcome this enhanced resilience. If socketed on a weapon, that weapon's damage becomes magical. If socketed on armor, the oil lubricates the joints, removing any disadvantage on Dexterity (Stealth) checks the armor normally imposes.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 486</text>
   </item>
@@ -1444,7 +1444,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 492</text>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
-    <text>Full of useful knowledge and heavy enough to crush a skull, Heliana's Guide to Monster Hunting is nothing if not handy. The personalised quotes from Heliana, Peeper's deft proofing and editing, and the numerous ink stains and spilled watercolours give this hefty tome a homemade feel.
+    <text>Full of useful knowledge and heavy enough to crush a skull, Heliana's Guide to Monster Hunting is nothing if not handy. The personalised quotes from Heliana, Peeper's deft proofing and editing, and the numerous ink stains and spilled watercolors give this hefty tome a homemade feel.
 
 Fantastic Phalanges and Where to Find Them: As an action, you can open this book and stare intently at its pages, which turn of their own accord to settle on an anatomical diagram of the corpse nearest to the book. You immediately learn all the harvestable parts of the corpse, as well as their Component DCs.
 
@@ -1460,7 +1460,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 492</text>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
-    <text>Full of useful knowledge and heavy enough to crush a skull, Heliana's Guide to Monster Hunting is nothing if not handy. The personalised quotes from Heliana, Peeper's deft proofing and editing, and the numerous ink stains and spilled watercolours give this hefty tome a homemade feel.
+    <text>Full of useful knowledge and heavy enough to crush a skull, Heliana's Guide to Monster Hunting is nothing if not handy. The personalised quotes from Heliana, Peeper's deft proofing and editing, and the numerous ink stains and spilled watercolors give this hefty tome a homemade feel.
 	The deluxe, leatherbound version of this book imparts some of Heliana's own wisdom to those that read it regularly.
 
 Fantastic Phalanges and Where to Find Them: As an action, you can open this book and stare intently at its pages, which turn of their own accord to settle on an anatomical diagram of the corpse nearest to the book. You immediately learn all the harvestable parts of the corpse, as well as their Component DCs.

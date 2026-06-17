@@ -59,7 +59,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 213 (Third Party)</text>
         <name>Strong Stomach</name>
         <value>1</value>
         <reset>L</reset>
-        <subclass>Festus Domain (Third Party)</subclass>
+        <subclass>Festus Domain (TP)</subclass>
       </counter>
     </autolevel>
     <autolevel level="8">
@@ -84,48 +84,48 @@ Source:	The Griffon's Saddlebag: Book Two p. 213 (Third Party)</text>
         <name>Invigorating Feast</name>
         <value>1</value>
         <reset>L</reset>
-        <subclass>Festus Domain (Third Party)</subclass>
+        <subclass>Festus Domain (TP)</subclass>
       </counter>
     </autolevel>
   </class>
   <spell>
     <name>Goodberry</name>
-    <classes>Cleric (Festus Domain (Third Party))</classes>
+    <classes>Cleric (Festus Domain (TP))</classes>
   </spell>
   <spell>
     <name>Purify Food and Drink</name>
-    <classes>Cleric (Festus Domain (Third Party))</classes>
+    <classes>Cleric (Festus Domain (TP))</classes>
   </spell>
   <spell>
     <name>Heat Metal</name>
-    <classes>Cleric (Festus Domain (Third Party))</classes>
+    <classes>Cleric (Festus Domain (TP))</classes>
   </spell>
   <spell>
     <name>Protection from Poison</name>
-    <classes>Cleric (Festus Domain (Third Party))</classes>
+    <classes>Cleric (Festus Domain (TP))</classes>
   </spell>
   <spell>
     <name>Create Food and Water</name>
-    <classes>Cleric (Festus Domain (Third Party))</classes>
+    <classes>Cleric (Festus Domain (TP))</classes>
   </spell>
   <spell>
     <name>Stinking Cloud</name>
-    <classes>Cleric (Festus Domain (Third Party))</classes>
+    <classes>Cleric (Festus Domain (TP))</classes>
   </spell>
   <spell>
     <name>Blight</name>
-    <classes>Cleric (Festus Domain (Third Party))</classes>
+    <classes>Cleric (Festus Domain (TP))</classes>
   </spell>
   <spell>
     <name>Control Water</name>
-    <classes>Cleric (Festus Domain (Third Party))</classes>
+    <classes>Cleric (Festus Domain (TP))</classes>
   </spell>
   <spell>
     <name>Cloudkill</name>
-    <classes>Cleric (Festus Domain (Third Party))</classes>
+    <classes>Cleric (Festus Domain (TP))</classes>
   </spell>
   <spell>
     <name>Contagion</name>
-    <classes>Cleric (Festus Domain (Third Party))</classes>
+    <classes>Cleric (Festus Domain (TP))</classes>
   </spell>
 </compendium>

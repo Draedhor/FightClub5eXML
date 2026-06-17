@@ -25,7 +25,7 @@ Arcane Anomalies:
 11 | The shadows of 1d6 random creatures in the area animate and try to kill them. Once destroyed, the creatures don't cast a shadow for 24 hours.
 12 | All creatures within 60 feet become invisible for 1 min or until they attack or cast a spell.
 13 | Tendrils of life flow from the nearest creature to others. It must succeed on a DC 15 Constitution saving throw or take 8d8 necrotic damage, half on a success. The three nearest creatures within 60 feet each regain hit points equal to the damage taken.
-14 | A hypnotic pattern (save DC 15) appears. It creates scintillating impossible colours in shapes which are simply wrong. Creatures incapacitated by the spell weep uncontrollably.
+14 | A hypnotic pattern (save DC 15) appears. It creates scintillating impossible colors in shapes which are simply wrong. Creatures incapacitated by the spell weep uncontrollably.
 15 | A black tentacles spell appears in the area for 1 hour (Escape DC 15).
 16 | Objects within 60 feet come to life for the next hour, as if affected by the animate objects spell. They mumble awful truths, but are not otherwise hostile.
 17 | The nearest creature is polymorphed into an awakened shrub for 1 hour or until reduced to 0 hp (No save).
@@ -54,7 +54,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party)</text>
     <detail>rare</detail>
     <type>W</type>
     <text>This spherical glass orb contains an ignited delerium shard hovering gently within. Electrical currents of yellow, green, and purple energy streak from the crystal and cascade along the glass, rendering it warm to the touch.
-	As an action you can throw the orb up to 30 feet. It shatters on impact, releasing a 20-foot-radius burst of contaminated energy. Creatures in the area must succeed on a DC 15 Constitution save or take (8d6) necrotic damage, and take one level of contamination. In addition, an arcane anomaly (see Dungeons of Drakkenheim) occurs, centred on the point of impact.
+	As an action you can throw the orb up to 30 feet. It shatters on impact, releasing a 20-foot-radius burst of contaminated energy. Creatures in the area must succeed on a DC 15 Constitution save or take (8d6) necrotic damage, and take one level of contamination. In addition, an arcane anomaly (see Dungeons of Drakkenheim) occurs, centered on the point of impact.
 
 Source:	Dungeons of Drakkenheim p. 230 (Third Party)</text>
   </item>
@@ -106,7 +106,7 @@ Arcane Anomalies:
 11 | The shadows of 1d6 random creatures in the area animate and try to kill them. Once destroyed, the creatures don't cast a shadow for 24 hours.
 12 | All creatures within 60 feet become invisible for 1 min or until they attack or cast a spell.
 13 | Tendrils of life flow from the nearest creature to others. It must succeed on a DC 15 Constitution saving throw or take 8d8 necrotic damage, half on a success. The three nearest creatures within 60 feet each regain hit points equal to the damage taken.
-14 | A hypnotic pattern (save DC 15) appears. It creates scintillating impossible colours in shapes which are simply wrong. Creatures incapacitated by the spell weep uncontrollably.
+14 | A hypnotic pattern (save DC 15) appears. It creates scintillating impossible colors in shapes which are simply wrong. Creatures incapacitated by the spell weep uncontrollably.
 15 | A black tentacles spell appears in the area for 1 hour (Escape DC 15).
 16 | Objects within 60 feet come to life for the next hour, as if affected by the animate objects spell. They mumble awful truths, but are not otherwise hostile.
 17 | The nearest creature is polymorphed into an awakened shrub for 1 hour or until reduced to 0 hp (No save).
@@ -150,7 +150,7 @@ Source:	Dungeons of Drakkenheim p. 231 (Third Party),
     <ac>18</ac>
     <stealth>YES</stealth>
     <strength>15</strength>
-    <text>This plate armour includes a helmet and is hermetically sealed when worn. You gain the following benefits when its worn and the helmet visor is closed:
+    <text>This plate armor includes a helmet and is hermetically sealed when worn. You gain the following benefits when its worn and the helmet visor is closed:
 
 	• You are immune to diseases and the poisoned condition, and gain advantage on saving throws against any effect that causes contamination.
 
@@ -194,7 +194,7 @@ Source:	Dungeons of Drakkenheim p. 234 (Third Party)</text>
 	You gain a +3 bonus to attack and damage rolls made with this magic weapon. It has the following additional properties:
 	You can use a bonus action to speak the sword's name, causing radiant flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 4d6 radiant damage to any target it hits. The flames last until you use a bonus action to douse the blade, or until you drop or sheathe the sword.
 
-Sentience: Ignacious is a sentient lawful good weapon with an Intelligence of 11, a Wisdom of 19, and a Charisma of 23. It has hearing and darkvision out to a range of 120 feet. The weapon can speak, read, and understand Common, Celestial, and Draconic, and can communicate with its wielder telepathically. It always knows its wielder's thoughts. Its voice is commanding, righteous, and booming. When drawn, Ignacious casts the zone of truth spell (save DC 20), and maintains concentration on it so that you don't have to. The zone of truth moves with the blade and remains centred on it.
+Sentience: Ignacious is a sentient lawful good weapon with an Intelligence of 11, a Wisdom of 19, and a Charisma of 23. It has hearing and darkvision out to a range of 120 feet. The weapon can speak, read, and understand Common, Celestial, and Draconic, and can communicate with its wielder telepathically. It always knows its wielder's thoughts. Its voice is commanding, righteous, and booming. When drawn, Ignacious casts the zone of truth spell (save DC 20), and maintains concentration on it so that you don't have to. The zone of truth moves with the blade and remains centered on it.
 
 Personality: Ignacious is zealously devoted to the Sacred Flame, and has memorized every word of its holy texts. The blade wishes to be wielded by a faithful devotee of any sort; Ignacious does not care about the religious divide between the Falling Fire and the Sacred Flame so long as its wielder keeps the core tenets shared by both sects.
 	The sword's purpose is to expose all deception and reveal the truth. It does not tolerate any falsehood, duplicitousness, or lies. The sword always knows when it hears a lie, and responds with wrathful fury. If a wielder speaks a lie, it immediately triggers a conflict.
@@ -244,7 +244,7 @@ Arcane Anomalies:
 11 | The shadows of 1d6 random creatures in the area animate and try to kill them. Once destroyed, the creatures don't cast a shadow for 24 hours.
 12 | All creatures within 60 feet become invisible for 1 min or until they attack or cast a spell.
 13 | Tendrils of life flow from the nearest creature to others. It must succeed on a DC 15 Constitution saving throw or take 8d8 necrotic damage, half on a success. The three nearest creatures within 60 feet each regain hit points equal to the damage taken.
-14 | A hypnotic pattern (save DC 15) appears. It creates scintillating impossible colours in shapes which are simply wrong. Creatures incapacitated by the spell weep uncontrollably.
+14 | A hypnotic pattern (save DC 15) appears. It creates scintillating impossible colors in shapes which are simply wrong. Creatures incapacitated by the spell weep uncontrollably.
 15 | A black tentacles spell appears in the area for 1 hour (Escape DC 15).
 16 | Objects within 60 feet come to life for the next hour, as if affected by the animate objects spell. They mumble awful truths, but are not otherwise hostile.
 17 | The nearest creature is polymorphed into an awakened shrub for 1 hour or until reduced to 0 hp (No save).

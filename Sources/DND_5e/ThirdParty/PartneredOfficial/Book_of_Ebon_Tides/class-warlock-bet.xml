@@ -51,7 +51,7 @@ Source:	Book of Ebon Tides p. 46 (Third Party)</text>
         <name>Sickening Revenge</name>
         <value>1</value>
         <reset>S</reset>
-        <subclass>Mother of Sorrows (Third Party)</subclass>
+        <subclass>Mother of Sorrows (TP)</subclass>
       </counter>
     </autolevel>
     <autolevel level="10">
@@ -74,48 +74,48 @@ Source:	Book of Ebon Tides p. 46 (Third Party)</text>
         <name>Touch of Sorrow</name>
         <value>1</value>
         <reset>S</reset>
-        <subclass>Mother of Sorrows (Third Party)</subclass>
+        <subclass>Mother of Sorrows (TP)</subclass>
       </counter>
     </autolevel>
   </class>
   <spell>
     <name>Detect Poison and Disease</name>
-    <classes>Warlock (Mother of Sorrows (Third Party))</classes>
+    <classes>Warlock (Mother of Sorrows (TP))</classes>
   </spell>
   <spell>
     <name>Inflict Wounds</name>
-    <classes>Warlock (Mother of Sorrows (Third Party))</classes>
+    <classes>Warlock (Mother of Sorrows (TP))</classes>
   </spell>
   <spell>
     <name>Ray of Enfeeblement</name>
-    <classes>Warlock (Mother of Sorrows (Third Party))</classes>
+    <classes>Warlock (Mother of Sorrows (TP))</classes>
   </spell>
   <spell>
     <name>Silence</name>
-    <classes>Warlock (Mother of Sorrows (Third Party))</classes>
+    <classes>Warlock (Mother of Sorrows (TP))</classes>
   </spell>
   <spell>
     <name>Stinking Cloud</name>
-    <classes>Warlock (Mother of Sorrows (Third Party))</classes>
+    <classes>Warlock (Mother of Sorrows (TP))</classes>
   </spell>
   <spell>
     <name>Vampiric Touch</name>
-    <classes>Warlock (Mother of Sorrows (Third Party))</classes>
+    <classes>Warlock (Mother of Sorrows (TP))</classes>
   </spell>
   <spell>
     <name>Greater Invisibility</name>
-    <classes>Warlock (Mother of Sorrows (Third Party))</classes>
+    <classes>Warlock (Mother of Sorrows (TP))</classes>
   </spell>
   <spell>
     <name>Phantasmal Killer</name>
-    <classes>Warlock (Mother of Sorrows (Third Party))</classes>
+    <classes>Warlock (Mother of Sorrows (TP))</classes>
   </spell>
   <spell>
     <name>Cloudkill</name>
-    <classes>Warlock (Mother of Sorrows (Third Party))</classes>
+    <classes>Warlock (Mother of Sorrows (TP))</classes>
   </spell>
   <spell>
     <name>Contagion</name>
-    <classes>Warlock (Mother of Sorrows (Third Party))</classes>
+    <classes>Warlock (Mother of Sorrows (TP))</classes>
   </spell>
 </compendium>

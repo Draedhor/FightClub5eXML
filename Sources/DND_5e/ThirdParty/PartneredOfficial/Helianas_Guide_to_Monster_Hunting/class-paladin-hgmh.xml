@@ -6,7 +6,7 @@
     <autolevel level="3">
       <feature optional="YES">
         <name>Sacred Oath: Oath of the Harvest (TP)</name>
-        <text>The Oath of the Harvest attracts paladins who wish to nourish and heal the world. Often found on aid missions to war-torn lands, such paladins resort to harm only as a means of preventing further suffering. Paladins who swear this oath are more likely than not to heal, feed, and nurture a wounded foe, provided the defeated creature gives its word of honour that it will cease its nefarious activities. They are no fools, however. Typically versed in religion and medicine, these paladins are unlikely to believe the word of creatures inherently inclined to lie, or those that have previously broken their word.
+        <text>The Oath of the Harvest attracts paladins who wish to nourish and heal the world. Often found on aid missions to war-torn lands, such paladins resort to harm only as a means of preventing further suffering. Paladins who swear this oath are more likely than not to heal, feed, and nurture a wounded foe, provided the defeated creature gives its word of honor that it will cease its nefarious activities. They are no fools, however. Typically versed in religion and medicine, these paladins are unlikely to believe the word of creatures inherently inclined to lie, or those that have previously broken their word.
 
 Tenets of the Harvest:
 The tenets of the Oath of the Harvest inspire their followers to seek out potential harm and quell it before it blossoms.
@@ -77,7 +77,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 184 (Third Party)</text
         <name>Host of Heroes</name>
         <value>1</value>
         <reset>L</reset>
-        <subclass>Oath of the Harvest (Third Party)</subclass>
+        <subclass>Oath of the Harvest (TP)</subclass>
       </counter>
     </autolevel>
     <autolevel level="20">
@@ -99,48 +99,48 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 184 (Third Party)</text
         <name>Avatar of Nourishment</name>
         <value>1</value>
         <reset>L</reset>
-        <subclass>Oath of the Harvest (Third Party)</subclass>
+        <subclass>Oath of the Harvest (TP)</subclass>
       </counter>
     </autolevel>
   </class>
   <spell>
     <name>Heroism</name>
-    <classes>Paladin (Oath of the Harvest (Third Party))</classes>
+    <classes>Paladin (Oath of the Harvest (TP))</classes>
   </spell>
   <spell>
     <name>Purify Food and Drink</name>
-    <classes>Paladin (Oath of the Harvest (Third Party))</classes>
+    <classes>Paladin (Oath of the Harvest (TP))</classes>
   </spell>
   <spell>
     <name>Prayer of Healing</name>
-    <classes>Paladin (Oath of the Harvest (Third Party))</classes>
+    <classes>Paladin (Oath of the Harvest (TP))</classes>
   </spell>
   <spell>
     <name>Warding Bond</name>
-    <classes>Paladin (Oath of the Harvest (Third Party))</classes>
+    <classes>Paladin (Oath of the Harvest (TP))</classes>
   </spell>
   <spell>
     <name>Beacon of Hope</name>
-    <classes>Paladin (Oath of the Harvest (Third Party))</classes>
+    <classes>Paladin (Oath of the Harvest (TP))</classes>
   </spell>
   <spell>
     <name>Create Food and Water</name>
-    <classes>Paladin (Oath of the Harvest (Third Party))</classes>
+    <classes>Paladin (Oath of the Harvest (TP))</classes>
   </spell>
   <spell>
     <name>Death Ward</name>
-    <classes>Paladin (Oath of the Harvest (Third Party))</classes>
+    <classes>Paladin (Oath of the Harvest (TP))</classes>
   </spell>
   <spell>
     <name>Otiluke's Resilient Sphere</name>
-    <classes>Paladin (Oath of the Harvest (Third Party))</classes>
+    <classes>Paladin (Oath of the Harvest (TP))</classes>
   </spell>
   <spell>
     <name>Greater Restoration</name>
-    <classes>Paladin (Oath of the Harvest (Third Party))</classes>
+    <classes>Paladin (Oath of the Harvest (TP))</classes>
   </spell>
   <spell>
     <name>Mass Cure Wounds</name>
-    <classes>Paladin (Oath of the Harvest (Third Party))</classes>
+    <classes>Paladin (Oath of the Harvest (TP))</classes>
   </spell>
 </compendium>

@@ -7,7 +7,7 @@
     <alignment>Lawful Neutral</alignment>
     <ac>15 (natural armor)</ac>
     <hp>85 (10d10+30)</hp>
-    <speed>50 ft.</speed>
+    <speed>walk 50 ft.</speed>
     <init>3</init>
     <str>10</str>
     <dex>10</dex>
@@ -34,7 +34,7 @@
     </trait>
     <action>
       <name>Bite</name>
-      <text>Melee attack roll: +6, reach 5ft. Hit: 22 (4d8+4) Necrotic Damage.</text>
+      <text>Melee attack roll: +6, reach 5 ft. Hit: 22 (4d8+4) Necrotic Damage.</text>
       <attack>Necrotic Damage|+6|4d8+4</attack>
     </action>
     <action>
@@ -76,7 +76,7 @@ During the day, the Lamplighters hide in dark, dilapidated buildings or huts, on
 
 Study the enemy.
 Characters with natural or survival skills gain Advantage on Intelligence (Investigation) checks when they Study a Lamplighter, learning the following based on the result:
-(10+) You recognise the creature's resistances.
+(10+) You recognize the creature's resistances.
 (15+) You know the creature's Lantern Beam ability and its multiple options.
 (20+) You are aware of its strongest and weakest ability scores and saving throws.
 

@@ -8,7 +8,7 @@
     <alignment>lawful good</alignment>
     <ac>18 (chain mail, shield)</ac>
     <hp>52 (8d8+16)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>18</str>
     <dex>12</dex>
     <con>15</con>
@@ -73,7 +73,7 @@
 
 	Chivalry is Still Alive. Brock will do anything to protect a damsel in distress. He is a romantic at heart and believes in true love.
 
-Source:	Monsters of the Dungeon p. 8 (Homebrew)</description>
+Source:	Monsters of the Dungeon p. 8 (Indie)</description>
     <environment>any</environment>
   </monster>
   <!-- Brock the Brave -->
@@ -85,7 +85,7 @@ Source:	Monsters of the Dungeon p. 8 (Homebrew)</description>
     <alignment>unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>10 (4d4)</hp>
-    <speed>10 ft., fly 40 ft.</speed>
+    <speed>walk 10 ft., fly 40 ft.</speed>
     <str>1</str>
     <dex>15</dex>
     <con>11</con>
@@ -127,7 +127,7 @@ Source:	Monsters of the Dungeon p. 8 (Homebrew)</description>
 
 	Constructed Nature. The hat doesn't require air, food, drink, or sleep.
 
-Source:	Monsters of the Dungeon p. 9 (Homebrew)</description>
+Source:	Monsters of the Dungeon p. 9 (Indie)</description>
     <environment>any</environment>
   </monster>
   <!-- Animated Wizard's Hat -->
@@ -140,7 +140,7 @@ Source:	Monsters of the Dungeon p. 9 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>10 (4d4)</hp>
-    <speed>10 ft., fly 40 ft.</speed>
+    <speed>walk 10 ft., fly 40 ft.</speed>
     <str>1</str>
     <dex>15</dex>
     <con>11</con>
@@ -222,7 +222,7 @@ Source:	Monsters of the Dungeon p. 9 (Homebrew)</description>
 
 	Hefty Hoard. Legends say that arcane dragons have larger hoards than any other kind of dragon. They protect their hoard by any means, including making deals with humanoids.
 
-Source:	Monsters of the Dungeon p. 10 (Homebrew)</description>
+Source:	Monsters of the Dungeon p. 10 (Indie)</description>
     <environment>any</environment>
   </monster>
   <!-- Dragon, Arcane -->
@@ -233,7 +233,7 @@ Source:	Monsters of the Dungeon p. 10 (Homebrew)</description>
     <alignment>chaotic good</alignment>
     <ac>13 (18 with mage armor and Staff of Aramoor)</ac>
     <hp>10 (4d4)</hp>
-    <speed>130 (20d8 + 40)</speed>
+    <speed>walk 130 (20d8 + 40)</speed>
     <str>10</str>
     <dex>16</dex>
     <con>14</con>
@@ -286,7 +286,7 @@ Wizards Rule. Nox is a magocracy and the council has the ultimate say in everyth
       
 Magic Carpet Ride. The archmage often travels on a magical carpet of flying, which can be shrunk to fit in his pocket. His familiar is a stubborn, golden owl named Xaggy.
 
-Source:	Monsters of the Dungeon p. 12 (Homebrew)</description>
+Source:	Monsters of the Dungeon p. 12 (Indie)</description>
     <environment>any</environment>
   </monster>
   <!-- Archmage Ignatius of Nox -->
@@ -297,7 +297,7 @@ Source:	Monsters of the Dungeon p. 12 (Homebrew)</description>
     <alignment>chaotic evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>85 (9d10+36)</hp>
-    <speed>0 ft., fly 30 ft. (hover)</speed>
+    <speed>walk 0 ft., fly 30 ft. (hover)</speed>
     <str>22</str>
     <dex>9</dex>
     <con>18</con>
@@ -348,7 +348,7 @@ Source:	Monsters of the Dungeon p. 12 (Homebrew)</description>
 
 	One-Sided Conversation. Blabberblubs are not interested in listening. They won't make any attempt to understand what other creatures are saying or doing. The aberrations simply want their next meal and are just thinking out loud.
 
-Source:	Monsters of the Dungeon p. 13 (Homebrew)</description>
+Source:	Monsters of the Dungeon p. 13 (Indie)</description>
     <environment>any</environment>
   </monster>
   <!-- Blabberblub -->
@@ -359,7 +359,7 @@ Source:	Monsters of the Dungeon p. 13 (Homebrew)</description>
     <alignment>unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>42 (5d10+15)</hp>
-    <speed>25 ft.</speed>
+    <speed>walk 25 ft.</speed>
     <str>16</str>
     <dex>10</dex>
     <con>16</con>
@@ -402,7 +402,7 @@ Source:	Monsters of the Dungeon p. 13 (Homebrew)</description>
 
 	Constructed Nature. The cauldron doesn't require air, food, drink, or sleep.
 
-Source:	Monsters of the Dungeon p. 14 (Homebrew)</description>
+Source:	Monsters of the Dungeon p. 14 (Indie)</description>
     <environment>any</environment>
   </monster>
   <!-- Castle Dungeons -->

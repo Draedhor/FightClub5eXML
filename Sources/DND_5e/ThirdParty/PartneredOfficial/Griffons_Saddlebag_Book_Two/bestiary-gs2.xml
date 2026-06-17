@@ -10,7 +10,7 @@
     <alignment>Neutral</alignment>
     <ac>13 (leather armor)</ac>
     <hp>49 (9d8+9)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>11</str>
     <dex>15</dex>
     <con>13</con>
@@ -72,7 +72,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 336 (Third Party)</description>
     <alignment>Lawful Evil</alignment>
     <ac>16 (studded leather armor)</ac>
     <hp>104 (19d8+19)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>13</str>
     <dex>18</dex>
     <con>12</con>
@@ -117,7 +117,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 336 (Third Party)</description>
     </action>
     <action>
       <name>Dagger</name>
-      <text>Melee or Ranged Weapon Attack: +7 to hit, reach 5ft., or range 20/60 ft., one target. Hit: 6 (1d4+4) piercing damage.</text>
+      <text>Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft., or range 20/60 ft., one target. Hit: 6 (1d4+4) piercing damage.</text>
       <attack>Piercing Damage|+7|1d4+4</attack>
     </action>
     <action>
@@ -142,7 +142,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 337 (Third Party)</description>
     <alignment>Lawful Evil</alignment>
     <ac>16 (studded leather armor)</ac>
     <hp>104 (19d8+19)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>13</str>
     <dex>18</dex>
     <con>12</con>
@@ -199,7 +199,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 337 (Third Party)</description>
     </action>
     <action>
       <name>Dagger</name>
-      <text>Melee or Ranged Weapon Attack: +7 to hit, reach 5ft., or range 20/60 ft., one target. Hit: 6 (1d4+4) piercing damage.</text>
+      <text>Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft., or range 20/60 ft., one target. Hit: 6 (1d4+4) piercing damage.</text>
       <attack>Piercing Damage|+7|1d4+4</attack>
     </action>
     <action>
@@ -233,7 +233,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 337 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>18 (4d6+4)</hp>
-    <speed>30 ft., climb 30 ft.</speed>
+    <speed>walk 30 ft., climb 30 ft.</speed>
     <str>12</str>
     <dex>16</dex>
     <con>13</con>
@@ -271,7 +271,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 337 (Third Party)</description>
       <attack>Piercing Damage|+5|1d6+3</attack>
       <attack>Poison Damage||1d6</attack>
     </action>
-    <description>When Antroned's sewer network was first dug out, the Mercantile Guild made sure that enough space was provided for the city's anticipated growth. The unanticipated consequences of such an elaborate and cavernous network of sewage-filled tunnels, however, were the giant spider rats. Considered by some to be the unofficial mascot of Antronec, this vicious little beast is every bit as dangerous as a giant rat, but with the extra arachnoid horror of additional limbs, poison, and other spider bits. There was one occasion where a merchant tried to market and sell a soft children's toy designed like this creature, but the merchandise was found burnt to miniscule ashes, and the merchant's body was never found.
+    <description>When Antroned's sewer network was first dug out, the Mercantile Guild made sure that enough space was provided for the city's anticipated growth. The unanticipated consequences of such an elaborate and cavernous network of sewage-filled tunnels, however, were the giant spider rats. Considered by some to be the unofficial mascot of Antronec, this vicious little beast is every bit as dangerous as a giant rat, but with the extra arachnoid horror of additional limbs, poison, and other spider bits. There was one occasion where a merchant tried to market and sell a soft children's toy designed like this creature, but the merchandise was found burnt to minuscule ashes, and the merchant's body was never found.
 
 Source:	The Griffon's Saddlebag: Book Two p. 338 (Third Party)</description>
     <environment/>
@@ -283,7 +283,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 338 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>52 (8d8+16)</hp>
-    <speed>30 ft., climb 30 ft.</speed>
+    <speed>walk 30 ft., climb 30 ft.</speed>
     <str>16</str>
     <dex>13</dex>
     <con>14</con>
@@ -338,7 +338,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 338 (Third Party)</description>
     <alignment>Neutral</alignment>
     <ac>16 (studded leather armor)</ac>
     <hp>104 (16d8+32)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>12</str>
     <dex>17</dex>
     <con>14</con>
@@ -411,7 +411,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 339 (Third Party)</description>
     <alignment>Neutral</alignment>
     <ac>16 (studded leather armor)</ac>
     <hp>104 (16d8+32)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>12</str>
     <dex>17</dex>
     <con>14</con>
@@ -439,7 +439,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 339 (Third Party)</description>
 	• Cantrips (at will): message, mage hand, mending, prestidigitation
 	• 1st Level (4 slots): comprehend languages, detect magic, identify, unseen servant
 	• 2nd Level (3 slots): detect thoughts, locate object, suggestion, knock
-	• 3nd Level (3 slots): clairvoyance, glyph of warding, sending
+	• 3rd Level (3 slots): clairvoyance, glyph of warding, sending
 	• 4th Level (1 slot): fabricate, phantasmal killer, secret Chest
 	• 5th Level (2 slots): geas, legend lore
 	• 6th Level (1 slot): instant summons
@@ -501,7 +501,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 339 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>59 (7d10+21)</hp>
-    <speed>30 ft., burrow 20 ft., climb 30 ft.</speed>
+    <speed>walk 30 ft., burrow 20 ft., climb 30 ft.</speed>
     <str>16</str>
     <dex>15</dex>
     <con>17</con>
@@ -560,7 +560,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 340 (Third Party)</description>
     <alignment>Chaotic Evil</alignment>
     <ac>5</ac>
     <hp>2 (1d4)</hp>
-    <speed>0 ft.</speed>
+    <speed>walk 0 ft.</speed>
     <str>3</str>
     <dex>1</dex>
     <con>10</con>
@@ -612,7 +612,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 340 (Third Party)</description>
     <alignment>Chaotic Evil</alignment>
     <ac>5</ac>
     <hp>2 (1d4)</hp>
-    <speed>0 ft.</speed>
+    <speed>walk 0 ft.</speed>
     <str>3</str>
     <dex>1</dex>
     <con>10</con>
@@ -676,7 +676,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 341 (Third Party)</description>
     <alignment>Chaotic Evil</alignment>
     <ac>12 (natural armor)</ac>
     <hp>7 (1d8+3)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>10</str>
     <dex>10</dex>
     <con>17</con>
@@ -735,7 +735,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 341 (Third Party)</description>
     <alignment>Chaotic Evil</alignment>
     <ac>12 (natural armor)</ac>
     <hp>114 (12d12+36)</hp>
-    <speed>0 ft.</speed>
+    <speed>walk 0 ft.</speed>
     <str>10</str>
     <dex>1</dex>
     <con>17</con>
@@ -779,7 +779,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 341 (Third Party)</description>
     </trait>
     <trait>
       <name>Magic Resistance</name>
-      <text>The stall has advanatage on saving throws against spells and other magical effects.</text>
+      <text>The stall has advantage on saving throws against spells and other magical effects.</text>
     </trait>
     <trait>
       <name>Unusual Nature</name>
@@ -808,7 +808,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 342 (Third Party)</description>
     <alignment>Neutral Evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>92 (8d12+40)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>19</str>
     <dex>8</dex>
     <con>21</con>
@@ -856,7 +856,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 342 (Third Party)</description>
     <action>
       <name>Animate Blood (2/Day)</name>
       <recharge>2/DAY</recharge>
-      <text>The treant magically animates a pool of blood it can see within 60 feet of it. The blood congeals into a viscous form and has the statistics of a gelatinous cube, except its Ooze Cube, Psuedopod, and Engult trait and action options deal necrotic damage instead of acid damage, and its Transparent trait doesn't function unless it's in blood or bloodwater.
+      <text>The treant magically animates a pool of blood it can see within 60 feet of it. The blood congeals into a viscous form and has the statistics of a gelatinous cube, except its Ooze Cube, Pseudopod, and Engult trait and action options deal necrotic damage instead of acid damage, and its Transparent trait doesn't function unless it's in blood or bloodwater.
 	The animated blood acts as an ally of the treant. The blood remains animate for 8 hours until it does; until the treant dies or is more than 120 feet from the blood; or until the treant takes a bonus action to turn it back into an inanimate pool of blood.</text>
     </action>
     <description>The Syre Wood was home to numerous great trees and treants, but the swiftness of the Legion's assault left the forest's defense in the hands of Syre and his sprites. As such, the blood of Malfuriel has rapidly tainted the various treants of the swamp just as it altered the other wildlife. Those unlucky enough to draw a bloodmire treant's ire will face all of nature's wrath as well as the foul blood magic of Malfuriel, as these cursed treants possess the ability to animate pools of bloodwater into ooze-like forms as an additional means of defense.
@@ -873,7 +873,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 344 (Third Party)</description>
     <alignment>Lawful Evil</alignment>
     <ac>14</ac>
     <hp>49 (9d6+18)</hp>
-    <speed>25 ft., fly 50 ft.</speed>
+    <speed>walk 25 ft., fly 50 ft.</speed>
     <str>9</str>
     <dex>18</dex>
     <con>15</con>
@@ -939,7 +939,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 344 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>13 (natural armor)</ac>
     <hp>38 (7d6+14)</hp>
-    <speed>0 ft., swim 40 ft.</speed>
+    <speed>walk 0 ft., swim 40 ft.</speed>
     <str>10</str>
     <dex>15</dex>
     <con>14</con>
@@ -991,7 +991,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 345 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>12</ac>
     <hp>13 (3d6+3)</hp>
-    <speed>10 ft., fly 30 ft.</speed>
+    <speed>walk 10 ft., fly 30 ft.</speed>
     <str>7</str>
     <dex>14</dex>
     <con>13</con>
@@ -1032,7 +1032,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 345 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>13</ac>
     <hp>39 (6d10+6)</hp>
-    <speed>10 ft., fly 30 ft.</speed>
+    <speed>walk 10 ft., fly 30 ft.</speed>
     <str>9</str>
     <dex>16</dex>
     <con>13</con>
@@ -1079,7 +1079,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 345 (Third Party)</description>
     <alignment>Lawful Evil</alignment>
     <ac>17</ac>
     <hp>126 (12d10+60)</hp>
-    <speed>40 ft., fly 90 ft.</speed>
+    <speed>walk 40 ft., fly 90 ft.</speed>
     <str>21</str>
     <dex>17</dex>
     <con>21</con>
@@ -1123,7 +1123,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 345 (Third Party)</description>
     <trait>
       <name>Legendary Resistance (1/Day)</name>
       <recharge>1/DAY</recharge>
-      <text>If Malfuriel fails a saving throw, he can choose to suceed instead.</text>
+      <text>If Malfuriel fails a saving throw, he can choose to succeed instead.</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -1198,7 +1198,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 346 (Third Party)</description>
     <alignment>Lawful Neutral</alignment>
     <ac>13 (hide armor, natural armor)</ac>
     <hp>39 (6d8+12)</hp>
-    <speed>30 ft., (climb 30 ft. in dragon form)</speed>
+    <speed>walk 30 ft., (climb 30 ft. in dragon form)</speed>
     <str>10</str>
     <dex>12</dex>
     <con>14</con>
@@ -1287,7 +1287,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 348 (Third Party)</description>
     <alignment>Lawful Neutral</alignment>
     <ac>13 (hide armor, natural armor)</ac>
     <hp>78 (12d8+24)</hp>
-    <speed>30 ft., (climb 30 ft. in dragon form)</speed>
+    <speed>walk 30 ft., (climb 30 ft. in dragon form)</speed>
     <str>10</str>
     <dex>12</dex>
     <con>15</con>
@@ -1319,7 +1319,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 348 (Third Party)</description>
     </trait>
     <trait>
       <name>Dragon Form</name>
-      <text>The druid has an armor class of 13 (hide armor) in humanoid form but 16 (natural armor) in dragon form. In dragon form, it also gains a climb speed of 30 ft.,</text>
+      <text>The druid has an armor class of 13 (hide armor) in humanoid form but 16 (natural armor) in dragon form. In dragon form, it also gains a climb speed of 30 ft.</text>
     </trait>
     <trait>
       <name>Draconic Weapons (Dragon Form Only)</name>
@@ -1390,7 +1390,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 348 (Third Party)</description>
     <alignment>Lawful Neutral</alignment>
     <ac>14 (hide armor, natural armor)</ac>
     <hp>117 (18d8+36)</hp>
-    <speed>30 ft., (climb 30 ft., fly 30 ft. in dragon form)</speed>
+    <speed>walk 30 ft., (climb 30 ft., fly 30 ft. in dragon form)</speed>
     <str>10</str>
     <dex>14</dex>
     <con>16</con>
@@ -1423,7 +1423,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 348 (Third Party)</description>
 	• 5th level (2 slots): commune with nature, tree stride
 	• 6th level (1 slot): transport via plants, wall of thorns*
 
-*this spell requires no material comonents</text>
+*this spell requires no material components</text>
     </trait>
     <trait>
       <name>Dragon Form</name>
@@ -1495,7 +1495,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 349 (Third Party)</description>
     <alignment>Lawful Neutral</alignment>
     <ac>22 (natural armor)</ac>
     <hp>546 (28d20+252)</hp>
-    <speed>40 ft., fly 80 ft., swim 40 ft.</speed>
+    <speed>walk 40 ft., fly 80 ft., swim 40 ft.</speed>
     <str>27</str>
     <dex>16</dex>
     <con>29</con>
@@ -1616,7 +1616,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 350 (Third Party)</description>
     <alignment>Neutral Evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>210 (20d12+80)</hp>
-    <speed>60 ft., fly 50 ft. (hover)</speed>
+    <speed>walk 60 ft., fly 50 ft. (hover)</speed>
     <str>14</str>
     <dex>16</dex>
     <con>19</con>
@@ -1712,7 +1712,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 352 (Third Party)</description>
     <alignment>Lawful Good</alignment>
     <ac>14</ac>
     <hp>38 (7d8+7)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>10</str>
     <dex>14</dex>
     <con>12</con>
@@ -1769,7 +1769,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 353 (Third Party)</description>
     <alignment>Lawful Good</alignment>
     <ac>16</ac>
     <hp>78 (12d8+24)</hp>
-    <speed>50 ft.</speed>
+    <speed>walk 50 ft.</speed>
     <str>12</str>
     <dex>16</dex>
     <con>14</con>
@@ -1850,7 +1850,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 353 (Third Party)</description>
     <alignment>Lawful Good</alignment>
     <ac>19</ac>
     <hp>150 (20d8+60)</hp>
-    <speed>60 ft.</speed>
+    <speed>walk 60 ft.</speed>
     <str>13</str>
     <dex>18</dex>
     <con>16</con>
@@ -1937,7 +1937,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 354 (Third Party)</description>
     <alignment>Lawful Good</alignment>
     <ac>19</ac>
     <hp>150 (20d8+60)</hp>
-    <speed>60 ft.</speed>
+    <speed>walk 60 ft.</speed>
     <str>13</str>
     <dex>18</dex>
     <con>16</con>
@@ -2039,7 +2039,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 354 (Third Party)</description>
     <alignment>Any Evil Alignment</alignment>
     <ac>19 (natural armor)</ac>
     <hp>200 (16d12+96)</hp>
-    <speed>0 ft., fly 80 ft. (hover)</speed>
+    <speed>walk 0 ft., fly 80 ft. (hover)</speed>
     <str>13</str>
     <dex>12</dex>
     <con>22</con>
@@ -2143,7 +2143,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 355 (Third Party)</description>
     <alignment>Lawful Evil</alignment>
     <ac>12 (natural armor)</ac>
     <hp>75 (10d8+30)</hp>
-    <speed>0 ft., fly 20 ft. (hover)</speed>
+    <speed>walk 0 ft., fly 20 ft. (hover)</speed>
     <str>2</str>
     <dex>3</dex>
     <con>16</con>
@@ -2205,7 +2205,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 356 (Third Party)</description>
     <alignment>Chaotic Neutral</alignment>
     <ac>14</ac>
     <hp>114 (12d12+36)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>19</str>
     <dex>18</dex>
     <con>16</con>
@@ -2294,7 +2294,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 357 (Third Party)</description>
     <alignment>Neutral</alignment>
     <ac>14 (natural armor)</ac>
     <hp>126 (12d10+60)</hp>
-    <speed>30 ft., swim 60 ft.</speed>
+    <speed>walk 30 ft., swim 60 ft.</speed>
     <str>18</str>
     <dex>14</dex>
     <con>20</con>
@@ -2356,7 +2356,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 358 (Third Party)</description>
     <alignment>Neutral</alignment>
     <ac>14 (natural armor)</ac>
     <hp>126 (12d10+60)</hp>
-    <speed>30 ft., swim 60 ft.</speed>
+    <speed>walk 30 ft., swim 60 ft.</speed>
     <str>18</str>
     <dex>14</dex>
     <con>20</con>
@@ -2420,7 +2420,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 358 (Third Party)</description>
     <alignment>Any Alignment</alignment>
     <ac>18 (chain mail armor)</ac>
     <hp>91 (14d8+28)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>16</str>
     <dex>10</dex>
     <con>15</con>
@@ -2496,7 +2496,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 359 (Third Party)</description>
     <type>ooze</type>
     <ac>10</ac>
     <hp>30 (4d6+16)</hp>
-    <speed>20 ft., climb 20 ft., swim 20 ft.</speed>
+    <speed>walk 20 ft., climb 20 ft., swim 20 ft.</speed>
     <str>13</str>
     <dex>10</dex>
     <con>18</con>
@@ -2552,7 +2552,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 360 (Third Party)</description>
     <alignment>Chaotic Neutral</alignment>
     <ac>13 (natural armor)</ac>
     <hp>75 (10d8+30)</hp>
-    <speed>25 ft.</speed>
+    <speed>walk 25 ft.</speed>
     <str>17</str>
     <dex>14</dex>
     <con>16</con>
@@ -2614,7 +2614,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 361 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>114 (12d10+48)</hp>
-    <speed>25 ft.</speed>
+    <speed>walk 25 ft.</speed>
     <str>19</str>
     <dex>9</dex>
     <con>18</con>
@@ -2677,14 +2677,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 361 (Third Party)</description>
     <description>Many speak of trash becoming treasure, but trash is lifeblood for the refuse golem. Most common in areas with large amounts of magical food and drink, these beasts form when mounds of partially consumed waste are not disposed of properly. The resulting magical landfill develops an aggressive, sentient construct that is formidable in battle, most known for their poisonous stench and amorphous defenses.
 
 Source:	The Griffon's Saddlebag: Book Two p. 361 (Third Party)</description>
-    <environment>Many speak of trash becoming treasure, but trash is
-lifeblood for the refuse golem. Most common in areas
-with large amounts of magical food and drink, these
-beasts form when mounds of partially consumed waste
-are not disposed of properly. The resulting magical
-landfill develops an aggressive, sentient construct that
-is formidable in battle, most known for their poisonous
-stench and amorphous defenses.</environment>
+    <environment/>
   </monster>
   <monster>
     <name>Rot Monster</name>
@@ -2693,7 +2686,7 @@ stench and amorphous defenses.</environment>
     <alignment>Unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>39 (6d8+12)</hp>
-    <speed>20 ft., fly 40 ft.</speed>
+    <speed>walk 20 ft., fly 40 ft.</speed>
     <str>13</str>
     <dex>14</dex>
     <con>14</con>
@@ -2753,7 +2746,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 362 (Third Party)</description>
     <alignment>Chaotic Neutral</alignment>
     <ac>14</ac>
     <hp>3 (1d4+1)</hp>
-    <speed>10 ft., fly 30 ft.</speed>
+    <speed>walk 10 ft., fly 30 ft.</speed>
     <str>2</str>
     <dex>18</dex>
     <con>13</con>
@@ -2795,7 +2788,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 362 (Third Party)</description>
     </action>
     <action>
       <name>Invisibility</name>
-      <text>The tipsy magically turns invisible until it attacks or casts a spell, or until its concentation ends (as if concentrating on a spell). Any equipment the tipsy wears or carried is invisible with it. Creatures with two or more levels of drunkenness are unaffected by this efffect and can see the tipsy as if it wasn't invisible.</text>
+      <text>The tipsy magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the tipsy wears or carried is invisible with it. Creatures with two or more levels of drunkenness are unaffected by this effect and can see the tipsy as if it wasn't invisible.</text>
     </action>
     <spells>Message, Prestidigitation, Detect Thoughts, Entrall, Silent Image, Suggestion</spells>
     <description>Most fey on the Material Plane take abundant joy in the manipulation of mortals and instigation of drama, but the tipsy in particular delights in the chaos of drunken romance. These small, pastel-colored fey flutter around bars to cause mischief. The tipsy can use its subtle magic to encourage confession of true feelings and impulsive action, whether they are long-repressed or new temptations. Invisible to sober patrons, they whisper sweet nothings and bold encouragement as necessary, then watch the scene unfold. Softened by inebriation, individuals find themselves unwitting participants, unable to smother the truth any longer.
@@ -2809,7 +2802,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 362 (Third Party)</description>
     <type>plant</type>
     <ac>13</ac>
     <hp>38 (7d8+7)</hp>
-    <speed>0 ft.</speed>
+    <speed>walk 0 ft.</speed>
     <str>15</str>
     <dex>16</dex>
     <con>12</con>
@@ -2858,7 +2851,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 363 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>12</ac>
     <hp>57 (7d10+14)</hp>
-    <speed>5 ft., climb 5 ft.</speed>
+    <speed>walk 5 ft., climb 5 ft.</speed>
     <str>18</str>
     <dex>12</dex>
     <con>14</con>
@@ -2873,7 +2866,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 363 (Third Party)</description>
     <resist/>
     <immune/>
     <conditionImmune>blinded, charmed, deafened, frightened, prone, unconscious</conditionImmune>
-    <senses>truesight 30 ft. (blind beyond this radius),</senses>
+    <senses>truesight 30 ft. (blind beyond this radius)</senses>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -2883,7 +2876,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 363 (Third Party)</description>
       <text>The creeper has advantage on attack rolls against any creature it has surprised.</text>
     </trait>
     <trait>
-      <name>False Apperance</name>
+      <name>False Appearance</name>
       <text>While the creeper remains motionless, it is indistinguishable from a normal cluster of vines.</text>
     </trait>
     <trait>
@@ -2916,7 +2909,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 364 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>13 (natural armor)</ac>
     <hp>27 (5d8+5)</hp>
-    <speed>30 ft., climb 20 ft., swim 20 ft.</speed>
+    <speed>walk 30 ft., climb 20 ft., swim 20 ft.</speed>
     <str>12</str>
     <dex>14</dex>
     <con>13</con>
@@ -2983,7 +2976,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 364 (Third Party)</description>
     <alignment>Neutral Evil</alignment>
     <ac>13</ac>
     <hp>149 (13d12+65)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>19</str>
     <dex>10</dex>
     <con>21</con>
@@ -3048,7 +3041,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 365 (Third Party)</description>
     <alignment>Any Alignment</alignment>
     <ac>15 (breastplate)</ac>
     <hp>37 (5d8+15)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>16</str>
     <dex>13</dex>
     <con>17</con>
@@ -3103,7 +3096,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 365 (Third Party)</description>
     <alignment>Neutral Evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>93 (11d8+44)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>17</str>
     <dex>16</dex>
     <con>19</con>
@@ -3175,7 +3168,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 366 (Third Party)</description>
     <type>monstrosity</type>
     <ac>13 (natural armor)</ac>
     <hp>147 (14d12+56)</hp>
-    <speed>50 ft.</speed>
+    <speed>walk 50 ft.</speed>
     <str>23</str>
     <dex>10</dex>
     <con>18</con>
@@ -3241,7 +3234,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 366 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>12</ac>
     <hp>31 (7d8)</hp>
-    <speed>10 ft., fly 60 ft.</speed>
+    <speed>walk 10 ft., fly 60 ft.</speed>
     <str>6</str>
     <dex>14</dex>
     <con>10</con>
@@ -3298,7 +3291,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 367 (Third Party)</description>
     <type>monstrosity</type>
     <ac>14</ac>
     <hp>60 (8d10+16)</hp>
-    <speed>30 ft., fly 50 ft.</speed>
+    <speed>walk 30 ft., fly 50 ft.</speed>
     <str>19</str>
     <dex>11</dex>
     <con>14</con>
@@ -3307,7 +3300,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 367 (Third Party)</description>
     <cha>10</cha>
     <skill>Perception +4</skill>
     <passive>14</passive>
-    <languages>Giant Elk, undersands Common and Elvish but can't speak them</languages>
+    <languages>Giant Elk, understands Common and Elvish but can't speak them</languages>
     <cr>3</cr>
     <vulnerable/>
     <resist>bludgeoning, piercing, and slashing damage from nonmagical attacks</resist>
@@ -3355,7 +3348,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 368 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>93 (11d10+33)</hp>
-    <speed>30 ft., burrow 30 ft., swim 30 ft.</speed>
+    <speed>walk 30 ft., burrow 30 ft., swim 30 ft.</speed>
     <str>15</str>
     <dex>12</dex>
     <con>16</con>
@@ -3421,7 +3414,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 369 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>18 (natural armor)</ac>
     <hp>171 (18d10+72)</hp>
-    <speed>30 ft., burrow 30 ft., fly 20 ft., swim 40 ft.,</speed>
+    <speed>walk 30 ft., burrow 30 ft., fly 20 ft., swim 40 ft.</speed>
     <str>18</str>
     <dex>14</dex>
     <con>19</con>
@@ -3494,7 +3487,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 369 (Third Party)</description>
     <alignment>Lawful Neutral</alignment>
     <ac>17 (splint armor)</ac>
     <hp>78 (12d8+24)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>16</str>
     <dex>13</dex>
     <con>14</con>
@@ -3553,7 +3546,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 370 (Third Party)</description>
     <alignment>Lawful Neutral</alignment>
     <ac>18 (plate armor)</ac>
     <hp>150 (20d8+60)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>20</str>
     <dex>15</dex>
     <con>17</con>
@@ -3622,7 +3615,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 370 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>97 (13d10+26)</hp>
-    <speed>20 ft., fly 80 ft.</speed>
+    <speed>walk 20 ft., fly 80 ft.</speed>
     <str>13</str>
     <dex>18</dex>
     <con>14</con>
@@ -3687,7 +3680,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 371 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>12 (natural armor)</ac>
     <hp>16 (3d8+3)</hp>
-    <speed>10 ft., burrow 20 ft.</speed>
+    <speed>walk 10 ft., burrow 20 ft.</speed>
     <str>14</str>
     <dex>13</dex>
     <con>13</con>
@@ -3742,7 +3735,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 372 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>90 (12d10+24)</hp>
-    <speed>15 ft., burrow 30 ft.</speed>
+    <speed>walk 15 ft., burrow 30 ft.</speed>
     <str>18</str>
     <dex>14</dex>
     <con>15</con>
@@ -3810,7 +3803,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 373 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>17 (natural armor)</ac>
     <hp>180 (19d12+57)</hp>
-    <speed>40 ft., burrow 20 ft., climb 30 ft.</speed>
+    <speed>walk 40 ft., burrow 20 ft., climb 30 ft.</speed>
     <str>21</str>
     <dex>15</dex>
     <con>17</con>
@@ -3890,7 +3883,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 373 (Third Party)</description>
     <type>elemental</type>
     <ac>13</ac>
     <hp>13 (3d4+6)</hp>
-    <speed>30 ft., burrow 30 ft.</speed>
+    <speed>walk 30 ft., burrow 30 ft.</speed>
     <str>6</str>
     <dex>16</dex>
     <con>14</con>
@@ -3898,7 +3891,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 373 (Third Party)</description>
     <wis>13</wis>
     <cha>14</cha>
     <skill>Perception +3, Stealth +5, Survival +3</skill>
-    <languages>Terran, undersands Common but can't speak it</languages>
+    <languages>Terran, understands Common but can't speak it</languages>
     <cr>1/4</cr>
     <vulnerable/>
     <resist>bludgeoning, piercing, and slashing damage from nonmagical attacks</resist>
@@ -3946,7 +3939,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 374 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>102 (12d10+36)</hp>
-    <speed>30 ft., burrow 30 ft.</speed>
+    <speed>walk 30 ft., burrow 30 ft.</speed>
     <str>15</str>
     <dex>12</dex>
     <con>16</con>
@@ -4010,7 +4003,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 375 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>45 (6d10+12)</hp>
-    <speed>40 ft., burrow 20 ft., climb 40 ft.,</speed>
+    <speed>walk 40 ft., burrow 20 ft., climb 40 ft.</speed>
     <str>14</str>
     <dex>16</dex>
     <con>15</con>
@@ -4039,7 +4032,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 375 (Third Party)</description>
       <text>The spider can take the disengage or hide action as a bonus action on each of its turns.</text>
     </trait>
     <trait>
-      <name>Sieze</name>
+      <name>Seize</name>
       <text>If the spider has advantage on an attack roll and hits a creature that is Large or smaller, the creature is also grappled (escape DC 14).</text>
     </trait>
     <trait>
@@ -4064,7 +4057,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 375 (Third Party)</description>
     <alignment>Chaotic Neutral</alignment>
     <ac>18 (natural armor)</ac>
     <hp>296 (16d20+128)</hp>
-    <speed>0 ft.</speed>
+    <speed>walk 0 ft.</speed>
     <str>18</str>
     <dex>1</dex>
     <con>27</con>
@@ -4072,7 +4065,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 375 (Third Party)</description>
     <wis>18</wis>
     <cha>20</cha>
     <save>Int +10, Wis +10, Cha +11</save>
-    <skill>Arcana +10, , Deception +10, Insight +10, , Perception +10</skill>
+    <skill>Arcana +10, Deception +10, Insight +10, Perception +10</skill>
     <passive>20</passive>
     <languages>understands Common and Terran but can't speak, telepathy 1 mile.</languages>
     <cr>20</cr>
@@ -4080,7 +4073,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 375 (Third Party)</description>
     <resist/>
     <immune>poison, bludgeoning, piercing, and slashing damage from nonmagical attacks</immune>
     <conditionImmune>blinded, charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious</conditionImmune>
-    <senses>blindsight 300 ft., tremorsense 1 mile,</senses>
+    <senses>blindsight 300 ft., tremorsense 1 mile</senses>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+6</text>
@@ -4150,7 +4143,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 375 (Third Party)</description>
     </legendary>
     <legendary category="lair">
       <name>Lair Actions</name>
-      <text>On Initiative count 20 (losing initative ties), H'Rethi takes a lair action to cause one of the following effects; H'Rethi can't use the same effect two rounds in a row.
+      <text>On Initiative count 20 (losing initiative ties), H'Rethi takes a lair action to cause one of the following effects; H'Rethi can't use the same effect two rounds in a row.
 
 	• H'Rethi conjures a sand elemental in an unoccupied space within 60 feet of it. The elemental disappears when it drops to 0 hit points or after 1 minute. The elemental is friendly to H'rethi and its companions. Roll initiative for the elemental, which has its own turns. It obeys any telepathic commands that H'Rethi issues to it (no action required by H'Rethi).
 
@@ -4172,7 +4165,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 376 (Third Party)</description>
     <alignment>Chaotic Evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>375 (30d12+180)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>25</str>
     <dex>13</dex>
     <con>23</con>
@@ -4302,7 +4295,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 379 (Third Party)</description>
     <alignment>Neutral</alignment>
     <ac>22 (natural armor)</ac>
     <hp>612 (35d20+245)</hp>
-    <speed>40 ft., swim 40 ft.</speed>
+    <speed>walk 40 ft., swim 40 ft.</speed>
     <str>28</str>
     <dex>10</dex>
     <con>25</con>
@@ -4334,7 +4327,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 379 (Third Party)</description>
     <trait>
       <name>Legendary Resistance (5/Day)</name>
       <recharge>5/DAY</recharge>
-      <text>If Grihoo fails a sasving throw, it can choose eto succeed instead.</text>
+      <text>If Grihoo fails a sasving throw, it can choose to succeed instead.</text>
     </trait>
     <trait>
       <name>Magic Resistance</name>
@@ -4410,7 +4403,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 380 (Third Party)</description>
     <alignment>Neutral</alignment>
     <ac>12</ac>
     <hp>16 (3d4+9)</hp>
-    <speed>30 ft., climb 20 ft., swim 20 ft.</speed>
+    <speed>walk 30 ft., climb 20 ft., swim 20 ft.</speed>
     <str>12</str>
     <dex>14</dex>
     <con>17</con>
@@ -4465,7 +4458,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 381 (Third Party)</description>
     <alignment>Neutral Evil</alignment>
     <ac>17 (natural armor)</ac>
     <hp>228 (24d8+120)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>12</str>
     <dex>21</dex>
     <con>20</con>
@@ -4593,7 +4586,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 383 (Third Party)</description>
     <alignment>Chaotic Evil</alignment>
     <ac>22</ac>
     <hp>290 (20d20+80)</hp>
-    <speed>0 ft., fly 40 ft. (hover)</speed>
+    <speed>walk 0 ft., fly 40 ft. (hover)</speed>
     <str>5</str>
     <dex>18</dex>
     <con>20</con>
@@ -4726,7 +4719,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 385 (Third Party)</description>
     <alignment>Lawful Neutral</alignment>
     <ac>19 (natural armor)</ac>
     <hp>403 (26d20+130)</hp>
-    <speed>60 ft.</speed>
+    <speed>walk 60 ft.</speed>
     <str>23</str>
     <dex>16</dex>
     <con>20</con>
@@ -4741,7 +4734,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 385 (Third Party)</description>
     <vulnerable/>
     <resist>cold, necrotic</resist>
     <immune>fire, poison, bludgeoning, piercing, and slashing damage from nonmagical attacks</immune>
-    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened,, poisoned, stunned</conditionImmune>
+    <conditionImmune>blinded, charmed, deafened, exhaustion, frightened, poisoned, stunned</conditionImmune>
     <senses>darkvision 300 ft., truesight 120 ft.</senses>
     <trait>
       <name>Proficiency Bonus</name>
@@ -4851,7 +4844,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 386 (Third Party)</description>
     <alignment>Lawful Neutral</alignment>
     <ac>13 (natural armor)</ac>
     <hp>10 (3d4+3)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>13</str>
     <dex>14</dex>
     <con>13</con>
@@ -4910,7 +4903,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 387 (Third Party)</description>
     <alignment>Chaotic Evil</alignment>
     <ac>14 (studded leather armor)</ac>
     <hp>99 (18d8+18)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>9</str>
     <dex>14</dex>
     <con>13</con>
@@ -4975,7 +4968,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 388 (Third Party)</description>
     <alignment>Chaotic Evil</alignment>
     <ac>13</ac>
     <hp>182 (28d8+56)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>11</str>
     <dex>16</dex>
     <con>15</con>
@@ -5046,7 +5039,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 389 (Third Party)</description>
     <alignment>Chaotic Evil</alignment>
     <ac>13</ac>
     <hp>182 (28d8+56)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>11</str>
     <dex>16</dex>
     <con>15</con>
@@ -5087,7 +5080,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 389 (Third Party)</description>
     </trait>
     <trait>
       <name>Bestow Greater Curse</name>
-      <text>When Elson casts bestow curse he can force the target to make its saving throw with disadvantage. On a failed save, the target is simultanously cursed by all four of the spell's listed options.</text>
+      <text>When Elson casts bestow curse he can force the target to make its saving throw with disadvantage. On a failed save, the target is simultaneously cursed by all four of the spell's listed options.</text>
     </trait>
     <trait>
       <name>Morath, Scepter of the Soul Vortex</name>
@@ -5127,7 +5120,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 389 (Third Party)</description>
     <alignment>Any Alignment</alignment>
     <ac>15</ac>
     <hp>52 (7d8+21)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>16</str>
     <dex>15</dex>
     <con>16</con>
@@ -5196,7 +5189,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 390 (Third Party)</description>
     <alignment>Any Alignment</alignment>
     <ac>17</ac>
     <hp>153 (18d8+72)</hp>
-    <speed>40 ft.</speed>
+    <speed>walk 40 ft.</speed>
     <str>19</str>
     <dex>16</dex>
     <con>18</con>
@@ -5283,7 +5276,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 391 (Third Party)</description>
     <alignment>Neutral Evil</alignment>
     <ac>16 (natural armor)</ac>
     <hp>110 (13d10+39)</hp>
-    <speed>40 ft., burrow 20 ft., fly 40 ft., swim 40 ft.</speed>
+    <speed>walk 40 ft., burrow 20 ft., fly 40 ft., swim 40 ft.</speed>
     <str>18</str>
     <dex>11</dex>
     <con>17</con>
@@ -5356,7 +5349,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 392 (Third Party)</description>
     <alignment>Neutral Evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>65 (10d6+30)</hp>
-    <speed>25 ft., climb 25 ft., swim 25 ft.</speed>
+    <speed>walk 25 ft., climb 25 ft., swim 25 ft.</speed>
     <str>15</str>
     <dex>16</dex>
     <con>17</con>
@@ -5427,7 +5420,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 392 (Third Party)</description>
     <alignment>Neutral Evil</alignment>
     <ac>18 (natural armor)</ac>
     <hp>136 (16d8+64)</hp>
-    <speed>40 ft., climb 30 ft.</speed>
+    <speed>walk 40 ft., climb 30 ft.</speed>
     <str>20</str>
     <dex>16</dex>
     <con>19</con>
@@ -5498,7 +5491,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 393 (Third Party)</description>
     <alignment>Neutral Evil</alignment>
     <ac>15 (natural armor)</ac>
     <hp>65 (10d8+20)</hp>
-    <speed>50 ft., climb 40 ft.</speed>
+    <speed>walk 50 ft., climb 40 ft.</speed>
     <str>17</str>
     <dex>18</dex>
     <con>14</con>
@@ -5558,7 +5551,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 393 (Third Party)</description>
     <alignment>Neutral Evil</alignment>
     <ac>14</ac>
     <hp>7 (2d4+2)</hp>
-    <speed>25 ft., fly 50 ft.</speed>
+    <speed>walk 25 ft., fly 50 ft.</speed>
     <str>5</str>
     <dex>18</dex>
     <con>14</con>
@@ -5625,7 +5618,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 394 (Third Party)</description>
     <alignment>Neutral Evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>319 (22d12+176)</hp>
-    <speed>50 ft., burrow 30 ft., climb 40 ft.</speed>
+    <speed>walk 50 ft., burrow 30 ft., climb 40 ft.</speed>
     <str>26</str>
     <dex>16</dex>
     <con>27</con>
@@ -5757,7 +5750,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 394 (Third Party)</description>
     <alignment>Neutral Evil</alignment>
     <ac>19 (natural armor)</ac>
     <hp>319 (22d12+176)</hp>
-    <speed>50 ft., burrow 30 ft., climb 40 ft.</speed>
+    <speed>walk 50 ft., burrow 30 ft., climb 40 ft.</speed>
     <str>26</str>
     <dex>16</dex>
     <con>27</con>
@@ -5842,7 +5835,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 395 (Third Party)</description>
     <alignment>Chaotic Neutral</alignment>
     <ac>15 (leather armor)</ac>
     <hp>44 (8d8+8)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>10</str>
     <dex>18</dex>
     <con>13</con>
@@ -5902,7 +5895,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 396 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>13</ac>
     <hp>2 (1d4)</hp>
-    <speed>0 ft., fly 40 ft. (hover), swim 40 ft.</speed>
+    <speed>walk 0 ft., fly 40 ft. (hover), swim 40 ft.</speed>
     <str>2</str>
     <dex>16</dex>
     <con>11</con>
@@ -5950,7 +5943,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 397 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>17 (natural armor)</ac>
     <hp>363 (22d20+132)</hp>
-    <speed>0 ft., fly 40 ft. (hover), swim 40 ft.</speed>
+    <speed>walk 0 ft., fly 40 ft. (hover), swim 40 ft.</speed>
     <str>20</str>
     <dex>20</dex>
     <con>23</con>
@@ -6004,7 +5997,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 397 (Third Party)</description>
     </action>
     <action>
       <name>Slam</name>
-      <text>Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 19 (4d6+5) bludgeoning damage, and if the target is a creature, it must suceed on a DC 19 Strength saving throw or be knocked prone. This attack deals double damage to objects and structures.</text>
+      <text>Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 19 (4d6+5) bludgeoning damage, and if the target is a creature, it must succeed on a DC 19 Strength saving throw or be knocked prone. This attack deals double damage to objects and structures.</text>
       <attack>Bludgeoning Damage|+11|4d6+5</attack>
     </action>
     <action>
@@ -6032,7 +6025,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 397 (Third Party)</description>
     <alignment>Chaotic Evil</alignment>
     <ac>16</ac>
     <hp>230 (20d10+120)</hp>
-    <speed>0 ft., fly 40 ft. (hover)</speed>
+    <speed>walk 0 ft., fly 40 ft. (hover)</speed>
     <str>10</str>
     <dex>23</dex>
     <con>22</con>
@@ -6128,7 +6121,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 398 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>19 (natural armor)</ac>
     <hp>333 (23d20+92)</hp>
-    <speed>20 ft., swim 60 ft.</speed>
+    <speed>walk 20 ft., swim 60 ft.</speed>
     <str>24</str>
     <dex>17</dex>
     <con>18</con>
@@ -6208,7 +6201,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 399 (Third Party)</description>
     <alignment>Neutral Evil</alignment>
     <ac>11</ac>
     <hp>105 (14d8+42)</hp>
-    <speed>25 ft.</speed>
+    <speed>walk 25 ft.</speed>
     <str>11</str>
     <dex>12</dex>
     <con>17</con>
@@ -6253,7 +6246,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 399 (Third Party)</description>
       <attack>Piercing Damage|+5|1d4+2</attack>
     </action>
     <slots>0,4,3,3,3,2,1</slots>
-    <spells>Chill Touch, Light, Mage Hand, Detect Magic, False Life, Mage Armor, Magic Missile, Detect Thoughts, Knock, Invisibility, , Dispel Magic, Nondetection, Vampiric Touch, Arcane Eye, Blight, Legend Lore, Scrying, Circle of Death</spells>
+    <spells>Chill Touch, Light, Mage Hand, Detect Magic, False Life, Mage Armor, Magic Missile, Detect Thoughts, Knock, Invisibility, Dispel Magic, Nondetection, Vampiric Touch, Arcane Eye, Blight, Legend Lore, Scrying, Circle of Death</spells>
     <description>A follower of the long-dead necromancer Dendallen, Hawkren is a clumsy but powerful wizard who was expelled from the Spire for studying forbidden necromancy shortly after being granted a teaching position. Although they are uncertain, rumors have spread that Hawkren is attempting to return the spirit of Dendallen to power by collecting the late necromancer's items, which are said to remain with his previous servants.
 
 Source:	The Griffon's Saddlebag: Book Two p. 400 (Third Party)</description>
@@ -6269,7 +6262,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 400 (Third Party)</description>
     <alignment>Lawful Evil</alignment>
     <ac>12</ac>
     <hp>153 (18d8+72)</hp>
-    <speed>25 ft.</speed>
+    <speed>walk 25 ft.</speed>
     <str>12</str>
     <dex>15</dex>
     <con>18</con>
@@ -6348,7 +6341,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 400 (Third Party)</description>
     <alignment>Lawful Good</alignment>
     <ac>18 (plate armor)</ac>
     <hp>76 (9d8+36)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>19</str>
     <dex>11</dex>
     <con>18</con>
@@ -6404,7 +6397,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 401 (Third Party)</description>
     <alignment>Lawful Good</alignment>
     <ac>18 (plate armor)</ac>
     <hp>119 (14d8+56)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>20</str>
     <dex>12</dex>
     <con>18</con>
@@ -6492,7 +6485,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 401 (Third Party)</description>
     <alignment>Any Alignment</alignment>
     <ac>12</ac>
     <hp>78 (12d8+24)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>9</str>
     <dex>14</dex>
     <con>15</con>
@@ -6542,7 +6535,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 402 (Third Party)</description>
     <alignment>Any Alignment</alignment>
     <ac>11</ac>
     <hp>52 (8d8+16)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>9</str>
     <dex>13</dex>
     <con>1514</con>
@@ -6591,7 +6584,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 402 (Third Party)</description>
     <alignment>Neutral</alignment>
     <ac>14 (natural armor)</ac>
     <hp>95 (10d12+30)</hp>
-    <speed>50 ft., fly 50 ft., swim 50 ft.</speed>
+    <speed>walk 50 ft., fly 50 ft., swim 50 ft.</speed>
     <str>19</str>
     <dex>16</dex>
     <con>17</con>
@@ -6622,7 +6615,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 402 (Third Party)</description>
     </trait>
     <action>
       <name>Multiattack</name>
-      <text>The snake makes two attacks: one with its bite and one with its horns. It can use its constrict attack in palce of one other attack.</text>
+      <text>The snake makes two attacks: one with its bite and one with its horns. It can use its constrict attack in place of one other attack.</text>
     </action>
     <action>
       <name>Bite</name>
@@ -6659,7 +6652,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 403 (Third Party)</description>
     <alignment>Chaotic Neutral</alignment>
     <ac>14</ac>
     <hp>75 (10d10+20)</hp>
-    <speed>50 ft., climb 40 ft., fly 0 ft. (hover)</speed>
+    <speed>walk 50 ft., climb 40 ft., fly 0 ft. (hover)</speed>
     <str>14</str>
     <dex>19</dex>
     <con>14</con>
@@ -6731,7 +6724,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 404 (Third Party)</description>
     <alignment>Lawful Neutral</alignment>
     <ac>17</ac>
     <hp>150 (20d8+60)</hp>
-    <speed>35 ft., fly 35 ft.</speed>
+    <speed>walk 35 ft., fly 35 ft.</speed>
     <str>12</str>
     <dex>18</dex>
     <con>16</con>
@@ -6800,7 +6793,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 404 (Third Party)</description>
     <alignment>Lawful Neutral</alignment>
     <ac>17</ac>
     <hp>150 (20d8+60)</hp>
-    <speed>35 ft., fly 35 ft.</speed>
+    <speed>walk 35 ft., fly 35 ft.</speed>
     <str>12</str>
     <dex>18</dex>
     <con>16</con>
@@ -6884,7 +6877,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 405 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>13 (natural armor)</ac>
     <hp>174 (12d20+48)</hp>
-    <speed>0 ft., fly 60 ft., swim 60 ft.</speed>
+    <speed>walk 0 ft., fly 60 ft., swim 60 ft.</speed>
     <str>23</str>
     <dex>10</dex>
     <con>18</con>
@@ -6936,7 +6929,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 406 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>16 (natural armor)</ac>
     <hp>105 (10d12+40)</hp>
-    <speed>0 ft., fly 60 ft. (hover)</speed>
+    <speed>walk 0 ft., fly 60 ft. (hover)</speed>
     <str>10</str>
     <dex>18</dex>
     <con>18</con>
@@ -6999,7 +6992,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 406 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>14 (natural armor)</ac>
     <hp>33 (6d8+6)</hp>
-    <speed>5 ft., fly 40 ft.</speed>
+    <speed>walk 5 ft., fly 40 ft.</speed>
     <str>5</str>
     <dex>16</dex>
     <con>12</con>
@@ -7049,7 +7042,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 407 (Third Party)</description>
     <alignment>Unaligned</alignment>
     <ac>15 (natural armor)</ac>
     <hp>248 (16d20+80)</hp>
-    <speed>20 ft., fly 120 ft.</speed>
+    <speed>walk 20 ft., fly 120 ft.</speed>
     <str>28</str>
     <dex>10</dex>
     <con>20</con>
@@ -7122,7 +7115,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 407 (Third Party)</description>
     <alignment>Neutral Evil</alignment>
     <ac>12</ac>
     <hp>112 (15d8+45)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>9</str>
     <dex>14</dex>
     <con>17</con>
@@ -7181,7 +7174,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 408 (Third Party)</description>
     <alignment>Lawful Evil</alignment>
     <ac>18 (plate armor)</ac>
     <hp>105 (14d8+42)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>18</str>
     <dex>12</dex>
     <con>17</con>
@@ -7237,7 +7230,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 409 (Third Party)</description>
     <alignment>Lawful Evil</alignment>
     <ac>20 (plate armor)</ac>
     <hp>187 (22d8+8)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>20</str>
     <dex>14</dex>
     <con>19</con>
@@ -7325,7 +7318,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 410 (Third Party)</description>
     <alignment>Lawful Evil</alignment>
     <ac>20 (plate armor)</ac>
     <hp>187 (22d8+8)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>20</str>
     <dex>14</dex>
     <con>19</con>
@@ -7434,7 +7427,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 410 (Third Party)</description>
     <alignment>Lawful Evil</alignment>
     <ac>18 (plate armor)</ac>
     <hp>135 (18d8+54)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>19</str>
     <dex>11</dex>
     <con>17</con>
@@ -7502,7 +7495,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 411 (Third Party)</description>
     <alignment>Chaotic Evil</alignment>
     <ac>14 (natural armor)</ac>
     <hp>78 (12d8+24)</hp>
-    <speed>0 ft., fly 50 ft. (hover)</speed>
+    <speed>walk 0 ft., fly 50 ft. (hover)</speed>
     <str>10</str>
     <dex>18</dex>
     <con>15</con>

@@ -9,7 +9,6 @@
     <components>S, M</components>
     <classes>Artificer Infusions</classes>
     <text>Prerequisite: 14th level Artificer
-
 Item: A suit of armor (requires attunement)
 
 The wearer of this armor gains these benefits:
@@ -54,7 +53,6 @@ Source:	Tasha's Cauldron of Everything p. 20</text>
     <components>S, M</components>
     <classes>Artificer Infusions</classes>
     <text>Prerequisite: 6th level Artificer
-
 Item: Pair of Boots (requires attunement)
 
 While wearing these boots, a creature can teleport up to 15 feet as a bonus action to an unoccupied space the creature can see. The creature must have occupied that space at some point during the current turn.
@@ -119,7 +117,6 @@ Source:	Eberron: Rising from the Last War p. 62,
     <components>S, M</components>
     <classes>Artificer Infusions</classes>
     <text>Prerequisite: 10th level Artificer
-
 Item: A helmet (requires attunement)
 
 While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can't be surprised, provided it isn't incapacitated.
@@ -169,7 +166,6 @@ Source:	Tasha's Cauldron of Everything p. 22</text>
     <components>S, M</components>
     <classes>Artificer Infusions</classes>
     <text>Prerequisite: 6th level Artificer
-
 Item: A simple or martial weapon (requires attunement)
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action.
@@ -281,7 +277,6 @@ Source:	Eberron: Rising from the Last War p. 63,
     <components>S, M</components>
     <classes>Artificer Infusions</classes>
     <text>Prerequisite: 6th level Artificer
-
 Item: A shield (requires attunement)
 
 A creature gains a +1 bonus to Armor Class while wielding this shield.
@@ -299,7 +294,6 @@ Source:	Eberron: Rising from the Last War p. 63,
     <components>S, M</components>
     <classes>Artificer Infusions</classes>
     <text>Prerequisite: 6th level Artificer
-
 Item: A suit of armor (requires attunement)
 
 While wearing this armor, a creature has resistance to one of the following damage types, which you choose when you infuse the item: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.
@@ -331,7 +325,6 @@ Source:	Eberron: Rising from the Last War p. 63,
     <components>S, M</components>
     <classes>Artificer Infusions</classes>
     <text>Prerequisite: 6th level Artificer
-
 Item: A ring (requires attunement)
 
 While wearing this ring, the creature can recover one expended spell slot as an action. The recovered slot can be of 3rd level or lower. Once used, the ring can't be used again until the next dawn.
@@ -566,7 +559,7 @@ Source:	Tasha's Cauldron of Everything p. 65</text>
     <text>You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
 
 Source:	Tasha's Cauldron of Everything p. 41</text>
-    <special>fighting style blind fighting</special>
+    <special>Fighting Style: Blind Fighting</special>
   </feat>
   <feat>
     <name>Fighting Style: Interception</name>
@@ -574,7 +567,7 @@ Source:	Tasha's Cauldron of Everything p. 41</text>
     <text>When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
 
 Source:	Tasha's Cauldron of Everything p. 41</text>
-    <special>fighting style interception</special>
+    <special>Fighting Style: Interception</special>
   </feat>
   <feat>
     <name>Fighting Style: Superior Technique</name>
@@ -583,7 +576,7 @@ Source:	Tasha's Cauldron of Everything p. 41</text>
 	You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
 Source:	Tasha's Cauldron of Everything p. 41</text>
-    <special>fighting style superior technique</special>
+    <special>Fighting Style: Superior Technique</special>
   </feat>
   <feat>
     <name>Fighting Style: Thrown Weapon Fighting</name>
@@ -592,7 +585,7 @@ Source:	Tasha's Cauldron of Everything p. 41</text>
 	In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.
 
 Source:	Tasha's Cauldron of Everything p. 41</text>
-    <special>fighting style thrown weapon fighting</special>
+    <special>Fighting Style: Thrown Weapon Fighting</special>
   </feat>
   <feat>
     <name>Fighting Style: Unarmed Fighting</name>
@@ -601,7 +594,7 @@ Source:	Tasha's Cauldron of Everything p. 41</text>
 	At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature grappled by you.
 
 Source:	Tasha's Cauldron of Everything p. 41</text>
-    <special>fighting style unarmed fighting</special>
+    <special>Fighting Style: Unarmed Fighting</special>
   </feat>
   <feat>
     <name>Fighting Style: Blessed Warrior</name>
@@ -609,7 +602,7 @@ Source:	Tasha's Cauldron of Everything p. 41</text>
     <text>You learn two cantrips of your choice from the cleric spell list. They count as paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the cleric spell list.
 
 Source:	Tasha's Cauldron of Everything p. 52</text>
-    <special>fighting style blessed warrior</special>
+    <special>Fighting Style: Blessed Warrior</special>
   </feat>
   <feat>
     <name>Fighting Style: Druidic Warrior</name>
@@ -617,6 +610,6 @@ Source:	Tasha's Cauldron of Everything p. 52</text>
     <text>You learn two cantrips of your choice from the druid spell list. They count as ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.
 
 Source:	Tasha's Cauldron of Everything p. 57</text>
-    <special>fighting style druidic warrior</special>
+    <special>Fighting Style: Druidic Warrior</special>
   </feat>
 </compendium>

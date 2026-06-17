@@ -143,7 +143,7 @@
     </trait>
     <action>
       <name>Staff</name>
-      <text>Melee weapon attack: +4 to hit. Reach 5ft. One taraget. Hit: 5 (1d6+1) bludgeoning damage.</text>
+      <text>Melee weapon attack: +4 to hit. Reach 5 ft. One taraget. Hit: 5 (1d6+1) bludgeoning damage.</text>
       <attack>Bludgeoning Damage|+4|1d6+1</attack>
     </action>
     <action>
@@ -194,7 +194,7 @@
     </trait>
     <trait>
       <name>Final Rites</name>
-      <text>When the death cultist is reduced to 0 hit points, all creatures within 5ft. must succeed on a DC 13 Wisdom saving throw or be frightened until the end of their turn.</text>
+      <text>When the death cultist is reduced to 0 hit points, all creatures within 5 ft. must succeed on a DC 13 Wisdom saving throw or be frightened until the end of their turn.</text>
     </trait>
     <action>
       <name>Dagger</name>
@@ -455,7 +455,7 @@
     <wis>12</wis>
     <cha>18</cha>
     <save>Cha +6, Con +4</save>
-    <skill>Arcana +3,, Deception +6, Religion +3</skill>
+    <skill>Arcana +3, Deception +6, Religion +3</skill>
     <passive>11</passive>
     <languages>Common, infernal</languages>
     <cr>4</cr>
@@ -463,7 +463,7 @@
     <resist/>
     <immune/>
     <conditionImmune/>
-    <senses>Darkvision 60 ft.,</senses>
+    <senses>Darkvision 60 ft.</senses>
     <trait>
       <name>Proficiency Bonus</name>
       <text>+2</text>
@@ -477,7 +477,7 @@
       <name>Spellcasting</name>
       <text>The cultist is a 6th-level spellcaster. Its spellcasting ability is Charisma (Spell save DC 14, +6 to hit with spell attacks). It does not require material components.
 
-	• Cantrips (at will): Thaumaturgy, Fire Bolt, Minor Illlusion
+	• Cantrips (at will): Thaumaturgy, Fire Bolt, Minor Illusion
 	• 1st level (4 slots): Hellish Rebuke, Command, Bane
 	• 2nd level (3 slots): Crown of Madness, Mirror Image
 	• 3rd level (2 slots): Spirit Guardians, Bestow Curse</text>
@@ -496,7 +496,7 @@
       <text>The cultist marks a creature they can see within 60 ft. The marked creature gains 10 temporary hit points. If the marked creature dies before the end of the cultist's next turn, the cultist regains an expended spell slot of 2nd level or lower.</text>
     </action>
     <slots>0,4,3,2</slots>
-    <spells>Thaumaturgy, Fire Bolt, Minor Illlusion, Hellish Rebuke, Command, Bane, Crown of Madness, Mirror Image, Spirit Guardians, Bestow Curse</spells>
+    <spells>Thaumaturgy, Fire Bolt, Minor Illusion, Hellish Rebuke, Command, Bane, Crown of Madness, Mirror Image, Spirit Guardians, Bestow Curse</spells>
     <description>Source:	GM Toolkit Monthly (Sinister Cult) p. 25 (Third Party)</description>
     <environment>any</environment>
   </monster>
@@ -556,7 +556,7 @@
     </trait>
     <action>
       <name>Dagger</name>
-      <text>Melee or ranged weapon attack: +7 to hit, reach 5ft., or range 20/60 ft., one target. Hit: 6 (1d4+3) piercing damage plus 9 (2d8) psychic damage.</text>
+      <text>Melee or ranged weapon attack: +7 to hit, reach 5 ft., or range 20/60 ft., one target. Hit: 6 (1d4+3) piercing damage plus 9 (2d8) psychic damage.</text>
       <attack>Dagger|+7|(1d4+3)+(2d8)</attack>
       <attack>Piercing Damage|+7|1d4+3</attack>
       <attack>Psychic Damage||2d8</attack>

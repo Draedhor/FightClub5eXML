@@ -9,7 +9,7 @@
     <alignment>Neutral</alignment>
     <ac>13</ac>
     <hp>78 (12d8+24)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>10</str>
     <dex>16</dex>
     <con>15</con>
@@ -81,7 +81,7 @@ Urban dryads are indifferent to citizens of the city. They obey the elder dryads
 
 Urban dryads live in city parks and on the sides of overgrown buildings using their long ivy manes to remain unseen.
 
-Source:	Xanathar's Lost Notes to Everything Else p. 83 (Homebrew)</description>
+Source:	Xanathar's Lost Notes to Everything Else p. 83 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -93,7 +93,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 83 (Homebrew)</description>
     <alignment>Neutral</alignment>
     <ac>11</ac>
     <hp>13 (3d6+3)</hp>
-    <speed>20 ft.</speed>
+    <speed>walk 20 ft.</speed>
     <str>12</str>
     <dex>16</dex>
     <con>13</con>
@@ -152,7 +152,7 @@ Urban sproutlings report to and serve the urban dryads. They travel in bunches o
 
 Sproutlings are bound to a specific neighborhood, and burrow into cracks in the cobblestones to remain hidden.
 
-Source:	Xanathar's Lost Notes to Everything Else p. 83 (Homebrew)</description>
+Source:	Xanathar's Lost Notes to Everything Else p. 83 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -164,7 +164,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 83 (Homebrew)</description>
     <alignment>Neutral</alignment>
     <ac>15</ac>
     <hp>105 (14d6+56)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>13</str>
     <dex>16</dex>
     <con>18</con>
@@ -235,7 +235,7 @@ Elder dryads negotiate with the most powerful factions of a city to insure their
 
 The elder dryad isn't bound to any neighborhood, and can move freely within its city but can't leave the city itself.
 
-Source:	Xanathar's Lost Notes to Everything Else p. 83 (Homebrew)</description>
+Source:	Xanathar's Lost Notes to Everything Else p. 83 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -247,7 +247,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 83 (Homebrew)</description>
     <alignment>Neutral</alignment>
     <ac>12</ac>
     <hp>7 (2d4+2)</hp>
-    <speed>0 ft., fly 60 ft.</speed>
+    <speed>walk 0 ft., fly 60 ft.</speed>
     <str>6</str>
     <dex>15</dex>
     <con>13</con>
@@ -329,7 +329,7 @@ Gens bound to a warlock by a noble genie patron often act as advisors and famili
 
 Familiar. The gen can serve as a familiar, forming a telepathic bond with its willing master. While the two are bonded, the master can sense what the gen senses as long as they are within 1 mile of each other. While the gen is within 10 feet of its master, the master shares the gen's Magic Resistance trait. At any time, the gen can end its service as a familiar, ending the telepathic bond.
 
-Source:	Xanathar's Lost Notes to Everything Else p. 85 (Homebrew)</description>
+Source:	Xanathar's Lost Notes to Everything Else p. 85 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -341,7 +341,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 85 (Homebrew)</description>
     <alignment>Neutral</alignment>
     <ac>13 (natural armor)</ac>
     <hp>10 (3d4+3)</hp>
-    <speed>30 ft., fly 40 ft. (hover)</speed>
+    <speed>walk 30 ft., fly 40 ft. (hover)</speed>
     <str>15</str>
     <dex>11</dex>
     <con>13</con>
@@ -424,7 +424,7 @@ Gens bound to a warlock by a noble genie patron often act as advisors and famili
 
 Familiar. The gen can serve as a familiar, forming a telepathic bond with its willing master. While the two are bonded, the master can sense what the gen senses as long as they are within 1 mile of each other. While the gen is within 10 feet of its master, the master shares the gen's Magic Resistance trait. At any time, the gen can end its service as a familiar, ending the telepathic bond.
 
-Source:	Xanathar's Lost Notes to Everything Else p. 85 (Homebrew)</description>
+Source:	Xanathar's Lost Notes to Everything Else p. 85 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -436,7 +436,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 85 (Homebrew)</description>
     <alignment>Neutral</alignment>
     <ac>12</ac>
     <hp>9 (2d4+4)</hp>
-    <speed>30 ft., fly 50 ft. (hover)</speed>
+    <speed>walk 30 ft., fly 50 ft. (hover)</speed>
     <str>12</str>
     <dex>15</dex>
     <con>14</con>
@@ -519,7 +519,7 @@ Gens bound to a warlock by a noble genie patron often act as advisors and famili
 
 Familiar. The gen can serve as a familiar, forming a telepathic bond with its willing master. While the two are bonded, the master can sense what the gen senses as long as they are within 1 mile of each other. While the gen is within 10 feet of its master, the master shares the gen's Magic Resistance trait. At any time, the gen can end its service as a familiar, ending the telepathic bond.
 
-Source:	Xanathar's Lost Notes to Everything Else p. 85 (Homebrew)</description>
+Source:	Xanathar's Lost Notes to Everything Else p. 85 (Indie)</description>
     <environment/>
   </monster>
   <monster>
@@ -531,7 +531,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 85 (Homebrew)</description>
     <alignment>Neutral</alignment>
     <ac>12</ac>
     <hp>10 (3d4+3)</hp>
-    <speed>30 ft., swim 90 ft., fly 60 ft. (hover)</speed>
+    <speed>walk 30 ft., swim 90 ft., fly 60 ft. (hover)</speed>
     <str>13</str>
     <dex>14</dex>
     <con>13</con>
@@ -619,7 +619,7 @@ Gens bound to a warlock by a noble genie patron often act as advisors and famili
 
 Familiar. The gen can serve as a familiar, forming a telepathic bond with its willing master. While the two are bonded, the master can sense what the gen senses as long as they are within 1 mile of each other. While the gen is within 10 feet of its master, the master shares the gen's Magic Resistance trait. At any time, the gen can end its service as a familiar, ending the telepathic bond.
 
-Source:	Xanathar's Lost Notes to Everything Else p. 85 (Homebrew)</description>
+Source:	Xanathar's Lost Notes to Everything Else p. 85 (Indie)</description>
     <environment/>
   </monster>
 </compendium>

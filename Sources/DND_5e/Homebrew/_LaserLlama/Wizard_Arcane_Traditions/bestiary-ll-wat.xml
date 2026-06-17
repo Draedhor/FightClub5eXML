@@ -9,7 +9,7 @@
     <alignment/>
     <ac>8</ac>
     <hp>4</hp>
-    <speed>30 ft., climb 20 ft.</speed>
+    <speed>walk 30 ft., climb 20 ft.</speed>
     <str>4</str>
     <dex>16</dex>
     <con>12</con>
@@ -48,7 +48,7 @@
 
 	Amphibious. The familiar gains a swimming speed equal to its walking speed and can breath both air and water.
 
-	Camoflage. The familiar has advantage on Dexterity (Stealth) checks when it holding still or lightly obscured.
+	Camouflage. The familiar has advantage on Dexterity (Stealth) checks when it holding still or lightly obscured.
 
 	Elusive. The familiar does not provoke opportunity attacks when it moves out of an enemy creature's reach.
 

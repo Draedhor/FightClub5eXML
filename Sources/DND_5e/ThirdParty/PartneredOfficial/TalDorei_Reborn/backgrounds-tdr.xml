@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Ashari</name>
+    <name>Ashari (TP)</name>
     <proficiency>Nature</proficiency>
     <trait>
       <name>Description</name>
@@ -74,7 +74,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Clasp Member</name>
+    <name>Clasp Member (TP)</name>
     <proficiency>Deception</proficiency>
     <trait>
       <name>Description</name>
@@ -100,7 +100,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 181 (Third Party)</text>
     </trait>
     <trait>
       <name>Suggested Characteristics</name>
-      <text>The Clasp enjoys a strange status in Tal'Dorei. The syndicate is a feared group of thieves and killers, whose name is often invoked only in whispers. But at the same time, the organization has a reputation for guerilla heroism, in response to its members having saved countless lives when the Chroma Conclave attacked Emon. And so like every Clasp member, your own reputation often swings between these two poles.
+      <text>The Clasp enjoys a strange status in Tal'Dorei. The syndicate is a feared group of thieves and killers, whose name is often invoked only in whispers. But at the same time, the organization has a reputation for guerrilla heroism, in response to its members having saved countless lives when the Chroma Conclave attacked Emon. And so like every Clasp member, your own reputation often swings between these two poles.
 	Your bond is likely associated with your fellow Clasp members or the individual who introduced you to the syndicate. Your ideal probably involves establishing your importance and indispensability to the Clasp.
 
 d8 | Personality Trait
@@ -143,7 +143,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Lyceum Scholar</name>
+    <name>Lyceum Scholar (TP)</name>
     <proficiency/>
     <trait>
       <name>Description</name>
@@ -208,7 +208,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Reformed Cultist</name>
+    <name>Reformed Cultist (TP)</name>
     <proficiency>Deception, Religion</proficiency>
     <trait>
       <name>Description</name>
@@ -272,7 +272,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Whitestone Rifle Corps</name>
+    <name>Whitestone Rifle Corps (TP)</name>
     <proficiency/>
     <trait>
       <name>Description</name>

@@ -61,8 +61,7 @@
     <action>
       <name>Gaze</name>
       <text>The ettin turns its magical gaze toward one creature that it can see within 120 feet of it. That target must make a DC 14 Wisdom saving throw. Unless the target is incapacitated, it can avert its eyes to avoid the gaze and to automatically succeed on the save. If the target does so, it can't see the ettin until the start of the ettin's next turn. If the target looks at the ettin in the meantime, it must immediately make the save.
-
-If the target fails the save, it suffers one of the following effects of the ettin's choice or at random:</text>
+	If the target fails the save, it suffers one of the following effects of the ettin's choice or at random:</text>
     </action>
     <action>
       <name>Beguiling Gaze</name>
@@ -440,7 +439,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
     <resist>necrotic, psychic</resist>
     <immune>poison</immune>
     <conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned, stunned</conditionImmune>
-    <senses>darkvision 60ft.</senses>
+    <senses>darkvision 60 ft.</senses>
     <trait>
       <name>Special Equipment</name>
       <text>Lynx's crystal eye is a magically shrunken crystal ball of true seeing. One of her teeth is a refashioned ring of mind shielding, while another has been magicked to place her under a permanent Nystul's magic aura spell, concealing the magic of these items and hiding her true nature from magic or features that can detect undead.</text>
@@ -1157,7 +1156,7 @@ If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d
     </action>
     <action>
       <name>Acidic Spittle</name>
-      <text>Ranged Weapon Attack: +4 to hit, range 30ft., one target. Hit: 5 (1d6 + 2) acid damage.</text>
+      <text>Ranged Weapon Attack: +4 to hit, range 30 ft., one target. Hit: 5 (1d6 + 2) acid damage.</text>
       <attack>Acidic Spittle|+4|1d6+2</attack>
     </action>
     <description>Source:	Infernal Machine Rebuild p. 35</description>

@@ -52,7 +52,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 227 (Third Party)</text>
         <name>Eldritch Heads</name>
         <value>2</value>
         <reset>L</reset>
-        <subclass>The Many (Third Party)</subclass>
+        <subclass>The Many (TP)</subclass>
       </counter>
     </autolevel>
     <autolevel level="5">
@@ -60,7 +60,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 227 (Third Party)</text>
         <name>Eldritch Heads</name>
         <value>3</value>
         <reset>L</reset>
-        <subclass>The Many (Third Party)</subclass>
+        <subclass>The Many (TP)</subclass>
       </counter>
     </autolevel>
     <autolevel level="6">
@@ -84,7 +84,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 227 (Third Party)</text>
         <name>Eldritch Heads</name>
         <value>4</value>
         <reset>L</reset>
-        <subclass>The Many (Third Party)</subclass>
+        <subclass>The Many (TP)</subclass>
       </counter>
     </autolevel>
     <autolevel level="10">
@@ -100,7 +100,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 227 (Third Party)</text>
         <name>Eldritch Heads</name>
         <value>5</value>
         <reset>L</reset>
-        <subclass>The Many (Third Party)</subclass>
+        <subclass>The Many (TP)</subclass>
       </counter>
     </autolevel>
     <autolevel level="14">
@@ -115,7 +115,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 227 (Third Party)</text>
         <name>Eldritch Frenzy</name>
         <value>1</value>
         <reset>L</reset>
-        <subclass>The Many (Third Party)</subclass>
+        <subclass>The Many (TP)</subclass>
       </counter>
     </autolevel>
     <autolevel level="17">
@@ -123,48 +123,48 @@ Source:	The Griffon's Saddlebag: Book Two p. 227 (Third Party)</text>
         <name>Eldritch Heads</name>
         <value>6</value>
         <reset>L</reset>
-        <subclass>The Many (Third Party)</subclass>
+        <subclass>The Many (TP)</subclass>
       </counter>
     </autolevel>
   </class>
   <spell>
     <name>Entangle</name>
-    <classes>Warlock (The Many (Third Party))</classes>
+    <classes>Warlock (The Many (TP))</classes>
   </spell>
   <spell>
     <name>Magic Missile</name>
-    <classes>Warlock (The Many (Third Party))</classes>
+    <classes>Warlock (The Many (TP))</classes>
   </spell>
   <spell>
     <name>Scorching Ray</name>
-    <classes>Warlock (The Many (Third Party))</classes>
+    <classes>Warlock (The Many (TP))</classes>
   </spell>
   <spell>
     <name>See Invisibility</name>
-    <classes>Warlock (The Many (Third Party))</classes>
+    <classes>Warlock (The Many (TP))</classes>
   </spell>
   <spell>
     <name>Blink</name>
-    <classes>Warlock (The Many (Third Party))</classes>
+    <classes>Warlock (The Many (TP))</classes>
   </spell>
   <spell>
     <name>Nondetection</name>
-    <classes>Warlock (The Many (Third Party))</classes>
+    <classes>Warlock (The Many (TP))</classes>
   </spell>
   <spell>
     <name>Arcane Eye</name>
-    <classes>Warlock (The Many (Third Party))</classes>
+    <classes>Warlock (The Many (TP))</classes>
   </spell>
   <spell>
     <name>Evard's Black Tentacles</name>
-    <classes>Warlock (The Many (Third Party))</classes>
+    <classes>Warlock (The Many (TP))</classes>
   </spell>
   <spell>
     <name>Mislead</name>
-    <classes>Warlock (The Many (Third Party))</classes>
+    <classes>Warlock (The Many (TP))</classes>
   </spell>
   <spell>
     <name>Telepathic Bond</name>
-    <classes>Warlock (The Many (Third Party))</classes>
+    <classes>Warlock (The Many (TP))</classes>
   </spell>
 </compendium>

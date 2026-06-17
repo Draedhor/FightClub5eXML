@@ -7,7 +7,7 @@
     <alignment>neutral</alignment>
     <ac>13 (natural armor)</ac>
     <hp>16 (2d8+2)</hp>
-    <speed>50 ft.</speed>
+    <speed>walk 50 ft.</speed>
     <str>12</str>
     <dex>14</dex>
     <con>12</con>
@@ -37,7 +37,7 @@
       <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6+1) piercing damage.</text>
       <attack>Bite|3|1d6+1</attack>
     </action>
-    <description>Source:	Remley Farr - Fetch the Rucksack Howlers (Homebrew)</description>
+    <description>Source:	Remley Farr - Fetch the Rucksack Howlers (Indie)</description>
     <environment>Any</environment>
   </monster>
   <!-- Howler -->
@@ -50,7 +50,7 @@
     <alignment>lawful evil</alignment>
     <ac>15 (chainmail)</ac>
     <hp>20 (3d8+3)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>10</str>
     <dex>12</dex>
     <con>16</con>
@@ -76,7 +76,7 @@
       <name>Domesticate Gnoll</name>
       <text>Simon charms a gnoll that he can see within 30 feet. The charmed gnoll regards Simon as an ally and will fight for him until he dies.</text>
     </action>
-    <description>Source:	Remley Farr - Fetch the Rucksack Howlers (Homebrew)</description>
+    <description>Source:	Remley Farr - Fetch the Rucksack Howlers (Indie)</description>
     <environment>Any</environment>
   </monster>
   <!-- Simon Rucksack -->
@@ -88,7 +88,7 @@
     <alignment>chaotic evil</alignment>
     <ac>13 (leather armor)</ac>
     <hp>28 (4d8+8)</hp>
-    <speed>30 ft.</speed>
+    <speed>walk 30 ft.</speed>
     <str>16</str>
     <dex>14</dex>
     <con>15</con>
@@ -129,7 +129,7 @@
     </action>
     <slots>0,4,3</slots>
     <spells>guidance, spare the dying, thaumaturgy, bane, command, inflict wounds, aid, hold person, spiritual weapon</spells>
-    <description>Source:	Remley Farr - Fetch the Rucksack Howlers (Homebrew)</description>
+    <description>Source:	Remley Farr - Fetch the Rucksack Howlers (Indie)</description>
     <environment>Any</environment>
   </monster>
   <!-- Underfang -->

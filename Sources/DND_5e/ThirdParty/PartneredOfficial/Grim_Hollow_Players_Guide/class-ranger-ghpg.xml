@@ -88,7 +88,7 @@ Source:	Grim Hollow: Player's Guide p. 61 (Third Party)</text>
         <name>Envenomed Attack</name>
         <value>2</value>
         <reset>L</reset>
-        <subclass>Green Reaper (Third Party)</subclass>
+        <subclass>Green Reaper (TP)</subclass>
       </counter>
     </autolevel>
     <autolevel level="5">
@@ -96,7 +96,7 @@ Source:	Grim Hollow: Player's Guide p. 61 (Third Party)</text>
         <name>Envenomed Attack</name>
         <value>3</value>
         <reset>L</reset>
-        <subclass>Green Reaper (Third Party)</subclass>
+        <subclass>Green Reaper (TP)</subclass>
       </counter>
     </autolevel>
     <autolevel level="7">
@@ -113,7 +113,7 @@ Source:	Grim Hollow: Player's Guide p. 61 (Third Party)</text>
         <name>Envenomed Attack</name>
         <value>4</value>
         <reset>L</reset>
-        <subclass>Green Reaper (Third Party)</subclass>
+        <subclass>Green Reaper (TP)</subclass>
       </counter>
     </autolevel>
     <autolevel level="11">
@@ -127,7 +127,7 @@ Source:	Grim Hollow: Player's Guide p. 61 (Third Party)</text>
         <name>Envenomed Attack</name>
         <value>4</value>
         <reset>S</reset>
-        <subclass>Green Reaper (Third Party)</subclass>
+        <subclass>Green Reaper (TP)</subclass>
       </counter>
     </autolevel>
     <autolevel level="13">
@@ -135,7 +135,7 @@ Source:	Grim Hollow: Player's Guide p. 61 (Third Party)</text>
         <name>Envenomed Attack</name>
         <value>5</value>
         <reset>S</reset>
-        <subclass>Green Reaper (Third Party)</subclass>
+        <subclass>Green Reaper (TP)</subclass>
       </counter>
     </autolevel>
     <autolevel level="15">
@@ -151,7 +151,7 @@ Source:	Grim Hollow: Player's Guide p. 61 (Third Party)</text>
         <name>Envenomed Attack</name>
         <value>6</value>
         <reset>S</reset>
-        <subclass>Green Reaper (Third Party)</subclass>
+        <subclass>Green Reaper (TP)</subclass>
       </counter>
     </autolevel>
     <!-- Ranger Archetype: Vermin Lord -->
@@ -221,43 +221,43 @@ Source:	Grim Hollow: Player's Guide p. 63 (Third Party)</text>
   </class>
   <spell>
     <name>Detect Poison and Disease</name>
-    <classes>Ranger (Green Reaper (Third Party))</classes>
+    <classes>Ranger (Green Reaper (TP))</classes>
   </spell>
   <spell>
     <name>Hold Person</name>
-    <classes>Ranger (Green Reaper (Third Party))</classes>
+    <classes>Ranger (Green Reaper (TP))</classes>
   </spell>
   <spell>
     <name>Bestow Curse</name>
-    <classes>Ranger (Green Reaper (Third Party))</classes>
+    <classes>Ranger (Green Reaper (TP))</classes>
   </spell>
   <spell>
     <name>Greater Invisibility</name>
-    <classes>Ranger (Green Reaper (Third Party))</classes>
+    <classes>Ranger (Green Reaper (TP))</classes>
   </spell>
   <spell>
     <name>Cloudkill</name>
-    <classes>Ranger (Green Reaper (Third Party))</classes>
+    <classes>Ranger (Green Reaper (TP))</classes>
   </spell>
   <spell>
     <name>Consumption (TP)</name>
-    <classes>Ranger (Vermin Lord (Third Party))</classes>
+    <classes>Ranger (Vermin Lord (TP))</classes>
   </spell>
   <spell>
     <name>Animal Messenger</name>
-    <classes>Ranger (Vermin Lord (Third Party))</classes>
+    <classes>Ranger (Vermin Lord (TP))</classes>
   </spell>
   <spell>
-    <name>Flash Fever</name>
-    <classes>Ranger (Vermin Lord (Third Party))</classes>
+    <name>Flash Fever (TP)</name>
+    <classes>Ranger (Vermin Lord (TP))</classes>
   </spell>
   <spell>
     <name>Freedom of Movement</name>
-    <classes>Ranger (Vermin Lord (Third Party))</classes>
+    <classes>Ranger (Vermin Lord (TP))</classes>
   </spell>
   <spell>
     <name>Contagion</name>
-    <classes>Ranger (Vermin Lord (Third Party))</classes>
+    <classes>Ranger (Vermin Lord (TP))</classes>
   </spell>
   <monster>
     <name>Swarm of Vermin</name>
