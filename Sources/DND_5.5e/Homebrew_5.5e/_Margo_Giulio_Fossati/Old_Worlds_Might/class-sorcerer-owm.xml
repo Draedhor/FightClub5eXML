@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Sorcerer [5.5e]</name>
+    <name>Sorcerer</name>
     <!-- Sorcerer Subclass: Oracle Sorcery (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Sorcerer Subclass: Oracle Sorcery (HB)</name>
+        <name>Sorcerer Subclass: Oracle Sorcery (TP)</name>
         <text>Foresee events and change them through visions and prophecies
 
 "The stars whisper, the bones tremble, and the future bends at my call—yet even I cannot see my own fate"
@@ -19,14 +19,14 @@ During ancient Greece, the Oracle of Delphi served as a source of divine wisdom,
 Source:	Old World's Might - Subclasses from Old Europe p. 52 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Oracle's Sight (Oracle Sorcery (HB))</name>
+        <name>Oracle's Sight (Oracle Sorcery (TP))</name>
         <text>As a Bonus Action, you can channel fate, imposing Advantage or Disadvantage on its next Test in the next minute on a creature that you can see within 60 feet of you.
 	You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 52 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Oracle's Sight</name>
+        <name>Oracle's Sight (TP)</name>
         <value>2</value>
         <reset>L</reset>
         <subclass>Oracle Sorcery (HB)</subclass>
@@ -34,7 +34,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 52 (Homebrew)</text>
     </autolevel>
     <autolevel level="5">
       <counter>
-        <name>Oracle's Sight</name>
+        <name>Oracle's Sight (TP)</name>
         <value>3</value>
         <reset>L</reset>
         <subclass>Oracle Sorcery (HB)</subclass>
@@ -42,7 +42,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 52 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Prophetic Echoes (Oracle Sorcery (HB))</name>
+        <name>Prophetic Echoes (Oracle Sorcery (TP))</name>
         <text>You can enter a trance-like state for 1 minute. While in this state, you can take the Dodge Action as a Bonus Action.
 	Once you use this feature, you can't use it again until you finish a Long Rest.
 	Additionally, you can cast the Detect Thoughts spell once per Long Rest without expending a spell slot.
@@ -50,7 +50,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 52 (Homebrew)</text>
 Source:	Old World's Might - Subclasses from Old Europe p. 52 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Prophetic Echoes</name>
+        <name>Prophetic Echoes (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Oracle Sorcery (HB)</subclass>
@@ -58,7 +58,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 52 (Homebrew)</text>
     </autolevel>
     <autolevel level="9">
       <counter>
-        <name>Oracle's Sight</name>
+        <name>Oracle's Sight (TP)</name>
         <value>4</value>
         <reset>L</reset>
         <subclass>Oracle Sorcery (HB)</subclass>
@@ -66,7 +66,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 52 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Divine Insight (Oracle Sorcery (HB))</name>
+        <name>Divine Insight (Oracle Sorcery (TP))</name>
         <text>You gain proficiency in Wisdom saving throws.
 	You can cast the Commune and Divination spells once per Long Rest without expending a spell slot.
 
@@ -74,7 +74,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 52 (Homebrew)</text>
         <modifier category="saving throw">wisdom save +%0</modifier>
       </feature>
       <counter>
-        <name>Divine Insight</name>
+        <name>Divine Insight (TP)</name>
         <value>4</value>
         <reset>L</reset>
         <subclass>Oracle Sorcery (HB)</subclass>
@@ -82,13 +82,13 @@ Source:	Old World's Might - Subclasses from Old Europe p. 52 (Homebrew)</text>
     </autolevel>
     <autolevel level="13">
       <counter>
-        <name>Oracle's Sight</name>
+        <name>Oracle's Sight (TP)</name>
         <value>5</value>
         <reset>L</reset>
         <subclass>Oracle Sorcery (HB)</subclass>
       </counter>
       <counter>
-        <name>Divine Insight</name>
+        <name>Divine Insight (TP)</name>
         <value>5</value>
         <reset>L</reset>
         <subclass>Oracle Sorcery (HB)</subclass>
@@ -96,7 +96,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 52 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Visionary's Presence (Oracle Sorcery (HB))</name>
+        <name>Visionary's Presence (Oracle Sorcery (TP))</name>
         <text>You gain Truesight 60 feet.
 	When you cast a spell, you can choose one creature within 30 feet. That creature cannot attack you until the start of your next turn unless it succeeds on a Wisdom saving throw against your spell save DC.
 
@@ -105,13 +105,13 @@ Source:	Old World's Might - Subclasses from Old Europe p. 52 (Homebrew)</text>
     </autolevel>
     <autolevel level="17">
       <counter>
-        <name>Oracle's Sight</name>
+        <name>Oracle's Sight (TP)</name>
         <value>6</value>
         <reset>L</reset>
         <subclass>Oracle Sorcery (HB)</subclass>
       </counter>
       <counter>
-        <name>Divine Insight</name>
+        <name>Divine Insight (TP)</name>
         <value>6</value>
         <reset>L</reset>
         <subclass>Oracle Sorcery (HB)</subclass>
@@ -120,7 +120,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 52 (Homebrew)</text>
     <!-- Sorcerer Subclass: Runestone Sorcery (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Sorcerer Subclass: Runestone Sorcery (HB)</name>
+        <name>Sorcerer Subclass: Runestone Sorcery (TP)</name>
         <text>Use your gift in the power of Runes for divination and combat
 
 Beer I bring thee, tree of battle,
@@ -138,7 +138,7 @@ There is some evidence that, in addition to being a writing system, runes histor
 Source:	Old World's Might - Subclasses from Old Europe p. 54 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Rune-Carved Magic (Runestone Sorcery (HB))</name>
+        <name>Rune-Carved Magic (Runestone Sorcery (TP))</name>
         <text>When you finish a Long Rest rest, choose one of the following runes to empower yourself:
 
 	Isa (Ice Rune). Gain Resistance to Cold damage and deal additional Cold damage equal to your Charisma modifier with spells.
@@ -154,7 +154,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 54 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Mystic Runes (Runestone Sorcery (HB))</name>
+        <name>Mystic Runes (Runestone Sorcery (TP))</name>
         <text>You can inscribe temporary runes on weapons and armor during a Long Rest. Weapons gain +1 to attack and damage rolls, and armor grants a +1 AC bonus.
 	You can inscribe a number of weapons and armor equal to your Proficiency Bonus.
 
@@ -165,7 +165,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 54 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Eternal Inscription (Runestone Sorcery (HB))</name>
+        <name>Eternal Inscription (Runestone Sorcery (TP))</name>
         <text>You can cast the Glyph of Warding spell once per Long Rest without expending a spell slot.
 
 Your runes last for 24 hours.
@@ -175,7 +175,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 54 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Master of the Runes (Runestone Sorcery (HB))</name>
+        <name>Master of the Runes (Runestone Sorcery (TP))</name>
         <text>You gain Resistance to any type of damage while within 10 feet of a rune you've created.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 54 (Homebrew)</text>
@@ -184,7 +184,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 54 (Homebrew)</text>
     <!-- Sorcerer Subclass: Siren Sorcery (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Sorcerer Subclass: Siren Sorcery (HB)</name>
+        <name>Sorcerer Subclass: Siren Sorcery (TP)</name>
         <text>Enchant creatures through the blood of the Siren
 
 "Così dissero, cantando con bella voce: e il mio cuore
@@ -201,7 +201,7 @@ In Greek mythology, sirens (Ancient Greek: singular: Σειρήν, Seirḗn; plu
 Source:	Old World's Might - Subclasses from Old Europe p. 53 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Magic of the Siren (Siren Sorcery (HB))</name>
+        <name>Magic of the Siren (Siren Sorcery (TP))</name>
         <text>You gain proficiency in Persuasion. When you cast a spell that causes the Charmed or Frightened condition, you can expend 1 Sorcery Point to impose Disadvantage on the target's saving throw.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 53 (Homebrew)</text>
@@ -209,14 +209,14 @@ Source:	Old World's Might - Subclasses from Old Europe p. 53 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Alluring Presence (Siren Sorcery (HB))</name>
+        <name>Alluring Presence (Siren Sorcery (TP))</name>
         <text>Creatures with the Charmed condition by you have Disadvantage on attack rolls against you and saving throws against your spells.
 	You can cast the Suggestion spell without expending a spell slot once per Long Rest.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 53 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Alluring Presence</name>
+        <name>Alluring Presence (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Siren Sorcery (HB)</subclass>
@@ -224,14 +224,14 @@ Source:	Old World's Might - Subclasses from Old Europe p. 53 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Siren's Song (Siren Sorcery (HB))</name>
+        <name>Siren's Song (Siren Sorcery (TP))</name>
         <text>As a Magic Action, you sing a haunting melody. Creatures of your choice within 60 feet that can hear you must succeed on a Wisdom saving throw against your spell save DC. Failure: Charmed condition and can't take actions or bonus actions and must use their Speed to move towards you until the start of your next turn.
 	You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 53 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Siren's Song</name>
+        <name>Siren's Song (TP)</name>
         <value>4</value>
         <reset>L</reset>
         <subclass>Siren Sorcery (HB)</subclass>
@@ -239,7 +239,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 53 (Homebrew)</text>
     </autolevel>
     <autolevel level="13">
       <counter>
-        <name>Siren's Song</name>
+        <name>Siren's Song (TP)</name>
         <value>5</value>
         <reset>L</reset>
         <subclass>Siren Sorcery (HB)</subclass>
@@ -247,7 +247,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 53 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Siren's Command (Siren Sorcery (HB))</name>
+        <name>Siren's Command (Siren Sorcery (TP))</name>
         <text>As a Magic Action, you sing a hypnotic melody. All creatures of your choice that can hear you within 30 feet of you must make a Wisdom saving throw against your spell save DC. Failure: Charmed and Incapacitated condition for 1 minute. Targets can repeat the saving throw at the end of each of their turns, ending the conditions on a success.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 53 (Homebrew)</text>
@@ -255,7 +255,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 53 (Homebrew)</text>
     </autolevel>
     <autolevel level="17">
       <counter>
-        <name>Siren's Song</name>
+        <name>Siren's Song (TP)</name>
         <value>6</value>
         <reset>L</reset>
         <subclass>Siren Sorcery (HB)</subclass>

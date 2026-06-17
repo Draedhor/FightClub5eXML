@@ -669,127 +669,127 @@ Source:	Player's Handbook (2024) p. 150</text>
     </autolevel>
   </class>
   <spell>
-    <name>Arms of Hadar [2024]</name>
+    <name>Arms of Hadar</name>
     <classes>Sorcerer (Aberrant Sorcery)</classes>
   </spell>
   <spell>
-    <name>Calm Emotions [2024]</name>
+    <name>Calm Emotions</name>
     <classes>Sorcerer (Aberrant Sorcery)</classes>
   </spell>
   <spell>
-    <name>Detect Thoughts [2024]</name>
+    <name>Detect Thoughts</name>
     <classes>Sorcerer (Aberrant Sorcery)</classes>
   </spell>
   <spell>
-    <name>Dissonant Whispers [2024]</name>
+    <name>Dissonant Whispers</name>
     <classes>Sorcerer (Aberrant Sorcery)</classes>
   </spell>
   <spell>
-    <name>Mind Sliver [2024]</name>
+    <name>Mind Sliver</name>
     <classes>Sorcerer (Aberrant Sorcery)</classes>
   </spell>
   <spell>
-    <name>Hunger of Hadar [2024]</name>
+    <name>Hunger of Hadar</name>
     <classes>Sorcerer (Aberrant Sorcery)</classes>
   </spell>
   <spell>
-    <name>Sending [2024]</name>
+    <name>Sending</name>
     <classes>Sorcerer (Aberrant Sorcery)</classes>
   </spell>
   <spell>
-    <name>Evard's Black Tentacles [2024]</name>
+    <name>Evard's Black Tentacles</name>
     <classes>Sorcerer (Aberrant Sorcery)</classes>
   </spell>
   <spell>
-    <name>Summon Aberration [2024]</name>
+    <name>Summon Aberration</name>
     <classes>Sorcerer (Aberrant Sorcery)</classes>
   </spell>
   <spell>
-    <name>Rary's Telepathic Bond [2024]</name>
+    <name>Rary's Telepathic Bond</name>
     <classes>Sorcerer (Aberrant Sorcery)</classes>
   </spell>
   <spell>
-    <name>Telekinesis [2024]</name>
+    <name>Telekinesis</name>
     <classes>Sorcerer (Aberrant Sorcery)</classes>
   </spell>
   <spell>
-    <name>Aid [2024]</name>
+    <name>Aid</name>
     <classes>Sorcerer (Clockwork Sorcery)</classes>
   </spell>
   <spell>
-    <name>Alarm [2024]</name>
+    <name>Alarm</name>
     <classes>Sorcerer (Clockwork Sorcery)</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration [2024]</name>
+    <name>Lesser Restoration</name>
     <classes>Sorcerer (Clockwork Sorcery)</classes>
   </spell>
   <spell>
-    <name>Protection from Evil and Good [2024]</name>
+    <name>Protection from Evil and Good</name>
     <classes>Sorcerer (Clockwork Sorcery)</classes>
   </spell>
   <spell>
-    <name>Dispel Magic [2024]</name>
+    <name>Dispel Magic</name>
     <classes>Sorcerer (Clockwork Sorcery)</classes>
   </spell>
   <spell>
-    <name>Protection from Energy [2024]</name>
+    <name>Protection from Energy</name>
     <classes>Sorcerer (Clockwork Sorcery)</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement [2024]</name>
+    <name>Freedom of Movement</name>
     <classes>Sorcerer (Clockwork Sorcery)</classes>
   </spell>
   <spell>
-    <name>Summon Construct [2024]</name>
+    <name>Summon Construct</name>
     <classes>Sorcerer (Clockwork Sorcery)</classes>
   </spell>
   <spell>
-    <name>Greater Restoration [2024]</name>
+    <name>Greater Restoration</name>
     <classes>Sorcerer (Clockwork Sorcery)</classes>
   </spell>
   <spell>
-    <name>Wall of Force [2024]</name>
+    <name>Wall of Force</name>
     <classes>Sorcerer (Clockwork Sorcery)</classes>
   </spell>
   <spell>
-    <name>Alter Self [2024]</name>
+    <name>Alter Self</name>
     <classes>Sorcerer (Draconic Sorcery)</classes>
   </spell>
   <spell>
-    <name>Chromatic Orb [2024]</name>
+    <name>Chromatic Orb</name>
     <classes>Sorcerer (Draconic Sorcery)</classes>
   </spell>
   <spell>
-    <name>Command [2024]</name>
+    <name>Command</name>
     <classes>Sorcerer (Draconic Sorcery)</classes>
   </spell>
   <spell>
-    <name>Dragon's Breath [2024]</name>
+    <name>Dragon's Breath</name>
     <classes>Sorcerer (Draconic Sorcery)</classes>
   </spell>
   <spell>
-    <name>Fear [2024]</name>
+    <name>Fear</name>
     <classes>Sorcerer (Draconic Sorcery)</classes>
   </spell>
   <spell>
-    <name>Fly [2024]</name>
+    <name>Fly</name>
     <classes>Sorcerer (Draconic Sorcery)</classes>
   </spell>
   <spell>
-    <name>Arcane Eye [2024]</name>
+    <name>Arcane Eye</name>
     <classes>Sorcerer (Draconic Sorcery)</classes>
   </spell>
   <spell>
-    <name>Charm Monster [2024]</name>
+    <name>Charm Monster</name>
     <classes>Sorcerer (Draconic Sorcery)</classes>
   </spell>
   <spell>
-    <name>Legend Lore [2024]</name>
+    <name>Legend Lore</name>
     <classes>Sorcerer (Draconic Sorcery)</classes>
   </spell>
   <spell>
-    <name>Summon Dragon [2024]</name>
+    <name>Summon Dragon</name>
     <classes>Sorcerer (Draconic Sorcery)</classes>
   </spell>
 </compendium>

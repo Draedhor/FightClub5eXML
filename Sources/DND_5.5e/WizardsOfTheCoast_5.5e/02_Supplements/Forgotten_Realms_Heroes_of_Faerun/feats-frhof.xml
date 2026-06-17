@@ -2,7 +2,7 @@
 <compendium version="5" auto_indent="NO">
   <!-- Origin Feats -->
   <feat>
-    <name>Origin: Cult of the Dragon Initiate [2024]</name>
+    <name>Origin: Cult of the Dragon Initiate</name>
     <text>You gain the following benefits.
 
 	Dragon's Tongue. You know Draconic. If you already know Draconic when you select this feat, you instead learn one language of your choice from the language tables in the Player's Handbook or Chapter 2 of this book.
@@ -14,7 +14,7 @@
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 37</text>
   </feat>
   <feat>
-    <name>Origin: Emerald Enclave Fledgling [2024]</name>
+    <name>Origin: Emerald Enclave Fledgling</name>
     <text>You gain the following benefits.
 
 	Speak with Animals. You always have the Speak with Animals spell prepared and can cast it with any spell slots you have. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this feat). When you cast this spell as a Ritual, its duration is 8 hours.
@@ -24,7 +24,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 37</text>
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 37</text>
   </feat>
   <feat>
-    <name>Origin: Harper Agent [2024]</name>
+    <name>Origin: Harper Agent</name>
     <text>You gain the following benefits.
 
 	Thieves' Cant. You know Thieves' Cant.
@@ -36,7 +36,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 37</text>
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 37</text>
   </feat>
   <feat>
-    <name>Origin: Lords' Alliance Agent [2024]</name>
+    <name>Origin: Lords' Alliance Agent</name>
     <text>You gain the following benefits.
 
 	Inspiring Strike. Once per turn when you score a Critical Hit against a creature, you can choose an ally within 30 feet of yourself who can see or hear you and who lacks Heroic Inspiration. That ally gains Heroic Inspiration.
@@ -46,7 +46,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 37</text>
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 38</text>
   </feat>
   <feat>
-    <name>Origin: Purple Dragon Rook [2024]</name>
+    <name>Origin: Purple Dragon Rook</name>
     <text>You gain the following benefits.
 
 	Entreat. You gain proficiency in one of the following skills: Insight, Performance, or Persuasion.
@@ -58,7 +58,7 @@ Once you use this benefit, you can't do so again until you finish a Long Rest.
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 38</text>
   </feat>
   <feat>
-    <name>Origin: Spellfire Spark [2024]</name>
+    <name>Origin: Spellfire Spark</name>
     <text>You gain the following benefits.
 
 	Magic Absorption. Once per turn, when you take damage from a spell or magical effect, you reduce the total damage taken by 1d4. You can't use this benefit if you have the Incapacitated condition.
@@ -68,7 +68,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 38</text>
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 38</text>
   </feat>
   <feat>
-    <name>Origin: Tyro of the Gauntlet [2024]</name>
+    <name>Origin: Tyro of the Gauntlet</name>
     <text>You gain the following benefits.
 
 	Stand as One. When an ally within 5 feet of you is subjected to an effect that would push or pull it, you can take a Reaction to prevent that ally from being pushed or pulled. To receive this benefit, the ally can't have the Incapacitated condition.
@@ -78,7 +78,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 38</text>
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 38</text>
   </feat>
   <feat>
-    <name>Origin: Zhentarim Ruffian [2024]</name>
+    <name>Origin: Zhentarim Ruffian</name>
     <text>You gain the following benefits.
 
 	Exploit Opening. When you roll damage for an Opportunity Attack, you can roll the damage dice twice and use either roll against the target.
@@ -89,7 +89,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 38</text>
   </feat>
   <!-- General Feats -->
   <feat>
-    <name>Cold Caster [2024]</name>
+    <name>Cold Caster</name>
     <prerequisite>Level 4+</prerequisite>
     <text>You gain the following benefits.
 
@@ -103,7 +103,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 39</text>
     <modifier category="ability score">intelligence +1</modifier>
   </feat>
   <feat>
-    <name>Dragonscarred [2024]</name>
+    <name>Dragonscarred</name>
     <prerequisite>Level 4+, Cult of the Dragon Initiate Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -117,7 +117,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 39</text>
     <modifier category="ability score">constitution +1</modifier>
   </feat>
   <feat>
-    <name>Enclave Magic [2024]</name>
+    <name>Enclave Magic</name>
     <prerequisite>Level 4+, Emerald Enclave Fledgling Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -131,7 +131,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 39</text>
     <modifier category="ability score">intelligence +1</modifier>
   </feat>
   <feat>
-    <name>Fairy Trickster [2024]</name>
+    <name>Fairy Trickster</name>
     <prerequisite>Level 4+</prerequisite>
     <text>You gain the following benefits.
 
@@ -147,7 +147,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 39</text>
     <modifier category="ability score">dexterity +1</modifier>
   </feat>
   <feat>
-    <name>Genie Magic [2024]</name>
+    <name>Genie Magic</name>
     <prerequisite>Level 4+</prerequisite>
     <text>You gain the following benefits.
 
@@ -163,7 +163,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 39</text>
     <modifier category="ability score">intelligence +1</modifier>
   </feat>
   <feat>
-    <name>Harper Teamwork [2024]</name>
+    <name>Harper Teamwork</name>
     <prerequisite>Level 4+, Harper Agent Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -177,7 +177,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 39</text>
     <modifier category="ability score">dexterity +1</modifier>
   </feat>
   <feat>
-    <name>Lordly Resolve [2024]</name>
+    <name>Lordly Resolve</name>
     <prerequisite>Level 4+, Lords' Alliance Agent Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -191,7 +191,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 40</text>
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Mythal Touched [2024]</name>
+    <name>Mythal Touched</name>
     <prerequisite>Level 4+</prerequisite>
     <text>You gain the following benefits.
 
@@ -215,7 +215,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 40</text>
     <modifier category="ability score">intelligence +1</modifier>
   </feat>
   <feat>
-    <name>Order's Resilience [2024]</name>
+    <name>Order's Resilience</name>
     <prerequisite>Level 4+, Tyro of the Gauntlet Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -229,7 +229,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 40</text>
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Purple Dragon Commandant [2024]</name>
+    <name>Purple Dragon Commandant</name>
     <prerequisite>Level 4+, Purple Dragon Rook Feat or Martial Weapon Proficiency</prerequisite>
     <text>You gain the following benefits.
 
@@ -243,7 +243,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 40</text>
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Spellfire Adept [2024]</name>
+    <name>Spellfire Adept</name>
     <prerequisite>Level 4+, Spellfire Spark Feat or the Spellcasting or Pact Magic Feature</prerequisite>
     <text>You gain the following benefits.
 
@@ -257,7 +257,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 41</text>
     <modifier category="ability score">intelligence +1</modifier>
   </feat>
   <feat>
-    <name>Street Justice [2024]</name>
+    <name>Street Justice</name>
     <prerequisite>Level 4+</prerequisite>
     <text>You gain the following benefits.
 
@@ -273,7 +273,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 41</text>
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Zhentarim Tactics [2024]</name>
+    <name>Zhentarim Tactics</name>
     <prerequisite>Level 4+, Zhentarim Ruffian Feat</prerequisite>
     <text>You gain the following benefits.
 

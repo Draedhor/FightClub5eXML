@@ -93,47 +93,47 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 21</text>
     </autolevel>
   </class>
   <spell>
-    <name>Chromatic Orb [2024]</name>
+    <name>Chromatic Orb</name>
     <classes>Paladin (Oath of the Noble Genies)</classes>
   </spell>
   <spell>
-    <name>Elementalism [2024]</name>
+    <name>Elementalism</name>
     <classes>Paladin (Oath of the Noble Genies)</classes>
   </spell>
   <spell>
-    <name>Thunderous Smite [2024]</name>
+    <name>Thunderous Smite</name>
     <classes>Paladin (Oath of the Noble Genies)</classes>
   </spell>
   <spell>
-    <name>Mirror Image [2024]</name>
+    <name>Mirror Image</name>
     <classes>Paladin (Oath of the Noble Genies)</classes>
   </spell>
   <spell>
-    <name>Phantasmal Force [2024]</name>
+    <name>Phantasmal Force</name>
     <classes>Paladin (Oath of the Noble Genies)</classes>
   </spell>
   <spell>
-    <name>Fly [2024]</name>
+    <name>Fly</name>
     <classes>Paladin (Oath of the Noble Genies)</classes>
   </spell>
   <spell>
-    <name>Gaseous Form [2024]</name>
+    <name>Gaseous Form</name>
     <classes>Paladin (Oath of the Noble Genies)</classes>
   </spell>
   <spell>
-    <name>Conjure Minor Elementals [2024]</name>
+    <name>Conjure Minor Elementals</name>
     <classes>Paladin (Oath of the Noble Genies)</classes>
   </spell>
   <spell>
-    <name>Summon Elemental [2024]</name>
+    <name>Summon Elemental</name>
     <classes>Paladin (Oath of the Noble Genies)</classes>
   </spell>
   <spell>
-    <name>Banishing Smite [2024]</name>
+    <name>Banishing Smite</name>
     <classes>Paladin (Oath of the Noble Genies)</classes>
   </spell>
   <spell>
-    <name>Contact Other Plane [2024]</name>
+    <name>Contact Other Plane</name>
     <classes>Paladin (Oath of the Noble Genies)</classes>
   </spell>
 </compendium>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Streetfighter [5.5e]</name>
+    <name>Streetfighter (TP)</name>
     <ancestry>Brawler</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -26,33 +26,33 @@
     <conditionImmune/>
     <senses/>
     <trait>
-      <name>Proficiency Bonus</name>
+      <name>Proficiency Bonus (TP)</name>
       <text>+2</text>
     </trait>
     <trait>
-      <name>Treasure</name>
+      <name>Treasure (TP)</name>
       <text>Individual</text>
     </trait>
     <trait>
-      <name>Gear</name>
+      <name>Gear (TP)</name>
       <text>Brass Knuckles</text>
     </trait>
     <trait>
-      <name>Size</name>
+      <name>Size (TP)</name>
       <text>Medium or Small Humanoid</text>
     </trait>
     <action>
-      <name>Fisticuffs</name>
+      <name>Fisticuffs (TP)</name>
       <text>Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Bludgeoning damage.</text>
       <attack>Bludgeoning Damage|+4|1d8+2</attack>
     </action>
     <action>
-      <name>Brace Up (Bonus Action)</name>
+      <name>Brace Up (Bonus Action) (TP)</name>
       <text>The streetfighter gains 9 (2d8) Temporary Hit Points.</text>
       <attack>Temporary Hit Points||2d8</attack>
     </action>
     <action>
-      <name>Combo (Bonus Action)</name>
+      <name>Combo (Bonus Action) (TP)</name>
       <text>The streetfighter makes one Fisticuffs attack.</text>
     </action>
     <description>Streetfighters can be found hanging around shady establishments and shaking down easy marks in alleys. They aren't the type to take orders from a boss unless the threat of violence is involved.
@@ -64,7 +64,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Wrestler [5.5e]</name>
+    <name>Wrestler (TP)</name>
     <ancestry>Brawler</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -89,38 +89,38 @@ Source:	Ben Huffman - Pugilist (Third Party)</description>
     <conditionImmune/>
     <senses/>
     <trait>
-      <name>Proficiency Bonus</name>
+      <name>Proficiency Bonus (TP)</name>
       <text>+2</text>
     </trait>
     <trait>
-      <name>Treasure</name>
+      <name>Treasure (TP)</name>
       <text>Individual</text>
     </trait>
     <trait>
-      <name>Gear</name>
+      <name>Gear (TP)</name>
       <text>Leather Armor</text>
     </trait>
     <trait>
-      <name>Size</name>
+      <name>Size (TP)</name>
       <text>Medium or Small Humanoid</text>
     </trait>
     <action>
-      <name>Grasping Strike</name>
+      <name>Grasping Strike (TP)</name>
       <text>Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 16).</text>
       <attack>Bludgeoning Damage|+6|1d8+4</attack>
     </action>
     <action>
-      <name>Punch Down</name>
+      <name>Punch Down (TP)</name>
       <text>Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition.</text>
       <attack>Bludgeoning Damage|+6|1d8+4</attack>
     </action>
     <action>
-      <name>Brace Up (Bonus Action)</name>
+      <name>Brace Up (Bonus Action) (TP)</name>
       <text>The wrestler gains 9 (2d8) Temporary Hit Points.</text>
       <attack>Temporary Hit Points||2d8</attack>
     </action>
     <action>
-      <name>Combo (Bonus Action)</name>
+      <name>Combo (Bonus Action) (TP)</name>
       <text>The wrestler makes one Grasping Strike or Punch Down attack.</text>
     </action>
     <description>Wrestlers are trained athletes that grapple competitively for money and sometimes glory.
@@ -132,7 +132,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Belligerent Brawler [5.5e]</name>
+    <name>Belligerent Brawler (TP)</name>
     <ancestry>Brawler</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -157,46 +157,46 @@ Source:	Ben Huffman - Pugilist (Third Party)</description>
     <conditionImmune/>
     <senses/>
     <trait>
-      <name>Proficiency Bonus</name>
+      <name>Proficiency Bonus (TP)</name>
       <text>+2</text>
     </trait>
     <trait>
-      <name>Treasure</name>
+      <name>Treasure (TP)</name>
       <text>Individual</text>
     </trait>
     <trait>
-      <name>Gear</name>
+      <name>Gear (TP)</name>
       <text>Leather Armor</text>
     </trait>
     <trait>
-      <name>Size</name>
+      <name>Size (TP)</name>
       <text>Medium or Small Humanoid</text>
     </trait>
     <action>
-      <name>Multiattack</name>
+      <name>Multiattack (TP)</name>
       <text>The brawler makes two attacks, using Grasping Strike or Punch Down in any combination.</text>
     </action>
     <action>
-      <name>Grasping Strike</name>
+      <name>Grasping Strike (TP)</name>
       <text>Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 16).</text>
       <attack>Bludgeoning Damage|+6|1d8+4</attack>
     </action>
     <action>
-      <name>Punch Down</name>
+      <name>Punch Down (TP)</name>
       <text>Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition.</text>
       <attack>Bludgeoning Damage|+6|1d8+4</attack>
     </action>
     <action>
-      <name>Brace Up (Bonus Action)</name>
+      <name>Brace Up (Bonus Action) (TP)</name>
       <text>The brawler gains 13 (3d8) Temporary Hit Points.</text>
       <attack>Temporary Hit Points||3d8</attack>
     </action>
     <action>
-      <name>Combo (Bonus Action)</name>
+      <name>Combo (Bonus Action) (TP)</name>
       <text>The brawler makes one Grasping Strike or Punch Down attack.</text>
     </action>
     <action>
-      <name>Enraging Insult (Bonus Action)</name>
+      <name>Enraging Insult (Bonus Action) (TP)</name>
       <text>Wisdom Saving Throw: DC 12, one creature that can see or hear the brawler within 30 feet. Failure: 6 (1d8 + 2) Psychic damage, and the target has Disadvantage on attack rolls against creatures other than the brawler until the start of the brawler's next turn.</text>
       <attack>Psychic Damage||1d8+2</attack>
     </action>
@@ -209,7 +209,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Boxer [5.5e]</name>
+    <name>Boxer (TP)</name>
     <ancestry>Brawler</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -234,42 +234,42 @@ Source:	Ben Huffman - Pugilist (Third Party)</description>
     <conditionImmune/>
     <senses/>
     <trait>
-      <name>Proficiency Bonus</name>
+      <name>Proficiency Bonus (TP)</name>
       <text>+3</text>
     </trait>
     <trait>
-      <name>Treasure</name>
+      <name>Treasure (TP)</name>
       <text>Individual</text>
     </trait>
     <trait>
-      <name>Size</name>
+      <name>Size (TP)</name>
       <text>Medium or Small Humanoid</text>
     </trait>
     <action>
-      <name>Multiattack</name>
+      <name>Multiattack (TP)</name>
       <text>The boxer makes three attacks, using Grasping Strike or Punch Down in any combination.</text>
     </action>
     <action>
-      <name>Grasping Strike</name>
+      <name>Grasping Strike (TP)</name>
       <text>Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 16).</text>
       <attack>Bludgeoning Damage|+6|1d8+4</attack>
     </action>
     <action>
-      <name>Punch Down</name>
+      <name>Punch Down (TP)</name>
       <text>Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition.</text>
       <attack>Bludgeoning Damage|+6|1d8+4</attack>
     </action>
     <action>
-      <name>Brace Up (Bonus Action)</name>
+      <name>Brace Up (Bonus Action) (TP)</name>
       <text>The boxer gains 18 (4d8) Temporary Hit Points.</text>
       <attack>Temporary Hit Points||4d8</attack>
     </action>
     <action>
-      <name>Combo (Bonus Action)</name>
+      <name>Combo (Bonus Action) (TP)</name>
       <text>The boxer makes one Grasping Strike or Punch Down attack.</text>
     </action>
     <reaction>
-      <name>Cross Counter</name>
+      <name>Cross Counter (TP)</name>
       <text>Trigger: The boxer is hit by a melee attack made by a creature. Response: The boxer reduces the damage it takes by 18 (4d8) and deals that much Bludgeoning damage to the target if it is within 5 feet.</text>
       <attack>Damage Reduction and Bludgeoning Damage||4d8</attack>
     </reaction>

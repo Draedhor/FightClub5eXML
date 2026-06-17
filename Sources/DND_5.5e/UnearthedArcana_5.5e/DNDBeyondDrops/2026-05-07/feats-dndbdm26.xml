@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <feat>
-    <name>Fey Pact (Planar Pact Feat) [5.5e]</name>
+    <name>Fey Pact (Planar Pact Feat) (UA)</name>
     <prerequisite>Can't Have Another Planar Pact Feat) You gain the following benefits.</prerequisite>
     <text>You gain the following benefits.
 
@@ -14,7 +14,7 @@
 Source:	DND Beyond Drops - May</text>
   </feat>
   <feat>
-    <name>Fey Sentinel (Intelligence) [5.5e]</name>
+    <name>Fey Sentinel (Intelligence) (UA)</name>
     <prerequisite>Level 4+, Fey Pact Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -31,7 +31,7 @@ Source:	DND Beyond Drops - May</text>
     <modifier category="ability score">intelligence +1</modifier>
   </feat>
   <feat>
-    <name>Fey Sentinel (Wisdom) [5.5e]</name>
+    <name>Fey Sentinel (Wisdom) (UA)</name>
     <prerequisite>Level 4+, Fey Pact Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -48,7 +48,7 @@ Source:	DND Beyond Drops - May</text>
     <modifier category="ability score">wisdom +1</modifier>
   </feat>
   <feat>
-    <name>Fey Sentinel (Charisma) [5.5e]</name>
+    <name>Fey Sentinel (Charisma) (UA)</name>
     <prerequisite>Level 4+, Fey Pact Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -65,7 +65,7 @@ Source:	DND Beyond Drops - May</text>
     <modifier category="ability score">charisma +1</modifier>
   </feat>
   <feat>
-    <name>Infernal Pact (Planar Pact Feat) [5.5e]</name>
+    <name>Infernal Pact (Planar Pact Feat) (UA)</name>
     <prerequisite>Can't Have Another Planar Pact Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -78,7 +78,7 @@ Source:	DND Beyond Drops - May</text>
 Source:	DND Beyond Drops - May</text>
   </feat>
   <feat>
-    <name>Infernal Bulwark (Intelligence) [5.5e]</name>
+    <name>Infernal Bulwark (Intelligence) (UA)</name>
     <prerequisite>Level 4+, Infernal Pact Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -95,7 +95,7 @@ Source:	DND Beyond Drops - May</text>
     <modifier category="ability score">intelligence +1</modifier>
   </feat>
   <feat>
-    <name>Infernal Bulwark (Wisdom) [5.5e]</name>
+    <name>Infernal Bulwark (Wisdom) (UA)</name>
     <prerequisite>Level 4+, Infernal Pact Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -112,7 +112,7 @@ Source:	DND Beyond Drops - May</text>
     <modifier category="ability score">wisdom +1</modifier>
   </feat>
   <feat>
-    <name>Infernal Bulwark (Charisma) [5.5e]</name>
+    <name>Infernal Bulwark (Charisma) (UA)</name>
     <prerequisite>Level 4+, Infernal Pact Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -129,7 +129,7 @@ Source:	DND Beyond Drops - May</text>
     <modifier category="ability score">charisma +1</modifier>
   </feat>
   <feat>
-    <name>Infernal Dragoon (Constitution) [5.5e]</name>
+    <name>Infernal Dragoon (Constitution) (UA)</name>
     <prerequisite>Level 4+, Infernal Pact Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -145,7 +145,7 @@ Source:	DND Beyond Drops - May</text>
     <modifier category="ability score">constitution +1</modifier>
   </feat>
   <feat>
-    <name>Infernal Dragoon (Charisma) [5.5e]</name>
+    <name>Infernal Dragoon (Charisma) (UA)</name>
     <prerequisite>Level 4+, Infernal Pact Feat</prerequisite>
     <text>You gain the following benefits.
 

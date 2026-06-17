@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Paladin</name>
+    <name>Paladin (UA)</name>
     <!-- Paladin Subclass: Oath of the Noble Genies (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -91,47 +91,47 @@ Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 5</text>
     </autolevel>
   </class>
   <spell>
-    <name>Chromatic Orb [2024]</name>
+    <name>Chromatic Orb (UA)</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
   <spell>
-    <name>Elementalism [2024]</name>
+    <name>Elementalism (UA)</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
   <spell>
-    <name>Thunderous Smite [2024]</name>
+    <name>Thunderous Smite (UA)</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
   <spell>
-    <name>Mirror Image [2024]</name>
+    <name>Mirror Image (UA)</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
   <spell>
-    <name>Phantasmal Force [2024]</name>
+    <name>Phantasmal Force (UA)</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
   <spell>
-    <name>Fly [2024]</name>
+    <name>Fly (UA)</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
   <spell>
-    <name>Gaseous Form [2024]</name>
+    <name>Gaseous Form (UA)</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
   <spell>
-    <name>Conjure Minor Elementals [2024]</name>
+    <name>Conjure Minor Elementals (UA)</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
   <spell>
-    <name>Summon Elemental [2024]</name>
+    <name>Summon Elemental (UA)</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
   <spell>
-    <name>Banishing Smite [2024]</name>
+    <name>Banishing Smite (UA)</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
   <spell>
-    <name>Contact Other Plane [2024]</name>
+    <name>Contact Other Plane (UA)</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
 </compendium>

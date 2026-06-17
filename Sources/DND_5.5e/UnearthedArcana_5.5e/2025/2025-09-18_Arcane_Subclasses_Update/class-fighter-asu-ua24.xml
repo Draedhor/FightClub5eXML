@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Fighter</name>
+    <name>Fighter (UA)</name>
     <!-- Fighter Subclass: Arcane Archer v2 (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -111,7 +111,7 @@ Source:	UA25-ArcaneSubclassesUpdate p. 2</text>
     </autolevel>
   </class>
   <spell>
-    <name>Arcane Shot: Banishing Shot</name>
+    <name>Arcane Shot: Banishing Shot (UA)</name>
     <level>0</level>
     <classes>Fighter (Arcane Archer v2 (UA)): Arcane Shot Options</classes>
     <text>Your ammunition temporarily sequesters your target in a harmless demiplane. The creature you hit takes additional Psychic damage equal to one roll of your Arcane Shot Die and must succeed on a Charisma saving throw or be banished. While banished, the creature has the Incapacitated condition and a Speed of 0. At the end of its next turn, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.
@@ -119,7 +119,7 @@ Source:	UA25-ArcaneSubclassesUpdate p. 2</text>
 Source:	UA25-ArcaneSubclassesUpdate p. 3</text>
   </spell>
   <spell>
-    <name>Arcane Shot: Beguiling Shot</name>
+    <name>Arcane Shot: Beguiling Shot (UA)</name>
     <level>0</level>
     <classes>Fighter (Arcane Archer v2 (UA)): Arcane Shot Options</classes>
     <text>Your ammunition beguiles your target. The creature you hit takes additional Psychic damage equal to two rolls of your Arcane Shot Die and must succeed on a Wisdom saving throw or have the Charmed condition until the start of your next turn, treating either you or one of your allies within 30 feet of the target (your choice) as the charmer. The Charmed condition ends early if the charmer attacks the target, deals damage to it, or forces it to make a saving throw.
@@ -127,7 +127,7 @@ Source:	UA25-ArcaneSubclassesUpdate p. 3</text>
 Source:	UA25-ArcaneSubclassesUpdate p. 3</text>
   </spell>
   <spell>
-    <name>Arcane Shot: Bursting Shot</name>
+    <name>Arcane Shot: Bursting Shot (UA)</name>
     <level>0</level>
     <classes>Fighter (Arcane Archer v2 (UA)): Arcane Shot Options</classes>
     <text>You imbue your ammunition with explosive force energy. Immediately after you deal damage to the creature, your target and each creature within a 10-foot Emanation originating from the target take Force damage equal to two rolls of your Arcane Shot Die.
@@ -135,7 +135,7 @@ Source:	UA25-ArcaneSubclassesUpdate p. 3</text>
 Source:	UA25-ArcaneSubclassesUpdate p. 3</text>
   </spell>
   <spell>
-    <name>Arcane Shot: Enfeebling Shot</name>
+    <name>Arcane Shot: Enfeebling Shot (UA)</name>
     <level>0</level>
     <classes>Fighter (Arcane Archer v2 (UA)): Arcane Shot Options</classes>
     <text>Your ammunition saps your target's strength. The creature you hit takes additional Necrotic damage equal to two rolls of your Arcane Shot Die. The target must also succeed on a Constitution saving throw or have the Poisoned condition until the end of its next turn. Whenever a target Poisoned in this way hits with an attack roll, it subtracts an amount equal to one roll of your Arcane Shot Die from the total damage of that attack.
@@ -143,7 +143,7 @@ Source:	UA25-ArcaneSubclassesUpdate p. 3</text>
 Source:	UA25-ArcaneSubclassesUpdate p. 3</text>
   </spell>
   <spell>
-    <name>Arcane Shot: Grasping Shot</name>
+    <name>Arcane Shot: Grasping Shot (UA)</name>
     <level>0</level>
     <classes>Fighter (Arcane Archer v2 (UA)): Arcane Shot Options</classes>
     <text>Your ammunition creates clutching brambles around your target. The creature you hit takes additional Slashing damage equal to one roll of your Arcane Shot Die and must succeed on a Strength saving throw or have the Restrained condition for 1 minute or until you use this option again. The target or a creature within reach of it can take an action to make a Strength (Athletics) check against your Arcane Shot DC, removing the brambles and ending the Restrained condition on the target on a successful check.
@@ -151,7 +151,7 @@ Source:	UA25-ArcaneSubclassesUpdate p. 3</text>
 Source:	UA25-ArcaneSubclassesUpdate p. 3</text>
   </spell>
   <spell>
-    <name>Arcane Shot: Piercing Shot</name>
+    <name>Arcane Shot: Piercing Shot (UA)</name>
     <level>0</level>
     <classes>Fighter (Arcane Archer v2 (UA)): Arcane Shot Options</classes>
     <text>You give your ammunition an ethereal quality. When you use this option, you don't make an attack roll for the attack. Instead, the ammunition shoots forward in a 30-foot Line that is 1 foot wide, originating from you, then vanishes. The Line ignores cover, as the ammunition phases through solid objects. Each creature in the Line must make a Dexterity saving throw. On a failed save, a creature takes damage as if it were hit plus additional Piercing damage equal to two rolls of your Arcane Shot Die. On a successful save, a creature takes half as much damage.
@@ -159,7 +159,7 @@ Source:	UA25-ArcaneSubclassesUpdate p. 3</text>
 Source:	UA25-ArcaneSubclassesUpdate p. 4</text>
   </spell>
   <spell>
-    <name>Arcane Shot: Seeking Shot</name>
+    <name>Arcane Shot: Seeking Shot (UA)</name>
     <level>0</level>
     <classes>Fighter (Arcane Archer v2 (UA)): Arcane Shot Options</classes>
     <text>Your ammunition can seek out a target. When you use this option, you don't make an attack roll for the attack. Instead, choose one creature you have seen in the last minute. The ammunition flies toward that creature, moving around corners if necessary and ignoring Half Cover and Three-Quarters Cover. If the target is within your weapon's long range, the target must make a Dexterity saving throw. On a failed save, the target takes damage as if it were hit plus additional Force damage equal to two rolls of your Arcane Shot Die, and you learn the target's current location. On a successful save, the target takes half as much damage only. If the target is beyond your weapon's long range, the ammunition disappears after traveling as far as it can.
@@ -167,7 +167,7 @@ Source:	UA25-ArcaneSubclassesUpdate p. 4</text>
 Source:	UA25-ArcaneSubclassesUpdate p. 4</text>
   </spell>
   <spell>
-    <name>Arcane Shot: Shadow Shot</name>
+    <name>Arcane Shot: Shadow Shot (UA)</name>
     <level>0</level>
     <classes>Fighter (Arcane Archer v2 (UA)): Arcane Shot Options</classes>
     <text>Your ammunition occludes your foe's vision with shadows. The creature you hit takes additional Psychic damage equal to one roll of your Arcane Shot Die, and it must succeed on a Wisdom saving throw or have the Blinded condition until the end of its next turn.

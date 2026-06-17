@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Acid Burn (HB)</name>
+    <name>Acid Burn (TP)</name>
     <level>0</level>
     <school>EV</school>
     <time>1 Action</time>
@@ -20,7 +20,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 186 (Third Party)</text>
     <roll description="Acid Damage" level="17">4d6</roll>
   </spell>
   <spell>
-    <name>Acid Rain (HB)</name>
+    <name>Acid Rain (TP)</name>
     <level>5</level>
     <school>C</school>
     <time>1 Action</time>
@@ -41,7 +41,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 191 (Third Party)</text>
     <roll description="Acid Damage" level="9">7d6</roll>
   </spell>
   <spell>
-    <name>Acrid Orb (HB)</name>
+    <name>Acrid Orb (TP)</name>
     <level>1</level>
     <school>EV</school>
     <time>1 Action</time>
@@ -65,7 +65,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 187 (Third Party)</text>
     <roll description="Acid Damage" level="9">10d6</roll>
   </spell>
   <spell>
-    <name>Bacterial Barrage (HB)</name>
+    <name>Bacterial Barrage (TP)</name>
     <level>0</level>
     <school>N</school>
     <time>1 Action</time>
@@ -88,7 +88,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 186 (Third Party)</text>
     <roll description="Necrotic Damage" level="17">4d12</roll>
   </spell>
   <spell>
-    <name>Banish to the Space Between Worlds (HB)</name>
+    <name>Banish to the Space Between Worlds (TP)</name>
     <level>8</level>
     <school>C</school>
     <time>1 Action</time>
@@ -108,7 +108,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 198 (Third Party)</text>
     <roll description="Psychic Damage">4d6</roll>
   </spell>
   <spell>
-    <name>Biohazard (HB)</name>
+    <name>Biohazard (TP)</name>
     <level>2</level>
     <school>C</school>
     <time>1 Action</time>
@@ -131,7 +131,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 187 (Third Party)</text>
     <roll description="Poison Damage" level="9">8d8</roll>
   </spell>
   <spell>
-    <name>Blood Worm (HB)</name>
+    <name>Blood Worm (TP)</name>
     <level>4</level>
     <school>N</school>
     <time>1 Action</time>
@@ -152,7 +152,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 189 (Third Party)</text>
     <roll description="Necrotic Damage" level="9">9d6</roll>
   </spell>
   <spell>
-    <name>Breath of Nightshade (HB)</name>
+    <name>Breath of Nightshade (TP)</name>
     <level>8</level>
     <school>C</school>
     <time>1 Action</time>
@@ -166,7 +166,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 189 (Third Party)</text>
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 193 (Third Party)</text>
   </spell>
   <spell>
-    <name>Caustic Grip (HB)</name>
+    <name>Caustic Grip (TP)</name>
     <level>2</level>
     <school>EV</school>
     <time>1 Action</time>
@@ -190,7 +190,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 188 (Third Party)</text>
     <roll description="Acid Damage" level="9">20d4</roll>
   </spell>
   <spell>
-    <name>Comet Shards (HB)</name>
+    <name>Comet Shards (TP)</name>
     <level>1</level>
     <school>EV</school>
     <time>1 Action</time>
@@ -208,7 +208,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 194 (Third Party)</text>
     <roll description="Force Damage">2d4+%0</roll>
   </spell>
   <spell>
-    <name>Contaminated Hands (HB)</name>
+    <name>Contaminated Hands (TP)</name>
     <level>5</level>
     <school>EV</school>
     <time>1 Action</time>
@@ -249,7 +249,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 197 (Third Party)</text>
     <roll description="Bludgeoning Damage" level="9">8d6</roll>
   </spell>
   <spell>
-    <name>Contamination Immunity (HB)</name>
+    <name>Contamination Immunity (TP)</name>
     <level>7</level>
     <school>A</school>
     <time>1 minute</time>
@@ -265,7 +265,7 @@ Researching the Spell: A character who can cast 7th level spells, knows the neut
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 192 (Third Party)</text>
   </spell>
   <spell>
-    <name>Controlled Mutation (HB)</name>
+    <name>Controlled Mutation (TP)</name>
     <level>2</level>
     <school>T</school>
     <time>1 Action</time>
@@ -295,7 +295,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 194 (Third Party)</text>
     <roll description="Necrotic Damage">2d6</roll>
   </spell>
   <spell>
-    <name>Corpse Explosion (HB)</name>
+    <name>Corpse Explosion (TP)</name>
     <level>4</level>
     <school>N</school>
     <time>1 Reaction, which you take when a creature you can see dies within 120 feet of you.</time>
@@ -316,7 +316,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 189 (Third Party)</text>
     <roll description="Necrotic Damage + Acid Damage" level="9">9d8+9d8</roll>
   </spell>
   <spell>
-    <name>Corrosive Blast (HB)</name>
+    <name>Corrosive Blast (TP)</name>
     <level>3</level>
     <school>EV</school>
     <time>1 Action</time>
@@ -339,7 +339,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 188 (Third Party)</text>
     <roll description="Acid Damage" level="9">22d4</roll>
   </spell>
   <spell>
-    <name>Corrupted Cure (HB)</name>
+    <name>Corrupted Cure (TP)</name>
     <level>1</level>
     <school>EV</school>
     <time>1 Bonus Action</time>
@@ -375,7 +375,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 194 (Third Party)</text>
     <roll description="Contaminated Heal" level="9">24d6+%0</roll>
   </spell>
   <spell>
-    <name>Corrupting Spores (HB)</name>
+    <name>Corrupting Spores (TP)</name>
     <level>4</level>
     <school>N</school>
     <time>1 Bonus Action</time>
@@ -392,7 +392,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 190 (Third Party)</text>
     <roll description="Poison Damage">1d8</roll>
   </spell>
   <spell>
-    <name>Delerium Meteor Swarm (HB)</name>
+    <name>Delerium Meteor Swarm (TP)</name>
     <level>9</level>
     <school>EV</school>
     <time>1 Action</time>
@@ -412,7 +412,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 198 (Third Party)</text>
     <roll description="Necrotic Damage">5d6</roll>
   </spell>
   <spell>
-    <name>Envenom (HB)</name>
+    <name>Envenom (TP)</name>
     <level>1</level>
     <school>C</school>
     <time>1 Action</time>
@@ -430,7 +430,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 187 (Third Party)</text>
     <roll description="Poison Damage">2d4</roll>
   </spell>
   <spell>
-    <name>Fetid Blade (HB)</name>
+    <name>Fetid Blade (TP)</name>
     <level>3</level>
     <school>EV</school>
     <time>1 Bonus Action</time>
@@ -453,7 +453,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 188 (Third Party)</text>
     <roll description="Acid Damage" level="9">8d4</roll>
   </spell>
   <spell>
-    <name>Grasping Ghost (HB)</name>
+    <name>Grasping Ghost (TP)</name>
     <level>2</level>
     <school>N</school>
     <time>1 Action</time>
@@ -470,7 +470,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 188 (Third Party)</text>
     <roll description="Necrotic Damage">3d8</roll>
   </spell>
   <spell>
-    <name>Grievous Wounds (HB)</name>
+    <name>Grievous Wounds (TP)</name>
     <level>7</level>
     <school>N</school>
     <time>1 Action</time>
@@ -483,7 +483,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 188 (Third Party)</text>
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 193 (Third Party)</text>
   </spell>
   <spell>
-    <name>Horrific Transformation (HB)</name>
+    <name>Horrific Transformation (TP)</name>
     <level>4</level>
     <school>T</school>
     <time>1 Action</time>
@@ -504,7 +504,7 @@ This spell transforms a willing creature that you touch into a horrific monstros
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 195 (Third Party)</text>
   </spell>
   <spell>
-    <name>Infect (HB)</name>
+    <name>Infect (TP)</name>
     <level>1</level>
     <school>N</school>
     <time>1 Action</time>
@@ -525,7 +525,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 187 (Third Party)</text>
     <roll description="Necrotic Damage" level="9">5d12</roll>
   </spell>
   <spell>
-    <name>Invigorate (HB)</name>
+    <name>Invigorate (TP)</name>
     <level>2</level>
     <school>A</school>
     <time>1 Action</time>
@@ -540,7 +540,7 @@ At Higher Levels: When you cast this spell using a spell slot of 2nd level or hi
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 188 (Third Party)</text>
   </spell>
   <spell>
-    <name>Last Rites (HB)</name>
+    <name>Last Rites (TP)</name>
     <level>4</level>
     <school>A</school>
     <time>1 Action</time>
@@ -558,7 +558,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 190 (Third Party)</text>
     <roll description="Radiant Damage">8d8</roll>
   </spell>
   <spell>
-    <name>Mephitic Vapors (HB)</name>
+    <name>Mephitic Vapors (TP)</name>
     <level>6</level>
     <school>C</school>
     <time>1 Action</time>
@@ -577,7 +577,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 192 (Third Party)</text>
     <roll description="Poison and Acid Damage" level="9">5d8+5d8</roll>
   </spell>
   <spell>
-    <name>Miasma (HB)</name>
+    <name>Miasma (TP)</name>
     <level>7</level>
     <school>EV</school>
     <time>1 Action</time>
@@ -599,7 +599,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 193 (Third Party)</text>
     <roll description="Acid Damage" level="9">12d8</roll>
   </spell>
   <spell>
-    <name>Nerve Gas (HB)</name>
+    <name>Nerve Gas (TP)</name>
     <level>5</level>
     <school>N</school>
     <time>1 Action</time>
@@ -620,7 +620,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 191 (Third Party)</text>
     <roll description="Psychic Damage" level="9">7d6</roll>
   </spell>
   <spell>
-    <name>Neutralizing Field (HB)</name>
+    <name>Neutralizing Field (TP)</name>
     <level>5</level>
     <school>A</school>
     <time>1 action</time>
@@ -635,7 +635,7 @@ Researching the Spell: A character who can cast 5th level spells, knows the purg
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 192 (Third Party)</text>
   </spell>
   <spell>
-    <name>Octarine Sword (HB)</name>
+    <name>Octarine Sword (TP)</name>
     <level>7</level>
     <school>EV</school>
     <time>1 Bonus Action</time>
@@ -660,7 +660,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 197 (Third Party)</text>
     <roll description="Necrotic Damage" level="9">6d6</roll>
   </spell>
   <spell>
-    <name>Ocular Necrosis (HB)</name>
+    <name>Ocular Necrosis (TP)</name>
     <level>2</level>
     <school>N</school>
     <time>1 Action</time>
@@ -683,7 +683,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 188 (Third Party)</text>
     <roll description="Necrotic Damage" level="9">9d6</roll>
   </spell>
   <spell>
-    <name>Pandemic (HB)</name>
+    <name>Pandemic (TP)</name>
     <level>9</level>
     <school>C</school>
     <time>1 Action</time>
@@ -700,7 +700,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 193 (Third Party)</text>
     <roll description="Necrotic Damage">10d8</roll>
   </spell>
   <spell>
-    <name>Pestilence (HB)</name>
+    <name>Pestilence (TP)</name>
     <level>3</level>
     <school>N</school>
     <time>1 Action</time>
@@ -716,7 +716,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 189 (Third Party)</text>
     <roll description="Necrotic Damage">3d6</roll>
   </spell>
   <spell>
-    <name>Plague Wind (HB)</name>
+    <name>Plague Wind (TP)</name>
     <level>8</level>
     <school>C</school>
     <time>1 Action</time>
@@ -732,7 +732,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 193 (Third Party)</text>
     <roll description="Necrotic Damage">5d8</roll>
   </spell>
   <spell>
-    <name>Poison Needle (HB)</name>
+    <name>Poison Needle (TP)</name>
     <level>0</level>
     <school>C</school>
     <time>1 Action</time>
@@ -752,7 +752,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 186 (Third Party)</text>
     <roll description="Poison Damage" level="17">4d10</roll>
   </spell>
   <spell>
-    <name>Poison Wave (HB)</name>
+    <name>Poison Wave (TP)</name>
     <level>4</level>
     <school>C</school>
     <time>1 Action</time>
@@ -773,7 +773,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 190 (Third Party)</text>
     <roll description="Poison Damage" level="9">9d12</roll>
   </spell>
   <spell>
-    <name>Purge Contamination (HB)</name>
+    <name>Purge Contamination (TP)</name>
     <level>3</level>
     <school>A</school>
     <time>1 Hour</time>
@@ -786,7 +786,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 190 (Third Party)</text>
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 189 (Third Party)</text>
   </spell>
   <spell>
-    <name>Septic Shock (HB)</name>
+    <name>Septic Shock (TP)</name>
     <level>5</level>
     <school>N</school>
     <time>1 Action</time>
@@ -800,7 +800,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 192 (Third Party)</text>
     <roll description="Necrotic Damage">10d8</roll>
   </spell>
   <spell>
-    <name>Siphon Time (HB)</name>
+    <name>Siphon Time (TP)</name>
     <level>4</level>
     <school>T</school>
     <time>1 Action</time>
@@ -818,7 +818,7 @@ You seize upon the flow of time around up to three creatures of your choice with
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 196 (Third Party)</text>
   </spell>
   <spell>
-    <name>Storm of Contamination (HB)</name>
+    <name>Storm of Contamination (TP)</name>
     <level>6</level>
     <school>EV</school>
     <time>1 Action</time>
@@ -835,7 +835,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 197 (Third Party)</text>
     <roll description="Lightning Damage">10d12</roll>
   </spell>
   <spell>
-    <name>Stream of Consumption (HB)</name>
+    <name>Stream of Consumption (TP)</name>
     <level>1</level>
     <school>N</school>
     <time>1 Action</time>
@@ -850,7 +850,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 187 (Third Party)</text>
     <roll description="Heal">1d4+%0</roll>
   </spell>
   <spell>
-    <name>Summon Delerium Elemental (HB)</name>
+    <name>Summon Delerium Elemental (TP)</name>
     <level>4</level>
     <school>C</school>
     <time>1 Action</time>
@@ -869,7 +869,7 @@ At Higher Levels: When you cast this spell using a spell slot of 5th level or hi
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 196 (Third Party)</text>
   </spell>
   <spell>
-    <name>Summon the Thing with the Writhing Tail (HB)</name>
+    <name>Summon the Thing with the Writhing Tail (TP)</name>
     <level>4</level>
     <school>C</school>
     <time>1 Action</time>
@@ -887,7 +887,7 @@ At Higher Levels: When you cast this spell using a spell slot of 5th level or hi
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 190 (Third Party)</text>
   </spell>
   <spell>
-    <name>Touch of Death (HB)</name>
+    <name>Touch of Death (TP)</name>
     <level>9</level>
     <school>N</school>
     <time>1 Action</time>
@@ -901,7 +901,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 190 (Third Party)</text>
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 193 (Third Party)</text>
   </spell>
   <spell>
-    <name>Toxic Barrage (HB)</name>
+    <name>Toxic Barrage (TP)</name>
     <level>5</level>
     <school>C</school>
     <time>1 Action</time>
@@ -918,7 +918,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 192 (Third Party)</text>
     <roll description="Poison Damage">3d6</roll>
   </spell>
   <spell>
-    <name>Toxic Shield (HB)</name>
+    <name>Toxic Shield (TP)</name>
     <level>1</level>
     <school>C</school>
     <time>1 Action</time>
@@ -938,7 +938,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 187 (Third Party)</text>
     <roll description="Poison Damage" level="9">5d8</roll>
   </spell>
   <spell>
-    <name>Tranquilizing Toxin (HB)</name>
+    <name>Tranquilizing Toxin (TP)</name>
     <level>3</level>
     <school>EV</school>
     <time>1 Action</time>
@@ -960,7 +960,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 189 (Third Party)</text>
     <roll description="Poison Damage" level="9">14d6</roll>
   </spell>
   <spell>
-    <name>Unbind Gravity (HB)</name>
+    <name>Unbind Gravity (TP)</name>
     <level>7</level>
     <school>T</school>
     <time>1 Action</time>
@@ -978,7 +978,7 @@ This spell allows you to control gravity in a 100-foot-cube centered on a point 
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 198 (Third Party)</text>
   </spell>
   <spell>
-    <name>Vanish to the Space Between Worlds (HB)</name>
+    <name>Vanish to the Space Between Worlds (TP)</name>
     <level>3</level>
     <school>A</school>
     <time>1 Reaction, which you take when you take damage</time>
@@ -994,7 +994,7 @@ When you cast this spell, you vanish from your current plane of existence and ap
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 195 (Third Party)</text>
   </spell>
   <spell>
-    <name>Venomous Aura (HB)</name>
+    <name>Venomous Aura (TP)</name>
     <level>3</level>
     <school>T</school>
     <time>1 Bonus Action</time>
@@ -1007,7 +1007,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 195 (Third Party)</text>
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 189 (Third Party)</text>
   </spell>
   <spell>
-    <name>Vile Necrosis (HB)</name>
+    <name>Vile Necrosis (TP)</name>
     <level>6</level>
     <school>N</school>
     <time>1 Action</time>
@@ -1022,7 +1022,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 192 (Third Party)</text>
     <roll description="Necrotic Damage">12d6</roll>
   </spell>
   <spell>
-    <name>Vitriol Ichor (HB)</name>
+    <name>Vitriol Ichor (TP)</name>
     <level>4</level>
     <school>T</school>
     <time>1 Action</time>
@@ -1037,7 +1037,7 @@ At Higher Levels: When you cast this spell using a spell slot of 5th level or hi
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 191 (Third Party)</text>
   </spell>
   <spell>
-    <name>Weave the Elder Sign (HB)</name>
+    <name>Weave the Elder Sign (TP)</name>
     <level>3</level>
     <school>I</school>
     <time>1 Action</time>

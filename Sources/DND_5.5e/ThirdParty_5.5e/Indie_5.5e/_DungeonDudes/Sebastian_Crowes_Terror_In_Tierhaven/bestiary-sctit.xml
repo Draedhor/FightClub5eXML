@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Agog</name>
+    <name>Agog (TP)</name>
     <ancestry>Agog</ancestry>
     <size>M</size>
     <type>aberration</type>
@@ -23,40 +23,40 @@
     <conditionImmune/>
     <senses>darkvision 60 ft.</senses>
     <trait>
-      <name>Proficiency Bonus</name>
+      <name>Proficiency Bonus (TP)</name>
       <text>+2</text>
     </trait>
     <trait>
-      <name>Fully Contaminated</name>
+      <name>Fully Contaminated (TP)</name>
       <text>This creature is immune to contamination, and has advantage on saving throws against contaminated spells. This creature may cast contaminated spells even though it does not gain Contamination levels.</text>
     </trait>
     <trait>
-      <name>Delerium Healing</name>
+      <name>Delerium Healing (TP)</name>
       <text>As an action, the creature can touch a delerium shard to regain 10 (3d6) hit points. Once a monster has used a delerium shard in this way, the shard can't be used in this manner again for 24 hours.</text>
       <attack>Delerium Healing||3d6</attack>
     </trait>
     <trait>
-      <name>Alien Intellect</name>
+      <name>Alien Intellect (TP)</name>
       <text>The monster is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the creature's intentions or sincerity have Disadvantage.</text>
     </trait>
     <action>
-      <name>Multiattack</name>
+      <name>Multiattack (TP)</name>
       <text>The agog makes one Claw attack and one Bite attack.</text>
     </action>
     <action>
-      <name>Bite</name>
+      <name>Bite (TP)</name>
       <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 3 (1d6) acid damage.</text>
       <attack>Bite|+4|(1d8+2)+(1d6)</attack>
       <attack>Piercing Damage|+4|1d8+2</attack>
       <attack>Acid Damage||1d6</attack>
     </action>
     <action>
-      <name>Claws</name>
+      <name>Claws (TP)</name>
       <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage. If the target is Medium or smaller, it has the Prone condition.</text>
       <attack>Piercing Damage|+4|2d4+2</attack>
     </action>
     <action>
-      <name>Gobble (Bonus Action)</name>
+      <name>Gobble (Bonus Action) (TP)</name>
       <text>The agog makes a Bite attack against a Prone target.</text>
     </action>
     <description>This horrific thing has no shape or body resembling anything from the Mortal World. It roughly resembles a tree stump with four root-like legs each ending in a misshapen hoof. It has a wet, mottled, bark-like hide, and sprouting from the side of it like branches are knobbly arms ending in sharp claws. The top of its body is a gaping, tooth-filled mouth. It is shovelling chunks of horse-flesh into itself, and giggling as it swallows the ripped flesh. Whatever passes for arms, on the inside of the palm are yellow eyes.
@@ -75,7 +75,7 @@ Source:	Sebastian Crowes Terror in Tierhaven p. 18 (Third Party),
     <environment>swamp, grassland, forest, planar</environment>
   </monster>
   <monster>
-    <name>Allopine</name>
+    <name>Allopine (TP)</name>
     <ancestry>Allopine</ancestry>
     <size>S</size>
     <type>aberration</type>
@@ -99,33 +99,33 @@ Source:	Sebastian Crowes Terror in Tierhaven p. 18 (Third Party),
     <conditionImmune/>
     <senses>darkvision 60 ft.</senses>
     <trait>
-      <name>Proficiency Bonus</name>
+      <name>Proficiency Bonus (TP)</name>
       <text>+2</text>
     </trait>
     <trait>
-      <name>Fully Contaminated</name>
+      <name>Fully Contaminated (TP)</name>
       <text>This creature is immune to contamination, and has advantage on saving throws against contaminated spells. This creature may cast contaminated spells even though it does not gain Contamination levels.</text>
     </trait>
     <trait>
-      <name>Delerium Healing</name>
+      <name>Delerium Healing (TP)</name>
       <text>As an action, the creature can touch a delerium shard to regain 10 (3d6) hit points. Once a monster has used a delerium shard in this way, the shard can't be used in this manner again for 24 hours.</text>
       <attack>Delerium Healing||3d6</attack>
     </trait>
     <trait>
-      <name>Alien Intellect</name>
+      <name>Alien Intellect (TP)</name>
       <text>The monster is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the creature's intentions or sincerity have Disadvantage.</text>
     </trait>
     <action>
-      <name>Multiattack</name>
+      <name>Multiattack (TP)</name>
       <text>The allopine makes three Quill attacks.</text>
     </action>
     <action>
-      <name>Quill</name>
+      <name>Quill (TP)</name>
       <text>Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) Piercing Damage.</text>
       <attack>Piercing Damage|+4|1d6+2</attack>
     </action>
     <action>
-      <name>Nimble Escape (Bonus Action)</name>
+      <name>Nimble Escape (Bonus Action) (TP)</name>
       <text>The allopine takes the Disengage or Hide action.</text>
     </action>
     <description>This creature has gaunt and misshapen form, with the scaled body, tail, and head of an alligator, bony spokes covering its body like a porcupine, batlike wings, and long, spindly limbs.

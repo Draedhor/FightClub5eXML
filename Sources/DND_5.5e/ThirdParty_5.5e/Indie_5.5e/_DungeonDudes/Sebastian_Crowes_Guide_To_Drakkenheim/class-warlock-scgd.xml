@@ -5,13 +5,13 @@
     <!-- Otherworldly Patron: Cosmic Patron (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Otherworldly Patron: Cosmic Patron (HB)</name>
+        <name>Otherworldly Patron: Cosmic Patron (TP)</name>
         <text>Some warlocks gain their eldritch power from the very cosmos, answering to entities of space, the constellations, planets, and moons. A warlock swearing fealty to a Cosmic patron typically believes they speak to gods, or god-like beings, but these entities are shrouded in mystery, their appearance incomprehensible and horrible, and their divine power is bestowed into the warlock from the stars and galaxies beyond.
 
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 173 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Expanded Spell List (Cosmic Patron (HB))</name>
+        <name>Expanded Spell List (Cosmic Patron (TP))</name>
         <text>The Cosmos lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
 Cosmic Patron Spells:
@@ -25,7 +25,7 @@ Spell Level | Spell
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 173 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Cosmic Attributes (Cosmic Patron (HB))</name>
+        <name>Cosmic Attributes (Cosmic Patron (TP))</name>
         <text>You take on an otherworldly cosmic appearance or essence. Choose one or more of the attributes listed below, decide your own, or roll randomly to determine how the cosmic powers bestowed into you take form.
 
 Cosmic Attributes:
@@ -40,19 +40,19 @@ d6 | Cosmic Attribute
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 173 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Shooting Stars (Cosmic Patron (HB))</name>
+        <name>Shooting Stars (Cosmic Patron (TP))</name>
         <text>Beginning at first level, you learn the eldritch blast cantrip if you don't know it already. It doesn't count against the number of warlock cantrips you know. When you cast eldritch blast, you can have it deal radiant damage instead of force damage.
 
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 173 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Cosmic Guidance (Cosmic Patron (HB))</name>
+        <name>Cosmic Guidance (Cosmic Patron (TP))</name>
         <text>You can speak, read, and write Celestial and Deep Speech. In addition, you learn the guidance cantrip. It doesn't count against the number of warlock cantrips you know. Additionally, you may cast the spell augury once without expending a spell slot. You can't do so again until you finish a long rest.
 
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 173 (Third Party)</text>
       </feature>
       <counter>
-        <name>Cosmic Guidance</name>
+        <name>Cosmic Guidance (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Cosmic Patron (HB)</subclass>
@@ -60,7 +60,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 173 (Third Party)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Orbit (Cosmic Patron (HB))</name>
+        <name>Orbit (Cosmic Patron (TP))</name>
         <text>Once per turn when you miss a creature with eldritch blast, the beam returns to you as an orbiting comet around your head. While you have an orbiting comet, you can absorb its energy to do the following:
 
 	• Cosmic Power. Once on your turn when you cast eldritch blast, you can consume one orbiting comet to fire an additional beam.
@@ -76,7 +76,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 173 (Third Party)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Meteoric Impact (Cosmic Patron (HB))</name>
+        <name>Meteoric Impact (Cosmic Patron (TP))</name>
         <text>Once per turn when you hit a creature with eldritch blast, you can cause the beam to explode. Each creature within 10 feet of the target must succeed on a Dexterity saving throw or take 3d6 fire damage.
 	The damage increases to 4d6 damage at 14th level, and to 5d6 damage at 17th level.
 
@@ -88,7 +88,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 173 (Third Party)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Supernova (Cosmic Patron (HB))</name>
+        <name>Supernova (Cosmic Patron (TP))</name>
         <text>Charged by the energy of the stars, you gain additional benefits from the otherworldly entities lurking in the deep void of space.
 
 	• When you cast eldritch blast, you can fire one additional beam.
@@ -101,13 +101,13 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 173 (Third Party)</text>
     <!-- Otherworldly Patron: Flesh Patron (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Otherworldly Patron: Flesh Patron (HB)</name>
+        <name>Otherworldly Patron: Flesh Patron (TP)</name>
         <text>A Warlock of the Flesh has made a pact with an entity so alien and unknown that its mere existence is enough to cause madness in most people. These warlocks have allowed an alien entity to inhabit their bodies, answering to some ancient and eldritch thing from beyond comprehension. This entity creates a symbiotic relationship with the host, granting them powers while reshaping and twisting their form.
 
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 174 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Expanded Spell List (Flesh Patron (HB))</name>
+        <name>Expanded Spell List (Flesh Patron (TP))</name>
         <text>The Flesh lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
 Flesh Patron Spells:
@@ -121,14 +121,14 @@ Spell Level | Spell
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 174 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Unarmored Defense (Flesh Patron (HB))</name>
+        <name>Unarmored Defense (Flesh Patron (TP))</name>
         <text>While you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Constitution modifier.
 
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 174 (Third Party)</text>
         <special>Unarmored Defense: Constitution</special>
       </feature>
       <feature optional="YES">
-        <name>Reshape Flesh (Flesh Patron (HB))</name>
+        <name>Reshape Flesh (Flesh Patron (TP))</name>
         <text>As an action, you can take on a reshaped form, which lasts until you become incapacitated, use an action to change back, or use this feature again. When you do, choose from one of the reshaped forms below:
 
 	• Inverse Kneecaps. Your legs become more powerful, and your knees now bend the opposite direction. While in this form, you increase your walking speed by 10 feet, and you can double your long and high jump distance.
@@ -148,7 +148,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 174 (Third Party)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Body Modification (Flesh Patron (HB))</name>
+        <name>Body Modification (Flesh Patron (TP))</name>
         <text>When you choose your reshaped form, you can choose any two options available to you.
 	You gain the following additional options when you take on a reshaped form.
 
@@ -165,7 +165,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 174 (Third Party)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Physiological Mastery (Flesh Patron (HB))</name>
+        <name>Physiological Mastery (Flesh Patron (TP))</name>
         <text>You gain the following additional options when you take on a reshaped form.
 
 	• Aerial Adaptation. Feathered or batlike wings rip out of your back, you gain a flying speed equal to your walking speed.
@@ -180,7 +180,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 174 (Third Party)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Unfathomable Horror (Flesh Patron (HB))</name>
+        <name>Unfathomable Horror (Flesh Patron (TP))</name>
         <text>You can choose any three available options when you transform using your Reshape Flesh feature. Additionally, you are immune to any spell or effect that would alter your form against your will.
 
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 174 (Third Party)</text>
@@ -188,43 +188,43 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 174 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Magic Missile</name>
+    <name>Magic Missile (TP)</name>
     <classes>Warlock (Cosmic Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Faerie Fire</name>
+    <name>Faerie Fire (TP)</name>
     <classes>Warlock (Cosmic Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Moonbeam</name>
+    <name>Moonbeam (TP)</name>
     <classes>Warlock (Cosmic Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Scorching Ray</name>
+    <name>Scorching Ray (TP)</name>
     <classes>Warlock (Cosmic Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Blink</name>
+    <name>Blink (TP)</name>
     <classes>Warlock (Cosmic Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Spirit Guardians</name>
+    <name>Spirit Guardians (TP)</name>
     <classes>Warlock (Cosmic Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Fire Shield</name>
+    <name>Fire Shield (TP)</name>
     <classes>Warlock (Cosmic Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Wall of Fire</name>
+    <name>Wall of Fire (TP)</name>
     <classes>Warlock (Cosmic Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Flame Strike</name>
+    <name>Flame Strike (TP)</name>
     <classes>Warlock (Cosmic Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Greater Restoration</name>
+    <name>Greater Restoration (TP)</name>
     <classes>Warlock (Cosmic Patron (HB))</classes>
   </spell>
 </compendium>

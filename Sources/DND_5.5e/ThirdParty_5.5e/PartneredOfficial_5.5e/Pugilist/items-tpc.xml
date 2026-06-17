@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Brass Knuckles [5.5e]</name>
+    <name>Brass Knuckles (TP)</name>
     <detail>common</detail>
     <type>M</type>
     <weight>1</weight>
@@ -17,7 +17,7 @@ Proficiency: simple, brass knuckles
 Source:	Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Hand Claws [5.5e]</name>
+    <name>Hand Claws (TP)</name>
     <detail>common</detail>
     <type>M</type>
     <weight>2</weight>
@@ -35,7 +35,7 @@ Proficiency: simple, hand claws
 Source:	Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Punch Knife [5.5e]</name>
+    <name>Punch Knife (TP)</name>
     <detail>common</detail>
     <type>M</type>
     <weight>3</weight>
@@ -48,7 +48,7 @@ Proficiency: simple, punch knife
 Source:	Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Animated Inks (Uncommon) [5.5e]</name>
+    <name>Animated Inks (Uncommon) (TP)</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -59,7 +59,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
 Source:	Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Animated Inks (Rare) [5.5e]</name>
+    <name>Animated Inks (Rare) (TP)</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -70,7 +70,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
 Source:	Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Animated Inks (Very Rare) [5.5e]</name>
+    <name>Animated Inks (Very Rare) (TP)</name>
     <detail>very rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -81,7 +81,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
 Source:	Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Bonebreakers [5.5e]</name>
+    <name>Bonebreakers (TP)</name>
     <detail>brass knuckles, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -110,7 +110,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Bottle of Brew Tasting [5.5e]</name>
+    <name>Bottle of Brew Tasting (TP)</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -119,7 +119,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
 Source:	Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Bottomless Box of Treats [5.5e]</name>
+    <name>Bottomless Box of Treats (TP)</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -131,7 +131,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Club of Unconsciousness [5.5e]</name>
+    <name>Club of Unconsciousness (TP)</name>
     <detail>club, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -150,7 +150,7 @@ Source:	Ben Huffman - Pugilist,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Greatclub of Unconsciousness [5.5e]</name>
+    <name>Greatclub of Unconsciousness (TP)</name>
     <detail>greatclub, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -169,7 +169,7 @@ Source:	Ben Huffman - Pugilist,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Coin of Easy Living [5.5e]</name>
+    <name>Coin of Easy Living (TP)</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -180,7 +180,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Everfull Stein [5.5e]</name>
+    <name>Everfull Stein (TP)</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -191,7 +191,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Ferguson's Talons [5.5e]</name>
+    <name>Ferguson's Talons (TP)</name>
     <detail>hand claws, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -219,7 +219,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Last Rites Rum [5.5e]</name>
+    <name>Last Rites Rum (TP)</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -230,7 +230,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <roll description="Necrotic Damage">2d4</roll>
   </item>
   <item>
-    <name>Leather Jerkin (Rare) [5.5e]</name>
+    <name>Leather Jerkin (Rare) (TP)</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -240,7 +240,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Leather Jerkin (Very Rare) [5.5e]</name>
+    <name>Leather Jerkin (Very Rare) (TP)</name>
     <detail>very rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -250,7 +250,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <modifier category="bonus">ac +2</modifier>
   </item>
   <item>
-    <name>Leather Jerkin (Legendary) [5.5e]</name>
+    <name>Leather Jerkin (Legendary) (TP)</name>
     <detail>very rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -260,7 +260,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <modifier category="bonus">ac +3</modifier>
   </item>
   <item>
-    <name>Loaded Dice [5.5e]</name>
+    <name>Loaded Dice (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -274,7 +274,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <roll description="Recharge">1d6</roll>
   </item>
   <item>
-    <name>Mage Mashers [5.5e]</name>
+    <name>Mage Mashers (TP)</name>
     <detail>brass knuckles, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -293,7 +293,7 @@ Proficiency: simple, brass knuckles
 Source:	Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Medallion of Mettle [5.5e]</name>
+    <name>Medallion of Mettle (TP)</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -304,7 +304,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <roll description="Temporary Hit Points">1d6</roll>
   </item>
   <item>
-    <name>Mugfist Knuckles [5.5e]</name>
+    <name>Mugfist Knuckles (TP)</name>
     <detail>brass knuckles, uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -325,7 +325,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Penitent Pummelers [5.5e]</name>
+    <name>Penitent Pummelers (TP)</name>
     <detail>brass knuckles, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -347,7 +347,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <roll description="Radiant Damage">1d12</roll>
   </item>
   <item>
-    <name>Poundwise Porter [5.5e]</name>
+    <name>Poundwise Porter (TP)</name>
     <detail>very rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -357,7 +357,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
 Source:	Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Ramuh's Katar [5.5e]</name>
+    <name>Ramuh's Katar (TP)</name>
     <detail>punch knife, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -377,7 +377,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <roll description="Lightning Damage">2d6</roll>
   </item>
   <item>
-    <name>Ratbite [5.5e]</name>
+    <name>Ratbite (TP)</name>
     <detail>hand claws, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -401,7 +401,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <roll description="Necrotic Damage">2d4</roll>
   </item>
   <item>
-    <name>Salamander Sauce [5.5e]</name>
+    <name>Salamander Sauce (TP)</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -412,7 +412,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <roll description="Fire Damage">2d4</roll>
   </item>
   <item>
-    <name>Spiked Collar (Uncommon) [5.5e]</name>
+    <name>Spiked Collar (Uncommon) (TP)</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -421,7 +421,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
 Source:	Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Spiked Collar (Rare) [5.5e]</name>
+    <name>Spiked Collar (Rare) (TP)</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -430,7 +430,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
 Source:	Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Spiked Collar (Very Rare) [5.5e]</name>
+    <name>Spiked Collar (Very Rare) (TP)</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -439,7 +439,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
 Source:	Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Yggdrasil's Tap [5.5e]</name>
+    <name>Yggdrasil's Tap (TP)</name>
     <detail>punch knife, rare</detail>
     <type>M</type>
     <weight>3</weight>

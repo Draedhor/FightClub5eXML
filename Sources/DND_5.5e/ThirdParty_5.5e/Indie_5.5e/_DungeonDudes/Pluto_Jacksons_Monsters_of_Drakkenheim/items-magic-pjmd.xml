@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Double-Bladed Scimitar of Retribution</name>
+    <name>Double-Bladed Scimitar of Retribution (TP)</name>
     <detail>rare (requires attunement by a paladin)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -33,7 +33,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Greatsword of Retribution</name>
+    <name>Greatsword of Retribution (TP)</name>
     <detail>rare (requires attunement by a paladin)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -61,7 +61,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Longsword of Retribution</name>
+    <name>Longsword of Retribution (TP)</name>
     <detail>rare (requires attunement by a paladin)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -88,7 +88,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Rapier of Retribution</name>
+    <name>Rapier of Retribution (TP)</name>
     <detail>rare (requires attunement by a paladin)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -114,7 +114,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Scimitar of Retribution</name>
+    <name>Scimitar of Retribution (TP)</name>
     <detail>rare (requires attunement by a paladin)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -142,7 +142,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Shortsword of Retribution</name>
+    <name>Shortsword of Retribution (TP)</name>
     <detail>rare (requires attunement by a paladin)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -170,7 +170,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Hooked Shortspear</name>
+    <name>Champion's Hooked Shortspear (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -197,7 +197,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
     <roll description="DC">8+%1+%8</roll>
   </item>
   <item>
-    <name>Champion's Light Repeating Crossbow</name>
+    <name>Champion's Light Repeating Crossbow (TP)</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -231,7 +231,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Out of the Abyss p. 224</text>
   </item>
   <item>
-    <name>Champion's Hoopak</name>
+    <name>Champion's Hoopak (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -267,7 +267,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Champion's Yklwa</name>
+    <name>Champion's Yklwa (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -296,7 +296,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Tomb of Annihilation p. 32</text>
   </item>
   <item>
-    <name>Champion's Double-Bladed Scimitar</name>
+    <name>Champion's Double-Bladed Scimitar (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -326,7 +326,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Champion's Battleaxe</name>
+    <name>Champion's Battleaxe (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -351,7 +351,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Blowgun</name>
+    <name>Champion's Blowgun (TP)</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -383,7 +383,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Club</name>
+    <name>Champion's Club (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -407,7 +407,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Dagger</name>
+    <name>Champion's Dagger (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -438,7 +438,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Dart</name>
+    <name>Champion's Dart (TP)</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -467,7 +467,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Flail</name>
+    <name>Champion's Flail (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -489,7 +489,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Glaive</name>
+    <name>Champion's Glaive (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -517,7 +517,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Greataxe</name>
+    <name>Champion's Greataxe (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -543,7 +543,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Greatclub</name>
+    <name>Champion's Greatclub (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -567,7 +567,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Greatsword</name>
+    <name>Champion's Greatsword (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -593,7 +593,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Halberd</name>
+    <name>Champion's Halberd (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -621,7 +621,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Hand Crossbow</name>
+    <name>Champion's Hand Crossbow (TP)</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -655,7 +655,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Handaxe</name>
+    <name>Champion's Handaxe (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -684,7 +684,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Heavy Crossbow</name>
+    <name>Champion's Heavy Crossbow (TP)</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -720,7 +720,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Javelin</name>
+    <name>Champion's Javelin (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -747,7 +747,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Lance</name>
+    <name>Champion's Lance (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -773,7 +773,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Light Crossbow</name>
+    <name>Champion's Light Crossbow (TP)</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -807,7 +807,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Light Hammer</name>
+    <name>Champion's Light Hammer (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -836,7 +836,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Longbow</name>
+    <name>Champion's Longbow (TP)</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -870,7 +870,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Longsword</name>
+    <name>Champion's Longsword (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -895,7 +895,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Mace</name>
+    <name>Champion's Mace (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -917,7 +917,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Maul</name>
+    <name>Champion's Maul (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -943,7 +943,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Morningstar</name>
+    <name>Champion's Morningstar (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -965,7 +965,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Net</name>
+    <name>Champion's Net (TP)</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -992,7 +992,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Pike</name>
+    <name>Champion's Pike (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1020,7 +1020,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Quarterstaff</name>
+    <name>Champion's Quarterstaff (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1045,7 +1045,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Rapier</name>
+    <name>Champion's Rapier (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1069,7 +1069,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Scimitar</name>
+    <name>Champion's Scimitar (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1095,7 +1095,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Shortbow</name>
+    <name>Champion's Shortbow (TP)</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1127,7 +1127,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Shortsword</name>
+    <name>Champion's Shortsword (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1153,7 +1153,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Sickle</name>
+    <name>Champion's Sickle (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1177,7 +1177,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Sling</name>
+    <name>Champion's Sling (TP)</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1206,7 +1206,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Spear</name>
+    <name>Champion's Spear (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1236,7 +1236,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Staff</name>
+    <name>Champion's Staff (TP)</name>
     <detail>spellcasting focus, uncommon</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -1263,7 +1263,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Champion's Trident</name>
+    <name>Champion's Trident (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1293,7 +1293,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's War Pick</name>
+    <name>Champion's War Pick (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1315,7 +1315,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Warhammer</name>
+    <name>Champion's Warhammer (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1340,7 +1340,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Whip</name>
+    <name>Champion's Whip (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1366,7 +1366,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Champion's Wooden Staff</name>
+    <name>Champion's Wooden Staff (TP)</name>
     <detail>druidic focus, uncommon</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -1395,7 +1395,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Crimson Double-Bladed Scimitar</name>
+    <name>Crimson Double-Bladed Scimitar (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1429,7 +1429,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Crimson Greatsword</name>
+    <name>Crimson Greatsword (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1459,7 +1459,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Crimson Longsword</name>
+    <name>Crimson Longsword (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1488,7 +1488,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Crimson Rapier</name>
+    <name>Crimson Rapier (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1516,7 +1516,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Crimson Scimitar</name>
+    <name>Crimson Scimitar (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1546,7 +1546,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Crimson Shortsword</name>
+    <name>Crimson Shortsword (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1576,7 +1576,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Dazing Maul</name>
+    <name>Dazing Maul (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1606,7 +1606,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Dazing Warhammer</name>
+    <name>Dazing Warhammer (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1635,7 +1635,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Frozen Spiked Armor</name>
+    <name>Frozen Spiked Armor (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -1662,7 +1662,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
 		Sword Coast Adventurer's Guide p. 121</text>
   </item>
   <item>
-    <name>Frozen Breastplate</name>
+    <name>Frozen Breastplate (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -1686,7 +1686,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
 		Player's Handbook (2014) p. 145</text>
   </item>
   <item>
-    <name>Frozen Chain Mail</name>
+    <name>Frozen Chain Mail (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -1716,7 +1716,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
 		Player's Handbook (2014) p. 145</text>
   </item>
   <item>
-    <name>Frozen Chain Shirt</name>
+    <name>Frozen Chain Shirt (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -1740,7 +1740,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
 		Player's Handbook (2014) p. 144</text>
   </item>
   <item>
-    <name>Frozen Half Plate Armor</name>
+    <name>Frozen Half Plate Armor (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -1767,7 +1767,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
 		Player's Handbook (2014) p. 145</text>
   </item>
   <item>
-    <name>Frozen Hide Armor</name>
+    <name>Frozen Hide Armor (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -1791,7 +1791,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
 		Player's Handbook (2014) p. 144</text>
   </item>
   <item>
-    <name>Frozen Leather Armor</name>
+    <name>Frozen Leather Armor (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -1815,7 +1815,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
 		Player's Handbook (2014) p. 144</text>
   </item>
   <item>
-    <name>Frozen Padded Armor</name>
+    <name>Frozen Padded Armor (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -1842,7 +1842,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
 		Player's Handbook (2014) p. 144</text>
   </item>
   <item>
-    <name>Frozen Plate Armor</name>
+    <name>Frozen Plate Armor (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -1872,7 +1872,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
 		Player's Handbook (2014) p. 145</text>
   </item>
   <item>
-    <name>Frozen Ring Mail</name>
+    <name>Frozen Ring Mail (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -1899,7 +1899,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
 		Player's Handbook (2014) p. 145</text>
   </item>
   <item>
-    <name>Frozen Scale Mail</name>
+    <name>Frozen Scale Mail (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -1926,7 +1926,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
 		Player's Handbook (2014) p. 144</text>
   </item>
   <item>
-    <name>Frozen Splint Armor</name>
+    <name>Frozen Splint Armor (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -1956,7 +1956,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
 		Player's Handbook (2014) p. 145</text>
   </item>
   <item>
-    <name>Frozen Studded Leather Armor</name>
+    <name>Frozen Studded Leather Armor (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -1980,7 +1980,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
 		Player's Handbook (2014) p. 144</text>
   </item>
   <item>
-    <name>Maul of Chaos</name>
+    <name>Maul of Chaos (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2014,7 +2014,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 387 (Third Party),
     <roll description="Extra Damage">2d8</roll>
   </item>
   <item>
-    <name>Warhammer of Chaos</name>
+    <name>Warhammer of Chaos (TP)</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2047,7 +2047,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 387 (Third Party),
     <roll description="Extra Damage">2d8</roll>
   </item>
   <item>
-    <name>Inexhaustible Spiked Armor</name>
+    <name>Inexhaustible Spiked Armor (TP)</name>
     <detail>very rare (requires attunement by a fighter)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2075,7 +2075,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 388 (Third Party),
     <roll description="Heal">3d6</roll>
   </item>
   <item>
-    <name>Inexhaustible Breastplate</name>
+    <name>Inexhaustible Breastplate (TP)</name>
     <detail>very rare (requires attunement by a fighter)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2100,7 +2100,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 388 (Third Party),
     <roll description="Heal">3d6</roll>
   </item>
   <item>
-    <name>Inexhaustible Chain Mail</name>
+    <name>Inexhaustible Chain Mail (TP)</name>
     <detail>very rare (requires attunement by a fighter)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -2131,7 +2131,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 388 (Third Party),
     <roll description="Heal">3d6</roll>
   </item>
   <item>
-    <name>Inexhaustible Chain Shirt</name>
+    <name>Inexhaustible Chain Shirt (TP)</name>
     <detail>very rare (requires attunement by a fighter)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2156,7 +2156,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 388 (Third Party),
     <roll description="Heal">3d6</roll>
   </item>
   <item>
-    <name>Inexhaustible Half Plate Armor</name>
+    <name>Inexhaustible Half Plate Armor (TP)</name>
     <detail>very rare (requires attunement by a fighter)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2184,7 +2184,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 388 (Third Party),
     <roll description="Heal">3d6</roll>
   </item>
   <item>
-    <name>Inexhaustible Hide Armor</name>
+    <name>Inexhaustible Hide Armor (TP)</name>
     <detail>very rare (requires attunement by a fighter)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2209,7 +2209,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 388 (Third Party),
     <roll description="Heal">3d6</roll>
   </item>
   <item>
-    <name>Inexhaustible Leather Armor</name>
+    <name>Inexhaustible Leather Armor (TP)</name>
     <detail>very rare (requires attunement by a fighter)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -2234,7 +2234,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 388 (Third Party),
     <roll description="Heal">3d6</roll>
   </item>
   <item>
-    <name>Inexhaustible Padded Armor</name>
+    <name>Inexhaustible Padded Armor (TP)</name>
     <detail>very rare (requires attunement by a fighter)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -2262,7 +2262,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 388 (Third Party),
     <roll description="Heal">3d6</roll>
   </item>
   <item>
-    <name>Inexhaustible Plate Armor</name>
+    <name>Inexhaustible Plate Armor (TP)</name>
     <detail>very rare (requires attunement by a fighter)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -2293,7 +2293,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 388 (Third Party),
     <roll description="Heal">3d6</roll>
   </item>
   <item>
-    <name>Inexhaustible Ring Mail</name>
+    <name>Inexhaustible Ring Mail (TP)</name>
     <detail>very rare (requires attunement by a fighter)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -2321,7 +2321,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 388 (Third Party),
     <roll description="Heal">3d6</roll>
   </item>
   <item>
-    <name>Inexhaustible Scale Mail</name>
+    <name>Inexhaustible Scale Mail (TP)</name>
     <detail>very rare (requires attunement by a fighter)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2349,7 +2349,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 388 (Third Party),
     <roll description="Heal">3d6</roll>
   </item>
   <item>
-    <name>Inexhaustible Splint Armor</name>
+    <name>Inexhaustible Splint Armor (TP)</name>
     <detail>very rare (requires attunement by a fighter)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -2380,7 +2380,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 388 (Third Party),
     <roll description="Heal">3d6</roll>
   </item>
   <item>
-    <name>Inexhaustible Studded Leather Armor</name>
+    <name>Inexhaustible Studded Leather Armor (TP)</name>
     <detail>very rare (requires attunement by a fighter)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -2405,7 +2405,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 388 (Third Party),
     <roll description="Heal">3d6</roll>
   </item>
   <item>
-    <name>Injector's Light Repeating Crossbow</name>
+    <name>Injector's Light Repeating Crossbow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -2448,7 +2448,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 388 (Third Party),
     <roll description="Poison Damage">2d6</roll>
   </item>
   <item>
-    <name>Injector's Crossbow Bolt</name>
+    <name>Injector's Crossbow Bolt (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -2478,7 +2478,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 388 (Third Party),
     <roll description="Poison Damage">2d6</roll>
   </item>
   <item>
-    <name>Injector's Crossbow Bolts (20)</name>
+    <name>Injector's Crossbow Bolts (20) (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -2508,7 +2508,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 388 (Third Party),
     <roll description="Poison Damage">2d6</roll>
   </item>
   <item>
-    <name>Injector's Hand Crossbow</name>
+    <name>Injector's Hand Crossbow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -2551,7 +2551,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 388 (Third Party),
     <roll description="Poison Damage">2d6</roll>
   </item>
   <item>
-    <name>Injector's Heavy Crossbow</name>
+    <name>Injector's Heavy Crossbow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -2596,7 +2596,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 388 (Third Party),
     <roll description="Poison Damage">2d6</roll>
   </item>
   <item>
-    <name>Injector's Light Crossbow</name>
+    <name>Injector's Light Crossbow (TP)</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -2639,7 +2639,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 388 (Third Party),
     <roll description="Poison Damage">2d6</roll>
   </item>
   <item>
-    <name>Monster Hunter's Hooked Shortspear +1</name>
+    <name>Monster Hunter's Hooked Shortspear +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2671,7 +2671,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <roll description="DC">8+%1+%8</roll>
   </item>
   <item>
-    <name>Monster Hunter's Light Repeating Crossbow +1</name>
+    <name>Monster Hunter's Light Repeating Crossbow +1 (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -2710,7 +2710,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Hoopak +1</name>
+    <name>Monster Hunter's Hoopak +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2751,7 +2751,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Monster Hunter's Yklwa +1</name>
+    <name>Monster Hunter's Yklwa +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2785,7 +2785,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Double-Bladed Scimitar +1</name>
+    <name>Monster Hunter's Double-Bladed Scimitar +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2820,7 +2820,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Monster Hunter's Battleaxe +1</name>
+    <name>Monster Hunter's Battleaxe +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2850,7 +2850,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Blowgun +1</name>
+    <name>Monster Hunter's Blowgun +1 (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -2887,7 +2887,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Club +1</name>
+    <name>Monster Hunter's Club +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2916,7 +2916,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Dagger +1</name>
+    <name>Monster Hunter's Dagger +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2952,7 +2952,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Dart +1</name>
+    <name>Monster Hunter's Dart +1 (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -2986,7 +2986,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Flail +1</name>
+    <name>Monster Hunter's Flail +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3013,7 +3013,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Glaive +1</name>
+    <name>Monster Hunter's Glaive +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3046,7 +3046,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Greataxe +1</name>
+    <name>Monster Hunter's Greataxe +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3077,7 +3077,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Greatclub +1</name>
+    <name>Monster Hunter's Greatclub +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3106,7 +3106,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Greatsword +1</name>
+    <name>Monster Hunter's Greatsword +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3137,7 +3137,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Halberd +1</name>
+    <name>Monster Hunter's Halberd +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3170,7 +3170,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Hand Crossbow +1</name>
+    <name>Monster Hunter's Hand Crossbow +1 (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -3209,7 +3209,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Handaxe +1</name>
+    <name>Monster Hunter's Handaxe +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3243,7 +3243,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Heavy Crossbow +1</name>
+    <name>Monster Hunter's Heavy Crossbow +1 (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -3284,7 +3284,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Javelin +1</name>
+    <name>Monster Hunter's Javelin +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3316,7 +3316,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Lance +1</name>
+    <name>Monster Hunter's Lance +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3347,7 +3347,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Light Crossbow +1</name>
+    <name>Monster Hunter's Light Crossbow +1 (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -3386,7 +3386,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Light Hammer +1</name>
+    <name>Monster Hunter's Light Hammer +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3420,7 +3420,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Longbow +1</name>
+    <name>Monster Hunter's Longbow +1 (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -3459,7 +3459,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Longsword +1</name>
+    <name>Monster Hunter's Longsword +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3489,7 +3489,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Mace +1</name>
+    <name>Monster Hunter's Mace +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3516,7 +3516,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Maul +1</name>
+    <name>Monster Hunter's Maul +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3547,7 +3547,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Morningstar +1</name>
+    <name>Monster Hunter's Morningstar +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3574,7 +3574,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Net +1</name>
+    <name>Monster Hunter's Net +1 (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -3606,7 +3606,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Pike +1</name>
+    <name>Monster Hunter's Pike +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3639,7 +3639,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Quarterstaff +1</name>
+    <name>Monster Hunter's Quarterstaff +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3669,7 +3669,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Rapier +1</name>
+    <name>Monster Hunter's Rapier +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3698,7 +3698,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Scimitar +1</name>
+    <name>Monster Hunter's Scimitar +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3729,7 +3729,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Shortbow +1</name>
+    <name>Monster Hunter's Shortbow +1 (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -3766,7 +3766,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Shortsword +1</name>
+    <name>Monster Hunter's Shortsword +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3797,7 +3797,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Sickle +1</name>
+    <name>Monster Hunter's Sickle +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3826,7 +3826,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Sling +1</name>
+    <name>Monster Hunter's Sling +1 (TP)</name>
     <detail>rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -3860,7 +3860,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Spear +1</name>
+    <name>Monster Hunter's Spear +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3895,7 +3895,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Trident +1</name>
+    <name>Monster Hunter's Trident +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3930,7 +3930,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's War Pick +1</name>
+    <name>Monster Hunter's War Pick +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3957,7 +3957,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Warhammer +1</name>
+    <name>Monster Hunter's Warhammer +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3987,7 +3987,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Whip +1</name>
+    <name>Monster Hunter's Whip +1 (TP)</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4018,7 +4018,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Hooked Shortspear +2</name>
+    <name>Monster Hunter's Hooked Shortspear +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4050,7 +4050,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <roll description="DC">8+%1+%8</roll>
   </item>
   <item>
-    <name>Monster Hunter's Light Repeating Crossbow +2</name>
+    <name>Monster Hunter's Light Repeating Crossbow +2 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -4089,7 +4089,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Hoopak +2</name>
+    <name>Monster Hunter's Hoopak +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4130,7 +4130,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Monster Hunter's Yklwa +2</name>
+    <name>Monster Hunter's Yklwa +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4164,7 +4164,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Double-Bladed Scimitar +2</name>
+    <name>Monster Hunter's Double-Bladed Scimitar +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4199,7 +4199,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Monster Hunter's Battleaxe +2</name>
+    <name>Monster Hunter's Battleaxe +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4229,7 +4229,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Blowgun +2</name>
+    <name>Monster Hunter's Blowgun +2 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -4266,7 +4266,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Club +2</name>
+    <name>Monster Hunter's Club +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4295,7 +4295,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Dagger +2</name>
+    <name>Monster Hunter's Dagger +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4331,7 +4331,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Dart +2</name>
+    <name>Monster Hunter's Dart +2 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -4365,7 +4365,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Flail +2</name>
+    <name>Monster Hunter's Flail +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4392,7 +4392,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Glaive +2</name>
+    <name>Monster Hunter's Glaive +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4425,7 +4425,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Greataxe +2</name>
+    <name>Monster Hunter's Greataxe +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4456,7 +4456,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Greatclub +2</name>
+    <name>Monster Hunter's Greatclub +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4485,7 +4485,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Greatsword +2</name>
+    <name>Monster Hunter's Greatsword +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4516,7 +4516,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Halberd +2</name>
+    <name>Monster Hunter's Halberd +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4549,7 +4549,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Hand Crossbow +2</name>
+    <name>Monster Hunter's Hand Crossbow +2 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -4588,7 +4588,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Handaxe +2</name>
+    <name>Monster Hunter's Handaxe +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4622,7 +4622,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Heavy Crossbow +2</name>
+    <name>Monster Hunter's Heavy Crossbow +2 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -4663,7 +4663,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Javelin +2</name>
+    <name>Monster Hunter's Javelin +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4695,7 +4695,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Lance +2</name>
+    <name>Monster Hunter's Lance +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4726,7 +4726,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Light Crossbow +2</name>
+    <name>Monster Hunter's Light Crossbow +2 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -4765,7 +4765,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Light Hammer +2</name>
+    <name>Monster Hunter's Light Hammer +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4799,7 +4799,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Longbow +2</name>
+    <name>Monster Hunter's Longbow +2 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -4838,7 +4838,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Longsword +2</name>
+    <name>Monster Hunter's Longsword +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4868,7 +4868,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Mace +2</name>
+    <name>Monster Hunter's Mace +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4895,7 +4895,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Maul +2</name>
+    <name>Monster Hunter's Maul +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4926,7 +4926,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Morningstar +2</name>
+    <name>Monster Hunter's Morningstar +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4953,7 +4953,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Net +2</name>
+    <name>Monster Hunter's Net +2 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -4985,7 +4985,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Pike +2</name>
+    <name>Monster Hunter's Pike +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5018,7 +5018,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Quarterstaff +2</name>
+    <name>Monster Hunter's Quarterstaff +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5048,7 +5048,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Rapier +2</name>
+    <name>Monster Hunter's Rapier +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5077,7 +5077,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Scimitar +2</name>
+    <name>Monster Hunter's Scimitar +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5108,7 +5108,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Shortbow +2</name>
+    <name>Monster Hunter's Shortbow +2 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -5145,7 +5145,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Shortsword +2</name>
+    <name>Monster Hunter's Shortsword +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5176,7 +5176,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Sickle +2</name>
+    <name>Monster Hunter's Sickle +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5205,7 +5205,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Sling +2</name>
+    <name>Monster Hunter's Sling +2 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -5239,7 +5239,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Spear +2</name>
+    <name>Monster Hunter's Spear +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5274,7 +5274,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Trident +2</name>
+    <name>Monster Hunter's Trident +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5309,7 +5309,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's War Pick +2</name>
+    <name>Monster Hunter's War Pick +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5336,7 +5336,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Warhammer +2</name>
+    <name>Monster Hunter's Warhammer +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5366,7 +5366,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Whip +2</name>
+    <name>Monster Hunter's Whip +2 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5397,7 +5397,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Hooked Shortspear +3</name>
+    <name>Monster Hunter's Hooked Shortspear +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5429,7 +5429,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <roll description="DC">8+%1+%8</roll>
   </item>
   <item>
-    <name>Monster Hunter's Light Repeating Crossbow +3</name>
+    <name>Monster Hunter's Light Repeating Crossbow +3 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -5468,7 +5468,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Hoopak +3</name>
+    <name>Monster Hunter's Hoopak +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5509,7 +5509,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Monster Hunter's Yklwa +3</name>
+    <name>Monster Hunter's Yklwa +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5543,7 +5543,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Double-Bladed Scimitar +3</name>
+    <name>Monster Hunter's Double-Bladed Scimitar +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5578,7 +5578,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Monster Hunter's Battleaxe +3</name>
+    <name>Monster Hunter's Battleaxe +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5608,7 +5608,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Blowgun +3</name>
+    <name>Monster Hunter's Blowgun +3 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -5645,7 +5645,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Club +3</name>
+    <name>Monster Hunter's Club +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5674,7 +5674,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Dagger +3</name>
+    <name>Monster Hunter's Dagger +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5710,7 +5710,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Dart +3</name>
+    <name>Monster Hunter's Dart +3 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -5744,7 +5744,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Flail +3</name>
+    <name>Monster Hunter's Flail +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5771,7 +5771,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Glaive +3</name>
+    <name>Monster Hunter's Glaive +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5804,7 +5804,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Greataxe +3</name>
+    <name>Monster Hunter's Greataxe +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5835,7 +5835,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Greatclub +3</name>
+    <name>Monster Hunter's Greatclub +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5864,7 +5864,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Greatsword +3</name>
+    <name>Monster Hunter's Greatsword +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5895,7 +5895,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Halberd +3</name>
+    <name>Monster Hunter's Halberd +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5928,7 +5928,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Hand Crossbow +3</name>
+    <name>Monster Hunter's Hand Crossbow +3 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -5967,7 +5967,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Handaxe +3</name>
+    <name>Monster Hunter's Handaxe +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6001,7 +6001,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Heavy Crossbow +3</name>
+    <name>Monster Hunter's Heavy Crossbow +3 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -6042,7 +6042,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Javelin +3</name>
+    <name>Monster Hunter's Javelin +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6074,7 +6074,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Lance +3</name>
+    <name>Monster Hunter's Lance +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6105,7 +6105,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Light Crossbow +3</name>
+    <name>Monster Hunter's Light Crossbow +3 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -6144,7 +6144,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Light Hammer +3</name>
+    <name>Monster Hunter's Light Hammer +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6178,7 +6178,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Longbow +3</name>
+    <name>Monster Hunter's Longbow +3 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -6217,7 +6217,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Longsword +3</name>
+    <name>Monster Hunter's Longsword +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6247,7 +6247,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Mace +3</name>
+    <name>Monster Hunter's Mace +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6274,7 +6274,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Maul +3</name>
+    <name>Monster Hunter's Maul +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6305,7 +6305,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Morningstar +3</name>
+    <name>Monster Hunter's Morningstar +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6332,7 +6332,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Net +3</name>
+    <name>Monster Hunter's Net +3 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -6364,7 +6364,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Pike +3</name>
+    <name>Monster Hunter's Pike +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6397,7 +6397,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Quarterstaff +3</name>
+    <name>Monster Hunter's Quarterstaff +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6427,7 +6427,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Rapier +3</name>
+    <name>Monster Hunter's Rapier +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6456,7 +6456,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Scimitar +3</name>
+    <name>Monster Hunter's Scimitar +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6487,7 +6487,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Shortbow +3</name>
+    <name>Monster Hunter's Shortbow +3 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -6524,7 +6524,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Shortsword +3</name>
+    <name>Monster Hunter's Shortsword +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6555,7 +6555,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Sickle +3</name>
+    <name>Monster Hunter's Sickle +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6584,7 +6584,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Sling +3</name>
+    <name>Monster Hunter's Sling +3 (TP)</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -6618,7 +6618,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Spear +3</name>
+    <name>Monster Hunter's Spear +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6653,7 +6653,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Trident +3</name>
+    <name>Monster Hunter's Trident +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6688,7 +6688,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's War Pick +3</name>
+    <name>Monster Hunter's War Pick +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6715,7 +6715,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Warhammer +3</name>
+    <name>Monster Hunter's Warhammer +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6745,7 +6745,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Monster Hunter's Whip +3</name>
+    <name>Monster Hunter's Whip +3 (TP)</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6776,7 +6776,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 390 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Necromancer's Leather Armor</name>
+    <name>Necromancer's Leather Armor (TP)</name>
     <detail>rare (requires attunement by a spellcaster)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -6802,7 +6802,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 144</text>
   </item>
   <item>
-    <name>Necromancer's Padded Armor</name>
+    <name>Necromancer's Padded Armor (TP)</name>
     <detail>rare (requires attunement by a spellcaster)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -6831,7 +6831,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 144</text>
   </item>
   <item>
-    <name>Necromancer's Studded Leather Armor</name>
+    <name>Necromancer's Studded Leather Armor (TP)</name>
     <detail>rare (requires attunement by a spellcaster)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -6857,7 +6857,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 383 (Third Party),
 		Player's Handbook (2014) p. 144</text>
   </item>
   <item>
-    <name>Double-Bladed Scimitar Between Worlds</name>
+    <name>Double-Bladed Scimitar Between Worlds (TP)</name>
     <detail>cursed, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6896,7 +6896,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Greatsword Between Worlds</name>
+    <name>Greatsword Between Worlds (TP)</name>
     <detail>cursed, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6931,7 +6931,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Longsword Between Worlds</name>
+    <name>Longsword Between Worlds (TP)</name>
     <detail>cursed, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6965,7 +6965,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Rapier Between Worlds</name>
+    <name>Rapier Between Worlds (TP)</name>
     <detail>cursed, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6998,7 +6998,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Scimitar Between Worlds</name>
+    <name>Scimitar Between Worlds (TP)</name>
     <detail>cursed, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -7033,7 +7033,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 384 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Shortsword Between Worlds</name>
+    <name>Shortsword Between Worlds (TP)</name>
     <detail>cursed, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>

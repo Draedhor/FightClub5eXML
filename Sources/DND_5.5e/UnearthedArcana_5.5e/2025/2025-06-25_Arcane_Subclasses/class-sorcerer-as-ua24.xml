@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Sorcerer</name>
+    <name>Sorcerer (UA)</name>
     <!-- Sorcerer Subclass: Ancestral Sorcery (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -71,51 +71,51 @@ Source:	UA25-ArcaneSubclasses p. 6</text>
     </autolevel>
   </class>
   <spell>
-    <name>Command [2024]</name>
+    <name>Command (UA)</name>
     <classes>Sorcerer (Ancestral Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Guidance [2024]</name>
+    <name>Guidance (UA)</name>
     <classes>Sorcerer (Ancestral Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Locate Object [2024]</name>
+    <name>Locate Object (UA)</name>
     <classes>Sorcerer (Ancestral Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Protection from Evil and Good [2024]</name>
+    <name>Protection from Evil and Good (UA)</name>
     <classes>Sorcerer (Ancestral Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Resistance [2024]</name>
+    <name>Resistance (UA)</name>
     <classes>Sorcerer (Ancestral Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Spiritual Weapon [2024]</name>
+    <name>Spiritual Weapon (UA)</name>
     <classes>Sorcerer (Ancestral Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Magic Circle [2024]</name>
+    <name>Magic Circle (UA)</name>
     <classes>Sorcerer (Ancestral Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Spirit Guardians [2024]</name>
+    <name>Spirit Guardians (UA)</name>
     <classes>Sorcerer (Ancestral Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Divination [2024]</name>
+    <name>Divination (UA)</name>
     <classes>Sorcerer (Ancestral Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Locate Creature [2024]</name>
+    <name>Locate Creature (UA)</name>
     <classes>Sorcerer (Ancestral Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Legend Lore [2024]</name>
+    <name>Legend Lore (UA)</name>
     <classes>Sorcerer (Ancestral Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Yolande's Regal Presence [2024]</name>
+    <name>Yolande's Regal Presence (UA)</name>
     <classes>Sorcerer (Ancestral Sorcery (UA))</classes>
   </spell>
 </compendium>

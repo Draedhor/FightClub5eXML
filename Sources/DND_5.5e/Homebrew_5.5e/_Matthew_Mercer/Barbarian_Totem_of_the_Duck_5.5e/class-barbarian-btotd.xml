@@ -19,13 +19,13 @@ Quack quack, mother ****er.
 Source:	Matt Mercer - Totem of the Duck p. 1 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Spirit Seeker (Totem of the Duck)</name>
+        <name>Spirit Seeker (Totem of the Duck) (TP)</name>
         <text>Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. At 3rd level when you adopt this path, you gain the ability to cast the beast sense and speak with animals spells, but only as rituals, as described in chapter 10 of the PHB.
 
 Source:	Matt Mercer - Totem of the Duck p. 2 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Feathered Spirit (Totem of the Duck)</name>
+        <name>Feathered Spirit (Totem of the Duck) (TP)</name>
         <text>At 3rd level, when you adopt this path, you choose a duck as your totem spirit and gain its feature. You must make or acquire a physical totem object an amulet or similar adornment that incorporates feathers. bones, iconography, or crude, cartoonish drawings of a duck. At your option, you also gain minor physical or mental attributes that are reminiscent of a duck. For example. you may develop feathers in certain areas of your body that require consistent grooming, or subconsciously quack to yourself when confused or met with an unnerving sound.
 	Your totem animal might be an animal related to a duck, though more appropriate to your homeland, but let's be honest... It's a duck. Why else would you be reading this?
 
@@ -36,7 +36,7 @@ Source:	Matt Mercer - Totem of the Duck p. 2 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Aspect of the Mallard (Totem of the Duck)</name>
+        <name>Aspect of the Mallard (Totem of the Duck) (TP)</name>
         <text>At 6th level, you gain a magical benefit based on the totem animal of your choice. You can choose a different animal than the duck provided in the Totem Warrior path, but once again... You want the duck.
 
 	Duck. You gain resistance to acid damage, as the liquid mostly slides of your strangely waxy exterior. In addition, you gain a swim speed equal to your walking speed.
@@ -46,7 +46,7 @@ Source:	Matt Mercer - Totem of the Duck p. 2 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Spirit walker (Totem of the Duck)</name>
+        <name>Spirit walker (Totem of the Duck) (TP)</name>
         <text>At 10th level, you can cast the commune with nature spell, but only as a ritual. When you do so, a spiritual version of one of the animals you chose for Totem Spirit or Aspect of the Beast (let's just assume a duck) appears to you to convey the information you seek.
 
 Source:	Matt Mercer - Totem of the Duck p. 2 (Homebrew)</text>
@@ -54,7 +54,7 @@ Source:	Matt Mercer - Totem of the Duck p. 2 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Ducktemic Attunement (Totem of the Duck)</name>
+        <name>Ducktemic Attunement (Totem of the Duck) (TP)</name>
         <text>At 14th level, you gain a magical benefit based on a totem animal of your choice. You can choose the same animal you selected previously or a different one, but if you've come this far, don't be a dick. Choose the duck.
 
 	Duck. While raging, if you hit a creature with a melee attack on your turn, you can forgo one of your other attacks to flap your arms while honking and flailing at that same target. The creature must succeed on a Wisdom saving throw (DC = 8 + your proficiency modifier + your Charisma modifier) or be frightened of you until the end of your next turn.

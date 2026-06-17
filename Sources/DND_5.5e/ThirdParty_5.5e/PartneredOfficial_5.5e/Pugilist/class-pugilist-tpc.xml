@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Pugilist (Ben Huffman) [5.5e]</name>
+    <name>Pugilist (Ben Huffman) (TP)</name>
     <hd>10</hd>
     <proficiency>Strength, Constitution, Acrobatics, Athletics, Deception, Intimidation, Perception, Sleight of Hand, Stealth</proficiency>
     <numSkills>2</numSkills>
@@ -11,7 +11,7 @@
     <wealth>4d4x10</wealth>
     <slotsReset>S</slotsReset>
     <trait>
-      <name>The Pugilist</name>
+      <name>The Pugilist (TP)</name>
       <text>Pugilists live a rough and tumble life that leaves them full of determination and recklessness, either from overconfidence or desperation. In a fight, they channel this strength of character to dig deep and snatch victory from the jaws of defeat, even when outarmed and outnumbered. Even when they ultimately fail, Pugilists go down swinging.
 	Pugilists tap into their inner strength in the form of moxie. This is not an esoteric or mystical energy that flows through the multiverse, but the result of self-confidence and determination forged over a lifetime of hardship with a never-say-die attitude.
 	Anyone can be taught how to fist fight but accessing the strength and resilience of the Pugilist can't. The secret of mastering moxie doesn't come from disciplined study or rigorous training, it comes from years of wanting and needing.
@@ -21,7 +21,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </trait>
     <autolevel level="1">
       <feature optional="YES">
-        <name>Becoming A Pugilist As A Level 1 Character</name>
+        <name>Becoming A Pugilist As A Level 1 Character (TP)</name>
         <text>As a 1st-level Pugilist, you begin play with 10 + your Constitution modifier hit points.
 
 Core Pugilist Traits
@@ -37,14 +37,14 @@ Starting Equipment: Choose A or B: (A) Club, Handaxe, Gaming Set (chosen for the
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Becoming A Pugilist As A Multiclass Character</name>
+        <name>Becoming A Pugilist As A Multiclass Character (TP)</name>
         <text>Core Pugilist Traits
 Hit Point Die: D10 per Pugilist level
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Multiclass Features</name>
+        <name>Multiclass Features (TP)</name>
         <text>When you gain a new level in a class, you get its features for that level. You don't, however, receive the class's starting equipment, and a few features have additional rules when you're multiclassing: Channel Divinity, Extra Attack, Unarmored Defense, and Spellcasting.
 
 Channel Divinity:
@@ -76,7 +76,7 @@ If you have both the Spellcasting class feature and the Pact Magic class feature
 Source:	Player's Handbook (2014) p. 164</text>
       </feature>
       <feature>
-        <name>Level 1: Fisticuffs</name>
+        <name>Fisticuffs (TP)</name>
         <text>Your years of fighting in back alleys and taverns have given you mastery over combat styles that use Unarmed Strikes and Pugilist weapons, which are the following:
 
 Simple Melee weapons
@@ -94,7 +94,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
         <roll description="Unarmed Damage">1d8</roll>
       </feature>
       <feature>
-        <name>Level 1: Iron Chin</name>
+        <name>Iron Chin (TP)</name>
         <text>While you are wearing Light or no armor and not wielding a Shield, your base Armor Class equals 12 plus your Constitution modifier.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
@@ -103,7 +103,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
     <autolevel level="2">
       <feature>
-        <name>Level 2: Moxie</name>
+        <name>Moxie (TP)</name>
         <text>Your experiences of beating the odds have given you a moxie you can channel in the midst of battle. This swagger is represented by a number of Moxie Points. Your Pugilist level determines the maximum number of points you have, as shown in the Moxie Points column of the Pugilist Features table.
 	You can spend these points to enhance or fuel certain Pugilist features. You start knowing three such features: Brace Up, One-Two Punch, and Stick and Move, each of which is detailed below.
 	When you expend a Moxie Point, it is unavailable until you finish a Short or Long Rest, at the end of which you regain all your expended points.
@@ -117,76 +117,76 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <feature>
-        <name>Level 2: Bloodied But Unbowed</name>
+        <name>Bloodied But Unbowed (TP)</name>
         <text>When you take damage, you can take a Reaction to regain all your expended Moxie Points. If you are Bloodied when you take this Reaction, you also gain Temporary Hit Points equal to four times your Pugilist level. These Temporary Hit Points vanish if any remain when you finish a Short Rest.
 	Once you use this feature, you can't use it again until you finish a Short or Long Rest.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <feature>
-        <name>Level 2: Swagger Streak</name>
+        <name>Swagger Streak (TP)</name>
         <text>When you fail a Strength, Dexterity, Constitution, or Charisma check, you can expend a Moxie Point to attempt to swagger your way to success. Roll your Fisticuffs die and add the number rolled to the ability check, potentially turning it into a success. If the ability check still fails, you regain the expended Moxie Point and can't use this feature again until you finish a Short or Long Rest.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <counter>
-        <name>Moxie</name>
+        <name>Moxie (TP)</name>
         <value>2</value>
         <reset>S</reset>
       </counter>
       <counter>
-        <name>Bloodied But Unbowed</name>
+        <name>Bloodied But Unbowed (TP)</name>
         <value>1</value>
         <reset>S</reset>
       </counter>
     </autolevel>
     <autolevel level="3">
       <feature>
-        <name>Level 3: Heavy Hitter</name>
+        <name>Heavy Hitter (TP)</name>
         <text>When you hit a creature with an Unarmed Strike, you can use both the Damage and your choice of the Grapple or Shove option.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <counter>
-        <name>Swagger Streak</name>
+        <name>Swagger Streak (TP)</name>
         <value>1</value>
         <reset>L</reset>
       </counter>
     </autolevel>
     <autolevel level="4" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Level 4: Ability Score Improvement</name>
+        <name>Ability Score Improvement (TP)</name>
         <text>You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Pugilist levels 8, 12, and 16.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <feature>
-        <name>Level 4: Dig Deep</name>
+        <name>Dig Deep (TP)</name>
         <text>You can use a Bonus Action to dig deep. For 10 minutes, you have Resistance to Bludgeoning, Piercing, and Slashing damage and you ignore the effects of Exhaustion levels less than 6.
 	Once you use this feature, you can't use it again until you finish a Long Rest unless you gain 1 Exhaustion level (no action required by you) to restore your use of it.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <counter>
-        <name>Moxie</name>
+        <name>Moxie (TP)</name>
         <value>3</value>
         <reset>S</reset>
       </counter>
       <counter>
-        <name>Dig Deep</name>
+        <name>Dig Deep (TP)</name>
         <value>1</value>
         <reset>L</reset>
       </counter>
     </autolevel>
     <autolevel level="5">
       <feature>
-        <name>Level 5: Extra Attack</name>
+        <name>Extra Attack (TP)</name>
         <text>You can attack twice instead of once whenever you take the Attack action on your turn.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <feature>
-        <name>Level 5: Haymaker</name>
+        <name>Haymaker (TP)</name>
         <text>When you make an attack with an Unarmed Strike or Pugilist weapon, you can expend 1 Moxie Point to swing with wild abandon.
 	On a hit, regain the expended Moxie Point and you deal maximum damage with that attack.
 
@@ -195,20 +195,20 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
     <autolevel level="6">
       <feature>
-        <name>Level 6: Moxie-Fueled Fists</name>
+        <name>Moxie-Fueled Fists (TP)</name>
         <text>Whenever you deal damage with your Unarmed Strike or an attack with an improvised weapon, it can deal your choice of Force damage or its normal damage type.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <counter>
-        <name>Moxie</name>
+        <name>Moxie (TP)</name>
         <value>4</value>
         <reset>S</reset>
       </counter>
     </autolevel>
     <autolevel level="7">
       <feature>
-        <name>Level 7: Down But Not Out</name>
+        <name>Down But Not Out (TP)</name>
         <text>When you use your Bloodied But Unbowed while you are Bloodied, you can add a bonus to the damage of your Unarmed Strikes and attacks with Pugilist weapons for the next minute. This bonus equals your Constitution modifier plus the number of levels of Exhaustion you have.
 	Once you use this feature, you can't use it again until you finish a Long Rest.
 
@@ -216,27 +216,27 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
         <proficiency>Dexterity</proficiency>
       </feature>
       <counter>
-        <name>Down But Not Out</name>
+        <name>Down But Not Out (TP)</name>
         <value>1</value>
         <reset>L</reset>
       </counter>
     </autolevel>
     <autolevel level="8" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Level 8: Ability Score Improvement</name>
+        <name>Ability Score Improvement (TP)</name>
         <text>You gain the Ability Score Improvement feat or another feat of your choice for which you qualify.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <counter>
-        <name>Moxie</name>
+        <name>Moxie (TP)</name>
         <value>5</value>
         <reset>S</reset>
       </counter>
     </autolevel>
     <autolevel level="9">
       <feature>
-        <name>Level 9: School of Hard Knocks</name>
+        <name>School of Hard Knocks (TP)</name>
         <text>Once per turn, you can deal an extra 1d12 damage when you hit with an Unarmed Strike or attack with a Pugilist weapon. This damage is the same type dealt by the weapon or Unarmed Strike. You can forgo this extra damage to apply one of the following effects.
 
 	Endanger. The next time the creature is hit by an attack, the attack deals the maximum result of the attack's damage dice rather than rolling.
@@ -248,7 +248,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
     <autolevel level="10">
       <feature>
-        <name>Level 10: Herculean</name>
+        <name>Herculean (TP)</name>
         <text>You gain the following benefits.
 
 	Heavy Lifter. Your Strength score is doubled when determining your carrying capacity.
@@ -260,126 +260,126 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <feature>
-        <name>Level 10: Shake It Off</name>
+        <name>Shake It Off (TP)</name>
         <text>At the start of each of your turns (no action required), you can remove one Exhaustion level on yourself or end one of the following conditions on yourself: Blinded, Charmed, Deafened, Frightened, Paralyzed, Poisoned, Restrained, or Stunned.
 	Once you use this feature, you can't use it again until you finish a Long Rest unless you take a level of Exhaustion (no action required by you) to restore your use of it.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <counter>
-        <name>Moxie</name>
+        <name>Moxie (TP)</name>
         <value>6</value>
         <reset>S</reset>
       </counter>
       <counter>
-        <name>Shake It Off</name>
+        <name>Shake It Off (TP)</name>
         <value>1</value>
         <reset>L</reset>
       </counter>
     </autolevel>
     <autolevel level="12" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Level 12: Ability Score Improvement</name>
+        <name>Ability Score Improvement (TP)</name>
         <text>You gain the Ability Score Improvement feat or another feat of your choice for which you qualify.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <counter>
-        <name>Moxie</name>
+        <name>Moxie (TP)</name>
         <value>7</value>
         <reset>S</reset>
       </counter>
     </autolevel>
     <autolevel level="13">
       <feature>
-        <name>Level 13: Dig Deeper</name>
+        <name>Dig Deeper (TP)</name>
         <text>You can use a Bonus Action to dig deeper. For 1 minute, you have all the benefits of your Dig Deep and can use your School of Hard Knocks twice per turn instead of once.
 	Once you use this feature, you can't use it again until you finish a Long Rest. Starting at level 20, you can use it twice before a Long Rest.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <counter>
-        <name>Dig Deeper</name>
+        <name>Dig Deeper (TP)</name>
         <value>1</value>
         <reset>L</reset>
       </counter>
     </autolevel>
     <autolevel level="14">
       <feature>
-        <name>Level 14: Unbreakable</name>
+        <name>Unbreakable (TP)</name>
         <text>You have Advantage on Strength, Dexterity, and Constitution saving throws.
 	Additionally, whenever you make a saving throw and fail, you can expend 1 Moxie Point to reroll it, and you must use the new roll.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <counter>
-        <name>Moxie</name>
+        <name>Moxie (TP)</name>
         <value>8</value>
         <reset>S</reset>
       </counter>
     </autolevel>
     <autolevel level="15">
       <feature>
-        <name>Level 15: Pugnacious</name>
+        <name>Pugnacious (TP)</name>
         <text>When you roll Initiative, you can remove one level of Exhaustion on yourself and regain your uses of Down But Not Out, Dig Deep, and Shake It Off.
 	Once you use this feature, you can't use it again until you finish a Long Rest.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <counter>
-        <name>Pugnacious</name>
+        <name>Pugnacious (TP)</name>
         <value>1</value>
         <reset>L</reset>
       </counter>
     </autolevel>
     <autolevel level="16" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Level 16: Ability Score Improvement</name>
+        <name>Ability Score Improvement (TP)</name>
         <text>You gain the Ability Score Improvement feat or another feat of your choice for which you qualify.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <counter>
-        <name>Moxie</name>
+        <name>Moxie (TP)</name>
         <value>9</value>
         <reset>S</reset>
       </counter>
     </autolevel>
     <autolevel level="18">
       <feature>
-        <name>Level 18: Fighting Spirit</name>
+        <name>Fighting Spirit (TP)</name>
         <text>When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit point instead. When you do, you gain Temporary Hit Points equal to half of your maximum Hit Points, regain all your expended Moxie Points, and have Resistance to all damage except Force for the next minute.
 	Once you use this feature, you can't use it again until you finish a Long Rest.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <feature>
-        <name>Level 19: Epic Boon</name>
+        <name>Epic Boon (TP)</name>
         <text>You gain an Epic Boon or another feat of your choice for which you qualify. Boon of Combat Prowess is recommended.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <counter>
-        <name>Moxie</name>
+        <name>Moxie (TP)</name>
         <value>10</value>
         <reset>S</reset>
       </counter>
       <counter>
-        <name>Fighting Spirit</name>
+        <name>Fighting Spirit (TP)</name>
         <value>1</value>
         <reset>L</reset>
       </counter>
     </autolevel>
     <autolevel level="19">
       <counter>
-        <name>Moxie</name>
+        <name>Moxie (TP)</name>
         <value>11</value>
         <reset>S</reset>
       </counter>
     </autolevel>
     <autolevel level="20">
       <feature>
-        <name>Level 20: Peak Physical Condition</name>
+        <name>Peak Physical Condition (TP)</name>
         <text>Your strength and resilience are the stuff of legends. You gain the following benefits.
 
 	Hale and Hearty. Your Strength and Constitution scores increase by 2, to a maximum of 23.
@@ -393,12 +393,12 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
         <modifier category="ability score">constitution +2</modifier>
       </feature>
       <counter>
-        <name>Moxie</name>
+        <name>Moxie (TP)</name>
         <value>12</value>
         <reset>S</reset>
       </counter>
       <counter>
-        <name>Dig Deeper</name>
+        <name>Dig Deeper (TP)</name>
         <value>2</value>
         <reset>L</reset>
       </counter>
@@ -406,7 +406,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <!-- Pugilist Subclass: Dog and Hound -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Pugilist Subclass: Dog and Hound</name>
+        <name>Pugilist Subclass: Dog and Hound (TP)</name>
         <text>Fight Side by Side with a Brawler's Best Friend
 
 Pugilists know what it's like to be an underdog, so it's no surprise some form a battleforged bond with a canine companion. They're used to being disappointed by friends that walk on two legs but a friend on four is as loyal as they come. When a fight breaks out, this duo's bite is even worse than its bark.
@@ -414,7 +414,7 @@ Pugilists know what it's like to be an underdog, so it's no surprise some form a
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Brawler's Best Friend (Dog and Hound)</name>
+        <name>Brawler's Best Friend (Dog and Hound) (TP)</name>
         <text>You summon and form a bond with a wild or stray dog, which draws strength from your bottomless well of resilience using the Hound stat block.
 	The hound is Friendly to you and your allies and obeys your commands. It flees if you die.
 
@@ -427,7 +427,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
         <proficiency>Animal Handling</proficiency>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Mutt With Moxie (Dog and Hound)</name>
+        <name>Mutt With Moxie (Dog and Hound) (TP)</name>
         <text>You share everything with your faithful hound: food, shelter, even moxie. When you use abilities granted by your Moxie feature, your hound gains a benefit as well.
 
 	Brace Up. When you gain Temporary Hit Points from your Brace Up ability, your hound gains the same number of Temporary Hit Points.
@@ -441,7 +441,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Coordinated Attack (Dog and Hound)</name>
+        <name>Coordinated Attack (Dog and Hound) (TP)</name>
         <text>When you make an attack against a creature and your hound is within 5 feet of it, your hound can take a Reaction to give your attack Advantage. On a hit, you deal an extra 3d4 damage.
 	Additionally, whenever your hound hits with an attack roll and deals damage, it can deal your choice of Force damage or its normal damage type.
 
@@ -450,7 +450,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
     <autolevel level="11">
       <feature optional="YES">
-        <name>Level 11: Hound's Best Friend (Dog and Hound)</name>
+        <name>Hound's Best Friend (Dog and Hound) (TP)</name>
         <text>When a creature deals damage to your hound with an attack, you can take a Reaction to move up to half your Speed and make one melee attack with a Pugilist weapon or an Unarmed Strike against that creature.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
@@ -458,14 +458,14 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Off The Chain (Dog and Hound)</name>
+        <name>Off The Chain (Dog and Hound) (TP)</name>
         <text>When your hound takes damage that causes it to become Bloodied or takes damage while it is Bloodied, you can take a Reaction to let your hound off the chain. When you do so, the hound gains Temporary Hit Points equal to five times your Pugilist level and, for the next minute, its Speed increases by 15 feet and you can command it to use its Bite without taking a Bonus Action.
 	Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending 3 Moxie Points (no action required).
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <counter>
-        <name>Off The Chain</name>
+        <name>Off The Chain (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Dog and Hound</subclass>
@@ -474,7 +474,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <!-- Pugilist Subclass: Hand of Dread -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Pugilist Subclass: Hand of Dread</name>
+        <name>Pugilist Subclass: Hand of Dread (TP)</name>
         <text>Dabble With Dread Powers
 
 In your darkest hour, you pleaded for the strength to take what you wanted from the world and a dread power took notice. At first, you may have relished the cathartic rush that came with channeling your eldritch might to claim what you felt you deserved, but this pact came with strings attached. In times of distress you hear the entity whispering in the back of your mind, urging you to indulge your most base impulses.
@@ -482,7 +482,7 @@ In your darkest hour, you pleaded for the strength to take what you wanted from 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Black Magic (Hand of Dread)</name>
+        <name>Black Magic (Hand of Dread) (TP)</name>
         <text>As a result of your relationship with your dread power, you gain the following benefits.
 
 	Two Cantrips. You learn two cantrips of your choice from the Warlock spell list. Constitution is your spellcasting ability for your Black Magic spells.
@@ -494,7 +494,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Dread Hand (Hand of Dread)</name>
+        <name>Dread Hand (Hand of Dread) (TP)</name>
         <text>When you take the Attack action on your turn, you can manifest the evidence of your foul pledge to otherworldly powers. When you do, one of your limbs transmogrifies into a monstrous appearance reminiscent of your dread power and you gain the benefits below for 1 minute. Once you use this feature, you can't use it again until you finish a Short or Long Rest.
 
 	Revenging Strike. When you are hit by a melee attack, you can take a Reaction to make an Unarmed Strike against the creature that attacked you if it is within reach.
@@ -508,7 +508,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Deal with the Devil (Hand of Dread)</name>
+        <name>Deal with the Devil (Hand of Dread) (TP)</name>
         <text>You gain one of the following options of your choice. Whenever you finish a Long Rest, you can change your choice.
 
 	Cloak of Shadows. You can cast Invisibility once without a spell slot, and you regain the ability to cast it in this way when you finish a Short or Long Rest.
@@ -522,14 +522,14 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
     <autolevel level="11">
       <feature optional="YES">
-        <name>Level 11: Grotesque Growth (Hand of Dread)</name>
+        <name>Grotesque Growth (Hand of Dread) (TP)</name>
         <text>When you use your Dread Hand feature, you gain the benefits of the Enlarge effect of the Enlarge/Reduce spell and have a 10-foot reach.
 	Once you use this feature, you can't use it again until you finish a Long Rest unless you take a level of Exhaustion (no action required by you) to restore your use of it.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <counter>
-        <name>Grotesque Growth</name>
+        <name>Grotesque Growth (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Hand of Dread</subclass>
@@ -537,7 +537,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Fountain of Viscera (Hand of Dread)</name>
+        <name>Fountain of Viscera (Hand of Dread) (TP)</name>
         <text>You can take a Magic action and expend 6 Moxie Points to attempt to execute a creature of your choice within reach by magically burrowing your hand into its body and extracting its innards. The creature must make a Dexterity saving throw (DC 8 plus your Strength modifier and Proficiency Bonus). On a failure, the creature takes 100 Piercing damage. On a success, the creature takes 50 Piercing damage instead.
 	If this damage reduces the target to 0 Hit Points, it immediately dies as you rip a hole through it, creating a stomach-turning fountain of viscera. When this happens, each creature of your choice within a 30-foot Emanation originating from you must succeed on a Wisdom saving throw (DC 8 plus your Strength modifier and Proficiency Bonus) or have the Frightened condition for 1 minute. A creature that fails the saving throw can repeat the Wisdom saving throw again at the end of each of its turns, ending the Frightened condition on itself on a success.
 	Once you use this feature, you must finish a Long Rest before you can use it again.
@@ -545,7 +545,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <counter>
-        <name>Fountain of Viscera</name>
+        <name>Fountain of Viscera (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Hand of Dread</subclass>
@@ -554,7 +554,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <!-- Pugilist Subclass: Piss and Vinegar -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Pugilist Subclass: Piss and Vinegar</name>
+        <name>Pugilist Subclass: Piss and Vinegar (TP)</name>
         <text>Throw Barbs and Hands
 
 Some Pugilists revel in their reputations as heels, happily playing up their bad behavior for notoriety. Despised by their enemies for their obscene curses and dirty tricks, these Pugilists take pride in their ability to provoke and willingness to win fights at any cost.
@@ -562,14 +562,14 @@ Some Pugilists revel in their reputations as heels, happily playing up their bad
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Bad Attitude (Piss and Vinegar)</name>
+        <name>Bad Attitude (Piss and Vinegar) (TP)</name>
         <text>You gain proficiency in the Intimidation skill if you don't have it already. Additionally, you gain a bonus to checks using this skill equal to your Strength modifier (minimum bonus of +1).
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
         <proficiency>Intimidation</proficiency>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Salty Salute (Piss and Vinegar)</name>
+        <name>Salty Salute (Piss and Vinegar) (TP)</name>
         <text>You have mastered the art of the enraging insult. As a Bonus Action, you can provoke a creature within 60 feet that can see or hear you. That creature must succeed on a Wisdom saving throw or take Psychic damage equal to a roll of your Fisticuffs die plus your Constitution modifier and have Disadvantage on any attack rolls it makes against creatures other than you until the start of your next turn.
 	The saving throw DC for this and all other features from this subclass equals 8 plus your Constitution modifier and Proficiency Bonus.
 
@@ -578,7 +578,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Dirty Tricks (Piss and Vinegar)</name>
+        <name>Dirty Tricks (Piss and Vinegar) (TP)</name>
         <text>You have a few tricks up your sleeve to even the odds when the going gets tough. You can use one of the following Dirty Tricks. You can use one Dirty Trick each turn, and once you use a dirty trick, you can't use that trick again until you finish a Short or Long Rest.
 
 	Heelstomper. When you deal damage to a creature with an Unarmed Strike or Pugilist weapon, the creature must succeed on a Dexterity saving throw or its Speed is reduced to 0 for one minute. An affected creature can repeat this saving throw at the end of each of its turns, ending the effect on a success.
@@ -594,14 +594,14 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
     <autolevel level="11">
       <feature optional="YES">
-        <name>Level 11: Mean Old Cuss (Piss and Vinegar)</name>
+        <name>Mean Old Cuss (Piss and Vinegar) (TP)</name>
         <text>You can offend every creature in the room with the flick of a wrist and a few curt words. As a Bonus Action, you can choose a number of targets within 30 feet of yourself that can see or hear you up to your level in this class. Each chosen creature must succeed on a Wisdom saving throw or take Psychic damage equal to a roll of your Fisticuffs die plus your Constitution modifier and have Disadvantage on attack rolls it makes against creatures other than you until the start of your next turn.
 	Once you use this feature, you must finish a Short or Long Rest before you use it again. You can also restore your use of it by expending 3 Moxie Points (no action required).
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <counter>
-        <name>Mean Old Cuss</name>
+        <name>Mean Old Cuss (TP)</name>
         <value>1</value>
         <reset>S</reset>
         <subclass>Piss and Vinegar</subclass>
@@ -609,7 +609,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Dirtier Tricks (Piss and Vinegar)</name>
+        <name>Dirtier Tricks (Piss and Vinegar) (TP)</name>
         <text>You gain the following additional Dirty Tricks. You can use one Dirty Trick each turn, and once you use a dirty trick, you can't use that trick again until you finish a Short or Long Rest.
 
 	Rabbit Punch. When you hit a creature with an Unarmed Strike or a Pugilist weapon, you strike its head. Until the end of your next turn, the creature loses Resistance to Psychic damage if it has it and has Disadvantage on saving throws.
@@ -622,7 +622,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <!-- Pugilist Subclass: Squared Circle -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Pugilist Subclass: Squared Circle</name>
+        <name>Pugilist Subclass: Squared Circle (TP)</name>
         <text>Drop and Lock Your Foes
 
 Pugilists who fight in the Squared Circle know the fastest way to win a fight is to force a submission. These wrestlers focus on controlling their most powerful opponents with chokeholds and arm bars, forcing the enemy to fight on the Pugilist's terms.
@@ -630,7 +630,7 @@ Pugilists who fight in the Squared Circle know the fastest way to win a fight is
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Groundwork (Squared Circle)</name>
+        <name>Groundwork (Squared Circle) (TP)</name>
         <text>You gain the following benefits.
 
 	Compression Lock. When you start your turn with one or more creatures Grappled, you can deal Bludgeoning damage to each creature you have Grappled (no action required). The damage equals one roll of your Fisticuffs die plus your Strength modifier.
@@ -642,7 +642,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Muscle Mass (Squared Circle)</name>
+        <name>Muscle Mass (Squared Circle) (TP)</name>
         <text>Choose the Acrobatics or Athletics skill. If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
@@ -650,7 +650,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Meat Shield (Squared Circle)</name>
+        <name>Meat Shield (Squared Circle) (TP)</name>
         <text>While you have a creature Grappled, you gain Half Cover against attacks made by creatures you aren't Grappling. When a creature you aren't Grappling misses you with an attack roll, you can take a Reaction and expend 1 Moxie Point to force that creature make the same attack with a new attack roll against a creature you are Grappling.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
@@ -658,20 +658,20 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
     <autolevel level="11">
       <feature optional="YES">
-        <name>Level 11: Heavyweight (Squared Circle)</name>
+        <name>Heavyweight (Squared Circle) (TP)</name>
         <text>When you use the Grapple or Shove option of your Unarmed Strike, you count as being one size larger. Additionally, you don't have to spend extra movement to move a creature Grappled by you if the creature is your size or smaller.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 17: Clean Finish (Squared Circle)</name>
+        <name>Clean Finish (Squared Circle) (TP)</name>
         <text>When a creature ends its turn Grappled by you, you can take a Reaction to force it to make a Constitution saving throw against your grapple's escape DC or have the Incapacitated condition until the end of its next turn. If the creature is Bloodied and already Incapacitated by this feature, its Hit Points are reduced to 0 instead.
 	Once you use this feature to reduce a creature to 0 Hit Points, you can't use it again until you finish a Long Rest.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <counter>
-        <name>Clean Finish</name>
+        <name>Clean Finish (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Squared Circle</subclass>
@@ -680,7 +680,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <!-- Pugilist Subclass: Street Saint -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Pugilist Subclass: Street Saint</name>
+        <name>Pugilist Subclass: Street Saint (TP)</name>
         <text>Devote Yourself to Prayer and Pummeling
 
 Pugilists rise above the adversity they face. Those known as Street Saints do so with the aid of their deep and abiding faith in the gods. These Pugilists were tested and came out the other side with their righteous resolve to live in service to the gods strengthened. A resolve their gods have taken note of.
@@ -688,7 +688,7 @@ Pugilists rise above the adversity they face. Those known as Street Saints do so
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Channel Divinity (Street Saint)</name>
+        <name>Channel Divinity (Street Saint) (TP)</name>
         <text>You can channel divine energy directly from the Outer Planes, using it to fuel magical effects. You start with two such effects: Fists of Faith and Grace of the Gods. Each time you use this subclass's Channel Divinity, you choose which effect from this subclass to create.
 	Once you use this subclass's Channel Divinity, you can't use it again until you finish a Short or Long Rest.
 
@@ -700,7 +700,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
         <roll description="Radiant Damage">1d4</roll>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Lay On Hands (Street Saint)</name>
+        <name>Lay On Hands (Street Saint) (TP)</name>
         <text>Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you finish a Long Rest. V pool, you can restore a total number of Hit Points equal to three times your Pugilist level.
 	As a Bonus Action, you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of Hit Points to that creature, up to the maximum amount remaining in the pool.
 	You can also expend 5 Hit Points from the pool of healing power to remove the Poisoned condition from the creature; those points don't also restore Hit Points to the creature.
@@ -708,7 +708,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <counter>
-        <name>Channel Divinity</name>
+        <name>Channel Divinity (TP)</name>
         <value>1</value>
         <reset>S</reset>
         <subclass>Street Saint</subclass>
@@ -716,14 +716,14 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Ravaged But Resolute (Street Saint)</name>
+        <name>Ravaged But Resolute (Street Saint) (TP)</name>
         <text>When you use your Bloodied But Unbowed, you can fully replenish your Lay On Hands healing pool.
 	Once you use this feature, you can't use it again until you finish a Long Rest.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <counter>
-        <name>Ravaged But Resolute</name>
+        <name>Ravaged But Resolute (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Street Saint</subclass>
@@ -731,14 +731,14 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
     <autolevel level="11">
       <feature optional="YES">
-        <name>Level 11: Aura of Resilience (Street Saint)</name>
+        <name>Aura of Resilience (Street Saint) (TP)</name>
         <text>When you use your Dig Deep, you can radiate a protective, unseeable aura in a 10-foot Emanation that originates from you for the next 10 minutes. The aura is inactive while you have the Incapacitated condition. Your allies within the aura gain Resistance to Bludgeoning, Piercing, and Slashing damage.
 	Once you use this feature, you must finish a Long Rest before you can use it again.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <counter>
-        <name>Aura of Resilience</name>
+        <name>Aura of Resilience (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Street Saint</subclass>
@@ -746,7 +746,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Hallowed Hands (Street Saint)</name>
+        <name>Hallowed Hands (Street Saint) (TP)</name>
         <text>Once on each of your turns when you hit a creature with an Unarmed Strike or Pugilist weapon, you can expend a number of points from your Lay On Hands healing pool to deal extra Radiant damage to the target, to a maximum of your Pugilist level. The damage equals the number of points expended, or twice as much if the target is a Fiend or Undead.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
@@ -755,7 +755,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <!-- Pugilist Subclass: Sweet Science -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Pugilist Subclass: Sweet Science</name>
+        <name>Pugilist Subclass: Sweet Science (TP)</name>
         <text>Float Like a Butterfly, Sting Like a Bee
 
 Pugilists who practice the Sweet Science hit hard, fast, and often. These Pugilists sometimes battle for the entertainment of the upper classes, but just as often duke it out in back alleys and bars where their next breath depends on a knockout.
@@ -763,13 +763,13 @@ Pugilists who practice the Sweet Science hit hard, fast, and often. These Pugili
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Bare Knuckle Boxer (Sweet Science)</name>
+        <name>Bare Knuckle Boxer (Sweet Science) (TP)</name>
         <text>Your attack rolls with Unarmed Strikes can score a Critical Hit on a roll of 19 or 20 on the d20.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Cross Counter (Sweet Science)</name>
+        <name>Cross Counter (Sweet Science) (TP)</name>
         <text>You can block the brunt of an attack and launch one of your own in the same fluid motion. When you take damage from a melee attack, you can take a Reaction and expend 1 Moxie Point to reduce the damage dealt to you by that attack by 1d10 plus your Strength modifier and Pugilist level.
 	If you reduce the damage to 0, you can make an Unarmed Strike or attack with a Pugilist weapon against a creature within your reach as part of the same Reaction.
 
@@ -778,7 +778,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Combo Maker (Sweet Science)</name>
+        <name>Combo Maker (Sweet Science) (TP)</name>
         <text>When you deal damage with an Unarmed Strike against a creature, instead of also choosing the Grapple or Shove option with your Heavy Hitter, you can give yourself Advantage on attack rolls you make against that target before the start of your next turn.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
@@ -786,7 +786,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
     <autolevel level="11">
       <feature optional="YES">
-        <name>Level 11: Combo Breaker (Sweet Science)</name>
+        <name>Combo Breaker (Sweet Science) (TP)</name>
         <text>When you use your Cross Counter and reduce the triggering damage to 0, you regain 1 Moxie Point.
 
 Source:	Ben Huffman - Pugilist (Third Party)</text>
@@ -794,7 +794,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Knock Out (Sweet Science)</name>
+        <name>Knock Out (Sweet Science) (TP)</name>
         <text>You gain the following benefits.
 
 	Coldcock. When you score a Critical Hit against a creature, it must make a Constitution saving throw (DC 8 plus your Strength modifier and Proficiency Bonus). On a failed save, it has the Unconscious condition for 1 minute or until it takes any damage.
@@ -806,7 +806,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
   </class>
   <monster>
-    <name>Hound [5.5e]</name>
+    <name>Hound (TP)</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Neutral</alignment>
@@ -828,23 +828,23 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <conditionImmune/>
     <senses>darkvision 60 ft.</senses>
     <trait>
-      <name>Proficiency Bonus</name>
+      <name>Proficiency Bonus (TP)</name>
       <text>PB equals your Proficiency Bonus</text>
     </trait>
     <trait>
-      <name>Armor Class</name>
+      <name>Armor Class (TP)</name>
       <text>12 plus your Constitution modifier</text>
     </trait>
     <trait>
-      <name>Hit Points</name>
+      <name>Hit Points (TP)</name>
       <text>5 plus five times your Pugilist level (the hound has a number of Hit Dice [d8s] equal to your pugilist level)</text>
     </trait>
     <trait>
-      <name>Pack Bond</name>
+      <name>Pack Bond (TP)</name>
       <text>Add your Proficiency Bonus to any ability check or saving throw the beast makes.</text>
     </trait>
     <action>
-      <name>Bite</name>
+      <name>Bite (TP)</name>
       <text>Melee Attack Roll: Bonus equals your Constitution modifier plus your PB, reach 5 ft. Hit: 2d4 + 2 plus your Constitution modifier Piercing damage. If the target is a creature Large or smaller, it must succeed on a Strength saving throw (DC equals 8 plus your Constitution modifier and PB) or one of the following effects of your choice occur: the target has the Grappled condition, it has the Prone condition, or it is pushed 5 feet away from the hound.</text>
       <attack>Piercing Damage||2d4+2</attack>
     </action>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Warlock</name>
+    <name>Warlock (UA)</name>
     <!-- Warlock Subclass: Sorcerer-king Patron (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -50,7 +50,7 @@ Once you use this feature, you can't do so again until you finish a Short or Lon
 Source:	UA25-ApocalypticSubclasses p. 5</text>
       </feature>
       <counter>
-        <name>Decisive Edict</name>
+        <name>Decisive Edict (UA)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Sorcerer-king Patron (UA)</subclass>
@@ -75,47 +75,47 @@ Source:	UA25-ApocalypticSubclasses p. 5</text>
     </autolevel>
   </class>
   <spell>
-    <name>Command [2024]</name>
+    <name>Command (UA)</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Compelled Duel [2024]</name>
+    <name>Compelled Duel (UA)</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Hold Person [2024]</name>
+    <name>Hold Person (UA)</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Mind Spike [2024]</name>
+    <name>Mind Spike (UA)</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Wrathful Smite [2024]</name>
+    <name>Wrathful Smite (UA)</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Fear [2024]</name>
+    <name>Fear (UA)</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Sending [2024]</name>
+    <name>Sending (UA)</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Compulsion [2024]</name>
+    <name>Compulsion (UA)</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Staggering Smite [2024]</name>
+    <name>Staggering Smite (UA)</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Dominate Person [2024]</name>
+    <name>Dominate Person (UA)</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Synaptic Static [2024]</name>
+    <name>Synaptic Static (UA)</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
 </compendium>

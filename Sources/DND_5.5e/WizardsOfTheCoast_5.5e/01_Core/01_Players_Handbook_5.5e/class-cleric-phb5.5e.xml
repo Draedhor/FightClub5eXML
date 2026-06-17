@@ -562,163 +562,163 @@ Source:	Player's Handbook (2024) p. 77</text>
     </autolevel>
   </class>
   <spell>
-    <name>Aid [2024]</name>
+    <name>Aid</name>
     <classes>Cleric (Life Domain)</classes>
   </spell>
   <spell>
-    <name>Arcane Eye [2024]</name>
+    <name>Arcane Eye</name>
     <classes>Cleric (Light Domain)</classes>
   </spell>
   <spell>
-    <name>Aura of Life [2024]</name>
+    <name>Aura of Life</name>
     <classes>Cleric (Life Domain)</classes>
   </spell>
   <spell>
-    <name>Bless [2024]</name>
+    <name>Bless</name>
     <classes>Cleric (Life Domain)</classes>
   </spell>
   <spell>
-    <name>Burning Hands [2024]</name>
+    <name>Burning Hands</name>
     <classes>Cleric (Light Domain)</classes>
   </spell>
   <spell>
-    <name>Charm Person [2024]</name>
+    <name>Charm Person</name>
     <classes>Cleric (Trickery Domain)</classes>
   </spell>
   <spell>
-    <name>Confusion [2024]</name>
+    <name>Confusion</name>
     <classes>Cleric (Trickery Domain)</classes>
   </spell>
   <spell>
-    <name>Crusader's Mantle [2024]</name>
+    <name>Crusader's Mantle</name>
     <classes>Cleric (War Domain)</classes>
   </spell>
   <spell>
-    <name>Cure Wounds [2024]</name>
+    <name>Cure Wounds</name>
     <classes>Cleric (Life Domain)</classes>
   </spell>
   <spell>
-    <name>Daylight [2024]</name>
+    <name>Daylight</name>
     <classes>Cleric (Light Domain)</classes>
   </spell>
   <spell>
-    <name>Death Ward [2024]</name>
+    <name>Death Ward</name>
     <classes>Cleric (Life Domain)</classes>
   </spell>
   <spell>
-    <name>Dimension Door [2024]</name>
+    <name>Dimension Door</name>
     <classes>Cleric (Trickery Domain)</classes>
   </spell>
   <spell>
-    <name>Disguise Self [2024]</name>
+    <name>Disguise Self</name>
     <classes>Cleric (Trickery Domain)</classes>
   </spell>
   <spell>
-    <name>Dominate Person [2024]</name>
+    <name>Dominate Person</name>
     <classes>Cleric (Trickery Domain)</classes>
   </spell>
   <spell>
-    <name>Faerie Fire [2024]</name>
+    <name>Faerie Fire</name>
     <classes>Cleric (Light Domain)</classes>
   </spell>
   <spell>
-    <name>Fire Shield [2024]</name>
+    <name>Fire Shield</name>
     <classes>Cleric (War Domain)</classes>
   </spell>
   <spell>
-    <name>Fireball [2024]</name>
+    <name>Fireball</name>
     <classes>Cleric (Light Domain)</classes>
   </spell>
   <spell>
-    <name>Flame Strike [2024]</name>
+    <name>Flame Strike</name>
     <classes>Cleric (Light Domain)</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement [2024]</name>
+    <name>Freedom of Movement</name>
     <classes>Cleric (War Domain)</classes>
   </spell>
   <spell>
-    <name>Greater Restoration [2024]</name>
+    <name>Greater Restoration</name>
     <classes>Cleric (Life Domain)</classes>
   </spell>
   <spell>
-    <name>Guiding Bolt [2024]</name>
+    <name>Guiding Bolt</name>
     <classes>Cleric (War Domain)</classes>
   </spell>
   <spell>
-    <name>Hold Monster [2024]</name>
+    <name>Hold Monster</name>
     <classes>Cleric (War Domain)</classes>
   </spell>
   <spell>
-    <name>Hypnotic Pattern [2024]</name>
+    <name>Hypnotic Pattern</name>
     <classes>Cleric (Trickery Domain)</classes>
   </spell>
   <spell>
-    <name>Invisibility [2024]</name>
+    <name>Invisibility</name>
     <classes>Cleric (Trickery Domain)</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration [2024]</name>
+    <name>Lesser Restoration</name>
     <classes>Cleric (Life Domain)</classes>
   </spell>
   <spell>
-    <name>Magic Weapon [2024]</name>
+    <name>Magic Weapon</name>
     <classes>Cleric (War Domain)</classes>
   </spell>
   <spell>
-    <name>Mass Cure Wounds [2024]</name>
+    <name>Mass Cure Wounds</name>
     <classes>Cleric (Life Domain)</classes>
   </spell>
   <spell>
-    <name>Mass Healing Word [2024]</name>
+    <name>Mass Healing Word</name>
     <classes>Cleric (Life Domain)</classes>
   </spell>
   <spell>
-    <name>Modify Memory [2024]</name>
+    <name>Modify Memory</name>
     <classes>Cleric (Trickery Domain)</classes>
   </spell>
   <spell>
-    <name>Nondetection [2024]</name>
+    <name>Nondetection</name>
     <classes>Cleric (Trickery Domain)</classes>
   </spell>
   <spell>
-    <name>Pass without Trace [2024]</name>
+    <name>Pass without Trace</name>
     <classes>Cleric (Trickery Domain)</classes>
   </spell>
   <spell>
-    <name>Revivify [2024]</name>
+    <name>Revivify</name>
     <classes>Cleric (Life Domain)</classes>
   </spell>
   <spell>
-    <name>Scorching Ray [2024]</name>
+    <name>Scorching Ray</name>
     <classes>Cleric (Light Domain)</classes>
   </spell>
   <spell>
-    <name>Scrying [2024]</name>
+    <name>Scrying</name>
     <classes>Cleric (Light Domain)</classes>
   </spell>
   <spell>
-    <name>See Invisibility [2024]</name>
+    <name>See Invisibility</name>
     <classes>Cleric (Light Domain)</classes>
   </spell>
   <spell>
-    <name>Shield of Faith [2024]</name>
+    <name>Shield of Faith</name>
     <classes>Cleric (War Domain)</classes>
   </spell>
   <spell>
-    <name>Spirit Guardians [2024]</name>
+    <name>Spirit Guardians</name>
     <classes>Cleric (War Domain)</classes>
   </spell>
   <spell>
-    <name>Spiritual Weapon [2024]</name>
+    <name>Spiritual Weapon</name>
     <classes>Cleric (War Domain)</classes>
   </spell>
   <spell>
-    <name>Steel Wind Strike [2024]</name>
+    <name>Steel Wind Strike</name>
     <classes>Cleric (War Domain)</classes>
   </spell>
   <spell>
-    <name>Wall of Fire [2024]</name>
+    <name>Wall of Fire</name>
     <classes>Cleric (Light Domain)</classes>
   </spell>
 </compendium>

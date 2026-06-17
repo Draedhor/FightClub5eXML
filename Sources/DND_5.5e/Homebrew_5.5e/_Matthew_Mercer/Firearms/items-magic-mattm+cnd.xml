@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Ruidium Bad News</name>
+    <name>Ruidium Bad News (TP)</name>
     <detail>firearm, modern, sniper rifle, very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -45,7 +45,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216,
     <roll description="Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Ruidium Blunderbuss (Matthew Mercer)</name>
+    <name>Ruidium Blunderbuss (Matthew Mercer) (TP)</name>
     <detail>firearm, modern, very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -87,7 +87,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216,
     <roll description="Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Ruidium Hand Mortar</name>
+    <name>Ruidium Hand Mortar (TP)</name>
     <detail>firearm, very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -126,7 +126,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216,
     <roll description="Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Ruidium Musket (Matthew Mercer)</name>
+    <name>Ruidium Musket (Matthew Mercer) (TP)</name>
     <detail>firearm, renaissance, very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -170,7 +170,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216,
     <roll description="Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Ruidium Palm Pistol</name>
+    <name>Ruidium Palm Pistol (TP)</name>
     <detail>firearm, very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -216,7 +216,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216,
     <roll description="Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Ruidium Pistol (Matthew Mercer)</name>
+    <name>Ruidium Pistol (Matthew Mercer) (TP)</name>
     <detail>firearm, renaissance, very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -258,7 +258,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216,
     <roll description="Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Ruidium Pepperbox</name>
+    <name>Ruidium Pepperbox (TP)</name>
     <detail>firearm, very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>

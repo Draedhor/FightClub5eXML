@@ -570,43 +570,43 @@ Source:	Player's Handbook (2024) p. 127</text>
     </autolevel>
   </class>
   <spell>
-    <name>Charm Person [2024]</name>
+    <name>Charm Person</name>
     <classes>Ranger (Fey Wanderer)</classes>
   </spell>
   <spell>
-    <name>Misty Step [2024]</name>
+    <name>Misty Step</name>
     <classes>Ranger (Fey Wanderer)</classes>
   </spell>
   <spell>
-    <name>Summon Fey [2024]</name>
+    <name>Summon Fey</name>
     <classes>Ranger (Fey Wanderer)</classes>
   </spell>
   <spell>
-    <name>Dimension Door [2024]</name>
+    <name>Dimension Door</name>
     <classes>Ranger (Fey Wanderer)</classes>
   </spell>
   <spell>
-    <name>Mislead [2024]</name>
+    <name>Mislead</name>
     <classes>Ranger (Fey Wanderer)</classes>
   </spell>
   <spell>
-    <name>Disguise Self [2024]</name>
+    <name>Disguise Self</name>
     <classes>Ranger (Gloom Stalker)</classes>
   </spell>
   <spell>
-    <name>Rope Trick [2024]</name>
+    <name>Rope Trick</name>
     <classes>Ranger (Gloom Stalker)</classes>
   </spell>
   <spell>
-    <name>Fear [2024]</name>
+    <name>Fear</name>
     <classes>Ranger (Gloom Stalker)</classes>
   </spell>
   <spell>
-    <name>Greater Invisibility [2024]</name>
+    <name>Greater Invisibility</name>
     <classes>Ranger (Gloom Stalker)</classes>
   </spell>
   <spell>
-    <name>Seeming [2024]</name>
+    <name>Seeming</name>
     <classes>Ranger (Gloom Stalker)</classes>
   </spell>
 </compendium>

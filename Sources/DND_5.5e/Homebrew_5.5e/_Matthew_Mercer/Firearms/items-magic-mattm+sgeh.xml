@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Scionic Bad News</name>
+    <name>Scionic Bad News (TP)</name>
     <detail>firearm, modern, sniper rifle, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -44,7 +44,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 230 (Homebrew),
     <roll description="Lightning Damage">2d8</roll>
   </item>
   <item>
-    <name>Scionic Blunderbuss (Matthew Mercer)</name>
+    <name>Scionic Blunderbuss (Matthew Mercer) (TP)</name>
     <detail>firearm, modern, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -85,7 +85,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 230 (Homebrew),
     <roll description="Lightning Damage">2d8</roll>
   </item>
   <item>
-    <name>Scionic Hand Mortar</name>
+    <name>Scionic Hand Mortar (TP)</name>
     <detail>firearm, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -123,7 +123,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 230 (Homebrew),
     <roll description="Lightning Damage">2d8</roll>
   </item>
   <item>
-    <name>Scionic Musket (Matthew Mercer)</name>
+    <name>Scionic Musket (Matthew Mercer) (TP)</name>
     <detail>firearm, renaissance, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -166,7 +166,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 230 (Homebrew),
     <roll description="Lightning Damage">2d8</roll>
   </item>
   <item>
-    <name>Scionic Palm Pistol</name>
+    <name>Scionic Palm Pistol (TP)</name>
     <detail>firearm, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -211,7 +211,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 230 (Homebrew),
     <roll description="Lightning Damage">2d8</roll>
   </item>
   <item>
-    <name>Scionic Pistol (Matthew Mercer)</name>
+    <name>Scionic Pistol (Matthew Mercer) (TP)</name>
     <detail>firearm, renaissance, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -252,7 +252,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 230 (Homebrew),
     <roll description="Lightning Damage">2d8</roll>
   </item>
   <item>
-    <name>Scionic Pepperbox</name>
+    <name>Scionic Pepperbox (TP)</name>
     <detail>firearm, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -293,7 +293,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 230 (Homebrew),
     <roll description="Lightning Damage">2d8</roll>
   </item>
   <item>
-    <name>Roaring Scionic Bad News</name>
+    <name>Roaring Scionic Bad News (TP)</name>
     <detail>firearm, modern, sniper rifle, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -335,7 +335,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 251 (Homebrew),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Roaring Scionic Blunderbuss (Matthew Mercer)</name>
+    <name>Roaring Scionic Blunderbuss (Matthew Mercer) (TP)</name>
     <detail>firearm, modern, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -375,7 +375,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 251 (Homebrew),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Roaring Scionic Hand Mortar</name>
+    <name>Roaring Scionic Hand Mortar (TP)</name>
     <detail>firearm, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -412,7 +412,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 251 (Homebrew),
     <roll description="Fire Damage">1d8</roll>
   </item>
   <item>
-    <name>Roaring Scionic Musket (Matthew Mercer)</name>
+    <name>Roaring Scionic Musket (Matthew Mercer) (TP)</name>
     <detail>firearm, renaissance, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -454,7 +454,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 251 (Homebrew),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Roaring Scionic Palm Pistol</name>
+    <name>Roaring Scionic Palm Pistol (TP)</name>
     <detail>firearm, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -498,7 +498,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 251 (Homebrew),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Roaring Scionic Pistol (Matthew Mercer)</name>
+    <name>Roaring Scionic Pistol (Matthew Mercer) (TP)</name>
     <detail>firearm, renaissance, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -538,7 +538,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 251 (Homebrew),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Roaring Scionic Pepperbox</name>
+    <name>Roaring Scionic Pepperbox (TP)</name>
     <detail>firearm, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>

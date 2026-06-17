@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Bushcraft: Additional Favored Enemy</name>
+    <name>Bushcraft: Additional Favored Enemy (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: 1st-level ranger (HeavyArms)
@@ -13,7 +13,7 @@ You gain an additional favored enemy type of your choice.
 Source:	HeavyArms: The Ranger p. 5 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bushcraft: Animal Companion</name>
+    <name>Bushcraft: Animal Companion (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: 1st-level ranger (HeavyArms)
@@ -33,7 +33,7 @@ Dropping to 0 Hit Points: If your companion is reduced to 0 hit points but not k
 Source:	HeavyArms: The Ranger p. 5 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bushcraft: Combat Companion</name>
+    <name>Bushcraft: Combat Companion (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: 3rd-level ranger (HeavyArms), Animal Companion Skill
@@ -47,7 +47,7 @@ You can spend 1 focus point as a bonus action to command your companion to you t
 Source:	HeavyArms: The Ranger p. 5 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bushcraft: Ferocious Companion</name>
+    <name>Bushcraft: Ferocious Companion (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: 6th-level ranger (HeavyArms), Animal Companion Skill
@@ -57,7 +57,7 @@ You can summon a Beast with a challenge rating of 2 or lower to serve as your an
 Source:	HeavyArms: The Ranger p. 5 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bushcraft: Monster Ranger</name>
+    <name>Bushcraft: Monster Ranger (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: 6th-level ranger (HeavyArms), Animal Companion Skill
@@ -67,7 +67,7 @@ You can summon a gelatinous cube or a mimic, instead of a Beast, to serve as you
 Source:	HeavyArms: The Ranger p. 5 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bushcraft: Arrowsmith</name>
+    <name>Bushcraft: Arrowsmith (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>You are considered proficient with all types of artisan's tools for the purpose of crafting special ammunition. In addition, whenever you fail on a craft check to create special ammunition, you create half the number of pieces of ammunition you would have created had you succeeded.
@@ -75,7 +75,7 @@ Source:	HeavyArms: The Ranger p. 5 (Homebrew)</text>
 Source:	HeavyArms: The Ranger p. 5 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bushcraft: Combat Drills</name>
+    <name>Bushcraft: Combat Drills (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>(This skill can be chosen multiple times)
@@ -85,7 +85,7 @@ You gain a fighting style of your choice from the list of fighting style options
 Source:	HeavyArms: The Ranger p. 5 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bushcraft: Double Tough</name>
+    <name>Bushcraft: Double Tough (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Whenever you regain hit points during combat, you gain the same number of temporary hit points. These temporary hit points last until the combat ends.
@@ -93,7 +93,7 @@ Source:	HeavyArms: The Ranger p. 5 (Homebrew)</text>
 Source:	HeavyArms: The Ranger p. 5 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bushcraft: Eagle Eye Shot</name>
+    <name>Bushcraft: Eagle Eye Shot (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: 9th-level ranger (HeavyArms)
@@ -103,7 +103,7 @@ When you make an attack roll with advantage using a ranged weapon and both d20 r
 Source:	HeavyArms: The Ranger p. 5 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bushcraft: Field Dressing</name>
+    <name>Bushcraft: Field Dressing (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>As an action, you can expend one use of a healer's kit you are holding to heal yourself or a willing creature within 5 feet of you. The target can immediately spend a number of Hit Dice up to its proficiency bonus, following the normal rules for regaining hit points using Hit Dice. A creature can regain hit points in this way no more than once between rests.
@@ -111,7 +111,7 @@ Source:	HeavyArms: The Ranger p. 5 (Homebrew)</text>
 Source:	HeavyArms: The Ranger p. 6 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bushcraft: Cleanse</name>
+    <name>Bushcraft: Cleanse (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: Field Dressing skill
@@ -121,7 +121,7 @@ Whenever you restore hit points to a creature using a healer's kit, it also ends
 Source:	HeavyArms: The Ranger p. 6 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bushcraft: Free Climb</name>
+    <name>Bushcraft: Free Climb (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>You can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Furthermore, while climbing, you can jump as if you had a running start.
@@ -129,7 +129,7 @@ Source:	HeavyArms: The Ranger p. 6 (Homebrew)</text>
 Source:	HeavyArms: The Ranger p. 6 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bushcraft: Gloom Stalker</name>
+    <name>Bushcraft: Gloom Stalker (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>While in darkness, you are invisible to any creature that relies on darkvision to see you in that darkness.
@@ -137,7 +137,7 @@ Source:	HeavyArms: The Ranger p. 6 (Homebrew)</text>
 Source:	HeavyArms: The Ranger p. 6 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bushcraft: Hedge Magic</name>
+    <name>Bushcraft: Hedge Magic (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>(This skill can be chosen multiple times)
@@ -147,7 +147,7 @@ You learn two cantrips of your choice from the druid spell list. Wisdom is your 
 Source:	HeavyArms: The Ranger p. 6 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bushcraft: Finder's Magic</name>
+    <name>Bushcraft: Finder's Magic (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: 3rd-level ranger (HeavyArms), Hedge Magic skill
@@ -157,7 +157,7 @@ Once between rests, you can cast locate animals or plants or locate object witho
 Source:	HeavyArms: The Ranger p. 6 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bushcraft: Overgrowth</name>
+    <name>Bushcraft: Overgrowth (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: 3rd-level ranger (HeavyArms), Hedge Magic skill
@@ -167,7 +167,7 @@ You can spend 1 focus point to cast entangle or spike growth, without expending 
 Source:	HeavyArms: The Ranger p. 6 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bushcraft: Planar Tether</name>
+    <name>Bushcraft: Planar Tether (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: 9th-level ranger (HeavyArms), Hedge Magic skill
@@ -177,7 +177,7 @@ When a favored enemy you can see within 60 feet of you attempts to travel using 
 Source:	HeavyArms: The Ranger p. 6 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bushcraft: Shadowbind</name>
+    <name>Bushcraft: Shadowbind (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: 6th-level ranger (HeavyArms), Hedge Magic skill
@@ -187,7 +187,7 @@ You can spend 1 focus point as a bonus action to force a creature you can see wi
 Source:	HeavyArms: The Ranger p. 6 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bushcraft: Trackless Step</name>
+    <name>Bushcraft: Trackless Step (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: 3rd-level ranger (HeavyArms), Hedge Magic skill
@@ -197,7 +197,7 @@ Once between long rests, you can cast pass without trace without expending a spe
 Source:	HeavyArms: The Ranger p. 6 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bushcraft: Wild Empathy</name>
+    <name>Bushcraft: Wild Empathy (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: Hedge Magic skill
@@ -207,7 +207,7 @@ You can cast animal messenger, beast sense, and speak with animals at will, with
 Source:	HeavyArms: The Ranger p. 6 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bushcraft: Hide in Plain Sight</name>
+    <name>Bushcraft: Hide in Plain Sight (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>You can Hide when you are lightly obscured, even if you are being directly observed. Furthermore, missing with an attack while hidden doesn't give away your position.
@@ -215,7 +215,7 @@ Source:	HeavyArms: The Ranger p. 6 (Homebrew)</text>
 Source:	HeavyArms: The Ranger p. 6 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bushcraft: Hide in Plain Sight</name>
+    <name>Bushcraft: Hide in Plain Sight (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: 6th-level ranger (HeavyArms)
@@ -226,7 +226,7 @@ Source:	HeavyArms: The Ranger p. 6 (Homebrew)</text>
     <roll description="Bleeding Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Bushcraft: Mutagencraft</name>
+    <name>Bushcraft: Mutagencraft (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: Survived a mutagenic augmentation process
@@ -240,7 +240,7 @@ Source:	HeavyArms: The Ranger p. 6 (Homebrew)</text>
     <roll description="Bleeding Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Bushcraft: Decoctions</name>
+    <name>Bushcraft: Decoctions (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>The decoctions are presented in alphabetical order.
@@ -273,7 +273,7 @@ Source:	HeavyArms: The Ranger p. 6 (Homebrew)</text>
     <roll description="Bleeding Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Bushcraft: Natural Explorer</name>
+    <name>Bushcraft: Natural Explorer (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: 1st-level ranger (HeavyArms)
@@ -286,7 +286,7 @@ Source:	HeavyArms: The Ranger p. 7 (Homebrew)</text>
     <roll description="Bleeding Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Bushcraft: Blink Step</name>
+    <name>Bushcraft: Blink Step (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: Natural Explorer skill
@@ -297,7 +297,7 @@ Source:	HeavyArms: The Ranger p. 7 (Homebrew)</text>
     <roll description="Bleeding Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Bushcraft: Vanish</name>
+    <name>Bushcraft: Vanish (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: Blink Step skill
@@ -308,7 +308,7 @@ Source:	HeavyArms: The Ranger p. 7 (Homebrew)</text>
     <roll description="Bleeding Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Bushcraft: Pathfinder</name>
+    <name>Bushcraft: Pathfinder (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: Natural Explorer skill
@@ -319,7 +319,7 @@ Source:	HeavyArms: The Ranger p. 7 (Homebrew)</text>
     <roll description="Bleeding Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Bushcraft: Reflex Action</name>
+    <name>Bushcraft: Reflex Action (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: 6th-level ranger (HeavyArms)
@@ -330,7 +330,7 @@ Source:	HeavyArms: The Ranger p. 7 (Homebrew)</text>
     <roll description="Bleeding Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Bushcraft: Scavenger</name>
+    <name>Bushcraft: Scavenger (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>While traveling in the wilderness, you can spend time scavenging or making useful items. This activity can be performed as part of a long rest or while traveling at a slow pace. At the end of every hour spent, make a Wisdom (Survival) check. You create or find adventuring gear and other valuables (which can include coin) with a total value in gp equal to the check total.
@@ -339,7 +339,7 @@ Source:	HeavyArms: The Ranger p. 7 (Homebrew)</text>
     <roll description="Bleeding Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Bushcraft: Threat Map</name>
+    <name>Bushcraft: Threat Map (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>You are aware of the location of any creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded, deafened, or unconscious. Invisible creatures that aren't hidden from you gain no benefit from being invisible against you. This effect can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
@@ -348,7 +348,7 @@ Source:	HeavyArms: The Ranger p. 7 (Homebrew)</text>
     <roll description="Bleeding Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Bushcraft: Magic Sense</name>
+    <name>Bushcraft: Magic Sense (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: Threat Map skill
@@ -359,7 +359,7 @@ Source:	HeavyArms: The Ranger p. 7 (Homebrew)</text>
     <roll description="Bleeding Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Bushcraft: Wide Scan</name>
+    <name>Bushcraft: Wide Scan (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: Threat Map skill
@@ -370,7 +370,7 @@ Source:	HeavyArms: The Ranger p. 7 (Homebrew)</text>
     <roll description="Bleeding Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Bushcraft: Thrown Weapon Master</name>
+    <name>Bushcraft: Thrown Weapon Master (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Attacking at long range doesn't impose disadvantage on your ranged attack rolls with thrown weapons.
@@ -379,7 +379,7 @@ Source:	HeavyArms: The Ranger p. 7 (Homebrew)</text>
     <roll description="Bleeding Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Bushcraft: Trap Expertise</name>
+    <name>Bushcraft: Trap Expertise (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>You add your proficiency bonus to the initial save DC of traps you set, and you are considered proficient with a set of thieves' tools for the purpose of disarming traps.
@@ -388,7 +388,7 @@ Source:	HeavyArms: The Ranger p. 7 (Homebrew)</text>
     <roll description="Bleeding Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Bushcraft: Trap Sense</name>
+    <name>Bushcraft: Trap Sense (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>You have advantage on ability checks you make to detect the presence of traps and dungeon hazards and on saving throws made to avoid or resist them.
@@ -397,7 +397,7 @@ Source:	HeavyArms: The Ranger p. 7 (Homebrew)</text>
     <roll description="Bleeding Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Bushcraft: Wilderness Expertise</name>
+    <name>Bushcraft: Wilderness Expertise (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: 1st-level ranger (HeavyArms)
@@ -410,7 +410,7 @@ Source:	HeavyArms: The Ranger p. 7 (Homebrew)</text>
     <roll description="Bleeding Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Bushcraft: Woodland Stride</name>
+    <name>Bushcraft: Woodland Stride (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Your walking speed increases by 10 feet. If you have a climbing or swimming speed, this increase applies to that speed as well. In addition, moving through nonmagical difficult terrain doesn't cost you any extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
@@ -419,7 +419,7 @@ Source:	HeavyArms: The Ranger p. 7 (Homebrew)</text>
     <roll description="Bleeding Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Bushcraft: Freerunner</name>
+    <name>Bushcraft: Freerunner (TP)</name>
     <level>0</level>
     <classes>Ranger (HeavyArms): Bushcraft</classes>
     <text>Prerequisite: 6th-level ranger (HeavyArms), Woodland Stride skill

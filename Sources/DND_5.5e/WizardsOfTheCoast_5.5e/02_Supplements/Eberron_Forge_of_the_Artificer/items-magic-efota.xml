@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Dazzling Psychic Blade [2024]</name>
+    <name>Dazzling Psychic Blade</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -27,7 +27,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Club [2024]</name>
+    <name>Dazzling Club</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -50,7 +50,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Dagger [2024]</name>
+    <name>Dazzling Dagger</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -78,7 +78,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Greatclub [2024]</name>
+    <name>Dazzling Greatclub</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -101,7 +101,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Handaxe [2024]</name>
+    <name>Dazzling Handaxe</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -127,7 +127,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Javelin [2024]</name>
+    <name>Dazzling Javelin</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -151,7 +151,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Light Hammer [2024]</name>
+    <name>Dazzling Light Hammer</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -177,7 +177,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Mace [2024]</name>
+    <name>Dazzling Mace</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -198,7 +198,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Quarterstaff [2024]</name>
+    <name>Dazzling Quarterstaff</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -222,7 +222,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Sickle [2024]</name>
+    <name>Dazzling Sickle</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -245,7 +245,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Spear [2024]</name>
+    <name>Dazzling Spear</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -272,7 +272,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Dart [2024]</name>
+    <name>Dazzling Dart</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -298,7 +298,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Light Crossbow [2024]</name>
+    <name>Dazzling Light Crossbow</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -328,7 +328,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Shortbow [2024]</name>
+    <name>Dazzling Shortbow</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -356,7 +356,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Sling [2024]</name>
+    <name>Dazzling Sling</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -382,7 +382,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Battleaxe [2024]</name>
+    <name>Dazzling Battleaxe</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -406,7 +406,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Flail [2024]</name>
+    <name>Dazzling Flail</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -427,7 +427,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Glaive [2024]</name>
+    <name>Dazzling Glaive</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -454,7 +454,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Greataxe [2024]</name>
+    <name>Dazzling Greataxe</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -479,7 +479,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Greatsword [2024]</name>
+    <name>Dazzling Greatsword</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -504,7 +504,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Halberd [2024]</name>
+    <name>Dazzling Halberd</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -531,7 +531,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Lance [2024]</name>
+    <name>Dazzling Lance</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -560,7 +560,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Longsword [2024]</name>
+    <name>Dazzling Longsword</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -584,7 +584,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Maul [2024]</name>
+    <name>Dazzling Maul</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -609,7 +609,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Morningstar [2024]</name>
+    <name>Dazzling Morningstar</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -630,7 +630,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Pike [2024]</name>
+    <name>Dazzling Pike</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -657,7 +657,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Rapier [2024]</name>
+    <name>Dazzling Rapier</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -680,7 +680,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Scimitar [2024]</name>
+    <name>Dazzling Scimitar</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -705,7 +705,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Shortsword [2024]</name>
+    <name>Dazzling Shortsword</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -730,7 +730,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Trident [2024]</name>
+    <name>Dazzling Trident</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -757,7 +757,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Warhammer [2024]</name>
+    <name>Dazzling Warhammer</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -781,7 +781,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling War Pick [2024]</name>
+    <name>Dazzling War Pick</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -805,7 +805,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Whip [2024]</name>
+    <name>Dazzling Whip</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -830,7 +830,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Blowgun [2024]</name>
+    <name>Dazzling Blowgun</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -858,7 +858,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Hand Crossbow [2024]</name>
+    <name>Dazzling Hand Crossbow</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -888,7 +888,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Heavy Crossbow [2024]</name>
+    <name>Dazzling Heavy Crossbow</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -920,7 +920,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Longbow [2024]</name>
+    <name>Dazzling Longbow</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -950,7 +950,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Musket [2024]</name>
+    <name>Dazzling Musket</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -980,7 +980,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dazzling Pistol [2024]</name>
+    <name>Dazzling Pistol</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1007,7 +1007,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Repeating Shot Light Crossbow [2024]</name>
+    <name>Repeating Shot Light Crossbow</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1036,7 +1036,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Repeating Shot Shortbow [2024]</name>
+    <name>Repeating Shot Shortbow</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1063,7 +1063,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Repeating Shot Sling [2024]</name>
+    <name>Repeating Shot Sling</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1088,7 +1088,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Repeating Shot Blowgun [2024]</name>
+    <name>Repeating Shot Blowgun</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1115,7 +1115,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Repeating Shot Hand Crossbow [2024]</name>
+    <name>Repeating Shot Hand Crossbow</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1144,7 +1144,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Repeating Shot Heavy Crossbow [2024]</name>
+    <name>Repeating Shot Heavy Crossbow</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1175,7 +1175,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Repeating Shot Longbow [2024]</name>
+    <name>Repeating Shot Longbow</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1204,7 +1204,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Repeating Shot Musket [2024]</name>
+    <name>Repeating Shot Musket</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1233,7 +1233,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Repeating Shot Pistol [2024]</name>
+    <name>Repeating Shot Pistol</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1259,7 +1259,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Returning Psychic Blade [2024]</name>
+    <name>Returning Psychic Blade</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1283,7 +1283,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Returning Dagger [2024]</name>
+    <name>Returning Dagger</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1309,7 +1309,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Returning Handaxe [2024]</name>
+    <name>Returning Handaxe</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1333,7 +1333,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Returning Javelin [2024]</name>
+    <name>Returning Javelin</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1355,7 +1355,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Returning Light Hammer [2024]</name>
+    <name>Returning Light Hammer</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1379,7 +1379,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Returning Spear [2024]</name>
+    <name>Returning Spear</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1404,7 +1404,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Returning Dart [2024]</name>
+    <name>Returning Dart</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1428,7 +1428,7 @@ Source:	Eberron: Forge of the Artificer p. 112,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Returning Trident [2024]</name>
+    <name>Returning Trident</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>

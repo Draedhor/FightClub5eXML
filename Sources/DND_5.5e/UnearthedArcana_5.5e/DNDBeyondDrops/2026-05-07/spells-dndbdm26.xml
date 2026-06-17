@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Astral Flood [5.5e]</name>
+    <name>Astral Flood (UA)</name>
     <level>3</level>
     <school>EV</school>
     <time>1 action</time>
     <range>self (30-foot cone)</range>
     <components>V, S, M (a mixture of water and powdered silver)</components>
     <duration>Instantaneous</duration>
-    <classes>School: Evocation, Bard [5.5e], Cleric [5.5e], Sorcerer [5.5e], Wizard [5.5e]</classes>
+    <classes>School: Evocation, Bard, Cleric, Sorcerer, Wizard</classes>
     <text>You channel energy from the Astral Sea to unleash a torrent of magic from you in a 30-foot Cone. Each creature in the Cone must succeed on a Dexterity saving throw or take 4d10 Cold or Radiant damage (chosen when you cast this spell). Your choice of damage type determines an additional effect:
 
 	Cold Damage: The target has Disadvantage on the next D20 Test it makes before the end of your next turn.
@@ -27,7 +27,7 @@ Source:	DND Beyond Drops - May</text>
     <roll description="Cold" level="9">10d10</roll>
   </spell>
   <spell>
-    <name>Buzzing Bee [5.5e]</name>
+    <name>Buzzing Bee (UA)</name>
     <level>1</level>
     <school>C</school>
     <time>1 action</time>
@@ -41,7 +41,7 @@ Source:	DND Beyond Drops - May</text>
 Source:	DND Beyond Drops - May</text>
   </spell>
   <spell>
-    <name>Insidious Rhythm [5.5e]</name>
+    <name>Insidious Rhythm (UA)</name>
     <level>1</level>
     <school>EN</school>
     <time>1 action</time>
@@ -56,7 +56,7 @@ Using a Higher-Level Spell Slot: You can target one additional creature for each
 Source:	DND Beyond Drops - May</text>
   </spell>
   <spell>
-    <name>Leomund's Lamentable Belaborment [5.5e]</name>
+    <name>Leomund's Lamentable Belaborment (UA)</name>
     <level>6</level>
     <school>EN</school>
     <time>1 action</time>
@@ -71,7 +71,7 @@ Source:	DND Beyond Drops - May</text>
 Source:	DND Beyond Drops - May</text>
   </spell>
   <spell>
-    <name>Sticks to Snakes [5.5e]</name>
+    <name>Sticks to Snakes (UA)</name>
     <level>4</level>
     <school>T</school>
     <time>1 action</time>

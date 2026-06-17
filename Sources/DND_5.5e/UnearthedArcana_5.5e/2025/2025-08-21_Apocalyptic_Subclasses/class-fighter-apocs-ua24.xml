@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Fighter</name>
+    <name>Fighter (UA)</name>
     <!-- Fighter Subclass: Gladiator (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -46,7 +46,7 @@ Source:	UA25-ApocalypticSubclasses p. 3</text>
 Source:	UA25-ApocalypticSubclasses p. 3</text>
       </feature>
       <counter>
-        <name>Flourish Counter</name>
+        <name>Flourish Counter (UA)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Gladiator (UA)</subclass>
@@ -89,7 +89,7 @@ These effects last until the target regains Hit Points.
 Source:	UA25-ApocalypticSubclasses p. 3</text>
       </feature>
       <counter>
-        <name>Mutilate</name>
+        <name>Mutilate (UA)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Gladiator (UA)</subclass>

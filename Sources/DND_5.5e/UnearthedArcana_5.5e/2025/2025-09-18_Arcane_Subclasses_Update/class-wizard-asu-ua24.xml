@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Wizard</name>
+    <name>Wizard (UA)</name>
     <!-- Wizard Subclass: Conjurer v2 (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -116,7 +116,7 @@ Source:	UA25-ArcaneSubclassesUpdate p. 7</text>
 Source:	UA25-ArcaneSubclassesUpdate p. 7</text>
       </feature>
       <counter>
-        <name>Bolstering Belief</name>
+        <name>Bolstering Belief (UA)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Enchanter v2 (UA)</subclass>
@@ -242,7 +242,7 @@ Source:	UA25-ArcaneSubclassesUpdate p. 9</text>
         <roll description="Damage">2d6</roll>
       </feature>
       <counter>
-        <name>Wondrous Alteration</name>
+        <name>Wondrous Alteration (UA)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Transmuter v2 (UA)</subclass>
@@ -257,7 +257,7 @@ Source:	UA25-ArcaneSubclassesUpdate p. 9</text>
 Source:	UA25-ArcaneSubclassesUpdate p. 9</text>
       </feature>
       <counter>
-        <name>Empowered Transmutation</name>
+        <name>Empowered Transmutation (UA)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Transmuter v2 (UA)</subclass>

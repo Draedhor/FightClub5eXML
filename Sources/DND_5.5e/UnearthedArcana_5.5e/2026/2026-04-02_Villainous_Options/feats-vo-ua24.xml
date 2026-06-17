@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <feat>
-    <name>Path of the Death Knight (UA) [5.5e]</name>
+    <name>Path of the Death Knight (UA)</name>
     <text>Death knights are dastards, deserters, and disgraced champions, undead warriors who march toward perdition to fulfill selfish desires and slake their bloodthirst. A death knight's martial prowess is inextricably tied to their evil nature, but their heinous deeds extend far beyond the battlefield.
 
 Death Knight Journeys:
@@ -36,7 +36,7 @@ Source:	Villainous Options p. 9 (Unearthed Arcana)</text>
     <roll description="Death Knight Journeys">1d6</roll>
   </feat>
   <feat>
-    <name>Path of the Death Knight: Death Knight Initiate (Strength) (UA) [5.5e]</name>
+    <name>Path of the Death Knight: Death Knight Initiate (Strength) (UA)</name>
     <prerequisite>Level 4+, Weapon Mastery Feature</prerequisite>
     <text>You gain the following benefits.
 
@@ -51,7 +51,7 @@ Source:	Villainous Options p. 9 (Unearthed Arcana)</text>
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Path of the Death Knight: Death Knight Initiate (Charisma) (UA) [5.5e]</name>
+    <name>Path of the Death Knight: Death Knight Initiate (Charisma) (UA)</name>
     <prerequisite>Level 4+, Weapon Mastery Feature</prerequisite>
     <text>You gain the following benefits.
 
@@ -66,7 +66,7 @@ Source:	Villainous Options p. 9 (Unearthed Arcana)</text>
     <modifier category="ability score">charisma +1</modifier>
   </feat>
   <feat>
-    <name>Path of the Death Knight: Dread Authority (Constitution) (UA) [5.5e]</name>
+    <name>Path of the Death Knight: Dread Authority (Constitution) (UA)</name>
     <prerequisite>Death Knight Initiate Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -78,7 +78,7 @@ Source:	Villainous Options p. 9 (Unearthed Arcana)</text>
     <modifier category="ability score">constitution +1</modifier>
   </feat>
   <feat>
-    <name>Path of the Death Knight: Dread Authority (Charisma) (UA) [5.5e]</name>
+    <name>Path of the Death Knight: Dread Authority (Charisma) (UA)</name>
     <prerequisite>Death Knight Initiate Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -90,7 +90,7 @@ Source:	Villainous Options p. 9 (Unearthed Arcana)</text>
     <modifier category="ability score">charisma +1</modifier>
   </feat>
   <feat>
-    <name>Path of the Death Knight: Harbinger of Doom (Strength) (UA) [5.5e]</name>
+    <name>Path of the Death Knight: Harbinger of Doom (Strength) (UA)</name>
     <prerequisite>Death Knight Initiate Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -103,7 +103,7 @@ Source:	Villainous Options p. 10 (Unearthed Arcana)</text>
     <roll description="Subtract from Roll">1d6</roll>
   </feat>
   <feat>
-    <name>Path of the Death Knight: Harbinger of Doom (Constitution) (UA) [5.5e]</name>
+    <name>Path of the Death Knight: Harbinger of Doom (Constitution) (UA)</name>
     <prerequisite>Death Knight Initiate Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -116,7 +116,7 @@ Source:	Villainous Options p. 10 (Unearthed Arcana)</text>
     <roll description="Subtract from Roll">1d6</roll>
   </feat>
   <feat>
-    <name>Path of the Death Knight: Harbinger of Doom (Charisma) (UA) [5.5e]</name>
+    <name>Path of the Death Knight: Harbinger of Doom (Charisma) (UA)</name>
     <prerequisite>Death Knight Initiate Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -129,7 +129,7 @@ Source:	Villainous Options p. 10 (Unearthed Arcana)</text>
     <roll description="Subtract from Roll">1d6</roll>
   </feat>
   <feat>
-    <name>Path of the Death Knight: Deathly Presence (Strength) (UA) [5.5e]</name>
+    <name>Path of the Death Knight: Deathly Presence (Strength) (UA)</name>
     <prerequisite>Level 8+, Death Knight Initiate Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -142,7 +142,7 @@ Source:	Villainous Options p. 10 (Unearthed Arcana)</text>
     <roll description="Psychic Damage">2d6</roll>
   </feat>
   <feat>
-    <name>Path of the Death Knight: Deathly Presence (Constitution) (UA) [5.5e]</name>
+    <name>Path of the Death Knight: Deathly Presence (Constitution) (UA)</name>
     <prerequisite>Level 8+, Death Knight Initiate Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -155,7 +155,7 @@ Source:	Villainous Options p. 10 (Unearthed Arcana)</text>
     <roll description="Psychic Damage">2d6</roll>
   </feat>
   <feat>
-    <name>Path of the Death Knight: Deathly Presence (Charisma) (UA) [5.5e]</name>
+    <name>Path of the Death Knight: Deathly Presence (Charisma) (UA)</name>
     <prerequisite>Level 8+, Death Knight Initiate Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -168,7 +168,7 @@ Source:	Villainous Options p. 10 (Unearthed Arcana)</text>
     <roll description="Psychic Damage">2d6</roll>
   </feat>
   <feat>
-    <name>Path of the Death Knight: Unholy Steed (Strength) (UA) [5.5e]</name>
+    <name>Path of the Death Knight: Unholy Steed (Strength) (UA)</name>
     <prerequisite>Level 8+, Death Knight Initiate Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -180,7 +180,7 @@ Source:	Villainous Options p. 10 (Unearthed Arcana)</text>
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Path of the Death Knight: Unholy Steed (Constitution) (UA) [5.5e]</name>
+    <name>Path of the Death Knight: Unholy Steed (Constitution) (UA)</name>
     <prerequisite>Level 8+, Death Knight Initiate Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -192,7 +192,7 @@ Source:	Villainous Options p. 10 (Unearthed Arcana)</text>
     <modifier category="ability score">constitution +1</modifier>
   </feat>
   <feat>
-    <name>Path of the Death Knight: Death Knight Ascension (Strength) (UA) [5.5e]</name>
+    <name>Path of the Death Knight: Death Knight Ascension (Strength) (UA)</name>
     <prerequisite>Level 12+, two Path of the Death Knight Feats</prerequisite>
     <text>Your path to becoming a death knight is complete. You gain the following benefits.
 
@@ -208,7 +208,7 @@ Source:	Villainous Options p. 10 (Unearthed Arcana)</text>
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Path of the Death Knight: Death Knight Ascension (Charisma) (UA) [5.5e]</name>
+    <name>Path of the Death Knight: Death Knight Ascension (Charisma) (UA)</name>
     <prerequisite>Level 12+, two Path of the Death Knight Feats</prerequisite>
     <text>Your path to becoming a death knight is complete. You gain the following benefits.
 
@@ -224,7 +224,7 @@ Source:	Villainous Options p. 10 (Unearthed Arcana)</text>
     <modifier category="ability score">charisma +1</modifier>
   </feat>
   <feat>
-    <name>Path of the Lich (UA) [5.5e]</name>
+    <name>Path of the Lich (UA)</name>
     <text>Liches are powerful spellcasters who have conquered death through the relentless pursuit of arcane power. All liches undergo a ritual that binds their soul to a spirit jar, a personal and well-protected object that allows the lich's destroyed body to re-form as long as the object is intact.
 
 Lich Rites:
@@ -261,7 +261,7 @@ Source:	Villainous Options p. 11</text>
     <roll description="Lich Rites">1d6</roll>
   </feat>
   <feat>
-    <name>Path of the Lich: Lich Initiate (Intelligence) (UA) [5.5e]</name>
+    <name>Path of the Lich: Lich Initiate (Intelligence) (UA)</name>
     <prerequisite>Level 4+, Spellcasting or Pact Magic Feature</prerequisite>
     <text>You take the first steps toward lichdom, which involve creating your spirit jar, a magical vessel that anchors your soul to the world of the living in the event of your body's destruction.
 	You gain the following benefits.
@@ -289,7 +289,7 @@ Source:	Villainous Options p. 11</text>
     <roll description="Extra Necrotic Damage">1d6</roll>
   </feat>
   <feat>
-    <name>Path of the Lich: Lich Initiate (Wisdom) (UA) [5.5e]</name>
+    <name>Path of the Lich: Lich Initiate (Wisdom) (UA)</name>
     <prerequisite>Level 4+, Spellcasting or Pact Magic Feature</prerequisite>
     <text>You take the first steps toward lichdom, which involve creating your spirit jar, a magical vessel that anchors your soul to the world of the living in the event of your body's destruction.
 	You gain the following benefits.
@@ -317,7 +317,7 @@ Source:	Villainous Options p. 11</text>
     <roll description="Extra Necrotic Damage">1d6</roll>
   </feat>
   <feat>
-    <name>Path of the Lich: Lich Initiate (Charisma) (UA) [5.5e]</name>
+    <name>Path of the Lich: Lich Initiate (Charisma) (UA)</name>
     <prerequisite>Level 4+, Spellcasting or Pact Magic Feature</prerequisite>
     <text>You take the first steps toward lichdom, which involve creating your spirit jar, a magical vessel that anchors your soul to the world of the living in the event of your body's destruction.
 	You gain the following benefits.
@@ -345,7 +345,7 @@ Source:	Villainous Options p. 11</text>
     <roll description="Extra Necrotic Damage">1d6</roll>
   </feat>
   <feat>
-    <name>Path of the Lich: Arcane Restoration (Intelligence) (UA) [5.5e]</name>
+    <name>Path of the Lich: Arcane Restoration (Intelligence) (UA)</name>
     <prerequisite>Lich Initiate Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -357,7 +357,7 @@ Source:	Villainous Options p. 12</text>
     <modifier category="ability score">intelligence +1</modifier>
   </feat>
   <feat>
-    <name>Path of the Lich: Arcane Restoration (Wisdom) (UA) [5.5e]</name>
+    <name>Path of the Lich: Arcane Restoration (Wisdom) (UA)</name>
     <prerequisite>Lich Initiate Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -369,7 +369,7 @@ Source:	Villainous Options p. 12</text>
     <modifier category="ability score">wisdom +1</modifier>
   </feat>
   <feat>
-    <name>Path of the Lich: Arcane Restoration (Charisma) (UA) [5.5e]</name>
+    <name>Path of the Lich: Arcane Restoration (Charisma) (UA)</name>
     <prerequisite>Lich Initiate Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -381,7 +381,7 @@ Source:	Villainous Options p. 12</text>
     <modifier category="ability score">charisma +1</modifier>
   </feat>
   <feat>
-    <name>Path of the Lich: Transfer Life (Intelligence) (UA) [5.5e]</name>
+    <name>Path of the Lich: Transfer Life (Intelligence) (UA)</name>
     <prerequisite>Lich Initiate Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -393,7 +393,7 @@ Source:	Villainous Options p. 12</text>
     <modifier category="ability score">intelligence +1</modifier>
   </feat>
   <feat>
-    <name>Path of the Lich: Transfer Life (Wisdom) (UA) [5.5e]</name>
+    <name>Path of the Lich: Transfer Life (Wisdom) (UA)</name>
     <prerequisite>Lich Initiate Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -405,7 +405,7 @@ Source:	Villainous Options p. 12</text>
     <modifier category="ability score">wisdom +1</modifier>
   </feat>
   <feat>
-    <name>Path of the Lich: Transfer Life (Charisma) (UA) [5.5e]</name>
+    <name>Path of the Lich: Transfer Life (Charisma) (UA)</name>
     <prerequisite>Lich Initiate Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -417,7 +417,7 @@ Source:	Villainous Options p. 12</text>
     <modifier category="ability score">charisma +1</modifier>
   </feat>
   <feat>
-    <name>Path of the Lich: Undead Grasp (Intelligence) (UA) [5.5e]</name>
+    <name>Path of the Lich: Undead Grasp (Intelligence) (UA)</name>
     <prerequisite>Lich Initiate Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -432,7 +432,7 @@ Source:	Villainous Options p. 12</text>
     <roll description="Extra Necrotic Damage">1d10</roll>
   </feat>
   <feat>
-    <name>Path of the Lich: Undead Grasp (Wisdom) (UA) [5.5e]</name>
+    <name>Path of the Lich: Undead Grasp (Wisdom) (UA)</name>
     <prerequisite>Lich Initiate Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -447,7 +447,7 @@ Source:	Villainous Options p. 12</text>
     <roll description="Extra Necrotic Damage">1d10</roll>
   </feat>
   <feat>
-    <name>Path of the Lich: Undead Grasp (Charisma) (UA) [5.5e]</name>
+    <name>Path of the Lich: Undead Grasp (Charisma) (UA)</name>
     <prerequisite>Lich Initiate Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -462,7 +462,7 @@ Source:	Villainous Options p. 12</text>
     <roll description="Extra Necrotic Damage">1d10</roll>
   </feat>
   <feat>
-    <name>Path of the Lich: Lich Ascension (Intelligence) (UA) [5.5e]</name>
+    <name>Path of the Lich: Lich Ascension (Intelligence) (UA)</name>
     <prerequisite>Level 12+, at least two Path of the Lich Feats</prerequisite>
     <text>Your path to lichdom is complete. You gain the following benefits.
 
@@ -481,7 +481,7 @@ Source:	Villainous Options p. 12</text>
     <roll description="Days">1d10</roll>
   </feat>
   <feat>
-    <name>Path of the Lich: Lich Ascension (Wisdom) (UA) [5.5e]</name>
+    <name>Path of the Lich: Lich Ascension (Wisdom) (UA)</name>
     <prerequisite>Level 12+, at least two Path of the Lich Feats</prerequisite>
     <text>Your path to lichdom is complete. You gain the following benefits.
 
@@ -500,7 +500,7 @@ Source:	Villainous Options p. 12</text>
     <roll description="Days">1d10</roll>
   </feat>
   <feat>
-    <name>Path of the Lich: Lich Ascension (Charisma) (UA) [5.5e]</name>
+    <name>Path of the Lich: Lich Ascension (Charisma) (UA)</name>
     <prerequisite>Level 12+, at least two Path of the Lich Feats</prerequisite>
     <text>Your path to lichdom is complete. You gain the following benefits.
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Drow Bad News +1</name>
+    <name>Drow Bad News +1 (TP)</name>
     <detail>firearm, modern, sniper rifle, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -37,7 +37,7 @@ Source:	Monster Manual (2014) p. 126,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Drow Blunderbuss +1 (Matthew Mercer)</name>
+    <name>Drow Blunderbuss +1 (Matthew Mercer) (TP)</name>
     <detail>firearm, modern, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -71,7 +71,7 @@ Source:	Monster Manual (2014) p. 126,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Drow Hand Mortar +1</name>
+    <name>Drow Hand Mortar +1 (TP)</name>
     <detail>firearm, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -102,7 +102,7 @@ Source:	Monster Manual (2014) p. 126,
     <roll description="Fire Damage">1d8</roll>
   </item>
   <item>
-    <name>Drow Musket +1 (Matthew Mercer)</name>
+    <name>Drow Musket +1 (Matthew Mercer) (TP)</name>
     <detail>firearm, renaissance, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -138,7 +138,7 @@ Source:	Monster Manual (2014) p. 126,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Drow Palm Pistol +1</name>
+    <name>Drow Palm Pistol +1 (TP)</name>
     <detail>firearm, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -176,7 +176,7 @@ Source:	Monster Manual (2014) p. 126,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Drow Pistol +1 (Matthew Mercer)</name>
+    <name>Drow Pistol +1 (Matthew Mercer) (TP)</name>
     <detail>firearm, renaissance, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -210,7 +210,7 @@ Source:	Monster Manual (2014) p. 126,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Drow Pepperbox +1</name>
+    <name>Drow Pepperbox +1 (TP)</name>
     <detail>firearm, very rare</detail>
     <type>R</type>
     <magic>YES</magic>

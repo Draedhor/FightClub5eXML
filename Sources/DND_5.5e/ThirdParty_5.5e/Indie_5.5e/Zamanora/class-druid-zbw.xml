@@ -4,7 +4,7 @@
     <name>Druid</name>
     <autolevel level="3">
       <feature optional="YES">
-        <name>Veilmark Information (Zamanora)</name>
+        <name>Veilmark Information (Zamanora) (TP)</name>
         <text>It is said that trespassing upon the spirit world leaves a tangible brand on one's body and soul. Mortals should never peer beyond the Veil, lest the spirits take notice and mark them forevermore. Let a marked person into your home and you invite certain calamity. The lands of Zamanora are riddled with such fiction and cautionary tales that only work to paint those who are inquisitive in a bad light. Yet they are right about one thing; someone who interacts with the Hidden World too often is bound to be "marked".
 
 As characters engage in encounters with curses, spirits, and other supernatural phenomena, they accrue Veilmark. This attribute reflects their growing connection to the spirit realm and the transformative effects of these experiences on their physical and spiritual selves. Veilmarked is the term used by the Zamanori to describe individuals who have thus changed, and denotes characters who have accrued enough Veilmark to cross a threshold. If playing in a different setting, you may use the broader term Aura to describe the system.
@@ -126,13 +126,13 @@ Source:	Zamanora: Ballad of the Witch p. 120 (Homebrew)</text>
     <!-- Druid Subclass: Circle of the Berendei (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Druid Subclass: Circle of the Berendei (HB)</name>
+        <name>Druid Subclass: Circle of the Berendei (TP)</name>
         <text>While the curse of shapeshifting is feared across the realm as the ultimate act of divine punishment, the Druids of the sacred Circle of the Berendei embrace it willingly as a blessing. Capable of assuming the forms of ferocious werebears, the Berendei employ the gifts of Belegorn to the service of their god. They zealously act to maintain balance between the Real and the Hidden World, combat accursed lycanthropes and shepherd the souls of the departed onto Nav, bearing the primal powers of death while warding the cycle of life. The Zamanori view the Berendei as benevolent symbols of great reverence, believing them to speak with the voice of the Treefather himself, as they bestow righteous justice upon the wicked and the profane, while alleviating the pain of the wrongly afflicted.
 
 Source:	Zamanora: Ballad of the Witch p. 72 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Circle of the Berendei Spells (Circle of the Berendei (HB))</name>
+        <name>Circle of the Berendei Spells (Circle of the Berendei (TP))</name>
         <text>When you reach a Druid level specified in the Circle of the Berendei Spells table, you thereafter always have the listed spells prepared.
 
 Circle of the Berendei Spells:
@@ -145,7 +145,7 @@ Druid Level | Prepared Spells
 Source:	Zamanora: Ballad of the Witch p. 73 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Hybrid Form (Circle of the Berendei (HB))</name>
+        <name>Hybrid Form (Circle of the Berendei (TP))</name>
         <text>You embrace the primal gifts of Belegorn. As a Bonus Action you can expend a use of your Wild Shape feature to take on a hybrid form of a werebear. Each time you do so, instead of following the transformation rules of Wild Shape, you gain the following benefit:
 
 	Berendei Magic. You can cast spells normally while benefiting from this feature.
@@ -171,7 +171,7 @@ Source:	Zamanora: Ballad of the Witch p. 73 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Ursine Pilgrim (Circle of the Berendei (HB))</name>
+        <name>Ursine Pilgrim (Circle of the Berendei (TP))</name>
         <text>You can attack twice, instead of once, whenever you take the Attack Action on your turn while in your hybrid form (but only once using your Bite for your extra attack). When you attack a Bloodied creature, your natural weapons can score a Critical Hit on a roll of 19 or 20 on the d20. Additionally, each of your natural weapon attacks can deal its normal damage type or Necrotic damage. You make this choice each time you hit with those attacks.
 
 Source:	Zamanora: Ballad of the Witch p. 73 (Homebrew)</text>
@@ -179,7 +179,7 @@ Source:	Zamanora: Ballad of the Witch p. 73 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Grimclaw (Circle of the Berendei (HB))</name>
+        <name>Grimclaw (Circle of the Berendei (TP))</name>
         <text>The potency of your power over the cycle of life and death grows. While in your hybrid form, you gain natural armor, increasing your AC by a number equal to the maximum number of your Wild Shape uses. Additionally, your natural weapon attacks deal bonus Necrotic damage equal to your Wisdom modifier.
 	Finally, when you score a Critical Hit while in your hybrid form, the target also suffers the effects of the Bestow Curse spell. If this occurs while you are concentrating on another spell, you must choose which spell you wish to maintain Concentration on.
 
@@ -188,14 +188,14 @@ Source:	Zamanora: Ballad of the Witch p. 74 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Roots of the Sacred Tree (Circle of the Berendei (HB))</name>
+        <name>Roots of the Sacred Tree (Circle of the Berendei (TP))</name>
         <text>The wrath of the gods incarnates through your very form. As a true gatekeeper of the Underworld, the spirits of the realm brace you when you are about to fall. Upon being reduced to 0 Hit Points but not killed outright, you cast the Spirit Guardians spell (at Level 5, Necrotic damage) without expending a spell slot. You do not need to be conscious or concentrate to maintain this effect. Whenever a creature takes damage from this effect, you regain a number of Hit Points equal to half of the Necrotic damage dealt. This effect ends if you die.
 	Once you have used this feature once, you can't use it again until you finish a Long Rest.
 
 Source:	Zamanora: Ballad of the Witch p. 74 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Roots of the Sacred Tree</name>
+        <name>Roots of the Sacred Tree (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Circle of the Berendei (HB)</subclass>
@@ -204,14 +204,14 @@ Source:	Zamanora: Ballad of the Witch p. 74 (Homebrew)</text>
     <!-- Druid Subclass: Circle of the Long Night (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Druid Subclass: Circle of the Long Night (HB)</name>
+        <name>Druid Subclass: Circle of the Long Night (TP)</name>
         <text>Druids of the Circle of the Long Night embody the harshness of winter and the fears that dwell within its unending black nights. They embrace the stillness and dormancy it brings to the world; a necessary struggle before allowing for rebirth and growth in the spring. A time when only the wise and the strong survive, necessary for the cycles of death and rebirth, growth and decay.
 	Druids of this circle understand that the cold and scarcity are no less important than the fear the night brings, as powerful harbingers of change. They become living horrors that showcase the most savage and relentless side of nature or use fear as a means to ignite transformation in others, helping them emerge stronger and more enlightened. To those ends they become the mare in nightmare, the beast of ill omen, the horror that lurks just beyond sight.
 
 Source:	Zamanora: Ballad of the Witch p. 75 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Circle of the Long Night Spells (Circle of the Long Night (HB))</name>
+        <name>Circle of the Long Night Spells (Circle of the Long Night (TP))</name>
         <text>When you reach a Druid level specified in the Circle of the Long Night Spells table, you thereafter always have the listed spells prepared.
 
 Circle of the Long Night Spells:
@@ -224,14 +224,14 @@ Druid Level | Prepared Spells
 Source:	Zamanora: Ballad of the Witch p. 76 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Hoarfrost (Circle of the Long Night (HB))</name>
+        <name>Hoarfrost (Circle of the Long Night (TP))</name>
         <text>Your presence brings the touch of cold with you. As a Bonus Action, you can activate your Hoarfrost for 1 minute. While this aura is active, creatures of your choice within a 15-foot Emanation that surrounds you take Cold damage equal to your Wisdom modifier (minimum of 1) at the start of each of their turns. Creatures in Dim Light or Darkness within the Emanation take additional Psychic damage equal to the Cold damage and have Disadvantage on saving throws made to avoid or end the Frightened condition.
 	You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 Source:	Zamanora: Ballad of the Witch p. 76 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Hoarfrost</name>
+        <name>Hoarfrost (TP)</name>
         <value>2</value>
         <reset>L</reset>
         <subclass>Circle of the Long Night (HB)</subclass>
@@ -239,7 +239,7 @@ Source:	Zamanora: Ballad of the Witch p. 76 (Homebrew)</text>
     </autolevel>
     <autolevel level="5">
       <counter>
-        <name>Hoarfrost</name>
+        <name>Hoarfrost (TP)</name>
         <value>3</value>
         <reset>L</reset>
         <subclass>Circle of the Long Night (HB)</subclass>
@@ -247,7 +247,7 @@ Source:	Zamanora: Ballad of the Witch p. 76 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Shape of Nightmares (Circle of the Long Night (HB))</name>
+        <name>Shape of Nightmares (Circle of the Long Night (TP))</name>
         <text>You can use your Wild Shape to assume the form of creatures that embody the deepest fears of your enemies. When you use your Wild Shape, you can choose to assume the form of a creature that a target within 60 feet of you fears most (at the Storyteller's discretion) for 10 minutes, or until you choose to end it (no action required). Your physical shape does not alter, as this feature only affects the way that the target perceives you. For the duration of the effect, you can use a Bonus Action to change its target. Creatures with Truesight ignore this feature's effects.
 	While you are in this form, you gain the following benefits against the target creature:
 
@@ -263,7 +263,7 @@ Source:	Zamanora: Ballad of the Witch p. 76 (Homebrew)</text>
     </autolevel>
     <autolevel level="9">
       <counter>
-        <name>Hoarfrost</name>
+        <name>Hoarfrost (TP)</name>
         <value>4</value>
         <reset>L</reset>
         <subclass>Circle of the Long Night (HB)</subclass>
@@ -271,7 +271,7 @@ Source:	Zamanora: Ballad of the Witch p. 76 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Desolation's Grasp (Circle of the Long Night (HB))</name>
+        <name>Desolation's Grasp (Circle of the Long Night (TP))</name>
         <text>The frigid magic within you, awakens feelings of isolation and its chilling grasp deepens. Whenever you deal Cold damage to a creature, it is no longer considered a willing target for other creatures' spells and effects until the start of your next turn. Additionally, creatures that start their turn within Hoarfrost have their Speed halved and lose any immunities to the Frightened condition until the start of their next turn.
 
 Source:	Zamanora: Ballad of the Witch p. 76 (Homebrew)</text>
@@ -279,7 +279,7 @@ Source:	Zamanora: Ballad of the Witch p. 76 (Homebrew)</text>
     </autolevel>
     <autolevel level="13">
       <counter>
-        <name>Hoarfrost</name>
+        <name>Hoarfrost (TP)</name>
         <value>5</value>
         <reset>L</reset>
         <subclass>Circle of the Long Night (HB)</subclass>
@@ -287,21 +287,21 @@ Source:	Zamanora: Ballad of the Witch p. 76 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Cold Night's Embrace (Circle of the Long Night (HB))</name>
+        <name>Cold Night's Embrace (Circle of the Long Night (TP))</name>
         <text>Call upon the dark grasp of winter to snuff the light in an area. As a Magic Action, you can submerge an area with a 120-foot radius Emanation centered on you into shadow. The shadows last for 10 minutes or until you dismiss them as a Bonus Action. While this shadow persists, all color is drained away, leaving everything in shades of black and white. You and creatures of your choice treat this area as Dim Light, while enemies perceive the area as Darkness. If Hoarfrost is active while you are within this area, its effects extend to the entire radius of this Emanation.
 	You can use this feature once, regaining its usage after finishing a Long Rest.
 
 Source:	Zamanora: Ballad of the Witch p. 77 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Scion of Morana (Circle of the Long Night (HB))</name>
+        <name>Scion of Morana (Circle of the Long Night (TP))</name>
         <text>Like the beast of prophecy devouring the sun, your magic can plunge the world into darkness. You can cast the Control Weather spell without expending a spell slot and without needing to maintain Concentration. When casting this spell and changing the weather conditions in this way, you can also change the lighting within the affected area by one step for the duration.
 	You can use this feature once, regaining its usage after 7 days.
 
 Source:	Zamanora: Ballad of the Witch p. 77 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Cold Night's Embrace</name>
+        <name>Cold Night's Embrace (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Circle of the Long Night (HB)</subclass>
@@ -309,7 +309,7 @@ Source:	Zamanora: Ballad of the Witch p. 77 (Homebrew)</text>
     </autolevel>
     <autolevel level="17">
       <counter>
-        <name>Hoarfrost</name>
+        <name>Hoarfrost (TP)</name>
         <value>6</value>
         <reset>L</reset>
         <subclass>Circle of the Long Night (HB)</subclass>
@@ -318,14 +318,14 @@ Source:	Zamanora: Ballad of the Witch p. 77 (Homebrew)</text>
     <!-- Druid Subclass: Circle of the Oakenheart (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Druid Subclass: Circle of the Oakenheart (HB)</name>
+        <name>Druid Subclass: Circle of the Oakenheart (TP)</name>
         <text>Druids of the Circle of the Oakenheart embody the harsh reality of the deep woods. They are the will of the wild in its most unyielding and merciless form. To them, the natural world and the mortal one are two separate realms: the first ancient and deliberate, shaped into balance through eons of growth, the second fleeting and restless, forever in flux. They believe the wild does not mingle with civilization, and though some crossing is inevitable, there are some places that brook no trespass.
 	Often solitary onlookers, these Druids rarely intervene in social affairs unless the forest itself is imperiled. To the Zamanori, they exist in cautionary tales, warning against braving the unknown weald; for a single transgression may be the difference between an Oakenheart leading a wayfarer safely through the woods, or drowning them in unforgiving soil.
 
 Source:	Zamanora: Ballad of the Witch p. 78 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Circle Spells (Circle of the Oakenheart (HB))</name>
+        <name>Circle Spells (Circle of the Oakenheart (TP))</name>
         <text>When you reach a Druid level specified in the Circle of the Oakenheart Spells table, you thereafter always have the listed spells prepared. In addition, you can cast the spells from this feature while you're in a Wild Shape form.
 
 Circle of the Oakenheart Spells:
@@ -338,7 +338,7 @@ Druid Level | Prepared Spells
 Source:	Zamanora: Ballad of the Witch p. 78 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Wrath of the Wildwood (Circle of the Oakenheart (HB))</name>
+        <name>Wrath of the Wildwood (Circle of the Oakenheart (TP))</name>
         <text>You draw upon the primal powers of nature to enhance your forms. When you use Wild Shape, you can expend a spell slot to empower your new form, granting you the benefits below.
 
 	Creature Type. You can choose to transform into a Plant form that you have learned instead.
@@ -352,7 +352,7 @@ Source:	Zamanora: Ballad of the Witch p. 79 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Breaking Boughs (Circle of the Oakenheart (HB))</name>
+        <name>Breaking Boughs (Circle of the Oakenheart (TP))</name>
         <text>As your attunement to the grim woods of Zamanora increases, so does your strength. While in a Wild Shape form, your melee attacks may target one additional creature within your reach that is adjacent to the original target. You compare the same attack roll against each targeted creature's AC.
 
 Source:	Zamanora: Ballad of the Witch p. 79 (Homebrew)</text>
@@ -360,7 +360,7 @@ Source:	Zamanora: Ballad of the Witch p. 79 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>One with the Land (Circle of the Oakenheart (HB))</name>
+        <name>One with the Land (Circle of the Oakenheart (TP))</name>
         <text>You have learned to become a conduit for the power of the earth. While you are in Wild Shape form, you can use a Bonus Action to root yourself into the ground, gaining the following benefits:
 
 	Immovable. Your Speed becomes 0. You can't be knocked Prone or be forcibly moved.
@@ -374,7 +374,7 @@ Your rooted state lasts for 1 minute or until you choose to uproot yourself (Bon
 Source:	Zamanora: Ballad of the Witch p. 79 (Homebrew)</text>
       </feature>
       <counter>
-        <name>One with the Land</name>
+        <name>One with the Land (TP)</name>
         <value>2</value>
         <reset>L</reset>
         <subclass>Circle of the Oakenheart (HB)</subclass>
@@ -382,7 +382,7 @@ Source:	Zamanora: Ballad of the Witch p. 79 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>The Deep Dark Woods (Circle of the Oakenheart (HB))</name>
+        <name>The Deep Dark Woods (Circle of the Oakenheart (TP))</name>
         <text>You gain the ability to banish a creature into the darkest corners of the deepwood. As a Magic Action, you can force a creature within your reach to make a Charisma saving throw, suffering the effects of the Maze spell on a failure. While a creature is inside your maze it also suffers the effects of your Rootsnare feature. To navigate the labyrinthine woods and escape, a creature must succeed on an Intelligence (Investigation) check against your spell save DC (instead of 20).
 	Once you use this feature, you can't use it again until you finish a Long Rest.
 
@@ -391,115 +391,115 @@ Source:	Zamanora: Ballad of the Witch p. 79 (Homebrew)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Ancestral Guidance (HB) [2024]</name>
+    <name>Ancestral Guidance (TP)</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Augury [2024]</name>
+    <name>Augury (TP)</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Guidance [2024]</name>
+    <name>Guidance (TP)</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Inflict Wounds [2024]</name>
+    <name>Inflict Wounds (TP)</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Protection from Evil and Good [2024]</name>
+    <name>Protection from Evil and Good (TP)</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Bestow Curse [2024]</name>
+    <name>Bestow Curse (TP)</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Remove Curse [2024]</name>
+    <name>Remove Curse (TP)</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Banishment [2024]</name>
+    <name>Banishment (TP)</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Spirit Sense (HB) [2024]</name>
+    <name>Spirit Sense (TP)</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Dispel Evil and Good [2024]</name>
+    <name>Dispel Evil and Good (TP)</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Reincarnate [2024]</name>
+    <name>Reincarnate (TP)</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Dissonant Whispers [2024]</name>
+    <name>Dissonant Whispers (TP)</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Elementalism [2024]</name>
+    <name>Elementalism (TP)</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Find Steed (HB) [2024]</name>
+    <name>Find Steed (TP)</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Ice Knife [2024]</name>
+    <name>Ice Knife (TP)</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Mirror Image [2024]</name>
+    <name>Mirror Image (TP)</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Fear [2024]</name>
+    <name>Fear (TP)</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Sleet Storm [2024]</name>
+    <name>Sleet Storm (TP)</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Ice Storm [2024]</name>
+    <name>Ice Storm (TP)</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Phantasmal Killer [2024]</name>
+    <name>Phantasmal Killer (TP)</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Deepening Gloom (HB) [2024]</name>
+    <name>Deepening Gloom (TP)</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Dream [2024]</name>
+    <name>Dream (TP)</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Barkskin [2024]</name>
+    <name>Barkskin (TP)</name>
     <classes>Druid (Circle of the Oakenheart (HB))</classes>
   </spell>
   <spell>
-    <name>Ensnaring Strike [2024]</name>
+    <name>Ensnaring Strike (TP)</name>
     <classes>Druid (Circle of the Oakenheart (HB))</classes>
   </spell>
   <spell>
-    <name>Shillelagh [2024]</name>
+    <name>Shillelagh (TP)</name>
     <classes>Druid (Circle of the Oakenheart (HB))</classes>
   </spell>
   <spell>
-    <name>Speak with Plants [2024]</name>
+    <name>Speak with Plants (TP)</name>
     <classes>Druid (Circle of the Oakenheart (HB))</classes>
   </spell>
   <spell>
-    <name>Woodland Awakening (HB) [2024]</name>
+    <name>Woodland Awakening (TP)</name>
     <classes>Druid (Circle of the Oakenheart (HB))</classes>
   </spell>
   <spell>
-    <name>Tree Stride [2024]</name>
+    <name>Tree Stride (TP)</name>
     <classes>Druid (Circle of the Oakenheart (HB))</classes>
   </spell>
 </compendium>

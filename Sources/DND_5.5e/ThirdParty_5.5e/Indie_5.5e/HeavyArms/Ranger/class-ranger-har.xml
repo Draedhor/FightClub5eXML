@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Ranger (HeavyArms)</name>
+    <name>Ranger (HeavyArms) (TP)</name>
     <hd>8</hd>
     <proficiency>Strength, Dexterity, Animal Handling, Athletics, Insight, Investigation, Medicine, Nature, Perception, Stealth, Survival</proficiency>
     <numSkills>3</numSkills>
@@ -12,7 +12,7 @@
     <spellAbility>Wisdom</spellAbility>
     <slotsReset>L</slotsReset>
     <trait>
-      <name>Creating a Ranger</name>
+      <name>Creating a Ranger (TP)</name>
       <text>As you create your ranger character, consider your journey through life, and how that path lead to accumulating the skills you now have. Did you grow up with a mentor, learning the ways of the ranger from a young age, or did you find your own path? What motivated you, and does it still motivate you now? Perhaps you took up arms to protect something you hold dear, or maybe you trained to exact revenge? What keeps you hungry for adventure?
 
 Quick Build:
@@ -22,7 +22,7 @@ Source:	HeavyArms: The Ranger (Homebrew)</text>
     </trait>
     <autolevel level="1">
       <feature optional="YES">
-        <name>Starting Ranger</name>
+        <name>Starting Ranger (TP)</name>
         <text>As a 1st-level Ranger (HeavyArms), you begin play with 8 + your Constitution modifier hit points.
 
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
@@ -44,7 +44,7 @@ If you forgo this starting equipment, as well as the items offered by your backg
 Source:	HeavyArms: The Ranger p. 3 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Multiclass Ranger</name>
+        <name>Multiclass Ranger (TP)</name>
         <text>If your group uses the optional rule on multiclassing in the Player's Handbook, here's what you need to know if you choose ranger as one of your classes.
 
 Ability Score Minimum:
@@ -64,7 +64,7 @@ When you gain your first level in a class other than your initial class, you gai
 Source:	HeavyArms: The Ranger p. 3 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Multiclass Features</name>
+        <name>Multiclass Features (TP)</name>
         <text>When you gain a new level in a class, you get its features for that level. You don't, however, receive the class's starting equipment, and a few features have additional rules when you're multiclassing: Channel Divinity, Extra Attack, Unarmored Defense, and Spellcasting.
 
 Channel Divinity:
@@ -96,7 +96,7 @@ If you have both the Spellcasting class feature and the Pact Magic class feature
 Source:	Player's Handbook (2014) p. 164</text>
       </feature>
       <feature>
-        <name>Bushcraft</name>
+        <name>Bushcraft (TP)</name>
         <text>You can adapt quickly to your environment, mastering the skills you need to prevail in any situation. You gain two bushcraft skills, choosing from the list of bushcraft skills from the "Ranger (HeavyArms): Bushcraft" spell list. You gain an additional skill of your choice when you reach certain levels in this class, as shown in the Bushcraft Skills column of the Ranger table.
 	Whenever you gain a level in this class, you can replace one bushcraft skill you know with a different one that you could learn at that level.
 
@@ -106,7 +106,7 @@ You must meet all the prerequisites a bushcraft skill has in order to learn that
 Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
       </feature>
       <feature>
-        <name>Favored Enemy</name>
+        <name>Favored Enemy (TP)</name>
         <text>You have significant experience hunting and tracking certain types of creature. Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two humanoid races (such as elves and orcs) as favored enemies.
 	You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them. Furthermore, you always know when you are in the lair of a favored enemy.
 	Whenever you gain a level in this class, you can replace one of your chosen favored enemy types with another type you have encountered on your adventures.
@@ -114,14 +114,14 @@ Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
 Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Bushcraft Skills</name>
+        <name>Bushcraft Skills (TP)</name>
         <value>2</value>
         <reset>L</reset>
       </counter>
     </autolevel>
     <autolevel level="2">
       <feature>
-        <name>Focus</name>
+        <name>Focus (TP)</name>
         <text>In combat, your keen senses allow you to strike at the right moment. This awareness is represented by focus. At the start of each of your turns in combat, you gain 1 focus point. You can't gain focus points when you're incapacitated.
 You can spend focus points on various focus features. You start knowing four such features: Blade Dance, Lightning Reflexes, Rapid Fire, and Swift Action. You learn more focus features as you gain levels in this class. The maximum number of focus points you can spend on a turn equals your proficiency bonus.
 	You lose all your focus points at the end of the combat, if you are knocked unconscious, or if you die.
@@ -146,26 +146,26 @@ Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
     </autolevel>
     <autolevel level="3">
       <feature>
-        <name>Adaptive Hunter</name>
+        <name>Adaptive Hunter (TP)</name>
         <text>Whenever you finish a long rest, you can replace one of your chosen favored enemy types with another one.
 
 Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
       </feature>
       <feature>
-        <name>Survival Instinct</name>
+        <name>Survival Instinct (TP)</name>
         <text>When you roll initiative, you gain a number of focus points equal to your Wisdom modifier (minimum of 1 point). You don't gain this benefit if you're surprised.
 
 Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Bushcraft Skills</name>
+        <name>Bushcraft Skills (TP)</name>
         <value>3</value>
         <reset>L</reset>
       </counter>
     </autolevel>
     <autolevel level="4" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Ability Score Improvement</name>
+        <name>Ability Score Improvement (TP)</name>
         <text>When you reach 4th level, and again at 6th, 8th, 10th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
@@ -175,13 +175,13 @@ Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
     </autolevel>
     <autolevel level="5">
       <feature>
-        <name>Superior Focus</name>
+        <name>Superior Focus (TP)</name>
         <text>You gain an additional focus point at the start of each of your turns in combat.
 
 Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
       </feature>
       <feature>
-        <name>Focused Aim</name>
+        <name>Focused Aim (TP)</name>
         <text>When you make a weapon attack roll, you can spend 1 focus point to make it with advantage.
 
 Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
@@ -189,7 +189,7 @@ Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
     </autolevel>
     <autolevel level="6" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Ability Score Improvement</name>
+        <name>Ability Score Improvement (TP)</name>
         <text>When you reach 6th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
@@ -197,14 +197,14 @@ If your DM allows the use of feats, you may instead take a feat.
 Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Bushcraft Skills</name>
+        <name>Bushcraft Skills (TP)</name>
         <value>4</value>
         <reset>L</reset>
       </counter>
     </autolevel>
     <autolevel level="7">
       <feature>
-        <name>Uncanny Dodge</name>
+        <name>Uncanny Dodge (TP)</name>
         <text>When a creature you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
 
 Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
@@ -212,7 +212,7 @@ Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
     </autolevel>
     <autolevel level="8" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Ability Score Improvement</name>
+        <name>Ability Score Improvement (TP)</name>
         <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
@@ -222,20 +222,20 @@ Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
     </autolevel>
     <autolevel level="9">
       <feature>
-        <name>Superior Bushcraft</name>
+        <name>Superior Bushcraft (TP)</name>
         <text>Whenever you finish a long rest, you can replace one of the bushcraft skills you know with a different one.
 
 Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Bushcraft Skills</name>
+        <name>Bushcraft Skills (TP)</name>
         <value>5</value>
         <reset>L</reset>
       </counter>
     </autolevel>
     <autolevel level="10" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Ability Score Improvement</name>
+        <name>Ability Score Improvement (TP)</name>
         <text>When you reach 10th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
@@ -245,7 +245,7 @@ Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
     </autolevel>
     <autolevel level="11">
       <feature>
-        <name>Veteran's Guile</name>
+        <name>Veteran's Guile (TP)</name>
         <text>When you roll for initiative, you can use your reaction to use one of your focus features that normally takes an action or a bonus action, spending focus points as normal.
 
 Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
@@ -253,7 +253,7 @@ Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
     </autolevel>
     <autolevel level="12" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Ability Score Improvement</name>
+        <name>Ability Score Improvement (TP)</name>
         <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
@@ -261,14 +261,14 @@ If your DM allows the use of feats, you may instead take a feat.
 Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Bushcraft Skills</name>
+        <name>Bushcraft Skills (TP)</name>
         <value>6</value>
         <reset>L</reset>
       </counter>
     </autolevel>
     <autolevel level="13">
       <feature>
-        <name>Rugged Endurance</name>
+        <name>Rugged Endurance (TP)</name>
         <text>You can add half your proficiency bonus (rounded down) to any saving throw you make that doesn't already include your proficiency bonus.
 
 Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
@@ -276,7 +276,7 @@ Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
     </autolevel>
     <autolevel level="14" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Ability Score Improvement</name>
+        <name>Ability Score Improvement (TP)</name>
         <text>When you reach 14th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
@@ -286,20 +286,20 @@ Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
     </autolevel>
     <autolevel level="15">
       <feature>
-        <name>Legendary Hunter</name>
+        <name>Legendary Hunter (TP)</name>
         <text>You know if a favored enemy that you can see is legendary, as well as any legendary traits it has. Once per turn when you hit a legendary favored enemy with a weapon attack, you can spend 1 focus point to cause the target to lose one use of the legendary resistance trait if it has any uses of that trait remaining.
 
 Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Bushcraft Skills</name>
+        <name>Bushcraft Skills (TP)</name>
         <value>7</value>
         <reset>L</reset>
       </counter>
     </autolevel>
     <autolevel level="16" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Ability Score Improvement</name>
+        <name>Ability Score Improvement (TP)</name>
         <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
@@ -309,13 +309,13 @@ Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
     </autolevel>
     <autolevel level="17">
       <feature>
-        <name>Horde Breaker</name>
+        <name>Horde Breaker (TP)</name>
         <text>You can spend 5 focus points to cast conjure volley or steel wind strike without expending a spell slot.
 
 Source:	HeavyArms: The Ranger p. 5 (Homebrew)</text>
       </feature>
       <feature>
-        <name>Epic Focus</name>
+        <name>Epic Focus (TP)</name>
         <text>Whenever your turn ends in combat and you have no focus points remaining, you gain 1 focus point.
 
 Source:	HeavyArms: The Ranger p. 5 (Homebrew)</text>
@@ -323,14 +323,14 @@ Source:	HeavyArms: The Ranger p. 5 (Homebrew)</text>
     </autolevel>
     <autolevel level="18">
       <counter>
-        <name>Bushcraft Skills</name>
+        <name>Bushcraft Skills (TP)</name>
         <value>8</value>
         <reset>L</reset>
       </counter>
     </autolevel>
     <autolevel level="19" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Ability Score Improvement</name>
+        <name>Ability Score Improvement (TP)</name>
         <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
@@ -340,7 +340,7 @@ Source:	HeavyArms: The Ranger p. 4 (Homebrew)</text>
     </autolevel>
     <autolevel level="20">
       <feature>
-        <name>Apex Predator</name>
+        <name>Apex Predator (TP)</name>
         <text>All creatures count as your favored enemy.
 
 Source:	HeavyArms: The Ranger p. 5 (Homebrew)</text>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Warlock [5.5e]</name>
+    <name>Warlock</name>
     <!-- Warlock Subclass: Undead Patron -->
     <autolevel level="3">
       <feature optional="YES">
@@ -13,7 +13,7 @@ You've made a pact with a creature that defies the cycle of life and death: a po
 Source:	Ravenloft: The Horrors Within</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Form of Dread (Undead Patron)</name>
+        <name>Form of Dread (Undead Patron)</name>
         <text>As a Bonus Action, you transform into an avatar of your patron's dreadful power, gaining the benefits below for 1 minute, until you have the Incapacitated condition, or until you end the form (no action required). You can transform a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 	Facsimile of Life. You gain Temporary Hit Points equal to 1d10 plus your Warlock level.
@@ -26,7 +26,7 @@ Source:	Ravenloft: The Horrors Within</text>
         <roll description="Temporary Hit Points">1d10+%7</roll>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Undead Spells (Undead Patron)</name>
+        <name>Undead Spells (Undead Patron)</name>
         <text>The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Undead Spells table, you thereafter always have the listed spells prepared.
 
 Undead Spells:
@@ -41,7 +41,7 @@ Source:	Ravenloft: The Horrors Within</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Grave Touched (Undead Patron)</name>
+        <name>Grave Touched (Undead Patron)</name>
         <text>Your patron's powers have a profound effect on your body and magic, granting you the following benefits.
 
 	Arcane Necrosis. Necrotic damage from your attacks, Warlock spells, and Warlock features ignores Resistance to Necrotic damage. Once per turn when you cast a spell that deals damage, you can change that spell's damage type to Necrotic.
@@ -55,7 +55,7 @@ Source:	Ravenloft: The Horrors Within</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Necrotic Husk (Undead Patron)</name>
+        <name>Necrotic Husk (Undead Patron)</name>
         <text>Your connection to undeath saturates your body. You gain the following benefits.
 
 	Necrotic Resilience. You have Resistance to Necrotic damage. While using your Form of Dread, you have Immunity to Necrotic damage.
@@ -69,7 +69,7 @@ Source:	Ravenloft: The Horrors Within</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Superior Dread (Undead Patron)</name>
+        <name>Superior Dread (Undead Patron)</name>
         <text>Your Form of Dread improves, granting you the following benefits while you are using it.
 
 	Dread Resistance. You have Resistance to Bludgeoning, Piercing, and Slashing damage.
@@ -84,43 +84,43 @@ Source:	Ravenloft: The Horrors Within</text>
     </autolevel>
   </class>
   <spell>
-    <name>Bane [5.5e]</name>
-    <classes>Warlock [5.5e] (Undead Patron)</classes>
+    <name>Bane</name>
+    <classes>Warlock (Undead Patron)</classes>
   </spell>
   <spell>
-    <name>Blindness/Deafness [5.5e]</name>
-    <classes>Warlock [5.5e] (Undead Patron)</classes>
+    <name>Blindness/Deafness</name>
+    <classes>Warlock (Undead Patron)</classes>
   </spell>
   <spell>
-    <name>Phantasmal Force [5.5e]</name>
-    <classes>Warlock [5.5e] (Undead Patron)</classes>
+    <name>Phantasmal Force</name>
+    <classes>Warlock (Undead Patron)</classes>
   </spell>
   <spell>
-    <name>Ray of Sickness [5.5e]</name>
-    <classes>Warlock [5.5e] (Undead Patron)</classes>
+    <name>Ray of Sickness</name>
+    <classes>Warlock (Undead Patron)</classes>
   </spell>
   <spell>
-    <name>Speak with Dead [5.5e]</name>
-    <classes>Warlock [5.5e] (Undead Patron)</classes>
+    <name>Speak with Dead</name>
+    <classes>Warlock (Undead Patron)</classes>
   </spell>
   <spell>
-    <name>Summon Undead [5.5e]</name>
-    <classes>Warlock [5.5e] (Undead Patron)</classes>
+    <name>Summon Undead</name>
+    <classes>Warlock (Undead Patron)</classes>
   </spell>
   <spell>
-    <name>Greater Invisibility [5.5e]</name>
-    <classes>Warlock [5.5e] (Undead Patron)</classes>
+    <name>Greater Invisibility</name>
+    <classes>Warlock (Undead Patron)</classes>
   </spell>
   <spell>
-    <name>Phantasmal Killer [5.5e]</name>
-    <classes>Warlock [5.5e] (Undead Patron)</classes>
+    <name>Phantasmal Killer</name>
+    <classes>Warlock (Undead Patron)</classes>
   </spell>
   <spell>
-    <name>Antilife Shell [5.5e]</name>
-    <classes>Warlock [5.5e] (Undead Patron)</classes>
+    <name>Antilife Shell</name>
+    <classes>Warlock (Undead Patron)</classes>
   </spell>
   <spell>
-    <name>Cloudkill [5.5e]</name>
-    <classes>Warlock [5.5e] (Undead Patron)</classes>
+    <name>Cloudkill</name>
+    <classes>Warlock (Undead Patron)</classes>
   </spell>
 </compendium>

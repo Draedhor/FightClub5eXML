@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Bard [5.5e]</name>
+    <name>Bard</name>
     <!-- Bard Subclass: College of Dolce Stil Novo (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Bard Subclass: College of Dolce Stil Novo (HB)</name>
+        <name>Bard Subclass: College of Dolce Stil Novo (TP)</name>
         <text>Weave magic through their poetic language and transcendent visions
 
 E io a lui: «I' mi son un che, quando
@@ -23,7 +23,7 @@ The name ('sweet new style') comes from a dialogue in Dante's Purgatorio (xxiv. 
 Source:	Old World's Might - Subclasses from Old Europe p. 11 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Poetic Transcendence (College of Dolce Stil Novo (HB))</name>
+        <name>Poetic Transcendence (College of Dolce Stil Novo (TP))</name>
         <text>You channel your bardic magic through refined and metaphysical poetry, inspiring profound thoughts and feelings.
 
 	Inspiration of Love. When a creature uses your Bardic Inspiration die, it regains hit points equal to the number rolled + your Charisma modifier (minimum of 1).
@@ -37,7 +37,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 11 (Homebrew)</text>
 Source:	Old World's Might - Subclasses from Old Europe p. 11 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Voice of the Muse (College of Dolce Stil Novo (HB))</name>
+        <name>Voice of the Muse (College of Dolce Stil Novo (TP))</name>
         <text>Your connection to divine inspiration sharpens your eloquence and insight. You gain proficiency in Insight or Performance, and one additional language of your choice. You gain Expertise in one of these skills if you are already proficient in both.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 11 (Homebrew)</text>
@@ -45,7 +45,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 11 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Visionary Verse (College of Dolce Stil Novo (HB))</name>
+        <name>Visionary Verse (College of Dolce Stil Novo (TP))</name>
         <text>Your poetry channels visions of divine beauty and metaphysical truth that inspire or bewilder your audience.
 	As a Magic Action, you can weave a Visionary Verse. Choose up to three creatures within 60 feet of you that can hear you:
 
@@ -58,7 +58,7 @@ Once you use this feature, you cannot use it again until you finish a Long Rest.
 Source:	Old World's Might - Subclasses from Old Europe p. 11 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Visionary Verse</name>
+        <name>Visionary Verse (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>College of Dolce Stil Novo (HB)</subclass>
@@ -66,7 +66,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 11 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Divine Illumination (College of Dolce Stil Novo (HB))</name>
+        <name>Divine Illumination (College of Dolce Stil Novo (TP))</name>
         <text>Channeling the power of pure beauty and divine inspiration, as a Magic Action you invoke the highest ideals of the Dolce Stil Novo poets, that take the form of a 15-foot Emanation around you:
 
 	Aura of Inspiration. While in the Emanation, your Allies are Immune to Psychic Damage and gain a bonus to their saving throws equal to your Charisma modifier. When the Emanation enters an Hostile creature's space and whenever that creature enters the Emanation for the first time in a turn, or starts its turn there, that creature makes a Charisma saving throw against your spell save DC. Failure: Disadvantage on any Tests until the end of its next turn.
@@ -80,7 +80,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 11 (Homebrew)</text>
         <roll description="Psychic Damage">6d10</roll>
       </feature>
       <counter>
-        <name>Divine Illumination</name>
+        <name>Divine Illumination (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>College of Dolce Stil Novo (HB)</subclass>
@@ -89,7 +89,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 11 (Homebrew)</text>
     <!-- Bard Subclass: College of Skalds (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Bard Subclass: College of Skalds (HB)</name>
+        <name>Bard Subclass: College of Skalds (TP)</name>
         <text>Drawing power from epic tales
 
 Theme: Norse warrior-poets who inspire allies with tales of heroism and channel primal rage and magic.
@@ -101,7 +101,7 @@ Skalds, or skálds (meaning "poet" in Old Norse), were poets who composed skaldi
 Source:	Old World's Might - Subclasses from Old Europe p. 9 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Skald's Inspiration (College of Skalds (HB))</name>
+        <name>Skald's Inspiration (College of Skalds (TP))</name>
         <text>When you join the College of the Skald at 3rd level, your Bardic Inspiration takes on a martial edge. You gain the following benefits:
 
 	Battle Chant. When a creature uses your Bardic Inspiration die, they can choose to deal extra damage equal to the die roll on a weapon attack or gain Temporary Hit Points equal to the roll.
@@ -111,7 +111,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 9 (Homebrew)</text>
 Source:	Old World's Might - Subclasses from Old Europe p. 9 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Words of Fury (College of Skalds (HB))</name>
+        <name>Words of Fury (College of Skalds (TP))</name>
         <text>You can stir the hearts of your Allies into a battle frenzy. As a Bonus Action, you can use your Bardic Inspiration to target up to five creatures that you can see within 30 feet of you.
 	These creatures gain one of the following benefits of your choice until the start of your next turn:
 
@@ -123,7 +123,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 9 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Saga of Heroes (College of Skalds (HB))</name>
+        <name>Saga of Heroes (College of Skalds (TP))</name>
         <text>You invoke the tales of legendary Norse warriors to inspire greatness in your allies. You have the following 
 
 	Saga's Guidance. As a Magic Action, you can choose up to 3 creatures within 60 feet of you. Each creature gains Temporary Hit points equal to twice your Bard level and can add your Charisma modifier to one Test of their choice within the next minute.
@@ -138,7 +138,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 9 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Valkyries' Call (College of Skalds (HB))</name>
+        <name>Valkyries' Call (College of Skalds (TP))</name>
         <text>As a Bonus Action, You call upon the Valkyries, the legendary spirits of battle, that flit around you in a 30-foot Emanation that lasts for 1 minute. While in the Emanation:
 
 	• Your Allies have advantage on Death Saving Throws and saving throws against the Frightened condition.
@@ -152,7 +152,7 @@ Once you use this feature, you can't use it again until you finish a Long Rest.
 Source:	Old World's Might - Subclasses from Old Europe p. 9 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Valkyries' Call</name>
+        <name>Valkyries' Call (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>College of Skalds (HB)</subclass>
@@ -161,7 +161,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 9 (Homebrew)</text>
     <!-- Bard Subclass: College of the Cabaret (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Bard Subclass: College of the Cabaret (HB)</name>
+        <name>Bard Subclass: College of the Cabaret (TP)</name>
         <text>Extravagant master performer
 
 Theme: Flamboyant and provocative performers who beguile and dazzle through sharp wit and charm.
@@ -173,7 +173,7 @@ Referencing the period between 1871 to 1914, La Belle Époque literally means "t
 Source:	Old World's Might - Subclasses from Old Europe p. 16 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Dazzling Presence (College of the Cabaret (HB))</name>
+        <name>Dazzling Presence (College of the Cabaret (TP))</name>
         <text>Your performances captivate and confuse onlookers.
 
 	Flamboyant Wit. When you cast a spell that targets a creature, you can use your Bonus Action to distract another creature that can see you within 30 feet of you. The target must make a Wisdom saving throw against your spell save DC. Failure: Disadvantage on its Tests until the end of your next turn.
@@ -185,7 +185,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 16 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Revelry's Charm (College of the Cabaret (HB))</name>
+        <name>Revelry's Charm (College of the Cabaret (TP))</name>
         <text>Your revelry bolsters allies and disorients foes. As a Bonus Action, you can affect up to 6 creatures that can hear or see you within 60 feet of you.
 
 	• For 1 minute, your Allies gain temporary hit points equal to your Bardic Inspiration die at the start of each of their turns.
@@ -197,7 +197,7 @@ Once you use this feature, you can't use it again until you finish a Long Rest. 
 Source:	Old World's Might - Subclasses from Old Europe p. 16 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Revelry's Charm</name>
+        <name>Revelry's Charm (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>College of the Cabaret (HB)</subclass>
@@ -205,7 +205,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 16 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Grand Finale (College of the Cabaret (HB))</name>
+        <name>Grand Finale (College of the Cabaret (TP))</name>
         <text>Your ultimate performance leaves audiences awestruck. As a Magic Action, you unleash a performance that affects all creatures of your choice within 60 feet of you that can hear or see you:
 
 	• Your Allies gain 5d10 temporary hit points, can immediately make a weapon attack as a Reaction, and have Advantage on all saving throws for 1 minute.
@@ -218,7 +218,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 16 (Homebrew)</text>
         <roll description="Temporary Hit Points">5d10</roll>
       </feature>
       <counter>
-        <name>Grand Finale</name>
+        <name>Grand Finale (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>College of the Cabaret (HB)</subclass>
@@ -227,7 +227,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 16 (Homebrew)</text>
     <!-- Bard Subclass: College of the Elizabethan Theatre (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Bard Subclass: College of the Elizabethan Theatre (HB)</name>
+        <name>Bard Subclass: College of the Elizabethan Theatre (TP)</name>
         <text>Enhance acting with magic
 
 Theme: Every feature draws from the spirit of Elizabethan theatre, blending the emotions of tragedy and comedy with the grandeur of live performance.
@@ -239,7 +239,7 @@ Elizabethan theatre, sometimes called English Renaissance theatre, refers to tha
 Source:	Old World's Might - Subclasses from Old Europe p. 13 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Theatrical Persona (College of the Elizabethan Theatre (HB))</name>
+        <name>Theatrical Persona (College of the Elizabethan Theatre (TP))</name>
         <text>You adopt the larger-than-life personas of the stage to captivate and inspire.
 
 	Masks of the Stage. As a Bonus action, you can expend one use of your Bardic Inspiration to assume a theatrical persona, such as the Tragic Hero, the Comedic Fool, or the Noble Monarch, granting you the following benefits for 1 minute:
@@ -254,7 +254,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 13 (Homebrew)</text>
         <roll description="Damage Reduction">1d6</roll>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Wordsmith's Wit (College of the Elizabethan Theatre (HB))</name>
+        <name>Wordsmith's Wit (College of the Elizabethan Theatre (TP))</name>
         <text>Your mastery of dialogue and soliloquy sharpens your ability to manipulate social situations.
 
 	• You gain Proficiency in Deception or Persuasion. You gain Expertise in one of these skills if you are already proficient in both.
@@ -266,7 +266,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 13 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Playwright's Performance (College of the Elizabethan Theatre (HB))</name>
+        <name>Playwright's Performance (College of the Elizabethan Theatre (TP))</name>
         <text>You bring the power of the stage to life, crafting moments of triumph or despair. As a Magic Action, you create a magical performance that affects up to a number of creatures equal to your Charisma modifier (minimum of 1) within 30 feet. Choose one effect:
 
 	Tragedy. Creatures of your choice that can see or hear you must make a Wisdom saving throw against your spell save DC. Failure: 3d8 Psychic damage and Frightened condition until the end of your next turn. Success: Half damage.
@@ -280,7 +280,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 13 (Homebrew)</text>
         <roll description="Healing">2d8</roll>
       </feature>
       <counter>
-        <name>Playwright's Performance</name>
+        <name>Playwright's Performance (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>College of the Elizabethan Theatre (HB)</subclass>
@@ -288,7 +288,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 13 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Stage of Destiny (College of the Elizabethan Theatre (HB))</name>
+        <name>Stage of Destiny (College of the Elizabethan Theatre (TP))</name>
         <text>You create an ethereal magical stage that manifests around you in a 15-foot Emanation that symbolizes themes of Elizabethan theatre to inspire or terrify those who witness it. The Emanation lasts for 1 minute.
 
 	Grand Performance. Within:
@@ -309,7 +309,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 14 (Homebrew)</text>
         <roll description="Psychic Damage">6d10</roll>
       </feature>
       <counter>
-        <name>Stage of Destiny</name>
+        <name>Stage of Destiny (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>College of the Elizabethan Theatre (HB)</subclass>
@@ -318,7 +318,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 14 (Homebrew)</text>
     <!-- Bard Subclass: College of the Minnesingers (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Bard Subclass: College of the Minnesingers (HB)</name>
+        <name>Bard Subclass: College of the Minnesingers (TP)</name>
         <text>Make extraordinary endeavors through love and magic
 
 Theme: Romantic and spiritual devotion, uplifting allies through love and reverence.
@@ -330,7 +330,7 @@ Minnesingers flourished in the Middle-High German period (XII to XIV century). T
 Source:	Old World's Might - Subclasses from Old Europe p. 15 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Devotion's Blessing (College of the Minnesingers (HB))</name>
+        <name>Devotion's Blessing (College of the Minnesingers (TP))</name>
         <text>Your words of love and reverence inspire resilience and determination.
 
 	Aura of Inspiration. When you confer a Bardic Inspiration die to a creature, that creature also gains temporary hit points equal to your Charisma modifier (minimum of 1).
@@ -342,14 +342,14 @@ Source:	Old World's Might - Subclasses from Old Europe p. 15 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Eternal Love (College of the Minnesingers (HB))</name>
+        <name>Eternal Love (College of the Minnesingers (TP))</name>
         <text>Your devotion creates an unbreakable bond. When a creature Allied to you that you can see within 30 feet of you takes damage, you can use your Reaction to reduce the damage by an amount equal to your Bardic Inspiration die + your Charisma modifier.
 	You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 15 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Eternal Love</name>
+        <name>Eternal Love (TP)</name>
         <value>3</value>
         <reset>L</reset>
         <subclass>College of the Minnesingers (HB)</subclass>
@@ -357,7 +357,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 15 (Homebrew)</text>
     </autolevel>
     <autolevel level="9">
       <counter>
-        <name>Eternal Love</name>
+        <name>Eternal Love (TP)</name>
         <value>4</value>
         <reset>L</reset>
         <subclass>College of the Minnesingers (HB)</subclass>
@@ -365,7 +365,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 15 (Homebrew)</text>
     </autolevel>
     <autolevel level="13">
       <counter>
-        <name>Eternal Love</name>
+        <name>Eternal Love (TP)</name>
         <value>5</value>
         <reset>L</reset>
         <subclass>College of the Minnesingers (HB)</subclass>
@@ -373,7 +373,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 15 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Minne's Transcendence (College of the Minnesingers (HB))</name>
+        <name>Minne's Transcendence (College of the Minnesingers (TP))</name>
         <text>Your love and reverence transcend the material, uplifting allies and overwhelming foes.As Bonus action, you can sing a divine ode of love. Each creature of your choice that can hear you within 30 feet of you has the following effects:
 
 	• Your Allies have Advantage on saving throws and gain a bonus to attack rolls equal to your Charisma modifier for 1 minute.
@@ -385,7 +385,7 @@ Once you use this feature, you can't use it again until you finish a Long Rest.
 Source:	Old World's Might - Subclasses from Old Europe p. 15 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Minne's Transcendence</name>
+        <name>Minne's Transcendence (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>College of the Minnesingers (HB)</subclass>
@@ -393,7 +393,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 15 (Homebrew)</text>
     </autolevel>
     <autolevel level="17">
       <counter>
-        <name>Eternal Love</name>
+        <name>Eternal Love (TP)</name>
         <value>6</value>
         <reset>L</reset>
         <subclass>College of the Minnesingers (HB)</subclass>
@@ -402,7 +402,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 15 (Homebrew)</text>
     <!-- Bard Subclass: College of the Troubadour (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Bard Subclass: College of the Troubadour (HB)</name>
+        <name>Bard Subclass: College of the Troubadour (TP)</name>
         <text>Dashing poet-musician in noble courts
 
 Theme: Romantic poet-musicians of medieval France, weaving love and beauty into magic, embodying the spirit of medieval France's traveling poet-musicians, celebrated for their romantic ballads, satirical wit, and courtly presence.
@@ -414,7 +414,7 @@ Troubadours were composers and performesr of Old Occitan lyric poetry during the
 Source:	Old World's Might - Subclasses from Old Europe p. 10 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Ballad of Inspiration (College of the Troubadour (HB))</name>
+        <name>Ballad of Inspiration (College of the Troubadour (TP))</name>
         <text>Your Bardic Inspiration becomes deeply emotional, evoking feelings of love, valor, or wit. You gain the following traits:
 
 	Chivalric Flai. When a creature uses your Bardic Inspiration die, it gains Temporary Hit Points equal to your Charisma modifier (minimum of 1). Additionally, the creature can move up to 10 feet without provoking Opportunity Attacks.
@@ -424,7 +424,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 10 (Homebrew)</text>
 Source:	Old World's Might - Subclasses from Old Europe p. 10 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Courtly Grace (College of the Troubadour (HB))</name>
+        <name>Courtly Grace (College of the Troubadour (TP))</name>
         <text>Your training in etiquette and charm allows you to manipulate social interactions.
 	You gain Proficiency in Persuasion or Performance Skill. If you are already proficient, you gain Expertise in that skill.
 	As a Reaction, when a creature that you can see within 30 feet of you makes an attack roll or saving throw, you can expend one use of Bardic Inspiration to roll the die and either add it to the roll or subtract it.
@@ -434,7 +434,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 10 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Troubadour's Serenade (College of the Troubadour (HB))</name>
+        <name>Troubadour's Serenade (College of the Troubadour (TP))</name>
         <text>You can entrance others with your music and poetry.
 	As a Magic Action, you can perform a magical serenade that affects up to a number of creatures that can hear you equal to your Charisma modifier (minimum of 1) within 30 feet of you. Each creature must make a Wisdom saving throw against your spell save DC. Failure: Charmed condition for 1 minute or until it takes damage. A Charmed creature has also the Incapacitated condition, enraptured by your performance. At the end of each of its next turn, a Charmed creature can make another Wisdom saving throw, ending the effect on itself on a success.
 	Once you use this feature, you can't use it again until you finish a Long Rest.
@@ -442,7 +442,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 10 (Homebrew)</text>
 Source:	Old World's Might - Subclasses from Old Europe p. 10 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Troubadour's Serenade</name>
+        <name>Troubadour's Serenade (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>College of the Troubadour (HB)</subclass>
@@ -450,7 +450,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 10 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Hymn of Devotion (College of the Troubadour (HB))</name>
+        <name>Hymn of Devotion (College of the Troubadour (TP))</name>
         <text>Your songs and poetry channel a powerful magic that inspires loyalty and passion.
 	As a Bonus Action, you can affect each creature of your choice other than you within 30 feet of you that can hear you. Target creatures are Immune to the Frightened and Charmed condition for 1 minute and gain 30 Temporary Hit Points at the start of each of their next turns for 1 minute.
 	Once you use this feature, you can't use it again until you finish a Long Rest.
@@ -458,7 +458,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 10 (Homebrew)</text>
 Source:	Old World's Might - Subclasses from Old Europe p. 10 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Hymn of Devotion</name>
+        <name>Hymn of Devotion (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>College of the Troubadour (HB)</subclass>

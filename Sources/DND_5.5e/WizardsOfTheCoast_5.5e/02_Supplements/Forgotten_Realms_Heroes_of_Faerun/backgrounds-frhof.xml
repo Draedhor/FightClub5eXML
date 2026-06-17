@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Chondathan Freebooter [2024]</name>
+    <name>Chondathan Freebooter</name>
     <proficiency>Athletics, Sleight of Hand</proficiency>
     <trait>
       <name>Description</name>
@@ -29,7 +29,7 @@ Repeatable: You can take this feat more than once.</text>
     </trait>
   </background>
   <background>
-    <name>Dead Magic Dweller [2024]</name>
+    <name>Dead Magic Dweller</name>
     <proficiency>Medicine, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -59,7 +59,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 28</text>
     </trait>
   </background>
   <background>
-    <name>Dragon Cultist [2024]</name>
+    <name>Dragon Cultist</name>
     <proficiency>Deception, Stealth</proficiency>
     <trait>
       <name>Description</name>
@@ -91,7 +91,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 29</text>
     </trait>
   </background>
   <background>
-    <name>Emerald Enclave Caretaker [2024]</name>
+    <name>Emerald Enclave Caretaker</name>
     <proficiency>Nature, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -121,7 +121,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 29</text>
     </trait>
   </background>
   <background>
-    <name>Flaming Fist Mercenary [2024]</name>
+    <name>Flaming Fist Mercenary</name>
     <proficiency>Intimidation, Perception</proficiency>
     <trait>
       <name>Description</name>
@@ -147,7 +147,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 30</text>
     </trait>
   </background>
   <background>
-    <name>Genie Touched [2024]</name>
+    <name>Genie Touched</name>
     <proficiency>Perception, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -181,7 +181,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 30</text>
     </trait>
   </background>
   <background>
-    <name>Harper [2024]</name>
+    <name>Harper</name>
     <proficiency>Performance, Sleight of Hand</proficiency>
     <trait>
       <name>Description</name>
@@ -213,7 +213,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 31</text>
     </trait>
   </background>
   <background>
-    <name>Ice Fisher [2024]</name>
+    <name>Ice Fisher</name>
     <proficiency>Animal Handling, Athletics</proficiency>
     <trait>
       <name>Description</name>
@@ -239,7 +239,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 31</text>
     </trait>
   </background>
   <background>
-    <name>Knight of the Gauntlet [2024]</name>
+    <name>Knight of the Gauntlet</name>
     <proficiency>Athletics, Medicine</proficiency>
     <trait>
       <name>Description</name>
@@ -269,7 +269,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 32</text>
     </trait>
   </background>
   <background>
-    <name>Lords' Alliance Vassal [2024]</name>
+    <name>Lords' Alliance Vassal</name>
     <proficiency>Insight, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -299,7 +299,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 32</text>
     </trait>
   </background>
   <background>
-    <name>Moonwell Pilgrim [2024]</name>
+    <name>Moonwell Pilgrim</name>
     <proficiency>Nature, Performance</proficiency>
     <trait>
       <name>Description</name>
@@ -325,7 +325,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 33</text>
     </trait>
   </background>
   <background>
-    <name>Mulhorandi Tomb Raider [2024]</name>
+    <name>Mulhorandi Tomb Raider</name>
     <proficiency>Investigation, Religion</proficiency>
     <trait>
       <name>Description</name>
@@ -351,7 +351,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 33</text>
     </trait>
   </background>
   <background>
-    <name>Mythalkeeper [2024]</name>
+    <name>Mythalkeeper</name>
     <proficiency>Arcana, History</proficiency>
     <trait>
       <name>Description</name>
@@ -377,7 +377,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 34</text>
     </trait>
   </background>
   <background>
-    <name>Purple Dragon Squire [2024]</name>
+    <name>Purple Dragon Squire</name>
     <proficiency>Animal Handling, Insight</proficiency>
     <trait>
       <name>Description</name>
@@ -409,7 +409,7 @@ Once you use this benefit, you can't do so again until you finish a Long Rest.</
     </trait>
   </background>
   <background>
-    <name>Rashemi Wanderer [2024]</name>
+    <name>Rashemi Wanderer</name>
     <proficiency>Intimidation, Perception</proficiency>
     <trait>
       <name>Description</name>
@@ -435,7 +435,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 35</text>
     </trait>
   </background>
   <background>
-    <name>Shadowmasters Exile [2024]</name>
+    <name>Shadowmasters Exile</name>
     <proficiency>Acrobatics, Stealth</proficiency>
     <trait>
       <name>Description</name>
@@ -461,7 +461,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 25</text>
     </trait>
   </background>
   <background>
-    <name>Spellfire Initiate [2024]</name>
+    <name>Spellfire Initiate</name>
     <proficiency>Arcana, Perception</proficiency>
     <trait>
       <name>Description</name>
@@ -491,7 +491,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 36</text>
     </trait>
   </background>
   <background>
-    <name>Zhentarim Mercenary [2024]</name>
+    <name>Zhentarim Mercenary</name>
     <proficiency>Intimidation, Perception</proficiency>
     <trait>
       <name>Description</name>

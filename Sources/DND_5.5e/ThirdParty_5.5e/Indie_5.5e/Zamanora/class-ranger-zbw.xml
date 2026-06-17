@@ -4,7 +4,7 @@
     <name>Ranger</name>
     <autolevel level="3">
       <feature optional="YES">
-        <name>Veilmark Information (Zamanora)</name>
+        <name>Veilmark Information (Zamanora) (TP)</name>
         <text>It is said that trespassing upon the spirit world leaves a tangible brand on one's body and soul. Mortals should never peer beyond the Veil, lest the spirits take notice and mark them forevermore. Let a marked person into your home and you invite certain calamity. The lands of Zamanora are riddled with such fiction and cautionary tales that only work to paint those who are inquisitive in a bad light. Yet they are right about one thing; someone who interacts with the Hidden World too often is bound to be "marked".
 
 As characters engage in encounters with curses, spirits, and other supernatural phenomena, they accrue Veilmark. This attribute reflects their growing connection to the spirit realm and the transformative effects of these experiences on their physical and spiritual selves. Veilmarked is the term used by the Zamanori to describe individuals who have thus changed, and denotes characters who have accrued enough Veilmark to cross a threshold. If playing in a different setting, you may use the broader term Aura to describe the system.
@@ -125,7 +125,7 @@ Source:	Zamanora: Ballad of the Witch p. 120 (Homebrew)</text>
     </autolevel>
     <autolevel level="7">
       <counter>
-        <name>Spiritfire</name>
+        <name>Spiritfire (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Archetype of the Darkhunter</subclass>
@@ -134,13 +134,13 @@ Source:	Zamanora: Ballad of the Witch p. 120 (Homebrew)</text>
     <!-- Ranger Subclass: Darkhunter (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Ranger Subclass: Darkhunter (HB)</name>
+        <name>Ranger Subclass: Darkhunter (TP)</name>
         <text>Despite their many differences, the mysterious and often dangerous inhabitants of Zamanora share one thing in common: they know well to dread the horrors that lurk at the edge of night. Bloodthirsty vampires and accursed shapeshifters stalk the moonlit shadows, bedeviling the Real and the Hidden World alike. There are the audacious few, however, who dare to rise up and hunt down these malign predators of their kind. The Darkhunters, also known as Krsnik, are a mystic conclave of shamanic Rangers who valiantly delve into the twilight, emanating with primal energies and bringing forth radiant spirits to purge its many woes.
 
 Source:	Zamanora: Ballad of the Witch p. 94 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Spirit of the Wild (Darkhunter (HB))</name>
+        <name>Spirit of the Wild (Darkhunter (TP))</name>
         <text>You can channel your spiritual essence into the world, which assumes the shape of a radiant beast. By using a Bonus Action, you can now summon and dismiss a Spirit Animal that acts as an ally to you and your companions. The Spirit Animal sheds Bright Light in a 20-foot radius around it and Dim Light for an additional 20 feet. You can extinguish and activate this Light on command (no action required). The shape of your Spirit Animal represents your connection to nature and its statistics change according to the kind of Beast it corresponds to (ex. a wolf or stag uses the Land traits, a hawk or raven uses the Sky traits, a sea snake or dolphin uses the Sea traits) as indicated by the stat block presented below, which uses your Proficiency Bonus in several places. Its size cannot be larger than Medium.
 	In combat, the spirit acts during your turn. It can move and use its Reaction on its own, but the only Action it takes is the Dodge Action, unless you take a Bonus Action on your turn to command it to take another Action. That Action can be one in its stat block or some other Action. You can also sacrifice one of your attacks when you take the Attack Action to command the spirit to take the Attack Action. If you are Incapacitated, the spirit can take any Action of its choice, not just Dodge.
 	When it drops to 0 Hit Points, the spirit disappears and it cannot be summoned again until you finish a Short or Long Rest. The spirit also disappears if you die.
@@ -150,14 +150,14 @@ Source:	Zamanora: Ballad of the Witch p. 95 (Homebrew)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Spiritfire (Darkhunter (HB))</name>
+        <name>Spiritfire (Darkhunter (TP))</name>
         <text>When you attack a creature affected by your Hunter's Mark, you can use your Reaction to have your Spirit Animal move up to its Speed toward that creature. If it ends this movement within range of the creature, it can also make one attack against it. On a hit, the target is also subjected to the effects of the spell Faerie Fire for the next minute. The Spirit Animal maintains Concentration for this effect. If the creature is shape-shifted (as a result of the Polymorph spell, for example), it reverts to its true form and can't shape-shift until the effect ends.
 	You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 Source:	Zamanora: Ballad of the Witch p. 96 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Spiritfire</name>
+        <name>Spiritfire (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Darkhunter (HB)</subclass>
@@ -165,13 +165,13 @@ Source:	Zamanora: Ballad of the Witch p. 96 (Homebrew)</text>
     </autolevel>
     <autolevel level="11">
       <feature optional="YES">
-        <name>Aura of the Midnight Sun (Darkhunter (HB))</name>
+        <name>Aura of the Midnight Sun (Darkhunter (TP))</name>
         <text>The purifying presence of your spirit wards off darkness and evil. Each friendly creature in the Bright Light's radius has Advantage on saving throws they make to avoid or end a possession or the Charmed or Frightened condition.
 
 Source:	Zamanora: Ballad of the Witch p. 96 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Inner Light (Darkhunter (HB))</name>
+        <name>Inner Light (Darkhunter (TP))</name>
         <text>Your Spirit Animal's energy seeps through you, as it dwells within your body. While it is dismissed but not dissipated, the first attack you make during each of your turns deals an extra 1d8 Radiant damage on a hit. In addition, you have Advantage on saving throws you make to avoid or end a possession or the Charmed or Frightened condition.
 
 Source:	Zamanora: Ballad of the Witch p. 96 (Homebrew)</text>
@@ -180,7 +180,7 @@ Source:	Zamanora: Ballad of the Witch p. 96 (Homebrew)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Kindred of the Hidden World (Darkhunter (HB))</name>
+        <name>Kindred of the Hidden World (Darkhunter (TP))</name>
         <text>Your kinship to the land and its spirits reaches its peak; a precious bond you can embrace in a time of need. Upon taking damage that would reduce you to 0 Hit Points, you can use your Reaction to call it to your rescue, before you fall Unconscious. Before you take the damage, the Spirit Animal rushes to your position without provoking Opportunity Attacks, becomes fused with you and then dissipates, dropping to 0 Hit Points while you regain an amount of Hit Points equal to its remaining Hit Points.
 	A 20-foot Emanation centered on the point where the Spirit Animal fused with you becomes blessed. Allied creatures in the area benefit from your Inner Light feature and regain 2d6 Hit Points at the start of their turns. The Emanation lasts for one minute or when creatures inside it have regained a total of 30 Hit Points (whichever comes first).
 

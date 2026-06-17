@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Warlock</name>
+    <name>Warlock (UA)</name>
     <!-- Warlock Subclass: Vestige Patron (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -48,7 +48,7 @@ Source:	Mystic Subclasses p. 6 (Unearthed Arcana)</text>
 Source:	Mystic Subclasses p. 6 (Unearthed Arcana)</text>
       </feature>
       <counter>
-        <name>Aura of Power</name>
+        <name>Aura of Power (UA)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Vestige Patron (UA)</subclass>
@@ -64,7 +64,7 @@ Summon Fiend (Fiend vestige), or Summon Undead (Undead vestige). When you cast t
 Source:	Mystic Subclasses p. 6 (Unearthed Arcana)</text>
       </feature>
       <counter>
-        <name>Semblance of Life</name>
+        <name>Semblance of Life (UA)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Vestige Patron (UA)</subclass>
@@ -72,7 +72,7 @@ Source:	Mystic Subclasses p. 6 (Unearthed Arcana)</text>
     </autolevel>
   </class>
   <monster>
-    <name>Vestige Companion [2024]</name>
+    <name>Vestige Companion (UA)</name>
     <size>S</size>
     <type>celestial, fiend, or undead</type>
     <alignment>Neutral</alignment>
@@ -94,44 +94,44 @@ Source:	Mystic Subclasses p. 6 (Unearthed Arcana)</text>
     <conditionImmune>Charmed, Frightened, Prone</conditionImmune>
     <senses>Darkvision 60 ft.</senses>
     <trait>
-      <name>Proficiency Bonus</name>
+      <name>Proficiency Bonus (UA)</name>
       <text>PB equals your Proficiency Bonus</text>
     </trait>
     <trait>
-      <name>Armor Class</name>
+      <name>Armor Class (UA)</name>
       <text>13 + your Charisma modifier</text>
     </trait>
     <trait>
-      <name>Hit Points</name>
+      <name>Hit Points (UA)</name>
       <text>4 + four times your Warlock level (the vestige has a number of Hit Dice [d6s] equal to your Warlock level)</text>
       <attack>Hit Dice||1d6</attack>
     </trait>
     <trait>
-      <name>Pact Bond</name>
+      <name>Pact Bond (UA)</name>
       <text>Add your Proficiency Bonus to any ability check or saving throw the vestige makes.</text>
     </trait>
     <action>
-      <name>Vestige's Strike</name>
+      <name>Vestige's Strike (UA)</name>
       <text>Melee or Ranged Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. or range 60 ft. Hit: 1d6 + 3 plus your Charisma modifier Fire (Fiend), Necrotic (Undead), or Radiant (Celestial) damage.</text>
       <attack>Fire Damage||1d6+3</attack>
       <attack>Necrotic Damage||1d6+3</attack>
       <attack>Radiant Damage||1d6+3</attack>
     </action>
     <action>
-      <name>Divine Power (1/Day) (Bonus Action)</name>
+      <name>Divine Power (1/Day) (Bonus Action) (UA)</name>
       <recharge>1/DAY</recharge>
       <text>Your vestige manifests a remnant of its divine power in one of the following ways, based on its form:</text>
     </action>
     <action>
-      <name>Cursed Invocation (Undead Only) (Bonus Action)</name>
+      <name>Cursed Invocation (Undead Only) (Bonus Action) (UA)</name>
       <text>The vestige places a curse on a creature you can see within 30 feet of the vestige for 1 minute. While cursed, the target has Disadvantage on attack rolls against you and the vestige.</text>
     </action>
     <action>
-      <name>Fiendish Swap (Fiend Only) (Bonus Action)</name>
+      <name>Fiendish Swap (Fiend Only) (Bonus Action) (UA)</name>
       <text>If you and the vestige are within 60 feet of each other, you both teleport, swapping places.</text>
     </action>
     <action>
-      <name>Healing Touch (Celestial Only) (Bonus Action)</name>
+      <name>Healing Touch (Celestial Only) (Bonus Action) (UA)</name>
       <text>The vestige touches another creature. The target regains Hit Points equal to 2d8 plus your Charisma modifier and ends one condition on it: Blinded, Deafened, or Poisoned.</text>
       <attack>Heal||2d8</attack>
     </action>

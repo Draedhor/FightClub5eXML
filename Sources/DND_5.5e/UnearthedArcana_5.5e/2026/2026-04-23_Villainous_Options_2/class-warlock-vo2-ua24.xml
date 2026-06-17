@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Warlock [5.5e]</name>
+    <name>Warlock (UA)</name>
     <!-- Warlock Subclass: Primordial Patron (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -23,7 +23,7 @@ The capricious nature of elemental alliances extends to your pact. You can chang
 Source:	Villainous Options 2 p. 4 (Unearthed Arcana)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Elemental Node (Primordial Patron (UA))</name>
+        <name>Elemental Node (Primordial Patron (UA))</name>
         <text>As a Magic action, you can create a 5-foot-radius Sphere of elemental magic centered on a point you can see within 60 feet of yourself. The magic of this elemental node resembles your chosen element. On later turns, you can take a Bonus Action to move the node up to 30 feet.
 	When the node appears, each creature other than you in the node makes a Dexterity saving throw against your spell save DC, taking 1d6 damage of your chosen element's type on a failed save or half as much damage on a successful one. A creature also makes this save when the node moves into its space and when it enters the node or ends its turn there. A creature makes this save only once per turn.
 	The node lasts for 1 minute, until you dismiss it (no action required), or until you use this feature to create another node. Once you use this feature, you can't use it again until you complete a Short or Long Rest unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
@@ -35,7 +35,7 @@ Source:	Villainous Options 2 p. 4 (Unearthed Arcana)</text>
         <roll description="Elemental Damage" level="14">3d6</roll>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Elemental Spells (Primordial Patron (UA))</name>
+        <name>Elemental Spells (Primordial Patron (UA))</name>
         <text>The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Elemental Spells table, you thereafter always have the listed primordial spells prepared, along with the spells corresponding to your chosen element.
 
 Elemental Spells:
@@ -50,7 +50,7 @@ Source:	Villainous Options 2 p. 4 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Elemental Haven (Primordial Patron (UA))</name>
+        <name>Elemental Haven (Primordial Patron (UA))</name>
         <text>Your Elemental Node shields you from harm. You gain the following benefits.
 
 	Elemental Protection. While you're within your node, you have a bonus to AC equal to your Charisma modifier (minimum of 1).
@@ -62,7 +62,7 @@ Source:	Villainous Options 2 p. 4 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Primeval Protection (Primordial Patron (UA))</name>
+        <name>Primeval Protection (Primordial Patron (UA))</name>
         <text>You gain the following benefits.
 
 	Elemental Fortitude. You have Resistance to your chosen element's damage type. Additionally, while within your Elemental Node, you have Immunity to that damage type.
@@ -74,7 +74,7 @@ Source:	Villainous Options 2 p. 5 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Elemental Harbinger (Primordial Patron (UA))</name>
+        <name>Elemental Harbinger (Primordial Patron (UA))</name>
         <text>Your Elemental Node can usher in the mightiest of elementals, granting you the following benefits.
 
 	Elemental Vortex. Whenever you expend a Pact Magic spell slot while you're within your Elemental Node, you can attempt to pull a creature into the node. One creature you choose within 30 feet of the node must succeed on a Strength saving throw or be pulled up to 15 feet toward the node's center.
@@ -91,109 +91,109 @@ Source:	Villainous Options 2 p. 5 (Unearthed Arcana)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Chromatic Orb [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Chromatic Orb (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Darkvision [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Darkvision (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Feather Fall [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Feather Fall (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Shatter [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Shatter (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Entangle [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Entangle (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Knock [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Knock (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Burning Hands [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Burning Hands (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Heat Metal [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Heat Metal (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Alter Self [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Alter Self (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Ice Knife [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Ice Knife (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Elemental Weapon [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Elemental Weapon (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Fly [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Fly (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Plant Growth [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Plant Growth (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Fireball [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Fireball (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Water Walk [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Water Walk (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Summon Elemental [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Summon Elemental (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Freedom of Movement (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Vitriolic Sphere [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Vitriolic Sphere (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Wall of Fire [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Wall of Fire (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Control Water [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Control Water (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Commune with Nature [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Commune with Nature (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Steel Wind Strike [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Steel Wind Strike (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Wall of Stone [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Wall of Stone (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Flame Strike [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Flame Strike (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Cone of Cold [5.5e]</name>
-    <classes>Warlock [5.5e] (Primordial Patron (UA))</classes>
+    <name>Cone of Cold (UA)</name>
+    <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Invocation: Elemental Overflow (UA) [5.5e]</name>
+    <name>Invocation: Elemental Overflow (UA)</name>
     <level>0</level>
-    <classes>Eldritch Invocations [5.5e]</classes>
+    <classes>Eldritch Invocations</classes>
     <text>Prerequisite: Level 5+ Warlock
 
 Choose a damage type: Acid, Cold, Fire, Lightning, or Thunder. Whenever you cast a spell that deals the chosen damage type, you can cause elemental energy to wreathe you until the end of your next turn. For the duration, whenever a creature within 5 feet of you hits you with a melee attack roll, that creature takes 1d4 damage of the chosen damage type.
@@ -204,9 +204,9 @@ Source:	Villainous Options 2 p. 5 (Unearthed Arcana)</text>
     <roll description="Elemental Damage">1d4</roll>
   </spell>
   <spell>
-    <name>Invocation: Elemental Transmutation (UA) [5.5e]</name>
+    <name>Invocation: Elemental Transmutation (UA)</name>
     <level>0</level>
-    <classes>Eldritch Invocations [5.5e]</classes>
+    <classes>Eldritch Invocations</classes>
     <text>Prerequisite: Level 2+ Warlock
 
 Choose a damage type: Acid, Cold, Fire, Lightning, or Thunder. Once per turn, whenever you deal damage of any of the above types, you can deal the chosen damage type instead.

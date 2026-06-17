@@ -108,23 +108,23 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 22</text>
     </autolevel>
   </class>
   <spell>
-    <name>Ice Knife [2024]</name>
+    <name>Ice Knife</name>
     <classes>Ranger (Winter Walker)</classes>
   </spell>
   <spell>
-    <name>Hold Person [2024]</name>
+    <name>Hold Person</name>
     <classes>Ranger (Winter Walker)</classes>
   </spell>
   <spell>
-    <name>Remove Curse [2024]</name>
+    <name>Remove Curse</name>
     <classes>Ranger (Winter Walker)</classes>
   </spell>
   <spell>
-    <name>Ice Storm [2024]</name>
+    <name>Ice Storm</name>
     <classes>Ranger (Winter Walker)</classes>
   </spell>
   <spell>
-    <name>Cone of Cold [2024]</name>
+    <name>Cone of Cold</name>
     <classes>Ranger (Winter Walker)</classes>
   </spell>
 </compendium>

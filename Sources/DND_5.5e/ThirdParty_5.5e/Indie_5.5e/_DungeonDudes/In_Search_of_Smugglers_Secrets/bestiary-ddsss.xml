@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Lamplighter</name>
+    <name>Lamplighter (TP)</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Lawful Neutral</alignment>
@@ -25,45 +25,45 @@
     <conditionImmune/>
     <senses>darkvision 60 ft.</senses>
     <trait>
-      <name>Proficiency Bonus</name>
+      <name>Proficiency Bonus (TP)</name>
       <text>+2</text>
     </trait>
     <trait>
-      <name>Lantern Light</name>
+      <name>Lantern Light (TP)</name>
       <text>The lamplighter emits a bright light with a radius of 20 feet and an additional 20 feet of dim light. If the lamplighter dies, the light goes out.</text>
     </trait>
     <action>
-      <name>Bite</name>
+      <name>Bite (TP)</name>
       <text>Melee attack roll: +6, reach 5ft. Hit: 22 (4d8+4) Necrotic Damage.</text>
       <attack>Necrotic Damage|+6|4d8+4</attack>
     </action>
     <action>
-      <name>Lantern Beams</name>
+      <name>Lantern Beams (TP)</name>
       <text>The Lamplighter fires two distinct magical beams from the lantern, targeting two visible objects within a 60 ft. radius.
 Choose two from Blasting Light, Blinding Light, Burning Light or Witch Light.</text>
     </action>
     <action>
-      <name>Blasting Light</name>
+      <name>Blasting Light (TP)</name>
       <text>Strength saving throw: DC 13. Failure: 10 (3d6) force damage and the target is knocked prone. Success: Half damage only.</text>
       <attack>Force Damage||3d6</attack>
     </action>
     <action>
-      <name>Blinding Light</name>
+      <name>Blinding Light (TP)</name>
       <text>Constitution saving throw: DC 13. Failure: 10 (3d6) radiant damage and the target is blinded. This condition lasts until the Lamplighter's next turn. Success: Half damage only.</text>
       <attack>Radiant Damage||3d6</attack>
     </action>
     <action>
-      <name>Burning Light</name>
+      <name>Burning Light (TP)</name>
       <text>Dexterity saving throw: DC 13. Failure: 10 (3d6) fire damage and the target has the Burning condition (3d6). Success: Half damage only.</text>
       <attack>Fire Damage||3d6</attack>
       <attack>Burning (Fire)||3d6</attack>
     </action>
     <action>
-      <name>Witch Light</name>
+      <name>Witch Light (TP)</name>
       <text>Wisdom saving throw: DC 13. Failure: The target becomes charmed. While charmed, the target must spend all movement points to move towards the Lamplighter during their turn. The target makes a saving throw at the end of their turn, which, if successful, ends the effect. If the target takes damage from the Lamplighter, the saving throw used to end the effect is made with advantage. After 1 minute, the target is no longer charmed by the Lamplighter.</text>
     </action>
     <reaction>
-      <name>Warding Flare</name>
+      <name>Warding Flare (TP)</name>
       <text>Trigger: A creature targets the Lamplighter with an attack roll. Response: The Lamplighter flashes its lantern, and the target has disadvantage on attack rolls against the Lamplighter this turn.</text>
     </reaction>
     <description>The creature is draped in a dark, tattered, cloth covering its hunched back, from which hang two enormous lanterns. Its arms and legs are thin and long, making it walk on all fours as if on stilts. Its face is expressionless, pale, and its eyes like empty, black pools of water. When it opens its mouth, its jaws twist, revealing a gaping maw filled with sharp, hooked teeth. When the lanterns are lit, particles of arcane energy swirl around it, and the creature emits an agonizing shriek.

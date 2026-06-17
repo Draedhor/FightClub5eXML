@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Spirit Animal [2024]</name>
+    <name>Spirit Animal (TP)</name>
     <type>fey (spirit)</type>
     <alignment>neutral</alignment>
     <ac>14</ac>
@@ -23,32 +23,32 @@
     <conditionImmune>Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained</conditionImmune>
     <senses>Darkvision 60 ft., Passive Perception 12</senses>
     <trait>
-      <name>Proficiency Bonus</name>
+      <name>Proficiency Bonus (TP)</name>
       <text>PB equals your Proficiency Bonus</text>
     </trait>
     <trait>
-      <name>Hit Points</name>
+      <name>Hit Points (TP)</name>
       <text>4 + 4 x your ranger level. The spirit has a number of Hit Dice  equal to your Ranger Level.</text>
     </trait>
     <trait>
-      <name>Armor Class</name>
+      <name>Armor Class (TP)</name>
       <text>13 + Your Wisdom modifier.</text>
     </trait>
     <trait>
-      <name>Luminous Movement</name>
+      <name>Luminous Movement (TP)</name>
       <text>The spirit can move through other creatures and objects as if they were Difficult Terrain. When it ends its movement in another creature's space, that creature must succeed on a Constitution saving throw against your spell save DC or become Blinded. It takes 5 (1d10) Force damage if it ends its turn inside an object.</text>
     </trait>
     <trait>
-      <name>Spiritual Bond</name>
+      <name>Spiritual Bond (TP)</name>
       <text>Add your Proficiency Bonus to any ability check or saving throw the spirit makes.</text>
     </trait>
     <action>
-      <name>Strike (Land or Sea)</name>
+      <name>Strike (Land or Sea) (TP)</name>
       <text>Melee Weapon Attack: Bonus equals your spell attack modifier, reach 5 ft., onetarget. Hit: 1d8 + 2 plus your Wisdom modifier Radiant damage.</text>
       <attack>Strike|0|1d8+2</attack>
     </action>
     <action>
-      <name>Shred (Sky)</name>
+      <name>Shred (Sky) (TP)</name>
       <text>Melee Weapon Attack: Bonus equal your spell attack modifier, reach 5 ft., one target. Hit: 1d6 + 2 plus your Wisdom modifier Radiant damage.</text>
       <attack>Shred|0|1d6+2</attack>
     </action>
@@ -56,7 +56,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Spiritual Anamnesis [2024]</name>
+    <name>Spiritual Anamnesis (TP)</name>
     <type>undead (spirit)</type>
     <alignment>neutral</alignment>
     <ac>12</ac>
@@ -79,36 +79,36 @@
     <conditionImmune>Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained</conditionImmune>
     <senses>Darkvision 60 ft., Passive Perception 11</senses>
     <trait>
-      <name>Proficiency Bonus</name>
+      <name>Proficiency Bonus (TP)</name>
       <text>PB equals your Proficiency Bonus</text>
     </trait>
     <trait>
-      <name>Hit Points</name>
+      <name>Hit Points (TP)</name>
       <text>4 plus four times your Wizard level. The spirit has a number of Hit Dice [d6s] equal to your Wizard level.</text>
     </trait>
     <trait>
-      <name>Armor Class</name>
+      <name>Armor Class (TP)</name>
       <text>10 + PB</text>
     </trait>
     <trait>
-      <name>Incorporeal Movement</name>
+      <name>Incorporeal Movement (TP)</name>
       <text>The spirit can move through other creatures and objects as if they were Difficult Terrain. It takes 5 (1d10) Force damage if it ends its turn inside an object.</text>
     </trait>
     <trait>
-      <name>Misleading Strike (Expert)</name>
+      <name>Misleading Strike (Expert) (TP)</name>
       <text>After successfully passing through a creature's space, the spirit's next attack during that turn is made with Advantage.</text>
     </trait>
     <trait>
-      <name>Spiritual Bond</name>
+      <name>Spiritual Bond (TP)</name>
       <text>Add your Proficiency Bonus to any ability check or saving throw the spirit makes.</text>
     </trait>
     <action>
-      <name>Spectral Cantrip (Caster)</name>
+      <name>Spectral Cantrip (Caster) (TP)</name>
       <text>Ranged Spell Attack: Bonus equals your spell attack modifier, range 60 ft. Hit: 1d6 + 1 plus your Intelligence modifier Necrotic damage.</text>
       <attack>Spectral Cantrip|0|1d6+1</attack>
     </action>
     <action>
-      <name>Spectral Strike (Expert and Warrior)</name>
+      <name>Spectral Strike (Expert and Warrior) (TP)</name>
       <text>Melee Weapon Attack: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d8 + 1 plus your Intelligence modifier Slashing damage.</text>
       <attack>Spectral Strike|0|1d8+1</attack>
     </action>

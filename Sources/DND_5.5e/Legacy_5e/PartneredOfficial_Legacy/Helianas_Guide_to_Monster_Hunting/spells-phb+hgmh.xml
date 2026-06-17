@@ -1,783 +1,783 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Chameleon Skin [2024]</name>
-    <classes>Sorcerer [2024] (Skinshifter (HB) (Legacy))</classes>
+    <name>Chameleon Skin</name>
+    <classes>Sorcerer (Skinshifter (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Inflict Wounds [2024]</name>
-    <classes>Sorcerer [2024] (Skinshifter (HB) (Legacy))</classes>
+    <name>Inflict Wounds</name>
+    <classes>Sorcerer (Skinshifter (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Barkskin [2024]</name>
-    <classes>Sorcerer [2024] (Skinshifter (HB) (Legacy))</classes>
+    <name>Barkskin</name>
+    <classes>Sorcerer (Skinshifter (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Protection from Poison [2024]</name>
-    <classes>Sorcerer [2024] (Skinshifter (HB) (Legacy))</classes>
+    <name>Protection from Poison</name>
+    <classes>Sorcerer (Skinshifter (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Vampiric Touch [2024]</name>
-    <classes>Sorcerer [2024] (Skinshifter (HB) (Legacy))</classes>
+    <name>Vampiric Touch</name>
+    <classes>Sorcerer (Skinshifter (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Zippit! [2024]</name>
-    <classes>Sorcerer [2024] (Skinshifter (HB) (Legacy))</classes>
+    <name>Zippit!</name>
+    <classes>Sorcerer (Skinshifter (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement [2024]</name>
-    <classes>Sorcerer [2024] (Skinshifter (HB) (Legacy))</classes>
+    <name>Freedom of Movement</name>
+    <classes>Sorcerer (Skinshifter (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Frogskin [2024]</name>
-    <classes>Sorcerer [2024] (Skinshifter (HB) (Legacy))</classes>
+    <name>Frogskin</name>
+    <classes>Sorcerer (Skinshifter (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Feverskin [2024]</name>
-    <classes>Sorcerer [2024] (Skinshifter (HB) (Legacy))</classes>
+    <name>Feverskin</name>
+    <classes>Sorcerer (Skinshifter (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Greater Restoration [2024]</name>
-    <classes>Sorcerer [2024] (Skinshifter (HB) (Legacy))</classes>
+    <name>Greater Restoration</name>
+    <classes>Sorcerer (Skinshifter (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Heroism [2024]</name>
-    <classes>Paladin [2024] (Harvest (HB) (Legacy))</classes>
+    <name>Heroism</name>
+    <classes>Paladin (Harvest (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Purify Food and Drink [2024]</name>
-    <classes>Paladin [2024] (Harvest (HB) (Legacy))</classes>
+    <name>Purify Food and Drink</name>
+    <classes>Paladin (Harvest (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Prayer of Healing [2024]</name>
-    <classes>Paladin [2024] (Harvest (HB) (Legacy))</classes>
+    <name>Prayer of Healing</name>
+    <classes>Paladin (Harvest (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Warding Bond [2024]</name>
-    <classes>Paladin [2024] (Harvest (HB) (Legacy))</classes>
+    <name>Warding Bond</name>
+    <classes>Paladin (Harvest (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Beacon of Hope [2024]</name>
-    <classes>Paladin [2024] (Harvest (HB) (Legacy))</classes>
+    <name>Beacon of Hope</name>
+    <classes>Paladin (Harvest (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Create Food and Water [2024]</name>
-    <classes>Paladin [2024] (Harvest (HB) (Legacy))</classes>
+    <name>Create Food and Water</name>
+    <classes>Paladin (Harvest (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Death Ward [2024]</name>
-    <classes>Paladin [2024] (Harvest (HB) (Legacy))</classes>
+    <name>Death Ward</name>
+    <classes>Paladin (Harvest (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere [2024]</name>
-    <classes>Paladin [2024] (Harvest (HB) (Legacy))</classes>
+    <name>Otiluke's Resilient Sphere</name>
+    <classes>Paladin (Harvest (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Greater Restoration [2024]</name>
-    <classes>Paladin [2024] (Harvest (HB) (Legacy))</classes>
+    <name>Greater Restoration</name>
+    <classes>Paladin (Harvest (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Mass Cure Wounds [2024]</name>
-    <classes>Paladin [2024] (Harvest (HB) (Legacy))</classes>
+    <name>Mass Cure Wounds</name>
+    <classes>Paladin (Harvest (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Blur [2024]</name>
-    <classes>Druid [2024] (The Hive (HB) (Legacy))</classes>
+    <name>Blur</name>
+    <classes>Druid (The Hive (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Web [2024]</name>
-    <classes>Druid [2024] (The Hive (HB) (Legacy))</classes>
+    <name>Web</name>
+    <classes>Druid (The Hive (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Fly [2024]</name>
-    <classes>Druid [2024] (The Hive (HB) (Legacy))</classes>
+    <name>Fly</name>
+    <classes>Druid (The Hive (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Hypnotic Pattern [2024]</name>
-    <classes>Druid [2024] (The Hive (HB) (Legacy))</classes>
+    <name>Hypnotic Pattern</name>
+    <classes>Druid (The Hive (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Arcane Eye [2024]</name>
-    <classes>Druid [2024] (The Hive (HB) (Legacy))</classes>
+    <name>Arcane Eye</name>
+    <classes>Druid (The Hive (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Giant Insect [2024]</name>
-    <classes>Druid [2024] (The Hive (HB) (Legacy))</classes>
+    <name>Giant Insect</name>
+    <classes>Druid (The Hive (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Insect Plague [2024]</name>
-    <classes>Druid [2024] (The Hive (HB) (Legacy))</classes>
+    <name>Insect Plague</name>
+    <classes>Druid (The Hive (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Mislead [2024]</name>
-    <classes>Druid [2024] (The Hive (HB) (Legacy))</classes>
+    <name>Mislead</name>
+    <classes>Druid (The Hive (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Entangle [2024]</name>
-    <classes>Cleric [2024] (Hunt Domain (HB) (Legacy))</classes>
+    <name>Entangle</name>
+    <classes>Cleric (Hunt Domain (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Longstrider [2024]</name>
-    <classes>Cleric [2024] (Hunt Domain (HB) (Legacy))</classes>
+    <name>Longstrider</name>
+    <classes>Cleric (Hunt Domain (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Locate Animals or Plants [2024]</name>
-    <classes>Cleric [2024] (Hunt Domain (HB) (Legacy))</classes>
+    <name>Locate Animals or Plants</name>
+    <classes>Cleric (Hunt Domain (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Pass without Trace [2024]</name>
-    <classes>Cleric [2024] (Hunt Domain (HB) (Legacy))</classes>
+    <name>Pass without Trace</name>
+    <classes>Cleric (Hunt Domain (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Conjure Animals [2024]</name>
-    <classes>Cleric [2024] (Hunt Domain (HB) (Legacy))</classes>
+    <name>Conjure Animals</name>
+    <classes>Cleric (Hunt Domain (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Haste [2024]</name>
-    <classes>Cleric [2024] (Hunt Domain (HB) (Legacy))</classes>
+    <name>Haste</name>
+    <classes>Cleric (Hunt Domain (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement [2024]</name>
-    <classes>Cleric [2024] (Hunt Domain (HB) (Legacy))</classes>
+    <name>Freedom of Movement</name>
+    <classes>Cleric (Hunt Domain (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Locate Creature [2024]</name>
-    <classes>Cleric [2024] (Hunt Domain (HB) (Legacy))</classes>
+    <name>Locate Creature</name>
+    <classes>Cleric (Hunt Domain (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Commune with Nature [2024]</name>
-    <classes>Cleric [2024] (Hunt Domain (HB) (Legacy))</classes>
+    <name>Commune with Nature</name>
+    <classes>Cleric (Hunt Domain (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Hold Monster [2024]</name>
-    <classes>Cleric [2024] (Hunt Domain (HB) (Legacy))</classes>
+    <name>Hold Monster</name>
+    <classes>Cleric (Hunt Domain (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Guidance [2024]</name>
+    <name>Guidance</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Light [2024]</name>
+    <name>Light</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Resistance [2024]</name>
+    <name>Resistance</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Spare the Dying [2024]</name>
+    <name>Spare the Dying</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Vicious Mockery [2024]</name>
+    <name>Vicious Mockery</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Cure Wounds [2024]</name>
+    <name>Cure Wounds</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Detect Magic [2024]</name>
+    <name>Detect Magic</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Expeditious Retreat [2024]</name>
+    <name>Expeditious Retreat</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Faerie Fire [2024]</name>
+    <name>Faerie Fire</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>False Life [2024]</name>
+    <name>False Life</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Feather Fall [2024]</name>
+    <name>Feather Fall</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Grease [2024]</name>
+    <name>Grease</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Healing Word [2024]</name>
+    <name>Healing Word</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Heroism [2024]</name>
+    <name>Heroism</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Identify [2024]</name>
+    <name>Identify</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Jump [2024]</name>
+    <name>Jump</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Longstrider [2024]</name>
+    <name>Longstrider</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Protection from Evil and Good [2024]</name>
+    <name>Protection from Evil and Good</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Purify Food and Drink [2024]</name>
+    <name>Purify Food and Drink</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Sanctuary [2024]</name>
+    <name>Sanctuary</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Shield of Faith [2024]</name>
+    <name>Shield of Faith</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Silent Image [2024]</name>
+    <name>Silent Image</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Sleep [2024]</name>
+    <name>Sleep</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Speak with Animals [2024]</name>
+    <name>Speak with Animals</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Aid [2024]</name>
+    <name>Aid</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Alter Self [2024]</name>
+    <name>Alter Self</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Animal Messenger [2024]</name>
+    <name>Animal Messenger</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Barkskin [2024]</name>
+    <name>Barkskin</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Blur [2024]</name>
+    <name>Blur</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Calm Emotions [2024]</name>
+    <name>Calm Emotions</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Darkvision [2024]</name>
+    <name>Darkvision</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Detect Thoughts [2024]</name>
+    <name>Detect Thoughts</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Enhance Ability [2024]</name>
+    <name>Enhance Ability</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Enlarge/Reduce [2024]</name>
+    <name>Enlarge/Reduce</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Invisibility [2024]</name>
+    <name>Invisibility</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration [2024]</name>
+    <name>Lesser Restoration</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Levitate [2024]</name>
+    <name>Levitate</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Locate Animals or Plants [2024]</name>
+    <name>Locate Animals or Plants</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Locate Object [2024]</name>
+    <name>Locate Object</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Mirror Image [2024]</name>
+    <name>Mirror Image</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Pass without Trace [2024]</name>
+    <name>Pass without Trace</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Protection from Poison [2024]</name>
+    <name>Protection from Poison</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>See Invisibility [2024]</name>
+    <name>See Invisibility</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Silence [2024]</name>
+    <name>Silence</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Spider Climb [2024]</name>
+    <name>Spider Climb</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Warding Bond [2024]</name>
+    <name>Warding Bond</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Blink [2024]</name>
+    <name>Blink</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Create Food and Water [2024]</name>
+    <name>Create Food and Water</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Daylight [2024]</name>
+    <name>Daylight</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Dispel Magic [2024]</name>
+    <name>Dispel Magic</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Fear [2024]</name>
+    <name>Fear</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Fly [2024]</name>
+    <name>Fly</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Haste [2024]</name>
+    <name>Haste</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Nondetection [2024]</name>
+    <name>Nondetection</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Protection from Energy [2024]</name>
+    <name>Protection from Energy</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Remove Curse [2024]</name>
+    <name>Remove Curse</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Tongues [2024]</name>
+    <name>Tongues</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Water Breathing [2024]</name>
+    <name>Water Breathing</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Water Walk [2024]</name>
+    <name>Water Walk</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Control Water [2024]</name>
+    <name>Control Water</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Death Ward [2024]</name>
+    <name>Death Ward</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Dimension Door [2024]</name>
+    <name>Dimension Door</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Dominate Beast [2024]</name>
+    <name>Dominate Beast</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Fire Shield [2024]</name>
+    <name>Fire Shield</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement [2024]</name>
+    <name>Freedom of Movement</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Greater Invisibility [2024]</name>
+    <name>Greater Invisibility</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Locate Creature [2024]</name>
+    <name>Locate Creature</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere [2024]</name>
+    <name>Otiluke's Resilient Sphere</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Stoneskin [2024]</name>
+    <name>Stoneskin</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Antilife Shell [2024]</name>
+    <name>Antilife Shell</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Awaken [2024]</name>
+    <name>Awaken</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Dispel Evil and Good [2024]</name>
+    <name>Dispel Evil and Good</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Dominate Person [2024]</name>
+    <name>Dominate Person</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Geas [2024]</name>
+    <name>Geas</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Greater Restoration [2024]</name>
+    <name>Greater Restoration</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Legend Lore [2024]</name>
+    <name>Legend Lore</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Mislead [2024]</name>
+    <name>Mislead</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Rary's Telepathic Bond [2024]</name>
+    <name>Rary's Telepathic Bond</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Scrying [2024]</name>
+    <name>Scrying</name>
     <classes>Tamer</classes>
   </spell>
   <spell>
-    <name>Divine Favor [2024]</name>
+    <name>Divine Favor</name>
     <classes>Tamer (Leader)</classes>
   </spell>
   <spell>
-    <name>Protection from Evil and Good [2024]</name>
+    <name>Protection from Evil and Good</name>
     <classes>Tamer (Leader)</classes>
   </spell>
   <spell>
-    <name>Inequality (HB) [2024]</name>
+    <name>Inequality (HB)</name>
     <classes>Tamer (Leader)</classes>
   </spell>
   <spell>
-    <name>Warding Bond [2024]</name>
+    <name>Warding Bond</name>
     <classes>Tamer (Leader)</classes>
   </spell>
   <spell>
-    <name>Beacon of Hope [2024]</name>
+    <name>Beacon of Hope</name>
     <classes>Tamer (Leader)</classes>
   </spell>
   <spell>
-    <name>Haste [2024]</name>
+    <name>Haste</name>
     <classes>Tamer (Leader)</classes>
   </spell>
   <spell>
-    <name>Death Ward [2024]</name>
+    <name>Death Ward</name>
     <classes>Tamer (Leader)</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement [2024]</name>
+    <name>Freedom of Movement</name>
     <classes>Tamer (Leader)</classes>
   </spell>
   <spell>
-    <name>Dispel Evil and Good [2024]</name>
+    <name>Dispel Evil and Good</name>
     <classes>Tamer (Leader)</classes>
   </spell>
   <spell>
-    <name>Endure [2024]</name>
+    <name>Endure</name>
     <classes>Tamer (Leader)</classes>
   </spell>
   <spell>
-    <name>Hellish Rebuke [2024]</name>
+    <name>Hellish Rebuke</name>
     <classes>Tamer (Infuser)</classes>
   </spell>
   <spell>
-    <name>Peppermint Plate (HB) [2024]</name>
+    <name>Peppermint Plate (HB)</name>
     <classes>Tamer (Infuser)</classes>
   </spell>
   <spell>
-    <name>Eelskin [2024]</name>
+    <name>Eelskin</name>
     <classes>Tamer (Infuser)</classes>
   </spell>
   <spell>
-    <name>Riptide (HB) [2024]</name>
+    <name>Riptide (HB)</name>
     <classes>Tamer (Infuser)</classes>
   </spell>
   <spell>
-    <name>Protection from Energy [2024]</name>
+    <name>Protection from Energy</name>
     <classes>Tamer (Infuser)</classes>
   </spell>
   <spell>
-    <name>Wind Wall [2024]</name>
+    <name>Wind Wall</name>
     <classes>Tamer (Infuser)</classes>
   </spell>
   <spell>
-    <name>Control Water [2024]</name>
+    <name>Control Water</name>
     <classes>Tamer (Infuser)</classes>
   </spell>
   <spell>
-    <name>Fire Shield [2024]</name>
+    <name>Fire Shield</name>
     <classes>Tamer (Infuser)</classes>
   </spell>
   <spell>
-    <name>Feverskin [2024]</name>
+    <name>Feverskin</name>
     <classes>Tamer (Infuser)</classes>
   </spell>
   <spell>
-    <name>Wall of Stone [2024]</name>
+    <name>Wall of Stone</name>
     <classes>Tamer (Infuser)</classes>
   </spell>
   <spell>
-    <name>False Life [2024]</name>
+    <name>False Life</name>
     <classes>Tamer (Necromancer)</classes>
   </spell>
   <spell>
-    <name>Inflict Wounds [2024]</name>
+    <name>Inflict Wounds</name>
     <classes>Tamer (Necromancer)</classes>
   </spell>
   <spell>
-    <name>Blindness/Deafness [2024]</name>
+    <name>Blindness/Deafness</name>
     <classes>Tamer (Necromancer)</classes>
   </spell>
   <spell>
-    <name>Ray of Enfeeblement [2024]</name>
+    <name>Ray of Enfeeblement</name>
     <classes>Tamer (Necromancer)</classes>
   </spell>
   <spell>
-    <name>Influenza (HB) [2024]</name>
+    <name>Influenza (HB)</name>
     <classes>Tamer (Necromancer)</classes>
   </spell>
   <spell>
-    <name>Vampiric Touch [2024]</name>
+    <name>Vampiric Touch</name>
     <classes>Tamer (Necromancer)</classes>
   </spell>
   <spell>
-    <name>Confusion [2024]</name>
+    <name>Confusion</name>
     <classes>Tamer (Necromancer)</classes>
   </spell>
   <spell>
-    <name>Death Ward [2024]</name>
+    <name>Death Ward</name>
     <classes>Tamer (Necromancer)</classes>
   </spell>
   <spell>
-    <name>Bone Cage (HB) [2024]</name>
+    <name>Bone Cage (HB)</name>
     <classes>Tamer (Necromancer)</classes>
   </spell>
   <spell>
-    <name>Endure [2024]</name>
+    <name>Endure</name>
     <classes>Tamer (Necromancer)</classes>
   </spell>
   <spell>
-    <name>Chameleon Skin [2024]</name>
+    <name>Chameleon Skin</name>
     <classes>Tamer (Splicer)</classes>
   </spell>
   <spell>
-    <name>Disguise Self [2024]</name>
+    <name>Disguise Self</name>
     <classes>Tamer (Splicer)</classes>
   </spell>
   <spell>
-    <name>Barkskin [2024]</name>
+    <name>Barkskin</name>
     <classes>Tamer (Splicer)</classes>
   </spell>
   <spell>
-    <name>Eelskin [2024]</name>
+    <name>Eelskin</name>
     <classes>Tamer (Splicer)</classes>
   </spell>
   <spell>
-    <name>Mass Leech (HB) [2024]</name>
+    <name>Mass Leech (HB)</name>
     <classes>Tamer (Splicer)</classes>
   </spell>
   <spell>
-    <name>Zippit! [2024]</name>
+    <name>Zippit!</name>
     <classes>Tamer (Splicer)</classes>
   </spell>
   <spell>
-    <name>Frogskin [2024]</name>
+    <name>Frogskin</name>
     <classes>Tamer (Splicer)</classes>
   </spell>
   <spell>
-    <name>Stoneskin [2024]</name>
+    <name>Stoneskin</name>
     <classes>Tamer (Splicer)</classes>
   </spell>
   <spell>
-    <name>Contagion [2024]</name>
+    <name>Contagion</name>
     <classes>Tamer (Splicer)</classes>
   </spell>
   <spell>
-    <name>Feverskin [2024]</name>
+    <name>Feverskin</name>
     <classes>Tamer (Splicer)</classes>
   </spell>
   <spell>
-    <name>Heroism [2024]</name>
-    <classes>Warlock [2024] (Parasite (HB) (Legacy))</classes>
+    <name>Heroism</name>
+    <classes>Warlock (Parasite (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Sanctuary [2024]</name>
-    <classes>Warlock [2024] (Parasite (HB) (Legacy))</classes>
+    <name>Sanctuary</name>
+    <classes>Warlock (Parasite (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Enhance Ability [2024]</name>
-    <classes>Warlock [2024] (Parasite (HB) (Legacy))</classes>
+    <name>Enhance Ability</name>
+    <classes>Warlock (Parasite (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Enlarge/Reduce [2024]</name>
-    <classes>Warlock [2024] (Parasite (HB) (Legacy))</classes>
+    <name>Enlarge/Reduce</name>
+    <classes>Warlock (Parasite (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Haste [2024]</name>
-    <classes>Warlock [2024] (Parasite (HB) (Legacy))</classes>
+    <name>Haste</name>
+    <classes>Warlock (Parasite (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Spirit Guardians [2024]</name>
-    <classes>Warlock [2024] (Parasite (HB) (Legacy))</classes>
+    <name>Spirit Guardians</name>
+    <classes>Warlock (Parasite (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Evard's Black Tentacles [2024]</name>
-    <classes>Warlock [2024] (Parasite (HB) (Legacy))</classes>
+    <name>Evard's Black Tentacles</name>
+    <classes>Warlock (Parasite (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement [2024]</name>
-    <classes>Warlock [2024] (Parasite (HB) (Legacy))</classes>
+    <name>Freedom of Movement</name>
+    <classes>Warlock (Parasite (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Contagion [2024]</name>
-    <classes>Warlock [2024] (Parasite (HB) (Legacy))</classes>
+    <name>Contagion</name>
+    <classes>Warlock (Parasite (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Dominate Person [2024]</name>
-    <classes>Warlock [2024] (Parasite (HB) (Legacy))</classes>
+    <name>Dominate Person</name>
+    <classes>Warlock (Parasite (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Cure Wounds [2024]</name>
+    <name>Cure Wounds</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>False Life [2024]</name>
+    <name>False Life</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Healing Word [2024]</name>
+    <name>Healing Word</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Jump [2024]</name>
+    <name>Jump</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Longstrider [2024]</name>
+    <name>Longstrider</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Aid [2024]</name>
+    <name>Aid</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Alter Self [2024]</name>
+    <name>Alter Self</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Barkskin [2024]</name>
+    <name>Barkskin</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Darkvision [2024]</name>
+    <name>Darkvision</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Enhance Ability [2024]</name>
+    <name>Enhance Ability</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Enlarge/Reduce [2024]</name>
+    <name>Enlarge/Reduce</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration [2024]</name>
+    <name>Lesser Restoration</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Protection from Poison [2024]</name>
+    <name>Protection from Poison</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Spider Climb [2024]</name>
+    <name>Spider Climb</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Haste [2024]</name>
+    <name>Haste</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Mass Healing Word [2024]</name>
+    <name>Mass Healing Word</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Revivify [2024]</name>
+    <name>Revivify</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Water Breathing [2024]</name>
+    <name>Water Breathing</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Stoneskin [2024]</name>
+    <name>Stoneskin</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Contagion [2024]</name>
+    <name>Contagion</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Greater Restoration [2024]</name>
+    <name>Greater Restoration</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Mass Cure Wounds [2024]</name>
+    <name>Mass Cure Wounds</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Flesh to Stone [2024]</name>
+    <name>Flesh to Stone</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Heal [2024]</name>
+    <name>Heal</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Regenerate [2024]</name>
+    <name>Regenerate</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Simulacrum [2024]</name>
+    <name>Simulacrum</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Mass Heal [2024]</name>
+    <name>Mass Heal</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Shapechange [2024]</name>
+    <name>Shapechange</name>
     <classes>School: Biomancy</classes>
   </spell>
 </compendium>

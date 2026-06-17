@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Ranger [5.5e]</name>
+    <name>Ranger</name>
     <!-- Ranger Subclass: Hollow Warden -->
     <autolevel level="3">
       <feature optional="YES">
@@ -13,7 +13,7 @@ Legends tell that the most ancient and bloodthirsty terrors lurk deep within the
 Source:	Ravenloft: The Horrors Within</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Hollow Warden Spells (Hollow Warden)</name>
+        <name>Hollow Warden Spells (Hollow Warden)</name>
         <text>When you reach a Ranger level specified in the Hollow Warden Spells table, you thereafter always have the listed spell prepared.
 
 Hollow Warden Spells:
@@ -27,7 +27,7 @@ Ranger Level | Spell
 Source:	Ravenloft: The Horrors Within</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Wrath of the Wild (Hollow Warden)</name>
+        <name>Wrath of the Wild (Hollow Warden)</name>
         <text>You draw power from the strange and ancient horrors of the land, causing you to sprout unnatural growths, such as bloody antlers or putrid fangs, or causing your shadow to lengthen or twist around you. As a Bonus Action, you can expend a use of Favored Enemy to transform into a ghastly form, gaining the following benefits for 1 minute or until you have the Incapacitated condition, die, or end the transformation (no action required).
 
 	Ancient Armor. You gain a +1 bonus to AC, as your body is wreathed in rotten bark and beastly bristles. This bonus increases to +2 when you reach Ranger level 11.
@@ -42,7 +42,7 @@ Source:	Ravenloft: The Horrors Within</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Hungering Might (Hollow Warden)</name>
+        <name>Hungering Might (Hollow Warden)</name>
         <text>You gain a bonus to Constitution saving throws equal to your Wisdom modifier (minimum of +1).
 	In addition, once per turn when you hit a creature with an attack roll while you are transformed using Wrath of the Wild, you regain a number of Hit Points equal to 1d10 plus your Wisdom modifier, provided you are Bloodied when you hit.
 
@@ -53,14 +53,14 @@ Source:	Ravenloft: The Horrors Within</text>
     </autolevel>
     <autolevel level="11">
       <feature optional="YES">
-        <name>Level 11: Ancient Armor Improvement (Hollow Warden)</name>
+        <name>Ancient Armor Improvement (Hollow Warden)</name>
         <text>You gain a +2 bonus to AC, as your body is wreathed in rotten bark and beastly bristles.
 
 Source:	Ravenloft: The Horrors Within</text>
         <modifier category="bonus">ac +1</modifier>
       </feature>
       <feature optional="YES">
-        <name>Level 11: Rot and Violence (Hollow Warden)</name>
+        <name>Rot and Violence (Hollow Warden)</name>
         <text>Your dedication to wild eldritch beings alters you further. When transformed using Wrath of the Wild, you gain the following additional benefits.
 
 	Menacing Aura. When a creature fails its saving throw against your Unnerving Aura, it also can't regain Hit Points or take Reactions until the start of your next turn.
@@ -72,7 +72,7 @@ Source:	Ravenloft: The Horrors Within</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Ancient Might (Hollow Warden)</name>
+        <name>Ancient Might (Hollow Warden)</name>
         <text>You become wholly suffused with the wild's ancient and terrible power, granting you the following benefits.
 
 	Ominous Strikes. When you hit a creature that has the Frightened condition with an attack roll, that attack deals extra damage equal to your Wisdom modifier.
@@ -86,23 +86,23 @@ Source:	Ravenloft: The Horrors Within</text>
     </autolevel>
   </class>
   <spell>
-    <name>Wrathful Smite [5.5e]</name>
-    <classes>Ranger [5.5e] (Hollow Warden)</classes>
+    <name>Wrathful Smite</name>
+    <classes>Ranger (Hollow Warden)</classes>
   </spell>
   <spell>
-    <name>Alter Self [5.5e]</name>
-    <classes>Ranger [5.5e] (Hollow Warden)</classes>
+    <name>Alter Self</name>
+    <classes>Ranger (Hollow Warden)</classes>
   </spell>
   <spell>
-    <name>Phantom Steed [5.5e]</name>
-    <classes>Ranger [5.5e] (Hollow Warden)</classes>
+    <name>Phantom Steed</name>
+    <classes>Ranger (Hollow Warden)</classes>
   </spell>
   <spell>
-    <name>Dominate Beast [5.5e]</name>
-    <classes>Ranger [5.5e] (Hollow Warden)</classes>
+    <name>Dominate Beast</name>
+    <classes>Ranger (Hollow Warden)</classes>
   </spell>
   <spell>
-    <name>Steel Wind Strike [5.5e]</name>
-    <classes>Ranger [5.5e] (Hollow Warden)</classes>
+    <name>Steel Wind Strike</name>
+    <classes>Ranger (Hollow Warden)</classes>
   </spell>
 </compendium>

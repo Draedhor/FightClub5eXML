@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Cleric [5.5e]</name>
+    <name>Cleric</name>
     <!-- Cleric Subclass: Grave Domain -->
     <autolevel level="3">
       <feature optional="YES">
@@ -14,7 +14,7 @@ The Grave Domain concerns itself with the boundary between life and death. To th
 Source:	Ravenloft: The Horrors Within</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Grave Domain Spells (Grave Domain)</name>
+        <name>Grave Domain Spells (Grave Domain)</name>
         <text>Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Grave Domain Spells table, you thereafter always have the listed spells prepared.
 
 Grave Domain Spells:
@@ -27,7 +27,7 @@ Cleric Level | Spells
 Source:	Ravenloft: The Horrors Within</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Circle of Mortality (Grave Domain)</name>
+        <name>Circle of Mortality (Grave Domain)</name>
         <text>You can manipulate the balance between life and death, granting you the following benefits.
 
 	Pull of Death. Once per turn, when you deal damage to a creature that's missing any Hit Points by casting a spell or by hitting with an attack roll, that creature takes an extra 1d4 Necrotic damage. This extra damage increases to 1d6 when you reach Cleric level 11.
@@ -40,7 +40,7 @@ Source:	Ravenloft: The Horrors Within</text>
         <roll description="Extra Necrotic Damage" level="11">1d6</roll>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Path to the Grave (Grave Domain)</name>
+        <name>Path to the Grave (Grave Domain)</name>
         <text>As a Bonus Action, you present your Holy Symbol and expend a use of Channel Divinity to curse one creature you can see within 30 feet of yourself until the start of your next turn. While cursed, the creature has Disadvantage on attack rolls and saving throws.
 	When you or an ally you can see hits the cursed target with an attack roll, you can end the curse early (no action required) to make the attack deal extra Necrotic or Radiant damage (your choice) equal to your Cleric level.
 
@@ -49,7 +49,7 @@ Source:	Ravenloft: The Horrors Within</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Sentinel at Death's Door (Grave Domain)</name>
+        <name>Sentinel at Death's Door (Grave Domain)</name>
         <text>When you or a Bloodied creature you can see within 60 feet of yourself is hit with an attack roll, you can take a Reaction to halve that attack's damage (round down). If the triggering attack roll was a Critical Hit, any effects triggered by a Critical Hit are canceled.
 	You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a Long Rest.
 
@@ -58,7 +58,7 @@ Source:	Ravenloft: The Horrors Within</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Divine Reaper (Grave Domain)</name>
+        <name>Divine Reaper (Grave Domain)</name>
         <text>Your deep connection to this domain renders you a hallowed harbinger of death, granting you the following benefits.
 
 	Enhanced Necromancy. When you cast a spell of level 5 or lower from the Necromancy school that targets one creature, or when you cast a spell from the Grave Domain Spells table, you can expend a use of Channel Divinity to target a second creature within the spell's range. If the spell requires costly or consumed Material components, you must provide Material components for each target.
@@ -70,47 +70,47 @@ Source:	Ravenloft: The Horrors Within</text>
     </autolevel>
   </class>
   <spell>
-    <name>Detect Evil and Good [5.5e]</name>
-    <classes>Cleric [5.5e] (Grave Domain)</classes>
+    <name>Detect Evil and Good</name>
+    <classes>Cleric (Grave Domain)</classes>
   </spell>
   <spell>
-    <name>False Life [5.5e]</name>
-    <classes>Cleric [5.5e] (Grave Domain)</classes>
+    <name>False Life</name>
+    <classes>Cleric (Grave Domain)</classes>
   </spell>
   <spell>
-    <name>Gentle Repose [5.5e]</name>
-    <classes>Cleric [5.5e] (Grave Domain)</classes>
+    <name>Gentle Repose</name>
+    <classes>Cleric (Grave Domain)</classes>
   </spell>
   <spell>
-    <name>Ray of Enfeeblement [5.5e]</name>
-    <classes>Cleric [5.5e] (Grave Domain)</classes>
+    <name>Ray of Enfeeblement</name>
+    <classes>Cleric (Grave Domain)</classes>
   </spell>
   <spell>
-    <name>Spare the Dying [5.5e]</name>
-    <classes>Cleric [5.5e] (Grave Domain)</classes>
+    <name>Spare the Dying</name>
+    <classes>Cleric (Grave Domain)</classes>
   </spell>
   <spell>
-    <name>Revivify [5.5e]</name>
-    <classes>Cleric [5.5e] (Grave Domain)</classes>
+    <name>Revivify</name>
+    <classes>Cleric (Grave Domain)</classes>
   </spell>
   <spell>
-    <name>Vampiric Touch [5.5e]</name>
-    <classes>Cleric [5.5e] (Grave Domain)</classes>
+    <name>Vampiric Touch</name>
+    <classes>Cleric (Grave Domain)</classes>
   </spell>
   <spell>
-    <name>Blight [5.5e]</name>
-    <classes>Cleric [5.5e] (Grave Domain)</classes>
+    <name>Blight</name>
+    <classes>Cleric (Grave Domain)</classes>
   </spell>
   <spell>
-    <name>Death Ward [5.5e]</name>
-    <classes>Cleric [5.5e] (Grave Domain)</classes>
+    <name>Death Ward</name>
+    <classes>Cleric (Grave Domain)</classes>
   </spell>
   <spell>
-    <name>Dispel Evil and Good [5.5e]</name>
-    <classes>Cleric [5.5e] (Grave Domain)</classes>
+    <name>Dispel Evil and Good</name>
+    <classes>Cleric (Grave Domain)</classes>
   </spell>
   <spell>
-    <name>Raise Dead [5.5e]</name>
-    <classes>Cleric [5.5e] (Grave Domain)</classes>
+    <name>Raise Dead</name>
+    <classes>Cleric (Grave Domain)</classes>
   </spell>
 </compendium>

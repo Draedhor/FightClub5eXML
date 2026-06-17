@@ -2,7 +2,7 @@
 <compendium version="5" auto_indent="NO">
   <!-- Adventuring Gear -->
   <item>
-    <name>Alembic [5.5e]</name>
+    <name>Alembic (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -12,7 +12,7 @@
 Source:	The Alchemist Class p. 8 (Homebrew)</text>
   </item>
   <item>
-    <name>Astrolobe [5.5e]</name>
+    <name>Astrolobe (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -22,7 +22,7 @@ Source:	The Alchemist Class p. 8 (Homebrew)</text>
 Source:	The Alchemist Class p. 8 (Homebrew)</text>
   </item>
   <item>
-    <name>Astronomer's Pack [5.5e]</name>
+    <name>Astronomer's Pack (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <weight>5</weight>
@@ -43,7 +43,7 @@ Source:	The Alchemist Class p. 8 (Homebrew)</text>
 Source:	The Alchemist Class p. 8 (Homebrew)</text>
   </item>
   <item>
-    <name>Bellows [5.5e]</name>
+    <name>Bellows (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <weight>2</weight>
@@ -53,7 +53,7 @@ Source:	The Alchemist Class p. 8 (Homebrew)</text>
 Source:	The Alchemist Class p. 8 (Homebrew)</text>
   </item>
   <item>
-    <name>Brazier [5.5e]</name>
+    <name>Brazier (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <weight>50</weight>
@@ -63,7 +63,7 @@ Source:	The Alchemist Class p. 8 (Homebrew)</text>
 Source:	The Alchemist Class p. 8 (Homebrew)</text>
   </item>
   <item>
-    <name>Candle Mold [5.5e]</name>
+    <name>Candle Mold (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <weight>5</weight>
@@ -73,7 +73,7 @@ Source:	The Alchemist Class p. 8 (Homebrew)</text>
 Source:	The Alchemist Class p. 8 (Homebrew)</text>
   </item>
   <item>
-    <name>Coffee Grounds [5.5e]</name>
+    <name>Coffee Grounds (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <weight>5</weight>
@@ -83,7 +83,7 @@ Source:	The Alchemist Class p. 8 (Homebrew)</text>
 Source:	The Alchemist Class p. 8 (Homebrew)</text>
   </item>
   <item>
-    <name>Crucible [5.5e]</name>
+    <name>Crucible (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -93,7 +93,7 @@ Source:	The Alchemist Class p. 8 (Homebrew)</text>
 Source:	The Alchemist Class p. 8 (Homebrew)</text>
   </item>
   <item>
-    <name>Demolitioner's Pack [5.5e]</name>
+    <name>Demolitioner's Pack (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <weight>5</weight>
@@ -115,7 +115,7 @@ The pack also has 30 feet of fuse packed within the chest.
 Source:	The Alchemist Class p. 9 (Homebrew)</text>
   </item>
   <item>
-    <name>Detective's Pack [5.5e]</name>
+    <name>Detective's Pack (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <weight>5</weight>
@@ -134,7 +134,7 @@ Source:	The Alchemist Class p. 9 (Homebrew)</text>
 Source:	The Alchemist Class p. 9 (Homebrew)</text>
   </item>
   <item>
-    <name>Earplugs [5.5e]</name>
+    <name>Earplugs (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <weight>5</weight>
@@ -144,7 +144,7 @@ Source:	The Alchemist Class p. 9 (Homebrew)</text>
 Source:	The Alchemist Class p. 9 (Homebrew)</text>
   </item>
   <item>
-    <name>Glass Cutter [5.5e]</name>
+    <name>Glass Cutter (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <weight>5</weight>
@@ -154,7 +154,7 @@ Source:	The Alchemist Class p. 9 (Homebrew)</text>
 Source:	The Alchemist Class p. 9 (Homebrew)</text>
   </item>
   <item>
-    <name>Glass Tubing [5.5e]</name>
+    <name>Glass Tubing (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <value>0.1</value>
@@ -163,7 +163,7 @@ Source:	The Alchemist Class p. 9 (Homebrew)</text>
 Source:	The Alchemist Class p. 9 (Homebrew)</text>
   </item>
   <item>
-    <name>Hammock [5.5e]</name>
+    <name>Hammock (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -173,7 +173,7 @@ Source:	The Alchemist Class p. 9 (Homebrew)</text>
 Source:	The Alchemist Class p. 9 (Homebrew)</text>
   </item>
   <item>
-    <name>Heat Mat [5.5e]</name>
+    <name>Heat Mat (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -183,7 +183,7 @@ Source:	The Alchemist Class p. 9 (Homebrew)</text>
 Source:	The Alchemist Class p. 9 (Homebrew)</text>
   </item>
   <item>
-    <name>Heatsuit Outfit [5.5e]</name>
+    <name>Heatsuit Outfit (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <weight>15</weight>
@@ -193,7 +193,7 @@ Source:	The Alchemist Class p. 9 (Homebrew)</text>
 Source:	The Alchemist Class p. 9 (Homebrew)</text>
   </item>
   <item>
-    <name>Magnet, Small [5.5e]</name>
+    <name>Magnet, Small (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -203,7 +203,7 @@ Source:	The Alchemist Class p. 9 (Homebrew)</text>
 Source:	The Alchemist Class p. 9 (Homebrew)</text>
   </item>
   <item>
-    <name>Mediciner's Pack [5.5e]</name>
+    <name>Mediciner's Pack (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -222,7 +222,7 @@ Source:	The Alchemist Class p. 9 (Homebrew)</text>
 Source:	The Alchemist Class p. 9 (Homebrew)</text>
   </item>
   <item>
-    <name>Mortar and Pestle [5.5e]</name>
+    <name>Mortar and Pestle (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <value>1</value>
@@ -231,7 +231,7 @@ Source:	The Alchemist Class p. 9 (Homebrew)</text>
 Source:	The Alchemist Class p. 9 (Homebrew)</text>
   </item>
   <item>
-    <name>Periscope [5.5e]</name>
+    <name>Periscope (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <value>20</value>
@@ -240,7 +240,7 @@ Source:	The Alchemist Class p. 9 (Homebrew)</text>
 Source:	The Alchemist Class p. 9 (Homebrew)</text>
   </item>
   <item>
-    <name>Shriek Rock [5.5e]</name>
+    <name>Shriek Rock (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -250,7 +250,7 @@ Source:	The Alchemist Class p. 9 (Homebrew)</text>
 Source:	The Alchemist Class p. 9 (Homebrew)</text>
   </item>
   <item>
-    <name>Telescope [5.5e]</name>
+    <name>Telescope (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <weight>5</weight>
@@ -260,7 +260,7 @@ Source:	The Alchemist Class p. 9 (Homebrew)</text>
 Source:	The Alchemist Class p. 9 (Homebrew)</text>
   </item>
   <item>
-    <name>Test Kit [5.5e]</name>
+    <name>Test Kit (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <weight>3</weight>
@@ -270,7 +270,7 @@ Source:	The Alchemist Class p. 9 (Homebrew)</text>
 Source:	The Alchemist Class p. 9 (Homebrew)</text>
   </item>
   <item>
-    <name>Tongs [5.5e]</name>
+    <name>Tongs (TP)</name>
     <detail>common</detail>
     <type>G</type>
     <weight>3</weight>
@@ -281,7 +281,7 @@ Source:	The Alchemist Class p. 9 (Homebrew)</text>
   </item>
   <!-- Alchemical Items -->
   <item>
-    <name>Acid, Basic (Vial) [5.5e]</name>
+    <name>Acid, Basic (Vial) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -292,7 +292,7 @@ Source:	The Alchemist Class p. 9 (Homebrew)</text>
     <roll description="Acid Damage">2d6</roll>
   </item>
   <item>
-    <name>Acid, Oxidizeding Agent (Vial) [5.5e]</name>
+    <name>Acid, Oxidizeding Agent (Vial) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -310,7 +310,7 @@ Source:	The Alchemist Class p. 9 (Homebrew)</text>
     <roll description="Acid Damage">2d10</roll>
   </item>
   <item>
-    <name>Adhesive (Vial) [5.5e]</name>
+    <name>Adhesive (Vial) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -320,7 +320,7 @@ Source:	The Alchemist Class p. 9 (Homebrew)</text>
 Source:	The Alchemist Class p. 9 (Homebrew)</text>
   </item>
   <item>
-    <name>Alkahest (Vial) [5.5e]</name>
+    <name>Alkahest (Vial) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -330,7 +330,7 @@ Source:	The Alchemist Class p. 9 (Homebrew)</text>
 Source:	The Alchemist Class p. 10 (Homebrew)</text>
   </item>
   <item>
-    <name>Candle, Basic [5.5e]</name>
+    <name>Candle, Basic (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <value>0.01</value>
@@ -339,7 +339,7 @@ Source:	The Alchemist Class p. 10 (Homebrew)</text>
 Source:	The Alchemist Class p. 10 (Homebrew)</text>
   </item>
   <item>
-    <name>Candle, Focusing [5.5e]</name>
+    <name>Candle, Focusing (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -350,7 +350,7 @@ Source:	The Alchemist Class p. 10 (Homebrew)</text>
 Source:	The Alchemist Class p. 10 (Homebrew)</text>
   </item>
   <item>
-    <name>Candle, Insectbane [5.5e]</name>
+    <name>Candle, Insectbane (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <value>0.1</value>
@@ -360,7 +360,7 @@ Source:	The Alchemist Class p. 10 (Homebrew)</text>
 Source:	The Alchemist Class p. 11 (Homebrew)</text>
   </item>
   <item>
-    <name>Candle, Restful [5.5e]</name>
+    <name>Candle, Restful (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -371,7 +371,7 @@ Source:	The Alchemist Class p. 11 (Homebrew)</text>
 Source:	The Alchemist Class p. 11 (Homebrew)</text>
   </item>
   <item>
-    <name>Clearbreath (Vial) [5.5e]</name>
+    <name>Clearbreath (Vial) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -382,7 +382,7 @@ Source:	The Alchemist Class p. 11 (Homebrew)</text>
 Source:	The Alchemist Class p. 11 (Homebrew)</text>
   </item>
   <item>
-    <name>Darkvision Powder (Vial) [5.5e]</name>
+    <name>Darkvision Powder (Vial) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -393,7 +393,7 @@ Source:	The Alchemist Class p. 11 (Homebrew)</text>
 Source:	The Alchemist Class p. 11 (Homebrew)</text>
   </item>
   <item>
-    <name>Defoliator (Flask) [5.5e]</name>
+    <name>Defoliator (Flask) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -405,7 +405,7 @@ Source:	The Alchemist Class p. 11 (Homebrew)</text>
     <roll description="Poison Damage">2d4</roll>
   </item>
   <item>
-    <name>Dwarfblind Stone [5.5e]</name>
+    <name>Dwarfblind Stone (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -417,7 +417,7 @@ Source:	The Alchemist Class p. 11 (Homebrew)</text>
     <roll description="Poison Damage">2d4</roll>
   </item>
   <item>
-    <name>Fleetfoot (Flask) [5.5e]</name>
+    <name>Fleetfoot (Flask) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -429,7 +429,7 @@ Source:	The Alchemist Class p. 11 (Homebrew)</text>
     <roll description="Poison Damage">2d4</roll>
   </item>
   <item>
-    <name>Frigid Azote (Flask) [5.5e]</name>
+    <name>Frigid Azote (Flask) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -441,7 +441,7 @@ Source:	The Alchemist Class p. 11 (Homebrew)</text>
     <roll description="Cold Damage">2d6</roll>
   </item>
   <item>
-    <name>Green Slime (Pot) [5.5e]</name>
+    <name>Green Slime (Pot) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -453,7 +453,7 @@ Source:	The Alchemist Class p. 11 (Homebrew)</text>
     <roll description="Acid Damage">1d10</roll>
   </item>
   <item>
-    <name>Healing Draught (Flask) [5.5e]</name>
+    <name>Healing Draught (Flask) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -464,7 +464,7 @@ Source:	The Alchemist Class p. 11 (Homebrew)</text>
 Source:	The Alchemist Class p. 11 (Homebrew)</text>
   </item>
   <item>
-    <name>Holy Water (Flask) [5.5e]</name>
+    <name>Holy Water (Flask) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -476,7 +476,7 @@ Source:	The Alchemist Class p. 11 (Homebrew)</text>
     <roll description="Radiant Damage">2d8</roll>
   </item>
   <item>
-    <name>Insect Repellent-Salve (Vial) [5.5e]</name>
+    <name>Insect Repellent-Salve (Vial) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -488,7 +488,7 @@ Source:	The Alchemist Class p. 11 (Homebrew)</text>
     <roll description="Radiant Damage">2d8</roll>
   </item>
   <item>
-    <name>Instant Rope (Flask) [5.5e]</name>
+    <name>Instant Rope (Flask) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -500,7 +500,7 @@ Source:	The Alchemist Class p. 11 (Homebrew)</text>
     <roll description="Radiant Damage">2d8</roll>
   </item>
   <item>
-    <name>Instant Wall (Flask) [5.5e]</name>
+    <name>Instant Wall (Flask) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -513,7 +513,7 @@ Source:	The Alchemist Class p. 11 (Homebrew)</text>
     <roll description="Bludgeoning Damage">1d8</roll>
   </item>
   <item>
-    <name>Levin Shell (Flask) [5.5e]</name>
+    <name>Levin Shell (Flask) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -525,7 +525,7 @@ Source:	The Alchemist Class p. 12 (Homebrew)</text>
     <roll description="Lightning Damage">1d6</roll>
   </item>
   <item>
-    <name>Longbreath (Vial) [5.5e]</name>
+    <name>Longbreath (Vial) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -536,7 +536,7 @@ Source:	The Alchemist Class p. 12 (Homebrew)</text>
 Source:	The Alchemist Class p. 12 (Homebrew)</text>
   </item>
   <item>
-    <name>Motelight (Flask) [5.5e]</name>
+    <name>Motelight (Flask) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -547,7 +547,7 @@ Source:	The Alchemist Class p. 12 (Homebrew)</text>
 Source:	The Alchemist Class p. 12 (Homebrew)</text>
   </item>
   <item>
-    <name>Oil, Basic (Flask) [5.5e]</name>
+    <name>Oil, Basic (Flask) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -563,7 +563,7 @@ Source:	The Alchemist Class p. 12 (Homebrew)</text>
 Source:	The Alchemist Class p. 12 (Homebrew)</text>
   </item>
   <item>
-    <name>Oil, Anointing (Flask) [5.5e]</name>
+    <name>Oil, Anointing (Flask) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -583,7 +583,7 @@ Source:	The Alchemist Class p. 12 (Homebrew)</text>
     <roll description="Extra Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Oil, Bladefire (Flask) [5.5e]</name>
+    <name>Oil, Bladefire (Flask) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -603,7 +603,7 @@ Source:	The Alchemist Class p. 12 (Homebrew)</text>
     <roll description="Extra Fire Damage">1d4</roll>
   </item>
   <item>
-    <name>Oil, Crone's Ire (Flask) [5.5e]</name>
+    <name>Oil, Crone's Ire (Flask) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -623,7 +623,7 @@ Source:	The Alchemist Class p. 12 (Homebrew)</text>
     <roll description="Extra Necrotic Damage">1d4</roll>
   </item>
   <item>
-    <name>Oil, Dragonwound (Flask) [5.5e]</name>
+    <name>Oil, Dragonwound (Flask) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -643,7 +643,7 @@ Source:	The Alchemist Class p. 12 (Homebrew)</text>
     <roll description="Extra Force Damage">1d6</roll>
   </item>
   <item>
-    <name>Oil, Farflame (Flask) [5.5e]</name>
+    <name>Oil, Farflame (Flask) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -662,7 +662,7 @@ Source:	The Alchemist Class p. 12 (Homebrew)</text>
 Source:	The Alchemist Class p. 12 (Homebrew)</text>
   </item>
   <item>
-    <name>Oil, Ghostflame (Flask) [5.5e]</name>
+    <name>Oil, Ghostflame (Flask) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -681,7 +681,7 @@ Source:	The Alchemist Class p. 12 (Homebrew)</text>
 Source:	The Alchemist Class p. 13 (Homebrew)</text>
   </item>
   <item>
-    <name>Oil, Dicious Bleeder (Flask) [5.5e]</name>
+    <name>Oil, Dicious Bleeder (Flask) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -701,7 +701,7 @@ Source:	The Alchemist Class p. 13 (Homebrew)</text>
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>Perfume (Vial) [5.5e]</name>
+    <name>Perfume (Vial) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <value>5</value>
@@ -711,7 +711,7 @@ Source:	The Alchemist Class p. 13 (Homebrew)</text>
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>Polar Skin (Flask) [5.5e]</name>
+    <name>Polar Skin (Flask) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -722,7 +722,7 @@ Source:	The Alchemist Class p. 13 (Homebrew)</text>
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>Potion of Healing, Generic (Flask) [5.5e]</name>
+    <name>Potion of Healing, Generic (Flask) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -744,7 +744,7 @@ Source:	The Alchemist Class p. 13 (Homebrew)</text>
     <roll description="Very Heal">10d4+20</roll>
   </item>
   <item>
-    <name>Basic Potion of Healing (Vial) [5.5e]</name>
+    <name>Basic Potion of Healing (Vial) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -756,7 +756,7 @@ Source:	The Alchemist Class p. 13 (Homebrew)</text>
     <roll description="Heal">2d4+2</roll>
   </item>
   <item>
-    <name>Greater Potion of Healing (Vial) [5.5e]</name>
+    <name>Greater Potion of Healing (Vial) (TP)</name>
     <detail>alchemical item, uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -768,7 +768,7 @@ Source:	The Alchemist Class p. 13 (Homebrew)</text>
     <roll description="Heal">4d4+4</roll>
   </item>
   <item>
-    <name>Superior Potion of Healing (Vial) [5.5e]</name>
+    <name>Superior Potion of Healing (Vial) (TP)</name>
     <detail>alchemical item, rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -780,7 +780,7 @@ Source:	The Alchemist Class p. 13 (Homebrew)</text>
     <roll description="Heal">8d4+8</roll>
   </item>
   <item>
-    <name>Supreme Potion of Healing (Vial) [5.5e]</name>
+    <name>Supreme Potion of Healing (Vial) (TP)</name>
     <detail>alchemical item, very rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -792,7 +792,7 @@ Source:	The Alchemist Class p. 13 (Homebrew)</text>
     <roll description="Heal">10d4+20</roll>
   </item>
   <item>
-    <name>Shriek Paste (Vial) [5.5e]</name>
+    <name>Shriek Paste (Vial) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -804,7 +804,7 @@ Source:	The Alchemist Class p. 13 (Homebrew)</text>
     <roll description="Rounds">1d4</roll>
   </item>
   <item>
-    <name>Spark of Creation (Vial) [5.5e]</name>
+    <name>Spark of Creation (Vial) (TP)</name>
     <detail>alchemical item, very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -817,7 +817,7 @@ Source:	The Alchemist Class p. 13 (Homebrew)</text>
     <roll description="Rounds">1d4</roll>
   </item>
   <item>
-    <name>Splash Catalyst (Vial) [5.5e]</name>
+    <name>Splash Catalyst (Vial) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -827,7 +827,7 @@ Source:	The Alchemist Class p. 13 (Homebrew)</text>
 Source:	The Alchemist Class p. 13 (Homebrew)</text>
   </item>
   <item>
-    <name>Soap [5.5e]</name>
+    <name>Soap (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <value>0.02</value>
@@ -836,7 +836,7 @@ Source:	The Alchemist Class p. 13 (Homebrew)</text>
 Source:	The Alchemist Class p. 13 (Homebrew)</text>
   </item>
   <item>
-    <name>Sparkstone [5.5e]</name>
+    <name>Sparkstone (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -847,7 +847,7 @@ Source:	The Alchemist Class p. 14 (Homebrew)</text>
     <roll description="Lightning Damage">1d6</roll>
   </item>
   <item>
-    <name>Smelling Salts [5.5e]</name>
+    <name>Smelling Salts (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -857,7 +857,7 @@ Source:	The Alchemist Class p. 14 (Homebrew)</text>
 Source:	The Alchemist Class p. 14 (Homebrew)</text>
   </item>
   <item>
-    <name>Smokestick, Basic [5.5e]</name>
+    <name>Smokestick, Basic (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -867,7 +867,7 @@ Source:	The Alchemist Class p. 14 (Homebrew)</text>
 Source:	The Alchemist Class p. 14 (Homebrew)</text>
   </item>
   <item>
-    <name>Smokestick, Gravebane (Flask) [5.5e]</name>
+    <name>Smokestick, Gravebane (Flask) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -878,7 +878,7 @@ Source:	The Alchemist Class p. 14 (Homebrew)</text>
 Source:	The Alchemist Class p. 14 (Homebrew)</text>
   </item>
   <item>
-    <name>Smokestick, Verminbane (Flask) [5.5e]</name>
+    <name>Smokestick, Verminbane (Flask) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -889,7 +889,7 @@ Source:	The Alchemist Class p. 14 (Homebrew)</text>
 Source:	The Alchemist Class p. 14 (Homebrew)</text>
   </item>
   <item>
-    <name>Sunrod [5.5e]</name>
+    <name>Sunrod (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -899,7 +899,7 @@ Source:	The Alchemist Class p. 14 (Homebrew)</text>
 Source:	The Alchemist Class p. 14 (Homebrew)</text>
   </item>
   <item>
-    <name>Tanglefoot Bag (Sack) [5.5e]</name>
+    <name>Tanglefoot Bag (Sack) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -910,7 +910,7 @@ Source:	The Alchemist Class p. 14 (Homebrew)</text>
 Source:	The Alchemist Class p. 14 (Homebrew)</text>
   </item>
   <item>
-    <name>Thunderstone [5.5e]</name>
+    <name>Thunderstone (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -921,7 +921,7 @@ Source:	The Alchemist Class p. 14 (Homebrew)</text>
 Source:	The Alchemist Class p. 14 (Homebrew)</text>
   </item>
   <item>
-    <name>Torch, Basic [5.5e]</name>
+    <name>Torch, Basic (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -931,7 +931,7 @@ Source:	The Alchemist Class p. 14 (Homebrew)</text>
 Source:	The Alchemist Class p. 14 (Homebrew)</text>
   </item>
   <item>
-    <name>Torch, Beast-Repellent [5.5e]</name>
+    <name>Torch, Beast-Repellent (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <weight>1</weight>
@@ -942,7 +942,7 @@ Source:	The Alchemist Class p. 14 (Homebrew)</text>
 Source:	The Alchemist Class p. 14 (Homebrew)</text>
   </item>
   <item>
-    <name>Torch, Frigidflame [5.5e]</name>
+    <name>Torch, Frigidflame (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -953,7 +953,7 @@ Source:	The Alchemist Class p. 14 (Homebrew)</text>
 Source:	The Alchemist Class p. 14 (Homebrew)</text>
   </item>
   <item>
-    <name>Torch, Sentry [5.5e]</name>
+    <name>Torch, Sentry (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -965,7 +965,7 @@ Source:	The Alchemist Class p. 14 (Homebrew)</text>
 Source:	The Alchemist Class p. 14 (Homebrew)</text>
   </item>
   <item>
-    <name>Torch, Tindertwig [5.5e]</name>
+    <name>Torch, Tindertwig (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -977,7 +977,7 @@ Source:	The Alchemist Class p. 14 (Homebrew)</text>
 Source:	The Alchemist Class p. 14 (Homebrew)</text>
   </item>
   <item>
-    <name>Toothpaste (Vial) [5.5e]</name>
+    <name>Toothpaste (Vial) (TP)</name>
     <detail>alchemical item, common</detail>
     <type>G</type>
     <value>0.5</value>

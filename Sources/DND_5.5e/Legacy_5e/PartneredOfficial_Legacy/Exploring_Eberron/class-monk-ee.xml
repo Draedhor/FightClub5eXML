@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Monk [5.5e]</name>
+    <name>Monk</name>
     <!-- Monastic Tradition: Way of the Living Weapon (TP) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -23,7 +23,7 @@ As a Living Weapon monk, you may draw on a singular technique, or you may instea
 Source:	Exploring Eberron p. 218 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Fists of Bone and Steel (Way of the Living Weapon (TP) (Legacy))</name>
+        <name>Fists of Bone and Steel (Way of the Living Weapon (TP) (Legacy))</name>
         <text>At 3rd level, when you choose this tradition, your Martial Arts damage die increases for unarmed strikes. You can roll a d6 in place of the normal damage for your unarmed strike. This die changes to a d8 at 5th level; a d10 at 11th level; and a d12 at 17th level. This increased damage can only be applied to an unarmed strike, and not to a monk weapon.
 
 Source:	Exploring Eberron p. 218 (Third Party)</text>
@@ -33,7 +33,7 @@ Source:	Exploring Eberron p. 218 (Third Party)</text>
         <roll description="Unarmed Bludgeoning Damage" level="17">1d12</roll>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Martial Discipline (Way of the Living Weapon (TP) (Legacy))</name>
+        <name>Martial Discipline (Way of the Living Weapon (TP) (Legacy))</name>
         <text>Starting at 3rd level, when you adopt this tradition, choose a discipline and gain its feature.
 
 	Forged Heart. Your unarmed strikes are considered adamantine weapons. In addition, when you hit a creature with an unarmed attack, you can spend 1 ki point to cause it to make a Strength saving throw. On a failed save, the creature takes 2d6 additional damage of the same type as the unarmed strike and can be pushed up to 15 feet away from you. On a successful save, the creature only takes 1d6 points of additional damage and is not pushed back.
@@ -48,7 +48,7 @@ Source:	Exploring Eberron p. 218 (Third Party)</text>
 Source:	Exploring Eberron p. 218 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Mutable Strike (Way of the Living Weapon (TP) (Legacy))</name>
+        <name>Mutable Strike (Way of the Living Weapon (TP) (Legacy))</name>
         <text>You have the power to alter your natural weapons, growing claws or reinforcing your fists. Starting at 3rd level, when you use Martial Arts to make an unarmed strike, you can choose whether you inflict slashing, bludgeoning, or piercing damage with the attack.
 
 Source:	Exploring Eberron p. 219 (Third Party)</text>
@@ -56,7 +56,7 @@ Source:	Exploring Eberron p. 219 (Third Party)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Manifest Blow (Way of the Living Weapon (TP) (Legacy))</name>
+        <name>Manifest Blow (Way of the Living Weapon (TP) (Legacy))</name>
         <text>Starting at 6th level, choose one of the following damage types when you finish a long rest: bludgeoning, piercing, slashing, cold, lightning, necrotic, psychic, or thunder. On your turn, the first creature you hit with an unarmed strike takes an additional 1d6 points of damage of that type. If you select bludgeoning, piercing, or slashing damage, it benefits from your Ki-Empowered Strikes class feature and counts as magical damage.
 	Nightmare Shroud monks typically inflict psychic damage with this ability, Forged Heart monks enhance their bludgeoning damage, and Weretouched grow sharper claws. However, you can choose any damage type, regardless of your discipline(s).
 
@@ -65,7 +65,7 @@ Source:	Exploring Eberron p. 219 (Third Party)</text>
     </autolevel>
     <autolevel level="11">
       <feature optional="YES">
-        <name>Level 11: Reflexive Adaptation (Way of the Living Weapon (TP) (Legacy))</name>
+        <name>Reflexive Adaptation (Way of the Living Weapon (TP) (Legacy))</name>
         <text>Starting at 11th level, when you make a Strength (Athletics) or Dexterity (Acrobatics) check, you can spend 1 ki point to roll an additional d20. You can choose to use this ability after you roll the check, but before the outcome is determined. You choose which of the d20s is used for the ability check, omitting the highest if this check was rolled with disadvantage.
 	In addition, the extra damage dealt by the Manifest Blow class feature increases to 2d6.
 
@@ -75,7 +75,7 @@ Source:	Exploring Eberron p. 219 (Third Party)</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Perfect Form (Way of the Living Weapon (TP) (Legacy))</name>
+        <name>Perfect Form (Way of the Living Weapon (TP) (Legacy))</name>
         <text>At 17th level, you transform your body to become a weapon of war. You gain a feature based on a discipline of your choice. You can choose the same discipline you selected at 3rd level or a different one.
 
 	Forged Heart. When you are hit by an attack, you can use your reaction to add your Wisdom modifier (minimum of 1) to your AC, including against the triggering attack. This effect lasts until the start of your next turn.

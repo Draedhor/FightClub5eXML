@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Hand Cannon (HeavyArms)</name>
+    <name>Hand Cannon (HeavyArms) (TP)</name>
     <detail>pistol, firearm</detail>
     <type>R</type>
     <weight>3</weight>
@@ -26,7 +26,7 @@ Proficiency: firearms, pistol
 Source:	HeavyArms: The Gunslinger v1.1 p. 10 (Homebrew)</text>
   </item>
   <item>
-    <name>Sidearm (HeavyArms)</name>
+    <name>Sidearm (HeavyArms) (TP)</name>
     <detail>pistol, firearm</detail>
     <type>R</type>
     <weight>2</weight>
@@ -50,7 +50,7 @@ Proficiency: firearms, pistol
 Source:	HeavyArms: The Gunslinger v1.1 p. 10 (Homebrew)</text>
   </item>
   <item>
-    <name>Repeating Rifle (HeavyArms)</name>
+    <name>Repeating Rifle (HeavyArms) (TP)</name>
     <detail>rifle, firearm</detail>
     <type>R</type>
     <weight>8</weight>
@@ -74,7 +74,7 @@ Proficiency: firearms, rifle
 Source:	HeavyArms: The Gunslinger v1.1 p. 10 (Homebrew)</text>
   </item>
   <item>
-    <name>Repeating Shotgun (HeavyArms)</name>
+    <name>Repeating Shotgun (HeavyArms) (TP)</name>
     <detail>shotgun, firearm</detail>
     <type>R</type>
     <weight>7</weight>
@@ -101,7 +101,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 10 (Homebrew)</text>
     <roll description="Extra Damage">1d12</roll>
   </item>
   <item>
-    <name>Sawed-off Shotgun (HeavyArms)</name>
+    <name>Sawed-off Shotgun (HeavyArms) (TP)</name>
     <detail>shotgun, firearm</detail>
     <type>R</type>
     <weight>7</weight>
@@ -131,7 +131,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 10 (Homebrew)</text>
     <roll description="Extra Damage">1d12</roll>
   </item>
   <item>
-    <name>Rounds (HeavyArms)</name>
+    <name>Rounds (HeavyArms) (TP)</name>
     <detail>common</detail>
     <type>A</type>
     <weight>0.05</weight>
@@ -142,7 +142,7 @@ Weapon: pistols, rifles
 Source:	HeavyArms: The Gunslinger v1.1 p. 10 (Homebrew)</text>
   </item>
   <item>
-    <name>Shotshells (HeavyArms)</name>
+    <name>Shotshells (HeavyArms) (TP)</name>
     <detail>common</detail>
     <type>A</type>
     <weight>0.05</weight>
@@ -153,7 +153,7 @@ Weapon: shotguns
 Source:	HeavyArms: The Gunslinger v1.1 p. 10 (Homebrew)</text>
   </item>
   <item>
-    <name>Heat Seekers (HeavyArms)</name>
+    <name>Heat Seekers (HeavyArms) (TP)</name>
     <detail>uncommon</detail>
     <type>A</type>
     <weight>0.05</weight>
@@ -166,7 +166,7 @@ Weapon: all firearms
 Source:	HeavyArms: The Gunslinger v1.1 p. 10 (Homebrew)</text>
   </item>
   <item>
-    <name>Incendiary (HeavyArms)</name>
+    <name>Incendiary (HeavyArms) (TP)</name>
     <detail>uncommon</detail>
     <type>A</type>
     <weight>0.05</weight>
@@ -180,7 +180,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 10 (Homebrew)</text>
     <roll description="Fire Damage">1d6</roll>
   </item>
   <item>
-    <name>Silvered Ammunition (HeavyArms)</name>
+    <name>Silvered Ammunition (HeavyArms) (TP)</name>
     <detail>uncommon</detail>
     <type>A</type>
     <weight>0.05</weight>
@@ -191,7 +191,7 @@ Weapon: all firearms
 Source:	HeavyArms: The Gunslinger v1.1 p. 10 (Homebrew)</text>
   </item>
   <item>
-    <name>Ace of Spades (HeavyArms)</name>
+    <name>Ace of Spades (HeavyArms) (TP)</name>
     <detail>hand cannon, very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -222,7 +222,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Lawgiver (HeavyArms)</name>
+    <name>Lawgiver (HeavyArms) (TP)</name>
     <detail>hand cannon, rare (requires attunement by a creature of lawful alignment)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -253,7 +253,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Little Rascal (HeavyArms)</name>
+    <name>Little Rascal (HeavyArms) (TP)</name>
     <detail>sidearm, pistol, firearm, uncommon (requires attunement)</detail>
     <type>R</type>
     <weight>2</weight>
@@ -279,7 +279,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <roll>1d6</roll>
   </item>
   <item>
-    <name>The Long View (HeavyArms)</name>
+    <name>The Long View (HeavyArms) (TP)</name>
     <detail>rifle, firearm, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -310,7 +310,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
   </item>
   <!-- Bad Juju -->
   <item>
-    <name>Bad Juju Hand Cannon (HeavyArms)</name>
+    <name>Bad Juju Hand Cannon (HeavyArms) (TP)</name>
     <detail>pistol, firearm, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -341,7 +341,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Bad Juju Sidearm (HeavyArms)</name>
+    <name>Bad Juju Sidearm (HeavyArms) (TP)</name>
     <detail>pistol, firearm, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -371,7 +371,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Bad Juju Repeating Rifle (HeavyArms)</name>
+    <name>Bad Juju Repeating Rifle (HeavyArms) (TP)</name>
     <detail>rifle, firearm, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -401,7 +401,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Bad Juju Repeating Shotgun (HeavyArms)</name>
+    <name>Bad Juju Repeating Shotgun (HeavyArms) (TP)</name>
     <detail>shotgun, firearm, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -434,7 +434,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <roll description="Extra Damage">1d12</roll>
   </item>
   <item>
-    <name>Bad Juju Sawed-off Shotgun (HeavyArms)</name>
+    <name>Bad Juju Sawed-off Shotgun (HeavyArms) (TP)</name>
     <detail>shotgun, firearm, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -471,7 +471,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
   </item>
   <!-- Boomstick -->
   <item>
-    <name>Repeating Boomstick (HeavyArms)</name>
+    <name>Repeating Boomstick (HeavyArms) (TP)</name>
     <detail>shotgun, firearm</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -506,7 +506,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <roll description="Extra Damage">1d12</roll>
   </item>
   <item>
-    <name>Sawed-off Boomstick (HeavyArms)</name>
+    <name>Sawed-off Boomstick (HeavyArms) (TP)</name>
     <detail>shotgun, firearm</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -543,7 +543,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
   </item>
   <!-- Good Medicine -->
   <item>
-    <name>Good Medicine Hand Cannon (HeavyArms)</name>
+    <name>Good Medicine Hand Cannon (HeavyArms) (TP)</name>
     <detail>pistol, firearm, rare (requires attunement by a gunslinger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -576,7 +576,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Good Medicine Sidearm (HeavyArms)</name>
+    <name>Good Medicine Sidearm (HeavyArms) (TP)</name>
     <detail>pistol, firearm, rare (requires attunement by a gunslinger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -608,7 +608,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Good Medicine Repeating Rifle (HeavyArms)</name>
+    <name>Good Medicine Repeating Rifle (HeavyArms) (TP)</name>
     <detail>rifle, firearm, rare (requires attunement by a gunslinger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -640,7 +640,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Good Medicine Repeating Shotgun (HeavyArms)</name>
+    <name>Good Medicine Repeating Shotgun (HeavyArms) (TP)</name>
     <detail>shotgun, firearm, rare (requires attunement by a gunslinger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -675,7 +675,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <roll description="Extra Damage">1d12</roll>
   </item>
   <item>
-    <name>Good Medicine Sawed-off Shotgun (HeavyArms)</name>
+    <name>Good Medicine Sawed-off Shotgun (HeavyArms) (TP)</name>
     <detail>shotgun, firearm, rare (requires attunement by a gunslinger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -714,7 +714,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
   </item>
   <!-- Iconoclast -->
   <item>
-    <name>Iconoclast Hand Cannon (HeavyArms)</name>
+    <name>Iconoclast Hand Cannon (HeavyArms) (TP)</name>
     <detail>pistol, firearm, very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -747,7 +747,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Iconoclast Sidearm (HeavyArms)</name>
+    <name>Iconoclast Sidearm (HeavyArms) (TP)</name>
     <detail>pistol, firearm, very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -779,7 +779,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Iconoclast Repeating Rifle (HeavyArms)</name>
+    <name>Iconoclast Repeating Rifle (HeavyArms) (TP)</name>
     <detail>rifle, firearm, very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -811,7 +811,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Iconoclast Repeating Shotgun (HeavyArms)</name>
+    <name>Iconoclast Repeating Shotgun (HeavyArms) (TP)</name>
     <detail>shotgun, firearm, very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -846,7 +846,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <roll description="Extra Damage">1d12</roll>
   </item>
   <item>
-    <name>Iconoclast Sawed-off Shotgun (HeavyArms)</name>
+    <name>Iconoclast Sawed-off Shotgun (HeavyArms) (TP)</name>
     <detail>shotgun, firearm, very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -885,7 +885,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
   </item>
   <!-- Old Faithful -->
   <item>
-    <name>Old Faithful Hand Cannon (HeavyArms)</name>
+    <name>Old Faithful Hand Cannon (HeavyArms) (TP)</name>
     <detail>pistol, firearm, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -916,7 +916,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Old Faithful Sidearm (HeavyArms)</name>
+    <name>Old Faithful Sidearm (HeavyArms) (TP)</name>
     <detail>pistol, firearm, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -946,7 +946,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Old Faithful Repeating Rifle (HeavyArms)</name>
+    <name>Old Faithful Repeating Rifle (HeavyArms) (TP)</name>
     <detail>rifle, firearm, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -976,7 +976,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Old Faithful Repeating Shotgun (HeavyArms)</name>
+    <name>Old Faithful Repeating Shotgun (HeavyArms) (TP)</name>
     <detail>shotgun, firearm, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1009,7 +1009,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <roll description="Extra Damage">1d12</roll>
   </item>
   <item>
-    <name>Old Faithful Sawed-off Shotgun (HeavyArms)</name>
+    <name>Old Faithful Sawed-off Shotgun (HeavyArms) (TP)</name>
     <detail>shotgun, firearm, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1046,7 +1046,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
   </item>
   <!-- Showstopper -->
   <item>
-    <name>Repeating Showstopper (HeavyArms)</name>
+    <name>Repeating Showstopper (HeavyArms) (TP)</name>
     <detail>shotgun, firearm, very rare (requires attunement by a gunslinger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1081,7 +1081,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <roll description="Extra Damage">1d12</roll>
   </item>
   <item>
-    <name>Sawed-off Showstopper (HeavyArms)</name>
+    <name>Sawed-off Showstopper (HeavyArms) (TP)</name>
     <detail>shotgun, firearm, very rare (requires attunement by a gunslinger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1120,7 +1120,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
   </item>
   <!-- Pilgrim's Path -->
   <item>
-    <name>Pilgrim's Path Hand Cannon (HeavyArms)</name>
+    <name>Pilgrim's Path Hand Cannon (HeavyArms) (TP)</name>
     <detail>pistol, firearm, very rare (requires attunement by a gunslinger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1151,7 +1151,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Pilgrim's Path Sidearm (HeavyArms)</name>
+    <name>Pilgrim's Path Sidearm (HeavyArms) (TP)</name>
     <detail>pistol, firearm, very rare (requires attunement by a gunslinger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1181,7 +1181,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Pilgrim's Path Repeating Rifle (HeavyArms)</name>
+    <name>Pilgrim's Path Repeating Rifle (HeavyArms) (TP)</name>
     <detail>rifle, firearm, very rare (requires attunement by a gunslinger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1211,7 +1211,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Pilgrim's Path Repeating Shotgun (HeavyArms)</name>
+    <name>Pilgrim's Path Repeating Shotgun (HeavyArms) (TP)</name>
     <detail>shotgun, firearm, very rare (requires attunement by a gunslinger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1244,7 +1244,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 12 (Homebrew)</text>
     <roll description="Extra Damage">1d12</roll>
   </item>
   <item>
-    <name>Pilgrim's Path Sawed-off Shotgun (HeavyArms)</name>
+    <name>Pilgrim's Path Sawed-off Shotgun (HeavyArms) (TP)</name>
     <detail>shotgun, firearm, very rare (requires attunement by a gunslinger)</detail>
     <type>R</type>
     <magic>YES</magic>

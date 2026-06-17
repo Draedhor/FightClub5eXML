@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Scatterspray [2024]</name>
+    <name>Scatterspray</name>
     <level>2</level>
     <school>EV</school>
     <time>1 action</time>
@@ -24,7 +24,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 142</text>
     <roll description="Bludgeoning Damage" level="9">10d8</roll>
   </spell>
   <spell>
-    <name>Laeral's Cutting Words [2024]</name>
+    <name>Laeral's Cutting Words</name>
     <level>2</level>
     <school>EN</school>
     <time>1 reaction, which you take when a creature within range makes an attack roll, ability check, or damage roll</time>
@@ -39,7 +39,7 @@ At Higher Levels: When you cast this spell using a spell slot of 3rd level or hi
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 142</text>
   </spell>
   <spell>
-    <name>Laeral's Crowning Touch [2024]</name>
+    <name>Laeral's Crowning Touch</name>
     <level>3</level>
     <school>EN</school>
     <time>1 action</time>

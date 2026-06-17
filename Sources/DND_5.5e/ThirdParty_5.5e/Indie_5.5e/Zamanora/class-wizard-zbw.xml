@@ -4,7 +4,7 @@
     <name>Wizard</name>
     <autolevel level="3">
       <feature optional="YES">
-        <name>Veilmark Information (Zamanora)</name>
+        <name>Veilmark Information (Zamanora) (TP)</name>
         <text>It is said that trespassing upon the spirit world leaves a tangible brand on one's body and soul. Mortals should never peer beyond the Veil, lest the spirits take notice and mark them forevermore. Let a marked person into your home and you invite certain calamity. The lands of Zamanora are riddled with such fiction and cautionary tales that only work to paint those who are inquisitive in a bad light. Yet they are right about one thing; someone who interacts with the Hidden World too often is bound to be "marked".
 
 As characters engage in encounters with curses, spirits, and other supernatural phenomena, they accrue Veilmark. This attribute reflects their growing connection to the spirit realm and the transformative effects of these experiences on their physical and spiritual selves. Veilmarked is the term used by the Zamanori to describe individuals who have thus changed, and denotes characters who have accrued enough Veilmark to cross a threshold. If playing in a different setting, you may use the broader term Aura to describe the system.
@@ -126,13 +126,13 @@ Source:	Zamanora: Ballad of the Witch p. 120 (Homebrew)</text>
     <!-- Wizard Subclass: Oneiromancy (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Wizard Subclass: Oneiromancy (HB)</name>
+        <name>Wizard Subclass: Oneiromancy (TP)</name>
         <text>Oneiromancers are individuals that derive meaning from dreams, sought after for their precious counseling and guidance through life's many crucibles. The power of this ancient craft extends beyond the ability to foretell one's fate; powerful Oneiromancers can traverse the boundaries of the dreamscape, bringing forth lucid dreams and dreadful nightmares into the waking world.
 
 Source:	Zamanora: Ballad of the Witch p. 114 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Oneirocritica (Oneiromancy (HB))</name>
+        <name>Oneirocritica (Oneiromancy (TP))</name>
         <text>You can interpret the meaning behind your dreams and divulge prophetic signs for your imminent future. At the end of a Long Rest, roll a d10 on the Oneirocritica Signs table presented below. The result indicates the interpretation of your most recent dream. This interpretation grants you a benefit that will aid you throughout the day and lasts until you complete a Long Rest.
 
 Oneirocritica Signs:
@@ -154,7 +154,7 @@ Source:	Zamanora: Ballad of the Witch p. 114 (Homebrew)</text>
         <roll description="Oneirocritica Signs">1d10</roll>
       </feature>
       <feature optional="YES">
-        <name>Hypnopedia (Oneiromancy (HB))</name>
+        <name>Hypnopedia (Oneiromancy (TP))</name>
         <text>Choose one Wizard spell from the Divination school or Illusion school, which is no higher than level 2, and add it to your spellbook for free. In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Divination or the Illusion school to your spellbook for free. The chosen spell must be of a level for which you have spell slots. Whenever you finish a Long Rest, you may replace a spell learned this way with another Divination or Illusion spell of the same level.
 
 Source:	Zamanora: Ballad of the Witch p. 115 (Homebrew)</text>
@@ -162,7 +162,7 @@ Source:	Zamanora: Ballad of the Witch p. 115 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Blissful Reverie (Oneiromancy (HB))</name>
+        <name>Blissful Reverie (Oneiromancy (TP))</name>
         <text>You may touch a willing creature at the beginning of its Short Rest and induce it with pleasant dreams. The creature falls asleep in a hypnotized state of elation for the duration of its rest. Upon finishing a Short Rest in this way, a creature gains the following benefits:
 
 	Dreamlike Recovery. If the creature has the Spellcasting feature, it gains the effects of your Arcane Recovery feature (according to your Wizard level).
@@ -176,7 +176,7 @@ Source:	Zamanora: Ballad of the Witch p. 115 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Waking Nightmare (Oneiromancy (HB))</name>
+        <name>Waking Nightmare (Oneiromancy (TP))</name>
         <text>You learn how to weave an apparition of your own nightmares and unleash it into the world. By using a Magic Action, you can cause a horrific illusion to appear in an unoccupied space within 15 feet of you. The illusion must resemble a creature and its size can be no larger than Large. The illusion includes sound, temperature, and other stimuli. It is active for the next minute or until you fall Unconscious. This feature has no effect on Undead or Constructs.
 	At the end of each of your turns after the illusion appears, each creature within 5 feet of it makes a Wisdom saving throw against your spell save DC, suffering the effects of Phantasmal Killer on a failed save. While the illusion is active, you can use a Bonus Action on your turn to move it up to 20 feet.
 	A creature rationalizes any illogical outcomes from interacting with the illusion, but it can use its Action to disbelieve it with an Intelligence (Investigation) check against your spell save DC. If the check succeeds, the creature realizes that the illusion is not real. The illusion then dissipates for the creature and any effects caused by it end on itself, yet every other creature in the area that has not succeeded on the same check can still perceive it.
@@ -187,14 +187,14 @@ Source:	Zamanora: Ballad of the Witch p. 116 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Gates of the Dreamworld (Oneiromancy (HB))</name>
+        <name>Gates of the Dreamworld (Oneiromancy (TP))</name>
         <text>You are perpetually torn between the material world and the world of dreams, while your mind adapts into a state of constant awareness which manifests into reality. While you have the Unconscious condition, you may project a lucid apparition of yourself that hovers 5-feet over you. The apparition is intangible and cannot be interacted with.
 	While the apparition is active, you can perceive your surroundings as if you were conscious. In addition, you can cast spells and use your Oneiromancer features normally, though they originate from the apparition. Spells that have a range of Self still target your physical form. You cannot cast spells that require material components in this way. The apparition dissipates as soon as you regain consciousness or die. Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot or higher (no action required).
 
 Source:	Zamanora: Ballad of the Witch p. 116 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Gates of the Dreamworld</name>
+        <name>Gates of the Dreamworld (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Oneiromancy (HB)</subclass>
@@ -203,27 +203,27 @@ Source:	Zamanora: Ballad of the Witch p. 116 (Homebrew)</text>
     <!-- Wizard Subclass: Soul Tethering (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Wizard Subclass: Soul Tethering (HB)</name>
+        <name>Wizard Subclass: Soul Tethering (TP)</name>
         <text>New mages uncover the secrets of the School of Soul Tethering out of their own volition. Instead, this powerful magic is usually the result of an arcane breakthrough due to a profoundly painful experience. Catalyzed by the tragic loss of a loved one, in a moment consumed by grief its practitioners turn to Necromancy, in a desperate bid to reverse the event. Though this is usually futile, in lands teeming with magic and spiritual tethers, where the ethereal realm is just beyond one's grasp, such a feat is possible. Once a spellcaster taps into these powers, they develop an innate ability to harness them.
 
 Source:	Zamanora: Ballad of the Witch p. 117 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Progeny of Woe (Soul Tethering (HB))</name>
+        <name>Progeny of Woe (Soul Tethering (TP))</name>
         <text>You add the Find Familiar spell to your spellbook if it is not there already. Unlike a normal casting of the ritual, your casting is fueled by great loss, tethering the soul of a loved one. The familiar produced in this way, takes on an animal form that best befits the character of the lost loved one, retaining their personality and alignment. Once cast at least one time, even if the familiar dies the tether is not broken, and it can be brought back simply by casting the spell again.
 	A soul tethered in this way can be targeted with Resurrection and does not require its original dead body in order to be brought back.
 
 Source:	Zamanora: Ballad of the Witch p. 118 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Animancy (Soul Tethering (HB))</name>
+        <name>Animancy (Soul Tethering (TP))</name>
         <text>You learn how to tap into the magical energies of the spiritual realm. When you cast a Wizard spell, you can temporarily replace its damage type with Necrotic. When doing so, you can additionally choose to infuse the spell with fragments of your own soul, empowering it. If you do, you take Necrotic damage equal to twice the level of the spell, which can't be reduced in any way, and the spell deals 1 additional point of damage per die rolled. If a miss or a successful saving throw would prevent a spell empowered in this way from dealing damage, it deals half damage instead.
 	You can use this feature a number of times equal to your Intelligence modifier, and you regain all expended uses when you finish a Long Rest.
 
 Source:	Zamanora: Ballad of the Witch p. 118 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Animancy</name>
+        <name>Animancy (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Soul Tethering (HB)</subclass>
@@ -231,7 +231,7 @@ Source:	Zamanora: Ballad of the Witch p. 118 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Memories of You (Soul Tethering (HB))</name>
+        <name>Memories of You (Soul Tethering (TP))</name>
         <text>Your mastery over harnessing and manipulating the soul, allows you to create a temporary echo of a lost loved one. As a Magic Action, you can summon a Spiritual Anamnesis in an unoccupied space of your choice that you can see within 30 feet of you. The creature uses the Spiritual Anamnesis stat block and uses your Proficiency Bonus (PB). It gains the calling of a Caster, Expert or Warrior depending on the lost loved one's personality and talents, gaining various abilities.
 
 	Combat. The Spiritual Anamnesis is an ally to you and your allies. In combat, it shares your Initiative count but if you have the Incapacitated condition, the spirit takes its turn immediately after yours and acts independently, focusing on protecting you. It can move and use its Reaction on its own, but the only Action it takes on its turn is the Dodge Action, unless you take a Bonus Action on your turn to command it to take another Action. That Action can be one in its stat block or some other Action. If you are Incapacitated, the spirit can take any Action of its choice, not just Dodge.
@@ -245,7 +245,7 @@ Source:	Zamanora: Ballad of the Witch p. 118 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Ties that Bind (Soul Tethering (HB))</name>
+        <name>Ties that Bind (Soul Tethering (TP))</name>
         <text>Your abilities to call forth spirits increase and bind with them is strengthened. A spirit created through your Memories of You feature now lasts indefinitely, ending only if it is reduced to 0 Hit Points, or until you die. In addition, while within 30 feet of your Spiritual Anamnesis you may choose to gain Resistance to all damage as a Reaction to an attack, spell or ability. If you do, the spirit takes the same amount of damage as you did from that instance. Finally, a summoned Spiritual Anamnesis now retains more of its memories, gaining the following abilities depending on its calling:
 
 	Caster. You can use your Reaction to transfer your Concentration over a spell to the Spiritual Anamnesis. As long as the spirit concentrates on a spell, it cannot use any other Action. By using a Bonus Action, you may reclaim Concentration over a spell from your spirit.
@@ -259,14 +259,14 @@ Source:	Zamanora: Ballad of the Witch p. 118 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Crescendo of Loss (Soul Tethering (HB))</name>
+        <name>Crescendo of Loss (Soul Tethering (TP))</name>
         <text>Your mastery over influencing the souls of the lost has reached impossible heights, allowing you to tug at the souls of loved ones and summon them to your aid. As a Magic Action, you may summon the spirits of lost allies and friends to flit around you to a distance of 30 feet for 1 minute. As creatures exert themselves in the vicinity their souls fragment, magnetized by the apparitions you have brought forth. Creatures of your choice that take an Action or Reaction inside this area must make a Wisdom saving throw against your spell save DC. On a failed save, the creature takes 5d8 Necrotic damage, while you and Undead creatures of your choice in the area regain half as many Hit Points. On a successful save, the creature takes half as much damage.
 	Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore its use of it by expending a level 5 spell slot or higher (no action required).
 
 Source:	Zamanora: Ballad of the Witch p. 119 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Crescendo of Loss</name>
+        <name>Crescendo of Loss (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Soul Tethering (HB)</subclass>

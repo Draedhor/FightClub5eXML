@@ -1,43 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Commune [2024]</name>
-    <classes>Paladin [2024] (Glory)</classes>
+    <name>Commune</name>
+    <classes>Paladin (Glory)</classes>
   </spell>
   <spell>
-    <name>Compulsion [2024]</name>
-    <classes>Paladin [2024] (Glory)</classes>
+    <name>Compulsion</name>
+    <classes>Paladin (Glory)</classes>
   </spell>
   <spell>
-    <name>Enhance Ability [2024]</name>
-    <classes>Paladin [2024] (Glory)</classes>
+    <name>Enhance Ability</name>
+    <classes>Paladin (Glory)</classes>
   </spell>
   <spell>
-    <name>Flame Strike [2024]</name>
-    <classes>Paladin [2024] (Glory)</classes>
+    <name>Flame Strike</name>
+    <classes>Paladin (Glory)</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement [2024]</name>
-    <classes>Paladin [2024] (Glory)</classes>
+    <name>Freedom of Movement</name>
+    <classes>Paladin (Glory)</classes>
   </spell>
   <spell>
-    <name>Guiding Bolt [2024]</name>
-    <classes>Paladin [2024] (Glory)</classes>
+    <name>Guiding Bolt</name>
+    <classes>Paladin (Glory)</classes>
   </spell>
   <spell>
-    <name>Haste [2024]</name>
-    <classes>Paladin [2024] (Glory)</classes>
+    <name>Haste</name>
+    <classes>Paladin (Glory)</classes>
   </spell>
   <spell>
-    <name>Heroism [2024]</name>
-    <classes>Paladin [2024] (Glory)</classes>
+    <name>Heroism</name>
+    <classes>Paladin (Glory)</classes>
   </spell>
   <spell>
-    <name>Magic Weapon [2024]</name>
-    <classes>Paladin [2024] (Glory)</classes>
+    <name>Magic Weapon</name>
+    <classes>Paladin (Glory)</classes>
   </spell>
   <spell>
-    <name>Protection from Energy [2024]</name>
-    <classes>Paladin [2024] (Glory)</classes>
+    <name>Protection from Energy</name>
+    <classes>Paladin (Glory)</classes>
   </spell>
 </compendium>

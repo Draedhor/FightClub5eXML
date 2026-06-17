@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Adventurer's Ring [2024]</name>
+    <name>Adventurer's Ring</name>
     <detail>common</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -12,7 +12,7 @@ While the cover on this ring is open, the ring produces a flame that creates no 
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 132</text>
   </item>
   <item>
-    <name>Bright Fungal Cloak [2024]</name>
+    <name>Bright Fungal Cloak</name>
     <type>G</type>
     <magic>YES</magic>
     <weight>4</weight>
@@ -25,7 +25,7 @@ While wearing a Bright Fungal Cloak, you can take a Bonus Action to furl or unfu
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 132</text>
   </item>
   <item>
-    <name>Desert Clothing [2024]</name>
+    <name>Desert Clothing</name>
     <type>G</type>
     <weight>4</weight>
     <value>10</value>
@@ -36,7 +36,7 @@ When you are wearing Desert Clothing and not wearing Medium or Heavy armor, you 
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 133</text>
   </item>
   <item>
-    <name>Devil Mask [2024]</name>
+    <name>Devil Mask</name>
     <type>G</type>
     <magic>YES</magic>
     <value>25</value>
@@ -47,7 +47,7 @@ While you are wearing a Devil Mask, other creatures have Disadvantage on Intelli
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 133</text>
   </item>
   <item>
-    <name>Garb of Light and Shadow [2024]</name>
+    <name>Garb of Light and Shadow</name>
     <type>G</type>
     <magic>YES</magic>
     <weight>6</weight>
@@ -59,7 +59,7 @@ This garb appeals to Fey from one Domain of Delight, such as the Gloaming Court 
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 133</text>
   </item>
   <item>
-    <name>Genie Robe [2024]</name>
+    <name>Genie Robe</name>
     <type>G</type>
     <magic>YES</magic>
     <weight>6</weight>
@@ -71,7 +71,7 @@ This robe appeals to Elementals associated with a particular Elemental Plane (Ai
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 133</text>
   </item>
   <item>
-    <name>Locking Spellbook [2024]</name>
+    <name>Locking Spellbook</name>
     <type>G</type>
     <magic>YES</magic>
     <weight>3</weight>
@@ -83,7 +83,7 @@ This 100-page leather-bound tome can be used as a Spellbook. It is closed with a
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 133</text>
   </item>
   <item>
-    <name>Monster Camouflage [2024]</name>
+    <name>Monster Camouflage</name>
     <type>G</type>
     <magic>YES</magic>
     <weight>6</weight>
@@ -95,7 +95,7 @@ A suit of Monster Camouflage looks like a Beast or Monstrosity, such as an owlbe
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 133</text>
   </item>
   <item>
-    <name>Prosthetic Limb [2024]</name>
+    <name>Prosthetic Limb</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -107,7 +107,7 @@ This magic item replaces a lost limb—a hand, an arm, a foot, a leg, or a simil
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 133</text>
   </item>
   <item>
-    <name>Warm Fungal Clothing [2024]</name>
+    <name>Warm Fungal Clothing</name>
     <type>G</type>
     <magic>YES</magic>
     <weight>4</weight>
@@ -120,7 +120,7 @@ When you're wearing Warm Fungal Clothing, you automatically succeed on saving th
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 133</text>
   </item>
   <item>
-    <name>Windskiff [2024]</name>
+    <name>Windskiff</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -133,7 +133,7 @@ This small piece of jewelry has 3 charges and regains all expended charges daily
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 133</text>
   </item>
   <item>
-    <name>Winter Camouflage [2024]</name>
+    <name>Winter Camouflage</name>
     <type>G</type>
     <magic>YES</magic>
     <weight>4</weight>
@@ -159,7 +159,7 @@ A Mechanical Wonder is a semi-autonomous object imbued with magical power. Mecha
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 134</text>
   </item>
   <item>
-    <name>Axe Beak [2024]</name>
+    <name>Axe Beak</name>
     <detail>livestock</detail>
     <type>G</type>
     <value>50</value>
@@ -168,7 +168,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 134</text>
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 135</text>
   </item>
   <item>
-    <name>Flying Snake [2024]</name>
+    <name>Flying Snake</name>
     <detail>livestock</detail>
     <type>G</type>
     <value>25</value>
@@ -179,7 +179,7 @@ Pet flying snakes use the Flying Snake stat block.
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 135</text>
   </item>
   <item>
-    <name>Sled Dog [2024]</name>
+    <name>Sled Dog</name>
     <detail>livestock</detail>
     <type>G</type>
     <value>50</value>
@@ -190,7 +190,7 @@ A sled dog uses the Wolf stat block (see the Monster Manual). A sled dog pulling
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 135</text>
   </item>
   <item>
-    <name>Bandore [2024]</name>
+    <name>Bandore</name>
     <detail>instrument</detail>
     <type>G</type>
     <weight>3</weight>
@@ -205,7 +205,7 @@ If you have proficiency with a tool, add your Proficiency Bonus to any ability c
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 135</text>
   </item>
   <item>
-    <name>Cittern [2024]</name>
+    <name>Cittern</name>
     <detail>instrument</detail>
     <type>G</type>
     <weight>2</weight>
@@ -220,7 +220,7 @@ If you have proficiency with a tool, add your Proficiency Bonus to any ability c
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 135</text>
   </item>
   <item>
-    <name>Yarting [2024]</name>
+    <name>Yarting</name>
     <detail>instrument</detail>
     <type>G</type>
     <weight>2</weight>
@@ -247,7 +247,7 @@ Each of Cottle's black coaches is a Carriage (see the Player's Handbook) keyed t
 Source:	Forgotten Realms: Heroes of Faerûn p. 135</text>
   </item>
   <item>
-    <name>Covered Wagon [2024]</name>
+    <name>Covered Wagon</name>
     <detail>vehicle (land)</detail>
     <type>G</type>
     <weight>1300</weight>
@@ -257,7 +257,7 @@ Source:	Forgotten Realms: Heroes of Faerûn p. 135</text>
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 135</text>
   </item>
   <item>
-    <name>Red Wizard Trinkets [2024]</name>
+    <name>Red Wizard Trinkets</name>
     <type>G</type>
     <text>Roll on the Red Wizard Trinkets table to determine what trinket you have from your time with the Red Wizards.
 
@@ -274,7 +274,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 176</text>
     <roll description="Trinket">1d6</roll>
   </item>
   <item>
-    <name>Thayan Spell Tattoo [2024]</name>
+    <name>Thayan Spell Tattoo</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>

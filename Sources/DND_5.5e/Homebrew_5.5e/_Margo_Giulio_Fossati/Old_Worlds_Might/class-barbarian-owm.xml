@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Barbarian [5.5e]</name>
+    <name>Barbarian</name>
     <!-- Barbarian Subclass: Path of the Celts (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Barbarian Subclass: Path of the Celts (HB)</name>
+        <name>Barbarian Subclass: Path of the Celts (TP)</name>
         <text>Fight according to traditions and nature
 
 "Blood and earth, iron and fire, this is the warrior's path."
@@ -19,7 +19,7 @@ The Celts were a collection of tribes which originated in central Europe. Althou
 Source:	Old World's Might - Subclasses from Old Europe p. 6 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Primal Battle Frenzy (Path of the Celts (HB))</name>
+        <name>Primal Battle Frenzy (Path of the Celts (TP))</name>
         <text>When you enter a Rage, you enhance it with ancient primal energy. While raging, you gain the following benefits:
 
 	• When you hit a creature with a melee attack, you can deal an additional 1d6 Force damage.
@@ -32,7 +32,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 6 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Mystical Ward (Path of the Celts (HB))</name>
+        <name>Mystical Ward (Path of the Celts (TP))</name>
         <text>Your connection to nature grants you protective magic. As a Reaction, when you or one of your Allies within 30 feet of you is hit by an attack, you can reduce the damage by 1d10 + your Barbarian level.
 	You can use this ability a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
@@ -42,7 +42,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 6 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Wrath of the Ancestors (Path of the Celts (HB))</name>
+        <name>Wrath of the Ancestors (Path of the Celts (TP))</name>
         <text>As a Bonus Action, you call for help from your ancestors that appear as spectral Celtic warriors around you in a 15-foot Emanation for 1 minute. The Emanation provides the following effects:
 
 	• Hostile Creatures within the Emanation have Disadvantage on attack rolls against creatures other than you.
@@ -54,7 +54,7 @@ Once you use this feature, you can't use it again until you finish a Long Rest.
 Source:	Old World's Might - Subclasses from Old Europe p. 6 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Wrath of the Ancestors</name>
+        <name>Wrath of the Ancestors (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Path of the Celts (HB)</subclass>
@@ -62,14 +62,14 @@ Source:	Old World's Might - Subclasses from Old Europe p. 6 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Oath of the Ancestors (Path of the Celts (HB))</name>
+        <name>Oath of the Ancestors (Path of the Celts (TP))</name>
         <text>Your connection to your ancestors allows you to shield your allies even further. When a creature Allied to you within 30 feet of you drops to 0 hit points but isn't outright killed, you can use your Reaction to have them drop to 1 hit point instead.
 	Once you use this feature, you can't use it again until you finish a Long Rest.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 6 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Oath of the Ancestors</name>
+        <name>Oath of the Ancestors (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Path of the Celts (HB)</subclass>
@@ -78,7 +78,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 6 (Homebrew)</text>
     <!-- Barbarian Subclass: Path of the Highlanders (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Barbarian Subclass: Path of the Highlanders (HB)</name>
+        <name>Barbarian Subclass: Path of the Highlanders (TP)</name>
         <text>Dominate the battlefield with might and inspiring the others
 
 "From the cliffs to the glens, I fight for my land and my kin!"
@@ -92,7 +92,7 @@ In Scotland, by the 13th century, a distinctive culture was indeed evolving in t
 Source:	Old World's Might - Subclasses from Old Europe p. 7 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Clanblade Tactics (Path of the Highlanders (HB))</name>
+        <name>Clanblade Tactics (Path of the Highlanders (TP))</name>
         <text>Your skill with heavy weapons is unparalleled. While raging, when you wield a melee weapon with the Heavy property, on a successful hit you deal an additional damage equal to your Proficiency Bonus.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 7 (Homebrew)</text>
@@ -100,7 +100,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 7 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Rallying Cry (Path of the Highlanders (HB))</name>
+        <name>Rallying Cry (Path of the Highlanders (TP))</name>
         <text>You can inspire your allies with your booming voice. As a Bonus Action, you can let out a cry that grants Temporary hit points equal to 1d10 + your Barbarian level to a number of creatures that can hear you equal to your proficiency bonus within 30 feet of you.
 	You can use this ability a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
@@ -108,7 +108,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 7 (Homebrew)</text>
         <roll description="Temporary Hit Points">1d10</roll>
       </feature>
       <counter>
-        <name>Rallying Cry</name>
+        <name>Rallying Cry (TP)</name>
         <value>3</value>
         <reset>L</reset>
         <subclass>Path of the Highlanders (HB)</subclass>
@@ -116,7 +116,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 7 (Homebrew)</text>
     </autolevel>
     <autolevel level="9">
       <counter>
-        <name>Rallying Cry</name>
+        <name>Rallying Cry (TP)</name>
         <value>4</value>
         <reset>L</reset>
         <subclass>Path of the Highlanders (HB)</subclass>
@@ -124,7 +124,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 7 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Fortitude of the Highlands (Path of the Highlanders (HB))</name>
+        <name>Fortitude of the Highlands (Path of the Highlanders (TP))</name>
         <text>Your body is as unyielding as the highlands you defend. While raging, you gain Resistance to Cold, Fire, and Lightning damage.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 7 (Homebrew)</text>
@@ -132,7 +132,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 7 (Homebrew)</text>
     </autolevel>
     <autolevel level="13">
       <counter>
-        <name>Rallying Cry</name>
+        <name>Rallying Cry (TP)</name>
         <value>5</value>
         <reset>L</reset>
         <subclass>Path of the Highlanders (HB)</subclass>
@@ -140,7 +140,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 7 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Unbreakable Charge (Path of the Highlanders (HB))</name>
+        <name>Unbreakable Charge (Path of the Highlanders (TP))</name>
         <text>You can charge through enemy lines with unstoppable force. As a Bonus Action, you can move up to 30 feet in a straight line without provoking Opportunity Attacks. Each creature of Large or smaller Size in your path must make a Strength saving throw (DC = 8 + your Strength modifier + your proficiency bonus).
 
 	• Failure: 4d10 Bludgeoning damage and Prone condition.
@@ -152,7 +152,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 7 (Homebrew)</text>
         <roll description="Bludgeoning Damage">4d10</roll>
       </feature>
       <counter>
-        <name>Unbreakable Charge</name>
+        <name>Unbreakable Charge (TP)</name>
         <value>1</value>
         <reset>S</reset>
         <subclass>Path of the Highlanders (HB)</subclass>
@@ -160,7 +160,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 7 (Homebrew)</text>
     </autolevel>
     <autolevel level="17">
       <counter>
-        <name>Rallying Cry</name>
+        <name>Rallying Cry (TP)</name>
         <value>6</value>
         <reset>L</reset>
         <subclass>Path of the Highlanders (HB)</subclass>

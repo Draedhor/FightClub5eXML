@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Cleric</name>
+    <name>Cleric (UA)</name>
     <!-- Cleric Subclass: Grave Domain (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -81,7 +81,7 @@ Source:	UA2024-Horror Subclasses p. 5</text>
 Source:	UA2024-Horror Subclasses p. 5</text>
       </feature>
       <counter>
-        <name>Keeper of Souls</name>
+        <name>Keeper of Souls (UA)</name>
         <value>1</value>
         <reset>S</reset>
         <subclass>Grave Domain (UA)</subclass>
@@ -89,47 +89,47 @@ Source:	UA2024-Horror Subclasses p. 5</text>
     </autolevel>
   </class>
   <spell>
-    <name>Bane [2024]</name>
+    <name>Bane (UA)</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Chill Touch [2024]</name>
+    <name>Chill Touch (UA)</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Detect Evil and Good [2024]</name>
+    <name>Detect Evil and Good (UA)</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Gentle Repose [2024]</name>
+    <name>Gentle Repose (UA)</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Ray of Enfeeblement [2024]</name>
+    <name>Ray of Enfeeblement (UA)</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Revivify [2024]</name>
+    <name>Revivify (UA)</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Vampiric Touch [2024]</name>
+    <name>Vampiric Touch (UA)</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Blight [2024]</name>
+    <name>Blight (UA)</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Dispel Evil and Good [2024]</name>
+    <name>Dispel Evil and Good (UA)</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Hold Monster [2024]</name>
+    <name>Hold Monster (UA)</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Raise Dead [2024]</name>
+    <name>Raise Dead (UA)</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
 </compendium>

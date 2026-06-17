@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Bard [5.5e]</name>
+    <name>Bard</name>
     <!-- Bard Subclass: College of Spirits -->
     <autolevel level="3">
       <feature optional="YES">
@@ -13,7 +13,7 @@ Bards of the College of Spirits conjure legendary spirits to change the world. B
 Source:	Ravenloft: The Horrors Within</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Channeler (College of Spirits)</name>
+        <name>Channeler (College of Spirits)</name>
         <text>You learn how to contact spirits beyond the grave, letting their power and knowledge flow through you. You gain the following benefits.
 
 	Guiding Whispers. You know the Guidance cantrip. It has a range of 60 feet when you cast it.
@@ -23,7 +23,7 @@ Source:	Ravenloft: The Horrors Within</text>
 Source:	Ravenloft: The Horrors Within</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Spirits from Beyond (College of Spirits)</name>
+        <name>Spirits from Beyond (College of Spirits)</name>
         <text>You can call forth spirits of the dead to empower you and your allies. When you take a Bonus Action to give a creature a Bardic Inspiration die, you can call forth the powers of a random spirit. To determine the spirit you channel, roll the Bardic Inspiration die and refer to the Spirits from Beyond table. The spirit remains channeled until you unleash it or until you finish a Short or Long Rest.
 
 	Controlled Channeling. As a Bonus Action, you can expend a use of your Bardic Inspiration and channel a specific spirit. When you do so, choose the spirit from the Spirits from Beyond table rather than rolling. The chosen spirit's corresponding number must be less than or equal to the highest number on your Bardic Inspiration die; for example, if your Bardic Inspiration die is a d8, you can choose to channel any spirit up to (and including) the Shade.
@@ -51,7 +51,7 @@ Source:	Ravenloft: The Horrors Within</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Empowered Channeling (College of Spirits)</name>
+        <name>Empowered Channeling (College of Spirits)</name>
         <text>Your ability to channel spirits improves. You gain the following benefits.
 
 	Power from Beyond. Once per turn, when you cast a Bard spell with a spell slot that deals damage or restores Hit Points, roll 1d6. You gain a bonus equal to the number rolled to one of the spell's damage rolls or to the total Hit Points the spell restores.
@@ -65,7 +65,7 @@ Source:	Ravenloft: The Horrors Within</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Mystical Connection (College of Spirits)</name>
+        <name>Mystical Connection (College of Spirits)</name>
         <text>You gain mastery over the spirits you call forth. Whenever you roll on the Spirits from Beyond table, you can roll the die twice and choose which of the two effects to bestow. If you roll the same number on both dice, you can instead choose any effect on the table.
 
 Source:	Ravenloft: The Horrors Within</text>

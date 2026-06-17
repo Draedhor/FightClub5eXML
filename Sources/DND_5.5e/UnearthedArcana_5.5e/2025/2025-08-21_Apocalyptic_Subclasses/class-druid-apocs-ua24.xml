@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Druid</name>
+    <name>Druid (UA)</name>
     <!-- Druid Subclass: Circle of Preservation (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -83,43 +83,43 @@ Source:	UA25-ApocalypticSubclasses p. 2</text>
     </autolevel>
   </class>
   <spell>
-    <name>Bless [2024]</name>
+    <name>Bless (UA)</name>
     <classes>Druid (Circle of Preservation (UA))</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration [2024]</name>
+    <name>Lesser Restoration (UA)</name>
     <classes>Druid (Circle of Preservation (UA))</classes>
   </spell>
   <spell>
-    <name>Protection from Poison [2024]</name>
+    <name>Protection from Poison (UA)</name>
     <classes>Druid (Circle of Preservation (UA))</classes>
   </spell>
   <spell>
-    <name>Sanctuary [2024]</name>
+    <name>Sanctuary (UA)</name>
     <classes>Druid (Circle of Preservation (UA))</classes>
   </spell>
   <spell>
-    <name>Beacon of Hope [2024]</name>
+    <name>Beacon of Hope (UA)</name>
     <classes>Druid (Circle of Preservation (UA))</classes>
   </spell>
   <spell>
-    <name>Plant Growth [2024]</name>
+    <name>Plant Growth (UA)</name>
     <classes>Druid (Circle of Preservation (UA))</classes>
   </spell>
   <spell>
-    <name>Aura of Life [2024]</name>
+    <name>Aura of Life (UA)</name>
     <classes>Druid (Circle of Preservation (UA))</classes>
   </spell>
   <spell>
-    <name>Death Ward [2024]</name>
+    <name>Death Ward (UA)</name>
     <classes>Druid (Circle of Preservation (UA))</classes>
   </spell>
   <spell>
-    <name>Greater Restoration [2024]</name>
+    <name>Greater Restoration (UA)</name>
     <classes>Druid (Circle of Preservation (UA))</classes>
   </spell>
   <spell>
-    <name>Hallow [2024]</name>
+    <name>Hallow (UA)</name>
     <classes>Druid (Circle of Preservation (UA))</classes>
   </spell>
 </compendium>

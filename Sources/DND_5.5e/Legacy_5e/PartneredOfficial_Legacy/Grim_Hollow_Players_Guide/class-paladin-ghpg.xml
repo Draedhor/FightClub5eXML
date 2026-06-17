@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Paladin [2024]</name>
+    <name>Paladin</name>
     <!-- Sacred Oath: Oath of Pestilence (Grim Hollow) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -162,97 +162,97 @@ Source:	Grim Hollow: Player's Guide p. 58 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Bane [2024]</name>
+    <name>Bane</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
     <text/>
   </spell>
   <spell>
-    <name>Inflict Wounds [2024]</name>
+    <name>Inflict Wounds</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
     <text/>
   </spell>
   <spell>
-    <name>Acid Arrow [2024]</name>
+    <name>Acid Arrow</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
     <text/>
   </spell>
   <spell>
-    <name>Ray of Enfeeblement [2024]</name>
+    <name>Ray of Enfeeblement</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
     <text/>
   </spell>
   <spell>
-    <name>Flash Fever [2024]</name>
+    <name>Flash Fever</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
     <text/>
   </spell>
   <spell>
-    <name>Stinking Cloud [2024]</name>
+    <name>Stinking Cloud</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
     <text/>
   </spell>
   <spell>
-    <name>Blight [2024]</name>
+    <name>Blight</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
     <text/>
   </spell>
   <spell>
-    <name>Confusion [2024]</name>
+    <name>Confusion</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
     <text/>
   </spell>
   <spell>
-    <name>Contagion [2024]</name>
+    <name>Contagion</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
     <text/>
   </spell>
   <spell>
-    <name>Insect Plague [2024]</name>
+    <name>Insect Plague</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow)), Paladin (Oath of Zeal)</classes>
     <text/>
   </spell>
   <spell>
-    <name>Detect Evil and Good [2024]</name>
+    <name>Detect Evil and Good</name>
     <classes>Paladin (Oath of Zeal)</classes>
     <text/>
   </spell>
   <spell>
-    <name>Hunter's Mark [2024]</name>
+    <name>Hunter's Mark</name>
     <classes>Paladin (Oath of Zeal)</classes>
     <text/>
   </spell>
   <spell>
-    <name>Detect Thoughts [2024]</name>
+    <name>Detect Thoughts</name>
     <classes>Paladin (Oath of Zeal)</classes>
     <text/>
   </spell>
   <spell>
-    <name>Knock [2024]</name>
+    <name>Knock</name>
     <classes>Paladin (Oath of Zeal)</classes>
     <text/>
   </spell>
   <spell>
-    <name>Fear [2024]</name>
+    <name>Fear</name>
     <classes>Paladin (Oath of Zeal)</classes>
     <text/>
   </spell>
   <spell>
-    <name>Tongues [2024]</name>
+    <name>Tongues</name>
     <classes>Paladin (Oath of Zeal)</classes>
     <text/>
   </spell>
   <spell>
-    <name>Divination [2024]</name>
+    <name>Divination</name>
     <classes>Paladin (Oath of Zeal)</classes>
     <text/>
   </spell>
   <spell>
-    <name>Locate Creature [2024]</name>
+    <name>Locate Creature</name>
     <classes>Paladin (Oath of Zeal)</classes>
     <text/>
   </spell>
   <spell>
-    <name>Scrying [2024]</name>
+    <name>Scrying</name>
     <classes>Paladin (Oath of Zeal)</classes>
     <text/>
   </spell>

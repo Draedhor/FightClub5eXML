@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Cut Throat Razor (HB) [5.5e]</name>
+    <name>Cut Throat Razor (TP)</name>
     <detail>dagger, common</detail>
     <type>M</type>
     <weight>1</weight>
@@ -21,7 +21,7 @@ Proficiency: simple, cut throat razor
 Source:	The Barber by Sewage Orc</text>
   </item>
   <item>
-    <name>Barbers Kit (HB) [5.5e]</name>
+    <name>Barbers Kit (TP)</name>
     <detail>tools</detail>
     <type>G</type>
     <weight>3</weight>

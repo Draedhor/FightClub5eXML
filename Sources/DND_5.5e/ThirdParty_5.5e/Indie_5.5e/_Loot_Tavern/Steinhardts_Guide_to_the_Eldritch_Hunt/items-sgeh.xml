@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Torture Tools</name>
+    <name>Torture Tools (TP)</name>
     <detail>tool, common</detail>
     <type>G</type>
     <weight>10</weight>
@@ -15,7 +15,7 @@ Intimidation: When you make an Intimidation check against a creature whom you us
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 156 (Homebrew)</text>
   </item>
   <item>
-    <name>Bag of Cannonballs</name>
+    <name>Bag of Cannonballs (TP)</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -24,7 +24,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 156 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 205 (Homebrew)</text>
   </item>
   <item>
-    <name>Damascena</name>
+    <name>Damascena (TP)</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -39,7 +39,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 205 (Homebrew)</text>
     <roll description="Fire Damage">4d4+6d4</roll>
   </item>
   <item>
-    <name>Fungic Tea</name>
+    <name>Fungic Tea (TP)</name>
     <detail>varies</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -57,7 +57,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 206 (Homebrew)</text>
     <roll description="Cups">2d4</roll>
   </item>
   <item>
-    <name>Fungic Tea, White</name>
+    <name>Fungic Tea, White (TP)</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -69,7 +69,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 206 (Homebrew)</text>
     <roll description="Cups">2d4</roll>
   </item>
   <item>
-    <name>Fungic Tea, Yellow</name>
+    <name>Fungic Tea, Yellow (TP)</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -81,7 +81,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 206 (Homebrew)</text>
     <roll description="Cups">2d4</roll>
   </item>
   <item>
-    <name>Fungic Tea, Blue</name>
+    <name>Fungic Tea, Blue (TP)</name>
     <detail>very rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -93,7 +93,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 206 (Homebrew)</text>
     <roll description="Cups">2d4</roll>
   </item>
   <item>
-    <name>Fungic Tea, Black</name>
+    <name>Fungic Tea, Black (TP)</name>
     <detail>legendary</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -105,7 +105,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 206 (Homebrew)</text>
     <roll description="Cups">2d4</roll>
   </item>
   <item>
-    <name>Hand of Glory</name>
+    <name>Hand of Glory (TP)</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -116,7 +116,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 206 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 206 (Homebrew)</text>
   </item>
   <item>
-    <name>Holy Tonic</name>
+    <name>Holy Tonic (TP)</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -148,7 +148,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 206 (Homebrew)</text>
     <roll description="Hours">1d4</roll>
   </item>
   <item>
-    <name>Sanctified Cannon</name>
+    <name>Sanctified Cannon (TP)</name>
     <detail>firearm, common</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -174,7 +174,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 211 (Homebrew)</text>
     <roll description="Bludgeoning Damage">3d12</roll>
   </item>
   <item>
-    <name>Big Bertha</name>
+    <name>Big Bertha (TP)</name>
     <detail>firearm, cannon, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -211,7 +211,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 212 (Homebrew)</text>
     <roll description="Cold Damage">1d8</roll>
   </item>
   <item>
-    <name>Guillotine Shears</name>
+    <name>Guillotine Shears (TP)</name>
     <detail>trick weapon (longsword &amp; shortshort, shears), uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -239,7 +239,7 @@ Proficiency: martial, shears
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 215 (Homebrew)</text>
   </item>
   <item>
-    <name>Meat Hookshot</name>
+    <name>Meat Hookshot (TP)</name>
     <detail>trick weapon (blunderbuss, sickle), uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -264,7 +264,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 216 (Homebrew)</text>
     <roll description="Slashing Damage">1d4+%2</roll>
   </item>
   <item>
-    <name>Sanctified Partisan</name>
+    <name>Sanctified Partisan (TP)</name>
     <detail>trick weapon (spear, shield), uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -289,7 +289,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 217 (Homebrew)</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Stick</name>
+    <name>Stick (TP)</name>
     <detail>trick weapon (sticks), common</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -310,7 +310,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 218 (Homebrew)</text>
     <roll description="Bludgeoning Damage">1+%1</roll>
   </item>
   <item>
-    <name>Rifling Cleaver</name>
+    <name>Rifling Cleaver (TP)</name>
     <detail>trick weapon (cleaver, rifle), uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -329,7 +329,7 @@ Proficiency: martial, cleaver, rifle
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 219 (Homebrew)</text>
   </item>
   <item>
-    <name>Abyss Warden's Axeblade</name>
+    <name>Abyss Warden's Axeblade (TP)</name>
     <detail>trick weapon (longsword, battleaxe), rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -351,7 +351,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 219 (Homebrew)</text>
     <roll description="Radiant Damage">2d6</roll>
   </item>
   <item>
-    <name>Cordyceps Sinensis (Transformed)</name>
+    <name>Cordyceps Sinensis (Transformed) (TP)</name>
     <detail>trick weapon, cursed, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -378,7 +378,7 @@ Versatile: This weapon can be used with one or two hands. A damage value in pare
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 220 (Homebrew)</text>
   </item>
   <item>
-    <name>Cordyceps Sinensis (Untransformed)</name>
+    <name>Cordyceps Sinensis (Untransformed) (TP)</name>
     <detail>trick weapon, cursed, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -403,7 +403,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 220 (Homebrew)</text>
     <modifier category="bonus">speed +10</modifier>
   </item>
   <item>
-    <name>Dream Executioner (Transformed)</name>
+    <name>Dream Executioner (Transformed) (TP)</name>
     <detail>trick weapon (scythe, maul), rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -433,7 +433,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 221 (Homebrew)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Dream Executioner (Untransformed)</name>
+    <name>Dream Executioner (Untransformed) (TP)</name>
     <detail>trick weapon (scythe, maul), rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -465,7 +465,7 @@ Proficiency: martial, scythe
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 221 (Homebrew)</text>
   </item>
   <item>
-    <name>Electric Sawblade (Untransformed)</name>
+    <name>Electric Sawblade (Untransformed) (TP)</name>
     <detail>trick weapon (longsword), rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -491,7 +491,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 222 (Homebrew)</text>
     <roll description="Lightning Damage">1d6</roll>
   </item>
   <item>
-    <name>Electric Sawblade (Transformed)</name>
+    <name>Electric Sawblade (Transformed) (TP)</name>
     <detail>trick weapon (longsword), rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -520,7 +520,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 222 (Homebrew)</text>
     <roll description="Lightning Damage">1d6</roll>
   </item>
   <item>
-    <name>Gravitational Partisan</name>
+    <name>Gravitational Partisan (TP)</name>
     <detail>trick weapon (shield &amp; spear), rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -545,7 +545,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 223 (Homebrew)</text>
     <roll description="Slashing Damage">2d4</roll>
   </item>
   <item>
-    <name>Improved Meat Hookshot</name>
+    <name>Improved Meat Hookshot (TP)</name>
     <detail>trick weapon (blunderbuss, sickle), rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -574,7 +574,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 224 (Homebrew)</text>
     <roll description="Slashing Damage">1d4+%2</roll>
   </item>
   <item>
-    <name>Rifling Cleaver</name>
+    <name>Rifling Cleaver (TP)</name>
     <detail>trick weapon (cleaver, rifle), rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -608,7 +608,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 225 (Homebrew)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Moongilded Tarblood</name>
+    <name>Moongilded Tarblood (TP)</name>
     <detail>trick weapon (longbow, longsword), rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -641,7 +641,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 226 (Homebrew)</text>
     <roll description="Bonus Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Equalizer</name>
+    <name>Moongold Equalizer (TP)</name>
     <detail>trick weapon (flintlock, rifle), rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -677,7 +677,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 227 (Homebrew)</text>
     <roll description="Piercing Damage">2d8</roll>
   </item>
   <item>
-    <name>Phantom Limb (Untransformed)</name>
+    <name>Phantom Limb (Untransformed) (TP)</name>
     <detail>trick weapon (unarmed, shortsword), rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -703,7 +703,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 228 (Homebrew)</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Phantom Limb (Transformed)</name>
+    <name>Phantom Limb (Transformed) (TP)</name>
     <detail>trick weapon (unarmed, shortsword), rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -732,7 +732,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 228 (Homebrew)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Ravenous Gazer</name>
+    <name>Ravenous Gazer (TP)</name>
     <detail>trick weapon (glaive), rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -755,7 +755,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 229 (Homebrew)</text>
     <roll description="Necrotic Damage">1d4</roll>
   </item>
   <item>
-    <name>Serpent Bladewhip (Untransformed)</name>
+    <name>Serpent Bladewhip (Untransformed) (TP)</name>
     <detail>trick weapon (whip, rapier), rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -787,7 +787,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 231 (Homebrew)</text>
     <roll description="Fire Damage">1d6</roll>
   </item>
   <item>
-    <name>Serpent Bladewhip (Transformed)</name>
+    <name>Serpent Bladewhip (Transformed) (TP)</name>
     <detail>trick weapon (whip, rapier), rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -819,7 +819,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 231 (Homebrew)</text>
     <roll description="Fire Damage">1d6</roll>
   </item>
   <item>
-    <name>Uncharged Claw</name>
+    <name>Uncharged Claw (TP)</name>
     <detail>trick weapon, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -845,7 +845,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 232 (Homebrew)</text>
     <roll description="Lightning Damage">1d8</roll>
   </item>
   <item>
-    <name>Unstable Crumbler</name>
+    <name>Unstable Crumbler (TP)</name>
     <detail>trick weapon (cannon, maul), rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -874,7 +874,7 @@ Two-Handed: This weapon requires two hands to use. This property is relevant onl
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 233 (Homebrew)</text>
   </item>
   <item>
-    <name>Awakened Abyss Warden's Axeblade</name>
+    <name>Awakened Abyss Warden's Axeblade (TP)</name>
     <detail>trick weapon (longsword, battleaxe), very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -900,7 +900,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 234 (Homebrew)</text>
     <roll description="Radiant Damage">1d6+%1</roll>
   </item>
   <item>
-    <name>Calamitous Crumbler</name>
+    <name>Calamitous Crumbler (TP)</name>
     <detail>trick weapon (cannon, maul), very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -929,7 +929,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 234 (Homebrew)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Caldera</name>
+    <name>Caldera (TP)</name>
     <detail>trick weapon (batleaxe, pistol), very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -964,7 +964,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 235 (Homebrew)</text>
     <roll description="Piercing Damage">1d6</roll>
   </item>
   <item>
-    <name>Épée Sanguine</name>
+    <name>Épée Sanguine (TP)</name>
     <detail>trick weapon (longsword, greatsword), very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1006,7 +1006,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 237 (Homebrew)</text>
     <roll description="Necrotic Damage">2d6</roll>
   </item>
   <item>
-    <name>Épée Solaire</name>
+    <name>Épée Solaire (TP)</name>
     <detail>trick weapon (greatsword, shortsword), very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1048,7 +1048,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 238 (Homebrew)</text>
     <roll description="Radiant Damage">2d8</roll>
   </item>
   <item>
-    <name>Ethereal Moongold Equalizer</name>
+    <name>Ethereal Moongold Equalizer (TP)</name>
     <detail>trick weapon (flintlock, rifle), very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1088,7 +1088,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 239 (Homebrew)</text>
     <roll description="Radiant Damage">1d8</roll>
   </item>
   <item>
-    <name>Faux Lunaire</name>
+    <name>Faux Lunaire (TP)</name>
     <detail>trick weapon (scythe, longbow), very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1120,7 +1120,7 @@ Proficiency: martial, scythe, longbow
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 240 (Homebrew)</text>
   </item>
   <item>
-    <name>Galvanized Claw</name>
+    <name>Galvanized Claw (TP)</name>
     <detail>trick weapon, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1145,7 +1145,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 241 (Homebrew)</text>
     <roll description="Lightning Damage">1d8</roll>
   </item>
   <item>
-    <name>Improved Guillotine Shears</name>
+    <name>Improved Guillotine Shears (TP)</name>
     <detail>trick weapon (longsword &amp; shortshort, shears), very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1177,7 +1177,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 242 (Homebrew)</text>
     <roll description="Slashing Damage">3d12</roll>
   </item>
   <item>
-    <name>Improved Phantom Limb (Untransformed)</name>
+    <name>Improved Phantom Limb (Untransformed) (TP)</name>
     <detail>trick weapon (unarmed, shortsword), very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1201,7 +1201,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 243 (Homebrew)</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Improved Phantom Limb (Transformed)</name>
+    <name>Improved Phantom Limb (Transformed) (TP)</name>
     <detail>trick weapon (unarmed, shortsword), very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1228,7 +1228,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 243 (Homebrew)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Improved Ravenous Gazer</name>
+    <name>Improved Ravenous Gazer (TP)</name>
     <detail>trick weapon (glaive), very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1255,7 +1255,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 244 (Homebrew)</text>
     <roll description="Necrotic Damage">1d4</roll>
   </item>
   <item>
-    <name>Maiden's Osteosymbiosis</name>
+    <name>Maiden's Osteosymbiosis (TP)</name>
     <detail>trick weapon (special), very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1296,7 +1296,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 245 (Homebrew)</text>
     <roll description="Piercing Damage">4d4</roll>
   </item>
   <item>
-    <name>Orphan's Cradle</name>
+    <name>Orphan's Cradle (TP)</name>
     <detail>trick weapon (morning star), very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1331,7 +1331,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 246 (Homebrew)</text>
     <roll description="Rounds">1d4-1</roll>
   </item>
   <item>
-    <name>Phantasmal Executioner (Transformed)</name>
+    <name>Phantasmal Executioner (Transformed) (TP)</name>
     <detail>trick weapon (scythe, maul), rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1369,7 +1369,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 247 (Homebrew)</text>
     <roll description="Necrotic Damage">3d8</roll>
   </item>
   <item>
-    <name>Phantasmal Executioner (Untransformed)</name>
+    <name>Phantasmal Executioner (Untransformed) (TP)</name>
     <detail>trick weapon (scythe, maul), rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1405,7 +1405,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 247 (Homebrew)</text>
     <roll description="Necrotic Damage">2d8</roll>
   </item>
   <item>
-    <name>Revelations</name>
+    <name>Revelations (TP)</name>
     <detail>trick weapon (cleaver, whip), very rare (requires attunement by a creature with a strength of 15 or higher)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1445,7 +1445,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 248 (Homebrew)</text>
     <roll>1d8</roll>
   </item>
   <item>
-    <name>Prophecy</name>
+    <name>Prophecy (TP)</name>
     <detail>trick weapon (cleaver, whip), artifact (requires attunement by a creature with a strength of 15 or higher)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1484,7 +1484,7 @@ Proficiency: martial, cleaver, whip
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 249 (Homebrew)</text>
   </item>
   <item>
-    <name>Python Bladewhip</name>
+    <name>Python Bladewhip (TP)</name>
     <detail>trick weapon (whip, rapier), very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1513,7 +1513,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 250 (Homebrew)</text>
     <roll description="Fire Damage">3d6</roll>
   </item>
   <item>
-    <name>Shard of Moonlight</name>
+    <name>Shard of Moonlight (TP)</name>
     <detail>trick weapon (longsword, greatsword), artifact (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1563,7 +1563,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 252 (Homebrew)</text>
     <roll description="Radiant Damage">3d12</roll>
   </item>
   <item>
-    <name>Sword of the Radiant Watcher</name>
+    <name>Sword of the Radiant Watcher (TP)</name>
     <detail>trick weapon (longsword), artifact (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1604,7 +1604,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 254 (Homebrew)</text>
     <roll description="Necrotic Damage">3d6</roll>
   </item>
   <item>
-    <name>Thirsting Epée Sanguine</name>
+    <name>Thirsting Epée Sanguine (TP)</name>
     <detail>trick weapon (longsword, greatsword), artifact (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1663,7 +1663,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 255 (Homebrew)</text>
     <roll description="Necrotic Damage">4d10</roll>
   </item>
   <item>
-    <name>Unbound Épée Solaire</name>
+    <name>Unbound Épée Solaire (TP)</name>
     <detail>trick weapon (greatsword, shortsword), artifact (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1710,7 +1710,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 256 (Homebrew)</text>
     <roll description="Radiant Damage">3d10</roll>
   </item>
   <item>
-    <name>Eldritch Carvings</name>
+    <name>Eldritch Carvings (TP)</name>
     <detail>eldritch carving, varies</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1756,7 +1756,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 257 (Homebrew)</text>
     <roll description="Force Damage">25d10</roll>
   </item>
   <item>
-    <name>Curse of the Moon-Blood (Drawn)</name>
+    <name>Curse of the Moon-Blood (Drawn) (TP)</name>
     <detail>eldritch carving, rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1775,7 +1775,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 257 (Homebrew)</text>
     <roll description="Magical Piercing Damage">1d8</roll>
   </item>
   <item>
-    <name>Curse of the Moon-Blood (Tattooed)</name>
+    <name>Curse of the Moon-Blood (Tattooed) (TP)</name>
     <detail>eldritch carving, very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1796,7 +1796,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 257 (Homebrew)</text>
     <roll description="Magical Piercing Damage">1d8</roll>
   </item>
   <item>
-    <name>Curse of the Moon-Blood (Scarified)</name>
+    <name>Curse of the Moon-Blood (Scarified) (TP)</name>
     <detail>eldritch carving, legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1821,7 +1821,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 257 (Homebrew)</text>
     <roll description="Magical Piercing Damage">3d8</roll>
   </item>
   <item>
-    <name>Leaded Blood (Drawn)</name>
+    <name>Leaded Blood (Drawn) (TP)</name>
     <detail>eldritch carving, uncommon (requires special attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1832,7 +1832,7 @@ You can convert your blood into bullets. As a bonus action, you can sacrifice 3 
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 260 (Homebrew)</text>
   </item>
   <item>
-    <name>Leaded Blood (Tattooed)</name>
+    <name>Leaded Blood (Tattooed) (TP)</name>
     <detail>eldritch carving, rare (requires special attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1843,7 +1843,7 @@ You can convert your blood into bullets. As a bonus action, you can sacrifice 3 
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 260 (Homebrew)</text>
   </item>
   <item>
-    <name>Leaded Blood (Scarified)</name>
+    <name>Leaded Blood (Scarified) (TP)</name>
     <detail>eldritch carving, very rare (requires special attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1854,7 +1854,7 @@ You can convert your blood into bullets. As a bonus action, you can sacrifice 3 
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 260 (Homebrew)</text>
   </item>
   <item>
-    <name>Sacrificial Brand (Drawn)</name>
+    <name>Sacrificial Brand (Drawn) (TP)</name>
     <detail>eldritch carving, common (requires special attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1865,7 +1865,7 @@ During the three days of the Blood Moon, all evil-aligned creatures within Luyar
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 260 (Homebrew)</text>
   </item>
   <item>
-    <name>Sacrificial Brand (Tattooed)</name>
+    <name>Sacrificial Brand (Tattooed) (TP)</name>
     <detail>eldritch carving, uncommon (requires special attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1876,7 +1876,7 @@ During the three days of the Blood Moon, all evil-aligned creatures within Luyar
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 260 (Homebrew)</text>
   </item>
   <item>
-    <name>Sacrificial Brand (Scarified)</name>
+    <name>Sacrificial Brand (Scarified) (TP)</name>
     <detail>eldritch carving, rare (requires special attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1889,7 +1889,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 260 (Homebrew)</text>
     <roll description="Attack &amp; Damage Bonus">1d4</roll>
   </item>
   <item>
-    <name>Lightning Scion (Drawn)</name>
+    <name>Lightning Scion (Drawn) (TP)</name>
     <detail>eldritch carving, uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1910,7 +1910,7 @@ The distance you can teleport with this carving increases to 60 feet and the lig
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 262 (Homebrew)</text>
   </item>
   <item>
-    <name>Lightning Scion (Tattooed)</name>
+    <name>Lightning Scion (Tattooed) (TP)</name>
     <detail>eldritch carving, uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1923,7 +1923,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 262 (Homebrew)</text>
     <roll description="Lightning Damage">1d12</roll>
   </item>
   <item>
-    <name>Lightning Scion (Scarified)</name>
+    <name>Lightning Scion (Scarified) (TP)</name>
     <detail>eldritch carving, uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1938,7 +1938,7 @@ You can use the rampaging electricity that courses through you to cast the creat
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 262 (Homebrew)</text>
   </item>
   <item>
-    <name>Nawre's Blessing (Drawn)</name>
+    <name>Nawre's Blessing (Drawn) (TP)</name>
     <detail>eldritch carving, rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1953,7 +1953,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 263 (Homebrew)</text>
     <roll description="Skill Bonus">1d4</roll>
   </item>
   <item>
-    <name>Nawre's Blessing (Tattooed)</name>
+    <name>Nawre's Blessing (Tattooed) (TP)</name>
     <detail>eldritch carving, very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1970,7 +1970,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 263 (Homebrew)</text>
     <roll description="Madness Save Bonus">1d8</roll>
   </item>
   <item>
-    <name>Nawre's Blessing (Scarified)</name>
+    <name>Nawre's Blessing (Scarified) (TP)</name>
     <detail>eldritch carving, legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1989,7 +1989,7 @@ If you die and haven't taken fire or radiant damage within the last minute, you 
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 263 (Homebrew)</text>
   </item>
   <item>
-    <name>Mephitic Seal (Drawn)</name>
+    <name>Mephitic Seal (Drawn) (TP)</name>
     <detail>eldritch carving, rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2015,7 +2015,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 264 (Homebrew)</text>
     <roll description="Virulent">1d12</roll>
   </item>
   <item>
-    <name>Mephitic Seal (Tattoed)</name>
+    <name>Mephitic Seal (Tattoed) (TP)</name>
     <detail>eldritch carving, very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2046,7 +2046,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 264 (Homebrew)</text>
     <roll description="Acid Damage">1d4</roll>
   </item>
   <item>
-    <name>Mephitic Seal (Scarified)</name>
+    <name>Mephitic Seal (Scarified) (TP)</name>
     <detail>eldritch carving, legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2081,7 +2081,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 264 (Homebrew)</text>
     <roll description="Acid Damage">1d4</roll>
   </item>
   <item>
-    <name>Third Carving (Drawn)</name>
+    <name>Third Carving (Drawn) (TP)</name>
     <detail>eldritch carving, rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2104,7 +2104,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 265 (Homebrew)</text>
     <roll description="Fire and Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Third Carving (Tattoed)</name>
+    <name>Third Carving (Tattoed) (TP)</name>
     <detail>eldritch carving, very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2129,7 +2129,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 265 (Homebrew)</text>
     <roll description="Fire and Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Third Carving (Scarified)</name>
+    <name>Third Carving (Scarified) (TP)</name>
     <detail>eldritch carving, legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2154,7 +2154,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 265 (Homebrew)</text>
     <roll description="Fire and Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Second Carving (Drawn)</name>
+    <name>Second Carving (Drawn) (TP)</name>
     <detail>eldritch carving, rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2175,7 +2175,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 266 (Homebrew)</text>
     <roll description="Necrotic Damage">1d4</roll>
   </item>
   <item>
-    <name>Second Carving (Tattoed)</name>
+    <name>Second Carving (Tattoed) (TP)</name>
     <detail>eldritch carving, very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2199,7 +2199,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 266 (Homebrew)</text>
     <roll description="Necrotic Damage">1d4</roll>
   </item>
   <item>
-    <name>Second Carving (Scarified)</name>
+    <name>Second Carving (Scarified) (TP)</name>
     <detail>eldritch carving, legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2236,7 +2236,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 266 (Homebrew)</text>
     <roll description="Extra Damage">2d4</roll>
   </item>
   <item>
-    <name>First Carving (Drawn)</name>
+    <name>First Carving (Drawn) (TP)</name>
     <detail>eldritch carving, rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2252,7 +2252,7 @@ Wings of Salvation: In addition, when a willing creature you can see within 60 f
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 267 (Homebrew)</text>
   </item>
   <item>
-    <name>First Carving (Tattooed)</name>
+    <name>First Carving (Tattooed) (TP)</name>
     <detail>eldritch carving, very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2268,7 +2268,7 @@ Wings of Salvation: In addition, when a willing creature you can see within 60 f
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 267 (Homebrew)</text>
   </item>
   <item>
-    <name>First Carving (Tattooed)</name>
+    <name>First Carving (Tattooed) (TP)</name>
     <detail>eldritch carving, very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2286,7 +2286,7 @@ Devour Sin: Upon death, your body is immediately struck by the true resurrection
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 267 (Homebrew)</text>
   </item>
   <item>
-    <name>Steinhardt's Madness System</name>
+    <name>Steinhardt's Madness System (TP)</name>
     <type>W</type>
     <magic>YES</magic>
     <text>Steinhardt's Guide to the Eldritch Hunt contains numerous aberrations that can assail creature's minds. The following rules and effect detail the myriad ways that characters' minds can be debased, debauched, or otherwise defiled.
@@ -2386,7 +2386,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 269 (Homebrew)</text>
     <roll description="Days">1d4x7</roll>
   </item>
   <item>
-    <name>Short-Term Madness</name>
+    <name>Short-Term Madness (TP)</name>
     <detail>table</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2465,7 +2465,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 271 (Homebrew)</text>
     <roll description="Short-Term Madness">1d10</roll>
   </item>
   <item>
-    <name>Long-Term Madness</name>
+    <name>Long-Term Madness (TP)</name>
     <detail>table</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2545,7 +2545,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 274 (Homebrew)</text>
     <roll description="Penalty">1d4</roll>
   </item>
   <item>
-    <name>Indefinite-Term Madness</name>
+    <name>Indefinite-Term Madness (TP)</name>
     <detail>table</detail>
     <type>W</type>
     <magic>YES</magic>

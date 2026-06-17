@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Cleric [5.5e]</name>
+    <name>Cleric</name>
     <!-- Cleric Subclass: Black Death Domain (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Cleric Subclass: Black Death Domain (HB)</name>
+        <name>Cleric Subclass: Black Death Domain (TP)</name>
         <text>Spread and retain disease at your will
 
 "To cure or to cull, to heal or to harm—faith and pestilence are two hands of the same god."
@@ -19,20 +19,20 @@ The Black Death was a devastating global epidemic of bubonic plague that struck 
 Source:	Old World's Might - Subclasses from Old Europe p. 22 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Toxic Cloud (Black Death Domain (HB))</name>
+        <name>Toxic Cloud (Black Death Domain (TP))</name>
         <text>When you deal Poison damage to a creature, you can reduce its Speed by 10 feet until the end of its next turn.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 22 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Miasma of Decay (Black Death Domain (HB))</name>
+        <name>Miasma of Decay (Black Death Domain (TP))</name>
         <text>As a Magic Action, you present your Holy Symbol and expend one use of your Channel Divinity to create a 15-foot radius Sphere of toxic gas centered at a point that you can see within 60 feet of you. Creatures of your choice in the area must make a Constitution saving throw against your spell save DC. Failure: 3d6 Poison damage and the Poisoned condition until the end of your next turn. Success: Half damage.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 22 (Homebrew)</text>
         <roll description="Poison Damage">3d6</roll>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Black Death Spells (Black Death Domain (HB))</name>
+        <name>Black Death Spells (Black Death Domain (TP))</name>
         <text>Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the table below, you thereafter always have the listed spells prepared.
 
 Black Death Spells:
@@ -47,7 +47,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 22 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Epidemic Aura (Black Death Domain (HB))</name>
+        <name>Epidemic Aura (Black Death Domain (TP))</name>
         <text>When a creature Hostile within 60 feet of you starts its turn and has the Poisoned condition, it takes 2d6 Poison damage.
 	Additionally, you are Immune to Poison damage and to the Poisoned condition.
 
@@ -57,14 +57,14 @@ Source:	Old World's Might - Subclasses from Old Europe p. 22 (Homebrew)</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Master of Plagues (Black Death Domain (HB))</name>
+        <name>Master of Plagues (Black Death Domain (TP))</name>
         <text>Your spells and abilities ignore Resistance and Immunity to Poison damage and Poisoned condition.
 	Additionally, when you cause Poison damage, you can deal a double amount of that damage. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 22 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Master of Plagues</name>
+        <name>Master of Plagues (TP)</name>
         <value>6</value>
         <reset>L</reset>
         <subclass>Black Death Domain (HB)</subclass>
@@ -73,7 +73,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 22 (Homebrew)</text>
     <!-- Cleric Subclass: Cathedral Domain (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Cleric Subclass: Cathedral Domain (HB)</name>
+        <name>Cleric Subclass: Cathedral Domain (TP)</name>
         <text>Draw power through majestic city cathedrals
 
 "Stone endures longer than empires—let faith rise as high as the spires above."
@@ -87,13 +87,13 @@ The building of monumental cathedrals in the middle ages was a reflection of fai
 Source:	Old World's Might - Subclasses from Old Europe p. 23 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Divine Awe (Cathedral Domain (HB))</name>
+        <name>Divine Awe (Cathedral Domain (TP))</name>
         <text>Hostile creatures within 10 feet of you have Disadvantage on saving throws against the Frightened condition and your Allies have Advantage on saving throws against the Frightened condition.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 23 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Holy Aura (Cathedral Domain (HB))</name>
+        <name>Holy Aura (Cathedral Domain (TP))</name>
         <text>As a Magic Action, you present your Holy Symbol and expend one use of your Channel Divinity to emit a divine aura that reaches up to six creatures of your choice within 30 feet of you. For 1 minute, target creatures gain Temporary Hit Points equal to 1d8 + your Cleric level at the start of each of their next turns and deal an extra 1d6 radiant damage on their attacks.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 23 (Homebrew)</text>
@@ -101,7 +101,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 23 (Homebrew)</text>
         <roll description="Radiant Damage">1d6</roll>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Cathedral Domain Spells (Cathedral Domain (HB))</name>
+        <name>Cathedral Domain Spells (Cathedral Domain (TP))</name>
         <text>Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the table below, you thereafter always have the listed spells prepared.
 
 Cathedral Domain Spells:
@@ -116,14 +116,14 @@ Source:	Old World's Might - Subclasses from Old Europe p. 23 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Pillar of Light (Cathedral Domain (HB))</name>
+        <name>Pillar of Light (Cathedral Domain (TP))</name>
         <text>When you cast a spell that deals Radiant damage, you can force one creature affected by the spell to make a Wisdom saving throw against your spell save DC. Failure: Blinded condition until the end of your next turn.
 	You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 23 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Pillar of Light</name>
+        <name>Pillar of Light (TP)</name>
         <value>3</value>
         <reset>L</reset>
         <subclass>Cathedral Domain (HB)</subclass>
@@ -131,7 +131,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 23 (Homebrew)</text>
     </autolevel>
     <autolevel level="9">
       <counter>
-        <name>Pillar of Light</name>
+        <name>Pillar of Light (TP)</name>
         <value>4</value>
         <reset>L</reset>
         <subclass>Cathedral Domain (HB)</subclass>
@@ -139,7 +139,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 23 (Homebrew)</text>
     </autolevel>
     <autolevel level="13">
       <counter>
-        <name>Pillar of Light</name>
+        <name>Pillar of Light (TP)</name>
         <value>5</value>
         <reset>L</reset>
         <subclass>Cathedral Domain (HB)</subclass>
@@ -147,7 +147,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 23 (Homebrew)</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Divine Ground (Cathedral Domain (HB))</name>
+        <name>Divine Ground (Cathedral Domain (TP))</name>
         <text>As a Magic Action, you evoke a 30-foot radius, 60-foot-high Cylinder of divine light centered on a point that you can see within 60 feet of you. The Cylinder lasts for 1 minute. Each creature that starts its turn in the Cylinder gains 3d6 hit points up to its maximum or takes 3d6 Radiant damage (your choice). On each of your subsequent turns, you can use your Bonus Action to move the Cylinder up to 30 feet in any direction.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 23 (Homebrew)</text>
@@ -155,7 +155,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 23 (Homebrew)</text>
         <roll description="Radiant Damage">3d6</roll>
       </feature>
       <counter>
-        <name>Pillar of Light</name>
+        <name>Pillar of Light (TP)</name>
         <value>6</value>
         <reset>L</reset>
         <subclass>Cathedral Domain (HB)</subclass>
@@ -164,7 +164,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 23 (Homebrew)</text>
     <!-- Cleric Subclass: Hearth Domain (OWM) (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Cleric Subclass: Hearth Domain (OWM) (HB)</name>
+        <name>Cleric Subclass: Hearth Domain (OWM) (TP)</name>
         <text>Protect the others through the power of hearth
 
 "Where the fire burns, so too does hope. My faith is not in walls or gods—it is in the warmth that binds us together."
@@ -178,13 +178,13 @@ Hearth was a common topic and icon in many ancient European religions. The heart
 Source:	Old World's Might - Subclasses from Old Europe p. 20 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Warming Embrace (Hearth Domain (OWM) (HB))</name>
+        <name>Warming Embrace (Hearth Domain (OWM) (TP))</name>
         <text>Each creature Allied to you within 10 feet of you gains Resistance to Cold and Fire damage.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 20 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Hearth Domain Spells (Hearth Domain (OWM) (HB))</name>
+        <name>Hearth Domain Spells (Hearth Domain (OWM) (TP))</name>
         <text>Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the table below, you thereafter always have the listed spells prepared.
 
 Hearth Domain Spells:
@@ -197,7 +197,7 @@ Level | Spell
 Source:	Old World's Might - Subclasses from Old Europe p. 20 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Guardian's Flame (Hearth Domain (OWM) (HB))</name>
+        <name>Guardian's Flame (Hearth Domain (OWM) (TP))</name>
         <text>As a Magic Action, you present your Holy Symbol and expend one use of your Channel Divinity to summon protective flames around up to three creatures of your choice within 30 feet of you. Each creature gains temporary hit points equal to 2d8 + your Cleric level and has Advantage on Tests until the end of your next turn.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 20 (Homebrew)</text>
@@ -206,7 +206,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 20 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Hearth of Safety (Hearth Domain (OWM) (HB))</name>
+        <name>Hearth of Safety (Hearth Domain (OWM) (TP))</name>
         <text>When one creature that you can see within 30 feet takes damage, you can use your Reaction to teleport it to an unoccupied space within 10 feet of you, reducing the damage it takes by 2d8 + your Wisdom modifier.
 	You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
 
@@ -216,7 +216,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 20 (Homebrew)</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Eternal Hearth (Hearth Domain (OWM) (HB))</name>
+        <name>Eternal Hearth (Hearth Domain (OWM) (TP))</name>
         <text>Your Warming Embrace radius expands to 30 feet. Each creature Allied to you within 30 feet of you is also Immune to the Frightened and Charmed conditions, and creatures Hostile within 30 feet of you can't be surprised con have Advantage on Initiative rolls.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 20 (Homebrew)</text>
@@ -225,7 +225,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 20 (Homebrew)</text>
     <!-- Cleric Subclass: Heresy Domain (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Cleric Subclass: Heresy Domain (HB)</name>
+        <name>Cleric Subclass: Heresy Domain (TP)</name>
         <text>Inspire others defying the established divine order
 
 "The truth is not written in stone, but in the whispers of the doubters, the fire of the condemned, and the revelations of those who dare to question."
@@ -241,19 +241,19 @@ Heresy was an opinion about the teaching of the Catholic church, which was conde
 Source:	Old World's Might - Subclasses from Old Europe p. 24 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Profane Revelation (Heresy Domain (HB))</name>
+        <name>Profane Revelation (Heresy Domain (TP))</name>
         <text>As a Magic Action, you expend one use of your Channel Divinity to unleash a blasphemous truth that undermines divine power. You force creatures of your choice within 30 feet that relies on divine magic (including Clerics, Paladins, and Celestials) to make a Wisdom saving throw. Failure: Incapacitated condition until the end of your next turn.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 24 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Inquisition's Bane (Heresy Domain (HB))</name>
+        <name>Inquisition's Bane (Heresy Domain (TP))</name>
         <text>Your faith is tempered by hardship. You gain Resistance to Radiant and Necrotic damage, and you have Advantage on saving throws against spells or other magical effects that detect truth or compel honesty (such as Zone of Truth).
 
 Source:	Old World's Might - Subclasses from Old Europe p. 24 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Heresy Domain Spells (Heresy Domain (HB))</name>
+        <name>Heresy Domain Spells (Heresy Domain (TP))</name>
         <text>Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the table below, you thereafter always have the listed spells prepared.
 
 Heresy Domain Spells:
@@ -268,14 +268,14 @@ Source:	Old World's Might - Subclasses from Old Europe p. 24 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Martyr's Fire (Heresy Domain (HB))</name>
+        <name>Martyr's Fire (Heresy Domain (TP))</name>
         <text>You can endure suffering to fuel your cause. When you take damage from an enemy, you can use your Reaction to bestow to a creature that you can see within 30 feet to gain Temporary Hit Points equal to your Cleric level + your Wisdom modifier. Additionally, you can also immediately make a weapon attack or cast a cantrip.
 	You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 24 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Martyr's Fire</name>
+        <name>Martyr's Fire (TP)</name>
         <value>3</value>
         <reset>L</reset>
         <subclass>Heresy Domain (HB)</subclass>
@@ -283,7 +283,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 24 (Homebrew)</text>
     </autolevel>
     <autolevel level="9">
       <counter>
-        <name>Martyr's Fire</name>
+        <name>Martyr's Fire (TP)</name>
         <value>4</value>
         <reset>L</reset>
         <subclass>Heresy Domain (HB)</subclass>
@@ -291,7 +291,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 24 (Homebrew)</text>
     </autolevel>
     <autolevel level="13">
       <counter>
-        <name>Martyr's Fire</name>
+        <name>Martyr's Fire (TP)</name>
         <value>5</value>
         <reset>L</reset>
         <subclass>Heresy Domain (HB)</subclass>
@@ -299,7 +299,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 24 (Homebrew)</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Divine Schism (Heresy Domain (HB))</name>
+        <name>Divine Schism (Heresy Domain (TP))</name>
         <text>Your presence warps the flow of divine power, severing the connection between the heavens and the battlefield. As a Magic Action, any creature of your choice within 30 feet of you has the following effects for 1 minute:
 
 	• Loses Resistance and Immunity to Radiant and Necrotic damage.
@@ -311,13 +311,13 @@ Once you use this feature, you can't use it again until you finish a Long Rest. 
 Source:	Old World's Might - Subclasses from Old Europe p. 24 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Martyr's Fire</name>
+        <name>Martyr's Fire (TP)</name>
         <value>6</value>
         <reset>L</reset>
         <subclass>Heresy Domain (HB)</subclass>
       </counter>
       <counter>
-        <name>Divine Schism</name>
+        <name>Divine Schism (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Heresy Domain (HB)</subclass>
@@ -326,7 +326,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 24 (Homebrew)</text>
     <!-- Cleric Subclass: Inquisition Domain (OWM) (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Cleric Subclass: Inquisition Domain (OWM) (HB)</name>
+        <name>Cleric Subclass: Inquisition Domain (OWM) (TP)</name>
         <text>Use divine law as instrument of judgment and purification
 
 "Truth is a blade that must be wielded without hesitation. Doubt is a sickness that must be purged."
@@ -340,14 +340,14 @@ The Inquisition was a powerful office set up within the Catholic Church to root 
 Source:	Old World's Might - Subclasses from Old Europe p. 25 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Unyielding Authority (Inquisition Domain (OWM) (HB))</name>
+        <name>Unyielding Authority (Inquisition Domain (OWM) (TP))</name>
         <text>You gain Advantage on Insight and Intimidation checks.
 	Additionally, you can cast the Zone of Truth spell without expending a spell slot. Once you use this feature, you can't use it again until you finish a Short or Long Rest.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 25 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Trial by Fire (Inquisition Domain (OWM) (HB))</name>
+        <name>Trial by Fire (Inquisition Domain (OWM) (TP))</name>
         <text>You present your Holy Symbol and expend one use of your Channel Divinity to invoke divine authority to expose and punish transgressors. As a Magic Action, you mark a creature that you can see within 30 feet of you as a heretic. For 1 minute, the target suffers the following effects:
 
 	• If it lies, it takes Radiant damage equal to your Cleric level and has the Incapacitated condition until the end of its next turn.
@@ -359,7 +359,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 25 (Homebrew)</text>
 Source:	Old World's Might - Subclasses from Old Europe p. 25 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Inquisition Domain Spells (Inquisition Domain (OWM) (HB))</name>
+        <name>Inquisition Domain Spells (Inquisition Domain (OWM) (TP))</name>
         <text>Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the table below, you thereafter always have the listed spells prepared.
 
 Inquisition Domain Spells:
@@ -372,7 +372,7 @@ Level Spell
 Source:	Old World's Might - Subclasses from Old Europe p. 25 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Unyielding Authority</name>
+        <name>Unyielding Authority (TP)</name>
         <value>1</value>
         <reset>S</reset>
         <subclass>Inquisition Domain (OWM) (HB)</subclass>
@@ -380,14 +380,14 @@ Source:	Old World's Might - Subclasses from Old Europe p. 25 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Chains of Repentance (Inquisition Domain (OWM) (HB))</name>
+        <name>Chains of Repentance (Inquisition Domain (OWM) (TP))</name>
         <text>When you hit a creature with a melee attack, you can force it to make a Wisdom saving throw against your spell save DC. Failure: Restrained condition for 1 minute as divine chains bind them in place. It can repeat the save at the end of each of their next turns, ending the condition on itself on a success.
 	Once you use this feature, you cannot use it again until you finish a Short or Long rest.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 25 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Chains of Repentance</name>
+        <name>Chains of Repentance (TP)</name>
         <value>1</value>
         <reset>S</reset>
         <subclass>Inquisition Domain (OWM) (HB)</subclass>
@@ -395,7 +395,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 25 (Homebrew)</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Divine Tribunal (Inquisition Domain (OWM) (HB))</name>
+        <name>Divine Tribunal (Inquisition Domain (OWM) (TP))</name>
         <text>You create a 30-foot radius aura of judgment for 1 minute. While within this aura:
 
 	• As a Magic Action, you evoke a 30-foot radius, 60-foot-high Cylinder of divine light centered on a point that you can see within 60 feet of you. The Cylinder lasts for 1 minute. On each of your subsequent turns, you can use your Bonus Action to move the Cylinder up to 30 feet in any direction. In the Cylinder, the following effects apply:
@@ -410,7 +410,7 @@ Once you use this feature, you can't use it again until you finish a Long Rest. 
 Source:	Old World's Might - Subclasses from Old Europe p. 25 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Divine Tribunal</name>
+        <name>Divine Tribunal (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Inquisition Domain (OWM) (HB)</subclass>
@@ -419,7 +419,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 25 (Homebrew)</text>
     <!-- Cleric Subclass: Mysteries Domain (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Cleric Subclass: Mysteries Domain (HB)</name>
+        <name>Cleric Subclass: Mysteries Domain (TP)</name>
         <text>Keeper of hidden truths and powerful divine magic
 
 "The divine is not to be known, but to be sought. Every question is a prayer, every answer another veil to be lifted."
@@ -433,7 +433,7 @@ The Eleusinian Mysteries (Greek: Ἐλευσίνια Μυστήρια, romanized
 Source:	Old World's Might - Subclasses from Old Europe p. 21 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Oracle's Insight (Mysteries Domain (HB))</name>
+        <name>Oracle's Insight (Mysteries Domain (TP))</name>
         <text>You start to understand the true secrets of the world. You gain the following benefits:
 
 	• You are Proficient in Arcana. If you are already proficient, you gain Expertise.
@@ -445,13 +445,13 @@ Source:	Old World's Might - Subclasses from Old Europe p. 21 (Homebrew)</text>
 Source:	Old World's Might - Subclasses from Old Europe p. 21 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Revelation (Mysteries Domain (HB))</name>
+        <name>Revelation (Mysteries Domain (TP))</name>
         <text>As a Magic Action, you present your Holy Symbol and expend a use of your Channel Divinity to reveal hidden truths within a 30-foot radius. Invisible creatures and objects are revealed for 1 minute, and each creature of your choice within 30 feet of you gains Advantage on saving throws against spells and other magical effects of illusion and enchantment schools.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 21 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Mysteries Domain Spells (Mysteries Domain (HB))</name>
+        <name>Mysteries Domain Spells (Mysteries Domain (TP))</name>
         <text>Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the table below, you thereafter always have the listed spells prepared.
 
 Mysteries Domain Spells:
@@ -466,14 +466,14 @@ Source:	Old World's Might - Subclasses from Old Europe p. 21 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Veil of Mystery (Mysteries Domain (HB))</name>
+        <name>Veil of Mystery (Mysteries Domain (TP))</name>
         <text>As a Reaction, when an enemy targets you with an attack, you can impose Disadvantage on the roll and teleport up to 30 feet to an unoccupied space you can see.
 	You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 21 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Veil of Mystery</name>
+        <name>Veil of Mystery (TP)</name>
         <value>3</value>
         <reset>L</reset>
         <subclass>Mysteries Domain (HB)</subclass>
@@ -481,7 +481,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 21 (Homebrew)</text>
     </autolevel>
     <autolevel level="9">
       <counter>
-        <name>Veil of Mystery</name>
+        <name>Veil of Mystery (TP)</name>
         <value>4</value>
         <reset>L</reset>
         <subclass>Mysteries Domain (HB)</subclass>
@@ -489,7 +489,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 21 (Homebrew)</text>
     </autolevel>
     <autolevel level="13">
       <counter>
-        <name>Veil of Mystery</name>
+        <name>Veil of Mystery (TP)</name>
         <value>5</value>
         <reset>L</reset>
         <subclass>Mysteries Domain (HB)</subclass>
@@ -497,13 +497,13 @@ Source:	Old World's Might - Subclasses from Old Europe p. 21 (Homebrew)</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Oracle's Sight (Mysteries Domain (HB))</name>
+        <name>Oracle's Sight (Mysteries Domain (TP))</name>
         <text>You gain Truesight 120 feet. Additionally, you are Immune to Blinded condition and can't be surprised.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 21 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Veil of Mystery</name>
+        <name>Veil of Mystery (TP)</name>
         <value>6</value>
         <reset>L</reset>
         <subclass>Mysteries Domain (HB)</subclass>
@@ -511,211 +511,211 @@ Source:	Old World's Might - Subclasses from Old Europe p. 21 (Homebrew)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Sanctuary</name>
-    <classes>Cleric [5.5e] (Hearth Domain (OWM) (HB)), Cleric [5.5e] (Cathedral Domain (HB))</classes>
+    <name>Sanctuary (TP)</name>
+    <classes>Cleric (Hearth Domain (OWM) (HB)), Cleric (Cathedral Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Beacon of Hope</name>
-    <classes>Cleric [5.5e] (Hearth Domain (OWM) (HB)), Cleric [5.5e] (Cathedral Domain (HB))</classes>
+    <name>Beacon of Hope (TP)</name>
+    <classes>Cleric (Hearth Domain (OWM) (HB)), Cleric (Cathedral Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Aura of Purity</name>
-    <classes>Cleric [5.5e] (Hearth Domain (OWM) (HB))</classes>
+    <name>Aura of Purity (TP)</name>
+    <classes>Cleric (Hearth Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Hallow</name>
-    <classes>Cleric [5.5e] (Hearth Domain (OWM) (HB))</classes>
+    <name>Hallow (TP)</name>
+    <classes>Cleric (Hearth Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Cure Wounds</name>
-    <classes>Cleric [5.5e] (Hearth Domain (OWM) (HB))</classes>
+    <name>Cure Wounds (TP)</name>
+    <classes>Cleric (Hearth Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Shield of Faith</name>
-    <classes>Cleric [5.5e] (Hearth Domain (OWM) (HB)), Cleric [5.5e] (Cathedral Domain (HB))</classes>
+    <name>Shield of Faith (TP)</name>
+    <classes>Cleric (Hearth Domain (OWM) (HB)), Cleric (Cathedral Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Calm Emotions</name>
-    <classes>Cleric [5.5e] (Hearth Domain (OWM) (HB))</classes>
+    <name>Calm Emotions (TP)</name>
+    <classes>Cleric (Hearth Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Leomund's Tiny Hut</name>
-    <classes>Cleric [5.5e] (Hearth Domain (OWM) (HB))</classes>
+    <name>Leomund's Tiny Hut (TP)</name>
+    <classes>Cleric (Hearth Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Guardian of Faith</name>
-    <classes>Cleric [5.5e] (Hearth Domain (OWM) (HB))</classes>
+    <name>Guardian of Faith (TP)</name>
+    <classes>Cleric (Hearth Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Mass Cure Wounds</name>
-    <classes>Cleric [5.5e] (Hearth Domain (OWM) (HB))</classes>
+    <name>Mass Cure Wounds (TP)</name>
+    <classes>Cleric (Hearth Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Detect Magic</name>
-    <classes>Cleric [5.5e] (Mysteries Domain (HB)), Cleric [5.5e] (Heresy Domain (HB)), Cleric [5.5e] (Inquisition Domain (OWM) (HB))</classes>
+    <name>Detect Magic (TP)</name>
+    <classes>Cleric (Mysteries Domain (HB)), Cleric (Heresy Domain (HB)), Cleric (Inquisition Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Identify</name>
-    <classes>Cleric [5.5e] (Mysteries Domain (HB))</classes>
+    <name>Identify (TP)</name>
+    <classes>Cleric (Mysteries Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Augury</name>
-    <classes>Cleric [5.5e] (Mysteries Domain (HB))</classes>
+    <name>Augury (TP)</name>
+    <classes>Cleric (Mysteries Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Mirror Image</name>
-    <classes>Cleric [5.5e] (Mysteries Domain (HB))</classes>
+    <name>Mirror Image (TP)</name>
+    <classes>Cleric (Mysteries Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Clairvoyance</name>
-    <classes>Cleric [5.5e] (Mysteries Domain (HB))</classes>
+    <name>Clairvoyance (TP)</name>
+    <classes>Cleric (Mysteries Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Dispel Magic</name>
-    <classes>Cleric [5.5e] (Mysteries Domain (HB))</classes>
+    <name>Dispel Magic (TP)</name>
+    <classes>Cleric (Mysteries Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Arcane Eye</name>
-    <classes>Cleric [5.5e] (Mysteries Domain (HB))</classes>
+    <name>Arcane Eye (TP)</name>
+    <classes>Cleric (Mysteries Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Divination</name>
-    <classes>Cleric [5.5e] (Mysteries Domain (HB))</classes>
+    <name>Divination (TP)</name>
+    <classes>Cleric (Mysteries Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Scrying</name>
-    <classes>Cleric [5.5e] (Mysteries Domain (HB))</classes>
+    <name>Scrying (TP)</name>
+    <classes>Cleric (Mysteries Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Modify Memory</name>
-    <classes>Cleric [5.5e] (Mysteries Domain (HB))</classes>
+    <name>Modify Memory (TP)</name>
+    <classes>Cleric (Mysteries Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Minor Illusion</name>
-    <classes>Cleric [5.5e] (Mysteries Domain (HB))</classes>
+    <name>Minor Illusion (TP)</name>
+    <classes>Cleric (Mysteries Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Ray of Sickness</name>
-    <classes>Cleric [5.5e] (Black Death Domain (HB))</classes>
+    <name>Ray of Sickness (TP)</name>
+    <classes>Cleric (Black Death Domain (HB))</classes>
   </spell>
   <spell>
-    <name>False Life</name>
-    <classes>Cleric [5.5e] (Black Death Domain (HB))</classes>
+    <name>False Life (TP)</name>
+    <classes>Cleric (Black Death Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Protection from Poison</name>
-    <classes>Cleric [5.5e] (Black Death Domain (HB))</classes>
+    <name>Protection from Poison (TP)</name>
+    <classes>Cleric (Black Death Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Animate Dead</name>
-    <classes>Cleric [5.5e] (Black Death Domain (HB))</classes>
+    <name>Animate Dead (TP)</name>
+    <classes>Cleric (Black Death Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Stinking Cloud</name>
-    <classes>Cleric [5.5e] (Black Death Domain (HB))</classes>
+    <name>Stinking Cloud (TP)</name>
+    <classes>Cleric (Black Death Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Blight</name>
-    <classes>Cleric [5.5e] (Black Death Domain (HB)), Cleric [5.5e] (Heresy Domain (HB))</classes>
+    <name>Blight (TP)</name>
+    <classes>Cleric (Black Death Domain (HB)), Cleric (Heresy Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Death Ward</name>
-    <classes>Cleric [5.5e] (Black Death Domain (HB))</classes>
+    <name>Death Ward (TP)</name>
+    <classes>Cleric (Black Death Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Cloudkill</name>
-    <classes>Cleric [5.5e] (Black Death Domain (HB))</classes>
+    <name>Cloudkill (TP)</name>
+    <classes>Cleric (Black Death Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Contagion</name>
-    <classes>Cleric [5.5e] (Black Death Domain (HB))</classes>
+    <name>Contagion (TP)</name>
+    <classes>Cleric (Black Death Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Bless</name>
-    <classes>Cleric [5.5e] (Cathedral Domain (HB))</classes>
+    <name>Bless (TP)</name>
+    <classes>Cleric (Cathedral Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Command</name>
-    <classes>Cleric [5.5e] (Cathedral Domain (HB)), Cleric [5.5e] (Inquisition Domain (OWM) (HB))</classes>
+    <name>Command (TP)</name>
+    <classes>Cleric (Cathedral Domain (HB)), Cleric (Inquisition Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Spirit Guardians</name>
-    <classes>Cleric [5.5e] (Cathedral Domain (HB))</classes>
+    <name>Spirit Guardians (TP)</name>
+    <classes>Cleric (Cathedral Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Aura of Life</name>
-    <classes>Cleric [5.5e] (Cathedral Domain (HB))</classes>
+    <name>Aura of Life (TP)</name>
+    <classes>Cleric (Cathedral Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Stone Shape</name>
-    <classes>Cleric [5.5e] (Cathedral Domain (HB))</classes>
+    <name>Stone Shape (TP)</name>
+    <classes>Cleric (Cathedral Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Greater Restoration</name>
-    <classes>Cleric [5.5e] (Cathedral Domain (HB))</classes>
+    <name>Greater Restoration (TP)</name>
+    <classes>Cleric (Cathedral Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Wall of Stone</name>
-    <classes>Cleric [5.5e] (Cathedral Domain (HB))</classes>
+    <name>Wall of Stone (TP)</name>
+    <classes>Cleric (Cathedral Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Cause Fear</name>
-    <classes>Cleric [5.5e] (Heresy Domain (HB))</classes>
+    <name>Cause Fear (TP)</name>
+    <classes>Cleric (Heresy Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Disguise Self</name>
-    <classes>Cleric [5.5e] (Heresy Domain (HB))</classes>
+    <name>Disguise Self (TP)</name>
+    <classes>Cleric (Heresy Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Hellish Rebuke</name>
-    <classes>Cleric [5.5e] (Heresy Domain (HB))</classes>
+    <name>Hellish Rebuke (TP)</name>
+    <classes>Cleric (Heresy Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Suggestion</name>
-    <classes>Cleric [5.5e] (Heresy Domain (HB))</classes>
+    <name>Suggestion (TP)</name>
+    <classes>Cleric (Heresy Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Silence</name>
-    <classes>Cleric [5.5e] (Heresy Domain (HB))</classes>
+    <name>Silence (TP)</name>
+    <classes>Cleric (Heresy Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Counterspell</name>
-    <classes>Cleric [5.5e] (Heresy Domain (HB)), Cleric [5.5e] (Inquisition Domain (OWM) (HB))</classes>
+    <name>Counterspell (TP)</name>
+    <classes>Cleric (Heresy Domain (HB)), Cleric (Inquisition Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Dispel Evil and Good</name>
-    <classes>Cleric [5.5e] (Heresy Domain (HB))</classes>
+    <name>Dispel Evil and Good (TP)</name>
+    <classes>Cleric (Heresy Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Greater Invisibility</name>
-    <classes>Cleric [5.5e] (Heresy Domain (HB))</classes>
+    <name>Greater Invisibility (TP)</name>
+    <classes>Cleric (Heresy Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Hunter's Mark</name>
-    <classes>Cleric [5.5e] (Inquisition Domain (OWM) (HB))</classes>
+    <name>Hunter's Mark (TP)</name>
+    <classes>Cleric (Inquisition Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Zone of Truth</name>
-    <classes>Cleric [5.5e] (Inquisition Domain (OWM) (HB))</classes>
+    <name>Zone of Truth (TP)</name>
+    <classes>Cleric (Inquisition Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Hold Person</name>
-    <classes>Cleric [5.5e] (Inquisition Domain (OWM) (HB))</classes>
+    <name>Hold Person (TP)</name>
+    <classes>Cleric (Inquisition Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>See Invisibility</name>
-    <classes>Cleric [5.5e] (Inquisition Domain (OWM) (HB))</classes>
+    <name>See Invisibility (TP)</name>
+    <classes>Cleric (Inquisition Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Locate Creature</name>
-    <classes>Cleric [5.5e] (Inquisition Domain (OWM) (HB))</classes>
+    <name>Locate Creature (TP)</name>
+    <classes>Cleric (Inquisition Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Banishment</name>
-    <classes>Cleric [5.5e] (Inquisition Domain (OWM) (HB))</classes>
+    <name>Banishment (TP)</name>
+    <classes>Cleric (Inquisition Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Dominate Person</name>
-    <classes>Cleric [5.5e] (Inquisition Domain (OWM) (HB))</classes>
+    <name>Dominate Person (TP)</name>
+    <classes>Cleric (Inquisition Domain (OWM) (HB))</classes>
   </spell>
 </compendium>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <feat>
-    <name>Origin: Sharp Eye [5.5e]</name>
+    <name>Origin: Sharp Eye</name>
     <text>When you take the Search or Study action, you can give yourself Advantage on any ability check made as part of that action. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. If the check fails, the use of this feature isn't expended.
 
 Source:	Ravenloft: The Horrors Within</text>
   </feat>
   <feat>
-    <name>Origin: Survivor [5.5e]</name>
+    <name>Origin: Survivor</name>
     <text>You gain the following benefits.
 
 	Hypervigilance. Whenever you roll Initiative, you can reroll the d20 if the number rolled is 9 or lower. You must use the new roll.
@@ -18,7 +18,7 @@ Source:	Ravenloft: The Horrors Within</text>
 Source:	Ravenloft: The Horrors Within</text>
   </feat>
   <feat>
-    <name>Origin: Aberrant Anatomy (Dark Gift) [5.5e]</name>
+    <name>Origin: Aberrant Anatomy (Dark Gift)</name>
     <prerequisite>Ravenloft Campaign</prerequisite>
     <proficiency>Perception</proficiency>
     <text>Exposure to alien horrors like those of the Far Realm has warped your physical form in supernatural ways. You gain the following features.
@@ -32,7 +32,7 @@ Source:	Ravenloft: The Horrors Within</text>
 Source:	Ravenloft: The Horrors Within</text>
   </feat>
   <feat>
-    <name>Origin: Echoing Soul (Dark Gift) [5.5e]</name>
+    <name>Origin: Echoing Soul (Dark Gift)</name>
     <prerequisite>Ravenloft Campaign</prerequisite>
     <text>You experience echoes from a past or alternate life. You gain the following features.
 
@@ -45,7 +45,7 @@ Source:	Ravenloft: The Horrors Within</text>
 Source:	Ravenloft: The Horrors Within</text>
   </feat>
   <feat>
-    <name>Origin: Gathered Whispers (Dark Gift) [5.5e]</name>
+    <name>Origin: Gathered Whispers (Dark Gift)</name>
     <prerequisite>Ravenloft Campaign</prerequisite>
     <text>You are haunted by a cacophony of whispering spirits only you can hear. You gain the following features.
 
@@ -58,7 +58,7 @@ Source:	Ravenloft: The Horrors Within</text>
 Source:	Ravenloft: The Horrors Within</text>
   </feat>
   <feat>
-    <name>Origin: Living Shadow (Dark Gift) [5.5e]</name>
+    <name>Origin: Living Shadow (Dark Gift)</name>
     <prerequisite>Ravenloft Campaign</prerequisite>
     <text>The shadow you cast is animate and ever-present—sometimes it even acts according to its own will. You gain the following features.
 
@@ -79,7 +79,7 @@ Source:	Ravenloft: The Horrors Within</text>
     <roll description="Direction">1d4</roll>
   </feat>
   <feat>
-    <name>Origin: Mist Walker (Dark Gift) [5.5e]</name>
+    <name>Origin: Mist Walker (Dark Gift)</name>
     <prerequisite>Ravenloft Campaign</prerequisite>
     <text>You know how to slip through the Mists' grasp, but this freedom comes at a price: If you remain in one area for too long, the Mists find you and drain your life force. You gain the following features.
 
@@ -92,7 +92,7 @@ Source:	Ravenloft: The Horrors Within</text>
 Source:	Ravenloft: The Horrors Within</text>
   </feat>
   <feat>
-    <name>Origin: Second Skin (Dark Gift) [5.5e]</name>
+    <name>Origin: Second Skin (Dark Gift)</name>
     <prerequisite>Ravenloft Campaign</prerequisite>
     <text>There is another side of you that most people never see: a beast, a terrifying avenger, or a walking nightmare. You gain the following features.
 
@@ -113,7 +113,7 @@ Source:	Ravenloft: The Horrors Within</text>
     <roll description="Catalyst">1d6</roll>
   </feat>
   <feat>
-    <name>Origin: Symbiotic Being (Dark Gift) [5.5e]</name>
+    <name>Origin: Symbiotic Being (Dark Gift)</name>
     <prerequisite>Ravenloft Campaign</prerequisite>
     <text>A second being resides within your body, offering knowledge and assistance while furthering its own agenda. You gain the following features.
 
@@ -130,7 +130,7 @@ Source:	Ravenloft: The Horrors Within</text>
     <roll description="Hours">1d12</roll>
   </feat>
   <feat>
-    <name>Origin: Touch of Death (Dark Gift) [5.5e]</name>
+    <name>Origin: Touch of Death (Dark Gift)</name>
     <prerequisite>Ravenloft Campaign</prerequisite>
     <text>Deathly power resides within you, bursting out at the slightest provocation. You gain the following features.
 
@@ -141,7 +141,7 @@ Source:	Ravenloft: The Horrors Within</text>
 Source:	Ravenloft: The Horrors Within</text>
   </feat>
   <feat>
-    <name>Origin: Watchers (Dark Gift) [5.5e]</name>
+    <name>Origin: Watchers (Dark Gift)</name>
     <prerequisite>Ravenloft Campaign</prerequisite>
     <text>Something unnatural is always watching you, taking the form of scurrying vermin and other eerie creatures. You gain the following features.
 

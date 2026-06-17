@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Hexblood [5.5e]</name>
+    <name>Hexblood</name>
     <size>M</size>
     <speed>30</speed>
     <trait category="description">
@@ -39,7 +39,7 @@ Unless the token is destroyed early, it lasts until you finish a Long Rest. Once
     <resist>necrotic</resist>
   </race>
   <race>
-    <name>Lupin [5.5e]</name>
+    <name>Lupin</name>
     <size>M</size>
     <speed>30</speed>
     <trait category="description">
@@ -76,7 +76,7 @@ Source:	Ravenloft: The Horrors Within</text>
     <resist>necrotic</resist>
   </race>
   <race>
-    <name>Reborn [5.5e]</name>
+    <name>Reborn</name>
     <size>M</size>
     <speed>30</speed>
     <trait category="description">

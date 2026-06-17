@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Paladin</name>
+    <name>Paladin (UA)</name>
     <!-- Paladin Subclass: Oath of the Spellguard (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -78,43 +78,43 @@ Source:	Mystic Subclasses p. 3 (Unearthed Arcana)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Detect Magic [2024]</name>
+    <name>Detect Magic (UA)</name>
     <classes>Paladin (Oath of the Spellguard (UA))</classes>
   </spell>
   <spell>
-    <name>Shield [2024]</name>
+    <name>Shield (UA)</name>
     <classes>Paladin (Oath of the Spellguard (UA))</classes>
   </spell>
   <spell>
-    <name>See Invisibility [2024]</name>
+    <name>See Invisibility (UA)</name>
     <classes>Paladin (Oath of the Spellguard (UA))</classes>
   </spell>
   <spell>
-    <name>Silence [2024]</name>
+    <name>Silence (UA)</name>
     <classes>Paladin (Oath of the Spellguard (UA))</classes>
   </spell>
   <spell>
-    <name>Counterspell [2024]</name>
+    <name>Counterspell (UA)</name>
     <classes>Paladin (Oath of the Spellguard (UA))</classes>
   </spell>
   <spell>
-    <name>Dispel Magic [2024]</name>
+    <name>Dispel Magic (UA)</name>
     <classes>Paladin (Oath of the Spellguard (UA))</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement [2024]</name>
+    <name>Freedom of Movement (UA)</name>
     <classes>Paladin (Oath of the Spellguard (UA))</classes>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere [2024]</name>
+    <name>Otiluke's Resilient Sphere (UA)</name>
     <classes>Paladin (Oath of the Spellguard (UA))</classes>
   </spell>
   <spell>
-    <name>Circle of Power [2024]</name>
+    <name>Circle of Power (UA)</name>
     <classes>Paladin (Oath of the Spellguard (UA))</classes>
   </spell>
   <spell>
-    <name>Hallow [2024]</name>
+    <name>Hallow (UA)</name>
     <classes>Paladin (Oath of the Spellguard (UA))</classes>
   </spell>
 </compendium>

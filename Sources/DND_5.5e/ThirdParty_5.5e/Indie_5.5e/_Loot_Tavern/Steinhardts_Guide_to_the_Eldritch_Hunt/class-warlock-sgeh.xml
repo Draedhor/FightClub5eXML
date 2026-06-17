@@ -27,7 +27,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 168 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 165 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Expanded Spell List (The Void (HB))</name>
+        <name>Expanded Spell List (The Void (TP))</name>
         <text>The Void lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
 The Void Expanded Spells:
@@ -41,13 +41,13 @@ Spell Level | Spells
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 165 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Fugite Omnis (The Void (HB))</name>
+        <name>Fugite Omnis (The Void (TP))</name>
         <text>At 1st level, you can partially ignore the shackles of gravity. You gain the ability to hover a few inches off the ground. You can ascend and descend as part of your movement. You can't hover more than a foot above the ground and fall if you are above that height. If you were to be knocked prone while hovering, you are instead made to stand on the ground.
 
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 165 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Voracious Void (The Void (HB))</name>
+        <name>Voracious Void (The Void (TP))</name>
         <text>At 1st level, as a bonus action, you can create a miniature black hole, in the form of a 5-foot-diamater sphere, centered on a point on the ground that you can see within 60 feet. This black hole has a domain of influence of 5 feet beyond its own radius. It lasts for 1 minute or until your concentration is broken (as if you are concentrating on a spell). The black hole is considered difficult terrain for all creatures except for you.
 	When the sphere appears and at the start of each of your turns until the ability ends, unsecured objects within the domain of influence of the miniature black hole are pulled toward the sphere's center, ending in an unoccupied space as close to the center as possible.
 	As part of creating the sphere, and on subsequent turns as a bonus action, you can choose a creature within the domain of influence of the black hole, increasing the pull of gravity around them. They must succeed on a Strength saving throw against your spell save DC or be pulled straight toward the sphere's center, ending in an unoccupied space as close to the center as possible. A creature that enters the black hole's space for the first time on a turn or starts its turn there takes 1d6 magical bludgeoning damage and its speed is halved until the start of its next turn.
@@ -70,7 +70,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 166 (Homebrew)</text>
         <roll description="Magical Bludgeoning Damage" level="9">2d6</roll>
       </feature>
       <counter>
-        <name>Voracious Void</name>
+        <name>Voracious Void (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>The Void (HB)</subclass>
@@ -78,7 +78,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 166 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Gravitational Pull (The Void (HB))</name>
+        <name>Gravitational Pull (The Void (TP))</name>
         <text>At 6th level, when a creature you can see within 120 feet of you is targeted by a ranged attack, if your Voracious Void is active, you can use your reaction to divert the strike. If the attack passes through the miniature black hole or its domain of influence, you can make a ranged spell attack. If you roll higher than their attack roll, you deflect the trajectory and the target takes no damage. If you roll lower, you reduce the damage by 1d6 + your Charisma modifier. If you roll a 20, the attack is deflected and streaks towards the center of the black hole, randomly hitting one of the creatures inside, if any are present.
 
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 166 (Homebrew)</text>
@@ -87,7 +87,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 166 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Warp Gravity (The Void (HB))</name>
+        <name>Warp Gravity (The Void (TP))</name>
         <text>At 10th level, you can bend gravity around you at will, allowing you to move through the air as if you were walking on solid ground. You gain a flying speed equal to your walking speed and can hover. You can grant these benefits to one creature that is touching you. They lose this flying speed immediately if they are no longer in contact with you.
 
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 166 (Homebrew)</text>
@@ -95,7 +95,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 166 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Oblivion (The Void (HB))</name>
+        <name>Oblivion (The Void (TP))</name>
         <text>At 14th level, you can unleash the ravenous hunger of the void. When you use your Voracious Void ability, you can choose to let it run wild. In that case, rather than as a bonus action, whenever a creature starts its turn within the black hole or its domain of influence, they must succeed on a Strength saving throw against your spell save DC or be pulled to the center. You and your choice of a number of creatures equal to your Charisma modifier (minimum 1) aren't affected by this effect.
 	Once you use this feature, you can't do so again until you finish a long rest.
 
@@ -104,43 +104,43 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 166 (Homebrew)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Feather Fall</name>
+    <name>Feather Fall (TP)</name>
     <classes>Warlock (The Void (HB))</classes>
   </spell>
   <spell>
-    <name>Gravity Leap (HB)</name>
+    <name>Gravity Leap (TP)</name>
     <classes>Warlock (The Void (HB))</classes>
   </spell>
   <spell>
-    <name>Levitate</name>
+    <name>Levitate (TP)</name>
     <classes>Warlock (The Void (HB))</classes>
   </spell>
   <spell>
-    <name>Otherworldly Gaze (HB)</name>
+    <name>Otherworldly Gaze (TP)</name>
     <classes>Warlock (The Void (HB))</classes>
   </spell>
   <spell>
-    <name>Astral Barrage (HB)</name>
+    <name>Astral Barrage (TP)</name>
     <classes>Warlock (The Void (HB))</classes>
   </spell>
   <spell>
-    <name>Blink</name>
+    <name>Blink (TP)</name>
     <classes>Warlock (The Void (HB))</classes>
   </spell>
   <spell>
-    <name>Evard's Black Tentacles</name>
+    <name>Evard's Black Tentacles (TP)</name>
     <classes>Warlock (The Void (HB))</classes>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere</name>
+    <name>Otiluke's Resilient Sphere (TP)</name>
     <classes>Warlock (The Void (HB))</classes>
   </spell>
   <spell>
-    <name>Telekinesis</name>
+    <name>Telekinesis (TP)</name>
     <classes>Warlock (The Void (HB))</classes>
   </spell>
   <spell>
-    <name>Starfall (HB)</name>
+    <name>Starfall (TP)</name>
     <classes>Warlock (The Void (HB))</classes>
   </spell>
 </compendium>

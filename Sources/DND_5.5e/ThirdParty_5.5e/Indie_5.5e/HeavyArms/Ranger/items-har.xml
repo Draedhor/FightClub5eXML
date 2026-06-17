@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Arcane Mine</name>
+    <name>Arcane Mine (TP)</name>
     <detail>advanced trap</detail>
     <type>G</type>
     <value>50.0</value>
@@ -35,7 +35,7 @@ Storing Spells: The following rules apply when storing a spell in an arcane mine
 Source:	HeavyArms: The Ranger (Homebrew)</text>
   </item>
   <item>
-    <name>Knife Belt</name>
+    <name>Knife Belt (TP)</name>
     <type>G</type>
     <value>2.0</value>
     <text>While wearing this belt, you can draw a dagger or a dart as part of the attack you make with the weapon.
@@ -43,7 +43,7 @@ Source:	HeavyArms: The Ranger (Homebrew)</text>
 Source:	HeavyArms: The Ranger (Homebrew)</text>
   </item>
   <item>
-    <name>Bodkin Arrow</name>
+    <name>Bodkin Arrow (TP)</name>
     <detail>special ammunition</detail>
     <type>A</type>
     <value>3.0</value>
@@ -61,7 +61,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	HeavyArms: The Ranger p. 9 (Homebrew)</text>
   </item>
   <item>
-    <name>Blunt Arrow</name>
+    <name>Blunt Arrow (TP)</name>
     <detail>special ammunition</detail>
     <type>A</type>
     <value>0.1</value>
@@ -80,7 +80,7 @@ Source:	HeavyArms: The Ranger p. 9 (Homebrew)</text>
     <roll description="Bludgeoning Damage">1d4</roll>
   </item>
   <item>
-    <name>Cold Iron Arrow</name>
+    <name>Cold Iron Arrow (TP)</name>
     <detail>special ammunition</detail>
     <type>A</type>
     <value>10.0</value>
@@ -99,7 +99,7 @@ Source:	HeavyArms: The Ranger p. 9 (Homebrew)</text>
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>Dragonspear Arrow +1</name>
+    <name>Dragonspear Arrow +1 (TP)</name>
     <detail>special ammunition</detail>
     <type>A</type>
     <value>10.0</value>
@@ -119,7 +119,7 @@ Source:	HeavyArms: The Ranger p. 9 (Homebrew)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Dragonspear Arrow +2</name>
+    <name>Dragonspear Arrow +2 (TP)</name>
     <detail>special ammunition</detail>
     <type>A</type>
     <value>20.0</value>
@@ -139,7 +139,7 @@ Source:	HeavyArms: The Ranger p. 9 (Homebrew)</text>
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Dragonspear Arrow +3</name>
+    <name>Dragonspear Arrow +3 (TP)</name>
     <detail>special ammunition</detail>
     <type>A</type>
     <value>40.0</value>
@@ -159,7 +159,7 @@ Source:	HeavyArms: The Ranger p. 9 (Homebrew)</text>
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Ethereal Arrow</name>
+    <name>Ethereal Arrow (TP)</name>
     <detail>special ammunition</detail>
     <type>A</type>
     <value>15.0</value>
@@ -177,7 +177,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	HeavyArms: The Ranger p. 9 (Homebrew)</text>
   </item>
   <item>
-    <name>Fire Arrow</name>
+    <name>Fire Arrow (TP)</name>
     <detail>special ammunition</detail>
     <type>A</type>
     <value>30.0</value>
@@ -196,7 +196,7 @@ Source:	HeavyArms: The Ranger p. 9 (Homebrew)</text>
     <roll description="Fire Damage">1d4</roll>
   </item>
   <item>
-    <name>Heavy Shot</name>
+    <name>Heavy Shot (TP)</name>
     <detail>special ammunition</detail>
     <type>A</type>
     <value>15.0</value>
@@ -214,7 +214,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	HeavyArms: The Ranger p. 9 (Homebrew)</text>
   </item>
   <item>
-    <name>Light Arrow</name>
+    <name>Light Arrow (TP)</name>
     <detail>special ammunition</detail>
     <type>A</type>
     <value>10.0</value>
@@ -233,7 +233,7 @@ Source:	HeavyArms: The Ranger p. 9 (Homebrew)</text>
     <roll description="Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Lightning Arrow</name>
+    <name>Lightning Arrow (TP)</name>
     <detail>special ammunition</detail>
     <type>A</type>
     <value>30.0</value>
@@ -252,7 +252,7 @@ Source:	HeavyArms: The Ranger p. 9 (Homebrew)</text>
     <roll description="Lightning Damage">3d8</roll>
   </item>
   <item>
-    <name>Poison Arrow</name>
+    <name>Poison Arrow (TP)</name>
     <detail>special ammunition</detail>
     <type>A</type>
     <value>20.0</value>
@@ -271,7 +271,7 @@ Source:	HeavyArms: The Ranger p. 9 (Homebrew)</text>
     <roll description="Lightning Damage">3d8</roll>
   </item>
   <item>
-    <name>Silvered Arrow</name>
+    <name>Silvered Arrow (TP)</name>
     <detail>special ammunition</detail>
     <type>A</type>
     <value>2.5</value>
@@ -290,7 +290,7 @@ Source:	HeavyArms: The Ranger p. 9 (Homebrew)</text>
     <roll description="Lightning Damage">3d8</roll>
   </item>
   <item>
-    <name>Dragon Claw Charm</name>
+    <name>Dragon Claw Charm (TP)</name>
     <detail>charm, rare (requires attunement by a ranger with the ferocious companion bushcraft skill)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -305,7 +305,7 @@ This lacquered claw is set in a platinum mount and looped on a chain or a leathe
 Source:	HeavyArms: The Ranger p. 10 (Homebrew)</text>
   </item>
   <item>
-    <name>Hunting Bow</name>
+    <name>Hunting Bow (TP)</name>
     <detail>shortbow, uncommon (requires attunement by a ranger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -335,7 +335,7 @@ Source:	HeavyArms: The Ranger p. 10 (Homebrew),
     <roll description="Piercing Damage">1d6</roll>
   </item>
   <item>
-    <name>Jolt Needles (Set of 3)</name>
+    <name>Jolt Needles (Set of 3) (TP)</name>
     <detail>dagger, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -365,7 +365,7 @@ Source:	HeavyArms: The Ranger p. 10 (Homebrew),
     <roll description="Lightning Damage">3d8</roll>
   </item>
   <item>
-    <name>Kraken Club</name>
+    <name>Kraken Club (TP)</name>
     <detail>club, unique, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -385,7 +385,7 @@ Source:	HeavyArms: The Ranger p. 10 (Homebrew),
     <roll description="Bludgeoning Damage">1d4</roll>
   </item>
   <item>
-    <name>Mordant Rime</name>
+    <name>Mordant Rime (TP)</name>
     <detail>dagger, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -417,7 +417,7 @@ Source:	HeavyArms: The Ranger p. 10 (Homebrew),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Urcia Ring No. 8</name>
+    <name>Urcia Ring No. 8 (TP)</name>
     <detail>unique, legendary (requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -428,7 +428,7 @@ The eight in a series of rings commemorating the twelve companions. This is the 
 Source:	HeavyArms: The Ranger p. 11 (Homebrew)</text>
   </item>
   <item>
-    <name>Wind Charm</name>
+    <name>Wind Charm (TP)</name>
     <detail>charm, uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -443,7 +443,7 @@ This magical charm can be worn as a brooch, necklace, or hatpin. When you fall w
 Source:	HeavyArms: The Ranger p. 11 (Homebrew)</text>
   </item>
   <item>
-    <name>Dynamis Bow</name>
+    <name>Dynamis Bow (TP)</name>
     <detail>longbow, dormant, relic (requires attunement by a ranger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -480,7 +480,7 @@ Source:	HeavyArms: The Ranger p. 11 (Homebrew),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Patience</name>
+    <name>Patience (TP)</name>
     <detail>longbow, awakened, relic (requires attunement by a ranger (heavyarms))</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -509,7 +509,7 @@ Source:	HeavyArms: The Ranger p. 11 (Homebrew),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Rudra's Storm</name>
+    <name>Rudra's Storm (TP)</name>
     <detail>longbow, exalted, relic (requires attunement by a ranger (heavyarms))</detail>
     <type>R</type>
     <magic>YES</magic>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Fighter</name>
+    <name>Fighter (UA)</name>
     <!-- Fighter Subclass: Cavalier (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -43,7 +43,7 @@ Source:	Subclasses Update p. 3 (Unearthed Arcana)</text>
 Source:	Subclasses Update p. 3 (Unearthed Arcana)</text>
       </feature>
       <counter>
-        <name>Warding Maneuver</name>
+        <name>Warding Maneuver (UA)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Cavalier (UA)</subclass>

@@ -5,13 +5,13 @@
     <!-- Sorcerous Origin: Delerium Soul (HB) -->
     <autolevel level="1">
       <feature optional="YES">
-        <name>Sorcerous Origin: Delerium Soul (HB)</name>
+        <name>Sorcerous Origin: Delerium Soul (TP)</name>
         <text>Delerium is naturally drawn to magic and can twist and augment its presence in unnatural and unpredictable ways. Some who ventured into the ruins of Drakkenheim are twisted by the eldritch powers and emerge infused with contaminated energies. They become a living vessel for the Arcane Anomalies and twisting realities found within the ruins.
 
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 171 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Delerium Spells (Delerium Soul (HB))</name>
+        <name>Delerium Spells (Delerium Soul (TP))</name>
         <text>Imbued with the eldritch power of delerium, your magic is fundamentally contaminated. You learn additional spells when you reach certain levels in this class, as shown on the Delerium Spells table. Each of these spells counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells
 you know.
 	Whenever you gain a sorcerer level, you can replace one spell you gained from this feature with another spell of the same level. The new spell must be a contaminated spell.
@@ -27,7 +27,7 @@ Sorcerer Level | Spell
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 171 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Mutant Manifestation (Delerium Soul (HB))</name>
+        <name>Mutant Manifestation (Delerium Soul (TP))</name>
         <text>When you finish a long rest, you can choose to roll twice on the Mutations table, and must select one of the results. You gain that mutation, which remains until you finish a long rest, even if you don't currently have any contamination levels.
 
 Mutations Table:
@@ -63,7 +63,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 171 (Third Party)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Contaminated Sorcery (Delerium Soul (HB))</name>
+        <name>Contaminated Sorcery (Delerium Soul (TP))</name>
         <text>When you cast a contaminated spell, you can cast it by expending a spell slot as normal or by spending a number of sorcery points equal to the spell's level. If you cast the spell using sorcery points, you don't gain a Contamination Level by casting the spell, and if the spell requires delerium as a material component, it is not consumed by the spell. In addition, casting a contaminated spell in this manner immediately causes an Arcane Anomaly.
 
 Arcane Anomalies:
@@ -98,7 +98,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 171 (Third Party)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Incomprehensible Arcana (Delerium Soul (HB))</name>
+        <name>Incomprehensible Arcana (Delerium Soul (TP))</name>
         <text>You can tap into contaminated energy to cast a spell you do not know. You can cast any spell from any class spell list. The spell must be of a level for which you have spell slots, and you must expend a spell slot as normal. Casting the spell uses the spell's normal casting time, and if the spell has material components, you must provide those components as normal. As part of casting the spell, but before the spell takes effect, you gain a number of Contamination Levels equal to half the spell's level, rounded down (minimum of one). You can't prevent or reduce these Contamination Levels by any means, but you can remove them as normal.
 
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 171 (Third Party)</text>
@@ -106,13 +106,13 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 171 (Third Party)</text>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">
-        <name>Chaos Theory (Delerium Soul (HB))</name>
+        <name>Chaos Theory (Delerium Soul (TP))</name>
         <text>Once per turn when you make an attack roll, ability check, or saving throw, you can choose to trigger an Arcane Anomaly. If you do, you make that roll with advantage. You can use this feature a number of times equal to your Charisma modifier (minimum once). You regain all expended uses when you finish a long rest.
 
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 171 (Third Party)</text>
       </feature>
       <counter>
-        <name>Chaos Theory</name>
+        <name>Chaos Theory (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Delerium Soul (HB)</subclass>
@@ -120,43 +120,43 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 171 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Faerie Fire</name>
+    <name>Faerie Fire (TP)</name>
     <classes>Sorcerer (Delerium Soul (HB))</classes>
   </spell>
   <spell>
-    <name>Wall of Force</name>
+    <name>Wall of Force (TP)</name>
     <classes>Sorcerer (Delerium Soul (HB))</classes>
   </spell>
   <spell>
-    <name>Comet Shards (HB)</name>
+    <name>Comet Shards (TP)</name>
     <classes>Sorcerer (Delerium Soul (HB))</classes>
   </spell>
   <spell>
-    <name>Controlled Mutation (HB)</name>
+    <name>Controlled Mutation (TP)</name>
     <classes>Sorcerer (Delerium Soul (HB))</classes>
   </spell>
   <spell>
-    <name>Grasping Ghost (HB)</name>
+    <name>Grasping Ghost (TP)</name>
     <classes>Sorcerer (Delerium Soul (HB))</classes>
   </spell>
   <spell>
-    <name>Vanish to the Space Between Worlds (HB)</name>
+    <name>Vanish to the Space Between Worlds (TP)</name>
     <classes>Sorcerer (Delerium Soul (HB))</classes>
   </spell>
   <spell>
-    <name>Weave the Elder Sign (HB)</name>
+    <name>Weave the Elder Sign (TP)</name>
     <classes>Sorcerer (Delerium Soul (HB))</classes>
   </spell>
   <spell>
-    <name>Siphon Time (HB)</name>
+    <name>Siphon Time (TP)</name>
     <classes>Sorcerer (Delerium Soul (HB))</classes>
   </spell>
   <spell>
-    <name>Summon Delerium Elemental (HB)</name>
+    <name>Summon Delerium Elemental (TP)</name>
     <classes>Sorcerer (Delerium Soul (HB))</classes>
   </spell>
   <spell>
-    <name>Contaminated Hands (HB)</name>
+    <name>Contaminated Hands (TP)</name>
     <classes>Sorcerer (Delerium Soul (HB))</classes>
   </spell>
 </compendium>

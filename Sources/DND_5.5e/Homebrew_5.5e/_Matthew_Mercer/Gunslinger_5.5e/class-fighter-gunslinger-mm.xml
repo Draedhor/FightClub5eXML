@@ -14,19 +14,19 @@
 Source:	Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 1</text>
       </feature>
       <feature optional="YES">
-        <name>Firearm Proficiency (Gunslinger)</name>
+        <name>Firearm Proficiency (Gunslinger) (TP)</name>
         <text>Starting when you choose this archetype at 3rd level, you gain proficiency with firearms, allowing you to add your proficiency bonus to attacks made with firearms.
 
 Source:	Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
       </feature>
       <feature optional="YES">
-        <name>Gunsmith (Gunslinger)</name>
+        <name>Gunsmith (Gunslinger) (TP)</name>
         <text>Upon choosing this archetype at 3rd level, you gain proficiency with Tinker's Tools. You may use them to craft ammunition at half the cost, repair damaged firearms, or even draft and create new ones (DM's discretion). Some extremely experimental and intricate firearms are only available through crafting.
 
 Source:	Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
       </feature>
       <feature optional="YES">
-        <name>Adept Marksman (Gunslinger)</name>
+        <name>Adept Marksman (Gunslinger) (TP)</name>
         <text>When you choose this archetype at 3rd level, you learn to perform powerful trick shots to disable or damage your opponents using your firearms.
 
 	Trick Shots. You learn two trick shots of your choice, which are detailed in the "Fighter (Gunslinger): Trick Shots" spell list. Many maneuvers enhance an attack in some way. Each use of a trick shot must be declared before the attack roll is made. You can use only one trick shot per attack. You learn an additional trick shot of your choice at 7th, 10th, 15th, and 18th level. Each time you learn a new trick shot, you can also replace one trick shot you know with a different one.
@@ -42,7 +42,7 @@ Source:	Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Quickdraw (Gunslinger)</name>
+        <name>Quickdraw (Gunslinger) (TP)</name>
         <text>When you reach 7th level, you add your proficiency bonus to your initiative. You can also stow a firearm, then draw another firearm as a single object interaction on your turn.
 
 Source:	Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
@@ -51,7 +51,7 @@ Source:	Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Rapid Repair (Gunslinger)</name>
+        <name>Rapid Repair (Gunslinger) (TP)</name>
         <text>Upon reaching 10th level, you learn how to quickly attempt to fix a jammed gun. You can spend a grit point to attempt to repair a misfired (but not broken) firearm as a bonus action.
 
 Source:	Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
@@ -59,7 +59,7 @@ Source:	Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Lightning Reload (Gunslinger)</name>
+        <name>Lightning Reload (Gunslinger) (TP)</name>
         <text>Starting at 15th level, you can reload any firearm as a bonus action.
 
 Source:	Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
@@ -67,13 +67,13 @@ Source:	Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">
-        <name>Vicious Intent (Gunslinger)</name>
+        <name>Vicious Intent (Gunslinger) (TP)</name>
         <text>At 18th level, your firearm attacks score a critical hit on a roll of 19-20, and you regain a grit point on a roll of 19 or 20 on a d20 attack roll with a firearm.
 
 Source:	Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>
       </feature>
       <feature optional="YES">
-        <name>Hemorrhaging Critical (Gunslinger)</name>
+        <name>Hemorrhaging Critical (Gunslinger) (TP)</name>
         <text>Upon reaching 18th level, whenever you score a critical hit on an attack with a firearm, the target additionally suffers half of the damage from the attack at the end of its next turn.
 
 Source:	Matthew Mercer - Gunslinger Martial Archetype 1.3 p. 2</text>

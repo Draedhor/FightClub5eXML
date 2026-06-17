@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Radiant Club (UA) [2024]</name>
+    <name>Radiant Club (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -26,7 +26,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Dagger (UA) [2024]</name>
+    <name>Radiant Dagger (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -56,7 +56,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Greatclub (UA) [2024]</name>
+    <name>Radiant Greatclub (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -81,7 +81,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Handaxe (UA) [2024]</name>
+    <name>Radiant Handaxe (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -109,7 +109,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Javelin (UA) [2024]</name>
+    <name>Radiant Javelin (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -135,7 +135,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Light Hammer (UA) [2024]</name>
+    <name>Radiant Light Hammer (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -163,7 +163,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Mace (UA) [2024]</name>
+    <name>Radiant Mace (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -186,7 +186,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Quarterstaff (UA) [2024]</name>
+    <name>Radiant Quarterstaff (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -212,7 +212,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Sickle (UA) [2024]</name>
+    <name>Radiant Sickle (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -237,7 +237,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Spear (UA) [2024]</name>
+    <name>Radiant Spear (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -266,7 +266,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Dart (UA) [2024]</name>
+    <name>Radiant Dart (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -294,7 +294,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Light Crossbow (UA) [2024]</name>
+    <name>Radiant Light Crossbow (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -326,7 +326,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Shortbow (UA) [2024]</name>
+    <name>Radiant Shortbow (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -356,7 +356,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Sling (UA) [2024]</name>
+    <name>Radiant Sling (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -384,7 +384,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Battleaxe (UA) [2024]</name>
+    <name>Radiant Battleaxe (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -410,7 +410,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Flail (UA) [2024]</name>
+    <name>Radiant Flail (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -433,7 +433,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Glaive (UA) [2024]</name>
+    <name>Radiant Glaive (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -462,7 +462,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Greataxe (UA) [2024]</name>
+    <name>Radiant Greataxe (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -489,7 +489,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Greatsword (UA) [2024]</name>
+    <name>Radiant Greatsword (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -516,7 +516,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Halberd (UA) [2024]</name>
+    <name>Radiant Halberd (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -545,7 +545,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Lance (UA) [2024]</name>
+    <name>Radiant Lance (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -576,7 +576,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Longsword (UA) [2024]</name>
+    <name>Radiant Longsword (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -602,7 +602,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Maul (UA) [2024]</name>
+    <name>Radiant Maul (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -629,7 +629,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Morningstar (UA) [2024]</name>
+    <name>Radiant Morningstar (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -652,7 +652,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Pike (UA) [2024]</name>
+    <name>Radiant Pike (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -681,7 +681,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Rapier (UA) [2024]</name>
+    <name>Radiant Rapier (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -706,7 +706,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Scimitar (UA) [2024]</name>
+    <name>Radiant Scimitar (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -733,7 +733,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Shortsword (UA) [2024]</name>
+    <name>Radiant Shortsword (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -760,7 +760,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Trident (UA) [2024]</name>
+    <name>Radiant Trident (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -789,7 +789,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Warhammer (UA) [2024]</name>
+    <name>Radiant Warhammer (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -815,7 +815,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant War Pick (UA) [2024]</name>
+    <name>Radiant War Pick (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -841,7 +841,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Whip (UA) [2024]</name>
+    <name>Radiant Whip (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -868,7 +868,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Blowgun (UA) [2024]</name>
+    <name>Radiant Blowgun (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -898,7 +898,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Hand Crossbow (UA) [2024]</name>
+    <name>Radiant Hand Crossbow (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -930,7 +930,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Heavy Crossbow (UA) [2024]</name>
+    <name>Radiant Heavy Crossbow (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -964,7 +964,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Longbow (UA) [2024]</name>
+    <name>Radiant Longbow (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -996,7 +996,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Musket (UA) [2024]</name>
+    <name>Radiant Musket (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1028,7 +1028,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Pistol (UA) [2024]</name>
+    <name>Radiant Pistol (UA)</name>
     <detail>Rare (Requires Attunement by a Spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1057,7 +1057,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Staff (UA) [2024]</name>
+    <name>Radiant Staff (UA)</name>
     <detail>arcane focus, Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1083,7 +1083,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Radiant Wooden Staff (UA) [2024]</name>
+    <name>Radiant Wooden Staff (UA)</name>
     <detail>druidic focus, Rare (Requires Attunement by a Spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1109,7 +1109,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Repeating Shot Light Crossbow (UA) [2024]</name>
+    <name>Repeating Shot Light Crossbow (UA)</name>
     <detail>Uncommon (Requires Attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1140,7 +1140,7 @@ Source:	UA2024-Artificer p. 14,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Repeating Shot Shortbow (UA) [2024]</name>
+    <name>Repeating Shot Shortbow (UA)</name>
     <detail>Uncommon (Requires Attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1169,7 +1169,7 @@ Source:	UA2024-Artificer p. 14,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Repeating Shot Sling (UA) [2024]</name>
+    <name>Repeating Shot Sling (UA)</name>
     <detail>Uncommon (Requires Attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1196,7 +1196,7 @@ Source:	UA2024-Artificer p. 14,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Repeating Shot Blowgun (UA) [2024]</name>
+    <name>Repeating Shot Blowgun (UA)</name>
     <detail>Uncommon (Requires Attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1225,7 +1225,7 @@ Source:	UA2024-Artificer p. 14,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Repeating Shot Hand Crossbow (UA) [2024]</name>
+    <name>Repeating Shot Hand Crossbow (UA)</name>
     <detail>Uncommon (Requires Attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1256,7 +1256,7 @@ Source:	UA2024-Artificer p. 14,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Repeating Shot Heavy Crossbow (UA) [2024]</name>
+    <name>Repeating Shot Heavy Crossbow (UA)</name>
     <detail>Uncommon (Requires Attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1289,7 +1289,7 @@ Source:	UA2024-Artificer p. 14,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Repeating Shot Longbow (UA) [2024]</name>
+    <name>Repeating Shot Longbow (UA)</name>
     <detail>Uncommon (Requires Attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1320,7 +1320,7 @@ Source:	UA2024-Artificer p. 14,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Repeating Shot Musket (UA) [2024]</name>
+    <name>Repeating Shot Musket (UA)</name>
     <detail>Uncommon (Requires Attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1351,7 +1351,7 @@ Source:	UA2024-Artificer p. 14,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Repeating Shot Pistol (UA) [2024]</name>
+    <name>Repeating Shot Pistol (UA)</name>
     <detail>Uncommon (Requires Attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1379,7 +1379,7 @@ Source:	UA2024-Artificer p. 14,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Returning Dagger (UA) [2024]</name>
+    <name>Returning Dagger (UA)</name>
     <detail>Uncommon (Requires Attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1406,7 +1406,7 @@ Source:	UA2024-Artificer p. 14,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Returning Handaxe (UA) [2024]</name>
+    <name>Returning Handaxe (UA)</name>
     <detail>Uncommon (Requires Attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1431,7 +1431,7 @@ Source:	UA2024-Artificer p. 14,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Returning Javelin (UA) [2024]</name>
+    <name>Returning Javelin (UA)</name>
     <detail>Uncommon (Requires Attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1454,7 +1454,7 @@ Source:	UA2024-Artificer p. 14,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Returning Light Hammer (UA) [2024]</name>
+    <name>Returning Light Hammer (UA)</name>
     <detail>Uncommon (Requires Attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1479,7 +1479,7 @@ Source:	UA2024-Artificer p. 14,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Returning Spear (UA) [2024]</name>
+    <name>Returning Spear (UA)</name>
     <detail>Uncommon (Requires Attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1505,7 +1505,7 @@ Source:	UA2024-Artificer p. 14,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Returning Dart (UA) [2024]</name>
+    <name>Returning Dart (UA)</name>
     <detail>Uncommon (Requires Attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1530,7 +1530,7 @@ Source:	UA2024-Artificer p. 14,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Returning Trident (UA) [2024]</name>
+    <name>Returning Trident (UA)</name>
     <detail>Uncommon (Requires Attunement)</detail>
     <type>M</type>
     <magic>YES</magic>

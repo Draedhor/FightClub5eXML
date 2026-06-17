@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Paladin [5.5e]</name>
+    <name>Paladin</name>
     <!-- Paladin Subclass: Oath of the Hospitaller (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Paladin Subclass: Oath of the Hospitaller (HB)</name>
+        <name>Paladin Subclass: Oath of the Hospitaller (TP)</name>
         <text>Heal the sick and protect the weak
 
 "Mercy and might are brothers, and I wield them both. To defend, to heal, to endure—I shall fail neither my god nor my sword."
@@ -24,13 +24,13 @@ Hospitallers, a religious military order that was founded at Jerusalem in the 11
 Source:	Old World's Might - Subclasses from Old Europe p. 41 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Protective Ward (Oath of the Hospitaller (HB))</name>
+        <name>Protective Ward (Oath of the Hospitaller (TP))</name>
         <text>As a Reaction, you expend one use of your Channel Divinity to grant to a creature that you can see within 30 feet of you a +5 bonus to its AC until the start of your next turn.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 41 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Oath of the Hospitaller Spells (Oath of the Hospitaller (HB))</name>
+        <name>Oath of the Hospitaller Spells (Oath of the Hospitaller (TP))</name>
         <text>The magic of your Oath ensures you always have certain spells ready. When you reach a Paladin level specified in the table below, you thereafter always have the listed spells prepared.
 
 Oath of the Hospitaller Spells:
@@ -46,7 +46,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 41 (Homebrew)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Aura of Compassion (Oath of the Hospitaller (HB))</name>
+        <name>Aura of Compassion (Oath of the Hospitaller (TP))</name>
         <text>Within your Aura of Protection, you and your allies regain additional Hit Points equal to your Charisma modifier whenever you receive magical healing.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 41 (Homebrew)</text>
@@ -54,7 +54,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 41 (Homebrew)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Hospitaller's Grace (Oath of the Hospitaller (HB))</name>
+        <name>Hospitaller's Grace (Oath of the Hospitaller (TP))</name>
         <text>You gain immunity to Poison damage, the Poisoned condition, and to disease.
 Additionally, whenever you restore Hit Points to a creature with spells or features, you can also remove one condition.
 
@@ -63,7 +63,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 41 (Homebrew)</text>
     </autolevel>
     <autolevel level="20">
       <feature optional="YES">
-        <name>Level 20: Beacon of Hope (Oath of the Hospitaller (HB))</name>
+        <name>Beacon of Hope (Oath of the Hospitaller (TP))</name>
         <text>Within your Aura of Protection, you and your allies regain 10 Hit Points up to your maximum at the start of each of your turns, and Hostile creatures have Disadvantage on any Test.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 41 (Homebrew)</text>
@@ -72,7 +72,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 41 (Homebrew)</text>
     <!-- Paladin Subclass: Oath of the Round Table (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Paladin Subclass: Oath of the Round Table (HB)</name>
+        <name>Paladin Subclass: Oath of the Round Table (TP)</name>
         <text>Follow duty and honor to protect the innocent
 
 "Honor is not a gift bestowed, but a burden carried. Let my blade serve the worthy and strike down the false."
@@ -92,14 +92,14 @@ The Knights of the Round Table are characters in the legends about King Arthur. 
 Source:	Old World's Might - Subclasses from Old Europe p. 39 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Smite the Tyrant (Oath of the Round Table (HB))</name>
+        <name>Smite the Tyrant (Oath of the Round Table (TP))</name>
         <text>When you make a successful melee weapon attack, you use a Bonus Action to expend a use of your Channel Divinity to deal an additional 3d10 Radiant damage.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 39 (Homebrew)</text>
         <roll description="Radiant Damage">3d10</roll>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Oath of the Round Table Spells (Oath of the Round Table (HB))</name>
+        <name>Oath of the Round Table Spells (Oath of the Round Table (TP))</name>
         <text>The magic of your Oath ensures you always have certain spells ready. When you reach a Paladin level specified in the table below, you thereafter always have the listed spells prepared.
 
 Oath of the Round Table Spells:
@@ -115,7 +115,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 39 (Homebrew)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Aura of Nobility (Oath of the Round Table (HB))</name>
+        <name>Aura of Nobility (Oath of the Round Table (TP))</name>
         <text>While in your Aura of Protection, you and your allies have Advantage on saving throws against the Frightened or Blinded condition.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 39 (Homebrew)</text>
@@ -123,14 +123,14 @@ Source:	Old World's Might - Subclasses from Old Europe p. 39 (Homebrew)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Knight's Resolve (Oath of the Round Table (HB))</name>
+        <name>Knight's Resolve (Oath of the Round Table (TP))</name>
         <text>You are Immune to the Stunned and Paralyzed conditions, and when you make a death saving throw, you can choose to automatically roll a 20.
 	Once you use this feature, you can't use it again until you finish a Long Rest.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 39 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Knight's Resolve</name>
+        <name>Knight's Resolve (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Oath of the Round Table (HB)</subclass>
@@ -138,7 +138,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 39 (Homebrew)</text>
     </autolevel>
     <autolevel level="20">
       <feature optional="YES">
-        <name>Level 20: King's Champion (Oath of the Round Table (HB))</name>
+        <name>King's Champion (Oath of the Round Table (TP))</name>
         <text>As a Bonus Action you and your allies within your Aura of Protection have Advantage on any Test.
 	Additionally, you can make one additional attack when you take the Attack Action.
 
@@ -148,7 +148,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 39 (Homebrew)</text>
     <!-- Paladin Subclass: Oath of the Templar (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Paladin Subclass: Oath of the Templar (HB)</name>
+        <name>Paladin Subclass: Oath of the Templar (TP)</name>
         <text>Defend the church and the faithful
 
 "Non Nobis Domine
@@ -172,7 +172,7 @@ Templar, member of the Poor Knights of Christ and of the Temple of Solomon, a re
 Source:	Old World's Might - Subclasses from Old Europe p. 37 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Oath of the Templar Spells (Oath of the Templar (HB))</name>
+        <name>Oath of the Templar Spells (Oath of the Templar (TP))</name>
         <text>The magic of your Oath ensures you always have certain spells ready. When you reach a Paladin level specified in the table below, you thereafter always have the listed spells prepared.
 
 Oath of the Templar Spells:
@@ -186,7 +186,7 @@ Paladin Level | Spells
 Source:	Old World's Might - Subclasses from Old Europe p. 37 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Divine Bulwark (Oath of the Templar (HB))</name>
+        <name>Divine Bulwark (Oath of the Templar (TP))</name>
         <text>As a Bonus Action, you present your Holy Symbol and expend one use of your Channel Divinity to grant all creatures of your choice within 10 feet of you Temporary Hit Points equal to your Paladin level + your Charisma modifier.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 37 (Homebrew)</text>
@@ -194,7 +194,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 37 (Homebrew)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Aura of Conviction (Oath of the Templar (HB))</name>
+        <name>Aura of Conviction (Oath of the Templar (TP))</name>
         <text>While in your Aura of Protection, you and your allies have Advantage on saving throws against the Frightened or Charmed condition.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 37 (Homebrew)</text>
@@ -202,7 +202,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 37 (Homebrew)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Sanctified Armaments (Oath of the Templar (HB))</name>
+        <name>Sanctified Armaments (Oath of the Templar (TP))</name>
         <text>Your attacks cause Radiant or Force damage (your choice) instead of the normal damage they would cause. In addition, your weapon attacks deal an extra 1d8 Radiant damage.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 38 (Homebrew)</text>
@@ -211,7 +211,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 38 (Homebrew)</text>
     </autolevel>
     <autolevel level="20">
       <feature optional="YES">
-        <name>Level 20: Divine Champion (Oath of the Templar (HB))</name>
+        <name>Divine Champion (Oath of the Templar (TP))</name>
         <text>You gain resistance to all types of damage from Fiends and Undead.
 	Additionally, as a Magic Action, you can unleash a burst of radiant energy, forcing all creatures of your choice within 30 feet to make a Constitution saving throw against your spell save DC. Failure: 6d10 Radiant damage and Blinded condition until the end of your next turn. Success: Half damage.
 	You can use this feature twice, and you regain all expended uses when you finish a Long Rest.
@@ -220,7 +220,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 38 (Homebrew)</text>
         <roll description="Radiant Damage">6d10</roll>
       </feature>
       <counter>
-        <name>Divine Champion</name>
+        <name>Divine Champion (TP)</name>
         <value>2</value>
         <reset>L</reset>
         <subclass>Oath of the Templar (HB)</subclass>
@@ -229,7 +229,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 38 (Homebrew)</text>
     <!-- Paladin Subclass: Oath of the Varangian Guard (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Paladin Subclass: Oath of the Varangian Guard (HB)</name>
+        <name>Paladin Subclass: Oath of the Varangian Guard (TP)</name>
         <text>Protect your liege even with death
 
 "I am not of this land, but my oath binds me more than blood ever could. I stand, I fight, I do not falter"
@@ -248,13 +248,13 @@ The Varangian Guard was a most modern phenomenon; an international mercenary gro
 Source:	Old World's Might - Subclasses from Old Europe p. 40 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Battle Cry (Oath of the Varangian Guard (HB))</name>
+        <name>Battle Cry (Oath of the Varangian Guard (TP))</name>
         <text>As a Bonus Action, you expend one use of your Channel Divinity to grant to each creature of your choice that you can see within 30 feet Advantage on a Test of their choice within 1 minute.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 40 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Oath of the Varangian Guard Spells (Oath of the Varangian Guard (HB))</name>
+        <name>Oath of the Varangian Guard Spells (Oath of the Varangian Guard (TP))</name>
         <text>The magic of your Oath ensures you always have certain spells ready. When you reach a Paladin level specified in the table below, you thereafter always have the listed spells prepared.
 
 Oath of the Varangian Guard Spells:
@@ -270,7 +270,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 40 (Homebrew)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Aura of Vigilance (Oath of the Varangian Guard (HB))</name>
+        <name>Aura of Vigilance (Oath of the Varangian Guard (TP))</name>
         <text>While in your Aura of Protection, you and your allies have Advantage on Initiative rolls.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 40 (Homebrew)</text>
@@ -278,7 +278,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 40 (Homebrew)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Unyielding Defender (Oath of the Varangian Guard (HB))</name>
+        <name>Unyielding Defender (Oath of the Varangian Guard (TP))</name>
         <text>You gain Resistance to Bludgeoning, Piercing, and Slashing damage.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 40 (Homebrew)</text>
@@ -286,7 +286,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 40 (Homebrew)</text>
     </autolevel>
     <autolevel level="20">
       <feature optional="YES">
-        <name>Level 20: Vanguard's Wrath (Oath of the Varangian Guard (HB))</name>
+        <name>Vanguard's Wrath (Oath of the Varangian Guard (TP))</name>
         <text>As a Bonus Action, for 1 minute, you can enter a battle frenzy. During this time, you have Advantage on all attack rolls, and Hostile creatures within your Aura of Protection take 2d8 Radiant damage at the start of each of their next turns.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 40 (Homebrew)</text>
@@ -295,139 +295,139 @@ Source:	Old World's Might - Subclasses from Old Europe p. 40 (Homebrew)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Shield of Faith</name>
-    <classes>Paladin [5.5e] (Oath of the Templar (HB)), Paladin [5.5e] (Oath of the Varangian Guard (HB))</classes>
+    <name>Shield of Faith (TP)</name>
+    <classes>Paladin (Oath of the Templar (HB)), Paladin (Oath of the Varangian Guard (HB))</classes>
   </spell>
   <spell>
-    <name>Compelled Duel</name>
-    <classes>Paladin [5.5e] (Oath of the Templar (HB))</classes>
+    <name>Compelled Duel (TP)</name>
+    <classes>Paladin (Oath of the Templar (HB))</classes>
   </spell>
   <spell>
-    <name>Zone of Truth</name>
-    <classes>Paladin [5.5e] (Oath of the Templar (HB))</classes>
+    <name>Zone of Truth (TP)</name>
+    <classes>Paladin (Oath of the Templar (HB))</classes>
   </spell>
   <spell>
-    <name>Spiritual Weapon</name>
-    <classes>Paladin [5.5e] (Oath of the Templar (HB))</classes>
+    <name>Spiritual Weapon (TP)</name>
+    <classes>Paladin (Oath of the Templar (HB))</classes>
   </spell>
   <spell>
-    <name>Crusader's Mantle</name>
-    <classes>Paladin [5.5e] (Oath of the Templar (HB)), Paladin [5.5e] (Oath of the Varangian Guard (HB))</classes>
+    <name>Crusader's Mantle (TP)</name>
+    <classes>Paladin (Oath of the Templar (HB)), Paladin (Oath of the Varangian Guard (HB))</classes>
   </spell>
   <spell>
-    <name>Spirit Guardians</name>
-    <classes>Paladin [5.5e] (Oath of the Templar (HB))</classes>
+    <name>Spirit Guardians (TP)</name>
+    <classes>Paladin (Oath of the Templar (HB))</classes>
   </spell>
   <spell>
-    <name>Guardian of Faith</name>
-    <classes>Paladin [5.5e] (Oath of the Templar (HB)), Paladin [5.5e] (Oath of the Hospitaller (HB))</classes>
+    <name>Guardian of Faith (TP)</name>
+    <classes>Paladin (Oath of the Templar (HB)), Paladin (Oath of the Hospitaller (HB))</classes>
   </spell>
   <spell>
-    <name>Death Ward</name>
-    <classes>Paladin [5.5e] (Oath of the Templar (HB))</classes>
+    <name>Death Ward (TP)</name>
+    <classes>Paladin (Oath of the Templar (HB))</classes>
   </spell>
   <spell>
-    <name>Holy Weapon</name>
-    <classes>Paladin [5.5e] (Oath of the Templar (HB))</classes>
+    <name>Holy Weapon (TP)</name>
+    <classes>Paladin (Oath of the Templar (HB))</classes>
   </spell>
   <spell>
-    <name>Dispel Evil and Good</name>
-    <classes>Paladin [5.5e] (Oath of the Templar (HB))</classes>
+    <name>Dispel Evil and Good (TP)</name>
+    <classes>Paladin (Oath of the Templar (HB))</classes>
   </spell>
   <spell>
-    <name>Command</name>
-    <classes>Paladin [5.5e] (Oath of the Varangian Guard (HB))</classes>
+    <name>Command (TP)</name>
+    <classes>Paladin (Oath of the Varangian Guard (HB))</classes>
   </spell>
   <spell>
-    <name>Misty Step</name>
-    <classes>Paladin [5.5e] (Oath of the Varangian Guard (HB))</classes>
+    <name>Misty Step (TP)</name>
+    <classes>Paladin (Oath of the Varangian Guard (HB))</classes>
   </spell>
   <spell>
-    <name>Branding Smite</name>
-    <classes>Paladin [5.5e] (Oath of the Varangian Guard (HB))</classes>
+    <name>Branding Smite (TP)</name>
+    <classes>Paladin (Oath of the Varangian Guard (HB))</classes>
   </spell>
   <spell>
-    <name>Aura of Vitality</name>
-    <classes>Paladin [5.5e] (Oath of the Varangian Guard (HB)), Paladin [5.5e] (Oath of the Hospitaller (HB))</classes>
+    <name>Aura of Vitality (TP)</name>
+    <classes>Paladin (Oath of the Varangian Guard (HB)), Paladin (Oath of the Hospitaller (HB))</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement</name>
-    <classes>Paladin [5.5e] (Oath of the Varangian Guard (HB)), Paladin [5.5e] (Oath of the Round Table (HB))</classes>
+    <name>Freedom of Movement (TP)</name>
+    <classes>Paladin (Oath of the Varangian Guard (HB)), Paladin (Oath of the Round Table (HB))</classes>
   </spell>
   <spell>
-    <name>Stoneskin</name>
-    <classes>Paladin [5.5e] (Oath of the Varangian Guard (HB))</classes>
+    <name>Stoneskin (TP)</name>
+    <classes>Paladin (Oath of the Varangian Guard (HB))</classes>
   </spell>
   <spell>
-    <name>Banishing Smite</name>
-    <classes>Paladin [5.5e] (Oath of the Varangian Guard (HB)), Paladin [5.5e] (Oath of the Round Table (HB))</classes>
+    <name>Banishing Smite (TP)</name>
+    <classes>Paladin (Oath of the Varangian Guard (HB)), Paladin (Oath of the Round Table (HB))</classes>
   </spell>
   <spell>
-    <name>Wall of Force</name>
-    <classes>Paladin [5.5e] (Oath of the Varangian Guard (HB))</classes>
+    <name>Wall of Force (TP)</name>
+    <classes>Paladin (Oath of the Varangian Guard (HB))</classes>
   </spell>
   <spell>
-    <name>Cure Wounds</name>
-    <classes>Paladin [5.5e] (Oath of the Hospitaller (HB))</classes>
+    <name>Cure Wounds (TP)</name>
+    <classes>Paladin (Oath of the Hospitaller (HB))</classes>
   </spell>
   <spell>
-    <name>Bless</name>
-    <classes>Paladin [5.5e] (Oath of the Hospitaller (HB))</classes>
+    <name>Bless (TP)</name>
+    <classes>Paladin (Oath of the Hospitaller (HB))</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration</name>
-    <classes>Paladin [5.5e] (Oath of the Hospitaller (HB))</classes>
+    <name>Lesser Restoration (TP)</name>
+    <classes>Paladin (Oath of the Hospitaller (HB))</classes>
   </spell>
   <spell>
-    <name>Prayer of Healing</name>
-    <classes>Paladin [5.5e] (Oath of the Hospitaller (HB))</classes>
+    <name>Prayer of Healing (TP)</name>
+    <classes>Paladin (Oath of the Hospitaller (HB))</classes>
   </spell>
   <spell>
-    <name>Revivify</name>
-    <classes>Paladin [5.5e] (Oath of the Hospitaller (HB))</classes>
+    <name>Revivify (TP)</name>
+    <classes>Paladin (Oath of the Hospitaller (HB))</classes>
   </spell>
   <spell>
-    <name>Aura of Life</name>
-    <classes>Paladin [5.5e] (Oath of the Hospitaller (HB))</classes>
+    <name>Aura of Life (TP)</name>
+    <classes>Paladin (Oath of the Hospitaller (HB))</classes>
   </spell>
   <spell>
-    <name>Mass Cure Wounds</name>
-    <classes>Paladin [5.5e] (Oath of the Hospitaller (HB))</classes>
+    <name>Mass Cure Wounds (TP)</name>
+    <classes>Paladin (Oath of the Hospitaller (HB))</classes>
   </spell>
   <spell>
-    <name>Raise Dead</name>
-    <classes>Paladin [5.5e] (Oath of the Hospitaller (HB))</classes>
+    <name>Raise Dead (TP)</name>
+    <classes>Paladin (Oath of the Hospitaller (HB))</classes>
   </spell>
   <spell>
-    <name>Heroism</name>
-    <classes>Paladin [5.5e] (Oath of the Round Table (HB))</classes>
+    <name>Heroism (TP)</name>
+    <classes>Paladin (Oath of the Round Table (HB))</classes>
   </spell>
   <spell>
-    <name>Sanctuary</name>
-    <classes>Paladin [5.5e] (Oath of the Round Table (HB))</classes>
+    <name>Sanctuary (TP)</name>
+    <classes>Paladin (Oath of the Round Table (HB))</classes>
   </spell>
   <spell>
-    <name>Enhance Ability</name>
-    <classes>Paladin [5.5e] (Oath of the Round Table (HB))</classes>
+    <name>Enhance Ability (TP)</name>
+    <classes>Paladin (Oath of the Round Table (HB))</classes>
   </spell>
   <spell>
-    <name>Warding Bond</name>
-    <classes>Paladin [5.5e] (Oath of the Round Table (HB))</classes>
+    <name>Warding Bond (TP)</name>
+    <classes>Paladin (Oath of the Round Table (HB))</classes>
   </spell>
   <spell>
-    <name>Beacon of Hope</name>
-    <classes>Paladin [5.5e] (Oath of the Round Table (HB))</classes>
+    <name>Beacon of Hope (TP)</name>
+    <classes>Paladin (Oath of the Round Table (HB))</classes>
   </spell>
   <spell>
-    <name>Daylight</name>
-    <classes>Paladin [5.5e] (Oath of the Round Table (HB))</classes>
+    <name>Daylight (TP)</name>
+    <classes>Paladin (Oath of the Round Table (HB))</classes>
   </spell>
   <spell>
-    <name>Aura of Purity</name>
-    <classes>Paladin [5.5e] (Oath of the Round Table (HB))</classes>
+    <name>Aura of Purity (TP)</name>
+    <classes>Paladin (Oath of the Round Table (HB))</classes>
   </spell>
   <spell>
-    <name>Greater Restoration</name>
-    <classes>Paladin [5.5e] (Oath of the Round Table (HB))</classes>
+    <name>Greater Restoration (TP)</name>
+    <classes>Paladin (Oath of the Round Table (HB))</classes>
   </spell>
 </compendium>

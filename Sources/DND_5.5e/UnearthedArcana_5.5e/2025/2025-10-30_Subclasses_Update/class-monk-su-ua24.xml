@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Monk</name>
+    <name>Monk (UA)</name>
     <!-- Monk Subclass: Warrior of Intoxication (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -55,7 +55,7 @@ Source:	Subclasses Update p. 4 (Unearthed Arcana)</text>
 Source:	Subclasses Update p. 4 (Unearthed Arcana)</text>
       </feature>
       <counter>
-        <name>Mystic Brew</name>
+        <name>Mystic Brew (UA)</name>
         <value>1</value>
         <reset>S</reset>
         <subclass>Warrior of Intoxication (UA)</subclass>

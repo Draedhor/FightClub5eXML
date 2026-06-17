@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Rogue</name>
+    <name>Rogue (UA)</name>
     <!-- Rogue Subclass: Magic Stealer (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -25,7 +25,7 @@ Source:	Mystic Subclasses p. 4 (Unearthed Arcana)</text>
 Source:	Mystic Subclasses p. 4 (Unearthed Arcana)</text>
       </feature>
       <counter>
-        <name>Empower Sneak Attack</name>
+        <name>Empower Sneak Attack (UA)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Magic Stealer (UA)</subclass>

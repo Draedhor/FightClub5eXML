@@ -4,7 +4,7 @@
     <name>Fighter</name>
     <autolevel level="3">
       <feature optional="YES">
-        <name>Veilmark Information (Zamanora)</name>
+        <name>Veilmark Information (Zamanora) (TP)</name>
         <text>It is said that trespassing upon the spirit world leaves a tangible brand on one's body and soul. Mortals should never peer beyond the Veil, lest the spirits take notice and mark them forevermore. Let a marked person into your home and you invite certain calamity. The lands of Zamanora are riddled with such fiction and cautionary tales that only work to paint those who are inquisitive in a bad light. Yet they are right about one thing; someone who interacts with the Hidden World too often is bound to be "marked".
 
 As characters engage in encounters with curses, spirits, and other supernatural phenomena, they accrue Veilmark. This attribute reflects their growing connection to the spirit realm and the transformative effects of these experiences on their physical and spiritual selves. Veilmarked is the term used by the Zamanori to describe individuals who have thus changed, and denotes characters who have accrued enough Veilmark to cross a threshold. If playing in a different setting, you may use the broader term Aura to describe the system.
@@ -126,20 +126,20 @@ Source:	Zamanora: Ballad of the Witch p. 120 (Homebrew)</text>
     <!-- Fighter Subclass: Bogatyr (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Fighter Subclass: Bogatyr (HB)</name>
+        <name>Fighter Subclass: Bogatyr (TP)</name>
         <text>When ordinary men and women rise above their station to take matters into their own hands, the greatest of poems are composed. The Bogatyri are mighty and dauntless warriors who emerge from the ranks of the common folk in times of great need, to shield their societies from otherworldly menaces and disperse the encroaching darkness that threatens to engulf them. A true folk hero, the Bogatyr courageously pits their wit and brawn against the most formidable of foes, not for the promise of wealth or glory, but merely to answer the call of necessity.
 
 Source:	Zamanora: Ballad of the Witch p. 80 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Protector of the People (Bogatyr (HB))</name>
+        <name>Protector of the People (Bogatyr (TP))</name>
         <text>In the face of peril, you become fearless and inspire others to follow your example. Whenever you use your Second Wind feature, you and a number of allies (according to the spell's level) within 30 feet of you also gain the effects of the Heroism spell for the next minute. You use your Strength modifier as the spellcasting ability modifier for this spell, and its spell level is always equal to your Proficiency Bonus.
 	At 18th level, the effects of this feature provide twice the amount of Hit Points to each creature they affect.
 
 Source:	Zamanora: Ballad of the Witch p. 81 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Working Class Hero (Bogatyr (HB))</name>
+        <name>Working Class Hero (Bogatyr (TP))</name>
         <text>You gain proficiency with one type of Artisan's Tools of your choice. If you choose a type of Artisan's Tools with which you already have proficiency, you gain Expertise with those tools.
 
 Source:	Zamanora: Ballad of the Witch p. 81 (Homebrew)</text>
@@ -147,7 +147,7 @@ Source:	Zamanora: Ballad of the Witch p. 81 (Homebrew)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Slayer of Horrors (Bogatyr (HB))</name>
+        <name>Slayer of Horrors (Bogatyr (TP))</name>
         <text>You grow adept in vanquishing the enemies of mortalkind. The first successful attack you make through the additional Action granted by your Action Surge feature against a creature that is not Humanoid or Beast, is automatically treated as a Critical Hit.
 
 Source:	Zamanora: Ballad of the Witch p. 81 (Homebrew)</text>
@@ -155,7 +155,7 @@ Source:	Zamanora: Ballad of the Witch p. 81 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Veteran's Wit (Bogatyr (HB))</name>
+        <name>Veteran's Wit (Bogatyr (TP))</name>
         <text>Your experience in lethal combat allows you to assess every situation with wisdom. While you have Disadvantage on attack rolls against every creature within your reach, you can take the Dodge Action as a Bonus Action. In addition, when an enemy within your reach misses you with an attack while you are under the effects of the Dodge Action, you can use your Reaction to make an Opportunity Attack against them.
 
 Source:	Zamanora: Ballad of the Witch p. 81 (Homebrew)</text>
@@ -163,7 +163,7 @@ Source:	Zamanora: Ballad of the Witch p. 81 (Homebrew)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Unwavering Stand (Bogatyr (HB))</name>
+        <name>Unwavering Stand (Bogatyr (TP))</name>
         <text>In spite of the wounds you have sustained, you stubbornly refuse to fall, as you have become a true testament to mortal resilience. When you are reduced to 0 Hit Points due to taking damage but not killed outright, you can spend one or more of your available Hit Dice and roll them without spending an Action. You may choose to spend additional Hit Dice after the roll, adding their results to the total. If the total is equal to or higher than the amount of damage you took in this single instance, you instead drop to 1 Hit Point instead.
 
 Source:	Zamanora: Ballad of the Witch p. 81 (Homebrew)</text>
@@ -172,19 +172,19 @@ Source:	Zamanora: Ballad of the Witch p. 81 (Homebrew)</text>
     <!-- Fighter Subclass: Witch Knight (Zamanora) (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Fighter Subclass: Witch Knight (Zamanora) (HB)</name>
+        <name>Fighter Subclass: Witch Knight (Zamanora) (TP)</name>
         <text>Often witnessed on the fringes of civilization, where dark magic and nightmarish beasts run rampant, Witch Knights are formidable warriors who pit steel against sorcery with astonishing results. These mystical warriors are frequently imbued with protective enchantments by powerful spellcasters, acting as their loyal agents and bodyguards. In other instances, Witch Knights gain their supernatural abilities through sheer will and resilience, forged in the crucible of harrowing encounters with malevolent spirits and occult rituals. Regardless of their origin, few can match their ability to nullify the presence of magic.
 
 Source:	Zamanora: Ballad of the Witch p. 82 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Studied Blade (Witch Knight (Zamanora) (HB))</name>
+        <name>Studied Blade (Witch Knight (Zamanora) (TP))</name>
         <text>You learn how to combat the arcane and its progeny. You become proficient in Intelligence (Arcana) if you are not already. Furthermore, creatures that cast spells while within your reach, provoke Opportunity Attacks from you.
 
 Source:	Zamanora: Ballad of the Witch p. 83 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Spell Ward (Witch Knight (Zamanora) (HB))</name>
+        <name>Spell Ward (Witch Knight (Zamanora) (TP))</name>
         <text>Your skin becomes resistant to the effects of devastating magic. You gain Resistance to damage from spells and other magical effects. In addition, at 6th level, you gain proficiency in either Intelligence, Wisdom, or Charisma saving throws (your choice).
 
 Source:	Zamanora: Ballad of the Witch p. 83 (Homebrew)</text>
@@ -192,7 +192,7 @@ Source:	Zamanora: Ballad of the Witch p. 83 (Homebrew)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Weave Cleaver (Witch Knight (Zamanora) (HB))</name>
+        <name>Weave Cleaver (Witch Knight (Zamanora) (TP))</name>
         <text>You gain the ability to tear magic asunder. Once per turn, when you hit a target with your weapon, you can cast the Dispel Magic spell as part of the attack, using your attack modifier for the check. Similarly, when a creature within 60 feet of you casts a spell, you can use your Reaction to cast the Counterspell spell. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses of this ability when you finish a Long Rest.
 
 Source:	Zamanora: Ballad of the Witch p. 83 (Homebrew)</text>
@@ -200,7 +200,7 @@ Source:	Zamanora: Ballad of the Witch p. 83 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Spellbound Infusion (Witch Knight (Zamanora) (HB))</name>
+        <name>Spellbound Infusion (Witch Knight (Zamanora) (TP))</name>
         <text>When the adrenaline flows, your body can use spells to push itself further. When you successfully save against a spell or other magical effect during an encounter, you regain a usage of your Action Surge. You can use this feature once per day.
 
 Source:	Zamanora: Ballad of the Witch p. 83 (Homebrew)</text>
@@ -208,7 +208,7 @@ Source:	Zamanora: Ballad of the Witch p. 83 (Homebrew)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Witch Knight Ascension (Witch Knight (Zamanora) (HB))</name>
+        <name>Witch Knight Ascension (Witch Knight (Zamanora) (TP))</name>
         <text>Your adeptness to combat spells reaches new heights. You always add your Proficiency Bonus on saving throws against spells and other magical effects, and you are always under the effects of the Nondetection spell. Finally, when you successfully use Weave Cleaver to counter a spell that targets a single creature, you can choose to reflect the effect back to its caster. The caster must make a saving throw against their own spell save DC. On a failed save, they suffer the effects of their spell as if they were the original target.
 
 Source:	Zamanora: Ballad of the Witch p. 83 (Homebrew)</text>
@@ -216,14 +216,14 @@ Source:	Zamanora: Ballad of the Witch p. 83 (Homebrew)</text>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">
-        <name>Disjunction Strike (Witch Knight (Zamanora) (HB))</name>
+        <name>Disjunction Strike (Witch Knight (Zamanora) (TP))</name>
         <text>You can temporarily sever a spellcaster's connection to magic. Once per turn, when you hit a target with your weapon, you can force them to make a Concentration check against a DC of 10 or half the damage they take (whichever number is higher). On failure, the target cannot cast spells until the end of their next turn.
 	You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses of this ability when you finish a Long Rest.
 
 Source:	Zamanora: Ballad of the Witch p. 83 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Disjunction Strike</name>
+        <name>Disjunction Strike (TP)</name>
         <value>6</value>
         <reset>L</reset>
         <subclass>Witch Knight (Zamanora) (HB)</subclass>

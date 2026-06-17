@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Monk</name>
+    <name>Monk (UA)</name>
     <!-- Monk Subclass: Warrior of the Mystic Arts (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -35,7 +35,7 @@ Source:	Mystic Subclasses p. 1 (Unearthed Arcana)</text>
 Source:	Mystic Subclasses p. 1 (Unearthed Arcana)</text>
       </feature>
       <counter>
-        <name>Spells Prepared</name>
+        <name>Spells Prepared (UA)</name>
         <value>3</value>
         <reset>L</reset>
         <subclass>Warrior of the Mystic Arts (UA)</subclass>
@@ -43,7 +43,7 @@ Source:	Mystic Subclasses p. 1 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="4">
       <counter>
-        <name>Spells Prepared</name>
+        <name>Spells Prepared (UA)</name>
         <value>4</value>
         <reset>L</reset>
         <subclass>Warrior of the Mystic Arts (UA)</subclass>
@@ -76,7 +76,7 @@ Source:	Mystic Subclasses p. 2 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="7">
       <counter>
-        <name>Spells Prepared</name>
+        <name>Spells Prepared (UA)</name>
         <value>5</value>
         <reset>L</reset>
         <subclass>Warrior of the Mystic Arts (UA)</subclass>
@@ -84,7 +84,7 @@ Source:	Mystic Subclasses p. 2 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="8">
       <counter>
-        <name>Spells Prepared</name>
+        <name>Spells Prepared (UA)</name>
         <value>6</value>
         <reset>L</reset>
         <subclass>Warrior of the Mystic Arts (UA)</subclass>
@@ -92,7 +92,7 @@ Source:	Mystic Subclasses p. 2 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="10">
       <counter>
-        <name>Spells Prepared</name>
+        <name>Spells Prepared (UA)</name>
         <value>7</value>
         <reset>L</reset>
         <subclass>Warrior of the Mystic Arts (UA)</subclass>
@@ -106,7 +106,7 @@ Source:	Mystic Subclasses p. 2 (Unearthed Arcana)</text>
 Source:	Mystic Subclasses p. 2 (Unearthed Arcana)</text>
       </feature>
       <counter>
-        <name>Spells Prepared</name>
+        <name>Spells Prepared (UA)</name>
         <value>8</value>
         <reset>L</reset>
         <subclass>Warrior of the Mystic Arts (UA)</subclass>
@@ -114,7 +114,7 @@ Source:	Mystic Subclasses p. 2 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="13">
       <counter>
-        <name>Spells Prepared</name>
+        <name>Spells Prepared (UA)</name>
         <value>9</value>
         <reset>L</reset>
         <subclass>Warrior of the Mystic Arts (UA)</subclass>
@@ -122,7 +122,7 @@ Source:	Mystic Subclasses p. 2 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="14">
       <counter>
-        <name>Spells Prepared</name>
+        <name>Spells Prepared (UA)</name>
         <value>10</value>
         <reset>L</reset>
         <subclass>Warrior of the Mystic Arts (UA)</subclass>
@@ -130,7 +130,7 @@ Source:	Mystic Subclasses p. 2 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="16">
       <counter>
-        <name>Spells Prepared</name>
+        <name>Spells Prepared (UA)</name>
         <value>11</value>
         <reset>L</reset>
         <subclass>Warrior of the Mystic Arts (UA)</subclass>
@@ -146,7 +146,7 @@ Source:	Mystic Subclasses p. 2 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="19">
       <counter>
-        <name>Spells Prepared</name>
+        <name>Spells Prepared (UA)</name>
         <value>12</value>
         <reset>L</reset>
         <subclass>Warrior of the Mystic Arts (UA)</subclass>
@@ -154,7 +154,7 @@ Source:	Mystic Subclasses p. 2 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="20">
       <counter>
-        <name>Spells Prepared</name>
+        <name>Spells Prepared (UA)</name>
         <value>13</value>
         <reset>L</reset>
         <subclass>Warrior of the Mystic Arts (UA)</subclass>

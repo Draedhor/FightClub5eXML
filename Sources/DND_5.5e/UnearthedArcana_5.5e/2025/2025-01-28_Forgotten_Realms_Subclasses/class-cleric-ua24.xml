@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Cleric</name>
+    <name>Cleric (UA)</name>
     <!-- Cleric Subclass: Knowledge Domain (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -62,63 +62,63 @@ Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 3</text>
     </autolevel>
   </class>
   <spell>
-    <name>Command [2024]</name>
+    <name>Command (UA)</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Comprehend Languages [2024]</name>
+    <name>Comprehend Languages (UA)</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Detect Magic [2024]</name>
+    <name>Detect Magic (UA)</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Detect Thoughts [2024]</name>
+    <name>Detect Thoughts (UA)</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Identify [2024]</name>
+    <name>Identify (UA)</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Mind Spike [2024]</name>
+    <name>Mind Spike (UA)</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Dispel Magic [2024]</name>
+    <name>Dispel Magic (UA)</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Nondetection [2024]</name>
+    <name>Nondetection (UA)</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Tongues [2024]</name>
+    <name>Tongues (UA)</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Arcane Eye [2024]</name>
+    <name>Arcane Eye (UA)</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Banishment [2024]</name>
+    <name>Banishment (UA)</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Confusion [2024]</name>
+    <name>Confusion (UA)</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Legend Lore [2024]</name>
+    <name>Legend Lore (UA)</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Scrying [2024]</name>
+    <name>Scrying (UA)</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Synaptic Static [2024]</name>
+    <name>Synaptic Static (UA)</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
 </compendium>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Haunted One [5.5e]</name>
+    <name>Haunted One</name>
     <proficiency>Arcana, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -27,7 +27,7 @@ Source:	Ravenloft: The Horrors Within</text>
     </trait>
   </background>
   <background>
-    <name>Investigator [5.5e]</name>
+    <name>Investigator</name>
     <proficiency>Insight, Investigation</proficiency>
     <trait>
       <name>Description</name>
@@ -53,7 +53,7 @@ Source:	Ravenloft: The Horrors Within</text>
     </trait>
   </background>
   <background>
-    <name>Mist Wanderer [5.5e]</name>
+    <name>Mist Wanderer</name>
     <proficiency>Stealth, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -79,7 +79,7 @@ Source:	Ravenloft: The Horrors Within</text>
     </trait>
   </background>
   <background>
-    <name>Spirit Medium [5.5e]</name>
+    <name>Spirit Medium</name>
     <proficiency>Insight, Religion</proficiency>
     <trait>
       <name>Description</name>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Alchemist (HB) [5.5e]</name>
+    <name>Alchemist (TP)</name>
     <hd>8</hd>
     <proficiency>Constitution, Intelligence, Arcana, Investigation, Medicine, Nature, Perception, Sleight of Hand, Survival</proficiency>
     <numSkills>3</numSkills>
@@ -12,7 +12,7 @@
     <spellAbility>Intelligence</spellAbility>
     <slotsReset>L</slotsReset>
     <trait>
-      <name>Alchemist</name>
+      <name>Alchemist (TP)</name>
       <text>Often found cooped-up experimenting or scavenging for ingredients, the Alchemist is a student of the metaphysical essence of things, and is as curious as they are resourceful.
 
 Playing an Alchemist
@@ -27,7 +27,7 @@ Source:	The Alchemist Class p. 1 (Homebrew)</text>
     </trait>
     <autolevel level="1">
       <feature optional="YES">
-        <name>Becoming An Alchemist As A Level 1 Character</name>
+        <name>Becoming An Alchemist As A Level 1 Character (TP)</name>
         <text>As a 1st-level Alchemist, you begin play with 8 + your Constitution modifier hit points.
 
 Core Alchemist Traits
@@ -43,7 +43,7 @@ Starting Equipment: Choose A or B: (A) Alchemist's Fire, 5 GP of raw materials, 
 Source:	The Alchemist Class p. 1 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Becoming An Alchemist As A Multiclass Character</name>
+        <name>Becoming An Alchemist As A Multiclass Character (TP)</name>
         <text>Core Alchemist Traits
 Hit Point Die: D8 per Alchemist level
 Skill Proficiencies: one from Arcana, Investigation, Medicine, Nature, Perception, Sleight of Hand, or Survival
@@ -53,7 +53,7 @@ Armor Training: Light armor
 Source:	The Alchemist Class p. 1 (Homebrew)</text>
       </feature>
       <feature>
-        <name>Level 1: Alchemy</name>
+        <name>Alchemy (TP)</name>
         <text>Your practice of alchemical research has trained you to use and create devastating concoctions.
 
 	Formulae: Formulae are the recipes to Craft Alchemical Items with Alchemist's Supplies. You know the Formulae listed below, as well as two other Alchemical Items of your choice.
@@ -76,7 +76,7 @@ Potion of Healing
 Source:	The Alchemist Class p. 1 (Homebrew)</text>
       </feature>
       <feature>
-        <name>Level 1: Catalyze</name>
+        <name>Catalyze (TP)</name>
         <text>On your turn, you can take one of the following actions as a Bonus Action: Study or Utilize to use an Item that normally calls for an Action.
 	Whenever you take the Utilize Action while holding Alchemist's Supplies in-hand, you can create any of the items you can Craft with them, ignoring the Time requirement. Items created this way only last for 1 minute, then lose their potency.
 
@@ -85,7 +85,7 @@ Source:	The Alchemist Class p. 1 (Homebrew)</text>
     </autolevel>
     <autolevel level="2">
       <feature>
-        <name>Level 2: Methodical</name>
+        <name>Methodical (TP)</name>
         <text>You gain the following benefits.
 
 	Experimentalist. Choose two of your skill proficiencies with which you lack Expertise. You gain Expertise in those skills.
@@ -97,7 +97,7 @@ Source:	The Alchemist Class p. 1 (Homebrew)</text>
     </autolevel>
     <autolevel level="3">
       <feature>
-        <name>Level 3: Alchemist Subclass</name>
+        <name>Alchemist Subclass (TP)</name>
         <text>You gain an Alchemist Subclass of your choice, detailed after this class's description. A subclass is a specialization that grants you features at certain Alchemist levels.
 
 Source:	The Alchemist Class p. 2 (Homebrew)</text>
@@ -105,7 +105,7 @@ Source:	The Alchemist Class p. 2 (Homebrew)</text>
     </autolevel>
     <autolevel level="4" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Level 4: Ability Score Improvement</name>
+        <name>Ability Score Improvement (TP)</name>
         <text>You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Alchemist levels 8, 12, and 16.
 
 Source:	The Alchemist Class p. 2 (Homebrew)</text>
@@ -113,14 +113,14 @@ Source:	The Alchemist Class p. 2 (Homebrew)</text>
     </autolevel>
     <autolevel level="5">
       <feature>
-        <name>Level 5: Eureka</name>
+        <name>Eureka (TP)</name>
         <text>You can use the Bonus Action granted by Catalyze to Craft a Potion with a rarity of Common that you know the Formula for, which otherwise follows the same rules for Catalyze.
 	Once you use this feature, you cannot do so again until you finish a Long Rest. The rarity increases as you gain levels in this class, starting at 9th level (Uncommon) and again at 13th level (Rare).
 
 Source:	The Alchemist Class p. 2 (Homebrew)</text>
       </feature>
       <feature>
-        <name>Level 5: Extra Attack</name>
+        <name>Extra Attack (TP)</name>
         <text>You can attack twice instead of once whenever you take the Attack action on your turn.
 
 Source:	The Alchemist Class p. 2 (Homebrew)</text>
@@ -128,7 +128,7 @@ Source:	The Alchemist Class p. 2 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Subclass Feature</name>
+        <name>Subclass Feature (TP)</name>
         <text>You gain a feature from your Alchemist Subclass.
 
 Source:	The Alchemist Class p. 2 (Homebrew)</text>
@@ -136,7 +136,7 @@ Source:	The Alchemist Class p. 2 (Homebrew)</text>
     </autolevel>
     <autolevel level="7">
       <feature>
-        <name>Level 7: Mix</name>
+        <name>Mix (TP)</name>
         <text>While you have two Alchemical Items or Potions in hand and neither is the same item, you can use the Bonus Action granted by Catalyze to swiftly, and safely, combine them. When used, both effects occur simultaneously. Attempting to use this feature with an Item previously combined by this feature results in both items losing their potency and being destroyed.
 
 Source:	The Alchemist Class p. 2 (Homebrew)</text>
@@ -144,7 +144,7 @@ Source:	The Alchemist Class p. 2 (Homebrew)</text>
     </autolevel>
     <autolevel level="8" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Level 8: Ability Score Improvement</name>
+        <name>Ability Score Improvement (TP)</name>
         <text>You gain the Ability Score Improvement feat or another feat of your choice for which you qualify.
 
 Source:	The Alchemist Class p. 2 (Homebrew)</text>
@@ -152,13 +152,13 @@ Source:	The Alchemist Class p. 2 (Homebrew)</text>
     </autolevel>
     <autolevel level="9">
       <feature optional="YES">
-        <name>Level 9: Eureka (Uncommon)</name>
+        <name>Eureka (Uncommon) (TP)</name>
         <text>The rarity of the Potion you can create with your Eureka feature increases to Uncommon.
 
 Source:	The Alchemist Class p. 2 (Homebrew)</text>
       </feature>
       <feature>
-        <name>Level 9: Mercurial Flux</name>
+        <name>Mercurial Flux (TP)</name>
         <text>Items you Craft with Catalyze now last for 1 hour before losing their potency.
 	Further, you can replace the raw materials to Craft Alchemical Items you know the Formula for with valuables (such as GP) of a value equal to or greater than the cost of the raw materials.
 
@@ -167,7 +167,7 @@ Source:	The Alchemist Class p. 2 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Subclass Feature</name>
+        <name>Subclass Feature (TP)</name>
         <text>You gain a feature from your Alchemist Subclass.
 
 Source:	The Alchemist Class p. 2 (Homebrew)</text>
@@ -175,7 +175,7 @@ Source:	The Alchemist Class p. 2 (Homebrew)</text>
     </autolevel>
     <autolevel level="11">
       <feature>
-        <name>Level 11: Volatile Potency</name>
+        <name>Volatile Potency (TP)</name>
         <text>When a damage or healing roll is made with an Alchemical Item or Potion you Craft, you can roll 1d6 and add the result to the damage or healing of the item. This increases to 2d6 when you reach 17th level.
 
 Source:	The Alchemist Class p. 2 (Homebrew)</text>
@@ -185,7 +185,7 @@ Source:	The Alchemist Class p. 2 (Homebrew)</text>
     </autolevel>
     <autolevel level="12" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Level 12: Ability Score Improvement</name>
+        <name>Ability Score Improvement (TP)</name>
         <text>You gain the Ability Score Improvement feat or another feat of your choice for which you qualify.
 
 Source:	The Alchemist Class p. 2 (Homebrew)</text>
@@ -193,27 +193,27 @@ Source:	The Alchemist Class p. 2 (Homebrew)</text>
     </autolevel>
     <autolevel level="13">
       <feature optional="YES">
-        <name>Level 13: Eureka (Rare)</name>
+        <name>Eureka (Rare) (TP)</name>
         <text>The rarity of the Potion you can create with your Eureka feature increases to Rare.
 
 Source:	The Alchemist Class p. 2 (Homebrew)</text>
       </feature>
       <feature>
-        <name>Level 13: Mind Over Matter</name>
+        <name>Mind Over Matter (TP)</name>
         <text>When you or a creature you can see within 30 feet of you fails an ability check or a saving throw, you can take a Reaction to add a bonus to the roll, potentially causing it to succeed. The bonus equals your Intelligence modifier.
 	You can take this Reaction a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a Long Rest.
 
 Source:	The Alchemist Class p. 2 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Mind Over Matter</name>
+        <name>Mind Over Matter (TP)</name>
         <value>1</value>
         <reset>L</reset>
       </counter>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Subclass Feature</name>
+        <name>Subclass Feature (TP)</name>
         <text>You gain a feature from your Alchemist Subclass.
 
 Source:	The Alchemist Class p. 2 (Homebrew)</text>
@@ -221,7 +221,7 @@ Source:	The Alchemist Class p. 2 (Homebrew)</text>
     </autolevel>
     <autolevel level="15">
       <feature>
-        <name>Level 15: Philosopher's Stone</name>
+        <name>Philosopher's Stone (TP)</name>
         <text>Your studies have revealed to you the mystic Formula for the legendary Philosopher's Stone, which you can create over the course of 7 days. If you create a new one, any of your previous Philosopher's Stones are destroyed and return to nothing. Your Philosopher's Stone grants you the following benefits.
 
 	• You are Immune to Magical Contagions and Curses, and cannot be aged by natural or magical means.
@@ -235,7 +235,7 @@ Source:	The Alchemist Class p. 2 (Homebrew)</text>
     </autolevel>
     <autolevel level="16" scoreImprovement="YES">
       <feature optional="YES">
-        <name>Level 16: Ability Score Improvement</name>
+        <name>Ability Score Improvement (TP)</name>
         <text>You gain the Ability Score Improvement feat or another feat of your choice for which you qualify.
 
 Source:	The Alchemist Class p. 2 (Homebrew)</text>
@@ -243,7 +243,7 @@ Source:	The Alchemist Class p. 2 (Homebrew)</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Volatile Potency Enhancement</name>
+        <name>Volatile Potency Enhancement (TP)</name>
         <text>The damage and healing bonus from your Volatile Potency feature increases to 2d6.
 
 Source:	The Alchemist Class p. 2 (Homebrew)</text>
@@ -251,7 +251,7 @@ Source:	The Alchemist Class p. 2 (Homebrew)</text>
     </autolevel>
     <autolevel level="18">
       <feature>
-        <name>Level 18: Lightning in a Bottle</name>
+        <name>Lightning in a Bottle (TP)</name>
         <text>Once every 7 days, you can create a Potion with your Eureka feature with a rarity of Very Rare.
 
 Source:	The Alchemist Class p. 2 (Homebrew)</text>
@@ -259,7 +259,7 @@ Source:	The Alchemist Class p. 2 (Homebrew)</text>
     </autolevel>
     <autolevel level="19">
       <feature>
-        <name>Level 19: Epic Boon</name>
+        <name>Epic Boon (TP)</name>
         <text>You gain an Epic Boon feat or another feat of your choice for which you qualify.
 
 Source:	The Alchemist Class p. 2 (Homebrew)</text>
@@ -267,7 +267,7 @@ Source:	The Alchemist Class p. 2 (Homebrew)</text>
     </autolevel>
     <autolevel level="20">
       <feature>
-        <name>Level 20: Big Bang</name>
+        <name>Big Bang (TP)</name>
         <text>When you roll for Initiative, you can use the Utilize and Attack action once (no Action required).
 
 Source:	The Alchemist Class p. 2 (Homebrew)</text>
@@ -276,7 +276,7 @@ Source:	The Alchemist Class p. 2 (Homebrew)</text>
     <!-- Alchemist Subclass: Animator -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Alchemist Subclass: Animator</name>
+        <name>Alchemist Subclass: Animator (TP)</name>
         <text>Crafter of Life
 
 An Animator repurposes living matter to create living creatures that serve them. They are creators of constructs, often found with the animator serving as an assistant in their research.
@@ -284,7 +284,7 @@ An Animator repurposes living matter to create living creatures that serve them.
 Source:	The Alchemist Class p. 3 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Homunculus Companion (Animator)</name>
+        <name>Homunculus Companion (Animator) (TP)</name>
         <text>You can conduct a Ritual over the course of an hour, shaping a mixture of 25 GP worth of clay, ash, mandrake root, and blood to gain the service of an Alchemical Homunculus.
 	Your Alchemical Homunculus is a faithful companion, and it dies if you die. You determine its appearance. See this creature's game statistics in the Alchemical Homunculus stat block.
 	In combat, it shares your Initiative count, but takes its turn immediately after yours. It is Friendly to you and your companions, and it obeys your telepathic commands (no Action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
@@ -310,7 +310,7 @@ Bite. Melee Attack Roll: +2 plus your Intelligence modifier, reach 5 ft. Hit: 1 
 Source:	The Alchemist Class p. 3 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Zoetic Theory (Animator)</name>
+        <name>Zoetic Theory (Animator) (TP)</name>
         <text>You can give your Homunculus materials of a value of at least 5 GP to absorb into its body during a Short or Long Rest. For each component used, the Alchemical Homunculus gains a benefit.
 
 	Adder's Stomach. It gains a Spit Acid attack, a ranged weapon with a range of 30 feet that deals 1d6 + your Intelligence modifier Acid damage.
@@ -330,7 +330,7 @@ Source:	The Alchemist Class p. 3 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Anima Profane (Animator)</name>
+        <name>Anima Profane (Animator) (TP)</name>
         <text>You gain the ability to cast the Animate Dead spell, but only as a Ritual. The Skeleton or Zombie created through this Ritual has the following changes:
 
 	• It is a Construct rather than an Undead.
@@ -344,7 +344,7 @@ Source:	The Alchemist Class p. 4 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Life Stitcher (Animator)</name>
+        <name>Life Stitcher (Animator) (TP)</name>
         <text>Your Zoetic Theory is enhanced.
 
 	Adder's Stomach. Its Spit Acid damage increases to 2d6 + your Intelligence modifier.
@@ -364,7 +364,7 @@ Source:	The Alchemist Class p. 4 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Contemptible Chimera (Animator)</name>
+        <name>Contemptible Chimera (Animator) (TP)</name>
         <text>If your Homunculus and a Construct created with Anima Profane are within 5 feet of each other, you can use an Action to command them to merge, creating a Flesh Golem that you control, with the following changes:
 
 	• It gains the Homunculus' Fly, Bite, Telepathic Bond, and any Traits and Actions through Zoetic Theory.
@@ -379,7 +379,7 @@ Source:	The Alchemist Class p. 4 (Homebrew)</text>
     <!-- Alchemist Subclass: Apothecary -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Alchemist Subclass: Apothecary</name>
+        <name>Alchemist Subclass: Apothecary (TP)</name>
         <text>Practitioner of Natural Medicine
 
 While laughter might be the best medicine, it never cured Filth Fever. Apothecaries are medical practitioners, creating potent potions to cure what ails.
@@ -387,7 +387,7 @@ While laughter might be the best medicine, it never cured Filth Fever. Apothecar
 Source:	The Alchemist Class p. 4 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Holistic Medicine (Apothecary)</name>
+        <name>Holistic Medicine (Apothecary) (TP)</name>
         <text>You gain the following benefits.
 
 	Natural Medicine. You gain proficiency in the Medicine, Nature, or Survival skill (your choice), and you have advantage on any ability check you make to stabilize a creature with 0 Hit Points and to forage.
@@ -397,7 +397,7 @@ Source:	The Alchemist Class p. 4 (Homebrew)</text>
 Source:	The Alchemist Class p. 4 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Spagyric Theory (Apothecary)</name>
+        <name>Spagyric Theory (Apothecary) (TP)</name>
         <text>When you create an item that restores Hit Points, you can infuse the item with at least 5 GP of any of the following materials to enhance it.
 
 	Honeycomb. The consumer gains a bonus on Wisdom (Animal Handling) and Charisma checks made against Beasts equal to your Intelligence modifier for 1 hour.
@@ -414,7 +414,7 @@ Source:	The Alchemist Class p. 4 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Sweet Succor (Apothecary)</name>
+        <name>Sweet Succor (Apothecary) (TP)</name>
         <text>When a creature consumes an Alchemical Item or Potion you administer or Craft that restores Hit Points, the item's first healing roll gains a bonus equal to your Intelligence modifier.
 
 Source:	The Alchemist Class p. 4 (Homebrew)</text>
@@ -422,7 +422,7 @@ Source:	The Alchemist Class p. 4 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Panacea (Apothecary)</name>
+        <name>Panacea (Apothecary) (TP)</name>
         <text>Your Spagyric Theory is enhanced.
 
 	Honeycomb. The item causes subtle changes in the consumer's scent. Animals are put at ease by the scent, granting the consumer a bonus on Wisdom (Animal Handling) and Charisma checks made against beasts equal to your Intelligence modifier for 1 hour and advantage on these checks.
@@ -439,7 +439,7 @@ Source:	The Alchemist Class p. 4 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Miracle Elixir (Apothecary)</name>
+        <name>Miracle Elixir (Apothecary) (TP)</name>
         <text>When you create a Healing Draught or Potion of Healing of any type, you can infuse it with 300 GP worth of diamond dust. If you administer the draught to a creature that has died within the last hour, the creature returns to life with 1 Hit Point. Doing so can't return to life a creature that has died of old age, nor can it restore any missing body parts.
 
 Source:	The Alchemist Class p. 5 (Homebrew)</text>
@@ -448,7 +448,7 @@ Source:	The Alchemist Class p. 5 (Homebrew)</text>
     <!-- Alchemist Subclass: Crystallographer -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Alchemist Subclass: Crystallographer</name>
+        <name>Alchemist Subclass: Crystallographer (TP)</name>
         <text>Maker of Matter
 
 Crystallography is the study of crystalline structures and the creation of matter from chemical compounds.
@@ -456,7 +456,7 @@ Crystallography is the study of crystalline structures and the creation of matte
 Source:	The Alchemist Class p. 5 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Crystalizer (Crystallographer)</name>
+        <name>Crystalizer (Crystallographer) (TP)</name>
         <text>You gain the following benefits.
 
 	Jeweled Alchemy. You gain proficiency with Jeweler's Tools and learn the Formula for Frigid Azote, or another Alchemical Item if you already know it.
@@ -466,7 +466,7 @@ Source:	The Alchemist Class p. 5 (Homebrew)</text>
 Source:	The Alchemist Class p. 5 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Vitreus Theory (Crystallographer)</name>
+        <name>Vitreus Theory (Crystallographer) (TP)</name>
         <text>When you create an item that reduces Speed or that creates an object or structure (such as an Instant Wall), you can infuse the item with at least 5 GP of any of the following materials to enhance it.
 
 	Banded Agate. The form of any structure created by using the item expands by 5 feet in one direction of your choice, provided the space it would enter is unoccupied.
@@ -483,7 +483,7 @@ Source:	The Alchemist Class p. 5 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Sterner Stuff (Crystallographer)</name>
+        <name>Sterner Stuff (Crystallographer) (TP)</name>
         <text>You can use your Eureka feature to create a nonmagical crystal or gem of your choice. You can create this item using valuables (such as gold pieces) of a value equal to half the value of the item. The value of the item can't be more than 50 times your alchemist level, and disappears after a number of hours equal to your proficiency bonus.
 
 Source:	The Alchemist Class p. 5 (Homebrew)</text>
@@ -491,7 +491,7 @@ Source:	The Alchemist Class p. 5 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Matter Maker (Crystallographer)</name>
+        <name>Matter Maker (Crystallographer) (TP)</name>
         <text>Your Vitreous Theory is enhanced.
 
 	Banded Agate. The form expands by 10 feet instead.
@@ -508,7 +508,7 @@ Source:	The Alchemist Class p. 5 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Prima Materia (Crystallographer)</name>
+        <name>Prima Materia (Crystallographer) (TP)</name>
         <text>Any item you create with Sterner Stuff no longer disappears, and you can use Eureka to Craft a Spark of Creation and only need to provide 500 GP to do so.
 
 Source:	The Alchemist Class p. 5 (Homebrew)</text>
@@ -517,7 +517,7 @@ Source:	The Alchemist Class p. 5 (Homebrew)</text>
     <!-- Alchemist Subclass: Fulminare -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Alchemist Subclass: Fulminare</name>
+        <name>Alchemist Subclass: Fulminare (TP)</name>
         <text>Philosophers of Destruction
 
 The process of creation must have its opposite, and Fulminares are the specialists of chaos and combustion.
@@ -525,7 +525,7 @@ The process of creation must have its opposite, and Fulminares are the specialis
 Source:	The Alchemist Class p. 5 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Student of Destruction (Fulminare)</name>
+        <name>Student of Destruction (Fulminare) (TP)</name>
         <text>You gain the following benefits.
 
 	Combuster's Vessels. You gain proficiency with Potter's Tools and you learn the Formula for Thunderstone, or another Alchemical Item if you already know it.
@@ -535,7 +535,7 @@ Source:	The Alchemist Class p. 5 (Homebrew)</text>
 Source:	The Alchemist Class p. 5 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Phlogiston Theory (Fulminare)</name>
+        <name>Phlogiston Theory (Fulminare) (TP)</name>
         <text>When you create an item that deals damage, you can infuse the item with at least 5 GP of any of the following materials to enhance it.
 
 	Nut Shells. The item sends a seismic shock, causing the ground within 10 feet of the area the item was thrown to become Difficult Terrain.
@@ -561,7 +561,7 @@ Source:	The Alchemist Class p. 5 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Hit the Deck (Fulminare)</name>
+        <name>Hit the Deck (Fulminare) (TP)</name>
         <text>When you are forced to make a Dexterity saving throw against an effect you can see and hear, you can use your Reaction to move up to half your Speed immediately before the effect occurs, potentially moving out of the area of danger.
 
 Source:	The Alchemist Class p. 6 (Homebrew)</text>
@@ -569,7 +569,7 @@ Source:	The Alchemist Class p. 6 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Chemical Warfare (Fulminare)</name>
+        <name>Chemical Warfare (Fulminare) (TP)</name>
         <text>Your Phlogiston Theory is enhanced.
 
 	Nut Shells. The area of the effect increases to 15 feet and deals double damage to objects and structures.
@@ -586,7 +586,7 @@ Source:	The Alchemist Class p. 6 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Spontaneous Combustion (Fulminare)</name>
+        <name>Spontaneous Combustion (Fulminare) (TP)</name>
         <text>Your Exploding Damage benefit of Student of Destruction is enhanced in the following way.
 
 	Exploding Damage. Whenever you roll the highest value on any of the damage dice of an Alchemical Item, you can roll those dice an additional time and add the number rolled to the damage until that die doesn't roll its highest value.
@@ -597,7 +597,7 @@ Source:	The Alchemist Class p. 6 (Homebrew)</text>
     <!-- Alchemist Subclass: Salbenist -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Alchemist Subclass: Salbenist</name>
+        <name>Alchemist Subclass: Salbenist (TP)</name>
         <text>Anointed Warriors of Oil
 
 The title of Salbenist (literally "oil-user") is used by alchemists who wield blades coated in alchemical oil.
@@ -605,7 +605,7 @@ The title of Salbenist (literally "oil-user") is used by alchemists who wield bl
 Source:	The Alchemist Class p. 6 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Oleic Arms (Salbenist)</name>
+        <name>Oleic Arms (Salbenist) (TP)</name>
         <text>You have the following benefits.
 
 	Martial Training. You gain proficiency with Martial weapons that lack the Heavy or Two-Handed properties and training with Medium armor.
@@ -615,7 +615,7 @@ Source:	The Alchemist Class p. 6 (Homebrew)</text>
 Source:	The Alchemist Class p. 6 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Anointed Blade (Salbenist)</name>
+        <name>Anointed Blade (Salbenist) (TP)</name>
         <text>You can perform a Ritual over the course of 1 hour with a weapon you are proficient with and coat it with an oil. The oil is absorbed into the weapon, anointing it and granting you the following benefits until you perform this Ritual again.
 
 	• Whenever you attack with the weapon, you can use your Intelligence modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can use its Mastery Property.
@@ -629,14 +629,14 @@ Source:	The Alchemist Class p. 6 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: All-Consuming Flame (Salbenist)</name>
+        <name>All-Consuming Flame (Salbenist) (TP)</name>
         <text>Whenever you take damage of the same type dealt by the oil anointing your weapon, you can use a Reaction to reduce the damage you take to 0. If you do, you regain a number of Hit Points equal to the total damage reduced. If these Hit Points would exceed your Hit Point maximum, you can choose to instead gain the remainder as Temporary Hit Points.
 	You can use this Reaction a number of times equal to your Intelligence modifier (minimum 1), and you cannot do so again until you finish a Long Rest.
 
 Source:	The Alchemist Class p. 6 (Homebrew)</text>
       </feature>
       <counter>
-        <name>All-Consuming Flame</name>
+        <name>All-Consuming Flame (TP)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Salbenist</subclass>
@@ -644,7 +644,7 @@ Source:	The Alchemist Class p. 6 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Hallowed Warrior (Salbenist)</name>
+        <name>Hallowed Warrior (Salbenist) (TP)</name>
         <text>When you will the oil absorbed into your Anointed Blade to coat it, you can choose another Weapon Mastery Property. The weapon gains this other Weapon Mastery Property until you dismiss it, it leaves your hand, or until you coat it with another oil.
 
 Source:	The Alchemist Class p. 7 (Homebrew)</text>
@@ -652,7 +652,7 @@ Source:	The Alchemist Class p. 7 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Soul of Cinder (Salbenist)</name>
+        <name>Soul of Cinder (Salbenist) (TP)</name>
         <text>Whenever you make a damage roll for damage dealt with your Anointed Blade and roll the highest value on any of the dice, the attack's damage ignores Resistance and Immunity.
 
 Source:	The Alchemist Class p. 7 (Homebrew)</text>
@@ -661,7 +661,7 @@ Source:	The Alchemist Class p. 7 (Homebrew)</text>
     <!-- Alchemist Subclass: Toxicologist -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Alchemist Subclass: Toxicologist</name>
+        <name>Alchemist Subclass: Toxicologist (TP)</name>
         <text>Insidious Poisoners and Pathologists
 
 A reviled trade in most societies, Toxicologists are alchemists that specialize in disease and poison.
@@ -669,7 +669,7 @@ A reviled trade in most societies, Toxicologists are alchemists that specialize 
 Source:	The Alchemist Class p. 7 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Adulterated Alchemy (Toxicologist)</name>
+        <name>Adulterated Alchemy (Toxicologist) (TP)</name>
         <text>You gain the following benefits.
 
 	Poisoner. You gain proficiency with the Poisoner's Kit and treat Poisons you create as Alchemical Items for the purposes of your Alchemist class features.
@@ -679,7 +679,7 @@ Source:	The Alchemist Class p. 7 (Homebrew)</text>
 Source:	The Alchemist Class p. 7 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Fel Theory (Toxicologist)</name>
+        <name>Fel Theory (Toxicologist) (TP)</name>
         <text>When you Craft an item that inflicts the Poisoned condition or deals Poison or Necrotic damage, you can infuse it with at least 5 GP of any of the following materials to enhance it.
 
 	Desecrated Water. Poison damage dealt by it becomes Necrotic damage.
@@ -697,7 +697,7 @@ Source:	The Alchemist Class p. 7 (Homebrew)</text>
     </autolevel>
     <autolevel level="6">
       <feature optional="YES">
-        <name>Level 6: Mithridatism (Toxicologist)</name>
+        <name>Mithridatism (Toxicologist) (TP)</name>
         <text>You have advantage on saving throws you make to avoid or end the Poisoned condition on yourself, and you have Resistance to Poison damage.
 	If another feature, item, or spell gives you Resistance to Poison damage, you can choose instead to gain one of the following benefits, which lasts for the duration listed in the effect (you choose when the effect takes place).
 
@@ -710,7 +710,7 @@ Source:	The Alchemist Class p. 7 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Malediction (Toxicologist)</name>
+        <name>Malediction (Toxicologist) (TP)</name>
         <text>Your Fel Theory is enhanced.
 
 	Desecrated Water. Damage dealt by the item ignores Resistance to Necrotic damage.
@@ -729,7 +729,7 @@ Source:	The Alchemist Class p. 7 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Level 14: Demon Core (Toxicologist)</name>
+        <name>Demon Core (Toxicologist) (TP)</name>
         <text>Poisons you create have the following benefits.
 
 	• They ignore Resistance to Poison damage.

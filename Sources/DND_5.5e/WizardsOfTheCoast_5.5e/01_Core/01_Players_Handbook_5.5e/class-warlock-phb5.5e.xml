@@ -711,167 +711,167 @@ Source:	Player's Handbook (2024) p. 163</text>
     </autolevel>
   </class>
   <spell>
-    <name>Calm Emotions [2024]</name>
+    <name>Calm Emotions</name>
     <classes>Warlock (Archfey Patron)</classes>
   </spell>
   <spell>
-    <name>Faerie Fire [2024]</name>
+    <name>Faerie Fire</name>
     <classes>Warlock (Archfey Patron)</classes>
   </spell>
   <spell>
-    <name>Misty Step [2024]</name>
+    <name>Misty Step</name>
     <classes>Warlock (Archfey Patron)</classes>
   </spell>
   <spell>
-    <name>Phantasmal Force [2024]</name>
+    <name>Phantasmal Force</name>
     <classes>Warlock (Archfey Patron), Warlock (Great Old One Patron)</classes>
   </spell>
   <spell>
-    <name>Sleep [2024]</name>
+    <name>Sleep</name>
     <classes>Warlock (Archfey Patron)</classes>
   </spell>
   <spell>
-    <name>Blink [2024]</name>
+    <name>Blink</name>
     <classes>Warlock (Archfey Patron)</classes>
   </spell>
   <spell>
-    <name>Plant Growth [2024]</name>
+    <name>Plant Growth</name>
     <classes>Warlock (Archfey Patron)</classes>
   </spell>
   <spell>
-    <name>Dominate Beast [2024]</name>
+    <name>Dominate Beast</name>
     <classes>Warlock (Archfey Patron)</classes>
   </spell>
   <spell>
-    <name>Greater Invisibility [2024]</name>
+    <name>Greater Invisibility</name>
     <classes>Warlock (Archfey Patron)</classes>
   </spell>
   <spell>
-    <name>Dominate Person [2024]</name>
+    <name>Dominate Person</name>
     <classes>Warlock (Archfey Patron)</classes>
   </spell>
   <spell>
-    <name>Seeming [2024]</name>
+    <name>Seeming</name>
     <classes>Warlock (Archfey Patron)</classes>
   </spell>
   <spell>
-    <name>Aid [2024]</name>
+    <name>Aid</name>
     <classes>Warlock (Celestial Patron)</classes>
   </spell>
   <spell>
-    <name>Cure Wounds [2024]</name>
+    <name>Cure Wounds</name>
     <classes>Warlock (Celestial Patron)</classes>
   </spell>
   <spell>
-    <name>Guiding Bolt [2024]</name>
+    <name>Guiding Bolt</name>
     <classes>Warlock (Celestial Patron)</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration [2024]</name>
+    <name>Lesser Restoration</name>
     <classes>Warlock (Celestial Patron)</classes>
   </spell>
   <spell>
-    <name>Light [2024]</name>
+    <name>Light</name>
     <classes>Warlock (Celestial Patron)</classes>
   </spell>
   <spell>
-    <name>Sacred Flame [2024]</name>
+    <name>Sacred Flame</name>
     <classes>Warlock (Celestial Patron)</classes>
   </spell>
   <spell>
-    <name>Daylight [2024]</name>
+    <name>Daylight</name>
     <classes>Warlock (Celestial Patron)</classes>
   </spell>
   <spell>
-    <name>Revivify [2024]</name>
+    <name>Revivify</name>
     <classes>Warlock (Celestial Patron)</classes>
   </spell>
   <spell>
-    <name>Guardian of Faith [2024]</name>
+    <name>Guardian of Faith</name>
     <classes>Warlock (Celestial Patron)</classes>
   </spell>
   <spell>
-    <name>Wall of Fire [2024]</name>
+    <name>Wall of Fire</name>
     <classes>Warlock (Celestial Patron), Warlock (Fiend Patron)</classes>
   </spell>
   <spell>
-    <name>Greater Restoration [2024]</name>
+    <name>Greater Restoration</name>
     <classes>Warlock (Celestial Patron)</classes>
   </spell>
   <spell>
-    <name>Summon Celestial [2024]</name>
+    <name>Summon Celestial</name>
     <classes>Warlock (Celestial Patron)</classes>
   </spell>
   <spell>
-    <name>Burning Hands [2024]</name>
+    <name>Burning Hands</name>
     <classes>Warlock (Fiend Patron)</classes>
   </spell>
   <spell>
-    <name>Command [2024]</name>
+    <name>Command</name>
     <classes>Warlock (Fiend Patron)</classes>
   </spell>
   <spell>
-    <name>Scorching Ray [2024]</name>
+    <name>Scorching Ray</name>
     <classes>Warlock (Fiend Patron)</classes>
   </spell>
   <spell>
-    <name>Suggestion [2024]</name>
+    <name>Suggestion</name>
     <classes>Warlock (Fiend Patron)</classes>
   </spell>
   <spell>
-    <name>Fireball [2024]</name>
+    <name>Fireball</name>
     <classes>Warlock (Fiend Patron)</classes>
   </spell>
   <spell>
-    <name>Stinking Cloud [2024]</name>
+    <name>Stinking Cloud</name>
     <classes>Warlock (Fiend Patron)</classes>
   </spell>
   <spell>
-    <name>Fire Shield [2024]</name>
+    <name>Fire Shield</name>
     <classes>Warlock (Fiend Patron)</classes>
   </spell>
   <spell>
-    <name>Geas [2024]</name>
+    <name>Geas</name>
     <classes>Warlock (Fiend Patron)</classes>
   </spell>
   <spell>
-    <name>Insect Plague [2024]</name>
+    <name>Insect Plague</name>
     <classes>Warlock (Fiend Patron)</classes>
   </spell>
   <spell>
-    <name>Detect Thoughts [2024]</name>
+    <name>Detect Thoughts</name>
     <classes>Warlock (Great Old One Patron)</classes>
   </spell>
   <spell>
-    <name>Dissonant Whispers [2024]</name>
+    <name>Dissonant Whispers</name>
     <classes>Warlock (Great Old One Patron)</classes>
   </spell>
   <spell>
-    <name>Tasha's Hideous Laughter [2024]</name>
+    <name>Tasha's Hideous Laughter</name>
     <classes>Warlock (Great Old One Patron)</classes>
   </spell>
   <spell>
-    <name>Clairvoyance [2024]</name>
+    <name>Clairvoyance</name>
     <classes>Warlock (Great Old One Patron)</classes>
   </spell>
   <spell>
-    <name>Hunger of Hadar [2024]</name>
+    <name>Hunger of Hadar</name>
     <classes>Warlock (Great Old One Patron)</classes>
   </spell>
   <spell>
-    <name>Confusion [2024]</name>
+    <name>Confusion</name>
     <classes>Warlock (Great Old One Patron)</classes>
   </spell>
   <spell>
-    <name>Summon Aberration [2024]</name>
+    <name>Summon Aberration</name>
     <classes>Warlock (Great Old One Patron)</classes>
   </spell>
   <spell>
-    <name>Modify Memory [2024]</name>
+    <name>Modify Memory</name>
     <classes>Warlock (Great Old One Patron)</classes>
   </spell>
   <spell>
-    <name>Telekinesis [2024]</name>
+    <name>Telekinesis</name>
     <classes>Warlock (Great Old One Patron)</classes>
   </spell>
 </compendium>

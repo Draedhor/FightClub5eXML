@@ -1172,499 +1172,499 @@ Source:	Eberron: Forge of the Artificer p. 21</text>
     </autolevel>
   </class>
   <spell>
-    <name>Acid Splash [2024]</name>
+    <name>Acid Splash</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Dancing Lights [2024]</name>
+    <name>Dancing Lights</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Elementalism [2024]</name>
+    <name>Elementalism</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Fire Bolt [2024]</name>
+    <name>Fire Bolt</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Guidance [2024]</name>
+    <name>Guidance</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Light [2024]</name>
+    <name>Light</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Mage Hand [2024]</name>
+    <name>Mage Hand</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Message [2024]</name>
+    <name>Message</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Poison Spray [2024]</name>
+    <name>Poison Spray</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Prestidigitation [2024]</name>
+    <name>Prestidigitation</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Ray of Frost [2024]</name>
+    <name>Ray of Frost</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Resistance [2024]</name>
+    <name>Resistance</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Shocking Grasp [2024]</name>
+    <name>Shocking Grasp</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Spare the Dying [2024]</name>
+    <name>Spare the Dying</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Thorn Whip [2024]</name>
+    <name>Thorn Whip</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Thunderclap [2024]</name>
+    <name>Thunderclap</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>True Strike [2024]</name>
+    <name>True Strike</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Alarm [2024]</name>
+    <name>Alarm</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Cure Wounds [2024]</name>
+    <name>Cure Wounds</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Detect Magic [2024]</name>
+    <name>Detect Magic</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Disguise Self [2024]</name>
+    <name>Disguise Self</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Expeditious Retreat [2024]</name>
+    <name>Expeditious Retreat</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Faerie Fire [2024]</name>
+    <name>Faerie Fire</name>
     <classes>Artificer, Artificer (Cartographer)</classes>
   </spell>
   <spell>
-    <name>False Life [2024]</name>
+    <name>False Life</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Feather Fall [2024]</name>
+    <name>Feather Fall</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Grease [2024]</name>
+    <name>Grease</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Identify [2024]</name>
+    <name>Identify</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Jump [2024]</name>
+    <name>Jump</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Longstrider [2024]</name>
+    <name>Longstrider</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Purify Food and Drink [2024]</name>
+    <name>Purify Food and Drink</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Sanctuary [2024]</name>
+    <name>Sanctuary</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Aid [2024]</name>
+    <name>Aid</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Alter Self [2024]</name>
+    <name>Alter Self</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Arcane Lock [2024]</name>
+    <name>Arcane Lock</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Arcane Vigor [2024]</name>
+    <name>Arcane Vigor</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Blur [2024]</name>
+    <name>Blur</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Continual Flame [2024]</name>
+    <name>Continual Flame</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Darkvision [2024]</name>
+    <name>Darkvision</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Dragon's Breath [2024]</name>
+    <name>Dragon's Breath</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Enhance Ability [2024]</name>
+    <name>Enhance Ability</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Enlarge/Reduce [2024]</name>
+    <name>Enlarge/Reduce</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Heat Metal [2024]</name>
+    <name>Heat Metal</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Homunculus Servant [2024]</name>
+    <name>Homunculus Servant</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Invisibility [2024]</name>
+    <name>Invisibility</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration [2024]</name>
+    <name>Lesser Restoration</name>
     <classes>Artificer, Artificer (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Levitate [2024]</name>
+    <name>Levitate</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Magic Mouth [2024]</name>
+    <name>Magic Mouth</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Magic Weapon [2024]</name>
+    <name>Magic Weapon</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Protection from Poison [2024]</name>
+    <name>Protection from Poison</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Rope Trick [2024]</name>
+    <name>Rope Trick</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>See Invisibility [2024]</name>
+    <name>See Invisibility</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Spider Climb [2024]</name>
+    <name>Spider Climb</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Web [2024]</name>
+    <name>Web</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Blink [2024]</name>
+    <name>Blink</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Create Food and Water [2024]</name>
+    <name>Create Food and Water</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Dispel Magic [2024]</name>
+    <name>Dispel Magic</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Elemental Weapon [2024]</name>
+    <name>Elemental Weapon</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Fly [2024]</name>
+    <name>Fly</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Glyph of Warding [2024]</name>
+    <name>Glyph of Warding</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Haste [2024]</name>
+    <name>Haste</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Protection from Energy [2024]</name>
+    <name>Protection from Energy</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Revivify [2024]</name>
+    <name>Revivify</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Water Breathing [2024]</name>
+    <name>Water Breathing</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Water Walk [2024]</name>
+    <name>Water Walk</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Arcane Eye [2024]</name>
+    <name>Arcane Eye</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Fabricate [2024]</name>
+    <name>Fabricate</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement [2024]</name>
+    <name>Freedom of Movement</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Leomund's Secret Chest [2024]</name>
+    <name>Leomund's Secret Chest</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Mordenkainen's Faithful Hound [2024]</name>
+    <name>Mordenkainen's Faithful Hound</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Mordenkainen's Private Sanctum [2024]</name>
+    <name>Mordenkainen's Private Sanctum</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere [2024]</name>
+    <name>Otiluke's Resilient Sphere</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Stone Shape [2024]</name>
+    <name>Stone Shape</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Stoneskin [2024]</name>
+    <name>Stoneskin</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Summon Construct [2024]</name>
+    <name>Summon Construct</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Animate Objects [2024]</name>
+    <name>Animate Objects</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Bigby's Hand [2024]</name>
+    <name>Bigby's Hand</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Circle of Power [2024]</name>
+    <name>Circle of Power</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Creation [2024]</name>
+    <name>Creation</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Greater Restoration [2024]</name>
+    <name>Greater Restoration</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Wall of Stone [2024]</name>
+    <name>Wall of Stone</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Healing Word [2024]</name>
+    <name>Healing Word</name>
     <classes>Artificer (Alchemist), Artificer (Cartographer)</classes>
   </spell>
   <spell>
-    <name>Ray of Sickness [2024]</name>
+    <name>Ray of Sickness</name>
     <classes>Artificer (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Flaming Sphere [2024]</name>
+    <name>Flaming Sphere</name>
     <classes>Artificer (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Melf's Acid Arrow [2024]</name>
+    <name>Melf's Acid Arrow</name>
     <classes>Artificer (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Gaseous Form [2024]</name>
+    <name>Gaseous Form</name>
     <classes>Artificer (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Mass Healing Word [2024]</name>
+    <name>Mass Healing Word</name>
     <classes>Artificer (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Death Ward [2024]</name>
+    <name>Death Ward</name>
     <classes>Artificer (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Vitriolic Sphere [2024]</name>
+    <name>Vitriolic Sphere</name>
     <classes>Artificer (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Cloudkill [2024]</name>
+    <name>Cloudkill</name>
     <classes>Artificer (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Raise Dead [2024]</name>
+    <name>Raise Dead</name>
     <classes>Artificer (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Shield [2024]</name>
+    <name>Shield</name>
     <classes>Artificer (Artillerist), Artificer (Battle Smith)</classes>
   </spell>
   <spell>
-    <name>Thunderwave [2024]</name>
+    <name>Thunderwave</name>
     <classes>Artificer (Artillerist), Artificer (Armorer)</classes>
   </spell>
   <spell>
-    <name>Scorching Ray [2024]</name>
+    <name>Scorching Ray</name>
     <classes>Artificer (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Shatter [2024]</name>
+    <name>Shatter</name>
     <classes>Artificer (Artillerist), Artificer (Armorer)</classes>
   </spell>
   <spell>
-    <name>Fireball [2024]</name>
+    <name>Fireball</name>
     <classes>Artificer (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Wind Wall [2024]</name>
+    <name>Wind Wall</name>
     <classes>Artificer (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Ice Storm [2024]</name>
+    <name>Ice Storm</name>
     <classes>Artificer (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Wall of Fire [2024]</name>
+    <name>Wall of Fire</name>
     <classes>Artificer (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Cone of Cold [2024]</name>
+    <name>Cone of Cold</name>
     <classes>Artificer (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Wall of Force [2024]</name>
+    <name>Wall of Force</name>
     <classes>Artificer (Artillerist), Artificer (Armorer)</classes>
   </spell>
   <spell>
-    <name>Magic Missile [2024]</name>
+    <name>Magic Missile</name>
     <classes>Artificer (Armorer)</classes>
   </spell>
   <spell>
-    <name>Mirror Image [2024]</name>
+    <name>Mirror Image</name>
     <classes>Artificer (Armorer)</classes>
   </spell>
   <spell>
-    <name>Hypnotic Pattern [2024]</name>
+    <name>Hypnotic Pattern</name>
     <classes>Artificer (Armorer)</classes>
   </spell>
   <spell>
-    <name>Lightning Bolt [2024]</name>
+    <name>Lightning Bolt</name>
     <classes>Artificer (Armorer)</classes>
   </spell>
   <spell>
-    <name>Fire Shield [2024]</name>
+    <name>Fire Shield</name>
     <classes>Artificer (Armorer), Artificer (Battle Smith)</classes>
   </spell>
   <spell>
-    <name>Greater Invisibility [2024]</name>
+    <name>Greater Invisibility</name>
     <classes>Artificer (Armorer)</classes>
   </spell>
   <spell>
-    <name>Passwall [2024]</name>
+    <name>Passwall</name>
     <classes>Artificer (Armorer)</classes>
   </spell>
   <spell>
-    <name>Heroism [2024]</name>
+    <name>Heroism</name>
     <classes>Artificer (Battle Smith)</classes>
   </spell>
   <spell>
-    <name>Shining Smite [2024]</name>
+    <name>Shining Smite</name>
     <classes>Artificer (Battle Smith)</classes>
   </spell>
   <spell>
-    <name>Warding Bond [2024]</name>
+    <name>Warding Bond</name>
     <classes>Artificer (Battle Smith)</classes>
   </spell>
   <spell>
-    <name>Aura of Vitality [2024]</name>
+    <name>Aura of Vitality</name>
     <classes>Artificer (Battle Smith)</classes>
   </spell>
   <spell>
-    <name>Conjure Barrage [2024]</name>
+    <name>Conjure Barrage</name>
     <classes>Artificer (Battle Smith)</classes>
   </spell>
   <spell>
-    <name>Aura of Purity [2024]</name>
+    <name>Aura of Purity</name>
     <classes>Artificer (Battle Smith)</classes>
   </spell>
   <spell>
-    <name>Banishing Smite [2024]</name>
+    <name>Banishing Smite</name>
     <classes>Artificer (Battle Smith)</classes>
   </spell>
   <spell>
-    <name>Mass Cure Wounds [2024]</name>
+    <name>Mass Cure Wounds</name>
     <classes>Artificer (Battle Smith)</classes>
   </spell>
   <spell>
-    <name>Guiding Bolt [2024]</name>
+    <name>Guiding Bolt</name>
     <classes>Artificer (Cartographer)</classes>
   </spell>
   <spell>
-    <name>Locate Object [2024]</name>
+    <name>Locate Object</name>
     <classes>Artificer (Cartographer)</classes>
   </spell>
   <spell>
-    <name>Mind Spike [2024]</name>
+    <name>Mind Spike</name>
     <classes>Artificer (Cartographer)</classes>
   </spell>
   <spell>
-    <name>Call Lightning [2024]</name>
+    <name>Call Lightning</name>
     <classes>Artificer (Cartographer)</classes>
   </spell>
   <spell>
-    <name>Clairvoyance [2024]</name>
+    <name>Clairvoyance</name>
     <classes>Artificer (Cartographer)</classes>
   </spell>
   <spell>
-    <name>Banishment [2024]</name>
+    <name>Banishment</name>
     <classes>Artificer (Cartographer)</classes>
   </spell>
   <spell>
-    <name>Locate Creature [2024]</name>
+    <name>Locate Creature</name>
     <classes>Artificer (Cartographer)</classes>
   </spell>
   <spell>
-    <name>Scrying [2024]</name>
+    <name>Scrying</name>
     <classes>Artificer (Cartographer)</classes>
   </spell>
   <spell>
-    <name>Teleportation Circle [2024]</name>
+    <name>Teleportation Circle</name>
     <classes>Artificer (Cartographer)</classes>
   </spell>
 </compendium>

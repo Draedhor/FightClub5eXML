@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Void Star [5.5e]</name>
+    <name>Void Star (UA)</name>
     <level>7</level>
     <school>N</school>
     <time>1 action</time>
@@ -19,7 +19,7 @@ Source:	DND Beyond Drops - June</text>
     <roll description="Necrotic Damage" level="9">8d12</roll>
   </spell>
   <spell>
-    <name>Tortoise Shell [5.5e]</name>
+    <name>Tortoise Shell (UA)</name>
     <level>2</level>
     <school>A</school>
     <time>1 action</time>
@@ -32,7 +32,7 @@ Source:	DND Beyond Drops - June</text>
 Source:	DND Beyond Drops - June</text>
   </spell>
   <spell>
-    <name>Searing Orb</name>
+    <name>Searing Orb (UA)</name>
     <level>2</level>
     <school>EV</school>
     <time>action</time>

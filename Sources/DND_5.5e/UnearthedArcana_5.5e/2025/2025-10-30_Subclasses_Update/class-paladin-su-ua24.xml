@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Paladin</name>
+    <name>Paladin (UA)</name>
     <!-- Paladin Subclass: Oathbreaker (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -74,43 +74,43 @@ Source:	Subclasses Update p. 6 (Unearthed Arcana)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Hellish Rebuke [2024]</name>
+    <name>Hellish Rebuke (UA)</name>
     <classes>Paladin (Oathbreaker (UA))</classes>
   </spell>
   <spell>
-    <name>Witch Bolt [2024]</name>
+    <name>Witch Bolt (UA)</name>
     <classes>Paladin (Oathbreaker (UA))</classes>
   </spell>
   <spell>
-    <name>Crown of Madness [2024]</name>
+    <name>Crown of Madness (UA)</name>
     <classes>Paladin (Oathbreaker (UA))</classes>
   </spell>
   <spell>
-    <name>Darkness [2024]</name>
+    <name>Darkness (UA)</name>
     <classes>Paladin (Oathbreaker (UA))</classes>
   </spell>
   <spell>
-    <name>Fear [2024]</name>
+    <name>Fear (UA)</name>
     <classes>Paladin (Oathbreaker (UA))</classes>
   </spell>
   <spell>
-    <name>Summon Undead [2024]</name>
+    <name>Summon Undead (UA)</name>
     <classes>Paladin (Oathbreaker (UA))</classes>
   </spell>
   <spell>
-    <name>Blight [2024]</name>
+    <name>Blight (UA)</name>
     <classes>Paladin (Oathbreaker (UA))</classes>
   </spell>
   <spell>
-    <name>Phantasmal Killer [2024]</name>
+    <name>Phantasmal Killer (UA)</name>
     <classes>Paladin (Oathbreaker (UA))</classes>
   </spell>
   <spell>
-    <name>Contagion [2024]</name>
+    <name>Contagion (UA)</name>
     <classes>Paladin (Oathbreaker (UA))</classes>
   </spell>
   <spell>
-    <name>Steel Wind Strike [2024]</name>
+    <name>Steel Wind Strike (UA)</name>
     <classes>Paladin (Oathbreaker (UA))</classes>
   </spell>
 </compendium>

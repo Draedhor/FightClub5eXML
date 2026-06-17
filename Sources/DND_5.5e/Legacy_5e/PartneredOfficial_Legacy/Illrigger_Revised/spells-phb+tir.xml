@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Chill Touch [2024]</name>
+    <name>Chill Touch</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Dancing Lights [2024]</name>
+    <name>Dancing Lights</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Fire Bolt [2024]</name>
+    <name>Fire Bolt</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
@@ -17,23 +17,23 @@
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Message [2024]</name>
+    <name>Message</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Minor Illusion [2024]</name>
+    <name>Minor Illusion</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Ray of Frost [2024]</name>
+    <name>Ray of Frost</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Shocking Grasp [2024]</name>
+    <name>Shocking Grasp</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Thaumaturgy [2024]</name>
+    <name>Thaumaturgy</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
@@ -41,35 +41,35 @@
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Vicious Mockery [2024]</name>
+    <name>Vicious Mockery</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Bane [2024]</name>
+    <name>Bane</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Burning Hands [2024]</name>
+    <name>Burning Hands</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Charm Person [2024]</name>
+    <name>Charm Person</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Color Spray [2024]</name>
+    <name>Color Spray</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Command [2024]</name>
+    <name>Command</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Detect Magic [2024]</name>
+    <name>Detect Magic</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Disguise Self [2024]</name>
+    <name>Disguise Self</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
@@ -77,51 +77,51 @@
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Hellish Rebuke [2024]</name>
+    <name>Hellish Rebuke</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Shield [2024]</name>
+    <name>Shield</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Shield of Faith [2024]</name>
+    <name>Shield of Faith</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Silent Image [2024]</name>
+    <name>Silent Image</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Nystul's Magic Aura [2024]</name>
+    <name>Nystul's Magic Aura</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Augury [2024]</name>
+    <name>Augury</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Blur [2024]</name>
+    <name>Blur</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Darkness [2024]</name>
+    <name>Darkness</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Detect Thoughts [2024]</name>
+    <name>Detect Thoughts</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Enthrall [2024]</name>
+    <name>Enthrall</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Heat Metal [2024]</name>
+    <name>Heat Metal</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Hold Person [2024]</name>
+    <name>Hold Person</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
@@ -129,55 +129,55 @@
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Invisibility [2024]</name>
+    <name>Invisibility</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration [2024]</name>
+    <name>Lesser Restoration</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Mirror Image [2024]</name>
+    <name>Mirror Image</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Ray of Enfeeblement [2024]</name>
+    <name>Ray of Enfeeblement</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Scorching Ray [2024]</name>
+    <name>Scorching Ray</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Silence [2024]</name>
+    <name>Silence</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Suggestion [2024]</name>
+    <name>Suggestion</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Bestow Curse [2024]</name>
+    <name>Bestow Curse</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Dispel Magic [2024]</name>
+    <name>Dispel Magic</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Fear [2024]</name>
+    <name>Fear</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Fly [2024]</name>
+    <name>Fly</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Haste [2024]</name>
+    <name>Haste</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Major Image [2024]</name>
+    <name>Major Image</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
@@ -185,19 +185,19 @@
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Phantom Steed [2024]</name>
+    <name>Phantom Steed</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Remove Curse [2024]</name>
+    <name>Remove Curse</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Revivify [2024]</name>
+    <name>Revivify</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Slow [2024]</name>
+    <name>Slow</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
@@ -205,39 +205,39 @@
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Banishment [2024]</name>
+    <name>Banishment</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Blight [2024]</name>
+    <name>Blight</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Compulsion [2024]</name>
+    <name>Compulsion</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Death Ward [2024]</name>
+    <name>Death Ward</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Dimension Door [2024]</name>
+    <name>Dimension Door</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Dominate Beast [2024]</name>
+    <name>Dominate Beast</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Greater Invisibility [2024]</name>
+    <name>Greater Invisibility</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Hallucinatory Terrain [2024]</name>
+    <name>Hallucinatory Terrain</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Locate Creature [2024]</name>
+    <name>Locate Creature</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
@@ -245,7 +245,7 @@
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>
-    <name>Phantasmal Killer [2024]</name>
+    <name>Phantasmal Killer</name>
     <classes>Illrigger (Architect of Ruin)</classes>
   </spell>
   <spell>

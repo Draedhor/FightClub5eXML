@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Rogue</name>
+    <name>Rogue (UA)</name>
     <!-- Rogue Subclass: Phantom (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -64,13 +64,13 @@ Source:	UA2024-Horror Subclasses p. 6</text>
 Source:	UA2024-Horror Subclasses p. 6</text>
       </feature>
       <counter>
-        <name>Soul Trinkets</name>
+        <name>Soul Trinkets (UA)</name>
         <value>2</value>
         <reset>L</reset>
         <subclass>Phantom (UA)</subclass>
       </counter>
       <counter>
-        <name>Voice of Death</name>
+        <name>Voice of Death (UA)</name>
         <value>1</value>
         <reset>S</reset>
         <subclass>Phantom (UA)</subclass>
@@ -90,7 +90,7 @@ Source:	UA2024-Horror Subclasses p. 6</text>
 Source:	UA2024-Horror Subclasses p. 6</text>
       </feature>
       <counter>
-        <name>Soul Trinkets</name>
+        <name>Soul Trinkets (UA)</name>
         <value>3</value>
         <reset>L</reset>
         <subclass>Phantom (UA)</subclass>
@@ -108,7 +108,7 @@ Source:	UA2024-Horror Subclasses p. 6</text>
 Source:	UA2024-Horror Subclasses p. 7</text>
       </feature>
       <counter>
-        <name>Soul Trinkets</name>
+        <name>Soul Trinkets (UA)</name>
         <value>4</value>
         <reset>L</reset>
         <subclass>Phantom (UA)</subclass>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Esoteric Theory: Acquired Tolerance</name>
+    <name>Esoteric Theory: Acquired Tolerance (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 1st-level Apothecary (Drakkenheim)
@@ -11,7 +11,7 @@ You have advantage on saving throws against poison, and you gain resistance to p
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 136 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Adrenaline Surge</name>
+    <name>Esoteric Theory: Adrenaline Surge (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 6th-level Apothecary (Drakkenheim)
@@ -21,7 +21,7 @@ A creature at 0 hit points who regains hit points from a spell you cast using an
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 136 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Anatomical Precision</name>
+    <name>Esoteric Theory: Anatomical Precision (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 1st-level Apothecary (Drakkenheim)
@@ -31,7 +31,7 @@ When you make a weapon attack, you can use your Intelligence modifier, instead o
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 136 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Anesthesiology</name>
+    <name>Esoteric Theory: Anesthesiology (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 14th-level Apothecary (Drakkenheim)
@@ -41,7 +41,7 @@ You can cast hold person without expending a spell slot or requiring material co
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 137 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Bedside Manner</name>
+    <name>Esoteric Theory: Bedside Manner (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 1st-level Apothecary (Drakkenheim)
@@ -53,7 +53,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 137 (Third Party)</text>
     <modifier category="skill">persuasion +%0</modifier>
   </spell>
   <spell>
-    <name>Esoteric Theory: Caustic Formulae</name>
+    <name>Esoteric Theory: Caustic Formulae (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 6th-level Apothecary (Drakkenheim)
@@ -63,7 +63,7 @@ Once per turn when you deal damage to a creature or object with an apothecary sp
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 137 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Clinical Conditioning</name>
+    <name>Esoteric Theory: Clinical Conditioning (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 6th-level Apothecary (Drakkenheim)
@@ -74,7 +74,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 137 (Third Party)</text>
     <modifier category="saving throw">constitution save +%0</modifier>
   </spell>
   <spell>
-    <name>Esoteric Theory: Combat Medic</name>
+    <name>Esoteric Theory: Combat Medic (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 1st-level Apothecary (Drakkenheim)
@@ -84,7 +84,7 @@ You gain proficiency with martial weapons and shields.
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 137 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Corrosive Compound</name>
+    <name>Esoteric Theory: Corrosive Compound (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 6th-level Apothecary (Drakkenheim)
@@ -94,7 +94,7 @@ When you deal poison damage with your apothecary spells, you can choose to deal 
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 137 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Cosmetic Surgery</name>
+    <name>Esoteric Theory: Cosmetic Surgery (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 1st-level Apothecary (Drakkenheim)
@@ -104,7 +104,7 @@ You can spend 8 hours performing an occult surgical procedure upon a willing cre
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 137 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Critical Condition</name>
+    <name>Esoteric Theory: Critical Condition (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 6th-level Apothecary (Drakkenheim)
@@ -114,7 +114,7 @@ When a creature rolls a natural 1 on a saving throw made against one of your apo
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 137 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Diagnosis</name>
+    <name>Esoteric Theory: Diagnosis (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 1st-level Apothecary (Drakkenheim)
@@ -124,7 +124,7 @@ You can take the Help action as a bonus action on your turn.
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 137 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Doctor's Note</name>
+    <name>Esoteric Theory: Doctor's Note (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 6th-level Apothecary (Drakkenheim)
@@ -134,7 +134,7 @@ You can cast the sending spell at-will. You must finish a long rest before you c
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 137 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Double Dose</name>
+    <name>Esoteric Theory: Double Dose (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 10th-level Apothecary (Drakkenheim)
@@ -144,7 +144,7 @@ When you cast an apothecary spell using an apothecary spell slot that targets a 
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 137 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Extracurricular Research</name>
+    <name>Esoteric Theory: Extracurricular Research (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 1st-level Apothecary (Drakkenheim)
@@ -154,7 +154,7 @@ You learn two additional cantrips of your choice from any class's spell list. Th
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 137 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Inoculation</name>
+    <name>Esoteric Theory: Inoculation (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 1st-level Apothecary (Drakkenheim)
@@ -164,7 +164,7 @@ You have resistance to necrotic damage, and your hit point maximum can't be redu
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 137 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Interdisciplinary Practice</name>
+    <name>Esoteric Theory: Interdisciplinary Practice (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 14th-level Apothecary (Drakkenheim)
@@ -174,7 +174,7 @@ When you use your action to cast a spell, you can make one weapon attack as a bo
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 137 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Laboratory Assistant</name>
+    <name>Esoteric Theory: Laboratory Assistant (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 1st-level Apothecary (Drakkenheim)
@@ -184,7 +184,7 @@ You learn the spell find familiar, and always have this spell prepared. It doesn
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 137 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Liability Insurance</name>
+    <name>Esoteric Theory: Liability Insurance (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 14th-level Apothecary (Drakkenheim)
@@ -194,7 +194,7 @@ You can cast contingency once on yourself without material components. You can't
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 137 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Medical Expertise</name>
+    <name>Esoteric Theory: Medical Expertise (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 1st-level Apothecary (Drakkenheim)
@@ -206,7 +206,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 137 (Third Party)</text>
     <modifier category="skill">nature +%0</modifier>
   </spell>
   <spell>
-    <name>Esoteric Theory: Medical Lexicon</name>
+    <name>Esoteric Theory: Medical Lexicon (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 1st-level Apothecary (Drakkenheim)
@@ -216,7 +216,7 @@ You learn six languages of your choice. You can cast detect poison and disease a
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 137 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Nerve Agent</name>
+    <name>Esoteric Theory: Nerve Agent (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 1st-level Apothecary (Drakkenheim)
@@ -226,7 +226,7 @@ When you deal poison damage with your apothecary spells, you can choose to deal 
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 137 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Noxious Blood</name>
+    <name>Esoteric Theory: Noxious Blood (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 6th-level Apothecary (Drakkenheim)
@@ -237,7 +237,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 138 (Third Party)</text>
     <roll description="Poison Damage">1d6+%3</roll>
   </spell>
   <spell>
-    <name>Esoteric Theory: Pharmacology</name>
+    <name>Esoteric Theory: Pharmacology (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 1st-level Apothecary (Drakkenheim)
@@ -247,7 +247,7 @@ When you cast a spell using an apothecary spell slot or your Greater Formula fea
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 138 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Physiological Analysis</name>
+    <name>Esoteric Theory: Physiological Analysis (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 1st-level Apothecary (Drakkenheim)
@@ -266,7 +266,7 @@ Alternatively, you can spend 1 minute observing a corpse. After 1 minute, you de
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 138 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Practical Resuscitation</name>
+    <name>Esoteric Theory: Practical Resuscitation (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 10th-level Apothecary (Drakkenheim)
@@ -276,7 +276,7 @@ When you cast a spell that has the sole effect of restoring a creature to life (
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 138 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Putrefaction</name>
+    <name>Esoteric Theory: Putrefaction (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 1st-level Apothecary (Drakkenheim)
@@ -286,7 +286,7 @@ Your apothecary spells and abilities ignore undead creatures' resistance or immu
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 138 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Rapid Response</name>
+    <name>Esoteric Theory: Rapid Response (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 1st-level Apothecary (Drakkenheim)
@@ -296,7 +296,7 @@ When you cast an apothecary spell that restores hit points to a creature, before
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 138 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Routine Procedure</name>
+    <name>Esoteric Theory: Routine Procedure (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 10th-level Apothecary (Drakkenheim)
@@ -306,7 +306,7 @@ You can cast lesser restoration at-will without expending a spell slot.
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 138 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Stolen Secrets</name>
+    <name>Esoteric Theory: Stolen Secrets (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 10th-level Apothecary (Drakkenheim)
@@ -316,7 +316,7 @@ You learn one spell from any class's spell list. It must be of a level for which
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 138 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Subject Preparation</name>
+    <name>Esoteric Theory: Subject Preparation (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 10th-level Apothecary (Drakkenheim)
@@ -326,7 +326,7 @@ When you hit a creature with a melee weapon attack, that creature has disadvanta
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 138 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Surgeon's Instinct</name>
+    <name>Esoteric Theory: Surgeon's Instinct (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 1st-level Apothecary (Drakkenheim)
@@ -336,7 +336,7 @@ You have blindsight out to a range of 10 feet.
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 138 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Surgical Strikes</name>
+    <name>Esoteric Theory: Surgical Strikes (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 6th-level Apothecary (Drakkenheim)
@@ -346,7 +346,7 @@ You can attack twice, instead of once, when you take the Attack action on your t
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 138 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Toxicology</name>
+    <name>Esoteric Theory: Toxicology (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 6th-level Apothecary (Drakkenheim)
@@ -356,7 +356,7 @@ You add your Intelligence modifier to the damage rolls of spells that deal poiso
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 138 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Triage</name>
+    <name>Esoteric Theory: Triage (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 1st-level Apothecary (Drakkenheim)
@@ -366,7 +366,7 @@ You learn the spare the dying cantrip if you don't know it already. When you cas
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 138 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Unfailing Focus</name>
+    <name>Esoteric Theory: Unfailing Focus (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 6th-level Apothecary (Drakkenheim)
@@ -376,7 +376,7 @@ When you fail a Constitution saving throw to maintain concentration on an apothe
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 138 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Venomous Instruments</name>
+    <name>Esoteric Theory: Venomous Instruments (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 10th-level Apothecary (Drakkenheim)
@@ -386,7 +386,7 @@ When you hit a creature with a weapon attack, the creature takes extra poison da
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 138 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Virulence</name>
+    <name>Esoteric Theory: Virulence (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 1st-level Apothecary (Drakkenheim)
@@ -396,7 +396,7 @@ When you roll a 1 on a damage die for an apothecary spell that deals poison dama
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 138 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Vital Signs</name>
+    <name>Esoteric Theory: Vital Signs (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 1st-level Apothecary (Drakkenheim)
@@ -406,7 +406,7 @@ When a creature you can see within 30 feet of you fails a saving throw or death 
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 138 (Third Party)</text>
   </spell>
   <spell>
-    <name>Esoteric Theory: Vivisection</name>
+    <name>Esoteric Theory: Vivisection (TP)</name>
     <level>0</level>
     <classes>Apothecary (Drakkenheim): Esoteric Theory</classes>
     <text>Prerequisite: 6th-level Apothecary (Drakkenheim)

@@ -5,7 +5,7 @@
     <!-- Sacred Oath: Oath of Hexes (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Sacred Oath: Oath of Hexes (HB)</name>
+        <name>Sacred Oath: Oath of Hexes (TP)</name>
         <text>Those who swear an oath of hexes are sworn to witch covens, fey creatures, and occult deities of magic, fate, and death. In exchange, this sacred oath empowers paladins with fickle magic to curse those who would try to tempt fate or escape the ire of the Old Gods.
 
 Tenets of Hexes:
@@ -31,13 +31,13 @@ Paladin Level | Spells
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 165 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Channel Divinity: Curse of Hexes (Oath of Hexes (HB))</name>
+        <name>Channel Divinity: Curse of Hexes (Oath of Hexes (TP))</name>
         <text>As an action, you curse one creature you can see within 30 feet of you. When you curse a target, choose an ability score. The chosen creature has disadvantage on attack rolls, saving throws, and ability checks using that ability score for one minute or until it drops to 0 hit points or falls unconscious. At the end of each of the cursed creature's turns, it can make a Charisma saving throw against your spell save DC. On a successful save, the curse ends.
 
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 165 (Third Party)</text>
       </feature>
       <feature optional="YES">
-        <name>Channel Divinity: Curse of Torment (Oath of Hexes (HB))</name>
+        <name>Channel Divinity: Curse of Torment (Oath of Hexes (TP))</name>
         <text>As a bonus action, you curse one creature you can see within 30 feet of you. Searing pain wracks the target for one minute. While suffering this pain, it takes necrotic damage equal to your paladin level at the start of each of its turns. Each time it takes this damage, it can make a Wisdom saving throw against your spell save DC. On a successful save, the pain ends.
 
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 165 (Third Party)</text>
@@ -45,7 +45,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 165 (Third Party)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Bewitching Aura (Oath of Hexes (HB))</name>
+        <name>Bewitching Aura (Oath of Hexes (TP))</name>
         <text>You emit an eldritch aura out to a range of 10 feet. When an enemy hits you or a creature within 10 feet of you with an attack, you can use your reaction to force that enemy to make a Charisma saving throw against your spell save DC. On a failed save, you can magically redirect the attack to another creature of your choice within 10 feet of you and within range of the attack. The new target is hit by the attack and suffers all damage and effects.
 	At 18th level, the range of this aura increases to 30 feet.
 
@@ -54,7 +54,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 165 (Third Party)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Reversal of Fortune (Oath of Hexes (HB))</name>
+        <name>Reversal of Fortune (Oath of Hexes (TP))</name>
         <text>Whenever a creature scores a critical hit against you, the next time you hit that creature with an attack, that attack automatically becomes a critical hit.
 
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 165 (Third Party)</text>
@@ -62,7 +62,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 165 (Third Party)</text>
     </autolevel>
     <autolevel level="20">
       <feature optional="YES">
-        <name>Death Hex (Oath of Hexes (HB))</name>
+        <name>Death Hex (Oath of Hexes (TP))</name>
         <text>A creature afflicted by your Curse of Hexes or Curse of Torment becomes vulnerable to all damage.
 
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 165 (Third Party)</text>
@@ -70,47 +70,47 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 165 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Hellish Rebuke</name>
+    <name>Hellish Rebuke (TP)</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
   <spell>
-    <name>Tasha's Hideous Laughter</name>
+    <name>Tasha's Hideous Laughter (TP)</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
   <spell>
-    <name>Eldritch Blast</name>
+    <name>Eldritch Blast (TP)</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
   <spell>
-    <name>Invisibility</name>
+    <name>Invisibility (TP)</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
   <spell>
-    <name>Suggestion</name>
+    <name>Suggestion (TP)</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
   <spell>
-    <name>Bestow Curse</name>
+    <name>Bestow Curse (TP)</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
   <spell>
-    <name>Fear</name>
+    <name>Fear (TP)</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
   <spell>
-    <name>Dimension Door</name>
+    <name>Dimension Door (TP)</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
   <spell>
-    <name>Polymorph</name>
+    <name>Polymorph (TP)</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
   <spell>
-    <name>Dominate Person</name>
+    <name>Dominate Person (TP)</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
   <spell>
-    <name>Mislead</name>
+    <name>Mislead (TP)</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
 </compendium>

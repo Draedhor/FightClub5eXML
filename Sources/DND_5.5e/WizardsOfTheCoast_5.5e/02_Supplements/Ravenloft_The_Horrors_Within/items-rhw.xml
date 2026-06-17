@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Ebonbane [5.5e]</name>
+    <name>Ebonbane</name>
     <detail>longsword, artifact (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -38,7 +38,7 @@ Source:	Ravenloft: The Horrors Within,
     <roll description="Necrotic Damage">3d6</roll>
   </item>
   <item>
-    <name>Harkon's Bite [5.5e]</name>
+    <name>Harkon's Bite</name>
     <detail>cursed, uncommon (requires attunement by a humanoid)</detail>
     <type>W</type>
     <magic>YES</magic>

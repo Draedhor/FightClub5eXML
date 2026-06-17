@@ -635,151 +635,151 @@ Source:	Player's Handbook (2024) p. 89</text>
     </autolevel>
   </class>
   <spell>
-    <name>Cure Wounds [2024]</name>
+    <name>Cure Wounds</name>
     <classes>Druid (Circle of the Moon)</classes>
   </spell>
   <spell>
-    <name>Moonbeam [2024]</name>
+    <name>Moonbeam</name>
     <classes>Druid (Circle of the Moon)</classes>
   </spell>
   <spell>
-    <name>Starry Wisp [2024]</name>
+    <name>Starry Wisp</name>
     <classes>Druid (Circle of the Moon)</classes>
   </spell>
   <spell>
-    <name>Conjure Animals [2024]</name>
+    <name>Conjure Animals</name>
     <classes>Druid (Circle of the Moon)</classes>
   </spell>
   <spell>
-    <name>Fount of Moonlight [2024]</name>
+    <name>Fount of Moonlight</name>
     <classes>Druid (Circle of the Moon)</classes>
   </spell>
   <spell>
-    <name>Mass Cure Wounds [2024]</name>
+    <name>Mass Cure Wounds</name>
     <classes>Druid (Circle of the Moon)</classes>
   </spell>
   <spell>
-    <name>Blur [2024]</name>
+    <name>Blur</name>
     <classes>Druid (Circle of the Land) (Arid)</classes>
   </spell>
   <spell>
-    <name>Burning Hands [2024]</name>
+    <name>Burning Hands</name>
     <classes>Druid (Circle of the Land) (Arid)</classes>
   </spell>
   <spell>
-    <name>Fire Bolt [2024]</name>
+    <name>Fire Bolt</name>
     <classes>Druid (Circle of the Land) (Arid)</classes>
   </spell>
   <spell>
-    <name>Fireball [2024]</name>
+    <name>Fireball</name>
     <classes>Druid (Circle of the Land) (Arid)</classes>
   </spell>
   <spell>
-    <name>Blight [2024]</name>
+    <name>Blight</name>
     <classes>Druid (Circle of the Land) (Arid)</classes>
   </spell>
   <spell>
-    <name>Wall of Stone [2024]</name>
+    <name>Wall of Stone</name>
     <classes>Druid (Circle of the Land) (Arid)</classes>
   </spell>
   <spell>
-    <name>Fog Cloud [2024]</name>
+    <name>Fog Cloud</name>
     <classes>Druid (Circle of the Land) (Polar), Druid (Circle of the Sea)</classes>
   </spell>
   <spell>
-    <name>Hold Person [2024]</name>
+    <name>Hold Person</name>
     <classes>Druid (Circle of the Land) (Polar)</classes>
   </spell>
   <spell>
-    <name>Ray of Frost [2024]</name>
+    <name>Ray of Frost</name>
     <classes>Druid (Circle of the Land) (Polar), Druid (Circle of the Sea)</classes>
   </spell>
   <spell>
-    <name>Sleet Storm [2024]</name>
+    <name>Sleet Storm</name>
     <classes>Druid (Circle of the Land) (Polar)</classes>
   </spell>
   <spell>
-    <name>Ice Storm [2024]</name>
+    <name>Ice Storm</name>
     <classes>Druid (Circle of the Land) (Polar), Druid (Circle of the Sea)</classes>
   </spell>
   <spell>
-    <name>Cone of Cold [2024]</name>
+    <name>Cone of Cold</name>
     <classes>Druid (Circle of the Land) (Polar)</classes>
   </spell>
   <spell>
-    <name>Misty Step [2024]</name>
+    <name>Misty Step</name>
     <classes>Druid (Circle of the Land) (Temperate)</classes>
   </spell>
   <spell>
-    <name>Shocking Grasp [2024]</name>
+    <name>Shocking Grasp</name>
     <classes>Druid (Circle of the Land) (Temperate)</classes>
   </spell>
   <spell>
-    <name>Sleep [2024]</name>
+    <name>Sleep</name>
     <classes>Druid (Circle of the Land) (Temperate)</classes>
   </spell>
   <spell>
-    <name>Lightning Bolt [2024]</name>
+    <name>Lightning Bolt</name>
     <classes>Druid (Circle of the Land) (Temperate), Druid (Circle of the Sea)</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement [2024]</name>
+    <name>Freedom of Movement</name>
     <classes>Druid (Circle of the Land) (Temperate)</classes>
   </spell>
   <spell>
-    <name>Tree Stride [2024]</name>
+    <name>Tree Stride</name>
     <classes>Druid (Circle of the Land) (Temperate)</classes>
   </spell>
   <spell>
-    <name>Acid Splash [2024]</name>
+    <name>Acid Splash</name>
     <classes>Druid (Circle of the Land) (Tropical)</classes>
   </spell>
   <spell>
-    <name>Ray of Sickness [2024]</name>
+    <name>Ray of Sickness</name>
     <classes>Druid (Circle of the Land) (Tropical)</classes>
   </spell>
   <spell>
-    <name>Web [2024]</name>
+    <name>Web</name>
     <classes>Druid (Circle of the Land) (Tropical)</classes>
   </spell>
   <spell>
-    <name>Stinking Cloud [2024]</name>
+    <name>Stinking Cloud</name>
     <classes>Druid (Circle of the Land) (Tropical)</classes>
   </spell>
   <spell>
-    <name>Polymorph [2024]</name>
+    <name>Polymorph</name>
     <classes>Druid (Circle of the Land) (Tropical)</classes>
   </spell>
   <spell>
-    <name>Insect Plague [2024]</name>
+    <name>Insect Plague</name>
     <classes>Druid (Circle of the Land) (Tropical)</classes>
   </spell>
   <spell>
-    <name>Gust of Wind [2024]</name>
+    <name>Gust of Wind</name>
     <classes>Druid (Circle of the Sea)</classes>
   </spell>
   <spell>
-    <name>Shatter [2024]</name>
+    <name>Shatter</name>
     <classes>Druid (Circle of the Sea)</classes>
   </spell>
   <spell>
-    <name>Thunderwave [2024]</name>
+    <name>Thunderwave</name>
     <classes>Druid (Circle of the Sea)</classes>
   </spell>
   <spell>
-    <name>Water Breathing [2024]</name>
+    <name>Water Breathing</name>
     <classes>Druid (Circle of the Sea)</classes>
   </spell>
   <spell>
-    <name>Control Water [2024]</name>
+    <name>Control Water</name>
     <classes>Druid (Circle of the Sea)</classes>
   </spell>
   <spell>
-    <name>Conjure Elemental [2024]</name>
+    <name>Conjure Elemental</name>
     <classes>Druid (Circle of the Sea)</classes>
   </spell>
   <spell>
-    <name>Hold Monster [2024]</name>
+    <name>Hold Monster</name>
     <classes>Druid (Circle of the Sea)</classes>
   </spell>
 </compendium>

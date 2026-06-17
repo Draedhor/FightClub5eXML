@@ -5,13 +5,13 @@
     <!-- Training Paradigm: Siphoner -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Training Paradigm: Siphoner</name>
+        <name>Training Paradigm: Siphoner (TP)</name>
         <text>Whether it be blood, bone marrow, or primordial essence, you are a specialist at funnelling the life force of a foe into your companions. With their biomantic signature captured, you can turn this power back on its donor in the form of blood disease or, in the case of the bloodless, crippling internal afflictions. A student of physiologies of all persuasions, you are as adept at restoring the plagued as you are at disseminating debilitating maladies.
 
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 482 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Siphon (Siphoner)</name>
+        <name>Siphon (Siphoner) (TP)</name>
         <text>Your companions' attacks siphon motes of its target's life force. Once per turn, when your companion hits a creature of CR ¼ or higher with an attack and reduces its current hit points, your companion gains 1 haemophilic charge and the target becomes marked. Your companion can have a maximum number of charges equal to your proficiency bonus plus your tamer spellcasting ability modifier and loses all charges 1 minute after it gains its last one. When a companion loses its haemophilic charges, any creatures marked by it cease being marked.
 
 Current &amp; Temporary Hit Points:
@@ -20,7 +20,7 @@ The Siphon feature does not trigger if the damage a companion deals only damages
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 482 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Affliction (Siphoner)</name>
+        <name>Affliction (Siphoner) (TP)</name>
         <text>As an action, you can spend a number of your summoned companion's haemophilic charges up to your proficiency bonus (minimum of 1) to produce one of the following effects of your choice. If an effect calls for a saving throw, this is against your tamer spell save DC.
 
 	• Haemorrhage: The next time your companion hits a creature marked by it with an attack before the end of your next turn, that creature begins bleeding for 1 minute. While bleeding, a creature takes 1d6 necrotic damage at the start of each of its turns for each charge spent and then makes a Constitution saving throw, ending the effect on a success. A creature that doesn't have blood is immune to this effect.
@@ -41,7 +41,7 @@ When a creature (including a player character) is affected by a spell like domin
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 482 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Siphoner Spells (Siphoner)</name>
+        <name>Siphoner Spells (Siphoner) (TP)</name>
         <text>You learn additional spells when you reach certain levels in this class, as shown in the Siphoner Spells table. Each spell counts as a tamer spell for you, but it doesn't count against the number of tamer spells you know.
 
 Siphoner Spells:
@@ -60,14 +60,14 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 484 (Homebrew)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Corruption (Siphoner)</name>
+        <name>Corruption (Siphoner) (TP)</name>
         <text>You've taught your companion how to use its haemophilic charges to corrupt the biospheres of those around it. Choose one of the following diseases from the contagion spell: blinding sickness, filth fever, mindfire, or seizure. As an action on its turn, your summoned companion can spend a number of haemophilic charges up to your proficiency bonus to force an equal number of creatures it can see within 30 feet of it to each make a Constitution saving throw. Creatures marked by your companion have disadvantage on this saving throw. On a failure, a creature is poisoned and immediately becomes afflicted by the chosen disease's effect for 10 minutes. An affected creature can repeat the saving throw at the end of each of its turns, ending the poisoned condition and the effect on itself on a success.
 	After your companion uses this feature, that companion can't use this feature again until you finish a short or long rest.
 
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 484 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Corruption</name>
+        <name>Corruption (TP)</name>
         <value>1</value>
         <reset>S</reset>
         <subclass>Siphoner</subclass>
@@ -75,7 +75,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 484 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Warding Transfusion (Siphoner)</name>
+        <name>Warding Transfusion (Siphoner) (TP)</name>
         <text>Whenever you summon a companion, you can create a haematological bond with it (no action required). Until the companion is dismissed, you become linked as per the warding bond spell. This effect doesn't end by you and the companion being more than 60 feet apart and, for the duration, neither you nor your companion can be the target of a warding bond spell.
 
 	Transfusion. As a reaction when you take damage, you can spend a number of your companion's haemophilic charges up to your proficiency bonus to invigorate your body. The damage is reduced by 2d6 for each charge spent.
@@ -86,7 +86,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 484 (Homebrew)</text>
     </autolevel>
     <autolevel level="14">
       <feature optional="YES">
-        <name>Universal Recipient (Siphoner)</name>
+        <name>Universal Recipient (Siphoner) (TP)</name>
         <text>As an action, you transform the physiology of your summoned companion, causing it to become a willing recipient for all blood types. For the next minute, your companion gains the following traits. If an effect calls for a saving throw, this is against your tamer spell save DC.
 
 	• Once per turn, when a creature hits your companion with a melee attack and its current hit points are reduced, your companion gains one haemophilic charge and the attacker becomes marked, as per the Siphon feature.
@@ -106,43 +106,43 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 484 (Homebrew)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Cure Wounds</name>
+    <name>Cure Wounds (TP)</name>
     <classes>Tamer (TP) (Siphoner)</classes>
   </spell>
   <spell>
-    <name>Tasha's Hideous Laughter</name>
+    <name>Tasha's Hideous Laughter (TP)</name>
     <classes>Tamer (TP) (Siphoner)</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration</name>
+    <name>Lesser Restoration (TP)</name>
     <classes>Tamer (TP) (Siphoner)</classes>
   </spell>
   <spell>
-    <name>Levitate</name>
+    <name>Levitate (TP)</name>
     <classes>Tamer (TP) (Siphoner)</classes>
   </spell>
   <spell>
-    <name>Bestow Curse</name>
+    <name>Bestow Curse (TP)</name>
     <classes>Tamer (TP) (Siphoner)</classes>
   </spell>
   <spell>
-    <name>Mass Healing Word</name>
+    <name>Mass Healing Word (TP)</name>
     <classes>Tamer (TP) (Siphoner)</classes>
   </spell>
   <spell>
-    <name>Blight</name>
+    <name>Blight (TP)</name>
     <classes>Tamer (TP) (Siphoner)</classes>
   </spell>
   <spell>
-    <name>Stoneskin</name>
+    <name>Stoneskin (TP)</name>
     <classes>Tamer (TP) (Siphoner)</classes>
   </spell>
   <spell>
-    <name>Greater Restoration</name>
+    <name>Greater Restoration (TP)</name>
     <classes>Tamer (TP) (Siphoner)</classes>
   </spell>
   <spell>
-    <name>Mass Cure Wounds</name>
+    <name>Mass Cure Wounds (TP)</name>
     <classes>Tamer (TP) (Siphoner)</classes>
   </spell>
 </compendium>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Sorcerer</name>
+    <name>Sorcerer (UA)</name>
     <!-- Sorcerer Subclass: Spellfire Sorcery (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -72,43 +72,43 @@ Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 8</text>
     </autolevel>
   </class>
   <spell>
-    <name>Cure Wounds [2024]</name>
+    <name>Cure Wounds (UA)</name>
     <classes>Sorcerer (Spellfire Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Guiding Bolt [2024]</name>
+    <name>Guiding Bolt (UA)</name>
     <classes>Sorcerer (Spellfire Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration [2024]</name>
+    <name>Lesser Restoration (UA)</name>
     <classes>Sorcerer (Spellfire Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Scorching Ray [2024]</name>
+    <name>Scorching Ray (UA)</name>
     <classes>Sorcerer (Spellfire Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Aura of Vitality [2024]</name>
+    <name>Aura of Vitality (UA)</name>
     <classes>Sorcerer (Spellfire Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Dispel Magic [2024]</name>
+    <name>Dispel Magic (UA)</name>
     <classes>Sorcerer (Spellfire Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Fire Shield [2024]</name>
+    <name>Fire Shield (UA)</name>
     <classes>Sorcerer (Spellfire Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Wall of Fire [2024]</name>
+    <name>Wall of Fire (UA)</name>
     <classes>Sorcerer (Spellfire Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Greater Restoration [2024]</name>
+    <name>Greater Restoration (UA)</name>
     <classes>Sorcerer (Spellfire Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Flame Strike [2024]</name>
+    <name>Flame Strike (UA)</name>
     <classes>Sorcerer (Spellfire Sorcery (UA))</classes>
   </spell>
 </compendium>

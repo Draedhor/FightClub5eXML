@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <feat>
-    <name>Brutal Attacker (HB)</name>
+    <name>Brutal Attacker (TP)</name>
     <prerequisite>1st level Jaeger, Strength 18 or higher</prerequisite>
     <text>You master a reckless approach that maximizes your offensive capabilities.
 
@@ -12,7 +12,7 @@
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 172 (Homebrew)</text>
   </feat>
   <feat>
-    <name>Cannoneer (HB)</name>
+    <name>Cannoneer (TP)</name>
     <prerequisite>8th level, Strength 19 or higher</prerequisite>
     <text>The best defense is a good offense, and the best offense is a cannon; which you're an expert at:
 
@@ -29,7 +29,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 172 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 172 (Homebrew)</text>
   </feat>
   <feat>
-    <name>Cosmos Touched (HB)</name>
+    <name>Cosmos Touched (TP)</name>
     <text>Your exposure to the cosmos has changed you, granting you the following benefits:
 
 	• Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
@@ -39,7 +39,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 172 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 173 (Homebrew)</text>
   </feat>
   <feat>
-    <name>Focused Hunter (HB)</name>
+    <name>Focused Hunter (TP)</name>
     <text>During hunts, you are capable of bursts of focus when you need them most. You gain the following benefits:
 
 	• Increase your Strength or Dexterity score by 1, to a maximum of 20.
@@ -49,7 +49,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 173 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 173 (Homebrew)</text>
   </feat>
   <feat>
-    <name>Marksman (HB)</name>
+    <name>Marksman (TP)</name>
     <text>You know your firearms inside and out and are a master at handling them. You gain the following benefits:
 
 	• Increase your Dexterity score by 1, to a maximum of 20.
@@ -65,7 +65,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 173 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 173 (Homebrew)</text>
   </feat>
   <feat>
-    <name>Osteomantic Adept (HB)</name>
+    <name>Osteomantic Adept (TP)</name>
     <text>Osteomancy draws from sacrifice. Carve your own flesh to enhance these powers:
 
 	• Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
@@ -77,7 +77,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 173 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 173 (Homebrew)</text>
   </feat>
   <feat>
-    <name>Optional: Great Weapon Adept (HB)</name>
+    <name>Optional: Great Weapon Adept (TP)</name>
     <prerequisite>4th level</prerequisite>
     <text>You've mastered the art of using a weapon's weight to your advantage by using its momentum to strengthen your attacks. You gain the following benefits:
 
@@ -90,7 +90,7 @@ Design Note: These optional feats replace other feats with a similar name, balan
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 173 (Homebrew)</text>
   </feat>
   <feat>
-    <name>Optional: Sharp-shooter (HB)</name>
+    <name>Optional: Sharp-shooter (TP)</name>
     <prerequisite>4th level</prerequisite>
     <text>You're a master of ranged warfare and can pull off shots that others call impossible:
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Salubrious Scale Mail [5.5e]</name>
+    <name>Salubrious Scale Mail (UA)</name>
     <detail>rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -17,7 +17,7 @@ Source:	DND Beyond Drops - June,
 		Player's Handbook (2024) p. 219</text>
   </item>
   <item>
-    <name>Salubrious Plate Armor [5.5e]</name>
+    <name>Salubrious Plate Armor (UA)</name>
     <detail>rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>

@@ -60,63 +60,63 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 19</text>
     </autolevel>
   </class>
   <spell>
-    <name>Command [2024]</name>
+    <name>Command</name>
     <classes>Cleric (Knowledge Domain)</classes>
   </spell>
   <spell>
-    <name>Comprehend Languages [2024]</name>
+    <name>Comprehend Languages</name>
     <classes>Cleric (Knowledge Domain)</classes>
   </spell>
   <spell>
-    <name>Detect Magic [2024]</name>
+    <name>Detect Magic</name>
     <classes>Cleric (Knowledge Domain)</classes>
   </spell>
   <spell>
-    <name>Detect Thoughts [2024]</name>
+    <name>Detect Thoughts</name>
     <classes>Cleric (Knowledge Domain)</classes>
   </spell>
   <spell>
-    <name>Identify [2024]</name>
+    <name>Identify</name>
     <classes>Cleric (Knowledge Domain)</classes>
   </spell>
   <spell>
-    <name>Mind Spike [2024]</name>
+    <name>Mind Spike</name>
     <classes>Cleric (Knowledge Domain)</classes>
   </spell>
   <spell>
-    <name>Dispel Magic [2024]</name>
+    <name>Dispel Magic</name>
     <classes>Cleric (Knowledge Domain)</classes>
   </spell>
   <spell>
-    <name>Nondetection [2024]</name>
+    <name>Nondetection</name>
     <classes>Cleric (Knowledge Domain)</classes>
   </spell>
   <spell>
-    <name>Tongues [2024]</name>
+    <name>Tongues</name>
     <classes>Cleric (Knowledge Domain)</classes>
   </spell>
   <spell>
-    <name>Arcane Eye [2024]</name>
+    <name>Arcane Eye</name>
     <classes>Cleric (Knowledge Domain)</classes>
   </spell>
   <spell>
-    <name>Banishment [2024]</name>
+    <name>Banishment</name>
     <classes>Cleric (Knowledge Domain)</classes>
   </spell>
   <spell>
-    <name>Confusion [2024]</name>
+    <name>Confusion</name>
     <classes>Cleric (Knowledge Domain)</classes>
   </spell>
   <spell>
-    <name>Legend Lore [2024]</name>
+    <name>Legend Lore</name>
     <classes>Cleric (Knowledge Domain)</classes>
   </spell>
   <spell>
-    <name>Scrying [2024]</name>
+    <name>Scrying</name>
     <classes>Cleric (Knowledge Domain)</classes>
   </spell>
   <spell>
-    <name>Synaptic Static [2024]</name>
+    <name>Synaptic Static</name>
     <classes>Cleric (Knowledge Domain)</classes>
   </spell>
 </compendium>

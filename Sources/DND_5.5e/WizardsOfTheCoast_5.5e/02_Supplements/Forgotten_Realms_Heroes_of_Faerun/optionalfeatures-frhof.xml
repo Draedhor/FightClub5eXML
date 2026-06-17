@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <feat>
-    <name>Boon of Bloodshed [2024]</name>
+    <name>Boon of Bloodshed</name>
     <prerequisite>Level 19+</prerequisite>
     <text>You gain the following benefits.
 
@@ -14,7 +14,7 @@
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 42</text>
   </feat>
   <feat>
-    <name>Boon of Bountiful Health [2024]</name>
+    <name>Boon of Bountiful Health</name>
     <prerequisite>Level 19+</prerequisite>
     <text>You gain the following benefits.
 
@@ -27,7 +27,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 42</text>
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 42</text>
   </feat>
   <feat>
-    <name>Boon of Communication [2024]</name>
+    <name>Boon of Communication</name>
     <prerequisite>Level 19+</prerequisite>
     <text>You gain the following benefits.
 
@@ -42,7 +42,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 42</text>
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 42</text>
   </feat>
   <feat>
-    <name>Boon of Desperate Resilience [2024]</name>
+    <name>Boon of Desperate Resilience</name>
     <prerequisite>Level 19+</prerequisite>
     <text>You gain the following benefits.
 
@@ -53,7 +53,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 42</text>
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 42</text>
   </feat>
   <feat>
-    <name>Boon of Exquisite Radiance [2024]</name>
+    <name>Boon of Exquisite Radiance</name>
     <prerequisite>Level 19+</prerequisite>
     <text>You gain the following benefits.
 
@@ -66,7 +66,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 42</text>
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 42</text>
   </feat>
   <feat>
-    <name>Boon of Fluid Forms [2024]</name>
+    <name>Boon of Fluid Forms</name>
     <prerequisite>Level 19+</prerequisite>
     <text>You gain the following benefits.
 
@@ -81,7 +81,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 42</text>
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 42</text>
   </feat>
   <feat>
-    <name>Boon of Fortune's Favor [2024]</name>
+    <name>Boon of Fortune's Favor</name>
     <prerequisite>Level 19+</prerequisite>
     <text>You gain the following benefits.
 
@@ -92,7 +92,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 42</text>
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 42</text>
   </feat>
   <feat>
-    <name>Boon of Poison Mastery [2024]</name>
+    <name>Boon of Poison Mastery</name>
     <prerequisite>Level 19+</prerequisite>
     <text>You gain the following benefits.
 
@@ -105,7 +105,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 42</text>
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 43</text>
   </feat>
   <feat>
-    <name>Boon of Revelry [2024]</name>
+    <name>Boon of Revelry</name>
     <prerequisite>Level 19+</prerequisite>
     <text>You gain the following benefits.
 
@@ -119,7 +119,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 43</text>
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 43</text>
   </feat>
   <feat>
-    <name>Boon of Terror [2024]</name>
+    <name>Boon of Terror</name>
     <prerequisite>Level 19+</prerequisite>
     <text>You gain the following benefits.
 
@@ -134,7 +134,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 43</text>
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 43</text>
   </feat>
   <feat>
-    <name>Boon of the Bright Sun [2024]</name>
+    <name>Boon of the Bright Sun</name>
     <prerequisite>Level 19+</prerequisite>
     <text>You gain the following benefits.
 
@@ -147,7 +147,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 43</text>
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 43</text>
   </feat>
   <feat>
-    <name>Boon of the Furious Storm [2024]</name>
+    <name>Boon of the Furious Storm</name>
     <prerequisite>Level 19+, Spellcasting or Pact Magic Feature</prerequisite>
     <text>You gain the following benefits.
 
@@ -160,7 +160,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 43</text>
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 43</text>
   </feat>
   <feat>
-    <name>Boon of the Soul Drinker [2024]</name>
+    <name>Boon of the Soul Drinker</name>
     <prerequisite>Level 19+</prerequisite>
     <text>You gain the following benefits.
 

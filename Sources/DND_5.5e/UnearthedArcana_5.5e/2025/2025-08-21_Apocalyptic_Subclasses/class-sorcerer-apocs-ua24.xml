@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Sorcerer</name>
+    <name>Sorcerer (UA)</name>
     <!-- Sorcerer Subclass: Defiled Sorcery (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -35,7 +35,7 @@ Sorcerer Level | Spells
 Source:	UA25-ApocalypticSubclasses p. 4</text>
       </feature>
       <counter>
-        <name>Life Steal</name>
+        <name>Life Steal (UA)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Defiled Sorcery (UA)</subclass>
@@ -81,43 +81,43 @@ Source:	UA25-ApocalypticSubclasses p. 4</text>
     </autolevel>
   </class>
   <spell>
-    <name>Blindness/Deafness [2024]</name>
+    <name>Blindness/Deafness (UA)</name>
     <classes>Sorcerer (Defiled Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Inflict Wounds [2024]</name>
+    <name>Inflict Wounds (UA)</name>
     <classes>Sorcerer (Defiled Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Ray of Enfeeblement [2024]</name>
+    <name>Ray of Enfeeblement (UA)</name>
     <classes>Sorcerer (Defiled Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Ray of Sickness [2024]</name>
+    <name>Ray of Sickness (UA)</name>
     <classes>Sorcerer (Defiled Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Bestow Curse [2024]</name>
+    <name>Bestow Curse (UA)</name>
     <classes>Sorcerer (Defiled Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Vampiric Touch [2024]</name>
+    <name>Vampiric Touch (UA)</name>
     <classes>Sorcerer (Defiled Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Blight [2024]</name>
+    <name>Blight (UA)</name>
     <classes>Sorcerer (Defiled Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Hallucinatory Terrain [2024]</name>
+    <name>Hallucinatory Terrain (UA)</name>
     <classes>Sorcerer (Defiled Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Antilife Shell [2024]</name>
+    <name>Antilife Shell (UA)</name>
     <classes>Sorcerer (Defiled Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Contagion [2024]</name>
+    <name>Contagion (UA)</name>
     <classes>Sorcerer (Defiled Sorcery (UA))</classes>
   </spell>
 </compendium>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Fighter [5.5e]</name>
+    <name>Fighter (UA)</name>
     <!-- Fighter Subclass: Hell Knight (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -25,7 +25,7 @@ Source:	Villainous Options p. 6 (Unearthed Arcana)</text>
         <roll description="Pursuits">1d6</roll>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Diabolical Gift (Hell Knight (UA))</name>
+        <name>Diabolical Gift (Hell Knight (UA))</name>
         <text>As a soldier for the agents of the Nine Hells, you've been given fiendish powers. You gain the following benefits.
 
 	Devil's Sight. You can see normally in Dim Light and Darkness—both magical and nonmagical—within 120 feet of yourself.
@@ -35,14 +35,14 @@ Source:	Villainous Options p. 6 (Unearthed Arcana)</text>
 Source:	Villainous Options p. 6 (Unearthed Arcana)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Hellfire Weapon (Hell Knight (UA))</name>
+        <name>Hellfire Weapon (Hell Knight (UA))</name>
         <text>When you take the Attack action, you can imbue one weapon that you are holding with hellfire, transforming it into a Hellfire Weapon. It remains transformed in this way for 10 minutes or until you use this feature again, you die, or the weapon is more than 5 feet away from you for 1 minute or more. You can also end this effect early (no action required).
 	While transformed into a Hellfire Weapon, a weapon emits Dim Light in a 5-foot Emanation, and whenever you deal damage with the weapon, it can deal your choice of Fire damage or its normal damage type.
 
 Source:	Villainous Options p. 6 (Unearthed Arcana)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Infernal Wound (Hell Knight (UA))</name>
+        <name>Infernal Wound (Hell Knight (UA))</name>
         <text>Your Hellfire Weapon can inflict infernal wounds.
 
 	Infernal Wound Die. You have one Infernal Wound Die, which is a d6.
@@ -54,7 +54,7 @@ Source:	Villainous Options p. 6 (Unearthed Arcana)</text>
 Source:	Villainous Options p. 6 (Unearthed Arcana)</text>
       </feature>
       <counter>
-        <name>Infernal Wound</name>
+        <name>Infernal Wound (UA)</name>
         <value>%3</value>
         <reset>S</reset>
         <subclass>Hell Knight (UA)</subclass>
@@ -62,7 +62,7 @@ Source:	Villainous Options p. 6 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Advanced Wounds (Hell Knight (UA))</name>
+        <name>Advanced Wounds (Hell Knight (UA))</name>
         <text>When you roll your Infernal Wound Die and roll a 6, you can apply one of the following effects.
 
 	Purulence of Minauros. Caustic pus erupts from the wound. Each creature in a 5-foot Emanation originating from the target takes Acid damage equal to your Constitution modifier, and the target has the Poisoned condition until the start of its next turn.
@@ -74,7 +74,7 @@ Source:	Villainous Options p. 6 (Unearthed Arcana)</text>
 Source:	Villainous Options p. 6 (Unearthed Arcana)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 7: Hell-Forged Equipment (Hell Knight (UA))</name>
+        <name>Hell-Forged Equipment (Hell Knight (UA))</name>
         <text>Your armor and weapons embody infernal armaments forged in the fires of Avernus, granting you the following benefits.
 
 	Fire Resistance. While wearing armor or wielding a Shield, you have Resistance to Fire damage.
@@ -86,7 +86,7 @@ Source:	Villainous Options p. 6 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Hellfire Surge (Hell Knight (UA))</name>
+        <name>Hellfire Surge (Hell Knight (UA))</name>
         <text>When you use your Action Surge while wearing armor or wielding a Shield, you can superheat your equipment, causing it to erupt with hellfire in a 10-foot Emanation originating from you. Each creature of your choice in the Emanation must succeed on a Dexterity saving throw (DC equals 8 plus your Constitution modifier and Proficiency Bonus). On a failed save, a target takes Fire damage equal to one roll of your Infernal Wound Die and is burning. On a successful save, a target takes half as much damage only.
 
 Source:	Villainous Options p. 7 (Unearthed Arcana)</text>
@@ -94,7 +94,7 @@ Source:	Villainous Options p. 7 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Blister of Avernus (Hell Knight (UA))</name>
+        <name>Blister of Avernus (Hell Knight (UA))</name>
         <text>Your hellfire leaves painful, boiling blisters. When you roll a 6 on your Infernal Wound Die, you can roll another d6 and add it to the damage. The maximum number of d6s you can add to the Infernal Wound's damage on a turn is three.
 
 Source:	Villainous Options p. 7 (Unearthed Arcana)</text>
@@ -102,14 +102,14 @@ Source:	Villainous Options p. 7 (Unearthed Arcana)</text>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">
-        <name>Level 18: Hellfire Condemnation (Hell Knight (UA))</name>
+        <name>Hellfire Condemnation (Hell Knight (UA))</name>
         <text>Whenever damage from your Hellfire Weapon or Infernal Wound reduces a creature to 0 Hit Points, the creature dies, and its soul rises from the River Styx as a Lemure in a layer of the Nine Hells of your choice in 1d4 hours. If the creature isn't revived before then, only a Wish spell can return the creature to life.
 
 Source:	Villainous Options p. 7 (Unearthed Arcana)</text>
         <roll description="Hours">1d4</roll>
       </feature>
       <feature optional="YES">
-        <name>Level 18: Infernal Bargain (Hell Knight (UA))</name>
+        <name>Infernal Bargain (Hell Knight (UA))</name>
         <text>When you roll your Infernal Wound Die, you can treat a roll of 1 as a 6.
 
 Source:	Villainous Options p. 7 (Unearthed Arcana)</text>

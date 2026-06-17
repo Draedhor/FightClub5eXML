@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Thri-Kreen (HB) [5.5e]</name>
+    <name>Thri-Kreen (TP)</name>
     <size>S</size>
     <speed>30</speed>
     <proficiency>History</proficiency>
     <trait category="description">
-      <name>Description</name>
+      <name>Description (TP)</name>
       <text>Thri-Kreen are insectoid nomads, bound by a deep connection to their clutch—the small group they hatch and grow alongside. While individualistic in nature, they retain strong communal instincts, often perceiving their allies as an extension of their own clutch. Their alien physiology grants them unique advantages, including natural camouflage, additional limbs, and the ability to communicate telepathically with those who do not understand their spoken language.
 	Though they are skilled hunters and survivalists, Thri-Kreen possess a rich oral history passed down through generations. Their clutches share knowledge instinctively, leading them to recall ancient lore as if it were their own lived experience.
 
 Source:	Sewage Orc</text>
     </trait>
     <trait>
-      <name>Creature Type</name>
+      <name>Creature Type (TP)</name>
       <text>Monstrosity</text>
     </trait>
     <trait>
-      <name>Size</name>
+      <name>Size (TP)</name>
       <text>Small or Medium</text>
     </trait>
     <trait>
-      <name>Speed</name>
+      <name>Speed (TP)</name>
       <text>30 ft.</text>
     </trait>
     <trait>
-      <name>Darkvision</name>
+      <name>Darkvision (TP)</name>
       <text>60 ft.</text>
     </trait>
     <trait>
-      <name>Skill Proficiency</name>
+      <name>Skill Proficiency (TP)</name>
       <text>History</text>
     </trait>
     <trait>
-      <name>Suggested Languages</name>
+      <name>Suggested Languages (TP)</name>
       <text>Thri-Kreen (see Limited Telepathy)</text>
     </trait>
     <trait category="species">
-      <name>Chameleon Carapace</name>
+      <name>Chameleon Carapace (TP)</name>
       <text>While you aren't wearing armor, your carapace gives you a base Armor Class of 13 + your Dexterity modifier. As an action, you can change the color of your carapace to match the color and texture of your surroundings, giving you advantage on Dexterity (Stealth) checks made to hide in those surroundings. Additionally, until you move, or take the Attack or Spell Attack action, directly after you have changed your carapace, you can attempt the hide action as if you were heavily obscured.</text>
       <special>Unarmored Defense: Dexterity</special>
     </trait>
     <trait category="species">
-      <name>Secondary Arms</name>
+      <name>Secondary Arms (TP)</name>
       <text>You have two slightly smaller secondary arms below your primary pair. These secondary arms can manipulate an object, open or close a door or container, pick up or set down a Tiny object, or wield a weapon with the light property. You only gain the benefits of a weapon's mastery property (if applicable) if the weapon is wielded in one of your primary arms.</text>
     </trait>
     <trait category="species">
-      <name>Limited Telepathy</name>
+      <name>Limited Telepathy (TP)</name>
       <text>You can only speak the Thri-Kreen language aloud, but you can communicate telepathically in any other languages you know with creatures within 90 feet. This communication is one-way; you can send thoughts, but you cannot receive them telepathically.</text>
     </trait>
     <trait category="species">
-      <name>Clutch Recall</name>
+      <name>Clutch Recall (TP)</name>
       <text>The shared knowledge of your clutch lingers in your mind, allowing you to instinctively recall important information. You can automatically succeed on a History check to recall knowledge. Once you use this trait, you cannot do so again until you finish a long rest.</text>
     </trait>
   </race>
   <item>
-    <name>Grythka (HB) [5.5e]</name>
+    <name>Grythka (TP)</name>
     <detail>common</detail>
     <type>M</type>
     <weight>3</weight>
@@ -74,7 +74,7 @@ Proficiency: martial, grythka
 Source:	Sewage Orc</text>
   </item>
   <item>
-    <name>Chatkcha (HB) [5.5e]</name>
+    <name>Chatkcha (TP)</name>
     <detail>common</detail>
     <type>R</type>
     <weight>1</weight>

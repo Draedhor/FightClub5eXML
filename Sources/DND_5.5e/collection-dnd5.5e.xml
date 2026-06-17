@@ -88,19 +88,19 @@
   <xi:include pubdate="2024-05-21" source="Vecna: Eve of Ruin" href="Legacy_5e/WizardsOfTheCoast_Legacy/05_Adventures_Legacy/Vecna_Eve_of_Ruin/source-ver.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2024-07-03" source="Heliana's Guide to Monster Hunting - Part One" href="Legacy_5e/PartneredOfficial_Legacy/Helianas_Guide_to_Monster_Hunting/source-hgmh.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2024-07-16" source="Quests from the Infinite Staircase" href="Legacy_5e/WizardsOfTheCoast_Legacy/05_Adventures_Legacy/Quests_from_the_Infinite_Staircase/source-qis.xml" xpointer="xpointer(/source/collection/doc)" />
-  <xi:include pubdate="2024-09-17" source="Player's Handbook (2024)" href="WizardsOfTheCoast_5.5e/01_Core/01_Players_Handbook_2024/source-phb24.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include pubdate="2024-09-17" source="Player's Handbook (2024)" href="WizardsOfTheCoast_5.5e/01_Core/01_Players_Handbook_5.5e/source-phb5.5e.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2024-09-19" source="Phandelver and Below: The Shattered Obelisk" href="Legacy_5e/WizardsOfTheCoast_Legacy/05_Adventures_Legacy/Phandelver_and_Below_the_Shattered_Obelisk/source-pabso.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2024-10-28" source="Grim Hollow: Player's Guide" href="Legacy_5e/PartneredOfficial_Legacy/Grim_Hollow_Players_Guide/source-ghpg.xml" xpointer="xpointer(/source/collection/doc)" />
-  <xi:include pubdate="2024-11-12" source="Dungeon Master's Guide (2024)" href="WizardsOfTheCoast_5.5e/01_Core/02_Dungeon_Masters_Guide_2024/source-dmg24.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include pubdate="2024-11-12" source="Dungeon Master's Guide (2024)" href="WizardsOfTheCoast_5.5e/01_Core/02_Dungeon_Masters_Guide_5.5e/source-dmg5.5e.xml" xpointer="xpointer(/source/collection/doc)" />
   <!-- <xi:include pubdate="2024-12-17" source="Artificer (UA24)" href="UnearthedArcana_5.5e/2024/2024-12-17_Artificer/source-artificer_ua24.xml" xpointer="xpointer(/source/collection/doc)" /> -->
   <xi:include pubdate="2025-01-06" source="Alternate Blood Hunter v2.1.2 (2024)" href="Homebrew_5.5e/_LaserLlama/Alternate_Blood_Hunter24/source-abh24.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2025-01-06" source="Alternate Ranger v4.3.0 (2024)" href="Homebrew_5.5e/_LaserLlama/Alternate_Ranger24/source-ll-ar.xml" xpointer="xpointer(/source/collection/doc)" />
-  <xi:include source="Barbarian: Totem of the Duck" href="_Matthew_Mercer/Barbarian_Totem_of_the_Duck_2024/source-btotd.xml" xpointer="xpointer(/source/collection/doc)" />
-  <xi:include source="Bard: College of the Maestro" href="_Matthew_Mercer/Bard_College_of_the_Maestro_2024/source-bard-mm.xml" xpointer="xpointer(/source/collection/doc)" />
-  <xi:include source="Blood Hunter" href="_Matthew_Mercer/Blood_Hunter_2024/source-bloodhunter-mm.xml" xpointer="xpointer(/source/collection/doc)" />
-  <xi:include source="Fighter: Gunslinger" href="_Matthew_Mercer/Gunslinger_2024/source-gunslinger-mm.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include source="Barbarian: Totem of the Duck" href="Homebrew_5.5e/_Matthew_Mercer/Barbarian_Totem_of_the_Duck_5.5e/source-btotd.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include source="Bard: College of the Maestro" href="Homebrew_5.5e/_Matthew_Mercer/Bard_College_of_the_Maestro_5.5e/source-bard-mm.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include source="Blood Hunter" href="Homebrew_5.5e/_Matthew_Mercer/Blood_Hunter_5.5e/source-bloodhunter-mm.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include source="Fighter: Gunslinger" href="Homebrew_5.5e/_Matthew_Mercer/Gunslinger_5.5e/source-gunslinger-mm.xml" xpointer="xpointer(/source/collection/doc)" />
   <!-- <xi:include pubdate="2025-01-28" source="Forgotten Realms: Subclasses (UA24)" href="UnearthedArcana_5.5e/2025/2025-01-28_Forgotten_Realms_Subclasses/source-fgs-ua24.xml" xpointer="xpointer(/source/collection/doc)" /> -->
-  <xi:include pubdate="2025-02-18" source="Monster Manual (2024)" href="WizardsOfTheCoast_5.5e/01_Core/03_Monster_Manual_2024/source-mm24.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include pubdate="2025-02-18" source="Monster Manual (2024)" href="WizardsOfTheCoast_5.5e/01_Core/03_Monster_Manual_5.5e/source-mm5.5e.xml" xpointer="xpointer(/source/collection/doc)" />
   <!-- <xi:include pubdate="2025-02-27" source="Eberron Updates (UA24)" href="UnearthedArcana_5.5e/2025/2025-02-27_Eberron_Updates/source-eu-ua24.xml" xpointer="xpointer(/source/collection/doc)" /> -->
   <xi:include pubdate="2025-05-06" source="Horror Subclasses (UA24)" href="UnearthedArcana_5.5e/2025/2025-05-06_Horror_Subclasses/source-hs-ua24.xml" xpointer="xpointer(/source/collection/doc)" />
   <!-- <xi:include pubdate="2025-06-25" source="Arcane Subclasses (UA24)" href="UnearthedArcana_5.5e/2025/2025-06-25_Arcane_Subclasses/source-as-ua24.xml" xpointer="xpointer(/source/collection/doc)" /> -->
@@ -112,8 +112,9 @@
   <xi:include pubdate="2025-11-01" source="Lorwyn: First Light (2024)" href="WizardsOfTheCoast_5.5e/02_Supplements/Lorwyn_First_Light/source-lfl.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2025-11-11" source="Astarion's Book of Hungers" href="WizardsOfTheCoast_5.5e/05_Adventures/Astarions_Book_of_Hungers/source-abh.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2025-11-11" source="Forgotten Realms: Heroes of Faerûn [2024]" href="WizardsOfTheCoast_5.5e/02_Supplements/Forgotten_Realms_Heroes_of_Faerun/source-frhof.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include pubdate="2026-06-16" source="Ravenloft: The Horrors Within [2024]" href="WizardsOfTheCoast_5.5e/02_Supplements/Ravenloft_The_Horrors_Within/source-rhw.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include pubdate="2026-01-15" source="Mystic Subclasses (UA24)" href="UnearthedArcana_5.5e/2026/2026-01-15_Mystic_Subclasses/source-ms-ua24.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include source="LaserLlama's Compendium of Spells" href="Homebrew_5.5e/_LaserLlama/Compendium_of_Spells/source-spells-ll.xml" xpointer="xpointer(/source/collection/doc)" />
   <xi:include source="Other Homebrew 2024" href="Homebrew_5.5e/Misc/Other/source-hb24.xml" xpointer="xpointer(/source/collection/doc)" />
-  <xi:include source="Matther Mercer's Firearms and Magic Items" href="_Matthew_Mercer/Firearms/source-items-mm.xml" xpointer="xpointer(/source/collection/doc)" />
+  <xi:include source="Matthew Mercer's Firearms and Magic Items" href="Homebrew_5.5e/_Matthew_Mercer/Firearms/source-items-mm.xml" xpointer="xpointer(/source/collection/doc)" />
 </collection>

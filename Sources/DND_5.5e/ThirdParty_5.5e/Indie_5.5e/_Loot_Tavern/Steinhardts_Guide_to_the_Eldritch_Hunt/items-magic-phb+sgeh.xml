@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Moongold Arrow</name>
+    <name>Moongold Arrow (TP)</name>
     <detail>uncommon</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -18,7 +18,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Arrows (20)</name>
+    <name>Moongold Arrows (20) (TP)</name>
     <detail>uncommon</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -35,7 +35,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Battleaxe</name>
+    <name>Moongold Battleaxe (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -56,7 +56,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Blowgun Needle</name>
+    <name>Moongold Blowgun Needle (TP)</name>
     <detail>uncommon</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -73,7 +73,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Blowgun Needles (50)</name>
+    <name>Moongold Blowgun Needles (50) (TP)</name>
     <detail>uncommon</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -90,7 +90,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Club</name>
+    <name>Moongold Club (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -110,7 +110,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Crossbow Bolt</name>
+    <name>Moongold Crossbow Bolt (TP)</name>
     <detail>uncommon</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -127,7 +127,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Crossbow Bolts (20)</name>
+    <name>Moongold Crossbow Bolts (20) (TP)</name>
     <detail>uncommon</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -144,7 +144,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Dagger</name>
+    <name>Moongold Dagger (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -171,7 +171,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Flail</name>
+    <name>Moongold Flail (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -189,7 +189,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Glaive</name>
+    <name>Moongold Glaive (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -213,7 +213,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Greataxe</name>
+    <name>Moongold Greataxe (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -235,7 +235,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Greatclub</name>
+    <name>Moongold Greatclub (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -255,7 +255,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Greatsword</name>
+    <name>Moongold Greatsword (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -277,7 +277,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Halberd</name>
+    <name>Moongold Halberd (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -301,7 +301,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Handaxe</name>
+    <name>Moongold Handaxe (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -326,7 +326,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Javelin</name>
+    <name>Moongold Javelin (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -349,7 +349,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Lance</name>
+    <name>Moongold Lance (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -371,7 +371,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Light Hammer</name>
+    <name>Moongold Light Hammer (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -396,7 +396,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Longsword</name>
+    <name>Moongold Longsword (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -417,7 +417,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Mace</name>
+    <name>Moongold Mace (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -435,7 +435,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Maul</name>
+    <name>Moongold Maul (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -457,7 +457,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Morningstar</name>
+    <name>Moongold Morningstar (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -475,7 +475,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Pike</name>
+    <name>Moongold Pike (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -499,7 +499,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Quarterstaff</name>
+    <name>Moongold Quarterstaff (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -520,7 +520,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Rapier</name>
+    <name>Moongold Rapier (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -540,7 +540,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Scimitar</name>
+    <name>Moongold Scimitar (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -562,7 +562,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Shortsword</name>
+    <name>Moongold Shortsword (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -584,7 +584,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Sickle</name>
+    <name>Moongold Sickle (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -604,7 +604,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Sling Bullet</name>
+    <name>Moongold Sling Bullet (TP)</name>
     <detail>uncommon</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -621,7 +621,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Sling Bullets (20)</name>
+    <name>Moongold Sling Bullets (20) (TP)</name>
     <detail>uncommon</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -638,7 +638,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Spear</name>
+    <name>Moongold Spear (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -664,7 +664,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Trident</name>
+    <name>Moongold Trident (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -690,7 +690,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold War Pick</name>
+    <name>Moongold War Pick (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -708,7 +708,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Warhammer</name>
+    <name>Moongold Warhammer (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -729,7 +729,7 @@ Source:	Source:	Steinhardt's Guide to the Eldritch Hunt p. 213 (Homebrew),
     <roll description="Bonus To Damage">1d4</roll>
   </item>
   <item>
-    <name>Moongold Whip</name>
+    <name>Moongold Whip (TP)</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>

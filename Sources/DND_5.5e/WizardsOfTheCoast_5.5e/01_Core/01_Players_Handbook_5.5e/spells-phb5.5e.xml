@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Acid Splash [2024]</name>
+    <name>Acid Splash</name>
     <level>0</level>
     <school>EV</school>
     <time>Action</time>
@@ -20,7 +20,7 @@ Source:	Player's Handbook (2024) p. 239</text>
     <roll description="Acid Damage" level="17">4d6</roll>
   </spell>
   <spell>
-    <name>Aid [2024]</name>
+    <name>Aid</name>
     <level>2</level>
     <school>A</school>
     <time>Action</time>
@@ -35,7 +35,7 @@ Using a Higher-Level Spell Slot: Each target's Hit Points increase by 5 for each
 Source:	Player's Handbook (2024) p. 239</text>
   </spell>
   <spell>
-    <name>Alarm [2024]</name>
+    <name>Alarm</name>
     <level>1</level>
     <school>A</school>
     <ritual>YES</ritual>
@@ -53,7 +53,7 @@ Mental Alarm: You are alerted by a mental ping if you are within 1 mile of the w
 Source:	Player's Handbook (2024) p. 239</text>
   </spell>
   <spell>
-    <name>Alter Self [2024]</name>
+    <name>Alter Self</name>
     <level>2</level>
     <school>T</school>
     <time>Action</time>
@@ -73,7 +73,7 @@ Source:	Player's Handbook (2024) p. 239</text>
     <roll description="Slashing, Piercing, or Bludgeoning Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Animal Friendship [2024]</name>
+    <name>Animal Friendship</name>
     <level>1</level>
     <school>EN</school>
     <time>Action</time>
@@ -88,7 +88,7 @@ Using a Higher-Level Spell Slot: You can target one additional Beast for each sp
 Source:	Player's Handbook (2024) p. 239</text>
   </spell>
   <spell>
-    <name>Animal Messenger [2024]</name>
+    <name>Animal Messenger</name>
     <level>2</level>
     <school>EN</school>
     <ritual>YES</ritual>
@@ -105,7 +105,7 @@ Using a Higher-Level Spell Slot: The spell's duration increases by 48 hours for 
 Source:	Player's Handbook (2024) p. 240</text>
   </spell>
   <spell>
-    <name>Animal Shapes [2024]</name>
+    <name>Animal Shapes</name>
     <level>8</level>
     <school>T</school>
     <time>Action</time>
@@ -120,7 +120,7 @@ Source:	Player's Handbook (2024) p. 240</text>
 Source:	Player's Handbook (2024) p. 240</text>
   </spell>
   <spell>
-    <name>Animate Dead [2024]</name>
+    <name>Animate Dead</name>
     <level>3</level>
     <school>N</school>
     <time>1 minute</time>
@@ -137,7 +137,7 @@ Using a Higher-Level Spell Slot: You animate or reassert control over two additi
 Source:	Player's Handbook (2024) p. 240</text>
   </spell>
   <spell>
-    <name>Animate Objects [2024]</name>
+    <name>Animate Objects</name>
     <level>5</level>
     <school>T</school>
     <time>Action</time>
@@ -157,7 +157,7 @@ Source:	Player's Handbook (2024) p. 240</text>
     <roll description="Bludgeoning Damage">1d12</roll>
   </spell>
   <spell>
-    <name>Antilife Shell [2024]</name>
+    <name>Antilife Shell</name>
     <level>5</level>
     <school>A</school>
     <time>Action</time>
@@ -171,7 +171,7 @@ Source:	Player's Handbook (2024) p. 240</text>
 Source:	Player's Handbook (2024) p. 241</text>
   </spell>
   <spell>
-    <name>Antimagic Field [2024]</name>
+    <name>Antimagic Field</name>
     <level>8</level>
     <school>A</school>
     <time>Action</time>
@@ -187,7 +187,7 @@ Source:	Player's Handbook (2024) p. 241</text>
 Source:	Player's Handbook (2024) p. 241</text>
   </spell>
   <spell>
-    <name>Antipathy/Sympathy [2024]</name>
+    <name>Antipathy/Sympathy</name>
     <level>8</level>
     <school>EN</school>
     <time>1 hour</time>
@@ -206,7 +206,7 @@ Ending the Effect: If the Frightened or Charmed creature ends its turn more than
 Source:	Player's Handbook (2024) p. 242</text>
   </spell>
   <spell>
-    <name>Arcane Eye [2024]</name>
+    <name>Arcane Eye</name>
     <level>4</level>
     <school>D</school>
     <time>Action</time>
@@ -220,7 +220,7 @@ Source:	Player's Handbook (2024) p. 242</text>
 Source:	Player's Handbook (2024) p. 242</text>
   </spell>
   <spell>
-    <name>Arcane Gate [2024]</name>
+    <name>Arcane Gate</name>
     <level>6</level>
     <school>C</school>
     <time>Action</time>
@@ -235,7 +235,7 @@ Source:	Player's Handbook (2024) p. 242</text>
 Source:	Player's Handbook (2024) p. 242</text>
   </spell>
   <spell>
-    <name>Arcane Lock [2024]</name>
+    <name>Arcane Lock</name>
     <level>2</level>
     <school>A</school>
     <time>Action</time>
@@ -247,7 +247,7 @@ Source:	Player's Handbook (2024) p. 242</text>
 Source:	Player's Handbook (2024) p. 242</text>
   </spell>
   <spell>
-    <name>Arcane Vigor [2024]</name>
+    <name>Arcane Vigor</name>
     <level>2</level>
     <school>A</school>
     <time>Bonus Action</time>
@@ -262,7 +262,7 @@ Using a Higher-Level Spell Slot: The number of unexpended Hit Dice you can roll 
 Source:	Player's Handbook (2024) p. 242</text>
   </spell>
   <spell>
-    <name>Armor of Agathys [2024]</name>
+    <name>Armor of Agathys</name>
     <level>1</level>
     <school>A</school>
     <time>Bonus Action</time>
@@ -277,7 +277,7 @@ Using a Higher-Level Spell Slot: The Temporary Hit Points and the Cold damage bo
 Source:	Player's Handbook (2024) p. 243</text>
   </spell>
   <spell>
-    <name>Arms of Hadar [2024]</name>
+    <name>Arms of Hadar</name>
     <level>1</level>
     <school>C</school>
     <time>Action</time>
@@ -301,7 +301,7 @@ Source:	Player's Handbook (2024) p. 243</text>
     <roll description="Necrotic Damage" level="9">10d6</roll>
   </spell>
   <spell>
-    <name>Astral Projection [2024]</name>
+    <name>Astral Projection</name>
     <level>9</level>
     <school>N</school>
     <time>1 hour</time>
@@ -317,7 +317,7 @@ Source:	Player's Handbook (2024) p. 243</text>
 Source:	Player's Handbook (2024) p. 243</text>
   </spell>
   <spell>
-    <name>Augury [2024]</name>
+    <name>Augury</name>
     <level>2</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -338,7 +338,7 @@ Indifference | Neither good nor bad
 Source:	Player's Handbook (2024) p. 244</text>
   </spell>
   <spell>
-    <name>Aura of Life [2024]</name>
+    <name>Aura of Life</name>
     <level>4</level>
     <school>A</school>
     <time>Action</time>
@@ -351,7 +351,7 @@ Source:	Player's Handbook (2024) p. 244</text>
 Source:	Player's Handbook (2024) p. 244</text>
   </spell>
   <spell>
-    <name>Aura of Purity [2024]</name>
+    <name>Aura of Purity</name>
     <level>4</level>
     <school>A</school>
     <time>Action</time>
@@ -364,7 +364,7 @@ Source:	Player's Handbook (2024) p. 244</text>
 Source:	Player's Handbook (2024) p. 244</text>
   </spell>
   <spell>
-    <name>Aura of Vitality [2024]</name>
+    <name>Aura of Vitality</name>
     <level>3</level>
     <school>A</school>
     <time>Action</time>
@@ -378,7 +378,7 @@ Source:	Player's Handbook (2024) p. 244</text>
     <roll description="Heal">2d6</roll>
   </spell>
   <spell>
-    <name>Awaken [2024]</name>
+    <name>Awaken</name>
     <level>5</level>
     <school>T</school>
     <time>8 hour</time>
@@ -392,7 +392,7 @@ Source:	Player's Handbook (2024) p. 244</text>
 Source:	Player's Handbook (2024) p. 245</text>
   </spell>
   <spell>
-    <name>Bane [2024]</name>
+    <name>Bane</name>
     <level>1</level>
     <school>EN</school>
     <time>Action</time>
@@ -408,7 +408,7 @@ Source:	Player's Handbook (2024) p. 245</text>
     <roll description="Subtract from Roll">1d4</roll>
   </spell>
   <spell>
-    <name>Banishing Smite [2024]</name>
+    <name>Banishing Smite</name>
     <level>5</level>
     <school>C</school>
     <time>Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike</time>
@@ -422,7 +422,7 @@ Source:	Player's Handbook (2024) p. 245</text>
     <roll description="Force Damage">5d10</roll>
   </spell>
   <spell>
-    <name>Banishment [2024]</name>
+    <name>Banishment</name>
     <level>4</level>
     <school>A</school>
     <time>Action</time>
@@ -438,7 +438,7 @@ Using a Higher-Level Spell Slot: You can target one additional creature for each
 Source:	Player's Handbook (2024) p. 245</text>
   </spell>
   <spell>
-    <name>Barkskin [2024]</name>
+    <name>Barkskin</name>
     <level>2</level>
     <school>T</school>
     <time>Bonus Action</time>
@@ -451,7 +451,7 @@ Source:	Player's Handbook (2024) p. 245</text>
 Source:	Player's Handbook (2024) p. 245</text>
   </spell>
   <spell>
-    <name>Beacon of Hope [2024]</name>
+    <name>Beacon of Hope</name>
     <level>3</level>
     <school>A</school>
     <time>Action</time>
@@ -464,7 +464,7 @@ Source:	Player's Handbook (2024) p. 245</text>
 Source:	Player's Handbook (2024) p. 245</text>
   </spell>
   <spell>
-    <name>Beast Sense [2024]</name>
+    <name>Beast Sense</name>
     <level>2</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -478,7 +478,7 @@ Source:	Player's Handbook (2024) p. 245</text>
 Source:	Player's Handbook (2024) p. 245</text>
   </spell>
   <spell>
-    <name>Befuddlement [2024]</name>
+    <name>Befuddlement</name>
     <level>8</level>
     <school>EN</school>
     <time>Action</time>
@@ -494,7 +494,7 @@ Source:	Player's Handbook (2024) p. 245</text>
     <roll description="Psychic Damage">10d12</roll>
   </spell>
   <spell>
-    <name>Bestow Curse [2024]</name>
+    <name>Bestow Curse</name>
     <level>3</level>
     <school>N</school>
     <time>Action</time>
@@ -518,7 +518,7 @@ Source:	Player's Handbook (2024) p. 246</text>
     <roll description="Necrotic Damage">1d8</roll>
   </spell>
   <spell>
-    <name>Bigby's Hand [2024]</name>
+    <name>Bigby's Hand</name>
     <level>5</level>
     <school>EV</school>
     <time>Action</time>
@@ -548,7 +548,7 @@ Source:	Player's Handbook (2024) p. 246</text>
     <roll description="Force Damage" level="9">9d8</roll>
   </spell>
   <spell>
-    <name>Blade Barrier [2024]</name>
+    <name>Blade Barrier</name>
     <level>6</level>
     <school>EV</school>
     <time>Action</time>
@@ -563,7 +563,7 @@ Source:	Player's Handbook (2024) p. 247</text>
     <roll description="Force Damage">6d10</roll>
   </spell>
   <spell>
-    <name>Blade Ward [2024]</name>
+    <name>Blade Ward</name>
     <level>0</level>
     <school>A</school>
     <time>Action</time>
@@ -577,7 +577,7 @@ Source:	Player's Handbook (2024) p. 247</text>
     <roll description="Subtract from Roll">1d4</roll>
   </spell>
   <spell>
-    <name>Bless [2024]</name>
+    <name>Bless</name>
     <level>1</level>
     <school>EN</school>
     <time>Action</time>
@@ -593,7 +593,7 @@ Source:	Player's Handbook (2024) p. 247</text>
     <roll description="Add to Roll">1d4</roll>
   </spell>
   <spell>
-    <name>Blight [2024]</name>
+    <name>Blight</name>
     <level>4</level>
     <school>N</school>
     <time>Action</time>
@@ -615,7 +615,7 @@ Source:	Player's Handbook (2024) p. 247</text>
     <roll description="Necrotic Damage" level="9">13d8</roll>
   </spell>
   <spell>
-    <name>Blinding Smite [2024]</name>
+    <name>Blinding Smite</name>
     <level>3</level>
     <school>EV</school>
     <time>Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike</time>
@@ -637,7 +637,7 @@ Source:	Player's Handbook (2024) p. 247</text>
     <roll description="Radiant Damage" level="9">9d8</roll>
   </spell>
   <spell>
-    <name>Blindness/Deafness [2024]</name>
+    <name>Blindness/Deafness</name>
     <level>2</level>
     <school>T</school>
     <time>Action</time>
@@ -652,7 +652,7 @@ Using a Higher-Level Spell Slot: You can target one additional creature for each
 Source:	Player's Handbook (2024) p. 248</text>
   </spell>
   <spell>
-    <name>Blink [2024]</name>
+    <name>Blink</name>
     <level>3</level>
     <school>T</school>
     <time>Action</time>
@@ -667,7 +667,7 @@ Source:	Player's Handbook (2024) p. 248</text>
     <roll description="Blink">1d6</roll>
   </spell>
   <spell>
-    <name>Blur [2024]</name>
+    <name>Blur</name>
     <level>2</level>
     <school>I</school>
     <time>Action</time>
@@ -680,7 +680,7 @@ Source:	Player's Handbook (2024) p. 248</text>
 Source:	Player's Handbook (2024) p. 248</text>
   </spell>
   <spell>
-    <name>Burning Hands [2024]</name>
+    <name>Burning Hands</name>
     <level>1</level>
     <school>EV</school>
     <time>Action</time>
@@ -705,7 +705,7 @@ Source:	Player's Handbook (2024) p. 248</text>
     <roll description="Fire Damage" level="9">11d6</roll>
   </spell>
   <spell>
-    <name>Call Lightning [2024]</name>
+    <name>Call Lightning</name>
     <level>3</level>
     <school>C</school>
     <time>Action</time>
@@ -730,7 +730,7 @@ Source:	Player's Handbook (2024) p. 248</text>
     <roll description="Lightning Damage" level="9">9d10</roll>
   </spell>
   <spell>
-    <name>Calm Emotions [2024]</name>
+    <name>Calm Emotions</name>
     <level>2</level>
     <school>EN</school>
     <time>Action</time>
@@ -747,7 +747,7 @@ Source:	Player's Handbook (2024) p. 248</text>
 Source:	Player's Handbook (2024) p. 249</text>
   </spell>
   <spell>
-    <name>Chain Lightning [2024]</name>
+    <name>Chain Lightning</name>
     <level>6</level>
     <school>EV</school>
     <time>Action</time>
@@ -764,7 +764,7 @@ Source:	Player's Handbook (2024) p. 249</text>
     <roll description="Lightning Damage">10d8</roll>
   </spell>
   <spell>
-    <name>Charm Monster [2024]</name>
+    <name>Charm Monster</name>
     <level>4</level>
     <school>EN</school>
     <time>Action</time>
@@ -779,7 +779,7 @@ Using a Higher-Level Spell Slot: You can target one additional creature for each
 Source:	Player's Handbook (2024) p. 249</text>
   </spell>
   <spell>
-    <name>Charm Person [2024]</name>
+    <name>Charm Person</name>
     <level>1</level>
     <school>EN</school>
     <time>Action</time>
@@ -794,7 +794,7 @@ Using a Higher-Level Spell Slot: You can target one additional creature for each
 Source:	Player's Handbook (2024) p. 249</text>
   </spell>
   <spell>
-    <name>Chill Touch [2024]</name>
+    <name>Chill Touch</name>
     <level>0</level>
     <school>N</school>
     <time>Action</time>
@@ -813,7 +813,7 @@ Source:	Player's Handbook (2024) p. 249</text>
     <roll description="Necrotic Damage" level="17">4d10</roll>
   </spell>
   <spell>
-    <name>Chromatic Orb [2024]</name>
+    <name>Chromatic Orb</name>
     <level>1</level>
     <school>EV</school>
     <time>Action</time>
@@ -838,7 +838,7 @@ Source:	Player's Handbook (2024) p. 249</text>
     <roll description="Elemental Damage" level="9">11d8</roll>
   </spell>
   <spell>
-    <name>Circle of Death [2024]</name>
+    <name>Circle of Death</name>
     <level>6</level>
     <school>N</school>
     <time>Action</time>
@@ -857,7 +857,7 @@ Source:	Player's Handbook (2024) p. 250</text>
     <roll description="Necrotic Damage" level="9">14d8</roll>
   </spell>
   <spell>
-    <name>Circle of Power [2024]</name>
+    <name>Circle of Power</name>
     <level>5</level>
     <school>A</school>
     <time>Action</time>
@@ -870,7 +870,7 @@ Source:	Player's Handbook (2024) p. 250</text>
 Source:	Player's Handbook (2024) p. 250</text>
   </spell>
   <spell>
-    <name>Clairvoyance [2024]</name>
+    <name>Clairvoyance</name>
     <level>3</level>
     <school>D</school>
     <time>10 minute</time>
@@ -885,7 +885,7 @@ Source:	Player's Handbook (2024) p. 250</text>
 Source:	Player's Handbook (2024) p. 250</text>
   </spell>
   <spell>
-    <name>Clone [2024]</name>
+    <name>Clone</name>
     <level>8</level>
     <school>N</school>
     <time>1 hour</time>
@@ -899,7 +899,7 @@ Source:	Player's Handbook (2024) p. 250</text>
 Source:	Player's Handbook (2024) p. 251</text>
   </spell>
   <spell>
-    <name>Cloud of Daggers [2024]</name>
+    <name>Cloud of Daggers</name>
     <level>2</level>
     <school>C</school>
     <time>Action</time>
@@ -923,7 +923,7 @@ Source:	Player's Handbook (2024) p. 251</text>
     <roll description="Slashing Damage" level="9">11d4</roll>
   </spell>
   <spell>
-    <name>Cloudkill [2024]</name>
+    <name>Cloudkill</name>
     <level>5</level>
     <school>C</school>
     <time>Action</time>
@@ -945,7 +945,7 @@ Source:	Player's Handbook (2024) p. 251</text>
     <roll description="Poison Damage" level="9">9d8</roll>
   </spell>
   <spell>
-    <name>Color Spray [2024]</name>
+    <name>Color Spray</name>
     <level>1</level>
     <school>I</school>
     <time>Action</time>
@@ -958,7 +958,7 @@ Source:	Player's Handbook (2024) p. 251</text>
 Source:	Player's Handbook (2024) p. 251</text>
   </spell>
   <spell>
-    <name>Command [2024]</name>
+    <name>Command</name>
     <level>1</level>
     <school>EN</school>
     <time>Action</time>
@@ -983,7 +983,7 @@ Using a Higher-Level Spell Slot: You can affect one additional creature for each
 Source:	Player's Handbook (2024) p. 251</text>
   </spell>
   <spell>
-    <name>Commune [2024]</name>
+    <name>Commune</name>
     <level>5</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -999,7 +999,7 @@ Source:	Player's Handbook (2024) p. 251</text>
 Source:	Player's Handbook (2024) p. 252</text>
   </spell>
   <spell>
-    <name>Commune with Nature [2024]</name>
+    <name>Commune with Nature</name>
     <level>5</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -1026,7 +1026,7 @@ For example, you could determine the location of a powerful monster in the area,
 Source:	Player's Handbook (2024) p. 252</text>
   </spell>
   <spell>
-    <name>Compelled Duel [2024]</name>
+    <name>Compelled Duel</name>
     <level>1</level>
     <school>EN</school>
     <time>Bonus Action</time>
@@ -1040,7 +1040,7 @@ Source:	Player's Handbook (2024) p. 252</text>
 Source:	Player's Handbook (2024) p. 252</text>
   </spell>
   <spell>
-    <name>Comprehend Languages [2024]</name>
+    <name>Comprehend Languages</name>
     <level>1</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -1054,7 +1054,7 @@ Source:	Player's Handbook (2024) p. 252</text>
 Source:	Player's Handbook (2024) p. 252</text>
   </spell>
   <spell>
-    <name>Compulsion [2024]</name>
+    <name>Compulsion</name>
     <level>4</level>
     <school>EN</school>
     <time>Action</time>
@@ -1068,7 +1068,7 @@ Source:	Player's Handbook (2024) p. 252</text>
 Source:	Player's Handbook (2024) p. 252</text>
   </spell>
   <spell>
-    <name>Cone of Cold [2024]</name>
+    <name>Cone of Cold</name>
     <level>5</level>
     <school>EV</school>
     <time>Action</time>
@@ -1088,7 +1088,7 @@ Source:	Player's Handbook (2024) p. 253</text>
     <roll description="Cold Damage" level="9">12d8</roll>
   </spell>
   <spell>
-    <name>Confusion [2024]</name>
+    <name>Confusion</name>
     <level>4</level>
     <school>EN</school>
     <time>Action</time>
@@ -1114,7 +1114,7 @@ Source:	Player's Handbook (2024) p. 253</text>
     <roll description="Direction">1d4</roll>
   </spell>
   <spell>
-    <name>Conjure Animals [2024]</name>
+    <name>Conjure Animals</name>
     <level>3</level>
     <school>C</school>
     <time>Action</time>
@@ -1138,7 +1138,7 @@ Source:	Player's Handbook (2024) p. 254</text>
     <roll description="Slashing Damage" level="9">9d10</roll>
   </spell>
   <spell>
-    <name>Conjure Barrage [2024]</name>
+    <name>Conjure Barrage</name>
     <level>3</level>
     <school>C</school>
     <time>Action</time>
@@ -1160,7 +1160,7 @@ Source:	Player's Handbook (2024) p. 254</text>
     <roll description="Force Damage" level="9">11d8</roll>
   </spell>
   <spell>
-    <name>Conjure Celestial [2024]</name>
+    <name>Conjure Celestial</name>
     <level>7</level>
     <school>C</school>
     <time>Action</time>
@@ -1185,7 +1185,7 @@ Source:	Player's Handbook (2024) p. 254</text>
     <roll description="Heal" level="9">6d12+%0</roll>
   </spell>
   <spell>
-    <name>Conjure Elemental [2024]</name>
+    <name>Conjure Elemental</name>
     <level>5</level>
     <school>C</school>
     <time>Action</time>
@@ -1206,7 +1206,7 @@ Source:	Player's Handbook (2024) p. 254</text>
     <roll description="Elemental Damage" level="9">12d8</roll>
   </spell>
   <spell>
-    <name>Conjure Fey [2024]</name>
+    <name>Conjure Fey</name>
     <level>6</level>
     <school>C</school>
     <time>Action</time>
@@ -1226,7 +1226,7 @@ Source:	Player's Handbook (2024) p. 255</text>
     <roll description="Psychic Damage" level="9">6d12</roll>
   </spell>
   <spell>
-    <name>Conjure Minor Elementals [2024]</name>
+    <name>Conjure Minor Elementals</name>
     <level>4</level>
     <school>C</school>
     <time>Action</time>
@@ -1248,7 +1248,7 @@ Source:	Player's Handbook (2024) p. 255</text>
     <roll description="Elemental Damage" level="9">7d8</roll>
   </spell>
   <spell>
-    <name>Conjure Volley [2024]</name>
+    <name>Conjure Volley</name>
     <level>5</level>
     <school>C</school>
     <time>Action</time>
@@ -1262,7 +1262,7 @@ Source:	Player's Handbook (2024) p. 255</text>
     <roll description="Force Damage">8d8</roll>
   </spell>
   <spell>
-    <name>Conjure Woodland Beings [2024]</name>
+    <name>Conjure Woodland Beings</name>
     <level>4</level>
     <school>C</school>
     <time>Action</time>
@@ -1284,7 +1284,7 @@ Source:	Player's Handbook (2024) p. 255</text>
     <roll description="Force Damage" level="9">10d8</roll>
   </spell>
   <spell>
-    <name>Contact Other Plane [2024]</name>
+    <name>Contact Other Plane</name>
     <level>5</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -1300,7 +1300,7 @@ Source:	Player's Handbook (2024) p. 255</text>
     <roll description="Psychic Damage">6d6</roll>
   </spell>
   <spell>
-    <name>Contagion [2024]</name>
+    <name>Contagion</name>
     <level>5</level>
     <school>N</school>
     <time>Action</time>
@@ -1316,7 +1316,7 @@ Source:	Player's Handbook (2024) p. 256</text>
     <roll description="Necrotic Damage">11d8</roll>
   </spell>
   <spell>
-    <name>Contingency [2024]</name>
+    <name>Contingency</name>
     <level>6</level>
     <school>A</school>
     <time>10 minute</time>
@@ -1331,7 +1331,7 @@ Source:	Player's Handbook (2024) p. 256</text>
 Source:	Player's Handbook (2024) p. 256</text>
   </spell>
   <spell>
-    <name>Continual Flame [2024]</name>
+    <name>Continual Flame</name>
     <level>2</level>
     <school>EV</school>
     <time>Action</time>
@@ -1343,7 +1343,7 @@ Source:	Player's Handbook (2024) p. 256</text>
 Source:	Player's Handbook (2024) p. 256</text>
   </spell>
   <spell>
-    <name>Control Water [2024]</name>
+    <name>Control Water</name>
     <level>4</level>
     <school>T</school>
     <time>Action</time>
@@ -1366,7 +1366,7 @@ Source:	Player's Handbook (2024) p. 256</text>
     <roll description="Bludgeoning Damage">2d8</roll>
   </spell>
   <spell>
-    <name>Control Weather [2024]</name>
+    <name>Control Weather</name>
     <level>8</level>
     <school>T</school>
     <time>10 minute</time>
@@ -1407,7 +1407,7 @@ Source:	Player's Handbook (2024) p. 257</text>
     <roll description="Minutes">1d4x10</roll>
   </spell>
   <spell>
-    <name>Cordon of Arrows [2024]</name>
+    <name>Cordon of Arrows</name>
     <level>2</level>
     <school>T</school>
     <time>Action</time>
@@ -1424,7 +1424,7 @@ Source:	Player's Handbook (2024) p. 258</text>
     <roll description="Piercing Damage">2d4</roll>
   </spell>
   <spell>
-    <name>Counterspell [2024]</name>
+    <name>Counterspell</name>
     <level>3</level>
     <school>A</school>
     <time>1 reaction, which you take when you see a creature within 60 feet of yourself casting a spell with Verbal, Somatic, or Material components</time>
@@ -1437,7 +1437,7 @@ Source:	Player's Handbook (2024) p. 258</text>
 Source:	Player's Handbook (2024) p. 258</text>
   </spell>
   <spell>
-    <name>Create Food and Water [2024]</name>
+    <name>Create Food and Water</name>
     <level>3</level>
     <school>C</school>
     <time>Action</time>
@@ -1450,7 +1450,7 @@ Source:	Player's Handbook (2024) p. 258</text>
 Source:	Player's Handbook (2024) p. 258</text>
   </spell>
   <spell>
-    <name>Create or Destroy Water [2024]</name>
+    <name>Create or Destroy Water</name>
     <level>1</level>
     <school>T</school>
     <time>Action</time>
@@ -1469,7 +1469,7 @@ Using a Higher-Level Spell Slot: You create or destroy 10 additional gallons of 
 Source:	Player's Handbook (2024) p. 258</text>
   </spell>
   <spell>
-    <name>Create Undead [2024]</name>
+    <name>Create Undead</name>
     <level>6</level>
     <school>N</school>
     <time>1 minute</time>
@@ -1486,7 +1486,7 @@ Using a Higher-Level Spell Slot: If you use a level 7 spell slot, you can animat
 Source:	Player's Handbook (2024) p. 258</text>
   </spell>
   <spell>
-    <name>Creation [2024]</name>
+    <name>Creation</name>
     <level>5</level>
     <school>I</school>
     <time>1 minute</time>
@@ -1509,7 +1509,7 @@ Using a Higher-Level Spell Slot: The Cube increases by 5 feet for each spell slo
 Source:	Player's Handbook (2024) p. 259</text>
   </spell>
   <spell>
-    <name>Crown of Madness [2024]</name>
+    <name>Crown of Madness</name>
     <level>2</level>
     <school>EN</school>
     <time>Action</time>
@@ -1524,7 +1524,7 @@ Source:	Player's Handbook (2024) p. 259</text>
 Source:	Player's Handbook (2024) p. 259</text>
   </spell>
   <spell>
-    <name>Crusader's Mantle [2024]</name>
+    <name>Crusader's Mantle</name>
     <level>3</level>
     <school>EV</school>
     <time>Action</time>
@@ -1538,7 +1538,7 @@ Source:	Player's Handbook (2024) p. 259</text>
     <roll>1d4</roll>
   </spell>
   <spell>
-    <name>Cure Wounds [2024]</name>
+    <name>Cure Wounds</name>
     <level>1</level>
     <school>A</school>
     <time>Action</time>
@@ -1562,7 +1562,7 @@ Source:	Player's Handbook (2024) p. 259</text>
     <roll description="Heal" level="9">18d8+SPELL</roll>
   </spell>
   <spell>
-    <name>Dancing Lights [2024]</name>
+    <name>Dancing Lights</name>
     <level>0</level>
     <school>I</school>
     <time>Action</time>
@@ -1576,7 +1576,7 @@ Source:	Player's Handbook (2024) p. 259</text>
 Source:	Player's Handbook (2024) p. 259</text>
   </spell>
   <spell>
-    <name>Darkness [2024]</name>
+    <name>Darkness</name>
     <level>2</level>
     <school>EV</school>
     <time>Action</time>
@@ -1591,7 +1591,7 @@ Source:	Player's Handbook (2024) p. 259</text>
 Source:	Player's Handbook (2024) p. 260</text>
   </spell>
   <spell>
-    <name>Darkvision [2024]</name>
+    <name>Darkvision</name>
     <level>2</level>
     <school>T</school>
     <time>Action</time>
@@ -1604,7 +1604,7 @@ Source:	Player's Handbook (2024) p. 260</text>
 Source:	Player's Handbook (2024) p. 260</text>
   </spell>
   <spell>
-    <name>Daylight [2024]</name>
+    <name>Daylight</name>
     <level>3</level>
     <school>EV</school>
     <time>Action</time>
@@ -1619,7 +1619,7 @@ Source:	Player's Handbook (2024) p. 260</text>
 Source:	Player's Handbook (2024) p. 260</text>
   </spell>
   <spell>
-    <name>Death Ward [2024]</name>
+    <name>Death Ward</name>
     <level>4</level>
     <school>A</school>
     <time>Action</time>
@@ -1633,7 +1633,7 @@ Source:	Player's Handbook (2024) p. 260</text>
 Source:	Player's Handbook (2024) p. 261</text>
   </spell>
   <spell>
-    <name>Delayed Blast Fireball [2024]</name>
+    <name>Delayed Blast Fireball</name>
     <level>7</level>
     <school>EV</school>
     <time>Action</time>
@@ -1654,7 +1654,7 @@ Source:	Player's Handbook (2024) p. 261</text>
     <roll description="Fire Damage" level="9">14d6</roll>
   </spell>
   <spell>
-    <name>Demiplane [2024]</name>
+    <name>Demiplane</name>
     <level>8</level>
     <school>C</school>
     <time>Action</time>
@@ -1669,7 +1669,7 @@ Source:	Player's Handbook (2024) p. 261</text>
 Source:	Player's Handbook (2024) p. 261</text>
   </spell>
   <spell>
-    <name>Destructive Wave [2024]</name>
+    <name>Destructive Wave</name>
     <level>5</level>
     <school>EV</school>
     <time>Action</time>
@@ -1685,7 +1685,7 @@ Source:	Player's Handbook (2024) p. 261</text>
     <roll description="Thunder and Radiant Damage">5d6+5d6</roll>
   </spell>
   <spell>
-    <name>Detect Evil and Good [2024]</name>
+    <name>Detect Evil and Good</name>
     <level>1</level>
     <school>D</school>
     <time>Action</time>
@@ -1699,7 +1699,7 @@ Source:	Player's Handbook (2024) p. 261</text>
 Source:	Player's Handbook (2024) p. 261</text>
   </spell>
   <spell>
-    <name>Detect Magic [2024]</name>
+    <name>Detect Magic</name>
     <level>1</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -1714,7 +1714,7 @@ Source:	Player's Handbook (2024) p. 261</text>
 Source:	Player's Handbook (2024) p. 262</text>
   </spell>
   <spell>
-    <name>Detect Poison and Disease [2024]</name>
+    <name>Detect Poison and Disease</name>
     <level>1</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -1729,7 +1729,7 @@ Source:	Player's Handbook (2024) p. 262</text>
 Source:	Player's Handbook (2024) p. 262</text>
   </spell>
   <spell>
-    <name>Detect Thoughts [2024]</name>
+    <name>Detect Thoughts</name>
     <level>2</level>
     <school>D</school>
     <time>Action</time>
@@ -1748,7 +1748,7 @@ Read Thoughts: Target one creature you can see within 30 feet of yourself or one
 Source:	Player's Handbook (2024) p. 262</text>
   </spell>
   <spell>
-    <name>Dimension Door [2024]</name>
+    <name>Dimension Door</name>
     <level>4</level>
     <school>C</school>
     <time>Action</time>
@@ -1764,7 +1764,7 @@ Source:	Player's Handbook (2024) p. 262</text>
     <roll description="Force Damage">4d6</roll>
   </spell>
   <spell>
-    <name>Disguise Self [2024]</name>
+    <name>Disguise Self</name>
     <level>1</level>
     <school>I</school>
     <time>Action</time>
@@ -1779,7 +1779,7 @@ Source:	Player's Handbook (2024) p. 262</text>
 Source:	Player's Handbook (2024) p. 262</text>
   </spell>
   <spell>
-    <name>Disintegrate [2024]</name>
+    <name>Disintegrate</name>
     <level>6</level>
     <school>T</school>
     <time>Action</time>
@@ -1800,7 +1800,7 @@ Source:	Player's Handbook (2024) p. 263</text>
     <roll description="Force Damage" level="9">19d6+40</roll>
   </spell>
   <spell>
-    <name>Dispel Evil and Good [2024]</name>
+    <name>Dispel Evil and Good</name>
     <level>5</level>
     <school>A</school>
     <time>Action</time>
@@ -1817,7 +1817,7 @@ Dismissal: As a Magic action, you target one creature you can see within 5 feet 
 Source:	Player's Handbook (2024) p. 263</text>
   </spell>
   <spell>
-    <name>Dispel Magic [2024]</name>
+    <name>Dispel Magic</name>
     <level>3</level>
     <school>A</school>
     <time>Action</time>
@@ -1832,7 +1832,7 @@ Using a Higher-Level Spell Slot: You automatically end a spell on the target if 
 Source:	Player's Handbook (2024) p. 265</text>
   </spell>
   <spell>
-    <name>Dissonant Whispers [2024]</name>
+    <name>Dissonant Whispers</name>
     <level>1</level>
     <school>EN</school>
     <time>Action</time>
@@ -1856,7 +1856,7 @@ Source:	Player's Handbook (2024) p. 264</text>
     <roll description="Psychic Damage" level="9">11d6</roll>
   </spell>
   <spell>
-    <name>Divination [2024]</name>
+    <name>Divination</name>
     <level>4</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -1871,7 +1871,7 @@ Source:	Player's Handbook (2024) p. 264</text>
 Source:	Player's Handbook (2024) p. 264</text>
   </spell>
   <spell>
-    <name>Divine Favor [2024]</name>
+    <name>Divine Favor</name>
     <level>1</level>
     <school>T</school>
     <time>Bonus Action</time>
@@ -1885,7 +1885,7 @@ Source:	Player's Handbook (2024) p. 265</text>
     <roll description="Radiant Damage">1d4</roll>
   </spell>
   <spell>
-    <name>Divine Smite [2024]</name>
+    <name>Divine Smite</name>
     <level>1</level>
     <school>T</school>
     <time>Bonus Action, Which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike</time>
@@ -1909,7 +1909,7 @@ Source:	Player's Handbook (2024) p. 265</text>
     <roll description="Radiant Damage" level="9">10d8</roll>
   </spell>
   <spell>
-    <name>Divine Word [2024]</name>
+    <name>Divine Word</name>
     <level>7</level>
     <school>EV</school>
     <time>Bonus Action</time>
@@ -1929,7 +1929,7 @@ Hit Points | Effect
 Source:	Player's Handbook (2024) p. 265</text>
   </spell>
   <spell>
-    <name>Dominate Beast [2024]</name>
+    <name>Dominate Beast</name>
     <level>4</level>
     <school>EN</school>
     <time>Action</time>
@@ -1946,7 +1946,7 @@ Using a Higher-Level Spell Slot: Your Concentration can last longer with a spell
 Source:	Player's Handbook (2024) p. 265</text>
   </spell>
   <spell>
-    <name>Dominate Monster [2024]</name>
+    <name>Dominate Monster</name>
     <level>8</level>
     <school>EN</school>
     <time>Action</time>
@@ -1963,7 +1963,7 @@ Using a Higher-Level Spell Slot: Your Concentration can last longer with a level
 Source:	Player's Handbook (2024) p. 265</text>
   </spell>
   <spell>
-    <name>Dominate Person [2024]</name>
+    <name>Dominate Person</name>
     <level>5</level>
     <school>EN</school>
     <time>Action</time>
@@ -1980,7 +1980,7 @@ Using a Higher-Level Spell Slot: Your Concentration can last longer with a spell
 Source:	Player's Handbook (2024) p. 266</text>
   </spell>
   <spell>
-    <name>Dragon's Breath [2024]</name>
+    <name>Dragon's Breath</name>
     <level>2</level>
     <school>T</school>
     <time>Bonus Action</time>
@@ -2003,7 +2003,7 @@ Source:	Player's Handbook (2024) p. 266</text>
     <roll description="Draconic Damage" level="9">10d6</roll>
   </spell>
   <spell>
-    <name>Drawmij's Instant Summons [2024]</name>
+    <name>Drawmij's Instant Summons</name>
     <level>6</level>
     <school>C</school>
     <ritual>YES</ritual>
@@ -2018,7 +2018,7 @@ Source:	Player's Handbook (2024) p. 266</text>
 Source:	Player's Handbook (2024) p. 266</text>
   </spell>
   <spell>
-    <name>Dream [2024]</name>
+    <name>Dream</name>
     <level>5</level>
     <school>I</school>
     <time>1 minute</time>
@@ -2035,7 +2035,7 @@ Source:	Player's Handbook (2024) p. 266</text>
     <roll description="Psychic Damage">3d6</roll>
   </spell>
   <spell>
-    <name>Druidcraft [2024]</name>
+    <name>Druidcraft</name>
     <level>0</level>
     <school>T</school>
     <time>Action</time>
@@ -2056,7 +2056,7 @@ Fire Play: You light or snuff out a candle, a torch, or a campfire.
 Source:	Player's Handbook (2024) p. 266</text>
   </spell>
   <spell>
-    <name>Earthquake [2024]</name>
+    <name>Earthquake</name>
     <level>8</level>
     <school>T</school>
     <time>Action</time>
@@ -2079,7 +2079,7 @@ Source:	Player's Handbook (2024) p. 267</text>
     <roll description="Bludgeoning Damage">12d6</roll>
   </spell>
   <spell>
-    <name>Eldritch Blast [2024]</name>
+    <name>Eldritch Blast</name>
     <level>0</level>
     <school>EV</school>
     <time>Action</time>
@@ -2096,7 +2096,7 @@ Source:	Player's Handbook (2024) p. 267</text>
     <roll description="Force Damage">1d10+SPELL</roll>
   </spell>
   <spell>
-    <name>Elemental Weapon [2024]</name>
+    <name>Elemental Weapon</name>
     <level>3</level>
     <school>T</school>
     <time>Action</time>
@@ -2114,7 +2114,7 @@ Source:	Player's Handbook (2024) p. 268</text>
     <roll description="Elemental Damage" level="7">3d4</roll>
   </spell>
   <spell>
-    <name>Elementalism [2024]</name>
+    <name>Elementalism</name>
     <level>0</level>
     <school>T</school>
     <time>Action</time>
@@ -2137,7 +2137,7 @@ Sculpt Element: You cause dirt, sand, fire, smoke, mist, or water that can fit i
 Source:	Player's Handbook (2024) p. 267</text>
   </spell>
   <spell>
-    <name>Enhance Ability [2024]</name>
+    <name>Enhance Ability</name>
     <level>2</level>
     <school>T</school>
     <time>Action</time>
@@ -2152,7 +2152,7 @@ Using a Higher-Level Spell Slot: You can target one additional creature for each
 Source:	Player's Handbook (2024) p. 268</text>
   </spell>
   <spell>
-    <name>Enlarge/Reduce [2024]</name>
+    <name>Enlarge/Reduce</name>
     <level>2</level>
     <school>T</school>
     <time>Action</time>
@@ -2172,7 +2172,7 @@ Source:	Player's Handbook (2024) p. 268</text>
     <roll description="Less Damage">1d4</roll>
   </spell>
   <spell>
-    <name>Ensnaring Strike [2024]</name>
+    <name>Ensnaring Strike</name>
     <level>1</level>
     <school>C</school>
     <time>Bonus Action, which you take immediately after hitting a creature with a weapon</time>
@@ -2197,7 +2197,7 @@ Source:	Player's Handbook (2024) p. 268</text>
     <roll description="Piercing Damage" level="9">9d6</roll>
   </spell>
   <spell>
-    <name>Entangle [2024]</name>
+    <name>Entangle</name>
     <level>1</level>
     <school>C</school>
     <time>Action</time>
@@ -2211,7 +2211,7 @@ Source:	Player's Handbook (2024) p. 268</text>
 Source:	Player's Handbook (2024) p. 268</text>
   </spell>
   <spell>
-    <name>Enthrall [2024]</name>
+    <name>Enthrall</name>
     <level>2</level>
     <school>EN</school>
     <time>Action</time>
@@ -2224,7 +2224,7 @@ Source:	Player's Handbook (2024) p. 268</text>
 Source:	Player's Handbook (2024) p. 269</text>
   </spell>
   <spell>
-    <name>Etherealness [2024]</name>
+    <name>Etherealness</name>
     <level>7</level>
     <school>C</school>
     <time>Action</time>
@@ -2242,7 +2242,7 @@ Using a Higher-Level Spell Slot: You can target up to three willing creatures (i
 Source:	Player's Handbook (2024) p. 269</text>
   </spell>
   <spell>
-    <name>Evard's Black Tentacles [2024]</name>
+    <name>Evard's Black Tentacles</name>
     <level>4</level>
     <school>C</school>
     <time>Action</time>
@@ -2258,7 +2258,7 @@ Source:	Player's Handbook (2024) p. 270</text>
     <roll description="Bludgeoning Damage">3d6</roll>
   </spell>
   <spell>
-    <name>Expeditious Retreat [2024]</name>
+    <name>Expeditious Retreat</name>
     <level>1</level>
     <school>T</school>
     <time>Bonus Action</time>
@@ -2271,7 +2271,7 @@ Source:	Player's Handbook (2024) p. 270</text>
 Source:	Player's Handbook (2024) p. 270</text>
   </spell>
   <spell>
-    <name>Eyebite [2024]</name>
+    <name>Eyebite</name>
     <level>6</level>
     <school>N</school>
     <time>Action</time>
@@ -2291,7 +2291,7 @@ Sickened: The target has the Poisoned condition.
 Source:	Player's Handbook (2024) p. 270</text>
   </spell>
   <spell>
-    <name>Fabricate [2024]</name>
+    <name>Fabricate</name>
     <level>4</level>
     <school>T</school>
     <time>10 minute</time>
@@ -2306,7 +2306,7 @@ Source:	Player's Handbook (2024) p. 270</text>
 Source:	Player's Handbook (2024) p. 271</text>
   </spell>
   <spell>
-    <name>Faerie Fire [2024]</name>
+    <name>Faerie Fire</name>
     <level>1</level>
     <school>EV</school>
     <time>Action</time>
@@ -2320,7 +2320,7 @@ Source:	Player's Handbook (2024) p. 271</text>
 Source:	Player's Handbook (2024) p. 271</text>
   </spell>
   <spell>
-    <name>False Life [2024]</name>
+    <name>False Life</name>
     <level>1</level>
     <school>N</school>
     <time>Action</time>
@@ -2344,7 +2344,7 @@ Source:	Player's Handbook (2024) p. 271</text>
     <roll description="Temporary Hit Points" level="9">2d4+4+40</roll>
   </spell>
   <spell>
-    <name>Fear [2024]</name>
+    <name>Fear</name>
     <level>3</level>
     <school>I</school>
     <time>Action</time>
@@ -2358,7 +2358,7 @@ Source:	Player's Handbook (2024) p. 271</text>
 Source:	Player's Handbook (2024) p. 271</text>
   </spell>
   <spell>
-    <name>Feather Fall [2024]</name>
+    <name>Feather Fall</name>
     <level>1</level>
     <school>T</school>
     <time>1 reaction, which you take when you or a creature you can see within 60 feet of you falls</time>
@@ -2371,7 +2371,7 @@ Source:	Player's Handbook (2024) p. 271</text>
 Source:	Player's Handbook (2024) p. 271</text>
   </spell>
   <spell>
-    <name>Feign Death [2024]</name>
+    <name>Feign Death</name>
     <level>3</level>
     <school>N</school>
     <ritual>YES</ritual>
@@ -2387,7 +2387,7 @@ Source:	Player's Handbook (2024) p. 271</text>
 Source:	Player's Handbook (2024) p. 271</text>
   </spell>
   <spell>
-    <name>Find Familiar [2024]</name>
+    <name>Find Familiar</name>
     <level>1</level>
     <school>C</school>
     <ritual>YES</ritual>
@@ -2410,7 +2410,7 @@ One Familiar Only: You can't have more than one familiar at a time. If you cast 
 Source:	Player's Handbook (2024) p. 272</text>
   </spell>
   <spell>
-    <name>Find Steed [2024]</name>
+    <name>Find Steed</name>
     <level>2</level>
     <school>C</school>
     <time>Action</time>
@@ -2430,7 +2430,7 @@ Using a Higher-Level Spell Slot: Use the spell slot's level for the spell's leve
 Source:	Player's Handbook (2024) p. 272</text>
   </spell>
   <spell>
-    <name>Find the Path [2024]</name>
+    <name>Find the Path</name>
     <level>6</level>
     <school>D</school>
     <time>1 minute</time>
@@ -2444,7 +2444,7 @@ Source:	Player's Handbook (2024) p. 272</text>
 Source:	Player's Handbook (2024) p. 273</text>
   </spell>
   <spell>
-    <name>Find Traps [2024]</name>
+    <name>Find Traps</name>
     <level>2</level>
     <school>D</school>
     <time>Action</time>
@@ -2458,7 +2458,7 @@ Source:	Player's Handbook (2024) p. 273</text>
 Source:	Player's Handbook (2024) p. 273</text>
   </spell>
   <spell>
-    <name>Finger of Death [2024]</name>
+    <name>Finger of Death</name>
     <level>7</level>
     <school>N</school>
     <time>Action</time>
@@ -2473,7 +2473,7 @@ Source:	Player's Handbook (2024) p. 273</text>
     <roll description="Necrotic Damage">7d8+30</roll>
   </spell>
   <spell>
-    <name>Fire Bolt [2024]</name>
+    <name>Fire Bolt</name>
     <level>0</level>
     <school>EV</school>
     <time>Action</time>
@@ -2492,7 +2492,7 @@ Source:	Player's Handbook (2024) p. 274</text>
     <roll description="Fire Damage" level="17">4d10</roll>
   </spell>
   <spell>
-    <name>Fire Shield [2024]</name>
+    <name>Fire Shield</name>
     <level>4</level>
     <school>EV</school>
     <time>Action</time>
@@ -2509,7 +2509,7 @@ Source:	Player's Handbook (2024) p. 274</text>
     <roll description="Cold Damage">2d8</roll>
   </spell>
   <spell>
-    <name>Fire Storm [2024]</name>
+    <name>Fire Storm</name>
     <level>7</level>
     <school>EV</school>
     <time>Action</time>
@@ -2524,7 +2524,7 @@ Source:	Player's Handbook (2024) p. 275</text>
     <roll description="Fire Damage">7d10</roll>
   </spell>
   <spell>
-    <name>Fireball [2024]</name>
+    <name>Fireball</name>
     <level>3</level>
     <school>EV</school>
     <time>Action</time>
@@ -2547,7 +2547,7 @@ Source:	Player's Handbook (2024) p. 274</text>
     <roll description="Fire Damage" level="9">14d6</roll>
   </spell>
   <spell>
-    <name>Flame Blade [2024]</name>
+    <name>Flame Blade</name>
     <level>2</level>
     <school>EV</school>
     <time>Bonus Action</time>
@@ -2572,7 +2572,7 @@ Source:	Player's Handbook (2024) p. 275</text>
     <roll description="Fire Damage" level="9">10d6+SPELL</roll>
   </spell>
   <spell>
-    <name>Flame Strike [2024]</name>
+    <name>Flame Strike</name>
     <level>5</level>
     <school>EV</school>
     <time>Action</time>
@@ -2597,7 +2597,7 @@ Source:	Player's Handbook (2024) p. 275</text>
     <roll description="Fire and Radiant Damage" level="9">9d6+9d6</roll>
   </spell>
   <spell>
-    <name>Flaming Sphere [2024]</name>
+    <name>Flaming Sphere</name>
     <level>2</level>
     <school>C</school>
     <time>Action</time>
@@ -2622,7 +2622,7 @@ Source:	Player's Handbook (2024) p. 275</text>
     <roll description="Fire Damage" level="9">9d6</roll>
   </spell>
   <spell>
-    <name>Flesh to Stone [2024]</name>
+    <name>Flesh to Stone</name>
     <level>6</level>
     <school>T</school>
     <time>Action</time>
@@ -2637,7 +2637,7 @@ Source:	Player's Handbook (2024) p. 275</text>
 Source:	Player's Handbook (2024) p. 275</text>
   </spell>
   <spell>
-    <name>Fly [2024]</name>
+    <name>Fly</name>
     <level>3</level>
     <school>T</school>
     <time>Action</time>
@@ -2652,7 +2652,7 @@ Using a Higher-Level Spell Slot: You can target one additional creature for each
 Source:	Player's Handbook (2024) p. 276</text>
   </spell>
   <spell>
-    <name>Fog Cloud [2024]</name>
+    <name>Fog Cloud</name>
     <level>1</level>
     <school>C</school>
     <time>Action</time>
@@ -2667,7 +2667,7 @@ Using a Higher-Level Spell Slot: The fog's radius increases by 20 feet for each 
 Source:	Player's Handbook (2024) p. 276</text>
   </spell>
   <spell>
-    <name>Forbiddance [2024]</name>
+    <name>Forbiddance</name>
     <level>6</level>
     <school>A</school>
     <ritual>YES</ritual>
@@ -2685,7 +2685,7 @@ Source:	Player's Handbook (2024) p. 276</text>
     <roll description="Radiant Damage">5d10</roll>
   </spell>
   <spell>
-    <name>Forcecage [2024]</name>
+    <name>Forcecage</name>
     <level>7</level>
     <school>EV</school>
     <time>Action</time>
@@ -2702,7 +2702,7 @@ Source:	Player's Handbook (2024) p. 276</text>
 Source:	Player's Handbook (2024) p. 276</text>
   </spell>
   <spell>
-    <name>Foresight [2024]</name>
+    <name>Foresight</name>
     <level>9</level>
     <school>D</school>
     <time>1 minute</time>
@@ -2715,7 +2715,7 @@ Source:	Player's Handbook (2024) p. 276</text>
 Source:	Player's Handbook (2024) p. 276</text>
   </spell>
   <spell>
-    <name>Fount of Moonlight [2024]</name>
+    <name>Fount of Moonlight</name>
     <level>4</level>
     <school>EV</school>
     <time>Action</time>
@@ -2731,7 +2731,7 @@ Source:	Player's Handbook (2024) p. 277</text>
     <roll description="Radiant Damage">2d6</roll>
   </spell>
   <spell>
-    <name>Freedom of Movement [2024]</name>
+    <name>Freedom of Movement</name>
     <level>4</level>
     <school>A</school>
     <time>Action</time>
@@ -2747,7 +2747,7 @@ Using a Higher-Level Spell Slot: You can target one additional creature for each
 Source:	Player's Handbook (2024) p. 277</text>
   </spell>
   <spell>
-    <name>Friends [2024]</name>
+    <name>Friends</name>
     <level>0</level>
     <school>EN</school>
     <time>Action</time>
@@ -2761,7 +2761,7 @@ Source:	Player's Handbook (2024) p. 277</text>
 Source:	Player's Handbook (2024) p. 277</text>
   </spell>
   <spell>
-    <name>Gaseous Form [2024]</name>
+    <name>Gaseous Form</name>
     <level>3</level>
     <school>T</school>
     <time>Action</time>
@@ -2778,7 +2778,7 @@ Using a Higher-Level Spell Slot: You can target one additional creature for each
 Source:	Player's Handbook (2024) p. 277</text>
   </spell>
   <spell>
-    <name>Gate [2024]</name>
+    <name>Gate</name>
     <level>9</level>
     <school>C</school>
     <time>Action</time>
@@ -2794,7 +2794,7 @@ Source:	Player's Handbook (2024) p. 277</text>
 Source:	Player's Handbook (2024) p. 277</text>
   </spell>
   <spell>
-    <name>Geas [2024]</name>
+    <name>Geas</name>
     <level>5</level>
     <school>EN</school>
     <time>1 minute</time>
@@ -2813,7 +2813,7 @@ Source:	Player's Handbook (2024) p. 278</text>
     <roll description="Psychic Damage">5d10</roll>
   </spell>
   <spell>
-    <name>Gentle Repose [2024]</name>
+    <name>Gentle Repose</name>
     <level>2</level>
     <school>N</school>
     <ritual>YES</ritual>
@@ -2828,7 +2828,7 @@ Source:	Player's Handbook (2024) p. 278</text>
 Source:	Player's Handbook (2024) p. 278</text>
   </spell>
   <spell>
-    <name>Giant Insect [2024]</name>
+    <name>Giant Insect</name>
     <level>4</level>
     <school>C</school>
     <time>Action</time>
@@ -2844,7 +2844,7 @@ Using a Higher-Level Spell Slot: Use the spell slot's level for the spell's leve
 Source:	Player's Handbook (2024) p. 279</text>
   </spell>
   <spell>
-    <name>Glibness [2024]</name>
+    <name>Glibness</name>
     <level>8</level>
     <school>T</school>
     <time>Action</time>
@@ -2857,7 +2857,7 @@ Source:	Player's Handbook (2024) p. 279</text>
 Source:	Player's Handbook (2024) p. 279</text>
   </spell>
   <spell>
-    <name>Globe of Invulnerability [2024]</name>
+    <name>Globe of Invulnerability</name>
     <level>6</level>
     <school>A</school>
     <time>Action</time>
@@ -2873,7 +2873,7 @@ Using a Higher-Level Spell Slot: The barrier blocks spells of 1 level higher for
 Source:	Player's Handbook (2024) p. 279</text>
   </spell>
   <spell>
-    <name>Glyph of Warding [2024]</name>
+    <name>Glyph of Warding</name>
     <level>3</level>
     <school>A</school>
     <time>1 hour</time>
@@ -2904,7 +2904,7 @@ Source:	Player's Handbook (2024) p. 279</text>
     <roll description="Acid Damage" level="9">11d8</roll>
   </spell>
   <spell>
-    <name>Goodberry [2024]</name>
+    <name>Goodberry</name>
     <level>1</level>
     <school>C</school>
     <time>Action</time>
@@ -2918,7 +2918,7 @@ Source:	Player's Handbook (2024) p. 279</text>
 Source:	Player's Handbook (2024) p. 280</text>
   </spell>
   <spell>
-    <name>Grasping Vine [2024]</name>
+    <name>Grasping Vine</name>
     <level>4</level>
     <school>C</school>
     <time>Bonus Action</time>
@@ -2936,7 +2936,7 @@ Source:	Player's Handbook (2024) p. 280</text>
     <roll description="Bludgeoning Damage">4d8</roll>
   </spell>
   <spell>
-    <name>Grease [2024]</name>
+    <name>Grease</name>
     <level>1</level>
     <school>C</school>
     <time>Action</time>
@@ -2950,7 +2950,7 @@ Source:	Player's Handbook (2024) p. 280</text>
 Source:	Player's Handbook (2024) p. 280</text>
   </spell>
   <spell>
-    <name>Greater Invisibility [2024]</name>
+    <name>Greater Invisibility</name>
     <level>4</level>
     <school>I</school>
     <time>Action</time>
@@ -2967,7 +2967,7 @@ Invisible:
 Source:	Player's Handbook (2024) p. 281</text>
   </spell>
   <spell>
-    <name>Greater Restoration [2024]</name>
+    <name>Greater Restoration</name>
     <level>5</level>
     <school>A</school>
     <time>Action</time>
@@ -2986,7 +2986,7 @@ Source:	Player's Handbook (2024) p. 281</text>
 Source:	Player's Handbook (2024) p. 281</text>
   </spell>
   <spell>
-    <name>Guardian of Faith [2024]</name>
+    <name>Guardian of Faith</name>
     <level>4</level>
     <school>C</school>
     <time>Action</time>
@@ -3000,7 +3000,7 @@ Source:	Player's Handbook (2024) p. 281</text>
 Source:	Player's Handbook (2024) p. 281</text>
   </spell>
   <spell>
-    <name>Guards and Wards [2024]</name>
+    <name>Guards and Wards</name>
     <level>6</level>
     <school>A</school>
     <time>1 hour</time>
@@ -3033,7 +3033,7 @@ Other Spell Effect: Place one of the following magical effects within the warded
 Source:	Player's Handbook (2024) p. 282</text>
   </spell>
   <spell>
-    <name>Guidance [2024]</name>
+    <name>Guidance</name>
     <level>0</level>
     <school>D</school>
     <time>Action</time>
@@ -3047,7 +3047,7 @@ Source:	Player's Handbook (2024) p. 282</text>
     <roll description="Add to Roll">1d4</roll>
   </spell>
   <spell>
-    <name>Guiding Bolt [2024]</name>
+    <name>Guiding Bolt</name>
     <level>1</level>
     <school>EV</school>
     <time>Action</time>
@@ -3071,7 +3071,7 @@ Source:	Player's Handbook (2024) p. 282</text>
     <roll description="Radiant Damage" level="9">12d6</roll>
   </spell>
   <spell>
-    <name>Gust of Wind [2024]</name>
+    <name>Gust of Wind</name>
     <level>2</level>
     <school>EV</school>
     <time>Action</time>
@@ -3087,7 +3087,7 @@ Source:	Player's Handbook (2024) p. 282</text>
 Source:	Player's Handbook (2024) p. 282</text>
   </spell>
   <spell>
-    <name>Hail of Thorns [2024]</name>
+    <name>Hail of Thorns</name>
     <level>1</level>
     <school>C</school>
     <time>Bonus Action, which you take immediately after hitting a creature with a Ranged weapon</time>
@@ -3111,7 +3111,7 @@ Source:	Player's Handbook (2024) p. 283</text>
     <roll description="Piercing Damage" level="9">9d10</roll>
   </spell>
   <spell>
-    <name>Hallow [2024]</name>
+    <name>Hallow</name>
     <level>5</level>
     <school>A</school>
     <time>24 hour</time>
@@ -3147,7 +3147,7 @@ Vulnerability: Creatures of any types you choose have Vulnerability to one damag
 Source:	Player's Handbook (2024) p. 283</text>
   </spell>
   <spell>
-    <name>Hallucinatory Terrain [2024]</name>
+    <name>Hallucinatory Terrain</name>
     <level>4</level>
     <school>I</school>
     <time>10 minute</time>
@@ -3161,7 +3161,7 @@ Source:	Player's Handbook (2024) p. 283</text>
 Source:	Player's Handbook (2024) p. 283</text>
   </spell>
   <spell>
-    <name>Harm [2024]</name>
+    <name>Harm</name>
     <level>6</level>
     <school>N</school>
     <time>Action</time>
@@ -3175,7 +3175,7 @@ Source:	Player's Handbook (2024) p. 283</text>
     <roll description="Necrotic Damage">14d6</roll>
   </spell>
   <spell>
-    <name>Haste [2024]</name>
+    <name>Haste</name>
     <level>3</level>
     <school>T</school>
     <time>Action</time>
@@ -3189,7 +3189,7 @@ Source:	Player's Handbook (2024) p. 283</text>
 Source:	Player's Handbook (2024) p. 284</text>
   </spell>
   <spell>
-    <name>Heal [2024]</name>
+    <name>Heal</name>
     <level>6</level>
     <school>A</school>
     <time>Action</time>
@@ -3204,7 +3204,7 @@ Using a Higher-Level Spell Slot: The healing increases by 10 for each spell slot
 Source:	Player's Handbook (2024) p. 284</text>
   </spell>
   <spell>
-    <name>Healing Word [2024]</name>
+    <name>Healing Word</name>
     <level>1</level>
     <school>A</school>
     <time>Bonus Action</time>
@@ -3228,7 +3228,7 @@ Source:	Player's Handbook (2024) p. 284</text>
     <roll description="Heal" level="9">18d4+%0</roll>
   </spell>
   <spell>
-    <name>Heat Metal [2024]</name>
+    <name>Heat Metal</name>
     <level>2</level>
     <school>T</school>
     <time>Action</time>
@@ -3252,7 +3252,7 @@ Source:	Player's Handbook (2024) p. 284</text>
     <roll description="Fire Damage" level="9">9d8</roll>
   </spell>
   <spell>
-    <name>Hellish Rebuke [2024]</name>
+    <name>Hellish Rebuke</name>
     <level>1</level>
     <school>EV</school>
     <time>1 reaction, which you take in response to taking damage from a creature that you can see within 60 feet of yourself</time>
@@ -3276,7 +3276,7 @@ Source:	Player's Handbook (2024) p. 284</text>
     <roll description="Fire Damage" level="9">10d10</roll>
   </spell>
   <spell>
-    <name>Heroes' Feast [2024]</name>
+    <name>Heroes' Feast</name>
     <level>6</level>
     <school>C</school>
     <time>10 minute</time>
@@ -3291,7 +3291,7 @@ Source:	Player's Handbook (2024) p. 284</text>
     <roll description="Hit Point Maximum Increase">2d10</roll>
   </spell>
   <spell>
-    <name>Heroism [2024]</name>
+    <name>Heroism</name>
     <level>1</level>
     <school>EN</school>
     <time>Action</time>
@@ -3306,7 +3306,7 @@ Using a Higher-Level Spell Slot: You can target one additional creature for each
 Source:	Player's Handbook (2024) p. 285</text>
   </spell>
   <spell>
-    <name>Hex [2024]</name>
+    <name>Hex</name>
     <level>1</level>
     <school>EN</school>
     <time>Bonus Action</time>
@@ -3323,7 +3323,7 @@ Source:	Player's Handbook (2024) p. 285</text>
     <roll description="Necrotic Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Hold Monster [2024]</name>
+    <name>Hold Monster</name>
     <level>5</level>
     <school>EN</school>
     <time>Action</time>
@@ -3338,7 +3338,7 @@ Using a Higher-Level Spell Slot: You can target one additional creature for each
 Source:	Player's Handbook (2024) p. 285</text>
   </spell>
   <spell>
-    <name>Hold Person [2024]</name>
+    <name>Hold Person</name>
     <level>2</level>
     <school>EN</school>
     <time>Action</time>
@@ -3353,7 +3353,7 @@ Using a Higher-Level Spell Slot: You can target one additional Humanoid for each
 Source:	Player's Handbook (2024) p. 286</text>
   </spell>
   <spell>
-    <name>Holy Aura [2024]</name>
+    <name>Holy Aura</name>
     <level>8</level>
     <school>A</school>
     <time>Action</time>
@@ -3366,7 +3366,7 @@ Source:	Player's Handbook (2024) p. 286</text>
 Source:	Player's Handbook (2024) p. 286</text>
   </spell>
   <spell>
-    <name>Hunger of Hadar [2024]</name>
+    <name>Hunger of Hadar</name>
     <level>3</level>
     <school>C</school>
     <time>Action</time>
@@ -3389,7 +3389,7 @@ Source:	Player's Handbook (2024) p. 286</text>
     <roll description="Cold Damage" level="9">8d6</roll>
   </spell>
   <spell>
-    <name>Hunter's Mark [2024]</name>
+    <name>Hunter's Mark</name>
     <level>1</level>
     <school>D</school>
     <time>Bonus Action</time>
@@ -3406,7 +3406,7 @@ Source:	Player's Handbook (2024) p. 287</text>
     <roll description="Force Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Hypnotic Pattern [2024]</name>
+    <name>Hypnotic Pattern</name>
     <level>3</level>
     <school>I</school>
     <time>Action</time>
@@ -3420,7 +3420,7 @@ Source:	Player's Handbook (2024) p. 287</text>
 Source:	Player's Handbook (2024) p. 287</text>
   </spell>
   <spell>
-    <name>Ice Knife [2024]</name>
+    <name>Ice Knife</name>
     <level>1</level>
     <school>C</school>
     <time>Action</time>
@@ -3445,7 +3445,7 @@ Source:	Player's Handbook (2024) p. 287</text>
     <roll description="Cold Damage" level="9">10d6</roll>
   </spell>
   <spell>
-    <name>Ice Storm [2024]</name>
+    <name>Ice Storm</name>
     <level>4</level>
     <school>EV</school>
     <time>Action</time>
@@ -3468,7 +3468,7 @@ Source:	Player's Handbook (2024) p. 287</text>
     <roll description="Bludgeoning Damage" level="9">7d10</roll>
   </spell>
   <spell>
-    <name>Identify [2024]</name>
+    <name>Identify</name>
     <level>1</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -3483,7 +3483,7 @@ Source:	Player's Handbook (2024) p. 287</text>
 Source:	Player's Handbook (2024) p. 287</text>
   </spell>
   <spell>
-    <name>Illusory Script [2024]</name>
+    <name>Illusory Script</name>
     <level>1</level>
     <school>I</school>
     <ritual>YES</ritual>
@@ -3499,7 +3499,7 @@ Source:	Player's Handbook (2024) p. 287</text>
 Source:	Player's Handbook (2024) p. 288</text>
   </spell>
   <spell>
-    <name>Imprisonment [2024]</name>
+    <name>Imprisonment</name>
     <level>9</level>
     <school>A</school>
     <time>1 minute</time>
@@ -3524,7 +3524,7 @@ Ending the Spell: When you cast the spell, specify a trigger that will end it. T
 Source:	Player's Handbook (2024) p. 288</text>
   </spell>
   <spell>
-    <name>Incendiary Cloud [2024]</name>
+    <name>Incendiary Cloud</name>
     <level>8</level>
     <school>C</school>
     <time>Action</time>
@@ -3540,7 +3540,7 @@ Source:	Player's Handbook (2024) p. 288</text>
     <roll description="Fire Damage">10d8</roll>
   </spell>
   <spell>
-    <name>Inflict Wounds [2024]</name>
+    <name>Inflict Wounds</name>
     <level>1</level>
     <school>N</school>
     <time>Action</time>
@@ -3564,7 +3564,7 @@ Source:	Player's Handbook (2024) p. 288</text>
     <roll description="Necrotic Damage" level="9">10d10</roll>
   </spell>
   <spell>
-    <name>Insect Plague [2024]</name>
+    <name>Insect Plague</name>
     <level>5</level>
     <school>C</school>
     <time>Action</time>
@@ -3585,7 +3585,7 @@ Source:	Player's Handbook (2024) p. 289</text>
     <roll description="Piercing Damage" level="9">8d10</roll>
   </spell>
   <spell>
-    <name>Invisibility [2024]</name>
+    <name>Invisibility</name>
     <level>2</level>
     <school>I</school>
     <time>Action</time>
@@ -3603,7 +3603,7 @@ Invisible:
 Source:	Player's Handbook (2024) p. 289</text>
   </spell>
   <spell>
-    <name>Jallarzi's Storm of Radiance [2024]</name>
+    <name>Jallarzi's Storm of Radiance</name>
     <level>5</level>
     <school>EV</school>
     <time>Action</time>
@@ -3629,7 +3629,7 @@ Source:	Player's Handbook (2024) p. 289</text>
     <roll description="Radiant and Thunder Damage" level="9">6d10+6d10</roll>
   </spell>
   <spell>
-    <name>Jump [2024]</name>
+    <name>Jump</name>
     <level>1</level>
     <school>T</school>
     <time>Bonus Action</time>
@@ -3644,7 +3644,7 @@ Using a Higher-Level Spell Slot: You can target one additional creature for each
 Source:	Player's Handbook (2024) p. 290</text>
   </spell>
   <spell>
-    <name>Knock [2024]</name>
+    <name>Knock</name>
     <level>2</level>
     <school>T</school>
     <time>Action</time>
@@ -3660,7 +3660,7 @@ Source:	Player's Handbook (2024) p. 290</text>
 Source:	Player's Handbook (2024) p. 290</text>
   </spell>
   <spell>
-    <name>Legend Lore [2024]</name>
+    <name>Legend Lore</name>
     <level>5</level>
     <school>D</school>
     <time>10 minute</time>
@@ -3675,7 +3675,7 @@ Source:	Player's Handbook (2024) p. 290</text>
 Source:	Player's Handbook (2024) p. 290</text>
   </spell>
   <spell>
-    <name>Leomund's Secret Chest [2024]</name>
+    <name>Leomund's Secret Chest</name>
     <level>4</level>
     <school>C</school>
     <time>Action</time>
@@ -3689,7 +3689,7 @@ Source:	Player's Handbook (2024) p. 290</text>
 Source:	Player's Handbook (2024) p. 290</text>
   </spell>
   <spell>
-    <name>Leomund's Tiny Hut [2024]</name>
+    <name>Leomund's Tiny Hut</name>
     <level>3</level>
     <school>EV</school>
     <ritual>YES</ritual>
@@ -3706,7 +3706,7 @@ Source:	Player's Handbook (2024) p. 290</text>
 Source:	Player's Handbook (2024) p. 291</text>
   </spell>
   <spell>
-    <name>Lesser Restoration [2024]</name>
+    <name>Lesser Restoration</name>
     <level>2</level>
     <school>A</school>
     <time>Bonus Action</time>
@@ -3719,7 +3719,7 @@ Source:	Player's Handbook (2024) p. 291</text>
 Source:	Player's Handbook (2024) p. 291</text>
   </spell>
   <spell>
-    <name>Levitate [2024]</name>
+    <name>Levitate</name>
     <level>2</level>
     <school>T</school>
     <time>Action</time>
@@ -3734,7 +3734,7 @@ Source:	Player's Handbook (2024) p. 291</text>
 Source:	Player's Handbook (2024) p. 291</text>
   </spell>
   <spell>
-    <name>Light [2024]</name>
+    <name>Light</name>
     <level>0</level>
     <school>EV</school>
     <time>Action</time>
@@ -3748,7 +3748,7 @@ Source:	Player's Handbook (2024) p. 291</text>
 Source:	Player's Handbook (2024) p. 292</text>
   </spell>
   <spell>
-    <name>Lightning Arrow [2024]</name>
+    <name>Lightning Arrow</name>
     <level>3</level>
     <school>T</school>
     <time>Bonus Action, which you take immediately after hitting or missing a target with a ranged attack using a weapon</time>
@@ -3771,7 +3771,7 @@ Source:	Player's Handbook (2024) p. 292</text>
     <roll description="Lightning Damage" level="9">10d8</roll>
   </spell>
   <spell>
-    <name>Lightning Bolt [2024]</name>
+    <name>Lightning Bolt</name>
     <level>3</level>
     <school>EV</school>
     <time>Action</time>
@@ -3793,7 +3793,7 @@ Source:	Player's Handbook (2024) p. 292</text>
     <roll description="Lightning Damage" level="9">14d6</roll>
   </spell>
   <spell>
-    <name>Locate Animals or Plants [2024]</name>
+    <name>Locate Animals or Plants</name>
     <level>2</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -3807,7 +3807,7 @@ Source:	Player's Handbook (2024) p. 292</text>
 Source:	Player's Handbook (2024) p. 292</text>
   </spell>
   <spell>
-    <name>Locate Creature [2024]</name>
+    <name>Locate Creature</name>
     <level>4</level>
     <school>D</school>
     <time>Action</time>
@@ -3822,7 +3822,7 @@ Source:	Player's Handbook (2024) p. 292</text>
 Source:	Player's Handbook (2024) p. 292</text>
   </spell>
   <spell>
-    <name>Locate Object [2024]</name>
+    <name>Locate Object</name>
     <level>2</level>
     <school>D</school>
     <time>Action</time>
@@ -3837,7 +3837,7 @@ Source:	Player's Handbook (2024) p. 292</text>
 Source:	Player's Handbook (2024) p. 293</text>
   </spell>
   <spell>
-    <name>Longstrider [2024]</name>
+    <name>Longstrider</name>
     <level>1</level>
     <school>T</school>
     <time>Action</time>
@@ -3852,7 +3852,7 @@ Using a Higher-Level Spell Slot: You can target one additional creature for each
 Source:	Player's Handbook (2024) p. 293</text>
   </spell>
   <spell>
-    <name>Mage Armor [2024]</name>
+    <name>Mage Armor</name>
     <level>1</level>
     <school>A</school>
     <time>Action</time>
@@ -3865,7 +3865,7 @@ Source:	Player's Handbook (2024) p. 293</text>
 Source:	Player's Handbook (2024) p. 293</text>
   </spell>
   <spell>
-    <name>Mage Hand [2024]</name>
+    <name>Mage Hand</name>
     <level>0</level>
     <school>C</school>
     <time>Action</time>
@@ -3881,7 +3881,7 @@ Source:	Player's Handbook (2024) p. 293</text>
 Source:	Player's Handbook (2024) p. 293</text>
   </spell>
   <spell>
-    <name>Magic Circle [2024]</name>
+    <name>Magic Circle</name>
     <level>3</level>
     <school>A</school>
     <time>1 minute</time>
@@ -3905,7 +3905,7 @@ Using a Higher-Level Spell Slot: The duration increases by 1 hour for each spell
 Source:	Player's Handbook (2024) p. 293</text>
   </spell>
   <spell>
-    <name>Magic Jar [2024]</name>
+    <name>Magic Jar</name>
     <level>6</level>
     <school>N</school>
     <time>1 minute</time>
@@ -3923,7 +3923,7 @@ Source:	Player's Handbook (2024) p. 293</text>
 Source:	Player's Handbook (2024) p. 294</text>
   </spell>
   <spell>
-    <name>Magic Missile [2024]</name>
+    <name>Magic Missile</name>
     <level>1</level>
     <school>EV</school>
     <time>Action</time>
@@ -3939,7 +3939,7 @@ Source:	Player's Handbook (2024) p. 295</text>
     <roll description="Force Damage">1d4+1</roll>
   </spell>
   <spell>
-    <name>Magic Mouth [2024]</name>
+    <name>Magic Mouth</name>
     <level>2</level>
     <school>I</school>
     <ritual>YES</ritual>
@@ -3954,7 +3954,7 @@ Source:	Player's Handbook (2024) p. 295</text>
 Source:	Player's Handbook (2024) p. 295</text>
   </spell>
   <spell>
-    <name>Magic Weapon [2024]</name>
+    <name>Magic Weapon</name>
     <level>2</level>
     <school>T</school>
     <time>Bonus Action</time>
@@ -3969,7 +3969,7 @@ Using a Higher-Level Spell Slot: The bonus increases to +2 with a level 3-5 spel
 Source:	Player's Handbook (2024) p. 295</text>
   </spell>
   <spell>
-    <name>Major Image [2024]</name>
+    <name>Major Image</name>
     <level>3</level>
     <school>I</school>
     <time>Action</time>
@@ -3986,7 +3986,7 @@ Using a Higher-Level Spell Slot: The spell lasts until dispelled, without requir
 Source:	Player's Handbook (2024) p. 295</text>
   </spell>
   <spell>
-    <name>Mass Cure Wounds [2024]</name>
+    <name>Mass Cure Wounds</name>
     <level>5</level>
     <school>A</school>
     <time>Action</time>
@@ -4006,7 +4006,7 @@ Source:	Player's Handbook (2024) p. 296</text>
     <roll description="Heal" level="9">9d8+%0</roll>
   </spell>
   <spell>
-    <name>Mass Heal [2024]</name>
+    <name>Mass Heal</name>
     <level>9</level>
     <school>A</school>
     <time>Action</time>
@@ -4019,7 +4019,7 @@ Source:	Player's Handbook (2024) p. 296</text>
 Source:	Player's Handbook (2024) p. 296</text>
   </spell>
   <spell>
-    <name>Mass Healing Word [2024]</name>
+    <name>Mass Healing Word</name>
     <level>3</level>
     <school>A</school>
     <time>Bonus Action</time>
@@ -4041,7 +4041,7 @@ Source:	Player's Handbook (2024) p. 296</text>
     <roll description="Heal" level="9">8d4+SPELL</roll>
   </spell>
   <spell>
-    <name>Mass Suggestion [2024]</name>
+    <name>Mass Suggestion</name>
     <level>6</level>
     <school>EN</school>
     <time>Action</time>
@@ -4057,7 +4057,7 @@ Using a Higher-Level Spell Slot: The duration is longer with a spell slot of lev
 Source:	Player's Handbook (2024) p. 296</text>
   </spell>
   <spell>
-    <name>Maze [2024]</name>
+    <name>Maze</name>
     <level>8</level>
     <school>C</school>
     <time>Action</time>
@@ -4072,7 +4072,7 @@ Source:	Player's Handbook (2024) p. 296</text>
 Source:	Player's Handbook (2024) p. 296</text>
   </spell>
   <spell>
-    <name>Meld Into Stone [2024]</name>
+    <name>Meld Into Stone</name>
     <level>3</level>
     <school>T</school>
     <ritual>YES</ritual>
@@ -4089,7 +4089,7 @@ Source:	Player's Handbook (2024) p. 296</text>
     <roll description="Force Damage">6d6</roll>
   </spell>
   <spell>
-    <name>Melf's Acid Arrow [2024]</name>
+    <name>Melf's Acid Arrow</name>
     <level>2</level>
     <school>EV</school>
     <time>Action</time>
@@ -4112,7 +4112,7 @@ Source:	Player's Handbook (2024) p. 297</text>
     <roll description="Acid Damage" level="9">11d4</roll>
   </spell>
   <spell>
-    <name>Mending [2024]</name>
+    <name>Mending</name>
     <level>0</level>
     <school>T</school>
     <time>1 minute</time>
@@ -4126,7 +4126,7 @@ Source:	Player's Handbook (2024) p. 297</text>
 Source:	Player's Handbook (2024) p. 297</text>
   </spell>
   <spell>
-    <name>Message [2024]</name>
+    <name>Message</name>
     <level>0</level>
     <school>T</school>
     <time>Action</time>
@@ -4140,7 +4140,7 @@ Source:	Player's Handbook (2024) p. 297</text>
 Source:	Player's Handbook (2024) p. 298</text>
   </spell>
   <spell>
-    <name>Meteor Swarm [2024]</name>
+    <name>Meteor Swarm</name>
     <level>9</level>
     <school>EV</school>
     <time>Action</time>
@@ -4157,7 +4157,7 @@ Source:	Player's Handbook (2024) p. 298</text>
     <roll description="Fire and Bludgeoning Damage">20d6+20d6</roll>
   </spell>
   <spell>
-    <name>Mind Blank [2024]</name>
+    <name>Mind Blank</name>
     <level>8</level>
     <school>A</school>
     <time>Action</time>
@@ -4170,7 +4170,7 @@ Source:	Player's Handbook (2024) p. 298</text>
 Source:	Player's Handbook (2024) p. 298</text>
   </spell>
   <spell>
-    <name>Mind Sliver [2024]</name>
+    <name>Mind Sliver</name>
     <level>0</level>
     <school>EN</school>
     <time>Action</time>
@@ -4190,7 +4190,7 @@ Source:	Player's Handbook (2024) p. 298</text>
     <roll description="Subtract from Saving Throw">1d4</roll>
   </spell>
   <spell>
-    <name>Mind Spike [2024]</name>
+    <name>Mind Spike</name>
     <level>2</level>
     <school>D</school>
     <time>Action</time>
@@ -4213,7 +4213,7 @@ Source:	Player's Handbook (2024) p. 298</text>
     <roll description="Psychic Damage" level="9">10d8</roll>
   </spell>
   <spell>
-    <name>Minor Illusion [2024]</name>
+    <name>Minor Illusion</name>
     <level>0</level>
     <school>I</school>
     <time>Action</time>
@@ -4231,7 +4231,7 @@ Image: If you create an image of an object—such as a chair, muddy footprints, 
 Source:	Player's Handbook (2024) p. 298</text>
   </spell>
   <spell>
-    <name>Mirage Arcane [2024]</name>
+    <name>Mirage Arcane</name>
     <level>7</level>
     <school>I</school>
     <time>10 minute</time>
@@ -4247,7 +4247,7 @@ Source:	Player's Handbook (2024) p. 298</text>
 Source:	Player's Handbook (2024) p. 299</text>
   </spell>
   <spell>
-    <name>Mirror Image [2024]</name>
+    <name>Mirror Image</name>
     <level>2</level>
     <school>I</school>
     <time>Action</time>
@@ -4263,7 +4263,7 @@ Source:	Player's Handbook (2024) p. 299</text>
     <roll>1d6</roll>
   </spell>
   <spell>
-    <name>Mislead [2024]</name>
+    <name>Mislead</name>
     <level>5</level>
     <school>I</school>
     <time>Action</time>
@@ -4282,7 +4282,7 @@ Invisible:
 Source:	Player's Handbook (2024) p. 299</text>
   </spell>
   <spell>
-    <name>Misty Step [2024]</name>
+    <name>Misty Step</name>
     <level>2</level>
     <school>C</school>
     <time>Bonus Action</time>
@@ -4295,7 +4295,7 @@ Source:	Player's Handbook (2024) p. 299</text>
 Source:	Player's Handbook (2024) p. 299</text>
   </spell>
   <spell>
-    <name>Modify Memory [2024]</name>
+    <name>Modify Memory</name>
     <level>5</level>
     <school>EN</school>
     <time>Action</time>
@@ -4314,7 +4314,7 @@ Using a Higher-Level Spell Slot: You can alter the target's memories of an event
 Source:	Player's Handbook (2024) p. 299</text>
   </spell>
   <spell>
-    <name>Moonbeam [2024]</name>
+    <name>Moonbeam</name>
     <level>2</level>
     <school>EV</school>
     <time>Action</time>
@@ -4338,7 +4338,7 @@ Source:	Player's Handbook (2024) p. 300</text>
     <roll description="Radiant Damage" level="9">9d10</roll>
   </spell>
   <spell>
-    <name>Mordenkainen's Faithful Hound [2024]</name>
+    <name>Mordenkainen's Faithful Hound</name>
     <level>4</level>
     <school>C</school>
     <time>Action</time>
@@ -4355,7 +4355,7 @@ Source:	Player's Handbook (2024) p. 300</text>
     <roll description="Force Damage">4d8</roll>
   </spell>
   <spell>
-    <name>Mordenkainen's Magnificent Mansion [2024]</name>
+    <name>Mordenkainen's Magnificent Mansion</name>
     <level>7</level>
     <school>C</school>
     <time>1 minute</time>
@@ -4372,7 +4372,7 @@ Source:	Player's Handbook (2024) p. 300</text>
 Source:	Player's Handbook (2024) p. 300</text>
   </spell>
   <spell>
-    <name>Mordenkainen's Private Sanctum [2024]</name>
+    <name>Mordenkainen's Private Sanctum</name>
     <level>4</level>
     <school>A</school>
     <time>10 minute</time>
@@ -4402,7 +4402,7 @@ Using a Higher-Level Spell Slot: You can increase the size of the Cube by 100 fe
 Source:	Player's Handbook (2024) p. 301</text>
   </spell>
   <spell>
-    <name>Mordenkainen's Sword [2024]</name>
+    <name>Mordenkainen's Sword</name>
     <level>7</level>
     <school>EV</school>
     <time>Action</time>
@@ -4418,7 +4418,7 @@ Source:	Player's Handbook (2024) p. 302</text>
     <roll description="Force Damage">4d12+%0</roll>
   </spell>
   <spell>
-    <name>Move Earth [2024]</name>
+    <name>Move Earth</name>
     <level>6</level>
     <school>T</school>
     <time>Action</time>
@@ -4434,7 +4434,7 @@ Source:	Player's Handbook (2024) p. 302</text>
 Source:	Player's Handbook (2024) p. 302</text>
   </spell>
   <spell>
-    <name>Nondetection [2024]</name>
+    <name>Nondetection</name>
     <level>3</level>
     <school>A</school>
     <time>Action</time>
@@ -4447,7 +4447,7 @@ Source:	Player's Handbook (2024) p. 302</text>
 Source:	Player's Handbook (2024) p. 302</text>
   </spell>
   <spell>
-    <name>Nystul's Magic Aura [2024]</name>
+    <name>Nystul's Magic Aura</name>
     <level>2</level>
     <school>I</school>
     <time>Action</time>
@@ -4464,7 +4464,7 @@ False Aura (Object): You change the way the target appears to spells and magical
 Source:	Player's Handbook (2024) p. 302</text>
   </spell>
   <spell>
-    <name>Otiluke's Freezing Sphere [2024]</name>
+    <name>Otiluke's Freezing Sphere</name>
     <level>6</level>
     <school>EV</school>
     <time>Action</time>
@@ -4485,7 +4485,7 @@ Source:	Player's Handbook (2024) p. 302</text>
     <roll description="Cold Damage" level="9">13d6</roll>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere [2024]</name>
+    <name>Otiluke's Resilient Sphere</name>
     <level>4</level>
     <school>A</school>
     <time>Action</time>
@@ -4501,7 +4501,7 @@ Source:	Player's Handbook (2024) p. 302</text>
 Source:	Player's Handbook (2024) p. 303</text>
   </spell>
   <spell>
-    <name>Otto's Irresistible Dance [2024]</name>
+    <name>Otto's Irresistible Dance</name>
     <level>6</level>
     <school>EN</school>
     <time>Action</time>
@@ -4515,7 +4515,7 @@ Source:	Player's Handbook (2024) p. 303</text>
 Source:	Player's Handbook (2024) p. 303</text>
   </spell>
   <spell>
-    <name>Pass without Trace [2024]</name>
+    <name>Pass without Trace</name>
     <level>2</level>
     <school>A</school>
     <time>Action</time>
@@ -4528,7 +4528,7 @@ Source:	Player's Handbook (2024) p. 303</text>
 Source:	Player's Handbook (2024) p. 303</text>
   </spell>
   <spell>
-    <name>Passwall [2024]</name>
+    <name>Passwall</name>
     <level>5</level>
     <school>T</school>
     <time>Action</time>
@@ -4542,7 +4542,7 @@ Source:	Player's Handbook (2024) p. 303</text>
 Source:	Player's Handbook (2024) p. 303</text>
   </spell>
   <spell>
-    <name>Phantasmal Force [2024]</name>
+    <name>Phantasmal Force</name>
     <level>2</level>
     <school>I</school>
     <time>Action</time>
@@ -4559,7 +4559,7 @@ Source:	Player's Handbook (2024) p. 304</text>
     <roll description="Psychic Damage">2d8</roll>
   </spell>
   <spell>
-    <name>Phantasmal Killer [2024]</name>
+    <name>Phantasmal Killer</name>
     <level>4</level>
     <school>I</school>
     <time>Action</time>
@@ -4581,7 +4581,7 @@ Source:	Player's Handbook (2024) p. 304</text>
     <roll description="Psychic Damage" level="9">9d10</roll>
   </spell>
   <spell>
-    <name>Phantom Steed [2024]</name>
+    <name>Phantom Steed</name>
     <level>3</level>
     <school>I</school>
     <ritual>YES</ritual>
@@ -4596,7 +4596,7 @@ Source:	Player's Handbook (2024) p. 304</text>
 Source:	Player's Handbook (2024) p. 304</text>
   </spell>
   <spell>
-    <name>Planar Ally [2024]</name>
+    <name>Planar Ally</name>
     <level>6</level>
     <school>C</school>
     <time>10 minute</time>
@@ -4613,7 +4613,7 @@ Source:	Player's Handbook (2024) p. 304</text>
 Source:	Player's Handbook (2024) p. 304</text>
   </spell>
   <spell>
-    <name>Planar Binding [2024]</name>
+    <name>Planar Binding</name>
     <level>5</level>
     <school>A</school>
     <time>1 hour</time>
@@ -4629,7 +4629,7 @@ Using a Higher-Level Spell Slot: The duration increases with a spell slot of lev
 Source:	Player's Handbook (2024) p. 305</text>
   </spell>
   <spell>
-    <name>Plane Shift [2024]</name>
+    <name>Plane Shift</name>
     <level>7</level>
     <school>C</school>
     <time>Action</time>
@@ -4643,7 +4643,7 @@ Source:	Player's Handbook (2024) p. 305</text>
 Source:	Player's Handbook (2024) p. 305</text>
   </spell>
   <spell>
-    <name>Plant Growth [2024]</name>
+    <name>Plant Growth</name>
     <level>3</level>
     <school>T</school>
     <time>Action</time>
@@ -4660,7 +4660,7 @@ Enrichment: All plants in a half-mile radius centered on a point within range be
 Source:	Player's Handbook (2024) p. 305</text>
   </spell>
   <spell>
-    <name>Poison Spray [2024]</name>
+    <name>Poison Spray</name>
     <level>0</level>
     <school>N</school>
     <time>Action</time>
@@ -4679,7 +4679,7 @@ Source:	Player's Handbook (2024) p. 306</text>
     <roll description="Poison Damage" level="17">4d12</roll>
   </spell>
   <spell>
-    <name>Polymorph [2024]</name>
+    <name>Polymorph</name>
     <level>4</level>
     <school>T</school>
     <time>Action</time>
@@ -4695,7 +4695,7 @@ Source:	Player's Handbook (2024) p. 306</text>
 Source:	Player's Handbook (2024) p. 306</text>
   </spell>
   <spell>
-    <name>Power Word Fortify [2024]</name>
+    <name>Power Word Fortify</name>
     <level>7</level>
     <school>EN</school>
     <time>Action</time>
@@ -4708,7 +4708,7 @@ Source:	Player's Handbook (2024) p. 306</text>
 Source:	Player's Handbook (2024) p. 306</text>
   </spell>
   <spell>
-    <name>Power Word Heal [2024]</name>
+    <name>Power Word Heal</name>
     <level>9</level>
     <school>EN</school>
     <time>Action</time>
@@ -4721,7 +4721,7 @@ Source:	Player's Handbook (2024) p. 306</text>
 Source:	Player's Handbook (2024) p. 306</text>
   </spell>
   <spell>
-    <name>Power Word Kill [2024]</name>
+    <name>Power Word Kill</name>
     <level>9</level>
     <school>EN</school>
     <time>Action</time>
@@ -4735,7 +4735,7 @@ Source:	Player's Handbook (2024) p. 306</text>
     <roll description="Psychic Damage">12d12</roll>
   </spell>
   <spell>
-    <name>Power Word Stun [2024]</name>
+    <name>Power Word Stun</name>
     <level>8</level>
     <school>EN</school>
     <time>Action</time>
@@ -4749,7 +4749,7 @@ Source:	Player's Handbook (2024) p. 306</text>
 Source:	Player's Handbook (2024) p. 306</text>
   </spell>
   <spell>
-    <name>Prayer of Healing [2024]</name>
+    <name>Prayer of Healing</name>
     <level>2</level>
     <school>A</school>
     <time>10 minute</time>
@@ -4772,7 +4772,7 @@ Source:	Player's Handbook (2024) p. 307</text>
     <roll description="Heal" level="9">9d8</roll>
   </spell>
   <spell>
-    <name>Prestidigitation [2024]</name>
+    <name>Prestidigitation</name>
     <level>0</level>
     <school>T</school>
     <time>Action</time>
@@ -4797,7 +4797,7 @@ Minor Creation: You create a nonmagical trinket or an illusory image that can fi
 Source:	Player's Handbook (2024) p. 307</text>
   </spell>
   <spell>
-    <name>Prismatic Spray [2024]</name>
+    <name>Prismatic Spray</name>
     <level>7</level>
     <school>EV</school>
     <time>Action</time>
@@ -4827,7 +4827,7 @@ Source:	Player's Handbook (2024) p. 307</text>
     <roll description="Cold Damage">12d6</roll>
   </spell>
   <spell>
-    <name>Prismatic Wall [2024]</name>
+    <name>Prismatic Wall</name>
     <level>9</level>
     <school>A</school>
     <time>Action</time>
@@ -4858,7 +4858,7 @@ Source:	Player's Handbook (2024) p. 308</text>
     <roll description="Cold Damage">12d6</roll>
   </spell>
   <spell>
-    <name>Produce Flame [2024]</name>
+    <name>Produce Flame</name>
     <level>0</level>
     <school>C</school>
     <time>Bonus Action</time>
@@ -4878,7 +4878,7 @@ Source:	Player's Handbook (2024) p. 308</text>
     <roll description="Fire Damage" level="17">4d8</roll>
   </spell>
   <spell>
-    <name>Programmed Illusion [2024]</name>
+    <name>Programmed Illusion</name>
     <level>6</level>
     <school>I</school>
     <time>Action</time>
@@ -4893,7 +4893,7 @@ Source:	Player's Handbook (2024) p. 308</text>
 Source:	Player's Handbook (2024) p. 309</text>
   </spell>
   <spell>
-    <name>Project Image [2024]</name>
+    <name>Project Image</name>
     <level>7</level>
     <school>I</school>
     <time>Action</time>
@@ -4908,7 +4908,7 @@ Source:	Player's Handbook (2024) p. 309</text>
 Source:	Player's Handbook (2024) p. 309</text>
   </spell>
   <spell>
-    <name>Protection from Energy [2024]</name>
+    <name>Protection from Energy</name>
     <level>3</level>
     <school>A</school>
     <time>Action</time>
@@ -4921,7 +4921,7 @@ Source:	Player's Handbook (2024) p. 309</text>
 Source:	Player's Handbook (2024) p. 309</text>
   </spell>
   <spell>
-    <name>Protection from Evil and Good [2024]</name>
+    <name>Protection from Evil and Good</name>
     <level>1</level>
     <school>A</school>
     <time>Action</time>
@@ -4934,7 +4934,7 @@ Source:	Player's Handbook (2024) p. 309</text>
 Source:	Player's Handbook (2024) p. 309</text>
   </spell>
   <spell>
-    <name>Protection from Poison [2024]</name>
+    <name>Protection from Poison</name>
     <level>2</level>
     <school>A</school>
     <time>Action</time>
@@ -4947,7 +4947,7 @@ Source:	Player's Handbook (2024) p. 309</text>
 Source:	Player's Handbook (2024) p. 310</text>
   </spell>
   <spell>
-    <name>Purify Food and Drink [2024]</name>
+    <name>Purify Food and Drink</name>
     <level>1</level>
     <school>T</school>
     <ritual>YES</ritual>
@@ -4961,7 +4961,7 @@ Source:	Player's Handbook (2024) p. 310</text>
 Source:	Player's Handbook (2024) p. 310</text>
   </spell>
   <spell>
-    <name>Raise Dead [2024]</name>
+    <name>Raise Dead</name>
     <level>5</level>
     <school>N</school>
     <time>1 hour</time>
@@ -4977,7 +4977,7 @@ Source:	Player's Handbook (2024) p. 310</text>
 Source:	Player's Handbook (2024) p. 310</text>
   </spell>
   <spell>
-    <name>Rary's Telepathic Bond [2024]</name>
+    <name>Rary's Telepathic Bond</name>
     <level>5</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -4992,7 +4992,7 @@ Source:	Player's Handbook (2024) p. 310</text>
 Source:	Player's Handbook (2024) p. 311</text>
   </spell>
   <spell>
-    <name>Ray of Enfeeblement [2024]</name>
+    <name>Ray of Enfeeblement</name>
     <level>2</level>
     <school>N</school>
     <time>Action</time>
@@ -5007,7 +5007,7 @@ Source:	Player's Handbook (2024) p. 311</text>
     <roll description="Subtract from Roll">1d8</roll>
   </spell>
   <spell>
-    <name>Ray of Frost [2024]</name>
+    <name>Ray of Frost</name>
     <level>0</level>
     <school>EV</school>
     <time>Action</time>
@@ -5026,7 +5026,7 @@ Source:	Player's Handbook (2024) p. 311</text>
     <roll description="Cold Damage" level="17">4d8</roll>
   </spell>
   <spell>
-    <name>Ray of Sickness [2024]</name>
+    <name>Ray of Sickness</name>
     <level>1</level>
     <school>N</school>
     <time>Action</time>
@@ -5050,7 +5050,7 @@ Source:	Player's Handbook (2024) p. 311</text>
     <roll description="Poison Damage" level="9">10d8</roll>
   </spell>
   <spell>
-    <name>Regenerate [2024]</name>
+    <name>Regenerate</name>
     <level>7</level>
     <school>T</school>
     <time>1 minute</time>
@@ -5064,7 +5064,7 @@ Source:	Player's Handbook (2024) p. 311</text>
     <roll description="Heal">4d8+15</roll>
   </spell>
   <spell>
-    <name>Reincarnate [2024]</name>
+    <name>Reincarnate</name>
     <level>5</level>
     <school>N</school>
     <time>1 hour</time>
@@ -5091,7 +5091,7 @@ Source:	Player's Handbook (2024) p. 311</text>
     <roll description="Species">1d10</roll>
   </spell>
   <spell>
-    <name>Remove Curse [2024]</name>
+    <name>Remove Curse</name>
     <level>3</level>
     <school>A</school>
     <time>Action</time>
@@ -5104,7 +5104,7 @@ Source:	Player's Handbook (2024) p. 311</text>
 Source:	Player's Handbook (2024) p. 312</text>
   </spell>
   <spell>
-    <name>Resistance [2024]</name>
+    <name>Resistance</name>
     <level>0</level>
     <school>A</school>
     <time>Action</time>
@@ -5118,7 +5118,7 @@ Source:	Player's Handbook (2024) p. 312</text>
     <roll description="Damage Reduction">1d4</roll>
   </spell>
   <spell>
-    <name>Resurrection [2024]</name>
+    <name>Resurrection</name>
     <level>7</level>
     <school>N</school>
     <time>1 hour</time>
@@ -5134,7 +5134,7 @@ Source:	Player's Handbook (2024) p. 312</text>
 Source:	Player's Handbook (2024) p. 312</text>
   </spell>
   <spell>
-    <name>Reverse Gravity [2024]</name>
+    <name>Reverse Gravity</name>
     <level>7</level>
     <school>T</school>
     <time>Action</time>
@@ -5148,7 +5148,7 @@ Source:	Player's Handbook (2024) p. 312</text>
 Source:	Player's Handbook (2024) p. 312</text>
   </spell>
   <spell>
-    <name>Revivify [2024]</name>
+    <name>Revivify</name>
     <level>3</level>
     <school>N</school>
     <time>Action</time>
@@ -5161,7 +5161,7 @@ Source:	Player's Handbook (2024) p. 312</text>
 Source:	Player's Handbook (2024) p. 312</text>
   </spell>
   <spell>
-    <name>Rope Trick [2024]</name>
+    <name>Rope Trick</name>
     <level>2</level>
     <school>T</school>
     <time>Action</time>
@@ -5175,7 +5175,7 @@ Source:	Player's Handbook (2024) p. 312</text>
 Source:	Player's Handbook (2024) p. 312</text>
   </spell>
   <spell>
-    <name>Sacred Flame [2024]</name>
+    <name>Sacred Flame</name>
     <level>0</level>
     <school>EV</school>
     <time>Action</time>
@@ -5194,7 +5194,7 @@ Source:	Player's Handbook (2024) p. 313</text>
     <roll description="Radiant Damage" level="17">4d8</roll>
   </spell>
   <spell>
-    <name>Sanctuary [2024]</name>
+    <name>Sanctuary</name>
     <level>1</level>
     <school>A</school>
     <time>Bonus Action</time>
@@ -5208,7 +5208,7 @@ Source:	Player's Handbook (2024) p. 313</text>
 Source:	Player's Handbook (2024) p. 313</text>
   </spell>
   <spell>
-    <name>Scorching Ray [2024]</name>
+    <name>Scorching Ray</name>
     <level>2</level>
     <school>EV</school>
     <time>Action</time>
@@ -5224,7 +5224,7 @@ Source:	Player's Handbook (2024) p. 314</text>
     <roll description="Fire Damage">2d6</roll>
   </spell>
   <spell>
-    <name>Scrying [2024]</name>
+    <name>Scrying</name>
     <level>5</level>
     <school>D</school>
     <time>10 minute</time>
@@ -5247,7 +5247,7 @@ Body part, lock of hair, or bit of nail | -10
 Source:	Player's Handbook (2024) p. 314</text>
   </spell>
   <spell>
-    <name>Searing Smite [2024]</name>
+    <name>Searing Smite</name>
     <level>1</level>
     <school>EV</school>
     <time>Bonus Action, Bonus Action, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike</time>
@@ -5271,7 +5271,7 @@ Source:	Player's Handbook (2024) p. 314</text>
     <roll description="Fire Damage" level="9">9d6</roll>
   </spell>
   <spell>
-    <name>See Invisibility [2024]</name>
+    <name>See Invisibility</name>
     <level>2</level>
     <school>D</school>
     <time>Action</time>
@@ -5284,7 +5284,7 @@ Source:	Player's Handbook (2024) p. 314</text>
 Source:	Player's Handbook (2024) p. 314</text>
   </spell>
   <spell>
-    <name>Seeming [2024]</name>
+    <name>Seeming</name>
     <level>5</level>
     <school>I</school>
     <time>Action</time>
@@ -5300,7 +5300,7 @@ Source:	Player's Handbook (2024) p. 314</text>
 Source:	Player's Handbook (2024) p. 314</text>
   </spell>
   <spell>
-    <name>Sending [2024]</name>
+    <name>Sending</name>
     <level>3</level>
     <school>D</school>
     <time>Action</time>
@@ -5315,7 +5315,7 @@ Source:	Player's Handbook (2024) p. 314</text>
 Source:	Player's Handbook (2024) p. 314</text>
   </spell>
   <spell>
-    <name>Sequester [2024]</name>
+    <name>Sequester</name>
     <level>7</level>
     <school>T</school>
     <time>Action</time>
@@ -5333,7 +5333,7 @@ Invisible:
 Source:	Player's Handbook (2024) p. 315</text>
   </spell>
   <spell>
-    <name>Shapechange [2024]</name>
+    <name>Shapechange</name>
     <level>9</level>
     <school>T</school>
     <time>Action</time>
@@ -5349,7 +5349,7 @@ Source:	Player's Handbook (2024) p. 315</text>
 Source:	Player's Handbook (2024) p. 315</text>
   </spell>
   <spell>
-    <name>Shatter [2024]</name>
+    <name>Shatter</name>
     <level>2</level>
     <school>EV</school>
     <time>Action</time>
@@ -5373,7 +5373,7 @@ Source:	Player's Handbook (2024) p. 316</text>
     <roll description="Thunder Damage" level="9">10d8</roll>
   </spell>
   <spell>
-    <name>Shield [2024]</name>
+    <name>Shield</name>
     <level>1</level>
     <school>A</school>
     <time>1 reaction, which you take when you are hit by an attack roll or targeted by the Magic Missile spell</time>
@@ -5386,7 +5386,7 @@ Source:	Player's Handbook (2024) p. 316</text>
 Source:	Player's Handbook (2024) p. 316</text>
   </spell>
   <spell>
-    <name>Shield of Faith [2024]</name>
+    <name>Shield of Faith</name>
     <level>1</level>
     <school>A</school>
     <time>Bonus Action</time>
@@ -5399,7 +5399,7 @@ Source:	Player's Handbook (2024) p. 316</text>
 Source:	Player's Handbook (2024) p. 316</text>
   </spell>
   <spell>
-    <name>Shillelagh [2024]</name>
+    <name>Shillelagh</name>
     <level>0</level>
     <school>T</school>
     <time>Bonus Action</time>
@@ -5419,7 +5419,7 @@ Source:	Player's Handbook (2024) p. 316</text>
     <roll description="Bludgeoning Damage" level="17">2d6</roll>
   </spell>
   <spell>
-    <name>Shining Smite [2024]</name>
+    <name>Shining Smite</name>
     <level>2</level>
     <school>T</school>
     <time>Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike</time>
@@ -5442,7 +5442,7 @@ Source:	Player's Handbook (2024) p. 316</text>
     <roll description="Radiant Damage" level="9">9d6</roll>
   </spell>
   <spell>
-    <name>Shocking Grasp [2024]</name>
+    <name>Shocking Grasp</name>
     <level>0</level>
     <school>EV</school>
     <time>Action</time>
@@ -5461,7 +5461,7 @@ Source:	Player's Handbook (2024) p. 316</text>
     <roll description="Lightning Damage" level="17">4d8</roll>
   </spell>
   <spell>
-    <name>Silence [2024]</name>
+    <name>Silence</name>
     <level>2</level>
     <school>I</school>
     <ritual>YES</ritual>
@@ -5475,7 +5475,7 @@ Source:	Player's Handbook (2024) p. 316</text>
 Source:	Player's Handbook (2024) p. 316</text>
   </spell>
   <spell>
-    <name>Silent Image [2024]</name>
+    <name>Silent Image</name>
     <level>1</level>
     <school>I</school>
     <time>Action</time>
@@ -5490,7 +5490,7 @@ Source:	Player's Handbook (2024) p. 316</text>
 Source:	Player's Handbook (2024) p. 317</text>
   </spell>
   <spell>
-    <name>Simulacrum [2024]</name>
+    <name>Simulacrum</name>
     <level>7</level>
     <school>I</school>
     <time>12 hour</time>
@@ -5505,7 +5505,7 @@ Source:	Player's Handbook (2024) p. 317</text>
 Source:	Player's Handbook (2024) p. 317</text>
   </spell>
   <spell>
-    <name>Sleep [2024]</name>
+    <name>Sleep</name>
     <level>1</level>
     <school>EN</school>
     <time>Action</time>
@@ -5519,7 +5519,7 @@ Source:	Player's Handbook (2024) p. 317</text>
 Source:	Player's Handbook (2024) p. 317</text>
   </spell>
   <spell>
-    <name>Sleet Storm [2024]</name>
+    <name>Sleet Storm</name>
     <level>3</level>
     <school>C</school>
     <time>Action</time>
@@ -5533,7 +5533,7 @@ Source:	Player's Handbook (2024) p. 317</text>
 Source:	Player's Handbook (2024) p. 317</text>
   </spell>
   <spell>
-    <name>Slow [2024]</name>
+    <name>Slow</name>
     <level>3</level>
     <school>T</school>
     <time>Action</time>
@@ -5548,7 +5548,7 @@ Source:	Player's Handbook (2024) p. 317</text>
 Source:	Player's Handbook (2024) p. 318</text>
   </spell>
   <spell>
-    <name>Sorcerous Burst [2024]</name>
+    <name>Sorcerous Burst</name>
     <level>0</level>
     <school>EV</school>
     <time>Action</time>
@@ -5568,7 +5568,7 @@ Source:	Player's Handbook (2024) p. 318</text>
     <roll description="Elemental Damage" level="17">4d8</roll>
   </spell>
   <spell>
-    <name>Spare the Dying [2024]</name>
+    <name>Spare the Dying</name>
     <level>0</level>
     <school>N</school>
     <time>Action</time>
@@ -5583,7 +5583,7 @@ Cantrip Upgrade: The range doubles when you reach levels 5 (30 feet), 11 (60 fee
 Source:	Player's Handbook (2024) p. 318</text>
   </spell>
   <spell>
-    <name>Speak with Animals [2024]</name>
+    <name>Speak with Animals</name>
     <level>1</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -5598,7 +5598,7 @@ Source:	Player's Handbook (2024) p. 318</text>
 Source:	Player's Handbook (2024) p. 318</text>
   </spell>
   <spell>
-    <name>Speak with Dead [2024]</name>
+    <name>Speak with Dead</name>
     <level>3</level>
     <school>N</school>
     <time>Action</time>
@@ -5612,7 +5612,7 @@ Source:	Player's Handbook (2024) p. 318</text>
 Source:	Player's Handbook (2024) p. 318</text>
   </spell>
   <spell>
-    <name>Speak with Plants [2024]</name>
+    <name>Speak with Plants</name>
     <level>3</level>
     <school>T</school>
     <time>Action</time>
@@ -5628,7 +5628,7 @@ Source:	Player's Handbook (2024) p. 318</text>
 Source:	Player's Handbook (2024) p. 318</text>
   </spell>
   <spell>
-    <name>Spider Climb [2024]</name>
+    <name>Spider Climb</name>
     <level>2</level>
     <school>T</school>
     <time>Action</time>
@@ -5643,7 +5643,7 @@ Using a Higher-Level Spell Slot: You can target one additional creature for each
 Source:	Player's Handbook (2024) p. 318</text>
   </spell>
   <spell>
-    <name>Spike Growth [2024]</name>
+    <name>Spike Growth</name>
     <level>2</level>
     <school>T</school>
     <time>Action</time>
@@ -5658,7 +5658,7 @@ Source:	Player's Handbook (2024) p. 318</text>
     <roll description="Piercing Damage">2d4</roll>
   </spell>
   <spell>
-    <name>Spirit Guardians [2024]</name>
+    <name>Spirit Guardians</name>
     <level>3</level>
     <school>C</school>
     <time>Action</time>
@@ -5681,7 +5681,7 @@ Source:	Player's Handbook (2024) p. 319</text>
     <roll description="Radiant Damage" level="9">9d8</roll>
   </spell>
   <spell>
-    <name>Spiritual Weapon [2024]</name>
+    <name>Spiritual Weapon</name>
     <level>2</level>
     <school>EV</school>
     <time>Bonus Action</time>
@@ -5705,7 +5705,7 @@ Source:	Player's Handbook (2024) p. 319</text>
     <roll description="Force Damage" level="9">8d8</roll>
   </spell>
   <spell>
-    <name>Staggering Smite [2024]</name>
+    <name>Staggering Smite</name>
     <level>4</level>
     <school>EN</school>
     <time>Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike</time>
@@ -5726,7 +5726,7 @@ Source:	Player's Handbook (2024) p. 320</text>
     <roll description="Psychic Damage" level="9">9d6</roll>
   </spell>
   <spell>
-    <name>Starry Wisp [2024]</name>
+    <name>Starry Wisp</name>
     <level>0</level>
     <school>EV</school>
     <time>Action</time>
@@ -5745,7 +5745,7 @@ Source:	Player's Handbook (2024) p. 320</text>
     <roll description="Radiant Damage" level="17">4d8</roll>
   </spell>
   <spell>
-    <name>Steel Wind Strike [2024]</name>
+    <name>Steel Wind Strike</name>
     <level>5</level>
     <school>C</school>
     <time>Action</time>
@@ -5760,7 +5760,7 @@ Source:	Player's Handbook (2024) p. 319</text>
     <roll description="Force Damage">6d10</roll>
   </spell>
   <spell>
-    <name>Stinking Cloud [2024]</name>
+    <name>Stinking Cloud</name>
     <level>3</level>
     <school>C</school>
     <time>Action</time>
@@ -5774,7 +5774,7 @@ Source:	Player's Handbook (2024) p. 319</text>
 Source:	Player's Handbook (2024) p. 320</text>
   </spell>
   <spell>
-    <name>Stone Shape [2024]</name>
+    <name>Stone Shape</name>
     <level>4</level>
     <school>T</school>
     <time>Action</time>
@@ -5787,7 +5787,7 @@ Source:	Player's Handbook (2024) p. 320</text>
 Source:	Player's Handbook (2024) p. 320</text>
   </spell>
   <spell>
-    <name>Stoneskin [2024]</name>
+    <name>Stoneskin</name>
     <level>4</level>
     <school>T</school>
     <time>Action</time>
@@ -5800,7 +5800,7 @@ Source:	Player's Handbook (2024) p. 320</text>
 Source:	Player's Handbook (2024) p. 320</text>
   </spell>
   <spell>
-    <name>Storm of Vengeance [2024]</name>
+    <name>Storm of Vengeance</name>
     <level>9</level>
     <school>C</school>
     <time>Action</time>
@@ -5827,7 +5827,7 @@ Source:	Player's Handbook (2024) p. 320</text>
     <roll description="Cold Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Suggestion [2024]</name>
+    <name>Suggestion</name>
     <level>2</level>
     <school>EN</school>
     <time>Action</time>
@@ -5841,7 +5841,7 @@ Source:	Player's Handbook (2024) p. 320</text>
 Source:	Player's Handbook (2024) p. 320</text>
   </spell>
   <spell>
-    <name>Summon Aberration [2024]</name>
+    <name>Summon Aberration</name>
     <level>4</level>
     <school>C</school>
     <time>Action</time>
@@ -5857,7 +5857,7 @@ Using a Higher-Level Spell Slot: Use the spell slot's level for the spell's leve
 Source:	Player's Handbook (2024) p. 322</text>
   </spell>
   <spell>
-    <name>Summon Beast [2024]</name>
+    <name>Summon Beast</name>
     <level>2</level>
     <school>C</school>
     <time>Action</time>
@@ -5873,7 +5873,7 @@ Using a Higher-Level Spell Slot: Use the spell slot's level for the spell's leve
 Source:	Player's Handbook (2024) p. 322</text>
   </spell>
   <spell>
-    <name>Summon Celestial [2024]</name>
+    <name>Summon Celestial</name>
     <level>5</level>
     <school>C</school>
     <time>Action</time>
@@ -5889,7 +5889,7 @@ Using a Higher-Level Spell Slot: Use the spell slot's level for the spell's leve
 Source:	Player's Handbook (2024) p. 323</text>
   </spell>
   <spell>
-    <name>Summon Construct [2024]</name>
+    <name>Summon Construct</name>
     <level>4</level>
     <school>C</school>
     <time>Action</time>
@@ -5905,7 +5905,7 @@ Using a Higher-Level Spell Slot: Use the spell slot's level for the spell's leve
 Source:	Player's Handbook (2024) p. 324</text>
   </spell>
   <spell>
-    <name>Summon Dragon [2024]</name>
+    <name>Summon Dragon</name>
     <level>5</level>
     <school>C</school>
     <time>Action</time>
@@ -5921,7 +5921,7 @@ Using a Higher-Level Spell Slot: Use the spell slot's level for the spell's leve
 Source:	Player's Handbook (2024) p. 324</text>
   </spell>
   <spell>
-    <name>Summon Elemental [2024]</name>
+    <name>Summon Elemental</name>
     <level>4</level>
     <school>C</school>
     <time>Action</time>
@@ -5937,7 +5937,7 @@ Using a Higher-Level Spell Slot: Use the spell slot's level for the spell's leve
 Source:	Player's Handbook (2024) p. 325</text>
   </spell>
   <spell>
-    <name>Summon Fey [2024]</name>
+    <name>Summon Fey</name>
     <level>3</level>
     <school>C</school>
     <time>Action</time>
@@ -5953,7 +5953,7 @@ Using a Higher-Level Spell Slot: Use the spell slot's level for the spell's leve
 Source:	Player's Handbook (2024) p. 326</text>
   </spell>
   <spell>
-    <name>Summon Fiend [2024]</name>
+    <name>Summon Fiend</name>
     <level>6</level>
     <school>C</school>
     <time>Action</time>
@@ -5969,7 +5969,7 @@ Using a Higher-Level Spell Slot: Use the spell slot's level for the spell's leve
 Source:	Player's Handbook (2024) p. 326</text>
   </spell>
   <spell>
-    <name>Summon Undead [2024]</name>
+    <name>Summon Undead</name>
     <level>3</level>
     <school>N</school>
     <time>Action</time>
@@ -5985,7 +5985,7 @@ Using a Higher-Level Spell Slot: Use the spell slot's level for the spell's leve
 Source:	Player's Handbook (2024) p. 328</text>
   </spell>
   <spell>
-    <name>Sunbeam [2024]</name>
+    <name>Sunbeam</name>
     <level>6</level>
     <school>EV</school>
     <time>Action</time>
@@ -6001,7 +6001,7 @@ Source:	Player's Handbook (2024) p. 329</text>
     <roll description="Radiant Damage">6d8</roll>
   </spell>
   <spell>
-    <name>Sunburst [2024]</name>
+    <name>Sunburst</name>
     <level>8</level>
     <school>EV</school>
     <time>Action</time>
@@ -6017,7 +6017,7 @@ Source:	Player's Handbook (2024) p. 329</text>
     <roll description="Radiant Damage">12d6</roll>
   </spell>
   <spell>
-    <name>Swift Quiver [2024]</name>
+    <name>Swift Quiver</name>
     <level>5</level>
     <school>T</school>
     <time>Bonus Action</time>
@@ -6030,7 +6030,7 @@ Source:	Player's Handbook (2024) p. 329</text>
 Source:	Player's Handbook (2024) p. 329</text>
   </spell>
   <spell>
-    <name>Symbol [2024]</name>
+    <name>Symbol</name>
     <level>7</level>
     <school>A</school>
     <time>1 minute</time>
@@ -6061,7 +6061,7 @@ Source:	Player's Handbook (2024) p. 329</text>
     <roll description="Necrotic Damage">10d10</roll>
   </spell>
   <spell>
-    <name>Synaptic Static [2024]</name>
+    <name>Synaptic Static</name>
     <level>5</level>
     <school>EN</school>
     <time>Action</time>
@@ -6077,7 +6077,7 @@ Source:	Player's Handbook (2024) p. 330</text>
     <roll description="Subtract from Roll">1d6</roll>
   </spell>
   <spell>
-    <name>Tasha's Bubbling Cauldron [2024]</name>
+    <name>Tasha's Bubbling Cauldron</name>
     <level>6</level>
     <school>C</school>
     <time>Action</time>
@@ -6092,7 +6092,7 @@ Source:	Player's Handbook (2024) p. 330</text>
 Source:	Player's Handbook (2024) p. 330</text>
   </spell>
   <spell>
-    <name>Tasha's Hideous Laughter [2024]</name>
+    <name>Tasha's Hideous Laughter</name>
     <level>1</level>
     <school>EN</school>
     <time>Action</time>
@@ -6108,7 +6108,7 @@ Using a Higher-Level Spell Slot: You can target one additional creature for each
 Source:	Player's Handbook (2024) p. 331</text>
   </spell>
   <spell>
-    <name>Telekinesis [2024]</name>
+    <name>Telekinesis</name>
     <level>5</level>
     <school>T</school>
     <time>Action</time>
@@ -6127,7 +6127,7 @@ Object: You can try to move a Huge or smaller object. If the object isn't being 
 Source:	Player's Handbook (2024) p. 331</text>
   </spell>
   <spell>
-    <name>Telepathy [2024]</name>
+    <name>Telepathy</name>
     <level>8</level>
     <school>D</school>
     <time>Action</time>
@@ -6141,7 +6141,7 @@ Source:	Player's Handbook (2024) p. 331</text>
 Source:	Player's Handbook (2024) p. 331</text>
   </spell>
   <spell>
-    <name>Teleport [2024]</name>
+    <name>Teleport</name>
     <level>7</level>
     <school>C</school>
     <time>Action</time>
@@ -6190,7 +6190,7 @@ Source:	Player's Handbook (2024) p. 331</text>
     <roll description="Direction">1d8</roll>
   </spell>
   <spell>
-    <name>Teleportation Circle [2024]</name>
+    <name>Teleportation Circle</name>
     <level>5</level>
     <school>C</school>
     <time>1 minute</time>
@@ -6206,7 +6206,7 @@ Source:	Player's Handbook (2024) p. 331</text>
 Source:	Player's Handbook (2024) p. 332</text>
   </spell>
   <spell>
-    <name>Tenser's Floating Disk [2024]</name>
+    <name>Tenser's Floating Disk</name>
     <level>1</level>
     <school>C</school>
     <ritual>YES</ritual>
@@ -6222,7 +6222,7 @@ Source:	Player's Handbook (2024) p. 332</text>
 Source:	Player's Handbook (2024) p. 332</text>
   </spell>
   <spell>
-    <name>Thaumaturgy [2024]</name>
+    <name>Thaumaturgy</name>
     <level>0</level>
     <school>T</school>
     <time>Action</time>
@@ -6247,7 +6247,7 @@ Tremors: You cause harmless tremors in the ground for 1 minute.
 Source:	Player's Handbook (2024) p. 333</text>
   </spell>
   <spell>
-    <name>Thorn Whip [2024]</name>
+    <name>Thorn Whip</name>
     <level>0</level>
     <school>T</school>
     <time>Action</time>
@@ -6266,7 +6266,7 @@ Source:	Player's Handbook (2024) p. 333</text>
     <roll description="Piercing Damage" level="17">4d6</roll>
   </spell>
   <spell>
-    <name>Thunderclap [2024]</name>
+    <name>Thunderclap</name>
     <level>0</level>
     <school>EV</school>
     <time>Action</time>
@@ -6285,7 +6285,7 @@ Source:	Player's Handbook (2024) p. 333</text>
     <roll description="Thunder Damage" level="17">4d6</roll>
   </spell>
   <spell>
-    <name>Thunderous Smite [2024]</name>
+    <name>Thunderous Smite</name>
     <level>1</level>
     <school>EV</school>
     <time>Bonus Action, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike</time>
@@ -6309,7 +6309,7 @@ Source:	Player's Handbook (2024) p. 334</text>
     <roll description="Thunder Damage" level="9">10d6</roll>
   </spell>
   <spell>
-    <name>Thunderwave [2024]</name>
+    <name>Thunderwave</name>
     <level>1</level>
     <school>EV</school>
     <time>Action</time>
@@ -6334,7 +6334,7 @@ Source:	Player's Handbook (2024) p. 334</text>
     <roll description="Thunder Damage" level="9">10d8</roll>
   </spell>
   <spell>
-    <name>Time Stop [2024]</name>
+    <name>Time Stop</name>
     <level>9</level>
     <school>T</school>
     <time>Action</time>
@@ -6349,7 +6349,7 @@ Source:	Player's Handbook (2024) p. 334</text>
     <roll description="Turns">1d4+1</roll>
   </spell>
   <spell>
-    <name>Toll the Dead [2024]</name>
+    <name>Toll the Dead</name>
     <level>0</level>
     <school>N</school>
     <time>Action</time>
@@ -6372,7 +6372,7 @@ Source:	Player's Handbook (2024) p. 334</text>
     <roll description="Necrotic Damage" level="17">4d12</roll>
   </spell>
   <spell>
-    <name>Tongues [2024]</name>
+    <name>Tongues</name>
     <level>3</level>
     <school>D</school>
     <time>Action</time>
@@ -6385,7 +6385,7 @@ Source:	Player's Handbook (2024) p. 334</text>
 Source:	Player's Handbook (2024) p. 334</text>
   </spell>
   <spell>
-    <name>Transport via Plants [2024]</name>
+    <name>Transport via Plants</name>
     <level>6</level>
     <school>C</school>
     <time>Action</time>
@@ -6398,7 +6398,7 @@ Source:	Player's Handbook (2024) p. 334</text>
 Source:	Player's Handbook (2024) p. 334</text>
   </spell>
   <spell>
-    <name>Tree Stride [2024]</name>
+    <name>Tree Stride</name>
     <level>5</level>
     <school>C</school>
     <time>Action</time>
@@ -6412,7 +6412,7 @@ Source:	Player's Handbook (2024) p. 334</text>
 Source:	Player's Handbook (2024) p. 335</text>
   </spell>
   <spell>
-    <name>True Polymorph [2024]</name>
+    <name>True Polymorph</name>
     <level>9</level>
     <school>T</school>
     <time>Action</time>
@@ -6436,7 +6436,7 @@ Creature into Object: If you turn a creature into an object, it transforms along
 Source:	Player's Handbook (2024) p. 335</text>
   </spell>
   <spell>
-    <name>True Resurrection [2024]</name>
+    <name>True Resurrection</name>
     <level>9</level>
     <school>N</school>
     <time>1 hour</time>
@@ -6451,7 +6451,7 @@ Source:	Player's Handbook (2024) p. 335</text>
 Source:	Player's Handbook (2024) p. 336</text>
   </spell>
   <spell>
-    <name>True Seeing [2024]</name>
+    <name>True Seeing</name>
     <level>6</level>
     <school>D</school>
     <time>Action</time>
@@ -6464,7 +6464,7 @@ Source:	Player's Handbook (2024) p. 336</text>
 Source:	Player's Handbook (2024) p. 336</text>
   </spell>
   <spell>
-    <name>True Strike [2024]</name>
+    <name>True Strike</name>
     <level>0</level>
     <school>D</school>
     <time>Action</time>
@@ -6479,7 +6479,7 @@ Cantrip Upgrade: Whether you deal Radiant damage or the weapon's normal damage t
 Source:	Player's Handbook (2024) p. 336</text>
   </spell>
   <spell>
-    <name>Tsunami [2024]</name>
+    <name>Tsunami</name>
     <level>8</level>
     <school>C</school>
     <time>1 minute</time>
@@ -6498,7 +6498,7 @@ Source:	Player's Handbook (2024) p. 336</text>
     <roll description="Damage Reduction">1d10</roll>
   </spell>
   <spell>
-    <name>Unseen Servant [2024]</name>
+    <name>Unseen Servant</name>
     <level>1</level>
     <school>C</school>
     <ritual>YES</ritual>
@@ -6514,7 +6514,7 @@ Source:	Player's Handbook (2024) p. 336</text>
 Source:	Player's Handbook (2024) p. 336</text>
   </spell>
   <spell>
-    <name>Vampiric Touch [2024]</name>
+    <name>Vampiric Touch</name>
     <level>3</level>
     <school>N</school>
     <time>Action</time>
@@ -6537,7 +6537,7 @@ Source:	Player's Handbook (2024) p. 337</text>
     <roll description="Necrotic Damage" level="9">9d6</roll>
   </spell>
   <spell>
-    <name>Vicious Mockery [2024]</name>
+    <name>Vicious Mockery</name>
     <level>0</level>
     <school>EN</school>
     <time>Action</time>
@@ -6556,7 +6556,7 @@ Source:	Player's Handbook (2024) p. 337</text>
     <roll description="Psychic Damage" level="17">4d6</roll>
   </spell>
   <spell>
-    <name>Vitriolic Sphere [2024]</name>
+    <name>Vitriolic Sphere</name>
     <level>4</level>
     <school>EV</school>
     <time>Action</time>
@@ -6578,7 +6578,7 @@ Source:	Player's Handbook (2024) p. 337</text>
     <roll description="Acid Damage" level="9">20d4</roll>
   </spell>
   <spell>
-    <name>Wall of Fire [2024]</name>
+    <name>Wall of Fire</name>
     <level>4</level>
     <school>EV</school>
     <time>Action</time>
@@ -6601,7 +6601,7 @@ Source:	Player's Handbook (2024) p. 338</text>
     <roll description="Fire Damage" level="9">10d8</roll>
   </spell>
   <spell>
-    <name>Wall of Force [2024]</name>
+    <name>Wall of Force</name>
     <level>5</level>
     <school>EV</school>
     <time>Action</time>
@@ -6615,7 +6615,7 @@ Source:	Player's Handbook (2024) p. 338</text>
 Source:	Player's Handbook (2024) p. 338</text>
   </spell>
   <spell>
-    <name>Wall of Ice [2024]</name>
+    <name>Wall of Ice</name>
     <level>6</level>
     <school>EV</school>
     <time>Action</time>
@@ -6641,7 +6641,7 @@ Source:	Player's Handbook (2024) p. 339</text>
     <roll description="Cold Damage" level="9">8d6</roll>
   </spell>
   <spell>
-    <name>Wall of Stone [2024]</name>
+    <name>Wall of Stone</name>
     <level>5</level>
     <school>EV</school>
     <time>Action</time>
@@ -6659,7 +6659,7 @@ Source:	Player's Handbook (2024) p. 339</text>
 Source:	Player's Handbook (2024) p. 339</text>
   </spell>
   <spell>
-    <name>Wall of Thorns [2024]</name>
+    <name>Wall of Thorns</name>
     <level>6</level>
     <school>C</school>
     <time>Action</time>
@@ -6680,7 +6680,7 @@ Source:	Player's Handbook (2024) p. 339</text>
     <roll description="Piercing or Slashing Damage" level="9">10d8</roll>
   </spell>
   <spell>
-    <name>Warding Bond [2024]</name>
+    <name>Warding Bond</name>
     <level>2</level>
     <school>A</school>
     <time>Action</time>
@@ -6694,7 +6694,7 @@ Source:	Player's Handbook (2024) p. 339</text>
 Source:	Player's Handbook (2024) p. 340</text>
   </spell>
   <spell>
-    <name>Water Breathing [2024]</name>
+    <name>Water Breathing</name>
     <level>3</level>
     <school>T</school>
     <ritual>YES</ritual>
@@ -6708,7 +6708,7 @@ Source:	Player's Handbook (2024) p. 340</text>
 Source:	Player's Handbook (2024) p. 340</text>
   </spell>
   <spell>
-    <name>Water Walk [2024]</name>
+    <name>Water Walk</name>
     <level>3</level>
     <school>T</school>
     <ritual>YES</ritual>
@@ -6723,7 +6723,7 @@ Source:	Player's Handbook (2024) p. 340</text>
 Source:	Player's Handbook (2024) p. 340</text>
   </spell>
   <spell>
-    <name>Web [2024]</name>
+    <name>Web</name>
     <level>2</level>
     <school>C</school>
     <time>Action</time>
@@ -6741,7 +6741,7 @@ Source:	Player's Handbook (2024) p. 340</text>
     <roll description="Fire Damage">2d4</roll>
   </spell>
   <spell>
-    <name>Weird [2024]</name>
+    <name>Weird</name>
     <level>9</level>
     <school>I</school>
     <time>Action</time>
@@ -6757,7 +6757,7 @@ Source:	Player's Handbook (2024) p. 341</text>
     <roll description="Psychic Damage">5d10</roll>
   </spell>
   <spell>
-    <name>Wind Walk [2024]</name>
+    <name>Wind Walk</name>
     <level>6</level>
     <school>T</school>
     <time>1 minute</time>
@@ -6771,7 +6771,7 @@ Source:	Player's Handbook (2024) p. 341</text>
 Source:	Player's Handbook (2024) p. 341</text>
   </spell>
   <spell>
-    <name>Wind Wall [2024]</name>
+    <name>Wind Wall</name>
     <level>3</level>
     <school>EV</school>
     <time>Action</time>
@@ -6787,7 +6787,7 @@ Source:	Player's Handbook (2024) p. 341</text>
     <roll description="Bludgeoning Damage">4d8</roll>
   </spell>
   <spell>
-    <name>Wish [2024]</name>
+    <name>Wish</name>
     <level>9</level>
     <school>C</school>
     <time>Action</time>
@@ -6819,7 +6819,7 @@ Source:	Player's Handbook (2024) p. 341</text>
     <roll description="Days">2d4</roll>
   </spell>
   <spell>
-    <name>Witch Bolt [2024]</name>
+    <name>Witch Bolt</name>
     <level>1</level>
     <school>EV</school>
     <time>Action</time>
@@ -6845,7 +6845,7 @@ Source:	Player's Handbook (2024) p. 343</text>
     <roll description="Lightning Damage" level="9">10d12</roll>
   </spell>
   <spell>
-    <name>Word of Radiance [2024]</name>
+    <name>Word of Radiance</name>
     <level>0</level>
     <school>EV</school>
     <time>Action</time>
@@ -6864,7 +6864,7 @@ Source:	Player's Handbook (2024) p. 343</text>
     <roll description="Radiant Damage" level="17">4d6</roll>
   </spell>
   <spell>
-    <name>Word of Recall [2024]</name>
+    <name>Word of Recall</name>
     <level>6</level>
     <school>C</school>
     <time>Action</time>
@@ -6878,7 +6878,7 @@ Source:	Player's Handbook (2024) p. 343</text>
 Source:	Player's Handbook (2024) p. 343</text>
   </spell>
   <spell>
-    <name>Wrathful Smite [2024]</name>
+    <name>Wrathful Smite</name>
     <level>1</level>
     <school>N</school>
     <time>Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike</time>
@@ -6902,7 +6902,7 @@ Source:	Player's Handbook (2024) p. 343</text>
     <roll description="Necrotic Damage" level="9">9d6</roll>
   </spell>
   <spell>
-    <name>Yolande's Regal Presence [2024]</name>
+    <name>Yolande's Regal Presence</name>
     <level>5</level>
     <school>EN</school>
     <time>Action</time>
@@ -6916,7 +6916,7 @@ Source:	Player's Handbook (2024) p. 343</text>
     <roll description="Psychic Damage">4d6</roll>
   </spell>
   <spell>
-    <name>Zone of Truth [2024]</name>
+    <name>Zone of Truth</name>
     <level>2</level>
     <school>EN</school>
     <time>Action</time>

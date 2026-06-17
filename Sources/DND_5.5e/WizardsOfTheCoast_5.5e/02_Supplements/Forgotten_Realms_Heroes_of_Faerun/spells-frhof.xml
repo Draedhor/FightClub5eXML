@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Alustriel's Mooncloak [2024]</name>
+    <name>Alustriel's Mooncloak</name>
     <level>5</level>
     <school>A</school>
     <time>1 action</time>
@@ -20,7 +20,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 142</text>
     <roll description="Hit Points Regained">4d10</roll>
   </spell>
   <spell>
-    <name>Backlash [2024]</name>
+    <name>Backlash</name>
     <level>4</level>
     <school>A</school>
     <time>1 reaction, which you take in response to taking damage</time>
@@ -48,7 +48,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 142</text>
     <roll description="Force Damage" level="9">9d6</roll>
   </spell>
   <spell>
-    <name>Blade of Disaster [2024]</name>
+    <name>Blade of Disaster</name>
     <level>9</level>
     <school>C</school>
     <time>1 bonus action</time>
@@ -64,7 +64,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 143</text>
     <roll description="Force Damage">10d6</roll>
   </spell>
   <spell>
-    <name>Cacophonic Shield [2024]</name>
+    <name>Cacophonic Shield</name>
     <level>3</level>
     <school>EV</school>
     <time>1 action</time>
@@ -87,7 +87,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 143</text>
     <roll description="Thunder Damage" level="9">9d6</roll>
   </spell>
   <spell>
-    <name>Conjure Constructs [2024]</name>
+    <name>Conjure Constructs</name>
     <level>3</level>
     <school>C</school>
     <time>1 action</time>
@@ -122,7 +122,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 143</text>
     <roll description="Temporary Hit Points" level="9">7d6</roll>
   </spell>
   <spell>
-    <name>Death Armor [2024]</name>
+    <name>Death Armor</name>
     <level>2</level>
     <school>N</school>
     <time>1 action</time>
@@ -136,7 +136,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 143</text>
     <roll description="Necrotic Damage">2d4</roll>
   </spell>
   <spell>
-    <name>Deryan's Helpful Homunculi [2024]</name>
+    <name>Deryan's Helpful Homunculi</name>
     <level>2</level>
     <school>C</school>
     <time>1 action or ritual</time>
@@ -150,7 +150,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 143</text>
 Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 143</text>
   </spell>
   <spell>
-    <name>Dirge [2024]</name>
+    <name>Dirge</name>
     <level>6</level>
     <school>EN</school>
     <time>1 action</time>
@@ -169,7 +169,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 144</text>
     <roll description="Necrotic Damage">3d10</roll>
   </spell>
   <spell>
-    <name>Doomtide [2024]</name>
+    <name>Doomtide</name>
     <level>4</level>
     <school>C</school>
     <time>1 action</time>
@@ -189,7 +189,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 144</text>
     <roll description="Saving Throw Penalty">1d6</roll>
   </spell>
   <spell>
-    <name>Elminster's Effulgent Spheres [2024]</name>
+    <name>Elminster's Effulgent Spheres</name>
     <level>6</level>
     <school>EV</school>
     <time>1 action</time>
@@ -212,7 +212,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 144</text>
     <roll description="Energy Damage">3d6</roll>
   </spell>
   <spell>
-    <name>Elminster's Elusion [2024]</name>
+    <name>Elminster's Elusion</name>
     <level>2</level>
     <school>A</school>
     <time>1 bonus action</time>
@@ -226,7 +226,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 144</text>
     <roll description="Cutting Words Penalty">1d8</roll>
   </spell>
   <spell>
-    <name>Holy Star of Mystra [2024]</name>
+    <name>Holy Star of Mystra</name>
     <level>8</level>
     <school>EV</school>
     <time>1 bonus action</time>
@@ -242,7 +242,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 145</text>
     <roll description="Force or Radiant Damage">4d10</roll>
   </spell>
   <spell>
-    <name>Laeral's Silver Lance [2024]</name>
+    <name>Laeral's Silver Lance</name>
     <level>3</level>
     <school>EV</school>
     <time>1 action</time>
@@ -264,7 +264,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 145</text>
     <roll description="Force Damage" level="9">9d10</roll>
   </spell>
   <spell>
-    <name>Simbul's Synostodweomer [2024]</name>
+    <name>Simbul's Synostodweomer</name>
     <level>7</level>
     <school>T</school>
     <time>1 action</time>
@@ -278,7 +278,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 145</text>
     <roll description="Hit Point Dice">1d6</roll>
   </spell>
   <spell>
-    <name>Songal's Elemental Suffusion [2024]</name>
+    <name>Songal's Elemental Suffusion</name>
     <level>5</level>
     <school>T</school>
     <time>1 action</time>
@@ -301,7 +301,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 145</text>
     <roll description="Elemental Damage">2d6</roll>
   </spell>
   <spell>
-    <name>Spellfire Flare [2024]</name>
+    <name>Spellfire Flare</name>
     <level>1</level>
     <school>EV</school>
     <time>1 action</time>
@@ -325,7 +325,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 146</text>
     <roll description="Radiant Damage" level="9">18d10</roll>
   </spell>
   <spell>
-    <name>Spellfire Storm [2024]</name>
+    <name>Spellfire Storm</name>
     <level>4</level>
     <school>EV</school>
     <time>1 action</time>
@@ -358,7 +358,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 146</text>
     <roll description="Radiant Damage" level="9">9d10</roll>
   </spell>
   <spell>
-    <name>Syluné's Viper [2024]</name>
+    <name>Syluné's Viper</name>
     <level>3</level>
     <school>C</school>
     <time>1 bonus action</time>
@@ -385,7 +385,7 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 147</text>
     <roll description="Force Damage" level="9">7d6</roll>
   </spell>
   <spell>
-    <name>Wardaway [2024]</name>
+    <name>Wardaway</name>
     <level>1</level>
     <school>A</school>
     <time>1 action</time>

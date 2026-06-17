@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Artificer</name>
+    <name>Artificer (UA)</name>
     <!-- Artificer Subclass: Reanimator (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -108,28 +108,28 @@ Source:	UA2024-Horror Subclasses p. 2</text>
     <conditionImmune>charmed, exhaustion, poisoned</conditionImmune>
     <senses>blindsight 60 ft.</senses>
     <trait>
-      <name>Proficiency Bonus</name>
+      <name>Proficiency Bonus (UA)</name>
       <text>PB equals your Proficiency Bonus</text>
     </trait>
     <trait>
-      <name>Armor Class</name>
+      <name>Armor Class (UA)</name>
       <text>10 + your Intelligence modifier</text>
     </trait>
     <trait>
-      <name>Hit Points</name>
+      <name>Hit Points (UA)</name>
       <text>4 + four times your Artificer level (the companion has a number of Hit Dice [d6s] equal to your Artificer level)</text>
     </trait>
     <trait>
-      <name>Death Burst</name>
+      <name>Death Burst (UA)</name>
       <text>The companion explodes when it dies. Dexterity Saving Throw: DC equals your spell save DC, each creature in a 10-foot Emanation originating from the companion. Failure: 2d6 Necrotic damage.</text>
       <attack>Necrotic Damage||2d6</attack>
     </trait>
     <trait>
-      <name>Lightning Absorption</name>
+      <name>Lightning Absorption (UA)</name>
       <text>Whenever the companion is subjected to Lightning damage, it regains a number of Hit Points equal to the Lightning damage dealt.</text>
     </trait>
     <action>
-      <name>Dreadful Swipe</name>
+      <name>Dreadful Swipe (UA)</name>
       <text>Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d4 + 2 plus your Intelligence modifier Necrotic damage, and the target can't take Opportunity Attacks until the start of its next turn.</text>
       <attack>Necrotic Damage||1d4+2</attack>
     </action>
@@ -137,47 +137,47 @@ Source:	UA2024-Horror Subclasses p. 2</text>
     <environment/>
   </monster>
   <spell>
-    <name>False Life</name>
+    <name>False Life (UA)</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
   <spell>
-    <name>Spare the Dying</name>
+    <name>Spare the Dying (UA)</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
   <spell>
-    <name>Witch Bolt</name>
+    <name>Witch Bolt (UA)</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
   <spell>
-    <name>Blindness/Deafness</name>
+    <name>Blindness/Deafness (UA)</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
   <spell>
-    <name>Enhance Ability</name>
+    <name>Enhance Ability (UA)</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
   <spell>
-    <name>Animate Dead</name>
+    <name>Animate Dead (UA)</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
   <spell>
-    <name>Lightning Bolt</name>
+    <name>Lightning Bolt (UA)</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
   <spell>
-    <name>Blight</name>
+    <name>Blight (UA)</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
   <spell>
-    <name>Death Ward</name>
+    <name>Death Ward (UA)</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
   <spell>
-    <name>Antilife Shell</name>
+    <name>Antilife Shell (UA)</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
   <spell>
-    <name>Raise Dead</name>
+    <name>Raise Dead (UA)</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
 </compendium>

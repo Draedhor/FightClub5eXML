@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Fighter [5.5e]</name>
+    <name>Fighter</name>
     <!-- Fighter Subclass: Gladiator (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Fighter Subclass: Gladiator (HB)</name>
+        <name>Fighter Subclass: Gladiator (TP)</name>
         <text>Fight for show and crowd
 
 "The crowd roars for blood, and I give them a legend"
@@ -19,14 +19,14 @@ Perhaps no figure from ancient Rome is as famous as the gladiator — a warrior 
 Source:	Old World's Might - Subclasses from Old Europe p. 33 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Arena Favorite (Gladiator (HB))</name>
+        <name>Arena Favorite (Gladiator (TP))</name>
         <text>When you hit a creature with a weapon attack, you can add your Charisma modifier to the damage roll.
 	You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Short or Long Rest.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 33 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Arena Favorite</name>
+        <name>Arena Favorite (TP)</name>
         <value>2</value>
         <reset>S</reset>
         <subclass>Gladiator (HB)</subclass>
@@ -34,7 +34,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 33 (Homebrew)</text>
     </autolevel>
     <autolevel level="5">
       <counter>
-        <name>Arena Favorite</name>
+        <name>Arena Favorite (TP)</name>
         <value>3</value>
         <reset>S</reset>
         <subclass>Gladiator (HB)</subclass>
@@ -42,7 +42,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 33 (Homebrew)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Arena Tactician (Gladiator (HB))</name>
+        <name>Arena Tactician (Gladiator (TP))</name>
         <text>When you use a Bonus Action to use the Second Wind feature, you can choose a creature within 10 feet of you. That creature takes damage equal to your Fighter level or is pushed 10 feet away (your choice).
 
 Source:	Old World's Might - Subclasses from Old Europe p. 33 (Homebrew)</text>
@@ -50,7 +50,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 33 (Homebrew)</text>
     </autolevel>
     <autolevel level="9">
       <counter>
-        <name>Arena Favorite</name>
+        <name>Arena Favorite (TP)</name>
         <value>4</value>
         <reset>S</reset>
         <subclass>Gladiator (HB)</subclass>
@@ -58,7 +58,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 33 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Duelist's Edge (Gladiator (HB))</name>
+        <name>Duelist's Edge (Gladiator (TP))</name>
         <text>When you are in a melee against only one creature, you have Advantage on attack rolls against that creature, and that creature has Disadvantage on attack rolls against you.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 33 (Homebrew)</text>
@@ -66,7 +66,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 33 (Homebrew)</text>
     </autolevel>
     <autolevel level="13">
       <counter>
-        <name>Arena Favorite</name>
+        <name>Arena Favorite (TP)</name>
         <value>5</value>
         <reset>S</reset>
         <subclass>Gladiator (HB)</subclass>
@@ -74,7 +74,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 33 (Homebrew)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Roar of the Crowd (Gladiator (HB))</name>
+        <name>Roar of the Crowd (Gladiator (TP))</name>
         <text>When you score a critical hit, all Hostile creatures within 15 feet of you must succeed on a Wisdom saving throw (DC = 8 + your Charisma modifier + your Proficiency Bonus). Failure: Frightened condition until the end of your next turn.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 33 (Homebrew)</text>
@@ -82,7 +82,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 33 (Homebrew)</text>
     </autolevel>
     <autolevel level="17">
       <counter>
-        <name>Arena Favorite</name>
+        <name>Arena Favorite (TP)</name>
         <value>6</value>
         <reset>S</reset>
         <subclass>Gladiator (HB)</subclass>
@@ -90,7 +90,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 33 (Homebrew)</text>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">
-        <name>Level 18: Champion of the Arena (Gladiator (HB))</name>
+        <name>Champion of the Arena (Gladiator (TP))</name>
         <text>You gain +1 to your AC and attack rolls when at least one Hostile creature is within 5 feet of you.
 	Additionally, when you reduce a creature to 0 hit points, you can use your Reaction to regain hit points equal to your Fighter level.
 
@@ -100,7 +100,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 33 (Homebrew)</text>
     <!-- Fighter Subclass: Hoplite (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Fighter Subclass: Hoplite (HB)</name>
+        <name>Fighter Subclass: Hoplite (TP)</name>
         <text>Gain strength from the group
 
 "Alone, I am strong. Together, we are unbreakable."
@@ -114,7 +114,7 @@ Hoplites were citizen-soldiers of Ancient Greek city-states who were primarily a
 Source:	Old World's Might - Subclasses from Old Europe p. 31 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Shield Wall Master (Hoplite (HB))</name>
+        <name>Shield Wall Master (Hoplite (TP))</name>
         <text>While you are wielding a shield and are within 5 feet of at least one Ally who is not Incapacitated or Unconscious, you gain the following benefits:
 
 	• You and your ally gain a +2 bonus to AC.
@@ -128,7 +128,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 31 (Homebrew)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Shield Push (Hoplite (HB))</name>
+        <name>Shield Push (Hoplite (TP))</name>
         <text>When you take the Attack Action while wielding a shield, you can use a Bonus Action to shove a creature within 5 feet of you. The target must make a saving throw whose DC is 8 plus your Strength modifier plus your Proficiency Bonus. Failure: the target takes Bludgeoning damage equal to your Strength modifier.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 31 (Homebrew)</text>
@@ -136,14 +136,14 @@ Source:	Old World's Might - Subclasses from Old Europe p. 31 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Defensive Cohesion (Hoplite (HB))</name>
+        <name>Defensive Cohesion (Hoplite (TP))</name>
         <text>When one of your Allies within 10 feet of you is hit by an attack, you can use your Reaction to impose Disadvantage on the attack roll. If the attack still hits, the Ally gains Resistance to the damage.
 	You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 31 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Defensive Cohesion</name>
+        <name>Defensive Cohesion (TP)</name>
         <value>4</value>
         <reset>L</reset>
         <subclass>Hoplite (HB)</subclass>
@@ -151,7 +151,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 31 (Homebrew)</text>
     </autolevel>
     <autolevel level="13">
       <counter>
-        <name>Defensive Cohesion</name>
+        <name>Defensive Cohesion (TP)</name>
         <value>5</value>
         <reset>L</reset>
         <subclass>Hoplite (HB)</subclass>
@@ -159,7 +159,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 31 (Homebrew)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Resolute Defender (Hoplite (HB))</name>
+        <name>Resolute Defender (Hoplite (TP))</name>
         <text>At the start of your turn, if you are adjacent to at least one Ally who is not Incapacitated or Unconscious, you gain Temporary Hit Points equal to your Fighter level.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 31 (Homebrew)</text>
@@ -167,7 +167,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 31 (Homebrew)</text>
     </autolevel>
     <autolevel level="17">
       <counter>
-        <name>Defensive Cohesion</name>
+        <name>Defensive Cohesion (TP)</name>
         <value>6</value>
         <reset>L</reset>
         <subclass>Hoplite (HB)</subclass>
@@ -175,7 +175,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 31 (Homebrew)</text>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">
-        <name>Level 18: Bulwark of War (Hoplite (HB))</name>
+        <name>Bulwark of War (Hoplite (TP))</name>
         <text>As a Bonus Action, you can enter a defensive stance for 1 minute. While in this stance:
 
 	• Allies within 10 feet of you gain a +2 bonus to AC.
@@ -187,7 +187,7 @@ When you use this feature, you can't use it again until you finish a Short or Lo
 Source:	Old World's Might - Subclasses from Old Europe p. 31 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Bulwark of War</name>
+        <name>Bulwark of War (TP)</name>
         <value>1</value>
         <reset>S</reset>
         <subclass>Hoplite (HB)</subclass>
@@ -196,7 +196,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 31 (Homebrew)</text>
     <!-- Fighter Subclass: Hussar (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Fighter Subclass: Hussar (HB)</name>
+        <name>Fighter Subclass: Hussar (TP)</name>
         <text>Enhance your powers through ypur faithful mount
 
 "A Hussar never flees - Death rides behind me!"
@@ -210,7 +210,7 @@ Hussars were members of a class of light cavalry originally from the Kingdom of 
 Source:	Old World's Might - Subclasses from Old Europe p. 34 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Winged Charge (Hussar (HB))</name>
+        <name>Winged Charge (Hussar (TP))</name>
         <text>You have advantage on saving throws to avoid being dismounted, and your mount has advantage on Dexterity saving throws.
 	When you are on a mount and you move at least 20 feet straight toward a creature and hit it with a melee weapon attack, the target takes an additional 1d8 damage and must make a Strength saving throw (DC = 8 + your Proficiency Bonus + your Strength modifier). Failure: Prone condition.
 
@@ -220,7 +220,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 34 (Homebrew)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Lancer's Precision (Hussar (HB))</name>
+        <name>Lancer's Precision (Hussar (TP))</name>
         <text>When you make a melee weapon attack from a mount, you can add your Proficiency Bonus to the damage roll.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 34 (Homebrew)</text>
@@ -228,7 +228,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 34 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Battlefield Momentum (Hussar (HB))</name>
+        <name>Battlefield Momentum (Hussar (TP))</name>
         <text>If you move at least 10 feet before making an attack, you can use your Bonus Action to either take the Dash Action or make one additional melee weapon attack.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 34 (Homebrew)</text>
@@ -236,7 +236,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 34 (Homebrew)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Rallying Cry (Hussar (HB))</name>
+        <name>Rallying Cry (Hussar (TP))</name>
         <text>When you reduce a creature to 0 hit points, you and your Allies within 30 feet of you gain Temporary Hit points equal to your Fighter level.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 34 (Homebrew)</text>
@@ -244,7 +244,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 34 (Homebrew)</text>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">
-        <name>Level 18: Glory of the Charge (Hussar (HB))</name>
+        <name>Glory of the Charge (Hussar (TP))</name>
         <text>When you use your Winged Charge feature, the additional damage becomes 2d8, and creatures with the Prone condition by this feature have also the Stunned condition until the end of your next turn.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 34 (Homebrew)</text>
@@ -253,7 +253,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 34 (Homebrew)</text>
     <!-- Fighter Subclass: Landsknecht (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Fighter Subclass: Landsknecht (HB)</name>
+        <name>Fighter Subclass: Landsknecht (TP)</name>
         <text>Powerful veteran combatant
 
 "A contract is my creed, but my blade is my master!"
@@ -267,7 +267,7 @@ The term Landsknecht is derived from Middle High German and Middle Low German. K
 Source:	Old World's Might - Subclasses from Old Europe p. 32 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Zweihander Master (Landsknecht (HB))</name>
+        <name>Zweihander Master (Landsknecht (TP))</name>
         <text>When you hit a creature with a melee weapon that has the Heavy property, you can deal half as much damage to another creature within 5 feet of the target.
 	When wielding a melee weapon with the Heavy property, you can use your Reaction to add +2 to your AC against one melee attack that would hit you.
 
@@ -276,7 +276,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 32 (Homebrew)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Mercenary's Expertise (Landsknecht (HB))</name>
+        <name>Mercenary's Expertise (Landsknecht (TP))</name>
         <text>When you make an attack with a Heavy weapon as part of the Attack Action, you can add your Proficiency Bonus to the damage roll.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 32 (Homebrew)</text>
@@ -284,14 +284,14 @@ Source:	Old World's Might - Subclasses from Old Europe p. 32 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Imposing Presence (Landsknecht (HB))</name>
+        <name>Imposing Presence (Landsknecht (TP))</name>
         <text>You can use a Bonus Action to force each creature of your choice that can see or hear you within 10 feet of you to make a Wisdom saving throw (DC = 8 + your Proficiency Bonus + your Strength modifier). Failure: Frightened condition until the end of your next turn.
 	Once you use this feature, you can't use it again until you finish a Short or Long Rest.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 32 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Imposing Presence</name>
+        <name>Imposing Presence (TP)</name>
         <value>1</value>
         <reset>S</reset>
         <subclass>Landsknecht (HB)</subclass>
@@ -299,7 +299,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 32 (Homebrew)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Relentless Advance (Landsknecht (HB))</name>
+        <name>Relentless Advance (Landsknecht (TP))</name>
         <text>Once per turn, if you reduce a creature to 0 hit points, you can immediately move up to 10 feet without provoking Opportunity Attacks and make another melee weapon attack as part of the same Action.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 32 (Homebrew)</text>
@@ -307,7 +307,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 32 (Homebrew)</text>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">
-        <name>Level 18: Master of Carnage (Landsknecht (HB))</name>
+        <name>Master of Carnage (Landsknecht (TP))</name>
         <text>Your melee weapon attacks with Heavy Weapons score a critical hit on a roll of 18-20. Additionally, when you score a critical hit, you can make one additional attack against the same target.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 32 (Homebrew)</text>
@@ -316,7 +316,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 32 (Homebrew)</text>
     <!-- Fighter Subclass: Musketeer (HB) -->
     <autolevel level="3">
       <feature optional="YES">
-        <name>Fighter Subclass: Musketeer (HB)</name>
+        <name>Fighter Subclass: Musketeer (TP)</name>
         <text>Disciplined yet elegant warrior
 
 "Never fear quarrels, but seek hazardous adventures."
@@ -331,7 +331,7 @@ The Musketeers of the military household of the King of France (Mousquetaires de
 Source:	Old World's Might - Subclasses from Old Europe p. 35 (Homebrew)</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Elegant Duelist (Musketeer (HB))</name>
+        <name>Elegant Duelist (Musketeer (TP))</name>
         <text>When wielding a weapon with the Finesse property or a musket, you can add your Charisma modifier (minimum +1) to your damage rolls.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 35 (Homebrew)</text>
@@ -339,14 +339,14 @@ Source:	Old World's Might - Subclasses from Old Europe p. 35 (Homebrew)</text>
     </autolevel>
     <autolevel level="7">
       <feature optional="YES">
-        <name>Level 7: Flash of Brilliance (Musketeer (HB))</name>
+        <name>Flash of Brilliance (Musketeer (TP))</name>
         <text>When you or an Ally of yours within 30 feet of you make a Test, you can use your Reaction to grant a bonus equal to your Charisma modifier.
 	You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 35 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Flash of Brilliance</name>
+        <name>Flash of Brilliance (TP)</name>
         <value>3</value>
         <reset>L</reset>
         <subclass>Musketeer (HB)</subclass>
@@ -354,7 +354,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 35 (Homebrew)</text>
     </autolevel>
     <autolevel level="9">
       <counter>
-        <name>Flash of Brilliance</name>
+        <name>Flash of Brilliance (TP)</name>
         <value>4</value>
         <reset>L</reset>
         <subclass>Musketeer (HB)</subclass>
@@ -362,14 +362,14 @@ Source:	Old World's Might - Subclasses from Old Europe p. 35 (Homebrew)</text>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
-        <name>Level 10: Gallant Protector (Musketeer (HB))</name>
+        <name>Gallant Protector (Musketeer (TP))</name>
         <text>When a creature within 5 feet of you is hit by an attack, you can use your reaction to swap places with it, taking the hit instead. You reduce the damage you take from the attack by an amount equal to your level + your Charisma modifier.
 	You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 35 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Gallant Protector</name>
+        <name>Gallant Protector (TP)</name>
         <value>4</value>
         <reset>L</reset>
         <subclass>Musketeer (HB)</subclass>
@@ -377,13 +377,13 @@ Source:	Old World's Might - Subclasses from Old Europe p. 35 (Homebrew)</text>
     </autolevel>
     <autolevel level="13">
       <counter>
-        <name>Flash of Brilliance</name>
+        <name>Flash of Brilliance (TP)</name>
         <value>5</value>
         <reset>L</reset>
         <subclass>Musketeer (HB)</subclass>
       </counter>
       <counter>
-        <name>Gallant Protector</name>
+        <name>Gallant Protector (TP)</name>
         <value>5</value>
         <reset>L</reset>
         <subclass>Musketeer (HB)</subclass>
@@ -391,7 +391,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 35 (Homebrew)</text>
     </autolevel>
     <autolevel level="15">
       <feature optional="YES">
-        <name>Level 15: Master Fencer (Musketeer (HB))</name>
+        <name>Master Fencer (Musketeer (TP))</name>
         <text>Once on your turn, you can reroll a melee weapon attack that you miss. You must use the new roll.
 
 Source:	Old World's Might - Subclasses from Old Europe p. 35 (Homebrew)</text>
@@ -399,13 +399,13 @@ Source:	Old World's Might - Subclasses from Old Europe p. 35 (Homebrew)</text>
     </autolevel>
     <autolevel level="17">
       <counter>
-        <name>Flash of Brilliance</name>
+        <name>Flash of Brilliance (TP)</name>
         <value>6</value>
         <reset>L</reset>
         <subclass>Musketeer (HB)</subclass>
       </counter>
       <counter>
-        <name>Gallant Protector</name>
+        <name>Gallant Protector (TP)</name>
         <value>6</value>
         <reset>L</reset>
         <subclass>Musketeer (HB)</subclass>
@@ -413,7 +413,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 35 (Homebrew)</text>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">
-        <name>Level 18: Musketeer's Resolve (Musketeer (HB))</name>
+        <name>Musketeer's Resolve (Musketeer (TP))</name>
         <text>You gain advantage on saving throws against the Frightened, Charmed, or Paralyzed condition.
 	Additionally, as an Action, you can make one melee and one ranged attack against all creatures of your choice within your melee reach and your weapon's range.
 	Once you use this feature, you can't use it again until you finish a Short or Long Rest.
@@ -421,7 +421,7 @@ Source:	Old World's Might - Subclasses from Old Europe p. 35 (Homebrew)</text>
 Source:	Old World's Might - Subclasses from Old Europe p. 35 (Homebrew)</text>
       </feature>
       <counter>
-        <name>Musketeer's Resolve</name>
+        <name>Musketeer's Resolve (TP)</name>
         <value>1</value>
         <reset>S</reset>
         <subclass>Musketeer (HB)</subclass>

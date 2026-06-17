@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Continental Crown</name>
+    <name>Continental Crown (TP)</name>
     <detail>clothes, legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -12,7 +12,7 @@
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 199 (Third Party)</text>
   </item>
   <item>
-    <name>Jackson's Longsword</name>
+    <name>Jackson's Longsword (TP)</name>
     <detail>longsword, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -39,7 +39,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 200 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>John's Scimitar</name>
+    <name>John's Scimitar (TP)</name>
     <detail>scimitar, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -67,7 +67,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 200 (Third Party),
     <modifier category="ability score">intelligence +2</modifier>
   </item>
   <item>
-    <name>Joplin's Rapier</name>
+    <name>Joplin's Rapier (TP)</name>
     <detail>rapier, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -93,7 +93,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 200 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Joyce's Shortsword</name>
+    <name>Joyce's Shortsword (TP)</name>
     <detail>shortsword, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -117,7 +117,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 200 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Jones's Greatsword</name>
+    <name>Jones's Greatsword (TP)</name>
     <detail>greatsword, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -141,7 +141,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 200 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Jagger's Dagger</name>
+    <name>Jagger's Dagger (TP)</name>
     <detail>dagger, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -166,7 +166,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 200 (Third Party),
     <modifier category="ability score">dexterity +2</modifier>
   </item>
   <item>
-    <name>Master Commander's Mantle</name>
+    <name>Master Commander's Mantle (TP)</name>
     <detail>clothes, very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -178,7 +178,7 @@ This ornate mantle has a long flowing blue cape filigreed with gold trim. Two go
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 201 (Third Party)</text>
   </item>
   <item>
-    <name>Cardinal's Crest</name>
+    <name>Cardinal's Crest (TP)</name>
     <detail>druidic focus, holy symbol, very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -192,7 +192,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 201 (Third Party)</text>
     <modifier category="bonus">spell dc +3</modifier>
   </item>
   <item>
-    <name>Lord Chamberlain's Amulet</name>
+    <name>Lord Chamberlain's Amulet (TP)</name>
     <detail>clothes, very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -203,7 +203,7 @@ This jeweled locket bears the symbol of the Sacred Flame kept within a gilded la
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 201 (Third Party)</text>
   </item>
   <item>
-    <name>Orb of Nox</name>
+    <name>Orb of Nox (TP)</name>
     <detail>spellcasting focus, legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -219,7 +219,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 201 (Third Party)</text>
     <roll description="Recharge">1d6</roll>
   </item>
   <item>
-    <name>Ambassador's Ring</name>
+    <name>Ambassador's Ring (TP)</name>
     <detail>clothes, very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -232,7 +232,7 @@ This is a golden two finger ring worn on the second and third finger. The ring i
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 201 (Third Party)</text>
   </item>
   <item>
-    <name>Secretary General's Quill</name>
+    <name>Secretary General's Quill (TP)</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -244,7 +244,7 @@ This large feathered quill with is made from the plucked feather of an angel. Wh
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 201 (Third Party)</text>
   </item>
   <item>
-    <name>Investigator's Kit</name>
+    <name>Investigator's Kit (TP)</name>
     <detail>artisan tools, common</detail>
     <type>G</type>
     <weight>5</weight>
@@ -254,7 +254,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 201 (Third Party)</text>
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 178 (Third Party)</text>
   </item>
   <item>
-    <name>Vampire Hunter's Case</name>
+    <name>Vampire Hunter's Case (TP)</name>
     <detail>artisan tools, common</detail>
     <type>G</type>
     <weight>5</weight>
@@ -264,7 +264,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 178 (Third Party)</text>
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 178 (Third Party)</text>
   </item>
   <item>
-    <name>Exorcist's kit</name>
+    <name>Exorcist's kit (TP)</name>
     <detail>artisan tools, common</detail>
     <type>G</type>
     <weight>5</weight>
@@ -274,7 +274,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 178 (Third Party)</text>
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 178 (Third Party)</text>
   </item>
   <item>
-    <name>Occultist's Tools</name>
+    <name>Occultist's Tools (TP)</name>
     <detail>artisan tools, common</detail>
     <type>G</type>
     <weight>5</weight>
@@ -284,7 +284,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 178 (Third Party)</text>
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 178 (Third Party)</text>
   </item>
   <item>
-    <name>Cosmologist's Tools</name>
+    <name>Cosmologist's Tools (TP)</name>
     <detail>artisan tools, common</detail>
     <type>G</type>
     <weight>5</weight>
@@ -294,7 +294,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 178 (Third Party)</text>
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 178 (Third Party)</text>
   </item>
   <item>
-    <name>Doctor's Bag</name>
+    <name>Doctor's Bag (TP)</name>
     <detail>artisan tools, common</detail>
     <type>G</type>
     <weight>5</weight>
@@ -304,7 +304,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 178 (Third Party)</text>
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 178 (Third Party)</text>
   </item>
   <item>
-    <name>Aqua Delerium</name>
+    <name>Aqua Delerium (TP)</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -317,7 +317,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 178 (Third Party)</text>
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 234 (Third Party)</text>
   </item>
   <item>
-    <name>Aqua Expurgo</name>
+    <name>Aqua Expurgo (TP)</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>

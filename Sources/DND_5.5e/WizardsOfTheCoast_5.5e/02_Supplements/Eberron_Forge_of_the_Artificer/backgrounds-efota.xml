@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Aberrant Heir [2024]</name>
+    <name>Aberrant Heir</name>
     <proficiency>History, Intimidation</proficiency>
     <trait>
       <name>Description</name>
@@ -41,7 +41,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>Archaeologist [2024]</name>
+    <name>Archaeologist</name>
     <proficiency>History, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -71,7 +71,7 @@ Source:	Eberron: Forge of the Artificer p. 26</text>
     </trait>
   </background>
   <background>
-    <name>House Agent: Cannith [2024]</name>
+    <name>House Agent: Cannith</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -105,7 +105,7 @@ Source: Eberron: Forge of the Artificer p. 26</text>
     </trait>
   </background>
   <background>
-    <name>House Agent: Deneith [2024]</name>
+    <name>House Agent: Deneith</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -139,7 +139,7 @@ Source:	Eberron: Forge of the Artificer p. 26</text>
     </trait>
   </background>
   <background>
-    <name>House Agent: Ghallanda [2024]</name>
+    <name>House Agent: Ghallanda</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -173,7 +173,7 @@ Source: Eberron: Forge of the Artificer p. 26</text>
     </trait>
   </background>
   <background>
-    <name>House Agent: Jorasco [2024]</name>
+    <name>House Agent: Jorasco</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -207,7 +207,7 @@ Source: Eberron: Forge of the Artificer p. 26</text>
     </trait>
   </background>
   <background>
-    <name>House Agent: Kundarak [2024]</name>
+    <name>House Agent: Kundarak</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -241,7 +241,7 @@ Source: Eberron: Forge of the Artificer p. 26</text>
     </trait>
   </background>
   <background>
-    <name>House Agent: Lyrandar [2024]</name>
+    <name>House Agent: Lyrandar</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -275,7 +275,7 @@ Source: Eberron: Forge of the Artificer p. 26</text>
     </trait>
   </background>
   <background>
-    <name>House Agent: Medani [2024]</name>
+    <name>House Agent: Medani</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -309,7 +309,7 @@ Source: Eberron: Forge of the Artificer p. 26</text>
     </trait>
   </background>
   <background>
-    <name>House Agent: Orien [2024]</name>
+    <name>House Agent: Orien</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -343,7 +343,7 @@ Source: Eberron: Forge of the Artificer p. 26</text>
     </trait>
   </background>
   <background>
-    <name>House Agent: Phiarlan [2024]</name>
+    <name>House Agent: Phiarlan</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -377,7 +377,7 @@ Source: Eberron: Forge of the Artificer p. 26</text>
     </trait>
   </background>
   <background>
-    <name>House Agent: Sivis [2024]</name>
+    <name>House Agent: Sivis</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -411,7 +411,7 @@ Source: Eberron: Forge of the Artificer p. 26</text>
     </trait>
   </background>
   <background>
-    <name>House Agent: Tharashk [2024]</name>
+    <name>House Agent: Tharashk</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -445,7 +445,7 @@ Source: Eberron: Forge of the Artificer p. 26</text>
     </trait>
   </background>
   <background>
-    <name>House Agent: Thuranni [2024]</name>
+    <name>House Agent: Thuranni</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -479,7 +479,7 @@ Source: Eberron: Forge of the Artificer p. 26</text>
     </trait>
   </background>
   <background>
-    <name>House Agent: Vadalis [2024]</name>
+    <name>House Agent: Vadalis</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -513,7 +513,7 @@ Source: Eberron: Forge of the Artificer p. 26</text>
     </trait>
   </background>
   <background>
-    <name>House Cannith Heir: Human [2024]</name>
+    <name>House Cannith Heir: Human</name>
     <proficiency>Investigation, Sleight of Hand</proficiency>
     <trait>
       <name>Description</name>
@@ -579,7 +579,7 @@ Woodcarver's tools | 1 gp | 5 lb.</text>
     </trait>
   </background>
   <background>
-    <name>House Deneith Heir: Human [2024]</name>
+    <name>House Deneith Heir: Human</name>
     <proficiency>Insight, Perception</proficiency>
     <trait>
       <name>Description</name>
@@ -629,7 +629,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Ghallanda Heir: Halfling [2024]</name>
+    <name>House Ghallanda Heir: Halfling</name>
     <proficiency>Insight, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -678,7 +678,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Jorasco Heir: Halfling [2024]</name>
+    <name>House Jorasco Heir: Halfling</name>
     <proficiency>Medicine, Stealth</proficiency>
     <trait>
       <name>Description</name>
@@ -729,7 +729,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Kundarak Heir: Dwarf [2024]</name>
+    <name>House Kundarak Heir: Dwarf</name>
     <proficiency>Arcana, Investigation</proficiency>
     <trait>
       <name>Description</name>
@@ -778,7 +778,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Lyrandar Heir: Khoravar [2024]</name>
+    <name>House Lyrandar Heir: Khoravar</name>
     <proficiency>Acrobatics, Nature</proficiency>
     <trait>
       <name>Description</name>
@@ -828,7 +828,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Medani Heir: Human [2024]</name>
+    <name>House Medani Heir: Human</name>
     <proficiency>Insight, Investigation</proficiency>
     <trait>
       <name>Description</name>
@@ -877,7 +877,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Orien Heir: Human [2024]</name>
+    <name>House Orien Heir: Human</name>
     <proficiency>Acrobatics, Athletics</proficiency>
     <trait>
       <name>Description</name>
@@ -927,7 +927,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Phiarlan Heir: Elf [2024]</name>
+    <name>House Phiarlan Heir: Elf</name>
     <proficiency>Deception, Stealth</proficiency>
     <trait>
       <name>Description</name>
@@ -975,7 +975,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Sivis Heir: Gnome [2024]</name>
+    <name>House Sivis Heir: Gnome</name>
     <proficiency>History, Perception</proficiency>
     <trait>
       <name>Description</name>
@@ -1024,7 +1024,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Tharashk Heir: Orc [2024]</name>
+    <name>House Tharashk Heir: Orc</name>
     <proficiency>Perception, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -1073,7 +1073,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Thuranni Heir: Elf [2024]</name>
+    <name>House Thuranni Heir: Elf</name>
     <proficiency>Performance, Stealth</proficiency>
     <trait>
       <name>Description</name>
@@ -1121,7 +1121,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>House Vadalis Heir: Human [2024]</name>
+    <name>House Vadalis Heir: Human</name>
     <proficiency>Animal Handling, Nature</proficiency>
     <trait>
       <name>Description</name>
@@ -1170,7 +1170,7 @@ Source:	Eberron: Forge of the Artificer</text>
     </trait>
   </background>
   <background>
-    <name>Inquisitive [2024]</name>
+    <name>Inquisitive</name>
     <proficiency>Insight, Investigation</proficiency>
     <trait>
       <name>Description</name>

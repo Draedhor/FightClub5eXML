@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Chaos Bad News</name>
+    <name>Chaos Bad News (TP)</name>
     <detail>firearm, modern, sniper rifle, legendary</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -61,7 +61,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 63 (Homebrew),
     <roll description="Necrotic Damage">1d8</roll>
   </item>
   <item>
-    <name>Chaos Blunderbuss (Matthew Mercer)</name>
+    <name>Chaos Blunderbuss (Matthew Mercer) (TP)</name>
     <detail>firearm, modern, legendary</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -119,7 +119,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 63 (Homebrew),
     <roll description="Necrotic Damage">1d8</roll>
   </item>
   <item>
-    <name>Chaos Hand Mortar</name>
+    <name>Chaos Hand Mortar (TP)</name>
     <detail>firearm, legendary</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -174,7 +174,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 63 (Homebrew),
     <roll description="Necrotic Damage">1d8</roll>
   </item>
   <item>
-    <name>Chaos Musket (Matthew Mercer)</name>
+    <name>Chaos Musket (Matthew Mercer) (TP)</name>
     <detail>firearm, renaissance, legendary</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -234,7 +234,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 63 (Homebrew),
     <roll description="Necrotic Damage">1d8</roll>
   </item>
   <item>
-    <name>Chaos Palm Pistol</name>
+    <name>Chaos Palm Pistol (TP)</name>
     <detail>firearm, legendary</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -296,7 +296,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 63 (Homebrew),
     <roll description="Necrotic Damage">1d8</roll>
   </item>
   <item>
-    <name>Chaos Pistol (Matthew Mercer)</name>
+    <name>Chaos Pistol (Matthew Mercer) (TP)</name>
     <detail>firearm, renaissance, legendary</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -354,7 +354,7 @@ Source:	Xanathar's Lost Notes to Everything Else p. 63 (Homebrew),
     <roll description="Necrotic Damage">1d8</roll>
   </item>
   <item>
-    <name>Chaos Pepperbox</name>
+    <name>Chaos Pepperbox (TP)</name>
     <detail>firearm, legendary</detail>
     <type>R</type>
     <magic>YES</magic>

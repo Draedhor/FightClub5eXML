@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Warlock</name>
+    <name>Warlock (UA)</name>
     <!-- Warlock Subclass: Hexblade Patron (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -47,7 +47,7 @@ Source:	UA25-ArcaneSubclasses p. 7</text>
         <roll description="Temporary Hit Points">1d10</roll>
       </feature>
       <counter>
-        <name>Unyielding Will</name>
+        <name>Unyielding Will (UA)</name>
         <value>1</value>
         <reset>L</reset>
         <subclass>Hexblade Patron (UA)</subclass>
@@ -92,43 +92,43 @@ Source:	UA25-ArcaneSubclasses p. 7</text>
     </autolevel>
   </class>
   <spell>
-    <name>Arcane Vigor [2024]</name>
+    <name>Arcane Vigor (UA)</name>
     <classes>Warlock (Hexblade Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Hex [2024]</name>
+    <name>Hex (UA)</name>
     <classes>Warlock (Hexblade Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Shield [2024]</name>
+    <name>Shield (UA)</name>
     <classes>Warlock (Hexblade Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Wrathful Smite [2024]</name>
+    <name>Wrathful Smite (UA)</name>
     <classes>Warlock (Hexblade Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Bestow Curse [2024]</name>
+    <name>Bestow Curse (UA)</name>
     <classes>Warlock (Hexblade Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Conjure Barrage [2024]</name>
+    <name>Conjure Barrage (UA)</name>
     <classes>Warlock (Hexblade Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement [2024]</name>
+    <name>Freedom of Movement (UA)</name>
     <classes>Warlock (Hexblade Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Staggering Smite [2024]</name>
+    <name>Staggering Smite (UA)</name>
     <classes>Warlock (Hexblade Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Animate Objects [2024]</name>
+    <name>Animate Objects (UA)</name>
     <classes>Warlock (Hexblade Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Steel Wind Strike [2024]</name>
+    <name>Steel Wind Strike (UA)</name>
     <classes>Warlock (Hexblade Patron (UA))</classes>
   </spell>
 </compendium>

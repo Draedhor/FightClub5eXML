@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Rogue [5.5e]</name>
+    <name>Rogue</name>
     <!-- Rogue Subclass: Phantom -->
     <autolevel level="3">
       <feature optional="YES">
@@ -13,14 +13,14 @@ Some Rogues traverse the veil between life and death, shepherding opponents to t
 Source:	Ravenloft: The Horrors Within</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Wails from the Grave (Phantom)</name>
+        <name>Wails from the Grave (Phantom)</name>
         <text>Immediately after you deal Sneak Attack damage to a creature on your turn, you can target a second creature that you can see within 30 feet of the first creature. Roll half the number of Sneak Attack damage dice for your level (round up), and the second creature takes Necrotic damage equal to the roll's total as wails of the dead sound around it.
 	You can use this feature a number of times equal to your Dexterity modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 Source:	Ravenloft: The Horrors Within</text>
       </feature>
       <feature optional="YES">
-        <name>Level 3: Whispers of the Dead (Phantom)</name>
+        <name>Whispers of the Dead (Phantom)</name>
         <text>Whenever you finish a Short or Long Rest, you can choose one skill or tool proficiency that you lack and gain it, as a ghostly presence shares its knowledge with you. You lose this proficiency when you use this benefit again to choose a different proficiency.
 
 Source:	Ravenloft: The Horrors Within</text>
@@ -34,7 +34,7 @@ Source:	Ravenloft: The Horrors Within</text>
     </autolevel>
     <autolevel level="9">
       <feature optional="YES">
-        <name>Level 9: Tokens of the Departed (Phantom)</name>
+        <name>Tokens of the Departed (Phantom)</name>
         <text>The spirits of the dead are drawn to you, and echoes of their past lives magically manifest as strange curios with resonant power.
 
 You gain two soul trinkets. A soul trinket is a Tiny object (the DM determines the trinket's form or has you roll on the Trinkets table in the Player's Handbook to generate it). If you move more than 30 feet from a trinket, the trinket immediately teleports to you, appearing somewhere on your person.
@@ -54,7 +54,7 @@ You gain two soul trinkets. A soul trinket is a Tiny object (the DM determines t
 Source:	Ravenloft: The Horrors Within</text>
       </feature>
       <feature optional="YES">
-        <name>Level 9: Voice of Death (Phantom)</name>
+        <name>Voice of Death (Phantom)</name>
         <text>You can cast Speak with Dead once without a spell slot, requiring no spell components and using Dexterity as the spellcasting modifier. You regain the ability to cast it this way when you finish a Short or Long Rest.
 	When you cast the spell, you can target one of your soul trinkets from Tokens of the Departed instead of a corpse, allowing the spirit of the creature associated with the trinket to answer.
 
@@ -63,7 +63,7 @@ Source:	Ravenloft: The Horrors Within</text>
     </autolevel>
     <autolevel level="13">
       <feature optional="YES">
-        <name>Level 13: Ghost Walk (Phantom)</name>
+        <name>Ghost Walk (Phantom)</name>
         <text>As a Bonus Action, you assume a spectral form, gaining the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a Long Rest unless you destroy one of your soul trinkets from Tokens of the Departed (no action required) to restore your use of it.
 
 	Flight. You gain a Fly Speed of 10 feet and can hover.
@@ -78,7 +78,7 @@ Source:	Ravenloft: The Horrors Within</text>
     </autolevel>
     <autolevel level="17">
       <feature optional="YES">
-        <name>Level 17: Death's Friend (Phantom)</name>
+        <name>Death's Friend (Phantom)</name>
         <text>Your association with death has become so close that you gain the following benefits.
 
 	Death's Lament. When you use Wails from the Grave, you can deal the feature's Necrotic damage to both the first and the second creature.

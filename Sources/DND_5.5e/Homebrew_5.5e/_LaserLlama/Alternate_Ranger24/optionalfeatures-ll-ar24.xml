@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Knack: Alpine Adept</name>
+    <name>Knack: Alpine Adept (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>You are amazingly surefooted. You gain a 30-foot climbing speed, and you can use your reaction to reduce any falling damage you take by an amount equal to your Ranger level. If you already have a climbing speed it increases by 10 feet.
@@ -9,7 +9,7 @@
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 10 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Aquatic Adept</name>
+    <name>Knack: Aquatic Adept (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>You can swim through the water like a native creature of the sea. You gain a 30-foot swimming speed, and while you are underwater, you can hold your breath for up to 1 hour. If you already have a swimming speed it increases by 10 feet.
@@ -17,7 +17,7 @@ Source:	LaserLlama's Alternate Ranger v4.3.0 p. 10 (Homebrew)</text>
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 10 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Favored Foe</name>
+    <name>Knack: Favored Foe (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>Prerequisite: 3rd-level Ranger
@@ -29,7 +29,7 @@ You are especially adept at studying, tracking, and hunting a specific type of e
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 10 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Herbalist I</name>
+    <name>Knack: Herbalist I (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>You have an extensive knowledge of plants and their healing properties. You gain proficiency with herbalism kits, and you automatically succeed on your Wisdom (Medicine) checks to stabilize creatures at 0 hit points if you use a herbalism kit.
@@ -37,7 +37,7 @@ Source:	LaserLlama's Alternate Ranger v4.3.0 p. 10 (Homebrew)</text>
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 10 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Herbalist II</name>
+    <name>Knack: Herbalist II (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>Prerequisite: 3rd-level Ranger, Herbalist I
@@ -47,7 +47,7 @@ You have learned to use natural plants and herbs to create healing salves. Over 
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 10 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Herbalist III</name>
+    <name>Knack: Herbalist III (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>Prerequisite: 6th-level Ranger, Herbalist II
@@ -57,7 +57,7 @@ When you use your herbalism kit to craft potions of healing during a long rest, 
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 10 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Naturalist I</name>
+    <name>Knack: Naturalist I (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>You are an intuitive student of the wilderness. Whenever you would make an Intelligence (Nature) check in the wilderness, you can choose to make a Wisdom (Nature) check instead.
@@ -66,7 +66,7 @@ Source:	LaserLlama's Alternate Ranger v4.3.0 p. 10 (Homebrew)</text>
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 10 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Naturalist II</name>
+    <name>Knack: Naturalist II (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>Prerequisite: 6th-level Ranger, Naturalist I
@@ -84,7 +84,7 @@ At the end of a long rest, you can attune to your surrounding environment. Examp
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 10 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Natural Regeneration</name>
+    <name>Knack: Natural Regeneration (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>Prerequisite: 3rd-level Ranger
@@ -94,7 +94,7 @@ During a short rest, you can recover spell slots of a combined level equal to yo
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Slayer I</name>
+    <name>Knack: Slayer I (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>Prerequisite: 3rd-level Ranger
@@ -104,7 +104,7 @@ When you hit a creature with a weapon attack you can mark it as your Quarry as p
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Slayer II</name>
+    <name>Knack: Slayer II (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>Prerequisite: 6th-level Ranger, Slayer I
@@ -115,7 +115,7 @@ Your tracking abilities have become supernaturally accurate. You can mark a crea
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Slayer III</name>
+    <name>Knack: Slayer III (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>Prerequisite: 14th-level Ranger, Slayer I, II
@@ -125,7 +125,7 @@ When you hit a Quarry with a weapon attack, you can force it to make a Constitut
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Stalker I</name>
+    <name>Knack: Stalker I (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>You are a master at remaining undetected in the wilderness. You have advantage on Dexterity (Stealth) checks you make to hide while you are in natural environments.
@@ -133,7 +133,7 @@ Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Stalker II</name>
+    <name>Knack: Stalker II (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>Prerequisite: 3rd-level Ranger, Stalker I
@@ -143,7 +143,7 @@ You have learned to hunt your prey while remaining unseen. You can take the Hide
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Stalker III</name>
+    <name>Knack: Stalker III (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>Prerequisite: 9th-level Ranger, Stalker I, II
@@ -153,7 +153,7 @@ You cannot be tracked, even by magic. You are always under the effects of the no
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Stalker IV</name>
+    <name>Knack: Stalker IV (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>Prerequisite: 14th-level Ranger, Stalker I, II, III
@@ -163,7 +163,7 @@ You can ward yourself to briefly disappear from sight. When you take the Hide ac
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Strider I</name>
+    <name>Knack: Strider I (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>You ignore the effects of difficult terrain imposed by natural environments, such as undergrowth, snow, or swamp. You also can't become lost so long as you can see the night sky.
@@ -172,7 +172,7 @@ Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Strider II</name>
+    <name>Knack: Strider II (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>Prerequisite: 3rd-level Ranger, Strider I
@@ -182,7 +182,7 @@ Once in your sights, you pursue your enemies relentlessly. You can take the Dash
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Strider III</name>
+    <name>Knack: Strider III (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>Prerequisite: 6th-level Ranger, Strider I, II
@@ -192,7 +192,7 @@ You can surmount almost any obstacle that would block your path. Your walking sp
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Strider IV</name>
+    <name>Knack: Strider IV (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>Prerequisite: 14th-level Ranger, Strider I, II, III
@@ -202,7 +202,7 @@ You move through the world unhindered by even the most powerful magic and restra
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Survivor I</name>
+    <name>Knack: Survivor I (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>Prerequisite: 6th-level Ranger
@@ -212,7 +212,7 @@ Your time in the wilds has hardened your body. As a bonus action on your turn, y
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Survivor II</name>
+    <name>Knack: Survivor II (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>Prerequisite: 9th-level Ranger, Survivor I
@@ -222,7 +222,7 @@ Your body can rapidly recover from injury. When you expend a Hit Die to regain h
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Survivor III</name>
+    <name>Knack: Survivor III (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>Prerequisite: 14th-level Ranger, Survivor I, II
@@ -232,7 +232,7 @@ When you make a death saving throw, you add your Wisdom modifier to the roll (mi
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Trapper</name>
+    <name>Knack: Trapper (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>You can construct natural traps. Over the course of 1 hour, which can be during a short or long rest, you can use a knife, natural materials, and expend 10 feet of rope to craft a Trap.
@@ -243,7 +243,7 @@ Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Wild Insight I</name>
+    <name>Knack: Wild Insight I (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>You have a special insight into the mannerisms and sounds of wild animals. You can communicate with beasts as if you were always under the effect of a speak with animals spell.
@@ -251,7 +251,7 @@ Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Wild Insight II</name>
+    <name>Knack: Wild Insight II (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>Prerequisite: 3rd-level Ranger, Wild Insight I
@@ -261,7 +261,7 @@ You have bound yourself with a minor nature spirit. You learn the conjure famili
 Source:	LaserLlama's Alternate Ranger v4.3.0 p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Knack: Wild Insight III</name>
+    <name>Knack: Wild Insight III (TP)</name>
     <level>0</level>
     <classes>Ranger (Alt. LaserLlama): Knacks</classes>
     <text>Prerequisite: 9th-level Ranger, Wild Insight I, II

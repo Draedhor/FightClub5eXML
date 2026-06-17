@@ -80,43 +80,43 @@ Source:	Forgotten Realms: Heroes of Faerûn [2024] p. 25</text>
     </autolevel>
   </class>
   <spell>
-    <name>Cure Wounds [2024]</name>
+    <name>Cure Wounds</name>
     <classes>Sorcerer (Spellfire Sorcery)</classes>
   </spell>
   <spell>
-    <name>Guiding Bolt [2024]</name>
+    <name>Guiding Bolt</name>
     <classes>Sorcerer (Spellfire Sorcery)</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration [2024]</name>
+    <name>Lesser Restoration</name>
     <classes>Sorcerer (Spellfire Sorcery)</classes>
   </spell>
   <spell>
-    <name>Scorching Ray [2024]</name>
+    <name>Scorching Ray</name>
     <classes>Sorcerer (Spellfire Sorcery)</classes>
   </spell>
   <spell>
-    <name>Aura of Vitality [2024]</name>
+    <name>Aura of Vitality</name>
     <classes>Sorcerer (Spellfire Sorcery)</classes>
   </spell>
   <spell>
-    <name>Dispel Magic [2024]</name>
+    <name>Dispel Magic</name>
     <classes>Sorcerer (Spellfire Sorcery)</classes>
   </spell>
   <spell>
-    <name>Fire Shield [2024]</name>
+    <name>Fire Shield</name>
     <classes>Sorcerer (Spellfire Sorcery)</classes>
   </spell>
   <spell>
-    <name>Wall of Fire [2024]</name>
+    <name>Wall of Fire</name>
     <classes>Sorcerer (Spellfire Sorcery)</classes>
   </spell>
   <spell>
-    <name>Greater Restoration [2024]</name>
+    <name>Greater Restoration</name>
     <classes>Sorcerer (Spellfire Sorcery)</classes>
   </spell>
   <spell>
-    <name>Flame Strike [2024]</name>
+    <name>Flame Strike</name>
     <classes>Sorcerer (Spellfire Sorcery)</classes>
   </spell>
 </compendium>
