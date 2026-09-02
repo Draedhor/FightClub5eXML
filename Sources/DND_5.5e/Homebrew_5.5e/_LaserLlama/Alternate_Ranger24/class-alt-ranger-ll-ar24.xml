@@ -1138,686 +1138,549 @@ Source:	LaserLlama's Alternate Ranger v4.3.0 p. 16 (Homebrew)</text>
   <spell>
     <name>Beast Bond (Alt) (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Beast Master), Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Beast Sense (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Beast Master), Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Warding Bond (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Beast Master), Ranger (Alt. LaserLlama) (Drake Guard)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Haste (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Beast Master), Ranger (Alt. LaserLlama) (Planar Warden)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Protection from Energy (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Beast Master), Ranger (Alt. LaserLlama) (Monster Slayer)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Death Ward (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Beast Master), Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Freedom of Movement (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Beast Master), Ranger (Alt. LaserLlama) (Hunter), Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Awaken (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Beast Master), Ranger (Alt. LaserLlama), Ranger (Alt. LaserLlama) (Drake Guard)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Commune with Nature (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Beast Master), Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Beast Bond (Alt) (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Beast Master), Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Beast Bond (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Beast Master)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Expeditious Retreat (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Hunter), Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Locate Creature (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Hunter), Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Locate Creature (Alt) (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Hunter), Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Pass without Trace (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Hunter), Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Pass without Trace (Alt) (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Hunter), Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Conjure Volley (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Hunter), Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Conjure Volley (Alt) (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Hunter), Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Nondetection (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Hunter), Ranger (Alt. LaserLlama) (Deep Stalker), Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Mordenkainen's Faithful Hound (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Hunter), Ranger (Alt. LaserLlama) (Monster Slayer)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Swift Quiver (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Hunter), Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Swift Quiver (Alt) (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Hunter), Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Tree Stride (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Hunter), Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Bane (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Monster Slayer)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Protection from Evil and Good (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Monster Slayer), Ranger (Alt. LaserLlama) (Planar Warden)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Moonbeam (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Monster Slayer)</classes>
-    <text/>
   </spell>
   <spell>
     <name>See Invisibility (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Monster Slayer)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Magic Circle (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Monster Slayer), Ranger (Alt. LaserLlama) (Planar Warden)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Banishment (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Monster Slayer), Ranger (Alt. LaserLlama) (Planar Warden)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Dispel Evil and Good (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Monster Slayer), Ranger (Alt. LaserLlama) (Spellbreaker)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Hold Monster (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Monster Slayer)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Absorb Elements (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Spellbreaker), Ranger (Alt. LaserLlama), Ranger (Alt. LaserLlama) (Drake Guard)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Detect Magic (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Spellbreaker), Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Blindness/Deafness (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Spellbreaker)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Silence (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Spellbreaker), Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Counterspell (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Spellbreaker)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Counterspell (Alt) (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Spellbreaker)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Dispel Magic (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Spellbreaker), Ranger (Alt. LaserLlama), Ranger (Alt. LaserLlama) (Fey Wanderer)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Arcane Eye (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Spellbreaker), Ranger (Alt. LaserLlama) (Swarm Keeper)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Otiluke's Resilient Sphere (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Spellbreaker)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Wall of Force (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Spellbreaker)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Wall of Force (Alt) (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Spellbreaker)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Alarm (TP)</name>
     <classes>Ranger (Alt. LaserLlama), Ranger (Alt. LaserLlama) (Planar Warden)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Cure Wounds (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Detect Poison and Disease (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Ensnaring Strike (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Ensnaring Strike (Alt) (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Entangle (TP)</name>
     <classes>Ranger (Alt. LaserLlama), Ranger (Alt. LaserLlama) (Swarm Keeper)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Fog Cloud (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Goodberry (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Hail of Thorns (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Hail of Thorns (Alt) (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Jump (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Jump (Alt) (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Longstrider (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Purify Food and Drink (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Snare (TP)</name>
     <classes>Ranger (Alt. LaserLlama), Ranger (Alt. LaserLlama) (Hunter)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Speak with Animals (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Zephyr Strike (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Aid (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Animal Messenger (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Barkskin (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Conjure Beast (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Continual Flame (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Cordon of Arrows (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Cordon of Arrows (Alt) (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Darkvision (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Enhance Ability (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Find Traps (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Gust of Wind (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Healing Spirit (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Magic Weapon (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Magic Weapon (Alt) (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Protection from Poison (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Restoration (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Spike Growth (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Conjure Elemental (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Conjure Elemental (Alt) (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Conjure Fey (TP)</name>
     <classes>Ranger (Alt. LaserLlama), Ranger (Alt. LaserLlama) (Fey Wanderer)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Conjure Fey (Alt) (TP)</name>
     <classes>Ranger (Alt. LaserLlama), Ranger (Alt. LaserLlama) (Fey Wanderer)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Daylight (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Elemental Weapon (TP)</name>
     <classes>Ranger (Alt. LaserLlama), Ranger (Alt. LaserLlama) (Drake Guard)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Flame Arrows (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Flame Arrows (Alt) (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Grasping Vine (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Grasping Vine (Alt) (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Lightning Arrow (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Lightning Arrow (Alt) (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Meld Into Stone (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Nondetection (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Plant Growth (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Revivify (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Speak with Plants (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Leomund's Tiny Hut (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Leomund's Tiny Hut (Alt) (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Water Breathing (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Water Walk (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Wind Wall (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Death Ward (Alt) (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Divination (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Dominate Beast (TP)</name>
     <classes>Ranger (Alt. LaserLlama), Ranger (Alt. LaserLlama) (Drake Guard)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Guardian of Nature (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Stoneskin (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Contagion (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Steel Wind Strike (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Steel Wind Strike (Alt) (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Wrath of Nature (TP)</name>
     <classes>Ranger (Alt. LaserLlama)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Cause Fear (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Deep Stalker), Ranger (Alt. LaserLlama) (Fey Wanderer)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Disguise Self (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Deep Stalker)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Darkness (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Deep Stalker)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Invisibility (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Deep Stalker)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Fear (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Deep Stalker), Ranger (Alt. LaserLlama) (Drake Guard)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Greater Invisibility (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Deep Stalker)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Phantasmal Killer (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Deep Stalker)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Mislead (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Deep Stalker), Ranger (Alt. LaserLlama) (Fey Wanderer)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Seeming (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Deep Stalker)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Command (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Drake Guard)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Dragon's Breath (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Drake Guard)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Elemental Bane (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Drake Guard)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Conjure Dragon (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Drake Guard)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Charm Person (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Fey Wanderer)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Enthrall (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Fey Wanderer)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Misty Step (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Fey Wanderer), Ranger (Alt. LaserLlama) (Planar Warden)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Charm Monster (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Fey Wanderer)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Dimension Door (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Fey Wanderer), Ranger (Alt. LaserLlama) (Planar Warden)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Geas (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Fey Wanderer)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Rope Trick (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Planar Warden)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Planar Binding (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Planar Warden)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Teleportation Circle (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Planar Warden)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Faerie Fire (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Swarm Keeper)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Spider Climb (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Swarm Keeper)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Web (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Swarm Keeper)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Fly (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Swarm Keeper)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Gaseous Form (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Swarm Keeper)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Giant Insect (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Swarm Keeper)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Bigby's Hand (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Swarm Keeper)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Insect Plague (TP)</name>
     <classes>Ranger (Alt. LaserLlama) (Swarm Keeper)</classes>
-    <text/>
   </spell>
 </compendium>

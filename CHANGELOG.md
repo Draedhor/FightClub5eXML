@@ -1,6 +1,13 @@
 ## CHANGE LOG
 
 ### 2026-##-##
+* Added `Underdark Options` Unearthed Arcana 5.5e Content, shared by @ViannaEuphoria.
+* Added `The Lord of the Rings` 5e content, shared by @ViannaEuphoria.
+* Added `Forgotten Realms: Adventures in Faerûn` 5.5e content, shared by @KnightCA.
+* Added 2 classes from `Book of Classes` 5e kickstarter content (Ninja & Dimentionalist), shared by @ViannaEuphoria.
+* Other changes and fixes.
+
+### 2026-06-30
 * Added `Ravenloft: The Horrors Within` 5.5e content, shared by @vokyal84.
 * Added Avantris' `The Crooked Moon` 5e content, shared by @SillyK.
 * Added Ben Huffman's `The Pugilist Class` 5.5e edition, shared by @ViannaEuphoria.
@@ -16,8 +23,10 @@
 * Added `Villainous Options (UA24)` 5.5e Unearthed Arcana, shared by @ViannaEuphoria.
 * Added `Villainous Options 2 (UA24)` 5.5e Unearthed Arcana, shared by @ViannaEuphoria.
 * Added `D&D Beyond Drops` 5.5e features from May and June as Unearthed Arcana, shared by @ViannaEuphoria.
+* Fixed Wild Magic Sorcerer's Wild Surge feature by adding the missing Wild Surge table, shared by @ViannaEuphoria.
 * Fixed some XML formatting errors with help from @Garras.
 * Added an optional Android option for better Android support when merging compendiums, shared by @Nikjft.
+* Split off 'Tenets' and 'Spells' from Paladin's Oath Features into their own features.
 * Other changes and fixes.
 
 ### 2026-04-01

@@ -160,41 +160,33 @@ Source:	Grim Hollow: Player's Guide p. 50 (Third Party)</text>
   <spell>
     <name>Hold Person</name>
     <classes>Druid (Circle of Blood (Third Party))</classes>
-    <text/>
   </spell>
   <spell>
     <name>Sense Lifeblood (TP)</name>
     <classes>Druid (Circle of Blood (Third Party))</classes>
-    <text/>
   </spell>
   <spell>
     <name>Blood Bond (TP)</name>
     <classes>Druid (Circle of Blood (Third Party))</classes>
-    <text/>
   </spell>
   <spell>
     <name>Sanguine Poppet (TP)</name>
     <classes>Druid (Circle of Blood (Third Party))</classes>
-    <text/>
   </spell>
   <spell>
     <name>Circle of Scarlet (TP)</name>
     <classes>Druid (Circle of Blood (Third Party))</classes>
-    <text/>
   </spell>
   <spell>
     <name>Dark Sacrament (TP)</name>
     <classes>Druid (Circle of Blood (Third Party))</classes>
-    <text/>
   </spell>
   <spell>
     <name>Dominate Person</name>
     <classes>Druid (Circle of Blood (Third Party))</classes>
-    <text/>
   </spell>
   <spell>
     <name>Mortality (TP)</name>
     <classes>Druid (Circle of Blood (Third Party))</classes>
-    <text/>
   </spell>
 </compendium>

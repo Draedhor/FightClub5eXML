@@ -84,22 +84,25 @@ Source:	Player's Handbook (2024) p. 165</text>
         <name>Becoming A Wizard As A Level 1 Character</name>
         <text>As a 1st-level Wizard, you begin play with 6 + your Constitution modifier hit points.
 
-Core Wizard Traits
-Primary Ability: Intelligence
-Hit Point Die: D6 per Wizard level
-Saving Throw Proficiencies: Intelligence and Wisdom
-Skill Proficiencies: Choose 2: Arcana, History, Insight, Investigation, Medicine, Nature, or Religion
-Weapon Proficiencies: Simple weapons
-Armor Training: None
-Starting Equipment: Choose A or 8: (A) 2 Daggers, Arcane Focus (Quarterstaff), Robe, Spellbook, Scholar's Pack, and 5 GP; or (B) 55 GP
+Core Wizard Traits:
+	• Primary Ability: Intelligence
+	• Hit Point Die: D6 per Wizard level
+	• Saving Throw Proficiencies: Intelligence and Wisdom
+	• Skill Proficiencies: Choose 2: Arcana, History, Insight, Investigation, Medicine, Nature, or Religion
+	• Weapon Proficiencies: Simple weapons
+	• Armor Training: None
+
+You start with the following equipment, in addition to the equipment granted by your background (choose A or B):
+	• (A) 2 Daggers, Arcane Focus (Quarterstaff), Robe, Spellbook, Scholar's Pack, and 5 GP
+	• (B) 55 GP
 
 Source:	Player's Handbook (2024) p. 165</text>
       </feature>
       <feature optional="YES">
         <name>Becoming A Wizard As A Multiclass Character</name>
-        <text>Core Wizard Traits
-Primary Ability: Intelligence
-Hit Point Die: D6 per Wizard level
+        <text>Core Wizard Traits:
+	• Primary Ability: Intelligence
+	• Hit Point Die: D6 per Wizard level
 
 Source:	Player's Handbook (2024) p. 165</text>
       </feature>
@@ -107,8 +110,8 @@ Source:	Player's Handbook (2024) p. 165</text>
         <name>Spellcasting</name>
         <text>As a student of arcane magic, you have learned to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Wizard spells, which appear in the Wizard spell list later in the class's description.
 
-	Cantrips. You know three Wizard cantrips of your choice. Light, Mage Hand, and Ray of Frost are recommended. Whenever you finish a Long Rest. you can replace one of your can trips from this feature with another Wizard cantrip of your choice.
-	When you reach Wizard levels 4 and 10, you learn another Wizard cant rip of your choice, as shown in the Cantrips column of the Wizard Features table.
+	Cantrips. You know three Wizard cantrips of your choice. Light, Mage Hand, and Ray of Frost are recommended. Whenever you finish a Long Rest. you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
+	When you reach Wizard levels 4 and 10, you learn another Wizard cantrip of your choice, as shown in the Cantrips column of the Wizard Features table.
 
 	Spellbook. Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds. contains 100 pages, and can be read only by you or someone casting Identify. You determine the book's appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
 	The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. Detect Magic, Feather Fall, Mage Armor, Magic Missile. Sleep, and Thunderwave are recommended.

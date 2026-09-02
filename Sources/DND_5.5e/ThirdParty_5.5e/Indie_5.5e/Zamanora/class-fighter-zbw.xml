@@ -197,6 +197,20 @@ Source:	Zamanora: Ballad of the Witch p. 83 (Homebrew)</text>
 
 Source:	Zamanora: Ballad of the Witch p. 83 (Homebrew)</text>
       </feature>
+      <counter>
+        <name>Weave Cleaver</name>
+        <value>3</value>
+        <reset>L</reset>
+        <subclass>Witch Knight (Zamanora) (HB)</subclass>
+      </counter>
+    </autolevel>
+    <autolevel level="9">
+      <counter>
+        <name>Weave Cleaver</name>
+        <value>4</value>
+        <reset>L</reset>
+        <subclass>Witch Knight (Zamanora) (HB)</subclass>
+      </counter>
     </autolevel>
     <autolevel level="10">
       <feature optional="YES">
@@ -206,6 +220,14 @@ Source:	Zamanora: Ballad of the Witch p. 83 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 83 (Homebrew)</text>
       </feature>
     </autolevel>
+    <autolevel level="13">
+      <counter>
+        <name>Weave Cleaver</name>
+        <value>5</value>
+        <reset>L</reset>
+        <subclass>Witch Knight (Zamanora) (HB)</subclass>
+      </counter>
+    </autolevel>
     <autolevel level="15">
       <feature optional="YES">
         <name>Witch Knight Ascension (Witch Knight (Zamanora) (TP))</name>
@@ -213,6 +235,14 @@ Source:	Zamanora: Ballad of the Witch p. 83 (Homebrew)</text>
 
 Source:	Zamanora: Ballad of the Witch p. 83 (Homebrew)</text>
       </feature>
+    </autolevel>
+    <autolevel level="17">
+      <counter>
+        <name>Weave Cleaver</name>
+        <value>6</value>
+        <reset>L</reset>
+        <subclass>Witch Knight (Zamanora) (HB)</subclass>
+      </counter>
     </autolevel>
     <autolevel level="18">
       <feature optional="YES">

@@ -36,8 +36,7 @@
       <text>40 + 10 for each spell level above 3.</text>
     </trait>
     <trait>
-      <name>Incorporeal Passage (ectoplasmic Entity And Ghostly
-Entity Only) (UA)</name>
+      <name>Incorporeal Passage (ectoplasmic Entity And Ghostly Entity Only) (UA)</name>
       <text>The spirit can move through other creatures and objects as if they were Difficult Terrain. If the spirit ends its turn in such a space, it is shunted to the nearest unoccupied space and takes 1d10 Force damage for every 5 feet traveled.</text>
       <attack>Force Damage||1d10</attack>
     </trait>

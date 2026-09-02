@@ -20,6 +20,7 @@ The tenets of the Oath of Pestilence emphasize the role of disease as a purifyin
 Oath Spells:
 You gain oath spells at the paladin levels listed in the Oath of Pestilence Spells table. See the Sacred Oath class feature for how oath spells work.
 
+Oath of Pestilence Spells:
 Paladin Level | Spells
 3rd | bane, inflict wounds
 5th | acid arrow, ray of enfeeblement
@@ -83,7 +84,7 @@ Source:	Grim Hollow: Player's Guide p. 57 (Third Party)</text>
         <name>Paladin Subclass: Oath of Zeal (TP) (Legacy)</name>
         <text>The Oath of Zeal is taken by paladins consumed by hatred for a specific group or ideology. Zealots, as these paladins are sometimes called, pursue an inquisition against their enemies at all costs. They abandon compassion and honor as impediments to the more important work of ridding the world of those they deem dangerous or heretical.
 
-Tenets of Zeal
+Tenets of Zeal:
 The tenets of the Oath of Zeal are serious and severe, as are those paladins who choose to take them.
 
 	Uncover Corruption. Darkness cannot abide the light of day. Wickedness must be revealed before it can be destroyed.
@@ -164,96 +165,77 @@ Source:	Grim Hollow: Player's Guide p. 58 (Third Party)</text>
   <spell>
     <name>Bane</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
-    <text/>
   </spell>
   <spell>
     <name>Inflict Wounds</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
-    <text/>
   </spell>
   <spell>
     <name>Acid Arrow</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
-    <text/>
   </spell>
   <spell>
     <name>Ray of Enfeeblement</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
-    <text/>
   </spell>
   <spell>
     <name>Flash Fever</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
-    <text/>
   </spell>
   <spell>
     <name>Stinking Cloud</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
-    <text/>
   </spell>
   <spell>
     <name>Blight</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
-    <text/>
   </spell>
   <spell>
     <name>Confusion</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
-    <text/>
   </spell>
   <spell>
     <name>Contagion</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
-    <text/>
   </spell>
   <spell>
     <name>Insect Plague</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow)), Paladin (Oath of Zeal)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Detect Evil and Good</name>
     <classes>Paladin (Oath of Zeal)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Hunter's Mark</name>
     <classes>Paladin (Oath of Zeal)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Detect Thoughts</name>
     <classes>Paladin (Oath of Zeal)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Knock</name>
     <classes>Paladin (Oath of Zeal)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Fear</name>
     <classes>Paladin (Oath of Zeal)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Tongues</name>
     <classes>Paladin (Oath of Zeal)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Divination</name>
     <classes>Paladin (Oath of Zeal)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Locate Creature</name>
     <classes>Paladin (Oath of Zeal)</classes>
-    <text/>
   </spell>
   <spell>
     <name>Scrying</name>
     <classes>Paladin (Oath of Zeal)</classes>
-    <text/>
   </spell>
 </compendium>
