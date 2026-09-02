@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Bonze's Bokken, Wind Ripper Double-Bladed Scimitar (Uncommon) (TP)</name>
+    <name>Bonze's Bokken, Wind Ripper Double-Bladed Scimitar (Uncommon) [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -33,7 +33,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">1d8</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Double-Bladed Scimitar (Rare) (TP)</name>
+    <name>Bonze's Bokken, Wind Ripper Double-Bladed Scimitar (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -65,7 +65,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">1d10</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Double-Bladed Scimitar (Very Rare) (TP)</name>
+    <name>Bonze's Bokken, Wind Ripper Double-Bladed Scimitar (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -100,7 +100,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">1d12</roll>
   </item>
   <item>
-    <name>Bonze's Bokken, Wind Ripper Double-Bladed Scimitar (Legendary) (TP)</name>
+    <name>Bonze's Bokken, Wind Ripper Double-Bladed Scimitar (Legendary) [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -135,7 +135,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443,
     <roll description="Thunder Damage">2d8</roll>
   </item>
   <item>
-    <name>Tail's End Double-Bladed Scimitar (Rare) (TP)</name>
+    <name>Tail's End Double-Bladed Scimitar (Rare) [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -164,7 +164,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 480,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Tail's End Double-Bladed Scimitar (Very Rare) (TP)</name>
+    <name>Tail's End Double-Bladed Scimitar (Very Rare) [TP Legacy]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -193,7 +193,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 480,
     <roll description="Slashing Damage">1d8</roll>
   </item>
   <item>
-    <name>Jaw Breakers Double-Bladed Scimitars (Rare) (TP)</name>
+    <name>Jaw Breakers Double-Bladed Scimitars (Rare) [TP Legacy]</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -226,7 +226,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Jaw Breakers Double-Bladed Scimitars (Very Rare) (TP)</name>
+    <name>Jaw Breakers Double-Bladed Scimitars (Very Rare) [TP Legacy]</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -259,7 +259,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Terrorasque Double-Bladed Scimitars (Rare) (TP)</name>
+    <name>Terrorasque Double-Bladed Scimitars (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -290,7 +290,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 489,
     <roll description="Recharge">1d4+1</roll>
   </item>
   <item>
-    <name>Terrorasque Double-Bladed Scimitars (Very Rare) (TP)</name>
+    <name>Terrorasque Double-Bladed Scimitars (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Tamer (TP)</name>
+    <name>Tamer [TP]</name>
     <!-- Training Paradigm: Siphoner -->
     <autolevel level="3">
       <feature optional="YES">
@@ -106,43 +106,43 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 484 (Homebrew)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Cure Wounds (TP)</name>
-    <classes>Tamer (TP) (Siphoner)</classes>
+    <name>Cure Wounds [TP]</name>
+    <classes>Tamer [TP] (Siphoner)</classes>
   </spell>
   <spell>
-    <name>Tasha's Hideous Laughter (TP)</name>
-    <classes>Tamer (TP) (Siphoner)</classes>
+    <name>Tasha's Hideous Laughter [TP]</name>
+    <classes>Tamer [TP] (Siphoner)</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration (TP)</name>
-    <classes>Tamer (TP) (Siphoner)</classes>
+    <name>Lesser Restoration [TP]</name>
+    <classes>Tamer [TP] (Siphoner)</classes>
   </spell>
   <spell>
-    <name>Levitate (TP)</name>
-    <classes>Tamer (TP) (Siphoner)</classes>
+    <name>Levitate [TP]</name>
+    <classes>Tamer [TP] (Siphoner)</classes>
   </spell>
   <spell>
-    <name>Bestow Curse (TP)</name>
-    <classes>Tamer (TP) (Siphoner)</classes>
+    <name>Bestow Curse [TP]</name>
+    <classes>Tamer [TP] (Siphoner)</classes>
   </spell>
   <spell>
-    <name>Mass Healing Word (TP)</name>
-    <classes>Tamer (TP) (Siphoner)</classes>
+    <name>Mass Healing Word [TP]</name>
+    <classes>Tamer [TP] (Siphoner)</classes>
   </spell>
   <spell>
-    <name>Blight (TP)</name>
-    <classes>Tamer (TP) (Siphoner)</classes>
+    <name>Blight [TP]</name>
+    <classes>Tamer [TP] (Siphoner)</classes>
   </spell>
   <spell>
-    <name>Stoneskin (TP)</name>
-    <classes>Tamer (TP) (Siphoner)</classes>
+    <name>Stoneskin [TP]</name>
+    <classes>Tamer [TP] (Siphoner)</classes>
   </spell>
   <spell>
-    <name>Greater Restoration (TP)</name>
-    <classes>Tamer (TP) (Siphoner)</classes>
+    <name>Greater Restoration [TP]</name>
+    <classes>Tamer [TP] (Siphoner)</classes>
   </spell>
   <spell>
-    <name>Mass Cure Wounds (TP)</name>
-    <classes>Tamer (TP) (Siphoner)</classes>
+    <name>Mass Cure Wounds [TP]</name>
+    <classes>Tamer [TP] (Siphoner)</classes>
   </spell>
 </compendium>

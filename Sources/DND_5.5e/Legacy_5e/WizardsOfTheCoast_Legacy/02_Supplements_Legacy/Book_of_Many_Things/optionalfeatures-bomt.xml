@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <feat>
-    <name>Cartomancer</name>
+    <name>Cartomancer [Legacy]</name>
     <prerequisite>4th level, Spellcasting Feature</prerequisite>
     <text>You have learned to channel your magic through a deck of cards. You can use a card deck as your spellcasting focus, and you gain the following benefits:
 

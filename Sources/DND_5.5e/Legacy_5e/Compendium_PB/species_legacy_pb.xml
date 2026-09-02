@@ -30,7 +30,7 @@
     </race> -->		
 	<!-- Aasimar -->
 	<race>
-	<name>Aasimar: Fallen (Legacy)</name>
+	<name>Aasimar: Fallen [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<!-- <ability>Cha 2, Str 1</ability> -->
@@ -85,7 +85,7 @@
 	</trait>
     </race>
 	<race>
-	<name>Aasimar: Protector (Legacy)</name>
+	<name>Aasimar: Protector [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<!-- <ability>Cha 2, Wis 1</ability> -->
@@ -135,7 +135,7 @@
 	</trait>
 	</race>
 	<race>
-	<name>Aasimar: Scourge (Legacy)</name>
+	<name>Aasimar: Scourge [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<!-- <ability>Cha 2, Con 1</ability> -->
@@ -185,7 +185,7 @@
 	</trait>
 	</race>
 	<race>
-	<name>Aasimar of Ortia (Legacy)</name>
+	<name>Aasimar of Ortia [Legacy]</name>
 	<size>S</size>
 	<speed>20</speed>
 	<!-- <ability>Int 2, Cha 1</ability> -->
@@ -371,7 +371,7 @@
     </race> -->
 	<!-- Dragonborn -->
 	<race>
-	<name>Dragonborn: Black Ancestry (Legacy)</name>
+	<name>Dragonborn: Black Ancestry [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<!-- <ability>Str 2, Cha 1</ability> -->
@@ -409,7 +409,7 @@
 	</trait>
     </race>
 	<race>
-	<name>Dragonborn: Blue Ancestry (Legacy)</name>
+	<name>Dragonborn: Blue Ancestry [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<!-- <ability>Str 2, Cha 1</ability> -->
@@ -447,7 +447,7 @@
 	</trait>
 	</race>
 	<race>
-	<name>Dragonborn: Brass Ancestry (Legacy)</name>
+	<name>Dragonborn: Brass Ancestry [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<!-- <ability>Str 2, Cha 1</ability> -->
@@ -485,7 +485,7 @@
 	</trait>
     </race>
 	<race>
-	<name>Dragonborn: Bronze Ancestry (Legacy)</name>
+	<name>Dragonborn: Bronze Ancestry [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<!-- <ability>Str 2, Cha 1</ability> -->
@@ -523,7 +523,7 @@
 	</trait>
 	</race>
 	<race>
-	<name>Dragonborn: Copper Ancestry (Legacy)</name>
+	<name>Dragonborn: Copper Ancestry [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<!-- <ability>Str 2, Cha 1</ability> -->
@@ -561,7 +561,7 @@
 	</trait>
     </race>
 	<race>
-	<name>Dragonborn: Gold Ancestry (Legacy)</name>
+	<name>Dragonborn: Gold Ancestry [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<!-- <ability>Str 2, Cha 1</ability> -->
@@ -599,7 +599,7 @@
 	</trait>
 	</race>
 	<race>
-	<name>Dragonborn: Green Ancestry (Legacy)</name>
+	<name>Dragonborn: Green Ancestry [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<!-- <ability>Str 2, Cha 1</ability> -->
@@ -637,7 +637,7 @@
 	</trait>
     </race>
 	<race>
-	<name>Dragonborn: Red Ancestry (Legacy)</name>
+	<name>Dragonborn: Red Ancestry [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<!-- <ability>Str 2, Cha 1</ability> -->
@@ -671,7 +671,7 @@
 	</trait>
 	</race>
 	<race>
-	<name>Dragonborn: Silver Ancestry (Legacy)</name>
+	<name>Dragonborn: Silver Ancestry [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<!-- <ability>Str 2, Cha 1</ability> -->
@@ -705,7 +705,7 @@
 	</trait>
 	</race>
 	<race>
-	<name>Dragonborn: White Ancestry (Legacy)</name>
+	<name>Dragonborn: White Ancestry [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<!-- <ability>Str 2, Cha 1</ability> -->
@@ -739,7 +739,7 @@
 	</trait>
 	</race>
 	<race>
-    <name>Dragonborn: Amethyst Ancestry (Legacy)</name>
+    <name>Dragonborn: Amethyst Ancestry [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <proficiency />
@@ -802,7 +802,7 @@ You can use your Breath Weapon a number of times equal to your proficiency bonus
     </trait>
     </race>
     <race>
-    <name>Dragonborn: Crystal Ancestry (Legacy)</name>
+    <name>Dragonborn: Crystal Ancestry [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <proficiency />
@@ -865,7 +865,7 @@ You can use your Breath Weapon a number of times equal to your proficiency bonus
     </trait>
     </race>
     <race>
-    <name>Dragonborn: Emerald Ancestry (Legacy)</name>
+    <name>Dragonborn: Emerald Ancestry [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <proficiency />
@@ -928,7 +928,7 @@ You can use your Breath Weapon a number of times equal to your proficiency bonus
     </trait>
     </race>
     <race>
-    <name>Dragonborn: Sapphire Ancestry (Legacy)</name>
+    <name>Dragonborn: Sapphire Ancestry [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <proficiency />
@@ -991,7 +991,7 @@ You can use your Breath Weapon a number of times equal to your proficiency bonus
     </trait>
     </race>
     <race>
-    <name>Dragonborn: Topaz Ancestry (Legacy)</name>
+    <name>Dragonborn: Topaz Ancestry [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <proficiency />
@@ -1055,7 +1055,7 @@ You can use your Breath Weapon a number of times equal to your proficiency bonus
     </race>
 
     <race>
-	<name>Dragonborn: Black Ravenite (Legacy)</name>
+	<name>Dragonborn: Black Ravenite [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Str 2, Con 1</ability>
@@ -1148,7 +1148,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
     </race>
 	<race>
-	<name>Dragonborn: Blue Ravenite (Legacy)</name>
+	<name>Dragonborn: Blue Ravenite [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Str 2, Con 1</ability>
@@ -1241,7 +1241,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Dragonborn: Brass Ravenite (Legacy)</name>
+	<name>Dragonborn: Brass Ravenite [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Str 2, Con 1</ability>
@@ -1338,7 +1338,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
     </race>
 	<race>
-	<name>Dragonborn: Bronze Ravenite (Legacy)</name>
+	<name>Dragonborn: Bronze Ravenite [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Str 2, Con 1</ability>
@@ -1435,7 +1435,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Dragonborn: Copper Ravenite (Legacy)</name>
+	<name>Dragonborn: Copper Ravenite [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Str 2, Con 1</ability>
@@ -1532,7 +1532,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
     </race>
 	<race>
-	<name>Dragonborn: Gold Ravenite (Legacy)</name>
+	<name>Dragonborn: Gold Ravenite [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Str 2, Con 1</ability>
@@ -1629,7 +1629,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Dragonborn: Green Ravenite (Legacy)</name>
+	<name>Dragonborn: Green Ravenite [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Str 2, Con 1</ability>
@@ -1726,7 +1726,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
     </race>
 	<race>
-	<name>Dragonborn: Red Ravenite (Legacy)</name>
+	<name>Dragonborn: Red Ravenite [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Str 2, Con 1</ability>
@@ -1819,7 +1819,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Dragonborn: Silver Ravenite (Legacy)</name>
+	<name>Dragonborn: Silver Ravenite [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Str 2, Con 1</ability>
@@ -1912,7 +1912,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Dragonborn: White Ravenite (Legacy)</name>
+	<name>Dragonborn: White Ravenite [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Str 2, Con 1</ability>
@@ -2006,7 +2006,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</race>
 
 	<race>
-	<name>Dragonborn: Black Draconblood (Legacy)</name>
+	<name>Dragonborn: Black Draconblood [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Int 2, Con 1</ability>
@@ -2099,7 +2099,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
     </race>
 	<race>
-	<name>Dragonborn: Blue Draconblood (Legacy)</name>
+	<name>Dragonborn: Blue Draconblood [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Int 2, Cha 1</ability>
@@ -2192,7 +2192,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Dragonborn: Brass Draconblood (Legacy)</name>
+	<name>Dragonborn: Brass Draconblood [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Int 2, Cha 1</ability>
@@ -2289,7 +2289,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
     </race>
 	<race>
-	<name>Dragonborn: Bronze Draconblood (Legacy)</name>
+	<name>Dragonborn: Bronze Draconblood [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Int 2, Cha 1</ability>
@@ -2386,7 +2386,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Dragonborn: Copper Draconblood (Legacy)</name>
+	<name>Dragonborn: Copper Draconblood [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Int 2, Cha 1</ability>
@@ -2483,7 +2483,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
     </race>
 	<race>
-	<name>Dragonborn: Gold Draconblood (Legacy)</name>
+	<name>Dragonborn: Gold Draconblood [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Int 2, Cha 1</ability>
@@ -2580,7 +2580,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Dragonborn: Green Draconblood (Legacy)</name>
+	<name>Dragonborn: Green Draconblood [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Int 2, Cha 1</ability>
@@ -2677,7 +2677,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
     </race>
 	<race>
-	<name>Dragonborn: Red Draconblood (Legacy)</name>
+	<name>Dragonborn: Red Draconblood [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Int 2, Cha 1</ability>
@@ -2770,7 +2770,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Dragonborn: Silver Draconblood (Legacy)</name>
+	<name>Dragonborn: Silver Draconblood [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Int 2, Cha 1</ability>
@@ -2863,7 +2863,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Dragonborn: White Draconblood (Legacy)</name>
+	<name>Dragonborn: White Draconblood [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Int 2, Cha 1</ability>
@@ -2957,7 +2957,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</race>
 	<!-- Dwarf -->
 	<race>
-	<name>Dwarf of the Hills (Legacy)</name>
+	<name>Dwarf of the Hills [Legacy]</name>
 	<size>M</size>
 	<speed>25</speed>
 	<!-- <ability>Con 2, Wis 1</ability> -->
@@ -3012,7 +3012,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	<modifier category="bonus">hp +1</modifier>
     </race>
 	<race>
-	<name>Dwarf of the Mountains (Legacy)</name>
+	<name>Dwarf of the Mountains [Legacy]</name>
 	<size>M</size>
 	<speed>25</speed>
 	<ability>Con 2, Str 2</ability>
@@ -3279,7 +3279,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race> -->
 	<race>
-	<name>Elf: Wood (Legacy)</name>
+	<name>Elf: Wood [Legacy]</name>
 	<size>M</size>
 	<speed>35</speed>
 	<!-- <ability>Dex 2, Wis 1</ability> -->
@@ -3339,7 +3339,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
     </race>
 	<race>
-	<name>Elf: Drow (Legacy)</name>
+	<name>Elf: Drow [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<!-- <ability>Dex 2, Chr 1</ability> -->
@@ -3567,7 +3567,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race> -->
 	<race>
-	<name>Elf of Aerenal: High (Legacy)</name>
+	<name>Elf of Aerenal: High [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<!-- <ability>Dex 2, Int 1</ability> -->
@@ -3617,7 +3617,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Elf of Aerenal: Wood (Legacy)</name>
+	<name>Elf of Aerenal: Wood [Legacy]</name>
 	<size>M</size>
 	<speed>35</speed>
 	<!-- <ability>Dex 2, Wis 1</ability> -->
@@ -3675,7 +3675,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Elf of Valenar: High (Legacy)</name>
+	<name>Elf of Valenar: High [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<!-- <ability>Dex 2, Int 1</ability> -->
@@ -3727,7 +3727,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Elf of Valenar: Wood (Legacy)</name>
+	<name>Elf of Valenar: Wood [Legacy]</name>
 	<size>M</size>
 	<speed>35</speed>
 	<!-- <ability>Dex 2, Wis 1</ability> -->
@@ -3949,7 +3949,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</race> -->
 	<!-- Genasi -->
 	<race>
-	<name>Genasi of Air (Legacy)</name>
+	<name>Genasi of Air [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<!-- <ability>Con 2, Dex 1</ability> -->
@@ -3982,7 +3982,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Genasi of Earth (Legacy)</name>
+	<name>Genasi of Earth [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<!-- <ability>Con 2, Str 1</ability> -->
@@ -4015,7 +4015,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Genasi of Fire (Legacy)</name>
+	<name>Genasi of Fire [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<!-- <ability>Con 2, Int 1</ability> -->
@@ -4055,7 +4055,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Genasi of Water (Legacy)</name>
+	<name>Genasi of Water [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<!-- <ability>Con 2, Wis 1</ability> -->
@@ -4159,7 +4159,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</race> -->
 	<!-- Gnome -->
 	<race>
-	<name>Gnome of the Forests (Legacy)</name>
+	<name>Gnome of the Forests [Legacy]</name>
 	<size>S</size>
 	<speed>25</speed>
 	<!-- <ability>Int 2, Dex 1</ability> -->
@@ -4201,7 +4201,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Gnome of the Rocks (Legacy)</name>
+	<name>Gnome of the Rocks [Legacy]</name>
 	<size>S</size>
 	<speed>25</speed>
 	<!-- <ability>Int 2, Con 1</ability> -->
@@ -4759,7 +4759,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</race> -->
 	<!-- Half-Orc -->
 	<race>
-	<name>Half-Orc (Legacy)</name>
+	<name>Half-Orc [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<!-- <ability>Str 2, Con 1</ability> -->
@@ -4842,7 +4842,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</race> -->
 	<!-- Halfling -->
 	<race>
-	<name>Halfling: Lightfoot (Legacy)</name>
+	<name>Halfling: Lightfoot [Legacy]</name>
 	<size>S</size>
 	<speed>25</speed>
 	<!-- <ability>Dex 2, Cha 1</ability> -->
@@ -4884,7 +4884,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Halfling: Stout (Legacy)</name>
+	<name>Halfling: Stout [Legacy]</name>
 	<size>S</size>
 	<speed>25</speed>
 	<!-- <ability>Dex 2, Con 1</ability> -->
@@ -5126,7 +5126,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</race> -->
 	<!-- Human -->
 	<race>
-	<name>Human (Legacy)</name>
+	<name>Human [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Str 1, Dex 1, Con 1, Int 1, Wis 1, Cha 1</ability>
@@ -5140,7 +5140,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Human Variant (Legacy)</name>
+	<name>Human Variant [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability/>
@@ -5952,7 +5952,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</race> -->
 	<!-- Tiefling -->
 	<race>
-	<name>Tiefling (Legacy)</name>
+	<name>Tiefling [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Cha 2, Int 1</ability>
@@ -5984,7 +5984,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Tiefling of Asmodeus (Legacy)</name>
+	<name>Tiefling of Asmodeus [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Cha 2, Int 1</ability>
@@ -6022,7 +6022,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</feature>
 	</race>
 	<race>
-	<name>Tiefling of Baalzebul (Legacy)</name>
+	<name>Tiefling of Baalzebul [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Cha 2, Int 1</ability>
@@ -6060,7 +6060,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Tiefling of Dispater (Legacy)</name>
+	<name>Tiefling of Dispater [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Cha 2, Dex 1</ability>
@@ -6098,7 +6098,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</feature>
 	</race>
 	<race>
-	<name>Tiefling of Fierna (Legacy)</name>
+	<name>Tiefling of Fierna [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Cha 2, Wis 1</ability>
@@ -6136,7 +6136,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</feature>
 	</race>
 	<race>
-	<name>Tiefling of Glasya (Legacy)</name>
+	<name>Tiefling of Glasya [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Cha 2, Dex 1</ability>
@@ -6174,7 +6174,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</feature>
 	</race>
 	<race>
-	<name>Tiefling of Levistus (Legacy)</name>
+	<name>Tiefling of Levistus [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Cha 2, Con 1</ability>
@@ -6212,7 +6212,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</feature>
 	</race>
 	<race>
-	<name>Tiefling of Mammon (Legacy)</name>
+	<name>Tiefling of Mammon [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Cha 2, Int 1</ability>
@@ -6250,7 +6250,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</feature>
 	</race>
 	<race>
-	<name>Tiefling of Mephistopheles (Legacy)</name>
+	<name>Tiefling of Mephistopheles [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Cha 2, Int 1</ability>
@@ -6288,7 +6288,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</feature>
 	</race>
 	<race>
-	<name>Tiefling of Zariel (Legacy)</name>
+	<name>Tiefling of Zariel [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Cha 2, Str 1</ability>
@@ -6326,7 +6326,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</feature>
 	</race>
 	<race>
-	<name>Tiefling Variant (Legacy)</name>
+	<name>Tiefling Variant [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Cha 2, Int 1</ability>
@@ -6380,7 +6380,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
 	</trait>
 	</race>
 	<race>
-	<name>Tiefling Feral Variant (Legacy)</name>
+	<name>Tiefling Feral Variant [Legacy]</name>
 	<size>M</size>
 	<speed>30</speed>
 	<ability>Int 1, Dex 2</ability>

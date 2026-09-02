@@ -79,43 +79,43 @@ Source:	Book of Ebon Tides p. 46 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Detect Poison and Disease</name>
+    <name>Detect Poison and Disease [TP Legacy]</name>
     <classes>Warlock (Mother of Sorrows (Third Party))</classes>
   </spell>
   <spell>
-    <name>Inflict Wounds</name>
+    <name>Inflict Wounds [TP Legacy]</name>
     <classes>Warlock (Mother of Sorrows (Third Party))</classes>
   </spell>
   <spell>
-    <name>Ray of Enfeeblement</name>
+    <name>Ray of Enfeeblement [TP Legacy]</name>
     <classes>Warlock (Mother of Sorrows (Third Party))</classes>
   </spell>
   <spell>
-    <name>Silence</name>
+    <name>Silence [TP Legacy]</name>
     <classes>Warlock (Mother of Sorrows (Third Party))</classes>
   </spell>
   <spell>
-    <name>Stinking Cloud</name>
+    <name>Stinking Cloud [TP Legacy]</name>
     <classes>Warlock (Mother of Sorrows (Third Party))</classes>
   </spell>
   <spell>
-    <name>Vampiric Touch</name>
+    <name>Vampiric Touch [TP Legacy]</name>
     <classes>Warlock (Mother of Sorrows (Third Party))</classes>
   </spell>
   <spell>
-    <name>Greater Invisibility</name>
+    <name>Greater Invisibility [TP Legacy]</name>
     <classes>Warlock (Mother of Sorrows (Third Party))</classes>
   </spell>
   <spell>
-    <name>Phantasmal Killer</name>
+    <name>Phantasmal Killer [TP Legacy]</name>
     <classes>Warlock (Mother of Sorrows (Third Party))</classes>
   </spell>
   <spell>
-    <name>Cloudkill</name>
+    <name>Cloudkill [TP Legacy]</name>
     <classes>Warlock (Mother of Sorrows (Third Party))</classes>
   </spell>
   <spell>
-    <name>Contagion</name>
+    <name>Contagion [TP Legacy]</name>
     <classes>Warlock (Mother of Sorrows (Third Party))</classes>
   </spell>
 </compendium>

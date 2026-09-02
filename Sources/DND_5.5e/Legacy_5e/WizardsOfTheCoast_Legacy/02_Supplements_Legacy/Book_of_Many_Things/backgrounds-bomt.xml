@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Rewarded (Legacy)</name>
+    <name>Rewarded [Legacy]</name>
     <proficiency>Insight, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -46,7 +46,7 @@ d6 | Personality Trait
     </trait>
   </background>
   <background>
-    <name>Ruined (Legacy)</name>
+    <name>Ruined [Legacy]</name>
     <proficiency>Stealth, Survival</proficiency>
     <trait>
       <name>Description</name>

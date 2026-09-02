@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Harkon's Bite</name>
+    <name>Harkon's Bite [Legacy]</name>
     <detail>uncommon, cursed (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -33,7 +33,7 @@ Source:	Van Richten's Guide to Ravenloft p. 137</text>
     <modifier category="skill">survival +1</modifier>
   </item>
   <item>
-    <name>Nepenthe</name>
+    <name>Nepenthe [Legacy]</name>
     <detail>longsword, legendary (requires attunement by a paladin)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -57,7 +57,7 @@ Source:	Van Richten's Guide to Ravenloft p. 86</text>
     <modifier category="bonus">melee damage +3</modifier>
   </item>
   <item>
-    <name>Ivana's Whisper</name>
+    <name>Ivana's Whisper [Legacy]</name>
     <detail>poison (inhaled)</detail>
     <type>G</type>
     <text>This poison bears a distinct scent and chemical message from Ivana Boritsi. A creature subjected to this poison must succeed on a DC 18 Constitution saving throw or experience the effects of a dream spell created by Ivana the next time they sleep. This poison is nonmagical, and Ivana doesn't directly communicate with those affected during the dream. Rather, she creates the illusion of speaking with her intended target by alchemically crafting her message, predicting her target's reactions, and chemically encoding in her responses. She wears this poison as a perfume or hides it within gift bouquets, allowing it to convey her message later.
@@ -69,7 +69,7 @@ Inhaled: These poisons are powders or gases that take effect when inhaled. Blowi
 Source:	Van Richten's Guide to Ravenloft p. 83</text>
   </item>
   <item>
-    <name>Trinket (Horror)</name>
+    <name>Trinket (Horror) [Legacy]</name>
     <type>G</type>
     <text>Sinister deeds and festering evils take many forms, sometimes as stories and sometimes as physical scars. All manner of talismans, mementos, criminal evidence, mysterious devices, cursed relics, and physical impossibilities might embody just such scars - summaries of terrors in material form.
 	Before you finish making a character, roll once on the Horror Trinkets table for a unique object your character has with them at the start of their adventuring career. These trinkets hint toward various horrific tales and might lead to dreadful revelations or be nothing more than grim keepsakes. At the DM's discretion any of these trinkets might also be a Mist talisman (detailed in chapter 3), a focal item that can lead the bearer through the Mists to a particular Domain of Dread.

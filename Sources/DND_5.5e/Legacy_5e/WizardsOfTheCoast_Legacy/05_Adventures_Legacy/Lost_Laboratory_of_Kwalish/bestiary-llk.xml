@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Brain in a Jar (Noncore)</name>
+    <name>Brain in a Jar (Noncore) [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Any alignment</alignment>
@@ -52,7 +52,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Clockwork Kraken</name>
+    <name>Clockwork Kraken [Legacy]</name>
     <sortname>Kraken, Clockwork</sortname>
     <ancestry>Kraken</ancestry>
     <size>L</size>
@@ -98,7 +98,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Garret Levistusson</name>
+    <name>Garret Levistusson [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -158,7 +158,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Gloine Nathair-Nathair</name>
+    <name>Gloine Nathair-Nathair [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Lawful Evil</alignment>
@@ -212,7 +212,7 @@ If Gloine sees itself reflected on a polished surface within 30 feet of it and i
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Mary Greymalkin</name>
+    <name>Mary Greymalkin [Legacy]</name>
     <sortname>Greymalkin, Mary</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -268,7 +268,7 @@ If Gloine sees itself reflected on a polished surface within 30 feet of it and i
     <environment/>
   </monster>
   <monster>
-    <name>Ooze-Folk</name>
+    <name>Ooze-Folk [Legacy]</name>
     <size>M</size>
     <type>ooze</type>
     <alignment>Unaligned</alignment>

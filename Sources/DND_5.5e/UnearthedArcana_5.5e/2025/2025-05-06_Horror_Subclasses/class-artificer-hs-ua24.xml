@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Artificer (UA)</name>
+    <name>Artificer [UA]</name>
     <!-- Artificer Subclass: Reanimator (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -86,7 +86,7 @@ Source:	UA2024-Horror Subclasses p. 2</text>
     </autolevel>
   </class>
   <monster>
-    <name>Reanimated Companion (UA)</name>
+    <name>Reanimated Companion [UA]</name>
     <size>S</size>
     <type>undead</type>
     <alignment>Neutral</alignment>
@@ -137,47 +137,47 @@ Source:	UA2024-Horror Subclasses p. 2</text>
     <environment/>
   </monster>
   <spell>
-    <name>False Life (UA)</name>
+    <name>False Life [UA]</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
   <spell>
-    <name>Spare the Dying (UA)</name>
+    <name>Spare the Dying [UA]</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
   <spell>
-    <name>Witch Bolt (UA)</name>
+    <name>Witch Bolt [UA]</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
   <spell>
-    <name>Blindness/Deafness (UA)</name>
+    <name>Blindness/Deafness [UA]</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
   <spell>
-    <name>Enhance Ability (UA)</name>
+    <name>Enhance Ability [UA]</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
   <spell>
-    <name>Animate Dead (UA)</name>
+    <name>Animate Dead [UA]</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
   <spell>
-    <name>Lightning Bolt (UA)</name>
+    <name>Lightning Bolt [UA]</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
   <spell>
-    <name>Blight (UA)</name>
+    <name>Blight [UA]</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
   <spell>
-    <name>Death Ward (UA)</name>
+    <name>Death Ward [UA]</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
   <spell>
-    <name>Antilife Shell (UA)</name>
+    <name>Antilife Shell [UA]</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
   <spell>
-    <name>Raise Dead (UA)</name>
+    <name>Raise Dead [UA]</name>
     <classes>Artificer: Reanimator (UA)</classes>
   </spell>
 </compendium>

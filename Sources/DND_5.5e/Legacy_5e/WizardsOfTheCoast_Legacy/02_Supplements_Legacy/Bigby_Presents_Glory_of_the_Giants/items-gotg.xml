@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Adze of Annam</name>
+    <name>Adze of Annam [Legacy]</name>
     <detail>greataxe, artifact (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -34,7 +34,7 @@ Source:	Bigby Presents: Glory of the Giants p. 110</text>
     <modifier category="bonus">melee damage +3</modifier>
   </item>
   <item>
-    <name>Bigby's Beneficent Bracelet</name>
+    <name>Bigby's Beneficent Bracelet [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>artifact (requires attunement)</detail>
@@ -59,7 +59,7 @@ Helpful Hand: As an action, you can use the bracelet to cast Bigby's hand as a 9
 Source:	Bigby Presents: Glory of the Giants p. 111</text>
   </item>
   <item>
-    <name>Bloodshed Greatsword</name>
+    <name>Bloodshed Greatsword [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -85,7 +85,7 @@ Source:	Bigby Presents: Glory of the Giants p. 111</text>
     <property>M,H,2H</property>
   </item>
   <item>
-    <name>Bloodshed Longsword</name>
+    <name>Bloodshed Longsword [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -110,7 +110,7 @@ Source:	Bigby Presents: Glory of the Giants p. 111</text>
     <property>M,V</property>
   </item>
   <item>
-    <name>Bloodshed Rapier</name>
+    <name>Bloodshed Rapier [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -134,7 +134,7 @@ Source:	Bigby Presents: Glory of the Giants p. 111</text>
     <property>M,F</property>
   </item>
   <item>
-    <name>Bloodshed Scimitar</name>
+    <name>Bloodshed Scimitar [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -160,7 +160,7 @@ Source:	Bigby Presents: Glory of the Giants p. 111</text>
     <property>M,F,L</property>
   </item>
   <item>
-    <name>Bloodshed Shortsword</name>
+    <name>Bloodshed Shortsword [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -186,7 +186,7 @@ Source:	Bigby Presents: Glory of the Giants p. 111</text>
     <property>M,F,L</property>
   </item>
   <item>
-    <name>Chain Mail of Safeguarding</name>
+    <name>Chain Mail of Safeguarding [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -203,7 +203,7 @@ Source:	Bigby Presents: Glory of the Giants p. 111</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Crown of The Wrath Bringer</name>
+    <name>Crown of The Wrath Bringer [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>rare (requires attunement)</detail>
@@ -216,7 +216,7 @@ Invoking the Rune: As an action, you can invoke the crown's rune to cast the fea
 Source:	Bigby Presents: Glory of the Giants p. 111</text>
   </item>
   <item>
-    <name>Delver's Claws</name>
+    <name>Delver's Claws [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>rare (requires attunement)</detail>
@@ -235,7 +235,7 @@ Source:	Bigby Presents: Glory of the Giants p. 112</text>
     <property>F,L</property>
   </item>
   <item>
-    <name>Elven Thrower</name>
+    <name>Elven Thrower [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>spear, very rare (requires attunement by a elf)</detail>
@@ -257,7 +257,7 @@ Source:	Bigby Presents: Glory of the Giants p. 64</text>
     <modifier category="bonus">melee damage +3</modifier>
   </item>
   <item>
-    <name>Glowrune Pigment</name>
+    <name>Glowrune Pigment [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>rare</detail>
@@ -283,7 +283,7 @@ Source:	Bigby Presents: Glory of the Giants p. 112</text>
     <roll>1d4+2</roll>
   </item>
   <item>
-    <name>Trinket (Goose Egg)</name>
+    <name>Trinket (Goose Egg) [Legacy]</name>
     <magic>YES</magic>
     <detail />
     <type>G</type>
@@ -308,7 +308,7 @@ Source:	Bigby Presents: Glory of the Giants p. 150</text>
     <roll>1d12</roll>
   </item>
   <item>
-    <name>Harp of Gilded Plenty</name>
+    <name>Harp of Gilded Plenty [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>legendary (requires attunement)</detail>
@@ -331,7 +331,7 @@ The harp has a dramatic and pompous personality, taking extreme pride in the qua
 Source:	Bigby Presents: Glory of the Giants p. 112</text>
   </item>
   <item>
-    <name>Helm of Perfect Potential</name>
+    <name>Helm of Perfect Potential [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>artifact (requires attunement)</detail>
@@ -352,7 +352,7 @@ Spellcasting: The helm has 6 charges and regains 1d6 charges each dawn. As an ac
 Source:	Bigby Presents: Glory of the Giants p. 112</text>
   </item>
   <item>
-    <name>Horizon Puzzle Cube</name>
+    <name>Horizon Puzzle Cube [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <text>A Horizon puzzle cube is an 8-inch magical cube made of gold, iron, crystal, and copper, and it is worth 5,000 gp to a sage or collector. A functioning puzzle cube can be solved with 30 minutes of work and a successful DC 25 Intelligence (Investigation) check. When the cube is solved, a 30-foot-diameter portal appears before the creature who solved the cube, leading to the northeastern platform of Horizon's Edge. The portal is two-way and remains open for 10 minutes or until a creature uses an action to change the puzzle's configuration. Puzzle cubes don't function while on Horizon's Edge, but a device somewhere in the demiplane allows a cube to function in reverse while the cube is fitted into it.
@@ -360,7 +360,7 @@ Source:	Bigby Presents: Glory of the Giants p. 112</text>
 Source:	Bigby Presents: Glory of the Giants p. 86</text>
   </item>
   <item>
-    <name>Lash of Immolation</name>
+    <name>Lash of Immolation [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>whip, rare</detail>
@@ -386,7 +386,7 @@ Source:	Bigby Presents: Glory of the Giants p. 113</text>
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Longbow of The Healing Hearth</name>
+    <name>Longbow of The Healing Hearth [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <detail>legendary (requires attunement)</detail>
@@ -422,7 +422,7 @@ Source:	Bigby Presents: Glory of the Giants p. 113</text>
     <modifier category="bonus">ranged damage +3</modifier>
   </item>
   <item>
-    <name>Lucent Destroyer</name>
+    <name>Lucent Destroyer [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -449,7 +449,7 @@ Source:	Bigby Presents: Glory of the Giants p. 113</text>
     <modifier category="bonus">ranged damage +1</modifier>
   </item>
   <item>
-    <name>Mistral Mantle</name>
+    <name>Mistral Mantle [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -464,7 +464,7 @@ Once the rune has been invoked, it can't be invoked again until the next dawn.
 Source:	Bigby Presents: Glory of the Giants p. 114</text>
   </item>
   <item>
-    <name>Nimbus Coronet</name>
+    <name>Nimbus Coronet [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -481,7 +481,7 @@ Once the rune has been invoked, it can't be invoked again until the next dawn.
 Source:	Bigby Presents: Glory of the Giants p. 114</text>
   </item>
   <item>
-    <name>Orb of Skoraeus</name>
+    <name>Orb of Skoraeus [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>legendary (requires attunement by a spellcaster)</detail>
@@ -498,7 +498,7 @@ Divine Sight: You can see normally in darkness, both magical and nonmagical, to 
 Source:	Bigby Presents: Glory of the Giants p. 114</text>
   </item>
   <item>
-    <name>Plate Armor of Safeguarding</name>
+    <name>Plate Armor of Safeguarding [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -515,7 +515,7 @@ Source:	Bigby Presents: Glory of the Giants p. 111</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Prehistoric Figurine of Wondrous Power, Carnelian Triceratops</name>
+    <name>Prehistoric Figurine of Wondrous Power, Carnelian Triceratops [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>very rare</detail>
@@ -532,7 +532,7 @@ Carnelian Triceratops: This figurine becomes a triceratops for up to 6 hours and
 Source:	Bigby Presents: Glory of the Giants p. 114</text>
   </item>
   <item>
-    <name>Prehistoric Figurine of Wondrous Power, Jasper Tyrannosaurus Rex</name>
+    <name>Prehistoric Figurine of Wondrous Power, Jasper Tyrannosaurus Rex [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>legendary</detail>
@@ -551,7 +551,7 @@ Whenever you command the figurine while it's in tyrannosaurus rex form (includin
 Source:	Bigby Presents: Glory of the Giants p. 114</text>
   </item>
   <item>
-    <name>Prehistoric Figurine of Wondrous Power, Kyanite Pteranodon</name>
+    <name>Prehistoric Figurine of Wondrous Power, Kyanite Pteranodon [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>rare</detail>
@@ -568,7 +568,7 @@ Kyanite Pteranodon: This figurine becomes a pteranodon for up to 8 hours. If you
 Source:	Bigby Presents: Glory of the Giants p. 114</text>
   </item>
   <item>
-    <name>Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus</name>
+    <name>Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>uncommon</detail>
@@ -587,7 +587,7 @@ While you are riding the plesiosaurus, you can use it to cast water breathing at
 Source:	Bigby Presents: Glory of the Giants p. 114</text>
   </item>
   <item>
-    <name>Reaper's Scream</name>
+    <name>Reaper's Scream [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>morningstar, legendary (requires attunement)</detail>
@@ -611,7 +611,7 @@ Source:	Bigby Presents: Glory of the Giants p. 115</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Ring Mail of Safeguarding</name>
+    <name>Ring Mail of Safeguarding [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -627,7 +627,7 @@ Source:	Bigby Presents: Glory of the Giants p. 111</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Ring of Amity</name>
+    <name>Ring of Amity [Legacy]</name>
     <type>RG</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -646,7 +646,7 @@ Once the rune has been invoked, it can't be invoked again until the next dawn.
 Source:	Bigby Presents: Glory of the Giants p. 115</text>
   </item>
   <item>
-    <name>Sanctum Amulet</name>
+    <name>Sanctum Amulet [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -661,7 +661,7 @@ Once the rune has been invoked, it can't be invoked again until the next dawn.
 Source:	Bigby Presents: Glory of the Giants p. 116</text>
   </item>
   <item>
-    <name>Shield of The Blazing Dreadnought</name>
+    <name>Shield of The Blazing Dreadnought [Legacy]</name>
     <type>S</type>
     <magic>YES</magic>
     <detail>legendary (requires attunement)</detail>
@@ -683,7 +683,7 @@ Source:	Bigby Presents: Glory of the Giants p. 116</text>
     <ac>2</ac>
   </item>
   <item>
-    <name>Splint Armor of Safeguarding</name>
+    <name>Splint Armor of Safeguarding [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -700,7 +700,7 @@ Source:	Bigby Presents: Glory of the Giants p. 111</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Staff of The Rooted Hills</name>
+    <name>Staff of The Rooted Hills [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>quarterstaff, rare (requires attunement)</detail>
@@ -725,7 +725,7 @@ Source:	Bigby Presents: Glory of the Giants p. 116</text>
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Stonebreaker's Breastplate</name>
+    <name>Stonebreaker's Breastplate [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <detail>legendary (requires attunement)</detail>
@@ -742,7 +742,7 @@ Source:	Bigby Presents: Glory of the Giants p. 116</text>
     <ac>14</ac>
   </item>
   <item>
-    <name>Thunderbuss</name>
+    <name>Thunderbuss [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <detail>very rare</detail>
@@ -764,7 +764,7 @@ Source:	Bigby Presents: Glory of the Giants p. 116</text>
     <modifier category="bonus">ranged damage +1</modifier>
   </item>
   <item>
-    <name>War Horn of Valor</name>
+    <name>War Horn of Valor [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>rare</detail>
@@ -779,7 +779,7 @@ Once the rune has been invoked, it can't be invoked again until the next dawn.
 Source:	Bigby Presents: Glory of the Giants p. 117</text>
   </item>
   <item>
-    <name>Wayfarer's Boots</name>
+    <name>Wayfarer's Boots [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>rare (requires attunement)</detail>
@@ -790,7 +790,7 @@ Invoking the Runes: As a bonus action, you can invoke the boots' runes to cast t
 Source:	Bigby Presents: Glory of the Giants p. 117</text>
   </item>
   <item>
-    <name>Wyrmreaver Gauntlets</name>
+    <name>Wyrmreaver Gauntlets [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -807,7 +807,7 @@ Once the runes have been invoked, they can't be invoked again until the next daw
 Source:	Bigby Presents: Glory of the Giants p. 117</text>
   </item>
   <item>
-    <name>Zephyr Leather Armor</name>
+    <name>Zephyr Leather Armor [Legacy]</name>
     <type>LA</type>
     <magic>YES</magic>
     <detail>rare (requires attunement)</detail>
@@ -822,7 +822,7 @@ Source:	Bigby Presents: Glory of the Giants p. 117</text>
     <ac>11</ac>
   </item>
   <item>
-    <name>Zephyr Padded Armor</name>
+    <name>Zephyr Padded Armor [Legacy]</name>
     <type>LA</type>
     <magic>YES</magic>
     <detail>rare (requires attunement)</detail>
@@ -838,7 +838,7 @@ Source:	Bigby Presents: Glory of the Giants p. 117</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Zephyr Studded Leather Armor</name>
+    <name>Zephyr Studded Leather Armor [Legacy]</name>
     <type>LA</type>
     <magic>YES</magic>
     <detail>rare (requires attunement)</detail>

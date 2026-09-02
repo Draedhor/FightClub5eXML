@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>The Borealus (TP)</name>
+    <name>The Borealus [TP Legacy]</name>
     <detail>staff, spellcasting focus, artifact (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -34,7 +34,7 @@ Proficiency: simple, staff, quarterstaff
 Source:	Humblewood Campaign Setting p. 213 (Third Party)</text>
   </item>
   <item>
-    <name>Feathered Helm (TP)</name>
+    <name>Feathered Helm [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -58,7 +58,7 @@ Source:	Humblewood Campaign Setting p. 213 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Necronomicon Ex Corvis (TP)</name>
+    <name>Necronomicon Ex Corvis [TP Legacy]</name>
     <detail>rare (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -88,7 +88,7 @@ Source:	Humblewood Campaign Setting p. 213 (Third Party)</text>
     <roll>2d4</roll>
   </item>
   <item>
-    <name>Nest Charm (TP)</name>
+    <name>Nest Charm [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -99,7 +99,7 @@ Source:	Humblewood Campaign Setting p. 213 (Third Party)</text>
 Source:	Humblewood Campaign Setting p. 214 (Third Party)</text>
   </item>
   <item>
-    <name>Wing Crest Shield (TP)</name>
+    <name>Wing Crest Shield [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>S</type>
     <magic>YES</magic>

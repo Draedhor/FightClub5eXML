@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Amulet of Protection from Turning</name>
+    <name>Amulet of Protection from Turning [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -12,7 +12,7 @@
 Source:	Tales from the Yawning Portal p. 228</text>
   </item>
   <item>
-    <name>Balance of Harmony</name>
+    <name>Balance of Harmony [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -22,7 +22,7 @@ Source:	Tales from the Yawning Portal p. 228</text>
 Source:	Tales from the Yawning Portal p. 228</text>
   </item>
   <item>
-    <name>Bracelet of Rock Magic</name>
+    <name>Bracelet of Rock Magic [Legacy]</name>
     <detail>very rare, cursed (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -34,7 +34,7 @@ Curse: The bracelet's affinity with earth manifests as an unusual curse. Creatur
 Source:	Tales from the Yawning Portal p. 228</text>
   </item>
   <item>
-    <name>Eagle Whistle</name>
+    <name>Eagle Whistle [Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -45,7 +45,7 @@ Source:	Tales from the Yawning Portal p. 228</text>
 Source:	Tales from the Yawning Portal p. 228</text>
   </item>
   <item>
-    <name>Flame Tongue Shortsword of Greed</name>
+    <name>Flame Tongue Shortsword of Greed [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -65,7 +65,7 @@ Source:	Tales from the Yawning Portal p. 179</text>
     <roll description="Fire Damage">2d6</roll>
   </item>
   <item>
-    <name>Hell Hound Cloak</name>
+    <name>Hell Hound Cloak [Legacy]</name>
     <detail>rare, cursed (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -78,7 +78,7 @@ Curse: This cloak is cursed with the essence of a hell hound, and becoming attun
 Source:	Tales from the Yawning Portal p. 228</text>
   </item>
   <item>
-    <name>Javelin of Backbiting</name>
+    <name>Javelin of Backbiting [Legacy]</name>
     <detail>very rare, cursed (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -102,7 +102,7 @@ Source:	Tales from the Yawning Portal p. 229</text>
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Junky +1 Dagger</name>
+    <name>Junky +1 Dagger [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>1</weight>
@@ -126,7 +126,7 @@ Source:	Tales from the Yawning Portal p. 77</text>
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Loadstone</name>
+    <name>Loadstone [Legacy]</name>
     <detail>rare, cursed</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -139,7 +139,7 @@ Source:	Tales from the Yawning Portal p. 228</text>
     <modifier category="bonus">speed -5</modifier>
   </item>
   <item>
-    <name>Macuahuitl</name>
+    <name>Macuahuitl [Legacy]</name>
     <detail>longsword</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -159,7 +159,7 @@ Source:	Tales from the Yawning Portal p. 70</text>
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>Mirror of the Past</name>
+    <name>Mirror of the Past [Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -169,7 +169,7 @@ Source:	Tales from the Yawning Portal p. 70</text>
 Source:	Tales from the Yawning Portal p. 228</text>
   </item>
   <item>
-    <name>Night Caller</name>
+    <name>Night Caller [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -181,7 +181,7 @@ Source:	Tales from the Yawning Portal p. 228</text>
 Source:	Tales from the Yawning Portal p. 228</text>
   </item>
   <item>
-    <name>Potion of Mind Control (beast)</name>
+    <name>Potion of Mind Control (beast) [Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -191,7 +191,7 @@ Source:	Tales from the Yawning Portal p. 228</text>
 Source:	Tales from the Yawning Portal p. 229</text>
   </item>
   <item>
-    <name>Potion of Mind Control (humanoid)</name>
+    <name>Potion of Mind Control (humanoid) [Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -201,7 +201,7 @@ Source:	Tales from the Yawning Portal p. 229</text>
 Source:	Tales from the Yawning Portal p. 229</text>
   </item>
   <item>
-    <name>Potion of Mind Control (monster)</name>
+    <name>Potion of Mind Control (monster) [Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -211,7 +211,7 @@ Source:	Tales from the Yawning Portal p. 229</text>
 Source:	Tales from the Yawning Portal p. 229</text>
   </item>
   <item>
-    <name>Robe of Summer</name>
+    <name>Robe of Summer [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -221,7 +221,7 @@ Source:	Tales from the Yawning Portal p. 229</text>
 Source:	Tales from the Yawning Portal p. 229</text>
   </item>
   <item>
-    <name>Shatterspike</name>
+    <name>Shatterspike [Legacy]</name>
     <detail>longsword, uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -240,7 +240,7 @@ Source:	Tales from the Yawning Portal p. 229</text>
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Spear of Backbiting</name>
+    <name>Spear of Backbiting [Legacy]</name>
     <detail>very rare, cursed (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -267,7 +267,7 @@ Source:	Tales from the Yawning Portal p. 229</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Stone of Ill Luck</name>
+    <name>Stone of Ill Luck [Legacy]</name>
     <detail>uncommon, cursed (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -280,7 +280,7 @@ Source:	Tales from the Yawning Portal p. 229</text>
     <modifier category="bonus">saving throws -2</modifier>
   </item>
   <item>
-    <name>Wand of Entangle</name>
+    <name>Wand of Entangle [Legacy]</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -292,7 +292,7 @@ Source:	Tales from the Yawning Portal p. 229</text>
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>Waythe</name>
+    <name>Waythe [Legacy]</name>
     <detail>greatsword, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -320,7 +320,7 @@ Source:	Tales from the Yawning Portal p. 229</text>
     <roll description="Slashing Damage">2d6</roll>
   </item>
   <item>
-    <name>White Dragon Cape</name>
+    <name>White Dragon Cape [Legacy]</name>
     <detail>other</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -329,7 +329,7 @@ Source:	Tales from the Yawning Portal p. 229</text>
 Source:	Tales from the Yawning Portal p. 193</text>
   </item>
   <item>
-    <name>Potion of Mind Control (Generic Variant)</name>
+    <name>Potion of Mind Control (Generic Variant) [Legacy]</name>
     <detail>generic variant, rare</detail>
     <type>P</type>
     <magic>YES</magic>

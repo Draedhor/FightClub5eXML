@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Chicken</name>
+    <name>Chicken [TP Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -42,7 +42,7 @@
   </monster>
   <!-- Familiars -->
   <monster>
-    <name>Aboling</name>
+    <name>Aboling [TP Legacy]</name>
     <size>T</size>
     <type>aberration</type>
     <alignment>neutral evil</alignment>
@@ -219,7 +219,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 224</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dragonling</name>
+    <name>Dragonling [TP Legacy]</name>
     <size>T</size>
     <type>dragon</type>
     <alignment>Lawful Good</alignment>
@@ -376,7 +376,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 227</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gelatinooze</name>
+    <name>Gelatinooze [TP Legacy]</name>
     <size>T</size>
     <type>ooze</type>
     <alignment>Unaligned</alignment>
@@ -573,7 +573,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 230</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hyphan</name>
+    <name>Hyphan [TP Legacy]</name>
     <size>T</size>
     <type>plant</type>
     <alignment>Neutral Good</alignment>
@@ -771,7 +771,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 233</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mechakobold</name>
+    <name>Mechakobold [TP Legacy]</name>
     <size>T</size>
     <type>construct</type>
     <alignment>Neutral Good</alignment>
@@ -934,7 +934,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 236</description>
     <environment/>
   </monster>
   <monster>
-    <name>Minimic</name>
+    <name>Minimic [TP Legacy]</name>
     <size>T</size>
     <type>monstrosity (shapechanger)</type>
     <alignment>Unaligned</alignment>
@@ -1091,7 +1091,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 239</description>
     <environment/>
   </monster>
   <monster>
-    <name>Peeper</name>
+    <name>Peeper [TP Legacy]</name>
     <size>T</size>
     <type>aberration</type>
     <alignment>Neutral Good</alignment>
@@ -1276,7 +1276,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 242</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rakitten</name>
+    <name>Rakitten [TP Legacy]</name>
     <size>T</size>
     <type>fiend</type>
     <alignment>Lawful Evil</alignment>
@@ -1443,7 +1443,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 245</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sunsnacker</name>
+    <name>Sunsnacker [TP Legacy]</name>
     <size>T</size>
     <type>fey</type>
     <alignment>Chaotic Neutral</alignment>
@@ -1611,7 +1611,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 245</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tarling</name>
+    <name>Tarling [TP Legacy]</name>
     <size>T</size>
     <type>elemental</type>
     <alignment>Unaligned</alignment>
@@ -1807,7 +1807,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 251</description>
     <environment/>
   </monster>
   <monster>
-    <name>Saddle Slime</name>
+    <name>Saddle Slime [TP Legacy]</name>
     <sortname>Slime, Saddle</sortname>
     <ancestry>Slime</ancestry>
     <size>L</size>
@@ -1860,7 +1860,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 251</description>
     <environment/>
   </monster>
   <monster>
-    <name>Wyrmskull Ooze</name>
+    <name>Wyrmskull Ooze [TP Legacy]</name>
     <sortname>Ooze, Wyrmskull</sortname>
     <ancestry>Ooze</ancestry>
     <size>L</size>
@@ -1919,7 +1919,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 251</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rolly Turrit</name>
+    <name>Rolly Turrit [TP Legacy]</name>
     <sortname>Turrit, Rolly</sortname>
     <ancestry>Turrit</ancestry>
     <size>T</size>
@@ -1980,7 +1980,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 251</description>
     <environment/>
   </monster>
   <monster>
-    <name>Crawly Turrit</name>
+    <name>Crawly Turrit [TP Legacy]</name>
     <sortname>Turrit, Crawly</sortname>
     <ancestry>Turrit</ancestry>
     <size>T</size>

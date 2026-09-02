@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Pugilist (Ben Huffman) (TP)</name>
+    <name>Pugilist (Ben Huffman) [TP]</name>
     <hd>10</hd>
     <proficiency>Strength, Constitution, Acrobatics, Athletics, Deception, Intimidation, Perception, Sleight of Hand, Stealth</proficiency>
     <numSkills>2</numSkills>
@@ -809,7 +809,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     </autolevel>
   </class>
   <monster>
-    <name>Hound (TP)</name>
+    <name>Hound [TP]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Neutral</alignment>

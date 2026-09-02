@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Flock of Familiars</name>
+    <name>Flock of Familiars [Legacy]</name>
     <level>2</level>
     <school>C</school>
     <time>1 minute</time>
@@ -18,7 +18,7 @@ At Higher Levels: When you cast this spell using a spell slot of 3rd level or hi
 Source:	Lost Laboratory of Kwalish p. 57</text>
   </spell>
   <spell>
-    <name>Galder's Speedy Courier</name>
+    <name>Galder's Speedy Courier [Legacy]</name>
     <level>4</level>
     <school>C</school>
     <time>1 action</time>
@@ -35,7 +35,7 @@ At Higher Levels: When you cast this spell using an 8th-level spell slot, you ca
 Source:	Lost Laboratory of Kwalish p. 57</text>
   </spell>
   <spell>
-    <name>Galder's Tower</name>
+    <name>Galder's Tower [Legacy]</name>
     <level>3</level>
     <school>C</school>
     <time>10 minutes</time>

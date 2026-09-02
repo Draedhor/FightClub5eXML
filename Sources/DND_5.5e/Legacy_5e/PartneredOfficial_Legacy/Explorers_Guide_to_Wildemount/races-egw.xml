@@ -197,7 +197,7 @@ White | Cold | 15 ft. cone (Con. save)</text>
     </trait>
   </race> -->
   <race>
-    <name>Elf: Pallid (Legacy)</name>
+    <name>Elf: Pallid [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex +2, Wis +1</ability>
@@ -296,7 +296,7 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Halfling: Lotusden (Legacy)</name>
+    <name>Halfling: Lotusden [TP Legacy]</name>
     <size>S</size>
     <speed>25</speed>
     <ability>Dex +2, Wis +1</ability>
@@ -390,7 +390,7 @@ Weight in pounds = 35 + your size modifie</text>
     </trait>
   </race>
    <race>
-    <name>Orc of Wildemount (Legacy)</name>
+    <name>Orc of Wildemount [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +2, Con +1</ability>

@@ -70,47 +70,47 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 165 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Hellish Rebuke (TP)</name>
+    <name>Hellish Rebuke [TP]</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
   <spell>
-    <name>Tasha's Hideous Laughter (TP)</name>
+    <name>Tasha's Hideous Laughter [TP]</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
   <spell>
-    <name>Eldritch Blast (TP)</name>
+    <name>Eldritch Blast [TP]</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
   <spell>
-    <name>Invisibility (TP)</name>
+    <name>Invisibility [TP]</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
   <spell>
-    <name>Suggestion (TP)</name>
+    <name>Suggestion [TP]</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
   <spell>
-    <name>Bestow Curse (TP)</name>
+    <name>Bestow Curse [TP]</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
   <spell>
-    <name>Fear (TP)</name>
+    <name>Fear [TP]</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
   <spell>
-    <name>Dimension Door (TP)</name>
+    <name>Dimension Door [TP]</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
   <spell>
-    <name>Polymorph (TP)</name>
+    <name>Polymorph [TP]</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
   <spell>
-    <name>Dominate Person (TP)</name>
+    <name>Dominate Person [TP]</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
   <spell>
-    <name>Mislead (TP)</name>
+    <name>Mislead [TP]</name>
     <classes>Paladin (Oath of Hexes (HB))</classes>
   </spell>
 </compendium>

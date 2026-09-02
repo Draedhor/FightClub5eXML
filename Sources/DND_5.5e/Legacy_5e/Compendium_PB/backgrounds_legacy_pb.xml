@@ -1167,7 +1167,7 @@
 			      </trait>
 			  </background> -->
 			<background>
-			      <name>Entertainer (Legacy)</name>
+			      <name>Entertainer [Legacy]</name>
 			      <proficiency>Acrobatics, Performance</proficiency>
 			      <trait>
 			          <name>Description</name>
@@ -1282,7 +1282,7 @@
 			      </trait>
 			  </background>
 			<background>
-			      <name>Folk Hero (Legacy)</name>
+			      <name>Folk Hero [Legacy]</name>
 			      <proficiency>Animal Handling, Survival</proficiency>
 			      <trait>
 			          <name>Description</name>
@@ -1406,7 +1406,7 @@
 			      </trait>
 			  </background>
 			<background>
-			      <name>Gladiator (Legacy)</name>
+			      <name>Gladiator [Legacy]</name>
 			      <proficiency>Acrobatics, Performance</proficiency>
 			      <trait>
 			          <name>Description</name>
@@ -1506,7 +1506,7 @@
 			      </trait>
 			  </background>
 			<background>
-			      <name>Guild Artisan (Legacy)</name>
+			      <name>Guild Artisan [Legacy]</name>
 			      <proficiency>Insight, Persuasion</proficiency>
 			      <trait>
 			          <name>Description</name>
@@ -1608,7 +1608,7 @@
 			      </trait>
 			  </background>
 			<background>
-			      <name>Guild Merchant (Legacy)</name>
+			      <name>Guild Merchant [Legacy]</name>
 			      <proficiency>Insight, Persuasion</proficiency>
 			      <trait>
 			          <name>Description</name>
@@ -1710,7 +1710,7 @@
 			      </trait>
 			  </background>
 			<background>
-			      <name>Hermit (Legacy)</name>
+			      <name>Hermit [Legacy]</name>
 			      <proficiency>Medicine, Religion</proficiency>
 			      <trait>
 			          <name>Description</name>
@@ -1831,7 +1831,7 @@
 			      </trait>
 			  </background>
 			<background>
-			      <name>Knight (Legacy)</name>
+			      <name>Knight [Legacy]</name>
 			      <proficiency>History, Persuasion</proficiency>
 			      <trait>
 			          <name>Description</name>
@@ -2155,7 +2155,7 @@
 			      </trait>
 			  </background> -->
 			<background>
-			      <name>Pirate (Legacy)</name>
+			      <name>Pirate [Legacy]</name>
 			      <proficiency>Athletics, Perception</proficiency>
 			      <trait>
 			          <name>Description</name>
@@ -2259,7 +2259,7 @@
 			      </trait>
 			  </background>
 			<background>
-			      <name>Sage (Legacy)</name>
+			      <name>Sage [Legacy]</name>
 			      <proficiency>Arcana, History</proficiency>
 			      <trait>
 			          <name>Description</name>
@@ -2379,7 +2379,7 @@
 			      </trait>
 			  </background>
 			<background>
-			      <name>Sailor (Legacy)</name>
+			      <name>Sailor [Legacy]</name>
 			      <proficiency>Athletics, Perception</proficiency>
 			      <trait>
 			          <name>Description</name>
@@ -2486,7 +2486,7 @@
 			      </trait>
 			  </background>
 			<background>
-			      <name>Soldier (Legacy)</name>
+			      <name>Soldier [Legacy]</name>
 			      <proficiency>Athletics, Intimidation</proficiency>
 			      <trait>
 			          <name>Description</name>
@@ -2600,7 +2600,7 @@
 			      </trait>
 			  </background>
 			<background>
-			      <name>Spy (Legacy)</name>
+			      <name>Spy [Legacy]</name>
 			      <proficiency>Deception, Stealth</proficiency>
 			      <trait>
 			          <name>Description</name>
@@ -2700,7 +2700,7 @@
 			      </trait>
 			  </background>
 			<background>
-			      <name>Urchin (Legacy)</name>
+			      <name>Urchin [Legacy]</name>
 			      <proficiency>Sleight of Hand, Stealth</proficiency>
 			      <trait>
 			          <name>Description</name>

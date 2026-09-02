@@ -287,83 +287,83 @@ Source:	Zamanora: Ballad of the Witch p. 93 (Homebrew)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Burning Hands (TP)</name>
+    <name>Burning Hands [TP]</name>
     <classes>Paladin (Oath of the Firebird (HB))</classes>
   </spell>
   <spell>
-    <name>Searing Smite (TP)</name>
+    <name>Searing Smite [TP]</name>
     <classes>Paladin (Oath of the Firebird (HB))</classes>
   </spell>
   <spell>
-    <name>Aid (TP)</name>
+    <name>Aid [TP]</name>
     <classes>Paladin (Oath of the Firebird (HB))</classes>
   </spell>
   <spell>
-    <name>Suncloak (TP)</name>
+    <name>Suncloak [TP]</name>
     <classes>Paladin (Oath of the Firebird (HB))</classes>
   </spell>
   <spell>
-    <name>Beacon of Hope (TP)</name>
+    <name>Beacon of Hope [TP]</name>
     <classes>Paladin (Oath of the Firebird (HB))</classes>
   </spell>
   <spell>
-    <name>Fireball (TP)</name>
+    <name>Fireball [TP]</name>
     <classes>Paladin (Oath of the Firebird (HB))</classes>
   </spell>
   <spell>
-    <name>Fire Shield (TP)</name>
+    <name>Fire Shield [TP]</name>
     <classes>Paladin (Oath of the Firebird (HB))</classes>
   </spell>
   <spell>
-    <name>Wall of Fire (TP)</name>
+    <name>Wall of Fire [TP]</name>
     <classes>Paladin (Oath of the Firebird (HB))</classes>
   </spell>
   <spell>
-    <name>Flame Strike (TP)</name>
+    <name>Flame Strike [TP]</name>
     <classes>Paladin (Oath of the Firebird (HB))</classes>
   </spell>
   <spell>
-    <name>Greater Restoration (TP)</name>
+    <name>Greater Restoration [TP]</name>
     <classes>Paladin (Oath of the Firebird (HB))</classes>
   </spell>
   <spell>
-    <name>Protection from Evil and Good (TP)</name>
+    <name>Protection from Evil and Good [TP]</name>
     <classes>Paladin (Oath of the Skycaller (HB))</classes>
   </spell>
   <spell>
-    <name>Thunderwave (TP)</name>
+    <name>Thunderwave [TP]</name>
     <classes>Paladin (Oath of the Skycaller (HB))</classes>
   </spell>
   <spell>
-    <name>Begraced Armaments (TP)</name>
+    <name>Begraced Armaments [TP]</name>
     <classes>Paladin (Oath of the Skycaller (HB))</classes>
   </spell>
   <spell>
-    <name>Shatter (TP)</name>
+    <name>Shatter [TP]</name>
     <classes>Paladin (Oath of the Skycaller (HB))</classes>
   </spell>
   <spell>
-    <name>Fly (TP)</name>
+    <name>Fly [TP]</name>
     <classes>Paladin (Oath of the Skycaller (HB))</classes>
   </spell>
   <spell>
-    <name>Lightning Bolt (TP)</name>
+    <name>Lightning Bolt [TP]</name>
     <classes>Paladin (Oath of the Skycaller (HB))</classes>
   </spell>
   <spell>
-    <name>Conjure Minor Elementals (TP)</name>
+    <name>Conjure Minor Elementals [TP]</name>
     <classes>Paladin (Oath of the Skycaller (HB))</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement (TP)</name>
+    <name>Freedom of Movement [TP]</name>
     <classes>Paladin (Oath of the Skycaller (HB))</classes>
   </spell>
   <spell>
-    <name>Conjure Elemental (TP)</name>
+    <name>Conjure Elemental [TP]</name>
     <classes>Paladin (Oath of the Skycaller (HB))</classes>
   </spell>
   <spell>
-    <name>Destructive Wave (TP)</name>
+    <name>Destructive Wave [TP]</name>
     <classes>Paladin (Oath of the Skycaller (HB))</classes>
   </spell>
 </compendium>

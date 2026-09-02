@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Trinket (Elven)</name>
+    <name>Trinket (Elven) [Legacy]</name>
     <type>G</type>
     <text>Elven Trinkets:
 d8 | Trinket
@@ -18,7 +18,7 @@ Source:	Mordenkainen's Tome of Foes p. 64</text>
     <roll description="Trinket">1d8</roll>
   </item>
   <item>
-    <name>Greater Silver Sword</name>
+    <name>Greater Silver Sword [Legacy]</name>
     <detail>legendary (requires attunement by a creature that has psionic ability)</detail>
     <type>M</type>
     <weight>6</weight>
@@ -37,7 +37,7 @@ Source:	Mordenkainen's Tome of Foes p. 89</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Infernal Tack</name>
+    <name>Infernal Tack [Legacy]</name>
     <detail>tack and harness, legendary (requires attunement by a creature of evil alignment)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -49,7 +49,7 @@ Source:	Mordenkainen's Tome of Foes p. 167,
 		Baldur's Gate: Descent Into Avernus p. 224</text>
   </item>
   <item>
-    <name>Silver Sword</name>
+    <name>Silver Sword [Legacy]</name>
     <detail>(requires attunement by a creature that has psionic ability)</detail>
     <type>M</type>
     <weight>6</weight>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Agent (Shadowmaster)</name>
+    <name>Agent (Shadowmaster) [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -68,7 +68,7 @@ Source:	The Illrigger Revised p. 35 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bloodletter (Sanguine Knight)</name>
+    <name>Bloodletter (Sanguine Knight) [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -135,7 +135,7 @@ Source:	The Illrigger Revised p. 35 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Deceiver (Architect of Ruin)</name>
+    <name>Deceiver (Architect of Ruin) [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -206,7 +206,7 @@ Source:	The Illrigger Revised p. 36 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Schemer (Hellspeaker)</name>
+    <name>Schemer (Hellspeaker) [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -272,7 +272,7 @@ Source:	The Illrigger Revised p. 37 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tyrant (Painkiller)</name>
+    <name>Tyrant (Painkiller) [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>

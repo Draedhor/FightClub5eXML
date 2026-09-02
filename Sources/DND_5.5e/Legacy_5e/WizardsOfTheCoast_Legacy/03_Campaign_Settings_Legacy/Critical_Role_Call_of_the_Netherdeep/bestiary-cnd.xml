@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Aboleth Spawn</name>
+    <name>Aboleth Spawn [Legacy]</name>
     <sortname>Aboleth, Spawn</sortname>
     <ancestry>Aboleth</ancestry>
     <size>M</size>
@@ -67,7 +67,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Agathe Silverspoon</name>
+    <name>Agathe Silverspoon [Legacy]</name>
     <sortname>Silverspoon, Agathe</sortname>
     <ancestry>Orc</ancestry>
     <npc>YES</npc>
@@ -117,7 +117,7 @@ Source:	Critical Role: Call of the Netherdeep p. 21</description>
     <environment/>
   </monster>
   <monster>
-    <name>Aloysia Telfan</name>
+    <name>Aloysia Telfan [Legacy]</name>
     <sortname>Telfan, Aloysia</sortname>
     <ancestry>Occult Initiate</ancestry>
     <npc>YES</npc>
@@ -172,7 +172,7 @@ Source:	Critical Role: Call of the Netherdeep p. 21</description>
     <environment/>
   </monster>
   <monster>
-    <name>Alyxian Aboleth</name>
+    <name>Alyxian Aboleth [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Lawful Evil</alignment>
@@ -253,7 +253,7 @@ Source:	Critical Role: Call of the Netherdeep p. 195</description>
     <environment/>
   </monster>
   <monster>
-    <name>Alyxian the Absolved</name>
+    <name>Alyxian the Absolved [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -342,7 +342,7 @@ Source:	Critical Role: Call of the Netherdeep p. 195</description>
     <environment/>
   </monster>
   <monster>
-    <name>Alyxian the Callous</name>
+    <name>Alyxian the Callous [Legacy]</name>
     <size>L</size>
     <type>celestial</type>
     <alignment>Lawful Evil</alignment>
@@ -432,7 +432,7 @@ Source:	Critical Role: Call of the Netherdeep p. 179</description>
     <environment/>
   </monster>
   <monster>
-    <name>Alyxian the Dispossessed</name>
+    <name>Alyxian the Dispossessed [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -529,7 +529,7 @@ Source:	Critical Role: Call of the Netherdeep p. 180</description>
     <environment/>
   </monster>
   <monster>
-    <name>Alyxian the Hunter</name>
+    <name>Alyxian the Hunter [Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -593,7 +593,7 @@ Source:	Critical Role: Call of the Netherdeep p. 160</description>
     <environment/>
   </monster>
   <monster>
-    <name>Alyxian the Tormented</name>
+    <name>Alyxian the Tormented [Legacy]</name>
     <size>H</size>
     <type>aberration</type>
     <alignment>Lawful Evil</alignment>
@@ -666,7 +666,7 @@ Source:	Critical Role: Call of the Netherdeep p. 160</description>
     <environment/>
   </monster>
   <monster>
-    <name>Animated Glass Statue</name>
+    <name>Animated Glass Statue [Legacy]</name>
     <ancestry>Giant Vulture, Animated Object</ancestry>
     <size>L</size>
     <type>construct</type>
@@ -720,7 +720,7 @@ Source:	Critical Role: Call of the Netherdeep p. 160</description>
     <environment/>
   </monster>
   <monster>
-    <name>Aradrine the Owl</name>
+    <name>Aradrine the Owl [Legacy]</name>
     <ancestry>Occult Silvertongue</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -783,7 +783,7 @@ Source:	Critical Role: Call of the Netherdeep p. 160</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ashann</name>
+    <name>Ashann [Legacy]</name>
     <ancestry>Occult Extollant</ancestry>
     <npc>YES</npc>
     <size>S</size>
@@ -842,7 +842,7 @@ Source:	Critical Role: Call of the Netherdeep p. 115</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ayo Jabe (Tier 1)</name>
+    <name>Ayo Jabe (Tier 1) [Legacy]</name>
     <sortname>Jabe, Ayo</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -907,7 +907,7 @@ Source:	Critical Role: Call of the Netherdeep p. 188</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ayo Jabe (Tier 2)</name>
+    <name>Ayo Jabe (Tier 2) [Legacy]</name>
     <sortname>Jabe, Ayo</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -976,7 +976,7 @@ Source:	Critical Role: Call of the Netherdeep p. 190</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ayo Jabe (Tier 3)</name>
+    <name>Ayo Jabe (Tier 3) [Legacy]</name>
     <sortname>Jabe, Ayo</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1051,7 +1051,7 @@ Source:	Critical Role: Call of the Netherdeep p. 192</description>
     <environment/>
   </monster>
   <monster>
-    <name>Belana Zolaed</name>
+    <name>Belana Zolaed [Legacy]</name>
     <sortname>Zolaed, Belana</sortname>
     <ancestry>Priest</ancestry>
     <npc>YES</npc>
@@ -1106,7 +1106,7 @@ Source:	Critical Role: Call of the Netherdeep p. 28</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bristled Moorbounder</name>
+    <name>Bristled Moorbounder [Legacy]</name>
     <sortname>Moorbounder, Bristled</sortname>
     <ancestry>Moorbounder</ancestry>
     <size>L</size>
@@ -1164,7 +1164,7 @@ Source:	Critical Role: Call of the Netherdeep p. 203</description>
     <environment/>
   </monster>
   <monster>
-    <name>Celeste</name>
+    <name>Celeste [Legacy]</name>
     <ancestry>Ghost</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -1227,7 +1227,7 @@ Source:	Critical Role: Call of the Netherdeep p. 150</description>
     <environment/>
   </monster>
   <monster>
-    <name>Corrupted Giant Shark</name>
+    <name>Corrupted Giant Shark [Legacy]</name>
     <sortname>Giant Shark, Corrupted</sortname>
     <ancestry>Giant Shark</ancestry>
     <size>H</size>
@@ -1280,7 +1280,7 @@ Source:	Critical Role: Call of the Netherdeep p. 196</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dancing Flame</name>
+    <name>Dancing Flame [Legacy]</name>
     <ancestry>Succubus</ancestry>
     <size>M</size>
     <type>fiend</type>
@@ -1336,7 +1336,7 @@ Source:	Critical Role: Call of the Netherdeep p. 68</description>
     <environment/>
   </monster>
   <monster>
-    <name>Death Embrace</name>
+    <name>Death Embrace [Legacy]</name>
     <size>H</size>
     <type>aberration</type>
     <alignment>Chaotic Evil</alignment>
@@ -1397,7 +1397,7 @@ Source:	Critical Role: Call of the Netherdeep p. 197</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dermot Wurder (Tier 1)</name>
+    <name>Dermot Wurder (Tier 1) [Legacy]</name>
     <sortname>Wurder, Dermot</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -1459,7 +1459,7 @@ Source:	Critical Role: Call of the Netherdeep p. 188</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dermot Wurder (Tier 2)</name>
+    <name>Dermot Wurder (Tier 2) [Legacy]</name>
     <sortname>Wurder, Dermot</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -1522,7 +1522,7 @@ Source:	Critical Role: Call of the Netherdeep p. 191</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dermot Wurder (Tier 3)</name>
+    <name>Dermot Wurder (Tier 3) [Legacy]</name>
     <sortname>Wurder, Dermot</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -1592,7 +1592,7 @@ Source:	Critical Role: Call of the Netherdeep p. 193</description>
     <environment/>
   </monster>
   <monster>
-    <name>Durth Mirimm</name>
+    <name>Durth Mirimm [Legacy]</name>
     <ancestry>Drow Elite Warrior</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -1662,7 +1662,7 @@ Source:	Critical Role: Call of the Netherdeep p. 193</description>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Fiendish Orc</name>
+    <name>Fiendish Orc [Legacy]</name>
     <sortname>Orc, Fiendish</sortname>
     <ancestry>Orc</ancestry>
     <size>M</size>
@@ -1709,7 +1709,7 @@ Source:	Critical Role: Call of the Netherdeep p. 193</description>
     <environment/>
   </monster>
   <monster>
-    <name>Foghome the Gardener</name>
+    <name>Foghome the Gardener [Legacy]</name>
     <ancestry>Priest</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -1777,7 +1777,7 @@ Source:	Critical Role: Call of the Netherdeep p. 58</description>
     <environment/>
   </monster>
   <monster>
-    <name>Galeokaerda</name>
+    <name>Galeokaerda [Legacy]</name>
     <ancestry>Occult Extollant</ancestry>
     <npc>YES</npc>
     <size>S</size>
@@ -1846,7 +1846,7 @@ Source:	Critical Role: Call of the Netherdeep p. 130</description>
     <environment/>
   </monster>
   <monster>
-    <name>Galsariad Ardyth (Tier 1)</name>
+    <name>Galsariad Ardyth (Tier 1) [Legacy]</name>
     <sortname>Ardyth, Galsariad</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1914,7 +1914,7 @@ Source:	Critical Role: Call of the Netherdeep p. 188</description>
     <environment/>
   </monster>
   <monster>
-    <name>Galsariad Ardyth (Tier 2)</name>
+    <name>Galsariad Ardyth (Tier 2) [Legacy]</name>
     <sortname>Ardyth, Galsariad</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1982,7 +1982,7 @@ Source:	Critical Role: Call of the Netherdeep p. 190</description>
     <environment/>
   </monster>
   <monster>
-    <name>Galsariad Ardyth (Tier 3)</name>
+    <name>Galsariad Ardyth (Tier 3) [Legacy]</name>
     <sortname>Ardyth, Galsariad</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2069,7 +2069,7 @@ Source:	Critical Role: Call of the Netherdeep p. 193</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gloomstalker</name>
+    <name>Gloomstalker [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Typically Neutral Evil</alignment>
@@ -2143,7 +2143,7 @@ Source:	Critical Role: Call of the Netherdeep p. 198</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gryz Alakritos</name>
+    <name>Gryz Alakritos [Legacy]</name>
     <sortname>Alakritos, Gryz</sortname>
     <ancestry>Scholarly Mastermind</ancestry>
     <npc>YES</npc>
@@ -2205,7 +2205,7 @@ Source:	Critical Role: Call of the Netherdeep p. 198</description>
     <environment/>
   </monster>
   <monster>
-    <name>Horizonback Tortoise</name>
+    <name>Horizonback Tortoise [Legacy]</name>
     <ancestry>Ankylosaurus</ancestry>
     <size>G</size>
     <type>monstrosity</type>
@@ -2259,7 +2259,7 @@ Source:	Critical Role: Call of the Netherdeep p. 199</description>
     <environment/>
   </monster>
   <monster>
-    <name>Insight Acuere</name>
+    <name>Insight Acuere [Legacy]</name>
     <ancestry>Scholarly Mastermind</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -2323,7 +2323,7 @@ Source:	Critical Role: Call of the Netherdeep p. 126</description>
     <environment/>
   </monster>
   <monster>
-    <name>Irvan Wastewalker (Tier 1)</name>
+    <name>Irvan Wastewalker (Tier 1) [Legacy]</name>
     <sortname>Wastewalker, Irvan</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2378,7 +2378,7 @@ Source:	Critical Role: Call of the Netherdeep p. 189</description>
     <environment/>
   </monster>
   <monster>
-    <name>Irvan Wastewalker (Tier 2)</name>
+    <name>Irvan Wastewalker (Tier 2) [Legacy]</name>
     <sortname>Wastewalker, Irvan</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2433,7 +2433,7 @@ Source:	Critical Role: Call of the Netherdeep p. 191</description>
     <environment/>
   </monster>
   <monster>
-    <name>Irvan Wastewalker (Tier 3)</name>
+    <name>Irvan Wastewalker (Tier 3) [Legacy]</name>
     <sortname>Wastewalker, Irvan</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2500,7 +2500,7 @@ Source:	Critical Role: Call of the Netherdeep p. 194</description>
     <environment/>
   </monster>
   <monster>
-    <name>James Cryon</name>
+    <name>James Cryon [Legacy]</name>
     <sortname>Cryon, James</sortname>
     <ancestry>Scholarly Mastermind</ancestry>
     <npc>YES</npc>
@@ -2558,7 +2558,7 @@ Source:	Critical Role: Call of the Netherdeep p. 194</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jamil A'alithiya</name>
+    <name>Jamil A'alithiya [Legacy]</name>
     <sortname>A'alithiya, Jamil</sortname>
     <ancestry>Monastic High Curator</ancestry>
     <npc>YES</npc>
@@ -2621,7 +2621,7 @@ Source:	Critical Role: Call of the Netherdeep p. 116</description>
     <environment/>
   </monster>
   <monster>
-    <name>Koris</name>
+    <name>Koris [Legacy]</name>
     <ancestry>Assassin</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -2694,7 +2694,7 @@ Source:	Critical Role: Call of the Netherdeep p. 106</description>
     <environment/>
   </monster>
   <monster>
-    <name>Laurin Ophidas</name>
+    <name>Laurin Ophidas [Legacy]</name>
     <sortname>Ophidas, Laurin</sortname>
     <ancestry>Cult Fanatic</ancestry>
     <npc>YES</npc>
@@ -2758,7 +2758,7 @@ Source:	Critical Role: Call of the Netherdeep p. 112</description>
     <environment/>
   </monster>
   <monster>
-    <name>Light Devourer</name>
+    <name>Light Devourer [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Unaligned</alignment>
@@ -2814,7 +2814,7 @@ Source:	Critical Role: Call of the Netherdeep p. 200</description>
     <environment/>
   </monster>
   <monster>
-    <name>Maggie Keeneyes (Tier 1)</name>
+    <name>Maggie Keeneyes (Tier 1) [Legacy]</name>
     <sortname>Keeneyes, Maggie</sortname>
     <ancestry>Ogre</ancestry>
     <npc>YES</npc>
@@ -2866,7 +2866,7 @@ Source:	Critical Role: Call of the Netherdeep p. 189</description>
     <environment/>
   </monster>
   <monster>
-    <name>Maggie Keeneyes (Tier 2)</name>
+    <name>Maggie Keeneyes (Tier 2) [Legacy]</name>
     <sortname>Keeneyes, Maggie</sortname>
     <ancestry>Ogre</ancestry>
     <npc>YES</npc>
@@ -2931,7 +2931,7 @@ Source:	Critical Role: Call of the Netherdeep p. 191</description>
     <environment/>
   </monster>
   <monster>
-    <name>Maggie Keeneyes (Tier 3)</name>
+    <name>Maggie Keeneyes (Tier 3) [Legacy]</name>
     <sortname>Keeneyes, Maggie</sortname>
     <ancestry>Ogre</ancestry>
     <npc>YES</npc>
@@ -3000,7 +3000,7 @@ Source:	Critical Role: Call of the Netherdeep p. 194</description>
     <environment/>
   </monster>
   <monster>
-    <name>Marisa</name>
+    <name>Marisa [Legacy]</name>
     <ancestry>Ghost</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -3064,7 +3064,7 @@ Source:	Critical Role: Call of the Netherdeep p. 150</description>
     <environment/>
   </monster>
   <monster>
-    <name>Meri</name>
+    <name>Meri [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>any alignment</alignment>
@@ -3124,7 +3124,7 @@ Source:	Critical Role: Call of the Netherdeep p. 150</description>
     <environment/>
   </monster>
   <monster>
-    <name>Monastic High Curator</name>
+    <name>Monastic High Curator [Legacy]</name>
     <sortname>Monastic, High Curator</sortname>
     <ancestry>Monastic</ancestry>
     <size>S</size>
@@ -3190,7 +3190,7 @@ Source:	Critical Role: Call of the Netherdeep p. 201</description>
     <environment/>
   </monster>
   <monster>
-    <name>Monastic Infiltrator</name>
+    <name>Monastic Infiltrator [Legacy]</name>
     <sortname>Monastic, Infiltrator</sortname>
     <ancestry>Monastic</ancestry>
     <size>S</size>
@@ -3263,7 +3263,7 @@ Source:	Critical Role: Call of the Netherdeep p. 202</description>
     <environment/>
   </monster>
   <monster>
-    <name>Monastic Operative</name>
+    <name>Monastic Operative [Legacy]</name>
     <sortname>Monastic, Operative</sortname>
     <ancestry>Monastic</ancestry>
     <size>S</size>
@@ -3326,7 +3326,7 @@ Source:	Critical Role: Call of the Netherdeep p. 202</description>
     <environment/>
   </monster>
   <monster>
-    <name>Moonshark</name>
+    <name>Moonshark [Legacy]</name>
     <sortname>Shark, Moon</sortname>
     <ancestry>Shark</ancestry>
     <size>H</size>
@@ -3378,7 +3378,7 @@ Source:	Critical Role: Call of the Netherdeep p. 33</description>
     <environment/>
   </monster>
   <monster>
-    <name>Moorbounder</name>
+    <name>Moorbounder [Legacy]</name>
     <sortname>Moorbounder</sortname>
     <ancestry>Moorbounder</ancestry>
     <size>L</size>
@@ -3420,7 +3420,7 @@ Source:	Critical Role: Call of the Netherdeep p. 203</description>
     <environment/>
   </monster>
   <monster>
-    <name>Occult Extollant</name>
+    <name>Occult Extollant [Legacy]</name>
     <sortname>Occult, Extollant</sortname>
     <size>S</size>
     <type>humanoid (sorcerer)</type>
@@ -3480,7 +3480,7 @@ Source:	Critical Role: Call of the Netherdeep p. 204</description>
     <environment/>
   </monster>
   <monster>
-    <name>Occult Initiate</name>
+    <name>Occult Initiate [Legacy]</name>
     <sortname>Occult, Initiate</sortname>
     <size>S</size>
     <type>humanoid (sorcerer)</type>
@@ -3539,7 +3539,7 @@ Source:	Critical Role: Call of the Netherdeep p. 205</description>
     <environment/>
   </monster>
   <monster>
-    <name>Occult Silvertongue</name>
+    <name>Occult Silvertongue [Legacy]</name>
     <sortname>Occult, Silvertongue</sortname>
     <size>S</size>
     <type>humanoid (sorcerer)</type>
@@ -3603,7 +3603,7 @@ Source:	Critical Role: Call of the Netherdeep p. 205</description>
     <environment/>
   </monster>
   <monster>
-    <name>Olara</name>
+    <name>Olara [Legacy]</name>
     <ancestry>Scout</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -3664,7 +3664,7 @@ Source:	Critical Role: Call of the Netherdeep p. 129</description>
     <environment/>
   </monster>
   <monster>
-    <name>Perigee</name>
+    <name>Perigee [Legacy]</name>
     <sortname>Angel, Perigee</sortname>
     <ancestry>Deva</ancestry>
     <npc>YES</npc>
@@ -3736,7 +3736,7 @@ Source:	Critical Role: Call of the Netherdeep p. 129</description>
     <environment/>
   </monster>
   <monster>
-    <name>Prolix Yusaf</name>
+    <name>Prolix Yusaf [Legacy]</name>
     <sortname>Yusaf, Prolix</sortname>
     <ancestry>Scholarly Agent</ancestry>
     <npc>YES</npc>
@@ -3794,7 +3794,7 @@ Source:	Critical Role: Call of the Netherdeep p. 129</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ruidium Elephant</name>
+    <name>Ruidium Elephant [Legacy]</name>
     <size>H</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -3846,7 +3846,7 @@ Source:	Critical Role: Call of the Netherdeep p. 95</description>
     <environment/>
   </monster>
   <monster>
-    <name>Scholarly Agent</name>
+    <name>Scholarly Agent [Legacy]</name>
     <sortname>Scholarly, Agent</sortname>
     <size>S</size>
     <type>humanoid (wizard)</type>
@@ -3900,7 +3900,7 @@ Source:	Critical Role: Call of the Netherdeep p. 206</description>
     <environment/>
   </monster>
   <monster>
-    <name>Scholarly Excavator</name>
+    <name>Scholarly Excavator [Legacy]</name>
     <sortname>Scholarly, Excavator</sortname>
     <size>S</size>
     <type>humanoid</type>
@@ -3955,7 +3955,7 @@ Source:	Critical Role: Call of the Netherdeep p. 206</description>
     <environment/>
   </monster>
   <monster>
-    <name>Scholarly Mastermind</name>
+    <name>Scholarly Mastermind [Legacy]</name>
     <sortname>Scholarly, Mastermind</sortname>
     <size>S</size>
     <type>humanoid (wizard)</type>
@@ -4016,7 +4016,7 @@ Source:	Critical Role: Call of the Netherdeep p. 207</description>
     <environment/>
   </monster>
   <monster>
-    <name>Scribble</name>
+    <name>Scribble [Legacy]</name>
     <ancestry>Scholarly Agent</ancestry>
     <size>M</size>
     <type>humanoid (kenku, wizard)</type>
@@ -4069,7 +4069,7 @@ Source:	Critical Role: Call of the Netherdeep p. 207</description>
     <environment/>
   </monster>
   <monster>
-    <name>Scuttling Serpentmaw</name>
+    <name>Scuttling Serpentmaw [Legacy]</name>
     <size>S</size>
     <type>aberration</type>
     <alignment>Unaligned</alignment>
@@ -4126,7 +4126,7 @@ Source:	Critical Role: Call of the Netherdeep p. 208</description>
     <environment/>
   </monster>
   <monster>
-    <name>Shira</name>
+    <name>Shira [Legacy]</name>
     <ancestry>Commoner</ancestry>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -4174,7 +4174,7 @@ Source:	Critical Role: Call of the Netherdeep p. 105</description>
     <environment/>
   </monster>
   <monster>
-    <name>Skeletal Bloodfin</name>
+    <name>Skeletal Bloodfin [Legacy]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>Unaligned</alignment>
@@ -4238,7 +4238,7 @@ Source:	Critical Role: Call of the Netherdeep p. 159</description>
     <environment/>
   </monster>
   <monster>
-    <name>Slithering Bloodfin</name>
+    <name>Slithering Bloodfin [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Unaligned</alignment>
@@ -4302,7 +4302,7 @@ Source:	Critical Role: Call of the Netherdeep p. 209</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sorrowfish</name>
+    <name>Sorrowfish [Legacy]</name>
     <size>T</size>
     <type>aberration</type>
     <alignment>Unaligned</alignment>
@@ -4349,7 +4349,7 @@ Source:	Critical Role: Call of the Netherdeep p. 210</description>
     <environment/>
   </monster>
   <monster>
-    <name>Swarm of Sorrowfish</name>
+    <name>Swarm of Sorrowfish [Legacy]</name>
     <sortname>Sorrowfish, Swarm</sortname>
     <ancestry>Sorrowfish</ancestry>
     <size>M</size>
@@ -4412,7 +4412,7 @@ Source:	Critical Role: Call of the Netherdeep p. 210</description>
     <environment/>
   </monster>
   <monster>
-    <name>Verin Thelyss</name>
+    <name>Verin Thelyss [Legacy]</name>
     <sortname>Thelyss, Verin</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4491,7 +4491,7 @@ Source:	Critical Role: Call of the Netherdeep p. 51</description>
     <environment/>
   </monster>
   <monster>
-    <name>Xot</name>
+    <name>Xot [Legacy]</name>
     <size>M</size>
     <type>humanoid (goliath)</type>
     <alignment>any alignment</alignment>
@@ -4544,7 +4544,7 @@ Source:	Critical Role: Call of the Netherdeep p. 51</description>
     <environment/>
   </monster>
   <monster>
-    <name>Young Horizonback Tortoise</name>
+    <name>Young Horizonback Tortoise [Legacy]</name>
     <ancestry>Ankylosaurus</ancestry>
     <size>H</size>
     <type>beast</type>

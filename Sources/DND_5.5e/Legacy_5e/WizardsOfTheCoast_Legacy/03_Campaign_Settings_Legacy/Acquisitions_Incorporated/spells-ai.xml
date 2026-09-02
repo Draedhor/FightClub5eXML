@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Distort Value</name>
+    <name>Distort Value [Legacy]</name>
     <level>1</level>
     <school>I</school>
     <time>1 minute</time>
@@ -17,7 +17,7 @@ At Higher Levels: When you cast this spell using a spell slot of 2nd level or hi
 Source:	Acquisitions Incorporated p. 75</text>
   </spell>
   <spell>
-    <name>Fast Friends</name>
+    <name>Fast Friends [Legacy]</name>
     <level>3</level>
     <school>EN</school>
     <time>1 action</time>
@@ -38,7 +38,7 @@ Charmed:
 Source:	Acquisitions Incorporated p. 75</text>
   </spell>
   <spell>
-    <name>Gift of Gab</name>
+    <name>Gift of Gab [Legacy]</name>
     <level>2</level>
     <school>EN</school>
     <time>1 reaction</time>
@@ -55,7 +55,7 @@ Jim Darkmagic is said to have invented this spell, originally calling it I said 
 Source:	Acquisitions Incorporated p. 76</text>
   </spell>
   <spell>
-    <name>Incite Greed</name>
+    <name>Incite Greed [Legacy]</name>
     <level>3</level>
     <school>EN</school>
     <time>1 action</time>
@@ -73,7 +73,7 @@ Charmed:
 Source:	Acquisitions Incorporated p. 76</text>
   </spell>
   <spell>
-    <name>Jim's Glowing Coin</name>
+    <name>Jim's Glowing Coin [Legacy]</name>
     <level>2</level>
     <school>EN</school>
     <time>1 action</time>
@@ -86,7 +86,7 @@ Source:	Acquisitions Incorporated p. 76</text>
 Source:	Acquisitions Incorporated p. 76</text>
   </spell>
   <spell>
-    <name>Jim's Magic Missile</name>
+    <name>Jim's Magic Missile [Legacy]</name>
     <level>1</level>
     <school>EV</school>
     <time>1 action</time>
@@ -108,7 +108,7 @@ Source:	Acquisitions Incorporated p. 76</text>
     <roll description="Force Damage">5d4</roll>
   </spell>
   <spell>
-    <name>Motivational Speech</name>
+    <name>Motivational Speech [Legacy]</name>
     <level>3</level>
     <school>EN</school>
     <time>1 minute</time>

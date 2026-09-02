@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Conch of Safe Rest</name>
+    <name>Conch of Safe Rest [Legacy]</name>
     <detail>other</detail>
     <type>G</type>
     <weight>2</weight>
@@ -10,7 +10,7 @@
 Source:	The Tortle Package p. 17</text>
   </item>
   <item>
-    <name>Tortle Shell Armor</name>
+    <name>Tortle Shell Armor [Legacy]</name>
     <detail>prerequisite: tortle race</detail>
     <type>HA</type>
     <ac>17</ac>

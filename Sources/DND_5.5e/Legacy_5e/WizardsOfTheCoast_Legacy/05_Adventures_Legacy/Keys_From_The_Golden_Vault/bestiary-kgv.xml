@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Animatronic Allosaurus</name>
+    <name>Animatronic Allosaurus [Legacy]</name>
     <sortname>Dinosaur, Allosaurus Animatronic</sortname>
     <ancestry>Dinosaur</ancestry>
     <size>L</size>
@@ -48,7 +48,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Ashen Animated Armor</name>
+    <name>Ashen Animated Armor [Legacy]</name>
     <sortname>Animated Armor, Ashen</sortname>
     <ancestry>Animated Object</ancestry>
     <size>M</size>
@@ -102,7 +102,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Ashen Flying Sword</name>
+    <name>Ashen Flying Sword [Legacy]</name>
     <sortname>Flying Sword, Ashen</sortname>
     <ancestry>Animated Object</ancestry>
     <size>S</size>
@@ -152,7 +152,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Ashen Knight</name>
+    <name>Ashen Knight [Legacy]</name>
     <sortname>Knight, Ashen</sortname>
     <ancestry>Knight</ancestry>
     <size>M</size>
@@ -216,7 +216,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Ashen Shambling Mound</name>
+    <name>Ashen Shambling Mound [Legacy]</name>
     <sortname>Shambling Mound, Ashen</sortname>
     <ancestry>Shambling Mound</ancestry>
     <size>L</size>
@@ -270,7 +270,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Ashen Veteran</name>
+    <name>Ashen Veteran [Legacy]</name>
     <sortname>Veteran, Ashen</sortname>
     <ancestry>Veteran</ancestry>
     <size>M</size>
@@ -327,7 +327,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Ashen Warhorse</name>
+    <name>Ashen Warhorse [Legacy]</name>
     <sortname>Warhorse, Ashen</sortname>
     <ancestry>Warhorse</ancestry>
     <size>L</size>
@@ -373,7 +373,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Charmayne Daymore</name>
+    <name>Charmayne Daymore [Legacy]</name>
     <sortname>Daymore, Charmayne</sortname>
     <size>M</size>
     <type>elemental (wizard)</type>
@@ -445,7 +445,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Clockwork Defender</name>
+    <name>Clockwork Defender [Legacy]</name>
     <sortname>Clockwork, Defender</sortname>
     <ancestry>Clockwork</ancestry>
     <size>M</size>
@@ -491,7 +491,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Clockwork Observer</name>
+    <name>Clockwork Observer [Legacy]</name>
     <sortname>Clockwork, Observer</sortname>
     <ancestry>Clockwork</ancestry>
     <size>T</size>
@@ -540,7 +540,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Eldritch Horror Hatchling</name>
+    <name>Eldritch Horror Hatchling [Legacy]</name>
     <sortname>Eldritch Horror, Hatchling</sortname>
     <ancestry>Eldritch Horror</ancestry>
     <size>L</size>
@@ -583,7 +583,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Eliphas Adulare</name>
+    <name>Eliphas Adulare [Legacy]</name>
     <sortname>Adulare, Eliphas</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -652,7 +652,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Fragment of Krokulmar</name>
+    <name>Fragment of Krokulmar [Legacy]</name>
     <size>T</size>
     <type>aberration</type>
     <alignment>chaotic evil</alignment>
@@ -691,7 +691,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Joster Mareet</name>
+    <name>Joster Mareet [Legacy]</name>
     <sortname>Mareet, Joster</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -748,7 +748,7 @@ Joster Mareet can have only one target charmed at a time. If it charms another, 
     <environment/>
   </monster>
   <monster>
-    <name>Juvenile Eldritch Horror</name>
+    <name>Juvenile Eldritch Horror [Legacy]</name>
     <sortname>Eldritch Horror, Juvenile</sortname>
     <ancestry>Eldritch Horror</ancestry>
     <size>H</size>
@@ -814,7 +814,7 @@ If the eldritch horror takes 30 damage or more on a single turn from the swallow
     <environment/>
   </monster>
   <monster>
-    <name>King Jhaeros</name>
+    <name>King Jhaeros [Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>unaligned</alignment>
@@ -883,7 +883,7 @@ If the eldritch horror takes 30 damage or more on a single turn from the swallow
     <environment/>
   </monster>
   <monster>
-    <name>Markos Delphi</name>
+    <name>Markos Delphi [Legacy]</name>
     <sortname>Delphi, Markos</sortname>
     <ancestry>Delphi</ancestry>
     <npc>YES</npc>
@@ -942,7 +942,7 @@ If the eldritch horror takes 30 damage or more on a single turn from the swallow
     <environment/>
   </monster>
   <monster>
-    <name>Prisoner 13</name>
+    <name>Prisoner 13 [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (dwarf, monk)</type>
@@ -1012,7 +1012,7 @@ If the eldritch horror takes 30 damage or more on a single turn from the swallow
     <environment/>
   </monster>
   <monster>
-    <name>Sythian Skalderang</name>
+    <name>Sythian Skalderang [Legacy]</name>
     <sortname>Skalderang, Sythian</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1084,7 +1084,7 @@ If the eldritch horror takes 30 damage or more on a single turn from the swallow
     <environment/>
   </monster>
   <monster>
-    <name>Tixie Tockworth</name>
+    <name>Tixie Tockworth [Legacy]</name>
     <sortname>Tockworth, Tixie</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -1149,7 +1149,7 @@ If the eldritch horror takes 30 damage or more on a single turn from the swallow
     <environment/>
   </monster>
   <monster>
-    <name>Zorhanna's Simulacrum</name>
+    <name>Zorhanna's Simulacrum [Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>neutral evil</alignment>

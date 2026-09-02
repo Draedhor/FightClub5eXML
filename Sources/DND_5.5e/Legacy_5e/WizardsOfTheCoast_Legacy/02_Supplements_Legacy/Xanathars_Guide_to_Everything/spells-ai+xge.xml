@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Gift of Gab</name>
+    <name>Gift of Gab [Legacy]</name>
     <classes>Sorcerer (Divine Soul)</classes>
   </spell>
   <spell>
-    <name>Incite Greed</name>
+    <name>Incite Greed [Legacy]</name>
     <classes>Sorcerer (Divine Soul)</classes>
   </spell>
   <spell>
-    <name>Fast Friends</name>
+    <name>Fast Friends [Legacy]</name>
     <classes>Sorcerer (Divine Soul)</classes>
   </spell>
   <spell>
-    <name>Motivational Speech</name>
+    <name>Motivational Speech [Legacy]</name>
     <classes>Sorcerer (Divine Soul)</classes>
   </spell>
 </compendium>

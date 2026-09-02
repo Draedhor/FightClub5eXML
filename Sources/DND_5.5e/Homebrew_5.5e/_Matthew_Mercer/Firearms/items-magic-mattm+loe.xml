@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Lycan Bad News (TP)</name>
+    <name>Lycan Bad News [TP]</name>
     <detail>firearm, modern, sniper rifle, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -38,7 +38,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Blunderbuss (Matthew Mercer) (TP)</name>
+    <name>Lycan Blunderbuss (Matthew Mercer) [TP]</name>
     <detail>firearm, modern, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -73,7 +73,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Hand Mortar (TP)</name>
+    <name>Lycan Hand Mortar [TP]</name>
     <detail>firearm, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -105,7 +105,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111,
     <roll description="Fire Damage">1d8</roll>
   </item>
   <item>
-    <name>Lycan Musket (Matthew Mercer) (TP)</name>
+    <name>Lycan Musket (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -142,7 +142,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Palm Pistol (TP)</name>
+    <name>Lycan Palm Pistol [TP]</name>
     <detail>firearm, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -181,7 +181,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Pistol (Matthew Mercer) (TP)</name>
+    <name>Lycan Pistol (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -216,7 +216,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Lycan Pepperbox (TP)</name>
+    <name>Lycan Pepperbox [TP]</name>
     <detail>firearm, rare</detail>
     <type>R</type>
     <magic>YES</magic>

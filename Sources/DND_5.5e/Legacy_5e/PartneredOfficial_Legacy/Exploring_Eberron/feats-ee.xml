@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <feat>
-    <name>Aereni Halflife (Intelligence) (TP)</name>
+    <name>Aereni Halflife (Intelligence) [TP Legacy]</name>
     <prerequisite>Elf (Aereni)</prerequisite>
     <text>You've undergone rituals that bind you to Irian and the Undying Court. Many who undergo this process have a desiccated appearance, similar to a mummy; it's up to you whether you are affected in this way. Regardless of your appearance, you gain the following benefits:
 
@@ -15,7 +15,7 @@ Source:	Exploring Eberron p. 212 (Third Party)</text>
     <modifier category="ability score">intelligence +1</modifier>
   </feat>
   <feat>
-    <name>Aereni Halflife (Wisdom) (TP)</name>
+    <name>Aereni Halflife (Wisdom) [TP Legacy]</name>
     <prerequisite>Elf (Aereni)</prerequisite>
     <text>You've undergone rituals that bind you to Irian and the Undying Court. Many who undergo this process have a desiccated appearance, similar to a mummy; it's up to you whether you are affected in this way. Regardless of your appearance, you gain the following benefits:
 
@@ -29,7 +29,7 @@ Source:	Exploring Eberron p. 212 (Third Party)</text>
     <modifier category="ability score">wisdom +1</modifier>
   </feat>
   <feat>
-    <name>Changeling Metamorphosis (TP)</name>
+    <name>Changeling Metamorphosis [TP Legacy]</name>
     <prerequisite>Changeling</prerequisite>
     <text>Your ability to shapechange is more than skin deep. Increase your Constitution score by 1, to a maximum of 20. In addition, when you use your Shapechanging trait, you can choose one of the following benefits, which lasts until you use your Shapechanging trait again. Some of these benefits require specific physical features, such as gills or claws, that can be seen by observers.
 
@@ -43,7 +43,7 @@ Source:	Exploring Eberron p. 212 (Third Party)</text>
     <modifier category="ability score">constitution +1</modifier>
   </feat>
   <feat>
-    <name>Focused Personas (TP)</name>
+    <name>Focused Personas [TP Legacy]</name>
     <prerequisite>Changeling</prerequisite>
     <text>You've developed personas that help you focus your talents. Work with your DM to define two unique personas —identities with distinct appearances and personalities. You gain the following benefits:
 
@@ -57,7 +57,7 @@ Source:	Exploring Eberron p. 213 (Third Party)</text>
     <modifier category="ability score">charisma +1</modifier>
   </feat>
   <feat>
-    <name>Quori Bond (Wisdom) (TP)</name>
+    <name>Quori Bond (Wisdom) [TP Legacy]</name>
     <prerequisite>Kalashtar</prerequisite>
     <text>The quori are tied to emotions. The tsucora feed on fear. The hashalaq are master manipulators. The kalaraq are the nobility of nightmares. The du'ulora harness fury. Your bond with your quori spirit is unusually strong, and you can draw on a fraction of its power and instincts. When you choose this feat, choose your quori lineage: hashalaq, du'ulora, kalaraq, or tsucora. You gain the following benefits:
 
@@ -80,7 +80,7 @@ Source:	Exploring Eberron p. 213 (Third Party)</text>
     <modifier category="ability score">wisdom +1</modifier>
   </feat>
   <feat>
-    <name>Quori Bond (Charisma) (TP)</name>
+    <name>Quori Bond (Charisma) [TP Legacy]</name>
     <prerequisite>Kalashtar</prerequisite>
     <text>The quori are tied to emotions. The tsucora feed on fear. The hashalaq are master manipulators. The kalaraq are the nobility of nightmares. The du'ulora harness fury. Your bond with your quori spirit is unusually strong, and you can draw on a fraction of its power and instincts. When you choose this feat, choose your quori lineage: hashalaq, du'ulora, kalaraq, or tsucora. You gain the following benefits:
 
@@ -103,7 +103,7 @@ Source:	Exploring Eberron p. 213 (Third Party)</text>
     <modifier category="ability score">charisma +1</modifier>
   </feat>
   <feat>
-    <name>Superior Shifting (Strength) (TP)</name>
+    <name>Superior Shifting (Strength) [TP Legacy]</name>
     <prerequisite>Shifter</prerequisite>
     <text>You have a strong connection to the beast within, strengthening your body and your ability to shift. You gain the following benefits:
 
@@ -117,7 +117,7 @@ Source:	Exploring Eberron p. 213 (Third Party)</text>
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Superior Shifting (Dexterity) (TP)</name>
+    <name>Superior Shifting (Dexterity) [TP Legacy]</name>
     <prerequisite>Shifter</prerequisite>
     <text>You have a strong connection to the beast within, strengthening your body and your ability to shift. You gain the following benefits:
 
@@ -131,7 +131,7 @@ Source:	Exploring Eberron p. 213 (Third Party)</text>
     <modifier category="ability score">dexterity +1</modifier>
   </feat>
   <feat>
-    <name>Superior Shifting (Constitution) (TP)</name>
+    <name>Superior Shifting (Constitution) [TP Legacy]</name>
     <prerequisite>Shifter</prerequisite>
     <text>You have a strong connection to the beast within, strengthening your body and your ability to shift. You gain the following benefits:
 
@@ -145,7 +145,7 @@ Source:	Exploring Eberron p. 213 (Third Party)</text>
     <modifier category="ability score">constitution +1</modifier>
   </feat>
   <feat>
-    <name>Superior Shifting (Intelligence) (TP)</name>
+    <name>Superior Shifting (Intelligence) [TP Legacy]</name>
     <prerequisite>Shifter</prerequisite>
     <text>You have a strong connection to the beast within, strengthening your body and your ability to shift. You gain the following benefits:
 
@@ -159,7 +159,7 @@ Source:	Exploring Eberron p. 213 (Third Party)</text>
     <modifier category="ability score">intelligence +1</modifier>
   </feat>
   <feat>
-    <name>Superior Shifting (Wisdom) (TP)</name>
+    <name>Superior Shifting (Wisdom) [TP Legacy]</name>
     <prerequisite>Shifter</prerequisite>
     <text>You have a strong connection to the beast within, strengthening your body and your ability to shift. You gain the following benefits:
 
@@ -173,7 +173,7 @@ Source:	Exploring Eberron p. 213 (Third Party)</text>
     <modifier category="ability score">wisdom +1</modifier>
   </feat>
   <feat>
-    <name>Superior Shifting (Charisma) (TP)</name>
+    <name>Superior Shifting (Charisma) [TP Legacy]</name>
     <prerequisite>Shifter</prerequisite>
     <text>You have a strong connection to the beast within, strengthening your body and your ability to shift. You gain the following benefits:
 
@@ -187,7 +187,7 @@ Source:	Exploring Eberron p. 213 (Third Party)</text>
     <modifier category="ability score">charisma +1</modifier>
   </feat>
   <feat>
-    <name>Thoughtsinger (Wisdom) (TP)</name>
+    <name>Thoughtsinger (Wisdom) [TP Legacy]</name>
     <prerequisite>Kalashtar</prerequisite>
     <text>You have honed your telepathic abilities, allowing you to link to and guide your companions as a united group. You gain the following benefits:
 
@@ -201,7 +201,7 @@ Source:	Exploring Eberron p. 213 (Third Party)</text>
     <modifier category="ability score">wisdom +1</modifier>
   </feat>
   <feat>
-    <name>Thoughtsinger (Charisma) (TP)</name>
+    <name>Thoughtsinger (Charisma) [TP Legacy]</name>
     <prerequisite>Kalashtar</prerequisite>
     <text>You have honed your telepathic abilities, allowing you to link to and guide your companions as a united group. You gain the following benefits:
 
@@ -215,7 +215,7 @@ Source:	Exploring Eberron p. 213 (Third Party)</text>
     <modifier category="ability score">charisma +1</modifier>
   </feat>
   <feat>
-    <name>Envoy Specialist (Strength) (TP)</name>
+    <name>Envoy Specialist (Strength) [TP Legacy]</name>
     <prerequisite>Warforged</prerequisite>
     <text>You have modified your body to perform a specific task, integrating a tool directly into your body. You gain the following benefits.
 
@@ -231,7 +231,7 @@ Source:	Exploring Eberron p. 213 (Third Party)</text>
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Envoy Specialist (Dexterity) (TP)</name>
+    <name>Envoy Specialist (Dexterity) [TP Legacy]</name>
     <prerequisite>Warforged</prerequisite>
     <text>You have modified your body to perform a specific task, integrating a tool directly into your body. You gain the following benefits.
 
@@ -247,7 +247,7 @@ Source:	Exploring Eberron p. 213 (Third Party)</text>
     <modifier category="ability score">dexterity +1</modifier>
   </feat>
   <feat>
-    <name>Envoy Specialist (Constitution) (TP)</name>
+    <name>Envoy Specialist (Constitution) [TP Legacy]</name>
     <prerequisite>Warforged</prerequisite>
     <text>You have modified your body to perform a specific task, integrating a tool directly into your body. You gain the following benefits.
 
@@ -263,7 +263,7 @@ Source:	Exploring Eberron p. 213 (Third Party)</text>
     <modifier category="ability score">constitution +1</modifier>
   </feat>
   <feat>
-    <name>Envoy Specialist (Intelligence) (TP)</name>
+    <name>Envoy Specialist (Intelligence) [TP Legacy]</name>
     <prerequisite>Warforged</prerequisite>
     <text>You have modified your body to perform a specific task, integrating a tool directly into your body. You gain the following benefits.
 
@@ -279,7 +279,7 @@ Source:	Exploring Eberron p. 213 (Third Party)</text>
     <modifier category="ability score">intelligence +1</modifier>
   </feat>
   <feat>
-    <name>Envoy Specialist (Wisdom) (TP)</name>
+    <name>Envoy Specialist (Wisdom) [TP Legacy]</name>
     <prerequisite>Warforged</prerequisite>
     <text>You have modified your body to perform a specific task, integrating a tool directly into your body. You gain the following benefits.
 
@@ -295,7 +295,7 @@ Source:	Exploring Eberron p. 213 (Third Party)</text>
     <modifier category="ability score">wisdom +1</modifier>
   </feat>
   <feat>
-    <name>Envoy Specialist (Charisma) (TP)</name>
+    <name>Envoy Specialist (Charisma) [TP Legacy]</name>
     <prerequisite>Warforged</prerequisite>
     <text>You have modified your body to perform a specific task, integrating a tool directly into your body. You gain the following benefits.
 
@@ -311,7 +311,7 @@ Source:	Exploring Eberron p. 213 (Third Party)</text>
     <modifier category="ability score">charisma +1</modifier>
   </feat>
   <feat>
-    <name>Juggernaut Plating (Strength) (TP)</name>
+    <name>Juggernaut Plating (Strength) [TP Legacy]</name>
     <prerequisite>Warforged</prerequisite>
     <text>Your armor is a part of you, strengthened by your life force. You gain the following benefits.
 
@@ -327,7 +327,7 @@ Source:	Exploring Eberron p. 213 (Third Party)</text>
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Juggernaut Plating (Constitution) (TP)</name>
+    <name>Juggernaut Plating (Constitution) [TP Legacy]</name>
     <prerequisite>Warforged</prerequisite>
     <text>Your armor is a part of you, strengthened by your life force. You gain the following benefits.
 

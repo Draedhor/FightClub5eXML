@@ -188,43 +188,43 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 174 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Magic Missile (TP)</name>
+    <name>Magic Missile [TP]</name>
     <classes>Warlock (Cosmic Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Faerie Fire (TP)</name>
+    <name>Faerie Fire [TP]</name>
     <classes>Warlock (Cosmic Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Moonbeam (TP)</name>
+    <name>Moonbeam [TP]</name>
     <classes>Warlock (Cosmic Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Scorching Ray (TP)</name>
+    <name>Scorching Ray [TP]</name>
     <classes>Warlock (Cosmic Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Blink (TP)</name>
+    <name>Blink [TP]</name>
     <classes>Warlock (Cosmic Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Spirit Guardians (TP)</name>
+    <name>Spirit Guardians [TP]</name>
     <classes>Warlock (Cosmic Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Fire Shield (TP)</name>
+    <name>Fire Shield [TP]</name>
     <classes>Warlock (Cosmic Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Wall of Fire (TP)</name>
+    <name>Wall of Fire [TP]</name>
     <classes>Warlock (Cosmic Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Flame Strike (TP)</name>
+    <name>Flame Strike [TP]</name>
     <classes>Warlock (Cosmic Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Greater Restoration (TP)</name>
+    <name>Greater Restoration [TP]</name>
     <classes>Warlock (Cosmic Patron (HB))</classes>
   </spell>
 </compendium>

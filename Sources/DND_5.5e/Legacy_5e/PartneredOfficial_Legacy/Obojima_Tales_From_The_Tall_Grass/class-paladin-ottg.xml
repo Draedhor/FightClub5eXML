@@ -93,43 +93,43 @@ Source:	Obojima: Tales from the Tall Grass p. 143 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Bless</name>
-    <classes>Paladin [5.5e] (Oath of the River (TP))</classes>
+    <name>Bless [TP Legacy]</name>
+    <classes>Paladin (Oath of the River (TP))</classes>
   </spell>
   <spell>
-    <name>Whelm Weapon (TP)</name>
-    <classes>Paladin [5.5e] (Oath of the River (TP))</classes>
+    <name>Whelm Weapon [TP Legacy]</name>
+    <classes>Paladin (Oath of the River (TP))</classes>
   </spell>
   <spell>
-    <name>Find Steed</name>
-    <classes>Paladin [5.5e] (Oath of the River (TP))</classes>
+    <name>Find Steed [TP Legacy]</name>
+    <classes>Paladin (Oath of the River (TP))</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration</name>
-    <classes>Paladin [5.5e] (Oath of the River (TP))</classes>
+    <name>Lesser Restoration [TP Legacy]</name>
+    <classes>Paladin (Oath of the River (TP))</classes>
   </spell>
   <spell>
-    <name>Water Breathing</name>
-    <classes>Paladin [5.5e] (Oath of the River (TP))</classes>
+    <name>Water Breathing [TP Legacy]</name>
+    <classes>Paladin (Oath of the River (TP))</classes>
   </spell>
   <spell>
-    <name>Water Walk</name>
-    <classes>Paladin [5.5e] (Oath of the River (TP))</classes>
+    <name>Water Walk [TP Legacy]</name>
+    <classes>Paladin (Oath of the River (TP))</classes>
   </spell>
   <spell>
-    <name>Control Water</name>
-    <classes>Paladin [5.5e] (Oath of the River (TP))</classes>
+    <name>Control Water [TP Legacy]</name>
+    <classes>Paladin (Oath of the River (TP))</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement</name>
-    <classes>Paladin [5.5e] (Oath of the River (TP))</classes>
+    <name>Freedom of Movement [TP Legacy]</name>
+    <classes>Paladin (Oath of the River (TP))</classes>
   </spell>
   <spell>
-    <name>Mass Cure Wounds</name>
-    <classes>Paladin [5.5e] (Oath of the River (TP))</classes>
+    <name>Mass Cure Wounds [TP Legacy]</name>
+    <classes>Paladin (Oath of the River (TP))</classes>
   </spell>
   <spell>
-    <name>Submerge (TP)</name>
-    <classes>Paladin [5.5e] (Oath of the River (TP))</classes>
+    <name>Submerge [TP Legacy]</name>
+    <classes>Paladin (Oath of the River (TP))</classes>
   </spell>
 </compendium>

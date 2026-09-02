@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Arc Rifle (TP)</name>
+    <name>Arc Rifle [TP Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -18,7 +18,7 @@ Source:	Grim Hollow: Campaign Guide p. 216 (Third Party)</text>
     <roll description="Lightning Damage">6d6</roll>
   </item>
   <item>
-    <name>Collar of Undead (TP)</name>
+    <name>Collar of Undead [TP Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -31,7 +31,7 @@ Source:	Grim Hollow: Campaign Guide p. 217 (Third Party)</text>
     <roll description="Hit Point Max Decrease">1d4</roll>
   </item>
   <item>
-    <name>Thought Talker Orbs (TP)</name>
+    <name>Thought Talker Orbs [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -42,7 +42,7 @@ Source:	Grim Hollow: Campaign Guide p. 217 (Third Party)</text>
 Source:	Grim Hollow: Campaign Guide p. 217 (Third Party)</text>
   </item>
   <item>
-    <name>Breath of Beleth (TP)</name>
+    <name>Breath of Beleth [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -53,7 +53,7 @@ Breath of Beleth (Inhaled). A creature subject to the poison must succeed at a D
 Source:	Grim Hollow: Campaign Guide p. 218 (Third Party)</text>
   </item>
   <item>
-    <name>Full Moon Extract (TP)</name>
+    <name>Full Moon Extract [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -66,7 +66,7 @@ Source:	Grim Hollow: Campaign Guide p. 218 (Third Party)</text>
 Source:	Grim Hollow: Campaign Guide p. 218 (Third Party)</text>
   </item>
   <item>
-    <name>Aether Blood (TP)</name>
+    <name>Aether Blood [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -77,7 +77,7 @@ Source:	Grim Hollow: Campaign Guide p. 218 (Third Party)</text>
 Source:	Grim Hollow: Campaign Guide p. 218 (Third Party)</text>
   </item>
   <item>
-    <name>Dreams Leaves (TP)</name>
+    <name>Dreams Leaves [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -89,7 +89,7 @@ Source:	Grim Hollow: Campaign Guide p. 218 (Third Party)</text>
 Source:	Grim Hollow: Campaign Guide p. 219 (Third Party)</text>
   </item>
   <item>
-    <name>Seven Shades of Sitri (TP)</name>
+    <name>Seven Shades of Sitri [TP Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <text>This venereal disease is not lethal but has indirectly caused many deaths. The Arch Daemon Sitri is said to be responsible for the appearance of this disease, hence its name. Stimulating lust to extremes, it is rumored to have prevented city garrisons from defending the walls on several occasions, allowing fortified cities to be taken easily where a years-long siege was expected. The exact propagation vector of the disease is not known with certainty as several variants — or shades — of the disease seem to coexist, strangely appearing in a region only to spontaneously disappear some time later. Rumors have it that dark bargains are signed in the shadows to unleash the Seven Shades and trigger unrest ahead of bolder political or military moves.
@@ -99,7 +99,7 @@ Source:	Grim Hollow: Campaign Guide p. 219 (Third Party)</text>
 Source:	Grim Hollow: Campaign Guide p. 219 (Third Party)</text>
   </item>
   <item>
-    <name>Greatsword of the Craven (TP)</name>
+    <name>Greatsword of the Craven [TP Legacy]</name>
     <detail>greatsword, cursed, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>

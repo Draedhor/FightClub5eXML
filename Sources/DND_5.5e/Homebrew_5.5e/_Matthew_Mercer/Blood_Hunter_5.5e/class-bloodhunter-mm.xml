@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Blood Hunter (TP)</name>
+    <name>Blood Hunter [TP]</name>
     <hd>10</hd>
     <proficiency>Dexterity, Intelligence, Acrobatics, Arcana, Athletics, History, Insight, Investigation, Religion, Survival</proficiency>
     <numSkills>3</numSkills>

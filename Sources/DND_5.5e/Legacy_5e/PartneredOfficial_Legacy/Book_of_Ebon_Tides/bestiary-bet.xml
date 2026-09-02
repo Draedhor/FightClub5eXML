@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Bearfolk Druid</name>
+    <name>Bearfolk Druid [TP Legacy]</name>
     <sortname>Bearfolk, Druid</sortname>
     <ancestry>Bearfolk</ancestry>
     <npc>YES</npc>
@@ -89,7 +89,7 @@ Source:	Book of Ebon Tides p. 164 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bearfolk Thunderstomper</name>
+    <name>Bearfolk Thunderstomper [TP Legacy]</name>
     <sortname>Bearfolk, Thunderstomper</sortname>
     <ancestry>Bearfolk</ancestry>
     <npc>YES</npc>
@@ -183,7 +183,7 @@ Source:	Book of Ebon Tides p. 165 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Birch Siren</name>
+    <name>Birch Siren [TP Legacy]</name>
     <sortname>Siren, Birch</sortname>
     <ancestry>Siren</ancestry>
     <size>L</size>
@@ -247,7 +247,7 @@ Source:	Book of Ebon Tides p. 166 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Darakhul General</name>
+    <name>Darakhul General [TP Legacy]</name>
     <sortname>Darakhul, General</sortname>
     <ancestry>Darakhul</ancestry>
     <size>M</size>
@@ -363,7 +363,7 @@ Source:	Book of Ebon Tides p. 167 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gnomish Distiller</name>
+    <name>Gnomish Distiller [TP Legacy]</name>
     <sortname>Gnomish, Distiller</sortname>
     <ancestry>Gnomish</ancestry>
     <npc>YES</npc>
@@ -444,7 +444,7 @@ Source:	Book of Ebon Tides p. 168 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Keeper of Hounds</name>
+    <name>Keeper of Hounds [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Any Alignment</alignment>
@@ -530,7 +530,7 @@ Source:	Book of Ebon Tides p. 170 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Keeper of Ravens</name>
+    <name>Keeper of Ravens [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Any Alignment</alignment>
@@ -618,7 +618,7 @@ Source:	Book of Ebon Tides p. 171 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Knight of Shadows</name>
+    <name>Knight of Shadows [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Any Lawful Alignment</alignment>
@@ -691,7 +691,7 @@ Source:	Book of Ebon Tides p. 171 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lesser Lunar Devil</name>
+    <name>Lesser Lunar Devil [TP Legacy]</name>
     <sortname>Devil, Lesser Lunar</sortname>
     <ancestry>Devil</ancestry>
     <size>M</size>
@@ -779,7 +779,7 @@ Source:	Book of Ebon Tides p. 172 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Memory Thief</name>
+    <name>Memory Thief [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Any Non-Good Alignment</alignment>
@@ -847,7 +847,7 @@ Source:	Book of Ebon Tides p. 174 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Molefolk</name>
+    <name>Molefolk [TP Legacy]</name>
     <ancestry>Molefolk</ancestry>
     <npc>YES</npc>
     <size>S</size>
@@ -904,7 +904,7 @@ Source:	Book of Ebon Tides p. 175 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Moonshadow Catcher</name>
+    <name>Moonshadow Catcher [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (goblinoid)</type>
     <alignment>Neutral Evil</alignment>
@@ -987,7 +987,7 @@ Source:	Book of Ebon Tides p. 176 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Oma Rattenfanger, Keeper of the Plain</name>
+    <name>Oma Rattenfanger, Keeper of the Plain [TP Legacy]</name>
     <sortname>Oma Rattenfanger</sortname>
     <ancestry>Oma Rattenfanger</ancestry>
     <npc>YES</npc>
@@ -1100,7 +1100,7 @@ Source:	Book of Ebon Tides p. 177 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Radiant Lord</name>
+    <name>Radiant Lord [TP Legacy]</name>
     <sortname>Lord, Radiant</sortname>
     <ancestry>Lord</ancestry>
     <size>M</size>
@@ -1226,7 +1226,7 @@ Source:	Book of Ebon Tides p. 178 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>River Giant</name>
+    <name>River Giant [TP Legacy]</name>
     <sortname>Giant, River</sortname>
     <ancestry>Giant</ancestry>
     <size>L</size>
@@ -1296,7 +1296,7 @@ Source:	Book of Ebon Tides p. 180 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>River Styx Giant</name>
+    <name>River Styx Giant [TP Legacy]</name>
     <sortname>Giant, River Styx</sortname>
     <ancestry>Giant</ancestry>
     <size>L</size>
@@ -1398,7 +1398,7 @@ Source:	Book of Ebon Tides p. 181 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>River Spirit</name>
+    <name>River Spirit [TP Legacy]</name>
     <sortname>Spirit, River</sortname>
     <ancestry>Spirit</ancestry>
     <size>M</size>
@@ -1464,7 +1464,7 @@ Source:	Book of Ebon Tides p. 182 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rose Golem</name>
+    <name>Rose Golem [TP Legacy]</name>
     <sortname>Golem, Rose</sortname>
     <ancestry>Golem</ancestry>
     <size>L</size>
@@ -1540,7 +1540,7 @@ Source:	Book of Ebon Tides p. 183 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sable Elf</name>
+    <name>Sable Elf [TP Legacy]</name>
     <sortname>Elf, Sable</sortname>
     <ancestry>Elf</ancestry>
     <npc>YES</npc>
@@ -1607,7 +1607,7 @@ Source:	Book of Ebon Tides p. 184 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sable Elf Hierophant</name>
+    <name>Sable Elf Hierophant [TP Legacy]</name>
     <sortname>Elf, Sable Hierophant</sortname>
     <ancestry>Elf</ancestry>
     <npc>YES</npc>
@@ -1680,7 +1680,7 @@ Source:	Book of Ebon Tides p. 185 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Shadow Fey Bandit</name>
+    <name>Shadow Fey Bandit [TP Legacy]</name>
     <sortname>Bandit, Shadow Fey</sortname>
     <ancestry>Bandit</ancestry>
     <npc>YES</npc>
@@ -1753,7 +1753,7 @@ Source:	Book of Ebon Tides p. 186 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Shadow Goblin Chieftain</name>
+    <name>Shadow Goblin Chieftain [TP Legacy]</name>
     <sortname>Goblin, Shadow Chieftain</sortname>
     <ancestry>Goblin</ancestry>
     <npc>YES</npc>
@@ -1828,7 +1828,7 @@ Source:	Book of Ebon Tides p. 187 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Shadow Goblin Scribe</name>
+    <name>Shadow Goblin Scribe [TP Legacy]</name>
     <sortname>Goblin, Shadow Scribe</sortname>
     <ancestry>Goblin</ancestry>
     <npc>YES</npc>
@@ -1906,7 +1906,7 @@ Source:	Book of Ebon Tides p. 188 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Shadowspider Swarm</name>
+    <name>Shadowspider Swarm [TP Legacy]</name>
     <sortname>Shadowspider, Swarm</sortname>
     <ancestry>Shadowspider</ancestry>
     <size>L</size>
@@ -1969,7 +1969,7 @@ Source:	Book of Ebon Tides p. 189 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Umbral Tailor</name>
+    <name>Umbral Tailor [TP Legacy]</name>
     <sortname>Tailor, Umbral</sortname>
     <ancestry>Tailor</ancestry>
     <npc>YES</npc>
@@ -2043,7 +2043,7 @@ Source:	Book of Ebon Tides p. 190 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Wandering Pond</name>
+    <name>Wandering Pond [TP Legacy]</name>
     <sortname>Pond, Wandering</sortname>
     <ancestry>Pond</ancestry>
     <size>L</size>

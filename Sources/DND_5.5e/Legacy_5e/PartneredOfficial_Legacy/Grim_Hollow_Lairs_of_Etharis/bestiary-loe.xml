@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Ancient Corpse Walker</name>
+    <name>Ancient Corpse Walker [TP Legacy]</name>
     <sortname>Corpse Walker, Ancient</sortname>
     <ancestry>Corpse Walker</ancestry>
     <size>L</size>
@@ -80,7 +80,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 104 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Angel of Empyreus</name>
+    <name>Angel of Empyreus [TP Legacy]</name>
     <size>L</size>
     <type>celestial</type>
     <alignment>Lawful Neutral</alignment>
@@ -178,7 +178,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 104 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Avarice Seraph</name>
+    <name>Avarice Seraph [TP Legacy]</name>
     <sortname>Seraph, Avarice</sortname>
     <ancestry>Seraph</ancestry>
     <size>L</size>
@@ -254,7 +254,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 93 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Awakened Chapped Brute</name>
+    <name>Awakened Chapped Brute [TP Legacy]</name>
     <sortname>Chapped Brute, Awakened</sortname>
     <ancestry>Chapped Brute</ancestry>
     <size>L</size>
@@ -306,7 +306,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 68 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Beast Gnoll</name>
+    <name>Beast Gnoll [TP Legacy]</name>
     <sortname>Gnoll, Beast</sortname>
     <ancestry>Gnoll</ancestry>
     <size>M</size>
@@ -360,7 +360,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 60 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bloodbonded</name>
+    <name>Bloodbonded [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -421,7 +421,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 39 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bone Trader</name>
+    <name>Bone Trader [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Neutral Evil</alignment>
@@ -479,7 +479,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 13 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Candlelight Daemon</name>
+    <name>Candlelight Daemon [TP Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>Neutral Evil</alignment>
@@ -565,7 +565,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 13 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Caprathorn</name>
+    <name>Caprathorn [TP Legacy]</name>
     <size>H</size>
     <type>fiend</type>
     <alignment>Chaotic Evil</alignment>
@@ -675,7 +675,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 91 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Chapped Brute</name>
+    <name>Chapped Brute [TP Legacy]</name>
     <ancestry>Chapped Brute</ancestry>
     <size>M</size>
     <type>humanoid</type>
@@ -722,7 +722,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 67 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Chapped Brute Abomination</name>
+    <name>Chapped Brute Abomination [TP Legacy]</name>
     <sortname>Chapped Brute, Abomination</sortname>
     <ancestry>Chapped Brute</ancestry>
     <size>H</size>
@@ -790,7 +790,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 68 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Corpse Walker</name>
+    <name>Corpse Walker [TP Legacy]</name>
     <ancestry>Corpse Walker</ancestry>
     <size>M</size>
     <type>undead</type>
@@ -848,7 +848,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 103 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Corpsejaw</name>
+    <name>Corpsejaw [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -903,7 +903,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 92 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dawndrinker</name>
+    <name>Dawndrinker [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -962,7 +962,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 49 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Doomcaller</name>
+    <name>Doomcaller [TP Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>Chaotic Evil</alignment>
@@ -1035,7 +1035,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 47 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Downcast Apostate</name>
+    <name>Downcast Apostate [TP Legacy]</name>
     <sortname>Apostate, Downcast</sortname>
     <ancestry>Apostate</ancestry>
     <npc>YES</npc>
@@ -1098,7 +1098,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 49 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Downcast Mercenary</name>
+    <name>Downcast Mercenary [TP Legacy]</name>
     <sortname>Mercenary, Downcast</sortname>
     <ancestry>Mercenary</ancestry>
     <npc>YES</npc>
@@ -1157,7 +1157,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 49 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Eldritch Herald</name>
+    <name>Eldritch Herald [TP Legacy]</name>
     <sortname>Herald, Eldritch</sortname>
     <ancestry>Herald</ancestry>
     <npc>YES</npc>
@@ -1207,7 +1207,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 49 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Eldritch Priest</name>
+    <name>Eldritch Priest [TP Legacy]</name>
     <sortname>Priest, Eldritch</sortname>
     <ancestry>Priest</ancestry>
     <npc>YES</npc>
@@ -1262,7 +1262,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 41 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Elf Vampire (Ancient)</name>
+    <name>Elf Vampire (Ancient) [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Lawful Nx Chaotic Evil</alignment>
@@ -1363,7 +1363,7 @@ While it has 0 hit points in mist form, the vampire dies if it takes damage thre
     <environment/>
   </monster>
   <monster>
-    <name>Empyrean Brazen Bull</name>
+    <name>Empyrean Brazen Bull [TP Legacy]</name>
     <size>H</size>
     <type>celestial</type>
     <alignment>Lawful Good</alignment>
@@ -1443,7 +1443,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 100 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Eye Crawler</name>
+    <name>Eye Crawler [TP Legacy]</name>
     <size>T</size>
     <type>aberration</type>
     <alignment>Chaotic Neutral</alignment>
@@ -1480,7 +1480,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 82 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Eye Crow</name>
+    <name>Eye Crow [TP Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -1530,7 +1530,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 58 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Faevlin</name>
+    <name>Faevlin [TP Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>Neutral Evil</alignment>
@@ -1585,7 +1585,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 9 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fzeg</name>
+    <name>Fzeg [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -1687,7 +1687,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 80 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fzeglaich</name>
+    <name>Fzeglaich [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -1747,7 +1747,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 79 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gegazol</name>
+    <name>Gegazol [TP Legacy]</name>
     <size>G</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -1872,7 +1872,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 117 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gluttony Seraph</name>
+    <name>Gluttony Seraph [TP Legacy]</name>
     <sortname>Seraph, Gluttony</sortname>
     <ancestry>Seraph</ancestry>
     <size>H</size>
@@ -1955,7 +1955,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 95 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gnoll Brute</name>
+    <name>Gnoll Brute [TP Legacy]</name>
     <sortname>Gnoll, Brute</sortname>
     <ancestry>Gnoll</ancestry>
     <size>M</size>
@@ -2024,7 +2024,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 60 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Harvester of Lies</name>
+    <name>Harvester of Lies [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -2098,7 +2098,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 13 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Horror Flit Hunter</name>
+    <name>Horror Flit Hunter [TP Legacy]</name>
     <size>S</size>
     <type>aberration</type>
     <alignment>Chaotic Evil</alignment>
@@ -2153,7 +2153,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 50 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hourglass Widow</name>
+    <name>Hourglass Widow [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -2245,7 +2245,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 81 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hraptnon</name>
+    <name>Hraptnon [TP Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -2333,7 +2333,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 72 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Infernal Tormentor</name>
+    <name>Infernal Tormentor [TP Legacy]</name>
     <sortname>Tormentor, Infernal</sortname>
     <ancestry>Tormentor</ancestry>
     <size>M</size>
@@ -2387,7 +2387,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 50 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ithjar</name>
+    <name>Ithjar [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Neutral</alignment>
@@ -2446,7 +2446,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 94 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Knifewing</name>
+    <name>Knifewing [TP Legacy]</name>
     <size>S</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -2497,7 +2497,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 15 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lenchtahg</name>
+    <name>Lenchtahg [TP Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>Neutral Evil</alignment>
@@ -2573,7 +2573,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 51 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lesser Avarice Seraph</name>
+    <name>Lesser Avarice Seraph [TP Legacy]</name>
     <sortname>Seraph, Avarice Lesser</sortname>
     <ancestry>Seraph</ancestry>
     <size>M</size>
@@ -2640,7 +2640,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 94 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lesser Gluttony Seraph</name>
+    <name>Lesser Gluttony Seraph [TP Legacy]</name>
     <sortname>Seraph, Gluttony Lesser</sortname>
     <ancestry>Seraph</ancestry>
     <size>L</size>
@@ -2714,7 +2714,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 94 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lich Troll</name>
+    <name>Lich Troll [TP Legacy]</name>
     <sortname>Troll, Lich</sortname>
     <ancestry>Troll, Lich</ancestry>
     <size>L</size>
@@ -2795,7 +2795,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 121 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lindwyrm</name>
+    <name>Lindwyrm [TP Legacy]</name>
     <size>G</size>
     <type>dragon</type>
     <alignment>Chaotic Neutral</alignment>
@@ -2873,7 +2873,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 58 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lupilisk</name>
+    <name>Lupilisk [TP Legacy]</name>
     <ancestry>Lupilisk</ancestry>
     <size>L</size>
     <type>fiend</type>
@@ -2921,7 +2921,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 61 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lupilisk Elder</name>
+    <name>Lupilisk Elder [TP Legacy]</name>
     <sortname>Lupilisk, Elder</sortname>
     <ancestry>Lupilisk</ancestry>
     <size>L</size>
@@ -2975,7 +2975,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 62 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lupilisk Whelp</name>
+    <name>Lupilisk Whelp [TP Legacy]</name>
     <sortname>Lupilisk, Whelp</sortname>
     <ancestry>Lupilisk</ancestry>
     <size>M</size>
@@ -3024,7 +3024,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 62 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Malikirian Imp</name>
+    <name>Malikirian Imp [TP Legacy]</name>
     <sortname>Imp, Malikirian</sortname>
     <ancestry>Imp</ancestry>
     <size>T</size>
@@ -3085,7 +3085,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 109 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mjork</name>
+    <name>Mjork [TP Legacy]</name>
     <ancestry>Mjork</ancestry>
     <size>M</size>
     <type>elemental</type>
@@ -3146,7 +3146,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 69 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mjork Asher</name>
+    <name>Mjork Asher [TP Legacy]</name>
     <sortname>Mjork, Asher</sortname>
     <ancestry>Mjork</ancestry>
     <size>L</size>
@@ -3221,7 +3221,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 71 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mjork Burner</name>
+    <name>Mjork Burner [TP Legacy]</name>
     <sortname>Mjork, Burner</sortname>
     <ancestry>Mjork</ancestry>
     <size>L</size>
@@ -3297,7 +3297,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 71 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mjork Charger</name>
+    <name>Mjork Charger [TP Legacy]</name>
     <sortname>Mjork, Charger</sortname>
     <ancestry>Mjork</ancestry>
     <size>L</size>
@@ -3367,7 +3367,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 70 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mjork Sootling</name>
+    <name>Mjork Sootling [TP Legacy]</name>
     <sortname>Mjork, Sootling</sortname>
     <ancestry>Mjork</ancestry>
     <size>T</size>
@@ -3419,7 +3419,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 72 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mjork Sootling Swarm</name>
+    <name>Mjork Sootling Swarm [TP Legacy]</name>
     <sortname>Mjork, Sootling Swarm</sortname>
     <ancestry>Mjork</ancestry>
     <size>M</size>
@@ -3477,7 +3477,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 72 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mold Spider</name>
+    <name>Mold Spider [TP Legacy]</name>
     <sortname>Spider, Mold</sortname>
     <ancestry>Spider</ancestry>
     <size>T</size>
@@ -3523,7 +3523,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 72 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Morbus Kobold</name>
+    <name>Morbus Kobold [TP Legacy]</name>
     <sortname>Kobold, Morbus</sortname>
     <ancestry>Kobold</ancestry>
     <size>S</size>
@@ -3588,7 +3588,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 29 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Oblivion Brute</name>
+    <name>Oblivion Brute [TP Legacy]</name>
     <sortname>Oblivion, Brute</sortname>
     <ancestry>Oblivion</ancestry>
     <size>L</size>
@@ -3646,7 +3646,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 28 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Oblivion Juggernaut</name>
+    <name>Oblivion Juggernaut [TP Legacy]</name>
     <sortname>Oblivion, Juggernaut</sortname>
     <ancestry>Oblivion</ancestry>
     <size>H</size>
@@ -3704,7 +3704,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 28 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Oblivion Leaper</name>
+    <name>Oblivion Leaper [TP Legacy]</name>
     <sortname>Oblivion, Leaper</sortname>
     <ancestry>Oblivion</ancestry>
     <size>S</size>
@@ -3758,7 +3758,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 27 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Oblivion Whistler</name>
+    <name>Oblivion Whistler [TP Legacy]</name>
     <sortname>Oblivion, Whistler</sortname>
     <ancestry>Oblivion</ancestry>
     <size>M</size>
@@ -3812,7 +3812,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 27 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Oozing Vulture</name>
+    <name>Oozing Vulture [TP Legacy]</name>
     <sortname>Vulture, Oozing</sortname>
     <ancestry>Vulture</ancestry>
     <size>M</size>
@@ -3860,7 +3860,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 38 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ordeal Tree</name>
+    <name>Ordeal Tree [TP Legacy]</name>
     <sortname>Tree, Ordeal</sortname>
     <ancestry>Animated Plant</ancestry>
     <size>G</size>
@@ -3931,7 +3931,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 39 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Panjaian Ilharan</name>
+    <name>Panjaian Ilharan [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race, elemental)</type>
     <alignment>Any Alignment</alignment>
@@ -3996,7 +3996,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 96 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Psychic Fragment</name>
+    <name>Psychic Fragment [TP Legacy]</name>
     <sortname>Psychic Fragment</sortname>
     <ancestry>Psychic Fragment</ancestry>
     <size>T</size>
@@ -4045,7 +4045,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 15 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Psychic Fragment Swarm</name>
+    <name>Psychic Fragment Swarm [TP Legacy]</name>
     <sortname>Psychic Fragment, Swarm</sortname>
     <ancestry>Psychic Fragment</ancestry>
     <size>M</size>
@@ -4099,7 +4099,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 15 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Scream Thief</name>
+    <name>Scream Thief [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -4153,7 +4153,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 14 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sea Drake</name>
+    <name>Sea Drake [TP Legacy]</name>
     <sortname>Drake, Sea</sortname>
     <ancestry>Drake</ancestry>
     <size>M</size>
@@ -4206,7 +4206,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 51 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Shadowsteel Ghast</name>
+    <name>Shadowsteel Ghast [TP Legacy]</name>
     <sortname>Ghast, Shadowsteel</sortname>
     <ancestry>Ghast</ancestry>
     <size>M</size>
@@ -4277,7 +4277,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 84 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Shadowsteel Ghoul</name>
+    <name>Shadowsteel Ghoul [TP Legacy]</name>
     <sortname>Ghoul, Shadowsteel</sortname>
     <ancestry>Ghoul</ancestry>
     <size>M</size>
@@ -4335,7 +4335,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 84 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Shatter Corpse</name>
+    <name>Shatter Corpse [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Neutral</alignment>
@@ -4396,7 +4396,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 16 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Shieldhead</name>
+    <name>Shieldhead [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -4439,7 +4439,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 97 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sitri Cat</name>
+    <name>Sitri Cat [TP Legacy]</name>
     <sortname>Cat, Sitri</sortname>
     <ancestry>Cat</ancestry>
     <size>T</size>
@@ -4487,7 +4487,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 85 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Skeleton Cannoneer</name>
+    <name>Skeleton Cannoneer [TP Legacy]</name>
     <sortname>Skeleton, Cannoneer</sortname>
     <ancestry>Skeleton</ancestry>
     <size>M</size>
@@ -4551,7 +4551,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 87 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Skeleton Commander</name>
+    <name>Skeleton Commander [TP Legacy]</name>
     <sortname>Skeleton, Commander</sortname>
     <ancestry>Skeleton</ancestry>
     <size>M</size>
@@ -4606,7 +4606,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 87 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Skeleton Rifler</name>
+    <name>Skeleton Rifler [TP Legacy]</name>
     <sortname>Skeleton, Rifler</sortname>
     <ancestry>Skeleton</ancestry>
     <size>M</size>
@@ -4657,7 +4657,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 86 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Skinweaver</name>
+    <name>Skinweaver [TP Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Chaotic Evil</alignment>
@@ -4718,7 +4718,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 30 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sky Drake</name>
+    <name>Sky Drake [TP Legacy]</name>
     <sortname>Drake, Sky</sortname>
     <ancestry>Drake</ancestry>
     <size>L</size>
@@ -4776,7 +4776,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 63 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sloth Galloper</name>
+    <name>Sloth Galloper [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -4822,7 +4822,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 97 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Snapjaw</name>
+    <name>Snapjaw [TP Legacy]</name>
     <size>G</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -4871,7 +4871,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 97 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Spythronar Sac</name>
+    <name>Spythronar Sac [TP Legacy]</name>
     <sortname>Spythronar, Sac</sortname>
     <ancestry>Spythronar</ancestry>
     <size>T</size>
@@ -4923,7 +4923,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 31 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Spythronar Swarm</name>
+    <name>Spythronar Swarm [TP Legacy]</name>
     <sortname>Spythronar, Swarm</sortname>
     <ancestry>Spythronar</ancestry>
     <size>M</size>
@@ -4989,7 +4989,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 32 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Spythronar Web</name>
+    <name>Spythronar Web [TP Legacy]</name>
     <sortname>Spythronar, Web</sortname>
     <ancestry>Spythronar</ancestry>
     <size>L</size>
@@ -5058,7 +5058,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 32 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Stormborn Ithjar</name>
+    <name>Stormborn Ithjar [TP Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Chaotic Neutral</alignment>
@@ -5122,7 +5122,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 94 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Thornlamm</name>
+    <name>Thornlamm [TP Legacy]</name>
     <size>S</size>
     <type>plant</type>
     <alignment>Neutral Evil</alignment>
@@ -5161,7 +5161,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 90 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Torcheater</name>
+    <name>Torcheater [TP Legacy]</name>
     <size>T</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -5203,7 +5203,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 73 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Venomous Gnoll</name>
+    <name>Venomous Gnoll [TP Legacy]</name>
     <sortname>Gnoll, Venomous</sortname>
     <ancestry>Gnoll</ancestry>
     <size>M</size>
@@ -5264,7 +5264,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 60 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Vitebriate</name>
+    <name>Vitebriate [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -5323,7 +5323,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 21 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Werebear Ascetic</name>
+    <name>Werebear Ascetic [TP Legacy]</name>
     <sortname>Werebear, Ascetic</sortname>
     <ancestry>Werebear</ancestry>
     <size>M</size>
@@ -5395,7 +5395,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 37 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Werewolf Ravager</name>
+    <name>Werewolf Ravager [TP Legacy]</name>
     <sortname>Werewolf, Ravager</sortname>
     <ancestry>Werewolf</ancestry>
     <size>M</size>
@@ -5460,7 +5460,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 83 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Xakalonus</name>
+    <name>Xakalonus [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -5522,7 +5522,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 73 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Young Blightscale Dragon</name>
+    <name>Young Blightscale Dragon [TP Legacy]</name>
     <sortname>Blightscale Dragon, Young</sortname>
     <ancestry>Blightscale Dragon</ancestry>
     <size>L</size>
@@ -5585,7 +5585,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 82 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Zombie Troll</name>
+    <name>Zombie Troll [TP Legacy]</name>
     <sortname>Troll, Zombie</sortname>
     <ancestry>Troll, Zombie</ancestry>
     <size>L</size>

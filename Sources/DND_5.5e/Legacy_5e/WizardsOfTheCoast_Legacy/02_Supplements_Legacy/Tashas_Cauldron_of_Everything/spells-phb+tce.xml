@@ -1,359 +1,359 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Aid</name>
+    <name>Aid [Legacy]</name>
     <classes>Cleric (Peace Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Alarm</name>
-    <classes>Paladin (Watchers (Legacy)), </classes>
+    <name>Alarm [Legacy]</name>
+    <classes>Paladin (Watchers (Legacy)),  </classes>
   </spell>
   <spell>
-    <name>Animate Dead</name>
+    <name>Animate Dead [Legacy]</name>
     <classes>Druid (Spores (Legacy))</classes>
   </spell>
   <spell>
-    <name>Arcane Eye</name>
+    <name>Arcane Eye [Legacy]</name>
     <classes>Ranger (Swarmkeeper (Legacy))</classes>
   </spell>
   <spell>
-    <name>Aura of Life</name>
+    <name>Aura of Life [Legacy]</name>
     <classes>Cleric (Twilight Domain (Legacy)), Druid (Wildfire (Legacy))</classes>
   </spell>
   <spell>
-    <name>Aura of Purity</name>
+    <name>Aura of Purity [Legacy]</name>
     <classes>Cleric (Peace Domain (Legacy)), Paladin (Watchers (Legacy))</classes>
   </spell>
   <spell>
-    <name>Aura of Vitality</name>
+    <name>Aura of Vitality [Legacy]</name>
     <classes>Cleric (Twilight Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Banishment</name>
+    <name>Banishment [Legacy]</name>
     <classes>Paladin (Watchers (Legacy))</classes>
   </spell>
   <spell>
-    <name>Beacon of Hope</name>
+    <name>Beacon of Hope [Legacy]</name>
     <classes>Cleric (Peace Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Sending</name>
+    <name>Sending [Legacy]</name>
     <classes>Cleric (Peace Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Bigby's Hand</name>
+    <name>Bigby's Hand [Legacy]</name>
     <classes>Warlock (Fathomless (Legacy))</classes>
   </spell>
   <spell>
-    <name>Blight</name>
+    <name>Blight [Legacy]</name>
     <classes>Druid (Spores (Legacy))</classes>
   </spell>
   <spell>
-    <name>Blindness/Deafness</name>
+    <name>Blindness/Deafness [Legacy]</name>
     <classes>Druid (Spores (Legacy))</classes>
   </spell>
   <spell>
-    <name>Blur</name>
+    <name>Blur [Legacy]</name>
     <classes>Warlock (Genie (Legacy)), Warlock (Genie Marid (Legacy))</classes>
   </spell>
   <spell>
-    <name>Burning Hands</name>
+    <name>Burning Hands [Legacy]</name>
     <classes>Warlock (Genie (Legacy)), Druid (Wildfire (Legacy)), Warlock (Genie Efreeti (Legacy))</classes>
   </spell>
   <spell>
-    <name>Circle of Power</name>
+    <name>Circle of Power [Legacy]</name>
     <classes>Cleric (Twilight Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Cloudkill</name>
+    <name>Cloudkill [Legacy]</name>
     <classes>Druid (Spores (Legacy))</classes>
   </spell>
   <spell>
-    <name>Command</name>
+    <name>Command [Legacy]</name>
     <classes>Cleric (Order Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Commune</name>
+    <name>Commune [Legacy]</name>
     <classes>Cleric (Order Domain (Legacy)), Paladin (Glory (Legacy))</classes>
   </spell>
   <spell>
-    <name>Compulsion</name>
+    <name>Compulsion [Legacy]</name>
     <classes>Cleric (Order Domain (Legacy)), Paladin (Glory (Legacy))</classes>
   </spell>
   <spell>
-    <name>Cone of Cold</name>
+    <name>Cone of Cold [Legacy]</name>
     <classes>Warlock (Fathomless (Legacy)), Warlock (Genie (Legacy)), Warlock (Genie Marid (Legacy))</classes>
   </spell>
   <spell>
-    <name>Confusion</name>
+    <name>Confusion [Legacy]</name>
     <classes>Druid (Spores (Legacy))</classes>
   </spell>
   <spell>
-    <name>Contagion</name>
+    <name>Contagion [Legacy]</name>
     <classes>Druid (Spores (Legacy))</classes>
   </spell>
   <spell>
-    <name>Control Water</name>
+    <name>Control Water [Legacy]</name>
     <classes>Warlock (Fathomless (Legacy)), Warlock (Genie (Legacy)), Warlock (Genie Marid (Legacy))</classes>
   </spell>
   <spell>
-    <name>Counterspell</name>
+    <name>Counterspell [Legacy]</name>
     <classes>Paladin (Watchers (Legacy))</classes>
   </spell>
   <spell>
-    <name>Create Food and Water</name>
+    <name>Create Food and Water [Legacy]</name>
     <classes>Warlock (Genie (Legacy)), Warlock (Genie Dao (Legacy)), Warlock (Genie Djinni (Legacy)), Warlock (Genie Efreeti (Legacy)), Warlock (Genie Marid (Legacy))</classes>
   </spell>
   <spell>
-    <name>Create or Destroy Water</name>
+    <name>Create or Destroy Water [Legacy]</name>
     <classes>Warlock (Fathomless (Legacy))</classes>
   </spell>
   <spell>
-    <name>Creation</name>
+    <name>Creation [Legacy]</name>
     <classes>Warlock (Genie (Legacy)), Warlock (Genie Dao (Legacy)), Warlock (Genie Djinni (Legacy)), Warlock (Genie Efreeti (Legacy)), Warlock (Genie Marid (Legacy))</classes>
   </spell>
   <spell>
-    <name>Cure Wounds</name>
+    <name>Cure Wounds [Legacy]</name>
     <classes>Druid (Wildfire (Legacy))</classes>
   </spell>
   <spell>
-    <name>Detect Evil and Good</name>
+    <name>Detect Evil and Good [Legacy]</name>
     <classes>Warlock (Genie (Legacy)), Warlock (Genie Dao (Legacy)), Warlock (Genie Djinni (Legacy)), Warlock (Genie Efreeti (Legacy)), Warlock (Genie Marid (Legacy))</classes>
   </spell>
   <spell>
-    <name>Detect Magic</name>
+    <name>Detect Magic [Legacy]</name>
     <classes>Paladin (Watchers (Legacy))</classes>
   </spell>
   <spell>
-    <name>Dominate Person</name>
+    <name>Dominate Person [Legacy]</name>
     <classes>Cleric (Order Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Enhance Ability</name>
+    <name>Enhance Ability [Legacy]</name>
     <classes>Paladin (Glory (Legacy))</classes>
   </spell>
   <spell>
-    <name>Faerie Fire</name>
+    <name>Faerie Fire [Legacy]</name>
     <classes>Cleric (Twilight Domain (Legacy)), Ranger (Swarmkeeper (Legacy))</classes>
   </spell>
   <spell>
-    <name>Fire Shield</name>
+    <name>Fire Shield [Legacy]</name>
     <classes>Warlock (Genie (Legacy)), Warlock (Genie Efreeti (Legacy)), Druid (Wildfire (Legacy))</classes>
   </spell>
   <spell>
-    <name>Fireball</name>
+    <name>Fireball [Legacy]</name>
     <classes>Warlock (Genie (Legacy)), Warlock (Genie Efreeti (Legacy))</classes>
   </spell>
   <spell>
-    <name>Flame Strike</name>
+    <name>Flame Strike [Legacy]</name>
     <classes>Paladin (Glory (Legacy)), Warlock (Genie (Legacy)), Warlock (Genie Efreeti (Legacy)), Druid (Wildfire (Legacy))</classes>
   </spell>
   <spell>
-    <name>Flaming Sphere</name>
+    <name>Flaming Sphere [Legacy]</name>
     <classes>Druid (Wildfire (Legacy))</classes>
   </spell>
   <spell>
-    <name>Fog Cloud</name>
+    <name>Fog Cloud [Legacy]</name>
     <classes>Warlock (Genie (Legacy)), Warlock (Genie Marid (Legacy))</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement</name>
-    <classes>Paladin (Glory (Legacy)), </classes>
+    <name>Freedom of Movement [Legacy]</name>
+    <classes>Paladin (Glory (Legacy)),  </classes>
   </spell>
   <spell>
-    <name>Gaseous Form</name>
+    <name>Gaseous Form [Legacy]</name>
     <classes>Druid (Spores (Legacy)), Ranger (Swarmkeeper (Legacy))</classes>
   </spell>
   <spell>
-    <name>Gentle Repose</name>
+    <name>Gentle Repose [Legacy]</name>
     <classes>Druid (Spores (Legacy))</classes>
   </spell>
   <spell>
-    <name>Greater Invisibility</name>
+    <name>Greater Invisibility [Legacy]</name>
     <classes>Cleric (Twilight Domain (Legacy)), Warlock (Genie (Legacy)), Warlock (Genie Djinni (Legacy))</classes>
   </spell>
   <spell>
-    <name>Greater Restoration</name>
+    <name>Greater Restoration [Legacy]</name>
     <classes>Cleric (Peace Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Guiding Bolt</name>
+    <name>Guiding Bolt [Legacy]</name>
     <classes>Paladin (Glory (Legacy))</classes>
   </spell>
   <spell>
-    <name>Gust of Wind</name>
+    <name>Gust of Wind [Legacy]</name>
     <classes>Warlock (Fathomless (Legacy)), Warlock (Genie (Legacy)), Warlock (Genie Djinni (Legacy))</classes>
   </spell>
   <spell>
-    <name>Haste</name>
+    <name>Haste [Legacy]</name>
     <classes>Paladin (Glory (Legacy))</classes>
   </spell>
   <spell>
-    <name>Heroism</name>
+    <name>Heroism [Legacy]</name>
     <classes>Cleric (Order Domain (Legacy)), Paladin (Glory (Legacy)), Cleric (Peace Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Hold Monster</name>
+    <name>Hold Monster [Legacy]</name>
     <classes>Paladin (Watchers (Legacy))</classes>
   </spell>
   <spell>
-    <name>Hold Person</name>
+    <name>Hold Person [Legacy]</name>
     <classes>Cleric (Order Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Insect Plague</name>
+    <name>Insect Plague [Legacy]</name>
     <classes>Ranger (Swarmkeeper (Legacy))</classes>
   </spell>
   <spell>
-    <name>Leomund's Tiny Hut</name>
+    <name>Leomund's Tiny Hut [Legacy]</name>
     <classes>Cleric (Twilight Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Lightning Bolt</name>
+    <name>Lightning Bolt [Legacy]</name>
     <classes>Warlock (Fathomless (Legacy))</classes>
   </spell>
   <spell>
-    <name>Locate Creature</name>
+    <name>Locate Creature [Legacy]</name>
     <classes>Cleric (Order Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Mage Hand</name>
+    <name>Mage Hand [Legacy]</name>
     <classes>Ranger (Swarmkeeper (Legacy))</classes>
   </spell>
   <spell>
-    <name>Magic Weapon</name>
+    <name>Magic Weapon [Legacy]</name>
     <classes>Paladin (Glory (Legacy))</classes>
   </spell>
   <spell>
-    <name>Mass Cure Wounds</name>
+    <name>Mass Cure Wounds [Legacy]</name>
     <classes>Druid (Wildfire (Legacy))</classes>
   </spell>
   <spell>
-    <name>Mass Healing Word</name>
+    <name>Mass Healing Word [Legacy]</name>
     <classes>Cleric (Order Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Meld Into Stone</name>
+    <name>Meld Into Stone [Legacy]</name>
     <classes>Warlock (Genie (Legacy)), Warlock (Genie Dao (Legacy))</classes>
   </spell>
   <spell>
-    <name>Mislead</name>
+    <name>Mislead [Legacy]</name>
     <classes>Cleric (Twilight Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Moonbeam</name>
+    <name>Moonbeam [Legacy]</name>
     <classes>Cleric (Twilight Domain (Legacy)), Paladin (Watchers (Legacy))</classes>
   </spell>
   <spell>
-    <name>Nondetection</name>
+    <name>Nondetection [Legacy]</name>
     <classes>Paladin (Watchers (Legacy))</classes>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere</name>
+    <name>Otiluke's Resilient Sphere [Legacy]</name>
     <classes>Cleric (Peace Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Phantasmal Force</name>
+    <name>Phantasmal Force [Legacy]</name>
     <classes>Warlock (Genie (Legacy)), Warlock (Genie Dao (Legacy)), Warlock (Genie Djinni (Legacy)), Warlock (Genie Efreeti (Legacy)), Warlock (Genie Marid (Legacy))</classes>
   </spell>
   <spell>
-    <name>Phantasmal Killer</name>
+    <name>Phantasmal Killer [Legacy]</name>
     <classes>Warlock (Genie (Legacy)), Warlock (Genie Dao (Legacy)), Warlock (Genie Djinni (Legacy)), Warlock (Genie Efreeti (Legacy)), Warlock (Genie Marid (Legacy))</classes>
   </spell>
   <spell>
-    <name>Plant Growth</name>
+    <name>Plant Growth [Legacy]</name>
     <classes>Druid (Wildfire (Legacy))</classes>
   </spell>
   <spell>
-    <name>Protection from Energy</name>
-    <classes>Paladin (Glory (Legacy)), </classes>
+    <name>Protection from Energy [Legacy]</name>
+    <classes>Paladin (Glory (Legacy)),  </classes>
   </spell>
   <spell>
-    <name>Rary's Telepathic Bond</name>
+    <name>Rary's Telepathic Bond [Legacy]</name>
     <classes>Cleric (Peace Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Revivify</name>
+    <name>Revivify [Legacy]</name>
     <classes>Druid (Wildfire (Legacy))</classes>
   </spell>
   <spell>
-    <name>Sanctuary</name>
+    <name>Sanctuary [Legacy]</name>
     <classes>Cleric (Peace Domain (Legacy)), Warlock (Genie (Legacy)), Warlock (Genie Dao (Legacy))</classes>
   </spell>
   <spell>
-    <name>Scorching Ray</name>
+    <name>Scorching Ray [Legacy]</name>
     <classes>Warlock (Genie (Legacy)), Warlock (Genie Efreeti (Legacy)), Druid (Wildfire (Legacy))</classes>
   </spell>
   <spell>
-    <name>Scrying</name>
+    <name>Scrying [Legacy]</name>
     <classes>Paladin (Watchers (Legacy))</classes>
   </spell>
   <spell>
-    <name>See Invisibility</name>
+    <name>See Invisibility [Legacy]</name>
     <classes>Cleric (Twilight Domain (Legacy)), Paladin (Watchers (Legacy))</classes>
   </spell>
   <spell>
-    <name>Seeming</name>
+    <name>Seeming [Legacy]</name>
     <classes>Warlock (Genie (Legacy)), Warlock (Genie Djinni (Legacy))</classes>
   </spell>
   <spell>
-    <name>Silence</name>
+    <name>Silence [Legacy]</name>
     <classes>Warlock (Fathomless (Legacy))</classes>
   </spell>
   <spell>
-    <name>Sleep</name>
+    <name>Sleep [Legacy]</name>
     <classes>Cleric (Twilight Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Sleet Storm</name>
+    <name>Sleet Storm [Legacy]</name>
     <classes>Warlock (Fathomless (Legacy)), Warlock (Genie (Legacy)), Warlock (Genie Marid (Legacy))</classes>
   </spell>
   <spell>
-    <name>Slow</name>
+    <name>Slow [Legacy]</name>
     <classes>Cleric (Order Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Spike Growth</name>
+    <name>Spike Growth [Legacy]</name>
     <classes>Warlock (Genie (Legacy)), Warlock (Genie Dao (Legacy))</classes>
   </spell>
   <spell>
-    <name>Stone Shape</name>
+    <name>Stone Shape [Legacy]</name>
     <classes>Warlock (Genie (Legacy)), Warlock (Genie Dao (Legacy))</classes>
   </spell>
   <spell>
-    <name>Evard's Black Tentacles</name>
+    <name>Evard's Black Tentacles [Legacy]</name>
     <classes>Warlock (Fathomless (Legacy))</classes>
   </spell>
   <spell>
-    <name>Thunderwave</name>
+    <name>Thunderwave [Legacy]</name>
     <classes>Warlock (Fathomless (Legacy)), Warlock (Genie (Legacy)), Warlock (Genie Djinni (Legacy))</classes>
   </spell>
   <spell>
-    <name>Summon Elemental</name>
+    <name>Summon Elemental [Legacy]</name>
     <classes>Warlock (Fathomless (Legacy))</classes>
   </spell>
   <spell>
-    <name>Wall of Stone</name>
+    <name>Wall of Stone [Legacy]</name>
     <classes>Warlock (Genie (Legacy)), Warlock (Genie Dao (Legacy))</classes>
   </spell>
   <spell>
-    <name>Warding Bond</name>
+    <name>Warding Bond [Legacy]</name>
     <classes>Cleric (Peace Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Web</name>
+    <name>Web [Legacy]</name>
     <classes>Ranger (Swarmkeeper (Legacy))</classes>
   </spell>
   <spell>
-    <name>Wind Wall</name>
+    <name>Wind Wall [Legacy]</name>
     <classes>Warlock (Genie (Legacy)), Warlock (Genie Djinni (Legacy))</classes>
   </spell>
   <spell>
-    <name>Wish</name>
+    <name>Wish [Legacy]</name>
     <classes>Warlock (Genie (Legacy)), Warlock (Genie Dao (Legacy)), Warlock (Genie Djinni (Legacy)), Warlock (Genie Efreeti (Legacy)), Warlock (Genie Marid (Legacy))</classes>
   </spell>
   <spell>
-    <name>Zone of Truth</name>
+    <name>Zone of Truth [Legacy]</name>
     <classes>Cleric (Order Domain (Legacy))</classes>
   </spell>
 </compendium>

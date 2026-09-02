@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Tiny Servant</name>
+    <name>Tiny Servant [Legacy]</name>
     <size>T</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -33,7 +33,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Hound of Ill Omen</name>
+    <name>Hound of Ill Omen [Legacy]</name>
     <sortname>Hound, of Ill Omen</sortname>
     <ancestry>Hound</ancestry>
     <size>M</size>

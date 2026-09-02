@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Aerosaur</name>
+    <name>Aerosaur [Legacy]</name>
     <sortname>Dinosaur, Aerosaur</sortname>
     <ancestry>Dinosaur</ancestry>
     <size>G</size>
@@ -64,7 +64,7 @@ Source:	Bigby Presents: Glory of the Giants p. 128</description>
     <environment/>
   </monster>
   <monster>
-    <name>Altisaur</name>
+    <name>Altisaur [Legacy]</name>
     <sortname>Dinosaur, Altisaur</sortname>
     <ancestry>Dinosaur</ancestry>
     <size>G</size>
@@ -121,7 +121,7 @@ Source:	Bigby Presents: Glory of the Giants p. 129</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bag Jelly</name>
+    <name>Bag Jelly [Legacy]</name>
     <sortname>Ooze, Bag Jelly</sortname>
     <ancestry>Ooze</ancestry>
     <size>M</size>
@@ -170,7 +170,7 @@ Source:	Bigby Presents: Glory of the Giants p. 120</description>
     <environment/>
   </monster>
   <monster>
-    <name>Barrowghast</name>
+    <name>Barrowghast [Legacy]</name>
     <size>H</size>
     <type>undead</type>
     <alignment>typically chaotic evil</alignment>
@@ -228,7 +228,7 @@ Source:	Bigby Presents: Glory of the Giants p. 121</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cairnwight</name>
+    <name>Cairnwight [Legacy]</name>
     <size>H</size>
     <type>undead</type>
     <alignment>typically neutral</alignment>
@@ -282,7 +282,7 @@ Source:	Bigby Presents: Glory of the Giants p. 122</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ceratops</name>
+    <name>Ceratops [Legacy]</name>
     <sortname>Dinosaur, Ceratops</sortname>
     <ancestry>Dinosaur</ancestry>
     <size>G</size>
@@ -340,7 +340,7 @@ Source:	Bigby Presents: Glory of the Giants p. 129</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cinder Hulk</name>
+    <name>Cinder Hulk [Legacy]</name>
     <sortname>Hulk, Cinder</sortname>
     <ancestry>Hulk</ancestry>
     <size>L</size>
@@ -402,7 +402,7 @@ Source:	Bigby Presents: Glory of the Giants p. 123</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cloud Giant Destiny Gambler</name>
+    <name>Cloud Giant Destiny Gambler [Legacy]</name>
     <sortname>Cloud Giant, Destiny Gambler</sortname>
     <ancestry>Cloud Giant</ancestry>
     <size>H</size>
@@ -473,7 +473,7 @@ Source:	Bigby Presents: Glory of the Giants p. 124</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cloud Giant of Evil Air</name>
+    <name>Cloud Giant of Evil Air [Legacy]</name>
     <sortname>Cloud Giant, Evil Air</sortname>
     <ancestry>Cloud Giant</ancestry>
     <size>H</size>
@@ -538,7 +538,7 @@ Source:	Bigby Presents: Glory of the Giants p. 125</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cradle of the Fire Scion</name>
+    <name>Cradle of the Fire Scion [Legacy]</name>
     <sortname>Scion of Surtur, Cradle of the Fire Scion</sortname>
     <ancestry>Scion of Surtur</ancestry>
     <size>G</size>
@@ -626,7 +626,7 @@ Source:	Bigby Presents: Glory of the Giants p. 172</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cradle of the Frost Scion</name>
+    <name>Cradle of the Frost Scion [Legacy]</name>
     <sortname>Scion of Thrym, Cradle of the Frost Scion</sortname>
     <ancestry>Scion of Thrym</ancestry>
     <size>G</size>
@@ -715,7 +715,7 @@ Source:	Bigby Presents: Glory of the Giants p. 174</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cradle of the Hill Scion</name>
+    <name>Cradle of the Hill Scion [Legacy]</name>
     <sortname>Scion of Grolantor, Cradle of the Hill Scion</sortname>
     <ancestry>Scion of Grolantor</ancestry>
     <size>G</size>
@@ -800,7 +800,7 @@ Source:	Bigby Presents: Glory of the Giants p. 164</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cradle of the Stone Scion</name>
+    <name>Cradle of the Stone Scion [Legacy]</name>
     <sortname>Scion of Skoraeus, Cradle of the Stone Scion</sortname>
     <ancestry>Scion of Skoraeus</ancestry>
     <size>G</size>
@@ -893,7 +893,7 @@ Source:	Bigby Presents: Glory of the Giants p. 168</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cradle of the Storm Scion</name>
+    <name>Cradle of the Storm Scion [Legacy]</name>
     <sortname>Scion of Stronmaus, Cradle of the Storm Scion</sortname>
     <ancestry>Scion of Stronmaus</ancestry>
     <size>G</size>
@@ -982,7 +982,7 @@ Source:	Bigby Presents: Glory of the Giants p. 170</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cradle of the Cloud Scion</name>
+    <name>Cradle of the Cloud Scion [Legacy]</name>
     <sortname>Scion of Memnor, Cradle of the Cloud Scion</sortname>
     <ancestry>Scion of Memnor</ancestry>
     <size>G</size>
@@ -1076,7 +1076,7 @@ Source:	Bigby Presents: Glory of the Giants p. 166</description>
     <environment/>
   </monster>
   <monster>
-    <name>Death Giant Reaper</name>
+    <name>Death Giant Reaper [Legacy]</name>
     <sortname>Death Giant, Reaper</sortname>
     <ancestry>Death Giant</ancestry>
     <size>H</size>
@@ -1136,7 +1136,7 @@ Source:	Bigby Presents: Glory of the Giants p. 126</description>
     <environment/>
   </monster>
   <monster>
-    <name>Death Giant Shrouded One</name>
+    <name>Death Giant Shrouded One [Legacy]</name>
     <sortname>Death Giant, Shrouded One</sortname>
     <ancestry>Death Giant</ancestry>
     <size>H</size>
@@ -1211,7 +1211,7 @@ Source:	Bigby Presents: Glory of the Giants p. 127</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dust Hulk</name>
+    <name>Dust Hulk [Legacy]</name>
     <sortname>Hulk, Dust</sortname>
     <ancestry>Hulk</ancestry>
     <size>L</size>
@@ -1273,7 +1273,7 @@ Source:	Bigby Presents: Glory of the Giants p. 131</description>
     <environment/>
   </monster>
   <monster>
-    <name>Echo of Demogorgon</name>
+    <name>Echo of Demogorgon [Legacy]</name>
     <size>L</size>
     <type>fiend (demon)</type>
     <alignment>typically chaotic evil</alignment>
@@ -1335,7 +1335,7 @@ Source:	Bigby Presents: Glory of the Giants p. 132</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ettin Ceremorph</name>
+    <name>Ettin Ceremorph [Legacy]</name>
     <sortname>Ettin, Ceremorph</sortname>
     <ancestry>Ettin</ancestry>
     <size>L</size>
@@ -1401,7 +1401,7 @@ Source:	Bigby Presents: Glory of the Giants p. 133</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fensir Devourer</name>
+    <name>Fensir Devourer [Legacy]</name>
     <sortname>Fensir, Devourer</sortname>
     <ancestry>Fensir</ancestry>
     <size>H</size>
@@ -1469,7 +1469,7 @@ Source:	Bigby Presents: Glory of the Giants p. 135</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fensir Skirmisher</name>
+    <name>Fensir Skirmisher [Legacy]</name>
     <sortname>Fensir, Skirmisher</sortname>
     <ancestry>Fensir</ancestry>
     <size>L</size>
@@ -1545,7 +1545,7 @@ Source:	Bigby Presents: Glory of the Giants p. 135</description>
     <environment/>
   </monster>
   <monster>
-    <name>Firbolg Primeval Warden</name>
+    <name>Firbolg Primeval Warden [Legacy]</name>
     <sortname>Firbolg, Primeval Warden</sortname>
     <ancestry>Firbolg</ancestry>
     <npc>YES</npc>
@@ -1615,7 +1615,7 @@ Source:	Bigby Presents: Glory of the Giants p. 136</description>
     <environment/>
   </monster>
   <monster>
-    <name>Firbolg Wanderer</name>
+    <name>Firbolg Wanderer [Legacy]</name>
     <sortname>Firbolg, Wanderer</sortname>
     <ancestry>Firbolg</ancestry>
     <npc>YES</npc>
@@ -1688,7 +1688,7 @@ Source:	Bigby Presents: Glory of the Giants p. 137</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fire Giant Forgecaller</name>
+    <name>Fire Giant Forgecaller [Legacy]</name>
     <sortname>Fire Giant, Forgecaller</sortname>
     <ancestry>Fire Giant</ancestry>
     <size>H</size>
@@ -1760,7 +1760,7 @@ Source:	Bigby Presents: Glory of the Giants p. 138</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fire Giant of Evil Fire</name>
+    <name>Fire Giant of Evil Fire [Legacy]</name>
     <sortname>Fire Giant, Evil Fire</sortname>
     <ancestry>Fire Giant</ancestry>
     <size>H</size>
@@ -1817,7 +1817,7 @@ Source:	Bigby Presents: Glory of the Giants p. 139</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fire Hellion</name>
+    <name>Fire Hellion [Legacy]</name>
     <size>H</size>
     <type>fiend (devil)</type>
     <alignment>typically lawful evil</alignment>
@@ -1878,7 +1878,7 @@ Source:	Bigby Presents: Glory of the Giants p. 140</description>
     <environment/>
   </monster>
   <monster>
-    <name>Firegaunt</name>
+    <name>Firegaunt [Legacy]</name>
     <size>H</size>
     <type>undead</type>
     <alignment>typically lawful evil</alignment>
@@ -1935,7 +1935,7 @@ Source:	Bigby Presents: Glory of the Giants p. 137</description>
     <environment/>
   </monster>
   <monster>
-    <name>Flesh Colossus</name>
+    <name>Flesh Colossus [Legacy]</name>
     <size>G</size>
     <type>construct</type>
     <alignment>unaligned</alignment>
@@ -2005,7 +2005,7 @@ Source:	Bigby Presents: Glory of the Giants p. 141</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fomorian Deep Crawler</name>
+    <name>Fomorian Deep Crawler [Legacy]</name>
     <sortname>Fomorian, Deep Crawler</sortname>
     <ancestry>Fomorian</ancestry>
     <size>H</size>
@@ -2070,7 +2070,7 @@ Source:	Bigby Presents: Glory of the Giants p. 142</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fomorian Noble</name>
+    <name>Fomorian Noble [Legacy]</name>
     <sortname>Fomorian, Noble</sortname>
     <ancestry>Fomorian</ancestry>
     <size>H</size>
@@ -2132,7 +2132,7 @@ Source:	Bigby Presents: Glory of the Giants p. 143</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fomorian Warlock of the Dark</name>
+    <name>Fomorian Warlock of the Dark [Legacy]</name>
     <sortname>Fomorian, Warlock of the Dark</sortname>
     <ancestry>Fomorian</ancestry>
     <size>H</size>
@@ -2227,7 +2227,7 @@ Source:	Bigby Presents: Glory of the Giants p. 144</description>
     <environment/>
   </monster>
   <monster>
-    <name>Frost Giant Ice Shaper</name>
+    <name>Frost Giant Ice Shaper [Legacy]</name>
     <sortname>Frost Giant, Ice Shaper</sortname>
     <ancestry>Frost Giant</ancestry>
     <size>H</size>
@@ -2299,7 +2299,7 @@ Source:	Bigby Presents: Glory of the Giants p. 145</description>
     <environment/>
   </monster>
   <monster>
-    <name>Frost Giant of Evil Water</name>
+    <name>Frost Giant of Evil Water [Legacy]</name>
     <sortname>Frost Giant, Evil Water</sortname>
     <ancestry>Frost Giant</ancestry>
     <size>H</size>
@@ -2362,7 +2362,7 @@ Source:	Bigby Presents: Glory of the Giants p. 146</description>
     <environment/>
   </monster>
   <monster>
-    <name>Frostmourn</name>
+    <name>Frostmourn [Legacy]</name>
     <size>H</size>
     <type>undead</type>
     <alignment>typically neutral evil</alignment>
@@ -2424,7 +2424,7 @@ Source:	Bigby Presents: Glory of the Giants p. 147</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fury of Kostchtchie</name>
+    <name>Fury of Kostchtchie [Legacy]</name>
     <size>H</size>
     <type>fiend (demon)</type>
     <alignment>typically chaotic evil</alignment>
@@ -2489,7 +2489,7 @@ Source:	Bigby Presents: Glory of the Giants p. 148</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gargantua</name>
+    <name>Gargantua [Legacy]</name>
     <size>G</size>
     <type>aberration</type>
     <alignment>typically chaotic neutral</alignment>
@@ -2562,7 +2562,7 @@ Source:	Bigby Presents: Glory of the Giants p. 149</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Child</name>
+    <name>Giant Child [Legacy]</name>
     <size>M</size>
     <type>giant</type>
     <alignment>any alignment</alignment>
@@ -2605,7 +2605,7 @@ Source:	Bigby Presents: Glory of the Giants p. 34</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Goose</name>
+    <name>Giant Goose [Legacy]</name>
     <sortname>Giant Animal, Goose</sortname>
     <ancestry>Giant Animal, Goose</ancestry>
     <size>L</size>
@@ -2673,7 +2673,7 @@ Source:	Bigby Presents: Glory of the Giants p. 150</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Lynx</name>
+    <name>Giant Lynx [Legacy]</name>
     <sortname>Giant, Lynx</sortname>
     <ancestry>Giant Animal, Lynx</ancestry>
     <size>M</size>
@@ -2725,7 +2725,7 @@ Source:	Bigby Presents: Glory of the Giants p. 151</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Ox</name>
+    <name>Giant Ox [Legacy]</name>
     <sortname>Giant, Ox</sortname>
     <ancestry>Giant Animal, Ox</ancestry>
     <size>H</size>
@@ -2770,7 +2770,7 @@ Source:	Bigby Presents: Glory of the Giants p. 152</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Ram</name>
+    <name>Giant Ram [Legacy]</name>
     <sortname>Giant, Ram</sortname>
     <ancestry>Giant Animal, Ram</ancestry>
     <size>L</size>
@@ -2827,7 +2827,7 @@ Source:	Bigby Presents: Glory of the Giants p. 153</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Tick</name>
+    <name>Giant Tick [Legacy]</name>
     <sortname>Giant, Tick</sortname>
     <ancestry>Giant Animal, Tick</ancestry>
     <size>M</size>
@@ -2873,7 +2873,7 @@ Source:	Bigby Presents: Glory of the Giants p. 153</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gigant</name>
+    <name>Gigant [Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>unaligned</alignment>
@@ -2937,7 +2937,7 @@ Source:	Bigby Presents: Glory of the Giants p. 154</description>
     <environment/>
   </monster>
   <monster>
-    <name>Goliath Giant-Kin</name>
+    <name>Goliath Giant-Kin [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -2989,7 +2989,7 @@ Source:	Bigby Presents: Glory of the Giants p. 155</description>
     <environment/>
   </monster>
   <monster>
-    <name>Grinning Cat</name>
+    <name>Grinning Cat [Legacy]</name>
     <sortname>Cat, Grinning</sortname>
     <ancestry>Cat</ancestry>
     <size>L</size>
@@ -3052,7 +3052,7 @@ Source:	Bigby Presents: Glory of the Giants p. 156</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hill Giant Avalancher</name>
+    <name>Hill Giant Avalancher [Legacy]</name>
     <sortname>Giant, Hill Avalancer</sortname>
     <ancestry>Giant</ancestry>
     <size>H</size>
@@ -3133,7 +3133,7 @@ Source:	Bigby Presents: Glory of the Giants p. 157</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lightning Hulk</name>
+    <name>Lightning Hulk [Legacy]</name>
     <sortname>Hulk, Lightning</sortname>
     <ancestry>Hulk</ancestry>
     <size>L</size>
@@ -3183,7 +3183,7 @@ Source:	Bigby Presents: Glory of the Giants p. 158</description>
     <environment/>
   </monster>
   <monster>
-    <name>Maw of Yeenoghu</name>
+    <name>Maw of Yeenoghu [Legacy]</name>
     <size>H</size>
     <type>fiend (demon)</type>
     <alignment>typically chaotic evil</alignment>
@@ -3246,7 +3246,7 @@ Source:	Bigby Presents: Glory of the Giants p. 159</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mist Hulk</name>
+    <name>Mist Hulk [Legacy]</name>
     <sortname>Hulk, Mist</sortname>
     <ancestry>Hulk</ancestry>
     <size>L</size>
@@ -3307,7 +3307,7 @@ Source:	Bigby Presents: Glory of the Giants p. 160</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mud Hulk</name>
+    <name>Mud Hulk [Legacy]</name>
     <sortname>Hulk, Mud</sortname>
     <ancestry>Hulk</ancestry>
     <size>L</size>
@@ -3363,7 +3363,7 @@ Source:	Bigby Presents: Glory of the Giants p. 161</description>
     <environment/>
   </monster>
   <monster>
-    <name>Regisaur</name>
+    <name>Regisaur [Legacy]</name>
     <sortname>Dinosaur, Regisaur</sortname>
     <ancestry>Dinosaur</ancestry>
     <size>G</size>
@@ -3426,7 +3426,7 @@ Source:	Bigby Presents: Glory of the Giants p. 130</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rime Hulk</name>
+    <name>Rime Hulk [Legacy]</name>
     <sortname>Hulk, Rime</sortname>
     <ancestry>Hulk</ancestry>
     <size>L</size>
@@ -3484,7 +3484,7 @@ Source:	Bigby Presents: Glory of the Giants p. 162</description>
     <environment/>
   </monster>
   <monster>
-    <name>Runic Colossus</name>
+    <name>Runic Colossus [Legacy]</name>
     <size>G</size>
     <type>construct</type>
     <alignment>unaligned</alignment>
@@ -3557,7 +3557,7 @@ Source:	Bigby Presents: Glory of the Giants p. 163</description>
     <environment/>
   </monster>
   <monster>
-    <name>Scion of Grolantor</name>
+    <name>Scion of Grolantor [Legacy]</name>
     <size>G</size>
     <type>giant (titan)</type>
     <alignment>typically chaotic evil</alignment>
@@ -3657,7 +3657,7 @@ Source:	Bigby Presents: Glory of the Giants p. 165</description>
     <environment/>
   </monster>
   <monster>
-    <name>Scion of Memnor</name>
+    <name>Scion of Memnor [Legacy]</name>
     <size>G</size>
     <type>giant (titan)</type>
     <alignment>typically chaotic neutral</alignment>
@@ -3757,7 +3757,7 @@ Source:	Bigby Presents: Glory of the Giants p. 167</description>
     <environment/>
   </monster>
   <monster>
-    <name>Scion of Skoraeus</name>
+    <name>Scion of Skoraeus [Legacy]</name>
     <size>G</size>
     <type>giant (titan)</type>
     <alignment>typically neutral</alignment>
@@ -3858,7 +3858,7 @@ Source:	Bigby Presents: Glory of the Giants p. 169</description>
     <environment/>
   </monster>
   <monster>
-    <name>Scion of Stronmaus</name>
+    <name>Scion of Stronmaus [Legacy]</name>
     <size>G</size>
     <type>giant (titan)</type>
     <alignment>typically chaotic good</alignment>
@@ -3972,7 +3972,7 @@ Source:	Bigby Presents: Glory of the Giants p. 171</description>
     <environment/>
   </monster>
   <monster>
-    <name>Scion of Surtur</name>
+    <name>Scion of Surtur [Legacy]</name>
     <size>G</size>
     <type>giant (titan)</type>
     <alignment>typically lawful evil</alignment>
@@ -4075,7 +4075,7 @@ Source:	Bigby Presents: Glory of the Giants p. 173</description>
     <environment/>
   </monster>
   <monster>
-    <name>Scion of Thrym</name>
+    <name>Scion of Thrym [Legacy]</name>
     <size>G</size>
     <type>giant (titan)</type>
     <alignment>typically neutral evil</alignment>
@@ -4177,7 +4177,7 @@ Source:	Bigby Presents: Glory of the Giants p. 175</description>
     <environment/>
   </monster>
   <monster>
-    <name>Spectral Cloud</name>
+    <name>Spectral Cloud [Legacy]</name>
     <size>H</size>
     <type>undead</type>
     <alignment>typically neutral</alignment>
@@ -4239,7 +4239,7 @@ Source:	Bigby Presents: Glory of the Giants p. 176</description>
     <environment/>
   </monster>
   <monster>
-    <name>Spotted Lion</name>
+    <name>Spotted Lion [Legacy]</name>
     <sortname>Lion, Spotted</sortname>
     <ancestry>Lion</ancestry>
     <size>H</size>
@@ -4283,7 +4283,7 @@ Source:	Bigby Presents: Glory of the Giants p. 177</description>
     <environment/>
   </monster>
   <monster>
-    <name>Stalker of Baphomet</name>
+    <name>Stalker of Baphomet [Legacy]</name>
     <size>H</size>
     <type>fiend (demon)</type>
     <alignment>typically chaotic evil</alignment>
@@ -4355,7 +4355,7 @@ Source:	Bigby Presents: Glory of the Giants p. 178</description>
     <environment/>
   </monster>
   <monster>
-    <name>Stone Giant of Evil Earth</name>
+    <name>Stone Giant of Evil Earth [Legacy]</name>
     <sortname>Stone Giant, Evil Earth</sortname>
     <ancestry>Stone Giant</ancestry>
     <size>H</size>
@@ -4411,7 +4411,7 @@ Source:	Bigby Presents: Glory of the Giants p. 179</description>
     <environment/>
   </monster>
   <monster>
-    <name>Stone Giant Rockspeaker</name>
+    <name>Stone Giant Rockspeaker [Legacy]</name>
     <sortname>Stone Giant, Rockspeaker</sortname>
     <ancestry>Stone Giant</ancestry>
     <size>H</size>
@@ -4498,7 +4498,7 @@ Source:	Bigby Presents: Glory of the Giants p. 180</description>
     <environment/>
   </monster>
   <monster>
-    <name>Storm Crab</name>
+    <name>Storm Crab [Legacy]</name>
     <sortname>Crab, Storm</sortname>
     <ancestry>Crab</ancestry>
     <size>G</size>
@@ -4558,7 +4558,7 @@ Source:	Bigby Presents: Glory of the Giants p. 181</description>
     <environment/>
   </monster>
   <monster>
-    <name>Storm Giant Tempest Caller</name>
+    <name>Storm Giant Tempest Caller [Legacy]</name>
     <sortname>Storm Giant, Tempest Caller</sortname>
     <ancestry>Storm Giant</ancestry>
     <size>H</size>
@@ -4646,7 +4646,7 @@ Source:	Bigby Presents: Glory of the Giants p. 182</description>
     <environment/>
   </monster>
   <monster>
-    <name>Storm Herald</name>
+    <name>Storm Herald [Legacy]</name>
     <size>H</size>
     <type>aberration</type>
     <alignment>typically lawful evil</alignment>
@@ -4727,7 +4727,7 @@ Source:	Bigby Presents: Glory of the Giants p. 183</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tempest Spirit</name>
+    <name>Tempest Spirit [Legacy]</name>
     <sortname>Spirit, Tempest</sortname>
     <ancestry>Spirit</ancestry>
     <size>H</size>
@@ -4805,7 +4805,7 @@ Source:	Bigby Presents: Glory of the Giants p. 184</description>
     <environment/>
   </monster>
   <monster>
-    <name>Titanothere</name>
+    <name>Titanothere [Legacy]</name>
     <size>H</size>
     <type>beast</type>
     <alignment>unaligned</alignment>
@@ -4848,7 +4848,7 @@ Source:	Bigby Presents: Glory of the Giants p. 185</description>
     <environment/>
   </monster>
   <monster>
-    <name>Troll Amalgam</name>
+    <name>Troll Amalgam [Legacy]</name>
     <sortname>Troll, Amalgam</sortname>
     <ancestry>Troll</ancestry>
     <size>G</size>
@@ -4918,7 +4918,7 @@ Source:	Bigby Presents: Glory of the Giants p. 186</description>
     <environment/>
   </monster>
   <monster>
-    <name>Troll Mutate</name>
+    <name>Troll Mutate [Legacy]</name>
     <sortname>Troll, Mutate</sortname>
     <ancestry>Troll</ancestry>
     <size>L</size>

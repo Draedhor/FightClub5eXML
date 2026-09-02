@@ -220,47 +220,47 @@ Source:	Grim Hollow: Player's Guide p. 63 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Detect Poison and Disease</name>
+    <name>Detect Poison and Disease [TP Legacy]</name>
     <classes>Ranger (Green Reaper (Third Party))</classes>
   </spell>
   <spell>
-    <name>Hold Person</name>
+    <name>Hold Person [TP Legacy]</name>
     <classes>Ranger (Green Reaper (Third Party))</classes>
   </spell>
   <spell>
-    <name>Bestow Curse</name>
+    <name>Bestow Curse [TP Legacy]</name>
     <classes>Ranger (Green Reaper (Third Party))</classes>
   </spell>
   <spell>
-    <name>Greater Invisibility</name>
+    <name>Greater Invisibility [TP Legacy]</name>
     <classes>Ranger (Green Reaper (Third Party))</classes>
   </spell>
   <spell>
-    <name>Cloudkill</name>
+    <name>Cloudkill [TP Legacy]</name>
     <classes>Ranger (Green Reaper (Third Party))</classes>
   </spell>
   <spell>
-    <name>Consumption (TP)</name>
+    <name>Consumption [TP Legacy]</name>
     <classes>Ranger (Vermin Lord (Third Party))</classes>
   </spell>
   <spell>
-    <name>Animal Messenger</name>
+    <name>Animal Messenger [TP Legacy]</name>
     <classes>Ranger (Vermin Lord (Third Party))</classes>
   </spell>
   <spell>
-    <name>Flash Fever</name>
+    <name>Flash Fever [TP Legacy]</name>
     <classes>Ranger (Vermin Lord (Third Party))</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement</name>
+    <name>Freedom of Movement [TP Legacy]</name>
     <classes>Ranger (Vermin Lord (Third Party))</classes>
   </spell>
   <spell>
-    <name>Contagion</name>
+    <name>Contagion [TP Legacy]</name>
     <classes>Ranger (Vermin Lord (Third Party))</classes>
   </spell>
   <monster>
-    <name>Swarm of Vermin</name>
+    <name>Swarm of Vermin [TP Legacy]</name>
     <sortname>Vermin (Swarm)</sortname>
     <ancestry>Vermin</ancestry>
     <size>M</size>

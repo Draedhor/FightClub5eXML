@@ -120,43 +120,43 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 171 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Faerie Fire (TP)</name>
+    <name>Faerie Fire [TP]</name>
     <classes>Sorcerer (Delerium Soul (HB))</classes>
   </spell>
   <spell>
-    <name>Wall of Force (TP)</name>
+    <name>Wall of Force [TP]</name>
     <classes>Sorcerer (Delerium Soul (HB))</classes>
   </spell>
   <spell>
-    <name>Comet Shards (TP)</name>
+    <name>Comet Shards [TP]</name>
     <classes>Sorcerer (Delerium Soul (HB))</classes>
   </spell>
   <spell>
-    <name>Controlled Mutation (TP)</name>
+    <name>Controlled Mutation [TP]</name>
     <classes>Sorcerer (Delerium Soul (HB))</classes>
   </spell>
   <spell>
-    <name>Grasping Ghost (TP)</name>
+    <name>Grasping Ghost [TP]</name>
     <classes>Sorcerer (Delerium Soul (HB))</classes>
   </spell>
   <spell>
-    <name>Vanish to the Space Between Worlds (TP)</name>
+    <name>Vanish to the Space Between Worlds [TP]</name>
     <classes>Sorcerer (Delerium Soul (HB))</classes>
   </spell>
   <spell>
-    <name>Weave the Elder Sign (TP)</name>
+    <name>Weave the Elder Sign [TP]</name>
     <classes>Sorcerer (Delerium Soul (HB))</classes>
   </spell>
   <spell>
-    <name>Siphon Time (TP)</name>
+    <name>Siphon Time [TP]</name>
     <classes>Sorcerer (Delerium Soul (HB))</classes>
   </spell>
   <spell>
-    <name>Summon Delerium Elemental (TP)</name>
+    <name>Summon Delerium Elemental [TP]</name>
     <classes>Sorcerer (Delerium Soul (HB))</classes>
   </spell>
   <spell>
-    <name>Contaminated Hands (TP)</name>
+    <name>Contaminated Hands [TP]</name>
     <classes>Sorcerer (Delerium Soul (HB))</classes>
   </spell>
 </compendium>

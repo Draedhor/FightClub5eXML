@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Curse of the Ashen Tongue (TP)</name>
+    <name>Curse of the Ashen Tongue [TP]</name>
     <level>3</level>
     <school>N</school>
     <time>1 hour</time>
@@ -15,7 +15,7 @@
 Source:	Zamanora: Ballad of the Witch p. 179 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Curse of Disarmament (TP)</name>
+    <name>Curse of Disarmament [TP]</name>
     <level>6</level>
     <school>N</school>
     <time>1 hour</time>
@@ -30,7 +30,7 @@ Source:	Zamanora: Ballad of the Witch p. 179 (Homebrew)</text>
     <roll description="Psychic Damage">1d8</roll>
   </spell>
   <spell>
-    <name>Curse of Fleeting Seasons (TP)</name>
+    <name>Curse of Fleeting Seasons [TP]</name>
     <level>8</level>
     <school>N</school>
     <time>1 hour</time>
@@ -44,7 +44,7 @@ Source:	Zamanora: Ballad of the Witch p. 179 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 180 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Curse of Forewarning (TP)</name>
+    <name>Curse of Forewarning [TP]</name>
     <level>6</level>
     <school>N</school>
     <time>1 hour</time>
@@ -58,7 +58,7 @@ Source:	Zamanora: Ballad of the Witch p. 180 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 180 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Curse of Hopeless Wandering (TP)</name>
+    <name>Curse of Hopeless Wandering [TP]</name>
     <level>4</level>
     <school>N</school>
     <time>1 hour</time>
@@ -72,7 +72,7 @@ Source:	Zamanora: Ballad of the Witch p. 180 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 180 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Curse of Hunger (TP)</name>
+    <name>Curse of Hunger [TP]</name>
     <level>4</level>
     <school>N</school>
     <time>1 hour</time>
@@ -86,7 +86,7 @@ Source:	Zamanora: Ballad of the Witch p. 180 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 181 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Curse of Kinslaying (TP)</name>
+    <name>Curse of Kinslaying [TP]</name>
     <level>3</level>
     <school>N</school>
     <time>1 hour</time>
@@ -100,7 +100,7 @@ Source:	Zamanora: Ballad of the Witch p. 181 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 181 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Curse of Lethe (TP)</name>
+    <name>Curse of Lethe [TP]</name>
     <level>4</level>
     <school>N</school>
     <time>1 hour</time>
@@ -114,7 +114,7 @@ Source:	Zamanora: Ballad of the Witch p. 181 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 181 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Curse of Miscreation (TP)</name>
+    <name>Curse of Miscreation [TP]</name>
     <level>6</level>
     <school>N</school>
     <time>1 hour</time>
@@ -128,7 +128,7 @@ Source:	Zamanora: Ballad of the Witch p. 181 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 181 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Curse of Torpor (TP)</name>
+    <name>Curse of Torpor [TP]</name>
     <level>9</level>
     <school>N</school>
     <time>1 hour</time>
@@ -142,7 +142,7 @@ Source:	Zamanora: Ballad of the Witch p. 181 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 182 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Curse of Trepidation (TP)</name>
+    <name>Curse of Trepidation [TP]</name>
     <level>5</level>
     <school>N</school>
     <time>1 hour</time>
@@ -156,7 +156,7 @@ Source:	Zamanora: Ballad of the Witch p. 182 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 182 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Curse of Uprooting (TP)</name>
+    <name>Curse of Uprooting [TP]</name>
     <level>5</level>
     <school>N</school>
     <time>1 hour</time>
@@ -170,7 +170,7 @@ Source:	Zamanora: Ballad of the Witch p. 182 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 182 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Curse of Vampirism (TP)</name>
+    <name>Curse of Vampirism [TP]</name>
     <level>9</level>
     <school>N</school>
     <time>1 hour</time>
@@ -191,7 +191,7 @@ Source:	Zamanora: Ballad of the Witch p. 182 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 184 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Curse of Therianthropy (TP)</name>
+    <name>Curse of Therianthropy [TP]</name>
     <level>7</level>
     <school>N</school>
     <time>1 hour</time>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Abi-Dalzim's Horrid Wilting</name>
+    <name>Abi-Dalzim's Horrid Wilting [Legacy]</name>
     <classes>School: Necromancy, Sorcerer, Wizard</classes>
     <level>8</level>
     <school>N</school>
@@ -19,7 +19,7 @@ Source:	Xanathar's Guide to Everything p. 150,
     <roll>12d8</roll>
   </spell>
   <spell>
-    <name>Absorb Elements</name>
+    <name>Absorb Elements [Legacy]</name>
     <classes>School: Abjuration, Druid, Ranger, Sorcerer, Wizard</classes>
     <level>1</level>
     <school>A</school>
@@ -45,7 +45,7 @@ Source:	Xanathar's Guide to Everything p. 150,
     <roll>9d6</roll>
   </spell>
   <spell>
-    <name>Aganazzar's Scorcher</name>
+    <name>Aganazzar's Scorcher [Legacy]</name>
     <classes>School: Evocation, Sorcerer, Wizard</classes>
     <level>2</level>
     <school>EV</school>
@@ -70,7 +70,7 @@ Source:	Xanathar's Guide to Everything p. 150,
     <roll>10d8</roll>
   </spell>
   <spell>
-    <name>Beast Bond</name>
+    <name>Beast Bond [Legacy]</name>
     <classes>School: Divination, Druid, Ranger</classes>
     <level>1</level>
     <school>D</school>
@@ -85,7 +85,7 @@ Source:	Xanathar's Guide to Everything p. 150,
 		Elemental Evil Player's Companion p. 15</text>
   </spell>
   <spell>
-    <name>Bones of the Earth</name>
+    <name>Bones of the Earth [Legacy]</name>
     <classes>School: Transmutation, Druid</classes>
     <level>6</level>
     <school>T</school>
@@ -112,7 +112,7 @@ Source:	Xanathar's Guide to Everything p. 150,
     <roll>6d6</roll>
   </spell>
   <spell>
-    <name>Catapult</name>
+    <name>Catapult [Legacy]</name>
     <classes>School: Transmutation, Sorcerer, Wizard</classes>
     <level>1</level>
     <school>T</school>
@@ -138,7 +138,7 @@ Source:	Xanathar's Guide to Everything p. 150,
     <roll>11d8</roll>
   </spell>
   <spell>
-    <name>Catnap</name>
+    <name>Catnap [Legacy]</name>
     <classes>School: Enchantment, Bard, Sorcerer, Wizard</classes>
     <level>3</level>
     <school>EN</school>
@@ -154,7 +154,7 @@ At Higher Levels: When you cast this spell using a spell slot of 4th level or hi
 Source:	Xanathar's Guide to Everything p. 151</text>
   </spell>
   <spell>
-    <name>Cause Fear</name>
+    <name>Cause Fear [Legacy]</name>
     <classes>School: Necromancy, Warlock, Wizard</classes>
     <level>1</level>
     <school>N</school>
@@ -174,7 +174,7 @@ Frightened:
 Source:	Xanathar's Guide to Everything p. 151</text>
   </spell>
   <spell>
-    <name>Ceremony</name>
+    <name>Ceremony [Legacy]</name>
     <classes>School: Abjuration, Cleric, Paladin</classes>
     <level>1</level>
     <school>A</school>
@@ -206,7 +206,7 @@ You touch adult humanoids willing to be bonded together in marriage. For the nex
 Source:	Xanathar's Guide to Everything p. 151</text>
   </spell>
   <spell>
-    <name>Chaos Bolt</name>
+    <name>Chaos Bolt [Legacy]</name>
     <classes>School: Evocation, Sorcerer</classes>
     <level>1</level>
     <school>EV</school>
@@ -264,7 +264,7 @@ At Higher Levels: When you cast this spell using a spell slot of 5th level or hi
 Source:	Xanathar's Guide to Everything p. 151</text>
   </spell> -->
   <spell>
-    <name>Control Flames</name>
+    <name>Control Flames [Legacy]</name>
     <classes>School: Transmutation, Druid, Sorcerer, Wizard</classes>
     <level>0</level>
     <school>T</school>
@@ -286,7 +286,7 @@ Source:	Xanathar's Guide to Everything p. 152,
 		Elemental Evil Player's Companion p. 16</text>
   </spell>
   <spell>
-    <name>Control Winds</name>
+    <name>Control Winds [Legacy]</name>
     <classes>School: Transmutation, Druid, Sorcerer, Wizard</classes>
     <level>5</level>
     <school>T</school>
@@ -315,7 +315,7 @@ Source:	Xanathar's Guide to Everything p. 152,
 		Elemental Evil Player's Companion p. 16</text>
   </spell>
   <spell>
-    <name>Create Bonfire</name>
+    <name>Create Bonfire [Legacy]</name>
     <classes>School: Conjuration, Druid, Sorcerer, Warlock, Wizard</classes>
     <level>0</level>
     <school>C</school>
@@ -338,7 +338,7 @@ Source:	Xanathar's Guide to Everything p. 152,
     <roll>4d8</roll>
   </spell>
   <spell>
-    <name>Create Homunculus</name>
+    <name>Create Homunculus [Legacy]</name>
     <classes>School: Transmutation, Wizard</classes>
     <level>6</level>
     <school>T</school>
@@ -357,7 +357,7 @@ Source:	Xanathar's Guide to Everything p. 152</text>
     <roll>2d4</roll>
   </spell>
   <spell>
-    <name>Crown of Stars</name>
+    <name>Crown of Stars [Legacy]</name>
     <classes>School: Evocation, Sorcerer, Warlock, Wizard</classes>
     <level>7</level>
     <school>EV</school>
@@ -376,7 +376,7 @@ Source:	Xanathar's Guide to Everything p. 152</text>
     <roll>4d12</roll>
   </spell>
   <spell>
-    <name>Danse Macabre</name>
+    <name>Danse Macabre [Legacy]</name>
     <classes>School: Necromancy, Warlock, Wizard</classes>
     <level>5</level>
     <school>N</school>
@@ -396,7 +396,7 @@ At Higher Levels: When you cast this spell using a spell slot of 6th level or hi
 Source:	Xanathar's Guide to Everything p. 153</text>
   </spell>
   <spell>
-    <name>Dawn</name>
+    <name>Dawn [Legacy]</name>
     <classes>School: Evocation, Cleric, Wizard</classes>
     <level>5</level>
     <school>EV</school>
@@ -439,7 +439,7 @@ Source:	Xanathar's Guide to Everything p. 154</text>
     <roll>10d6</roll>
   </spell> -->
   <spell>
-    <name>Druid Grove</name>
+    <name>Druid Grove [Legacy]</name>
     <classes>School: Abjuration, Druid</classes>
     <level>6</level>
     <school>A</school>
@@ -475,7 +475,7 @@ To a creature immune to this effect, the winds are a fragrant, gentle breeze, an
 Source:	Xanathar's Guide to Everything p. 154</text>
   </spell>
   <spell>
-    <name>Dust Devil</name>
+    <name>Dust Devil [Legacy]</name>
     <classes>School: Conjuration, Druid, Sorcerer, Wizard</classes>
     <level>2</level>
     <school>C</school>
@@ -504,7 +504,7 @@ Source:	Xanathar's Guide to Everything p. 154,
     <roll>8d8</roll>
   </spell>
   <spell>
-    <name>Earth Tremor</name>
+    <name>Earth Tremor [Legacy]</name>
     <classes>School: Evocation, Bard, Druid, Sorcerer, Wizard</classes>
     <level>1</level>
     <school>EV</school>
@@ -535,7 +535,7 @@ Source:	Xanathar's Guide to Everything p. 155,
     <roll>9d6</roll>
   </spell>
   <spell>
-    <name>Earthbind</name>
+    <name>Earthbind [Legacy]</name>
     <classes>School: Transmutation, Druid, Sorcerer, Warlock, Wizard</classes>
     <level>2</level>
     <school>T</school>
@@ -550,7 +550,7 @@ Source:	Xanathar's Guide to Everything p. 154,
 		Elemental Evil Player's Companion p. 17</text>
   </spell>
   <spell>
-    <name>Elemental Bane</name>
+    <name>Elemental Bane [Legacy]</name>
     <classes>School: Transmutation, Druid, Warlock, Wizard</classes>
     <level>4</level>
     <school>T</school>
@@ -568,7 +568,7 @@ Source:	Xanathar's Guide to Everything p. 155,
     <roll>2d6</roll>
   </spell>
   <spell>
-    <name>Enemies Abound</name>
+    <name>Enemies Abound [Legacy]</name>
     <classes>School: Enchantment, Bard, Sorcerer, Warlock, Wizard</classes>
     <level>3</level>
     <school>EN</school>
@@ -584,7 +584,7 @@ Whenever the affected creature chooses another creature as a target, it must cho
 Source:	Xanathar's Guide to Everything p. 155</text>
   </spell>
   <spell>
-    <name>Enervation</name>
+    <name>Enervation [Legacy]</name>
     <classes>School: Necromancy, Sorcerer, Warlock, Wizard</classes>
     <level>5</level>
     <school>N</school>
@@ -609,7 +609,7 @@ Source:	Xanathar's Guide to Everything p. 155</text>
     <roll>8d8</roll>
   </spell>
   <spell>
-    <name>Erupting Earth</name>
+    <name>Erupting Earth [Legacy]</name>
     <classes>School: Transmutation, Druid, Sorcerer, Wizard</classes>
     <level>3</level>
     <school>T</school>
@@ -633,7 +633,7 @@ Source:	Xanathar's Guide to Everything p. 155,
     <roll>9d12</roll>
   </spell>
   <spell>
-    <name>Far Step</name>
+    <name>Far Step [Legacy]</name>
     <classes>School: Conjuration, Sorcerer, Warlock, Wizard</classes>
     <level>5</level>
     <school>C</school>
@@ -647,7 +647,7 @@ Source:	Xanathar's Guide to Everything p. 155,
 Source:	Xanathar's Guide to Everything p. 155</text>
   </spell>
   <spell>
-    <name>Find Greater Steed</name>
+    <name>Find Greater Steed [Legacy]</name>
     <classes>School: Conjuration, Paladin</classes>
     <level>4</level>
     <school>C</school>
@@ -669,7 +669,7 @@ Whenever the mount disappears, it leaves behind any objects it was wearing or ca
 Source:	Xanathar's Guide to Everything p. 156</text>
   </spell>
   <spell>
-    <name>Flame Arrows</name>
+    <name>Flame Arrows [Legacy]</name>
     <classes>School: Transmutation, Druid, Ranger, Sorcerer, Wizard</classes>
     <level>3</level>
     <school>T</school>
@@ -687,7 +687,7 @@ Source:	Xanathar's Guide to Everything p. 156,
     <roll>1d6</roll>
   </spell>
   <spell>
-    <name>Frostbite</name>
+    <name>Frostbite [Legacy]</name>
     <classes>School: Evocation, Druid, Sorcerer, Warlock, Wizard</classes>
     <level>0</level>
     <school>EV</school>
@@ -708,7 +708,7 @@ Source:	Xanathar's Guide to Everything p. 156,
     <roll>4d6</roll>
   </spell>
   <spell>
-    <name>Guardian of Nature</name>
+    <name>Guardian of Nature [Legacy]</name>
     <classes>School: Transmutation, Druid, Ranger</classes>
     <level>4</level>
     <school>T</school>
@@ -739,7 +739,7 @@ Source:	Xanathar's Guide to Everything p. 157</text>
     <roll>1d6</roll>
   </spell>
   <spell>
-    <name>Gust</name>
+    <name>Gust [Legacy]</name>
     <classes>School: Transmutation, Druid, Sorcerer, Wizard</classes>
     <level>0</level>
     <school>T</school>
@@ -760,7 +760,7 @@ Source:	Xanathar's Guide to Everything p. 157,
 		Eberron: Rising from the Last War p. 50</text>
   </spell>
   <spell>
-    <name>Healing Spirit</name>
+    <name>Healing Spirit [Legacy]</name>
     <classes>School: Conjuration, Druid, Ranger</classes>
     <level>2</level>
     <school>C</school>
@@ -788,7 +788,7 @@ Source:	Xanathar's Guide to Everything p. 157</text>
     <roll>8d6</roll>
   </spell>
   <spell>
-    <name>Holy Weapon</name>
+    <name>Holy Weapon [Legacy]</name>
     <classes>School: Evocation, Cleric, Paladin</classes>
     <level>5</level>
     <school>EV</school>
@@ -837,7 +837,7 @@ Source:	Xanathar's Guide to Everything p. 157,
     <roll>10d6</roll>
   </spell> -->
   <spell>
-    <name>Illusory Dragon</name>
+    <name>Illusory Dragon [Legacy]</name>
     <classes>School: Illusion, Wizard</classes>
     <level>8</level>
     <school>I</school>
@@ -858,7 +858,7 @@ Source:	Xanathar's Guide to Everything p. 157</text>
     <roll>7d6</roll>
   </spell>
   <spell>
-    <name>Immolation</name>
+    <name>Immolation [Legacy]</name>
     <classes>School: Evocation, Sorcerer, Wizard</classes>
     <level>5</level>
     <school>EV</school>
@@ -877,7 +877,7 @@ Source:	Xanathar's Guide to Everything p. 158,
     <roll>4d6</roll>
   </spell>
   <spell>
-    <name>Infernal Calling</name>
+    <name>Infernal Calling [Legacy]</name>
     <classes>School: Conjuration, Warlock, Wizard</classes>
     <level>5</level>
     <school>C</school>
@@ -902,7 +902,7 @@ Source:	Xanathar's Guide to Everything p. 158</text>
     <roll>3d6</roll>
   </spell>
   <spell>
-    <name>Infestation</name>
+    <name>Infestation [Legacy]</name>
     <classes>School: Conjuration, Druid, Sorcerer, Warlock, Wizard</classes>
     <level>0</level>
     <school>C</school>
@@ -923,7 +923,7 @@ Source:	Xanathar's Guide to Everything p. 158</text>
     <roll>1d4</roll>
   </spell>
   <spell>
-    <name>Investiture of Flame</name>
+    <name>Investiture of Flame [Legacy]</name>
     <classes>School: Transmutation, Druid, Sorcerer, Warlock, Wizard</classes>
     <level>6</level>
     <school>T</school>
@@ -944,7 +944,7 @@ Source:	Xanathar's Guide to Everything p. 159,
     <roll>4d8</roll>
   </spell>
   <spell>
-    <name>Investiture of Ice</name>
+    <name>Investiture of Ice [Legacy]</name>
     <classes>School: Transmutation, Druid, Sorcerer, Warlock, Wizard</classes>
     <level>6</level>
     <school>T</school>
@@ -965,7 +965,7 @@ Source:	Xanathar's Guide to Everything p. 159,
     <roll>4d6</roll>
   </spell>
   <spell>
-    <name>Investiture of Stone</name>
+    <name>Investiture of Stone [Legacy]</name>
     <classes>School: Transmutation, Druid, Sorcerer, Warlock, Wizard</classes>
     <level>6</level>
     <school>T</school>
@@ -994,7 +994,7 @@ Source:	Xanathar's Guide to Everything p. 159,
 		Elemental Evil Player's Companion p. 19</text>
   </spell>
   <spell>
-    <name>Investiture of Wind</name>
+    <name>Investiture of Wind [Legacy]</name>
     <classes>School: Transmutation, Druid, Sorcerer, Warlock, Wizard</classes>
     <level>6</level>
     <school>T</school>
@@ -1014,7 +1014,7 @@ Source:	Xanathar's Guide to Everything p. 160,
     <roll>2d10</roll>
   </spell>
   <spell>
-    <name>Invulnerability</name>
+    <name>Invulnerability [Legacy]</name>
     <classes>School: Abjuration, Wizard</classes>
     <level>9</level>
     <school>A</school>
@@ -1028,7 +1028,7 @@ Source:	Xanathar's Guide to Everything p. 160,
 Source:	Xanathar's Guide to Everything p. 160</text>
   </spell>
   <spell>
-    <name>Life Transference</name>
+    <name>Life Transference [Legacy]</name>
     <classes>School: Necromancy, Cleric, Wizard</classes>
     <level>3</level>
     <school>N</school>
@@ -1051,7 +1051,7 @@ Source:	Xanathar's Guide to Everything p. 160</text>
     <roll>10d8</roll>
   </spell>
   <spell>
-    <name>Maddening Darkness</name>
+    <name>Maddening Darkness [Legacy]</name>
     <classes>School: Evocation, Warlock, Wizard</classes>
     <level>8</level>
     <school>EV</school>
@@ -1068,7 +1068,7 @@ Source:	Xanathar's Guide to Everything p. 160</text>
     <roll>8d8</roll>
   </spell>
   <spell>
-    <name>Maelstrom</name>
+    <name>Maelstrom [Legacy]</name>
     <classes>School: Evocation, Druid</classes>
     <level>5</level>
     <school>EV</school>
@@ -1084,7 +1084,7 @@ Source:	Xanathar's Guide to Everything p. 160,
     <roll>6d6</roll>
   </spell>
   <spell>
-    <name>Magic Stone</name>
+    <name>Magic Stone [Legacy]</name>
     <classes>School: Transmutation, Druid, Warlock</classes>
     <level>0</level>
     <school>T</school>
@@ -1102,7 +1102,7 @@ Source:	Xanathar's Guide to Everything p. 160,
     <roll>1d6+%0</roll>
   </spell>
   <spell>
-    <name>Mass Polymorph</name>
+    <name>Mass Polymorph [Legacy]</name>
     <classes>School: Transmutation, Bard, Sorcerer, Wizard</classes>
     <level>9</level>
     <school>T</school>
@@ -1124,7 +1124,7 @@ The target's gear melds into the new form. The target can't activate, use, wield
 Source:	Xanathar's Guide to Everything p. 160</text>
   </spell>
   <spell>
-    <name>Maximilian's Earthen Grasp</name>
+    <name>Maximilian's Earthen Grasp [Legacy]</name>
     <classes>School: Transmutation, Sorcerer, Wizard</classes>
     <level>2</level>
     <school>T</school>
@@ -1151,7 +1151,7 @@ Source:	Xanathar's Guide to Everything p. 161,
     <roll>2d6</roll>
   </spell>
   <spell>
-    <name>Melf's Minute Meteors</name>
+    <name>Melf's Minute Meteors [Legacy]</name>
     <classes>School: Evocation, Sorcerer, Wizard</classes>
     <level>3</level>
     <school>EV</school>
@@ -1169,7 +1169,7 @@ Source:	Xanathar's Guide to Everything p. 161,
     <roll>2d6</roll>
   </spell>
   <spell>
-    <name>Mental Prison</name>
+    <name>Mental Prison [Legacy]</name>
     <classes>School: Illusion, Sorcerer, Warlock, Wizard</classes>
     <level>6</level>
     <school>I</school>
@@ -1190,7 +1190,7 @@ Source:	Xanathar's Guide to Everything p. 161</text>
     <roll>10d10</roll>
   </spell>
   <spell>
-    <name>Mighty Fortress</name>
+    <name>Mighty Fortress [Legacy]</name>
     <classes>School: Conjuration, Wizard</classes>
     <level>8</level>
     <school>C</school>
@@ -1240,7 +1240,7 @@ Source:	Xanathar's Guide to Everything p. 162</text>
     <roll>10d8</roll>
   </spell> -->
   <spell>
-    <name>Mold Earth</name>
+    <name>Mold Earth [Legacy]</name>
     <classes>School: Transmutation, Druid, Sorcerer, Wizard</classes>
     <level>0</level>
     <school>T</school>
@@ -1261,7 +1261,7 @@ Source:	Xanathar's Guide to Everything p. 162,
 		Elemental Evil Player's Companion p. 21</text>
   </spell>
   <spell>
-    <name>Negative Energy Flood</name>
+    <name>Negative Energy Flood [Legacy]</name>
     <classes>School: Necromancy, Warlock, Wizard</classes>
     <level>5</level>
     <school>N</school>
@@ -1278,7 +1278,7 @@ Source:	Xanathar's Guide to Everything p. 163</text>
     <roll>5d12</roll>
   </spell>
   <spell>
-    <name>Power Word Pain</name>
+    <name>Power Word Pain [Legacy]</name>
     <classes>School: Enchantment, Sorcerer, Warlock, Wizard</classes>
     <level>7</level>
     <school>EN</school>
@@ -1296,7 +1296,7 @@ A target suffering this pain can make a Constitution saving throw at the end of 
 Source:	Xanathar's Guide to Everything p. 163</text>
   </spell>
   <spell>
-    <name>Primal Savagery</name>
+    <name>Primal Savagery [Legacy]</name>
     <classes>School: Transmutation, Druid</classes>
     <level>0</level>
     <school>T</school>
@@ -1316,7 +1316,7 @@ Source:	Xanathar's Guide to Everything p. 163</text>
     <roll>4d10</roll>
   </spell>
   <spell>
-    <name>Primordial Ward</name>
+    <name>Primordial Ward [Legacy]</name>
     <classes>School: Abjuration, Druid</classes>
     <level>6</level>
     <school>A</school>
@@ -1333,7 +1333,7 @@ Source:	Xanathar's Guide to Everything p. 163,
 		Elemental Evil Player's Companion p. 21</text>
   </spell>
   <spell>
-    <name>Psychic Scream</name>
+    <name>Psychic Scream [Legacy]</name>
     <classes>School: Enchantment, Bard, Sorcerer, Warlock, Wizard</classes>
     <level>9</level>
     <school>EN</school>
@@ -1352,7 +1352,7 @@ Source:	Xanathar's Guide to Everything p. 163</text>
     <roll>14d6</roll>
   </spell>
   <spell>
-    <name>Pyrotechnics</name>
+    <name>Pyrotechnics [Legacy]</name>
     <classes>School: Transmutation, Bard, Sorcerer, Wizard</classes>
     <level>2</level>
     <school>T</school>
@@ -1377,7 +1377,7 @@ Source:	Xanathar's Guide to Everything p. 163,
 		Elemental Evil Player's Companion p. 21</text>
   </spell>
   <spell>
-    <name>Scatter</name>
+    <name>Scatter [Legacy]</name>
     <classes>School: Conjuration, Sorcerer, Warlock, Wizard</classes>
     <level>6</level>
     <school>C</school>
@@ -1391,7 +1391,7 @@ Source:	Xanathar's Guide to Everything p. 163,
 Source:	Xanathar's Guide to Everything p. 164</text>
   </spell>
   <spell>
-    <name>Shadow Blade</name>
+    <name>Shadow Blade [Legacy]</name>
     <classes>School: Illusion, Sorcerer, Warlock, Wizard</classes>
     <level>2</level>
     <school>I</school>
@@ -1413,7 +1413,7 @@ Source:	Xanathar's Guide to Everything p. 164</text>
     <roll>5d8</roll>
   </spell>
   <spell>
-    <name>Shadow of Moil</name>
+    <name>Shadow of Moil [Legacy]</name>
     <classes>School: Necromancy, Warlock</classes>
     <level>4</level>
     <school>N</school>
@@ -1430,7 +1430,7 @@ Source:	Xanathar's Guide to Everything p. 164</text>
     <roll>2d8</roll>
   </spell>
   <spell>
-    <name>Shape Water</name>
+    <name>Shape Water [Legacy]</name>
     <classes>School: Transmutation, Druid, Sorcerer, Wizard</classes>
     <level>0</level>
     <school>T</school>
@@ -1453,7 +1453,7 @@ Source:	Xanathar's Guide to Everything p. 164,
 		Explorer's Guide to Wildemount</text>
   </spell>
   <spell>
-    <name>Sickening Radiance</name>
+    <name>Sickening Radiance [Legacy]</name>
     <classes>School: Evocation, Sorcerer, Warlock, Wizard</classes>
     <level>4</level>
     <school>EV</school>
@@ -1470,7 +1470,7 @@ Source:	Xanathar's Guide to Everything p. 164</text>
     <roll>4d10</roll>
   </spell>
   <spell>
-    <name>Skill Empowerment</name>
+    <name>Skill Empowerment [Legacy]</name>
     <classes>School: Transmutation, Bard, Sorcerer, Wizard</classes>
     <level>5</level>
     <school>T</school>
@@ -1486,7 +1486,7 @@ You must choose a skill in which the target is proficient and that isn't already
 Source:	Xanathar's Guide to Everything p. 165</text>
   </spell>
   <spell>
-    <name>Skywrite</name>
+    <name>Skywrite [Legacy]</name>
     <classes>School: Transmutation, Bard, Druid, Wizard</classes>
     <level>2</level>
     <school>T</school>
@@ -1501,7 +1501,7 @@ Source:	Xanathar's Guide to Everything p. 165,
 		Elemental Evil Player's Companion p. 22</text>
   </spell>
   <spell>
-    <name>Snare</name>
+    <name>Snare [Legacy]</name>
     <classes>School: Abjuration, Druid, Ranger, Wizard</classes>
     <level>1</level>
     <school>A</school>
@@ -1528,7 +1528,7 @@ Restrained:
 Source:	Xanathar's Guide to Everything p. 165</text>
   </spell>
   <spell>
-    <name>Snilloc's Snowball Swarm</name>
+    <name>Snilloc's Snowball Swarm [Legacy]</name>
     <classes>School: Evocation, Sorcerer, Wizard</classes>
     <level>2</level>
     <school>EV</school>
@@ -1553,7 +1553,7 @@ Source:	Xanathar's Guide to Everything p. 165,
     <roll>10d6</roll>
   </spell>
   <spell>
-    <name>Soul Cage</name>
+    <name>Soul Cage [Legacy]</name>
     <classes>School: Necromancy, Warlock, Wizard</classes>
     <level>6</level>
     <school>N</school>
@@ -1599,7 +1599,7 @@ Source:	Xanathar's Guide to Everything p. 166</text>
     <roll>6d10</roll>
   </spell> -->
   <spell>
-    <name>Storm Sphere</name>
+    <name>Storm Sphere [Legacy]</name>
     <classes>School: Evocation, Sorcerer, Wizard</classes>
     <level>4</level>
     <school>EV</school>
@@ -1628,7 +1628,7 @@ Source:	Xanathar's Guide to Everything p. 166,
     <roll>9d6</roll>
   </spell>
   <spell>
-    <name>Summon Greater Demon</name>
+    <name>Summon Greater Demon [Legacy]</name>
     <classes>School: Conjuration, Warlock, Wizard</classes>
     <level>4</level>
     <school>C</school>
@@ -1651,7 +1651,7 @@ Source:	Xanathar's Guide to Everything p. 166</text>
     <roll>1d6</roll>
   </spell>
   <spell>
-    <name>Summon Lesser Demons</name>
+    <name>Summon Lesser Demons [Legacy]</name>
     <classes>School: Conjuration, Warlock, Wizard</classes>
     <level>3</level>
     <school>C</school>
@@ -1694,7 +1694,7 @@ Source:	Xanathar's Guide to Everything p. 167</text>
     <roll>8d6</roll>
   </spell> -->
   <spell>
-    <name>Temple of the Gods</name>
+    <name>Temple of the Gods [Legacy]</name>
     <classes>School: Conjuration, Cleric</classes>
     <level>7</level>
     <school>C</school>
@@ -1722,7 +1722,7 @@ Casting this spell on the same spot every day for a year makes this effect perma
 Source:	Xanathar's Guide to Everything p. 167</text>
   </spell>
   <spell>
-    <name>Tenser's Transformation</name>
+    <name>Tenser's Transformation [Legacy]</name>
     <classes>School: Transmutation, Wizard</classes>
     <level>6</level>
     <school>T</school>
@@ -1746,7 +1746,7 @@ Source:	Xanathar's Guide to Everything p. 168</text>
     <roll>2d12</roll>
   </spell>
   <spell>
-    <name>Thunder Step</name>
+    <name>Thunder Step [Legacy]</name>
     <classes>School: Conjuration, Sorcerer, Warlock, Wizard</classes>
     <level>3</level>
     <school>C</school>
@@ -1792,7 +1792,7 @@ Source:	Xanathar's Guide to Everything p. 168,
     <roll>4d6</roll>
   </spell> -->
   <spell>
-    <name>Tidal Wave</name>
+    <name>Tidal Wave [Legacy]</name>
     <classes>School: Conjuration, Druid, Sorcerer, Wizard</classes>
     <level>3</level>
     <school>C</school>
@@ -1813,7 +1813,7 @@ Source:	Xanathar's Guide to Everything p. 168,
     <roll>4d8</roll>
   </spell>
   <spell>
-    <name>Tiny Servant</name>
+    <name>Tiny Servant [Legacy]</name>
     <classes>School: Transmutation, Wizard</classes>
     <level>3</level>
     <school>T</school>
@@ -1857,7 +1857,7 @@ Source:	Xanathar's Guide to Everything p. 169</text>
     <roll>4d12</roll>
   </spell> -->
   <spell>
-    <name>Transmute Rock</name>
+    <name>Transmute Rock [Legacy]</name>
     <classes>School: Transmutation, Druid, Wizard</classes>
     <level>5</level>
     <school>T</school>
@@ -1912,7 +1912,7 @@ Source:	Xanathar's Guide to Everything p. 170,
     <roll>20d4</roll>
   </spell> -->
   <spell>
-    <name>Wall of Light</name>
+    <name>Wall of Light [Legacy]</name>
     <classes>School: Evocation, Sorcerer, Warlock, Wizard</classes>
     <level>5</level>
     <school>EV</school>
@@ -1943,7 +1943,7 @@ Source:	Xanathar's Guide to Everything p. 170</text>
     <roll>8d8</roll>
   </spell>
   <spell>
-    <name>Wall of Sand</name>
+    <name>Wall of Sand [Legacy]</name>
     <classes>School: Evocation, Wizard</classes>
     <level>3</level>
     <school>EV</school>
@@ -1962,7 +1962,7 @@ Source:	Xanathar's Guide to Everything p. 170,
 		Elemental Evil Player's Companion p. 23</text>
   </spell>
   <spell>
-    <name>Wall of Water</name>
+    <name>Wall of Water [Legacy]</name>
     <classes>School: Evocation, Druid, Sorcerer, Wizard</classes>
     <level>3</level>
     <school>EV</school>
@@ -1981,7 +1981,7 @@ Source:	Xanathar's Guide to Everything p. 170,
 		Mythic Odysseys of Theros</text>
   </spell>
   <spell>
-    <name>Warding Wind</name>
+    <name>Warding Wind [Legacy]</name>
     <classes>School: Evocation, Bard, Druid, Sorcerer, Wizard</classes>
     <level>2</level>
     <school>EV</school>
@@ -2004,7 +2004,7 @@ Source:	Xanathar's Guide to Everything p. 170,
 		Elemental Evil Player's Companion p. 23</text>
   </spell>
   <spell>
-    <name>Watery Sphere</name>
+    <name>Watery Sphere [Legacy]</name>
     <classes>School: Conjuration, Druid, Sorcerer, Wizard</classes>
     <level>4</level>
     <school>C</school>
@@ -2037,7 +2037,7 @@ Source:	Xanathar's Guide to Everything p. 170,
 		Elemental Evil Player's Companion p. 23</text>
   </spell>
   <spell>
-    <name>Whirlwind</name>
+    <name>Whirlwind [Legacy]</name>
     <classes>School: Evocation, Druid, Sorcerer, Wizard</classes>
     <level>7</level>
     <school>EV</school>
@@ -2083,7 +2083,7 @@ Source:	Xanathar's Guide to Everything p. 171</text>
     <roll>4d6</roll>
   </spell> -->
   <spell>
-    <name>Wrath of Nature</name>
+    <name>Wrath of Nature [Legacy]</name>
     <classes>School: Evocation, Druid, Ranger</classes>
     <level>5</level>
     <school>EV</school>
@@ -2111,7 +2111,7 @@ Source:	Xanathar's Guide to Everything p. 171</text>
     <roll>3d8</roll>
   </spell>
   <spell>
-    <name>Zephyr Strike</name>
+    <name>Zephyr Strike [Legacy]</name>
     <classes>School: Transmutation, Ranger</classes>
     <level>1</level>
     <school>T</school>

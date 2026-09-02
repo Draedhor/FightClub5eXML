@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Kobold (TP)</name>
+    <name>Kobold [TP]</name>
     <size>S</size>
     <speed>30</speed>
     <trait category="description">
@@ -55,7 +55,7 @@ You always have this cantrip prepared. When you cast a spell using this trait, y
     </trait>
   </race>
   <race>
-    <name>Kobold, Winged (TP)</name>
+    <name>Kobold, Winged [TP]</name>
     <displayname>Winged Kobold</displayname>
     <ancestry>Kobold</ancestry>
     <size>S</size>

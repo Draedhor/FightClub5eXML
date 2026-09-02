@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Fin Symbiote (TP)</name>
+    <name>Fin Symbiote [TP Legacy]</name>
     <detail>rare (requires attunement by an aberrant horror)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -13,7 +13,7 @@ Source:	Grim Hollow: Player's Guide p. 133 (Third Party)</text>
     <roll description="Hours">1d4</roll>
   </item>
   <item>
-    <name>Stalk Symbiote (TP)</name>
+    <name>Stalk Symbiote [TP Legacy]</name>
     <detail>uncommon (requires attunement by an aberrant horror)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -25,7 +25,7 @@ Source:	Grim Hollow: Player's Guide p. 133 (Third Party)</text>
     <roll description="Hours">1d4</roll>
   </item>
   <item>
-    <name>Straitjacket (TP)</name>
+    <name>Straitjacket [TP Legacy]</name>
     <detail>uncommon (requires attunement by an aberrant horror)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -35,7 +35,7 @@ Source:	Grim Hollow: Player's Guide p. 133 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 133 (Third Party)</text>
   </item>
   <item>
-    <name>Star Metal Ring (TP)</name>
+    <name>Star Metal Ring [TP Legacy]</name>
     <detail>rare (requires attunement by an aberrant horror)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -44,7 +44,7 @@ Source:	Grim Hollow: Player's Guide p. 133 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 133 (Third Party)</text>
   </item>
   <item>
-    <name>Queen's Token (TP)</name>
+    <name>Queen's Token [TP Legacy]</name>
     <detail>legendary (requires attunement by a fey)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -54,7 +54,7 @@ Source:	Grim Hollow: Player's Guide p. 133 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 133 (Third Party)</text>
   </item>
   <item>
-    <name>Iridescent Armor (TP)</name>
+    <name>Iridescent Armor [TP Legacy]</name>
     <detail>breastplate, rare (requires attunement by a fey)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -69,7 +69,7 @@ Source:	Grim Hollow: Player's Guide p. 133 (Third Party)</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Faerie Crown (TP)</name>
+    <name>Faerie Crown [TP Legacy]</name>
     <detail>very rare (requires attunement by a fey)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -80,7 +80,7 @@ Source:	Grim Hollow: Player's Guide p. 134 (Third Party)</text>
     <roll description="Butterflies">1d6+3</roll>
   </item>
   <item>
-    <name>Toadstool Toddy (TP)</name>
+    <name>Toadstool Toddy [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -89,7 +89,7 @@ Source:	Grim Hollow: Player's Guide p. 134 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 134 (Third Party)</text>
   </item>
   <item>
-    <name>Ring of Hidden Desire (TP)</name>
+    <name>Ring of Hidden Desire [TP Legacy]</name>
     <detail>uncommon (requires attunement by a fiend)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -98,7 +98,7 @@ Source:	Grim Hollow: Player's Guide p. 134 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 134 (Third Party)</text>
   </item>
   <item>
-    <name>Profane Charm (TP)</name>
+    <name>Profane Charm [TP Legacy]</name>
     <detail>uncommon (requires attunement by a fiend)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -107,7 +107,7 @@ Source:	Grim Hollow: Player's Guide p. 134 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 134 (Third Party)</text>
   </item>
   <item>
-    <name>Cinder Coat (TP)</name>
+    <name>Cinder Coat [TP Legacy]</name>
     <detail>very rare (requires attunement by a fiend)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -121,7 +121,7 @@ Source:	Grim Hollow: Player's Guide p. 134 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Ardor (TP)</name>
+    <name>Ardor [TP Legacy]</name>
     <detail>battleaxe, artifact (requires attunement by a fiend)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -154,7 +154,7 @@ Source:	Grim Hollow: Player's Guide p. 134 (Third Party),
     <roll description="Necrotic Damage">3d10</roll>
   </item>
   <item>
-    <name>Funeral Mask (TP)</name>
+    <name>Funeral Mask [TP Legacy]</name>
     <detail>uncommon (requires attunement by a lich)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -164,7 +164,7 @@ Source:	Grim Hollow: Player's Guide p. 134 (Third Party),
 Source:	Grim Hollow: Player's Guide p. 134 (Third Party)</text>
   </item>
   <item>
-    <name>Staff of the Sorcerer King (TP)</name>
+    <name>Staff of the Sorcerer King [TP Legacy]</name>
     <detail>spellcasting focus, cursed, legendary (requires attunement by a spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -199,7 +199,7 @@ Source:	Grim Hollow: Player's Guide p. 135 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Rod of Ruin (TP)</name>
+    <name>Rod of Ruin [TP Legacy]</name>
     <detail>rare (requires attunement by a lich)</detail>
     <type>RD</type>
     <magic>YES</magic>
@@ -210,7 +210,7 @@ Source:	Grim Hollow: Player's Guide p. 135 (Third Party)</text>
     <roll description="Years">2d10</roll>
   </item>
   <item>
-    <name>Armor of Zombie Flesh (TP)</name>
+    <name>Armor of Zombie Flesh [TP Legacy]</name>
     <detail>hide armor, rare (requires attunement by a lich)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -224,7 +224,7 @@ Source:	Grim Hollow: Player's Guide p. 136 (Third Party),
 		Player's Handbook p. 144</text>
   </item>
   <item>
-    <name>Second Skin (TP)</name>
+    <name>Second Skin [TP Legacy]</name>
     <detail>rare (requires attunement by a lycanthrope)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -234,7 +234,7 @@ Source:	Grim Hollow: Player's Guide p. 136 (Third Party),
 Source:	Grim Hollow: Player's Guide p. 136 (Third Party)</text>
   </item>
   <item>
-    <name>Crimson Mist (TP)</name>
+    <name>Crimson Mist [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -244,7 +244,7 @@ Source:	Grim Hollow: Player's Guide p. 136 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 136 (Third Party)</text>
   </item>
   <item>
-    <name>Rod of the Pack Master (TP)</name>
+    <name>Rod of the Pack Master [TP Legacy]</name>
     <detail>very rare (requires attunement by a lycanthrope)</detail>
     <type>RD</type>
     <magic>YES</magic>
@@ -256,7 +256,7 @@ Source:	Grim Hollow: Player's Guide p. 136 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 136 (Third Party)</text>
   </item>
   <item>
-    <name>Iron Fangs (TP)</name>
+    <name>Iron Fangs [TP Legacy]</name>
     <detail>rare (requires attunement by a lycanthrope)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -265,7 +265,7 @@ Source:	Grim Hollow: Player's Guide p. 136 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 136 (Third Party)</text>
   </item>
   <item>
-    <name>Bow of Four (TP)</name>
+    <name>Bow of Four [TP Legacy]</name>
     <detail>longbow, very rare (requires attunement by a primordial)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -302,7 +302,7 @@ Source:	Grim Hollow: Player's Guide p. 136 (Third Party),
     <roll description="Cold Damage">2d8</roll>
   </item>
   <item>
-    <name>Lodestone Armor (TP)</name>
+    <name>Lodestone Armor [TP Legacy]</name>
     <detail>rare (requires attunement by a primordial)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -323,7 +323,7 @@ Source:	Grim Hollow: Player's Guide p. 137 (Third Party),
 		Player's Handbook p. 145</text>
   </item>
   <item>
-    <name>Ring of Radiation (TP)</name>
+    <name>Ring of Radiation [TP Legacy]</name>
     <detail>uncommon (requires attunement by a primordial)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -332,7 +332,7 @@ Source:	Grim Hollow: Player's Guide p. 137 (Third Party),
 Source:	Grim Hollow: Player's Guide p. 137 (Third Party)</text>
   </item>
   <item>
-    <name>Rod of Elemental Stasis (TP)</name>
+    <name>Rod of Elemental Stasis [TP Legacy]</name>
     <detail>spellcasting focus, rare (requires attunement by a primordial)</detail>
     <type>RD</type>
     <magic>YES</magic>
@@ -349,7 +349,7 @@ Source:	Grim Hollow: Player's Guide p. 137 (Third Party),
 		Player's Handbook p. 151</text>
   </item>
   <item>
-    <name>Heaven's Herald (TP)</name>
+    <name>Heaven's Herald [TP Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -361,7 +361,7 @@ Source:	Grim Hollow: Player's Guide p. 137 (Third Party)</text>
     <roll description="Radiant Damage">8d6</roll>
   </item>
   <item>
-    <name>Zeal (TP)</name>
+    <name>Zeal [TP Legacy]</name>
     <detail>warhammer, artifact (requires attunement by a seraph)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -395,7 +395,7 @@ Source:	Grim Hollow: Player's Guide p. 137 (Third Party),
     <roll description="Radiant Damage">3d10</roll>
   </item>
   <item>
-    <name>Ring of Truth (TP)</name>
+    <name>Ring of Truth [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -404,7 +404,7 @@ Source:	Grim Hollow: Player's Guide p. 137 (Third Party),
 Source:	Grim Hollow: Player's Guide p. 138 (Third Party)</text>
   </item>
   <item>
-    <name>Humble Frock (TP)</name>
+    <name>Humble Frock [TP Legacy]</name>
     <detail>uncommon (requires attunement by a seraph)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -413,7 +413,7 @@ Source:	Grim Hollow: Player's Guide p. 138 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 138 (Third Party)</text>
   </item>
   <item>
-    <name>Ectoplasmic Whip (TP)</name>
+    <name>Ectoplasmic Whip [TP Legacy]</name>
     <detail>whip, rare (requires attunement by a spectre)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -435,7 +435,7 @@ Source:	Grim Hollow: Player's Guide p. 138 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Banshee Box (TP)</name>
+    <name>Banshee Box [TP Legacy]</name>
     <detail>uncommon (requires attunement by a spectre)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -445,7 +445,7 @@ Source:	Grim Hollow: Player's Guide p. 138 (Third Party),
 Source:	Grim Hollow: Player's Guide p. 138 (Third Party)</text>
   </item>
   <item>
-    <name>Wand of the Poltergeist (TP)</name>
+    <name>Wand of the Poltergeist [TP Legacy]</name>
     <detail>very rare (requires attunement by a spectre)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -455,7 +455,7 @@ Source:	Grim Hollow: Player's Guide p. 138 (Third Party)</text>
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>Mortal Coil (TP)</name>
+    <name>Mortal Coil [TP Legacy]</name>
     <detail>uncommon (requires attunement by a spectre)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -464,7 +464,7 @@ Source:	Grim Hollow: Player's Guide p. 138 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 138 (Third Party)</text>
   </item>
   <item>
-    <name>Sun Shades (TP)</name>
+    <name>Sun Shades [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -473,7 +473,7 @@ Source:	Grim Hollow: Player's Guide p. 138 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 139 (Third Party)</text>
   </item>
   <item>
-    <name>Blood Capsule (TP)</name>
+    <name>Blood Capsule [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -482,7 +482,7 @@ Source:	Grim Hollow: Player's Guide p. 139 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 139 (Third Party)</text>
   </item>
   <item>
-    <name>Light Drinker (TP)</name>
+    <name>Light Drinker [TP Legacy]</name>
     <detail>longsword, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -503,7 +503,7 @@ Source:	Grim Hollow: Player's Guide p. 139 (Third Party),
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Angelskin Armor (TP)</name>
+    <name>Angelskin Armor [TP Legacy]</name>
     <detail>leather armor, rare</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -518,7 +518,7 @@ Source:	Grim Hollow: Player's Guide p. 139 (Third Party),
 		Player's Handbook p. 144</text>
   </item>
   <item>
-    <name>Watcher's Candle (TP)</name>
+    <name>Watcher's Candle [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -528,7 +528,7 @@ Source:	Grim Hollow: Player's Guide p. 139 (Third Party),
 Source:	Grim Hollow: Player's Guide p. 140 (Third Party)</text>
   </item>
   <item>
-    <name>Seeing Glass (TP)</name>
+    <name>Seeing Glass [TP Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -538,7 +538,7 @@ Source:	Grim Hollow: Player's Guide p. 140 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 140 (Third Party)</text>
   </item>
   <item>
-    <name>Stitching Needle (TP)</name>
+    <name>Stitching Needle [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -548,7 +548,7 @@ Source:	Grim Hollow: Player's Guide p. 140 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 140 (Third Party)</text>
   </item>
   <item>
-    <name>Hunter's Mutagen (TP)</name>
+    <name>Hunter's Mutagen [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <text>This glowing green liquid sends a creature's antibodies into a hyperactive state. When you drink this potion, you are immune to poison and disease for one hour. You also cannot contract curses like lycanthropy or mummy rot for the duration. At the end of the hour, you gain one level of exhaustion.
@@ -556,7 +556,7 @@ Source:	Grim Hollow: Player's Guide p. 140 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 140 (Third Party)</text>
   </item>
   <item>
-    <name>Trinket (Grim Hollow) (TP)</name>
+    <name>Trinket (Grim Hollow) [TP Legacy]</name>
     <type>G</type>
     <magic>YES</magic>
     <text>One fun and evocative way to understand and highlight the unique nature of Etharis rests in the devilish and bizarre details. In a world where magic is known to corrupt even the most innocent of objects, providing the characters seemingly mundane items that contain a hint of the macabre or grotesque can heighten tension and unease.

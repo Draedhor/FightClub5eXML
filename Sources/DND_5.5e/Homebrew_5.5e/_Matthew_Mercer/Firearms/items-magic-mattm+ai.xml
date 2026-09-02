@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Vicious Bad News +1 (TP)</name>
+    <name>Vicious Bad News +1 [TP]</name>
     <detail>firearm, modern, sniper rifle, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -38,7 +38,7 @@ Source:	Acquisitions Incorporated p. 149,
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Vicious Blunderbuss +1 (Matthew Mercer) (TP)</name>
+    <name>Vicious Blunderbuss +1 (Matthew Mercer) [TP]</name>
     <detail>firearm, modern, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -73,7 +73,7 @@ Source:	Acquisitions Incorporated p. 149,
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Vicious Hand Mortar +1 (TP)</name>
+    <name>Vicious Hand Mortar +1 [TP]</name>
     <detail>firearm, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -105,7 +105,7 @@ Source:	Acquisitions Incorporated p. 149,
     <roll description="Fire Damage">1d8</roll>
   </item>
   <item>
-    <name>Vicious Musket +1 (Matthew Mercer) (TP)</name>
+    <name>Vicious Musket +1 (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -142,7 +142,7 @@ Source:	Acquisitions Incorporated p. 149,
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Vicious Palm Pistol +1 (TP)</name>
+    <name>Vicious Palm Pistol +1 [TP]</name>
     <detail>firearm, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -181,7 +181,7 @@ Source:	Acquisitions Incorporated p. 149,
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Vicious Pistol +1 (Matthew Mercer) (TP)</name>
+    <name>Vicious Pistol +1 (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -216,7 +216,7 @@ Source:	Acquisitions Incorporated p. 149,
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Vicious Pepperbox +1 (TP)</name>
+    <name>Vicious Pepperbox +1 [TP]</name>
     <detail>firearm, very rare</detail>
     <type>R</type>
     <magic>YES</magic>

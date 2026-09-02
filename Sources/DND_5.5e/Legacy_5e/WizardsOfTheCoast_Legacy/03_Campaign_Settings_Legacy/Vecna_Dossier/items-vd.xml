@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Book of Vile Darkness (VD)</name>
+    <name>Book of Vile Darkness (VD) [Legacy]</name>
     <detail>artifact (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -94,7 +94,7 @@ Source:	Vecna Dossier p. 9,
     <roll>3d6</roll>
   </item> -->
   <item>
-    <name>Eye of Vecna (VD)</name>
+    <name>Eye of Vecna (VD) [Legacy]</name>
     <detail>artifact (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -122,7 +122,7 @@ Source:	Vecna Dossier p. 12</text>
     <roll>1d4+4</roll>
   </item>
   <item>
-    <name>Hand of Vecna (VD)</name>
+    <name>Hand of Vecna (VD) [Legacy]</name>
     <detail>artifact (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>

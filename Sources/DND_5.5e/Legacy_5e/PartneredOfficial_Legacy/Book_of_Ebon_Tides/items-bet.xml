@@ -2,7 +2,7 @@
 <compendium version="5" auto_indent="NO">
   <!-- Apparel -->
   <item>
-    <name>Bearskin Cloak (TP)</name>
+    <name>Bearskin Cloak [TP Legacy]</name>
     <detail>rare (requires attunement by a barbarian, druid, or ranger)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -11,7 +11,7 @@
 Source:	Book of Ebon Tides p. 195 (Third Party)</text>
   </item>
   <item>
-    <name>Boots of Dancing (TP)</name>
+    <name>Boots of Dancing [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -21,7 +21,7 @@ Source:	Book of Ebon Tides p. 195 (Third Party)</text>
 Source:	Book of Ebon Tides p. 195 (Third Party)</text>
   </item>
   <item>
-    <name>Boots of Shadow Walking (TP)</name>
+    <name>Boots of Shadow Walking [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -30,7 +30,7 @@ Source:	Book of Ebon Tides p. 195 (Third Party)</text>
 Source:	Book of Ebon Tides p. 195 (Third Party)</text>
   </item>
   <item>
-    <name>Cloak of Splendor (TP)</name>
+    <name>Cloak of Splendor [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -40,7 +40,7 @@ Source:	Book of Ebon Tides p. 195 (Third Party)</text>
 Source:	Book of Ebon Tides p. 195 (Third Party)</text>
   </item>
   <item>
-    <name>Cloak of the Raven (TP)</name>
+    <name>Cloak of the Raven [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -50,7 +50,7 @@ Source:	Book of Ebon Tides p. 195 (Third Party)</text>
 Source:	Book of Ebon Tides p. 196 (Third Party)</text>
   </item>
   <item>
-    <name>Earrings of Eclipse (TP)</name>
+    <name>Earrings of Eclipse [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -59,7 +59,7 @@ Source:	Book of Ebon Tides p. 196 (Third Party)</text>
 Source:	Book of Ebon Tides p. 196 (Third Party)</text>
   </item>
   <item>
-    <name>Emerald Goblet (TP)</name>
+    <name>Emerald Goblet [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -69,7 +69,7 @@ Source:	Book of Ebon Tides p. 196 (Third Party)</text>
 Source:	Book of Ebon Tides p. 196 (Third Party)</text>
   </item>
   <item>
-    <name>Gloves of the Walking Shade (TP)</name>
+    <name>Gloves of the Walking Shade [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -85,7 +85,7 @@ Source:	Book of Ebon Tides p. 196 (Third Party)</text>
 Source:	Book of Ebon Tides p. 196 (Third Party)</text>
   </item>
   <item>
-    <name>Glowstone Helmet (TP)</name>
+    <name>Glowstone Helmet [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -94,7 +94,7 @@ Source:	Book of Ebon Tides p. 196 (Third Party)</text>
 Source:	Book of Ebon Tides p. 196 (Third Party)</text>
   </item>
   <item>
-    <name>Sealskin Cloak (TP)</name>
+    <name>Sealskin Cloak [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -104,7 +104,7 @@ Source:	Book of Ebon Tides p. 196 (Third Party)</text>
     <roll description="Piercing Damage">1d8</roll>
   </item>
   <item>
-    <name>Styx Boots (TP)</name>
+    <name>Styx Boots [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -114,7 +114,7 @@ Source:	Book of Ebon Tides p. 196 (Third Party)</text>
 Source:	Book of Ebon Tides p. 196 (Third Party)</text>
   </item>
   <item>
-    <name>Trickster's Boots (TP)</name>
+    <name>Trickster's Boots [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -123,7 +123,7 @@ Source:	Book of Ebon Tides p. 196 (Third Party)</text>
 Source:	Book of Ebon Tides p. 197 (Third Party)</text>
   </item>
   <item>
-    <name>Whispering Cloak (TP)</name>
+    <name>Whispering Cloak [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -133,7 +133,7 @@ Source:	Book of Ebon Tides p. 197 (Third Party)</text>
 Source:	Book of Ebon Tides p. 197 (Third Party)</text>
   </item>
   <item>
-    <name>Wolfskin Cloak (TP)</name>
+    <name>Wolfskin Cloak [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -142,7 +142,7 @@ Source:	Book of Ebon Tides p. 197 (Third Party)</text>
 Source:	Book of Ebon Tides p. 197 (Third Party)</text>
   </item>
   <item>
-    <name>Moonbeam Chain Mail (TP)</name>
+    <name>Moonbeam Chain Mail [TP Legacy]</name>
     <detail>very rare (requires attunement by a druid)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -163,7 +163,7 @@ Source:	Book of Ebon Tides p. 198 (Third Party),
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Splint Armor (TP)</name>
+    <name>Splint Armor [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -183,7 +183,7 @@ Source:	Book of Ebon Tides p. 198 (Third Party),
 		Player's Handbook p. 145</text>
   </item>
   <item>
-    <name>Road Warden Shield (TP)</name>
+    <name>Road Warden Shield [TP Legacy]</name>
     <detail>shield, common</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -197,7 +197,7 @@ Source:	Book of Ebon Tides p. 198 (Third Party),
 		Player's Handbook p. 144</text>
   </item>
   <item>
-    <name>Serpent Hide (TP)</name>
+    <name>Serpent Hide [TP Legacy]</name>
     <detail>hide armor, rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -211,7 +211,7 @@ Source:	Book of Ebon Tides p. 198 (Third Party),
 		Player's Handbook p. 144</text>
   </item>
   <item>
-    <name>Shield of Blinding (TP)</name>
+    <name>Shield of Blinding [TP Legacy]</name>
     <detail>shield, common</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -225,7 +225,7 @@ Source:	Book of Ebon Tides p. 198 (Third Party),
 		Player's Handbook p. 144</text>
   </item>
   <item>
-    <name>Shield of Crows (TP)</name>
+    <name>Shield of Crows [TP Legacy]</name>
     <detail>shield, common</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -240,7 +240,7 @@ Source:	Book of Ebon Tides p. 198 (Third Party),
 		Player's Handbook p. 144</text>
   </item>
   <item>
-    <name>Shield of Dawn's Herald (TP)</name>
+    <name>Shield of Dawn's Herald [TP Legacy]</name>
     <detail>shield, very rare (requires attunement)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -257,7 +257,7 @@ Source:	Book of Ebon Tides p. 198 (Third Party),
     <roll description="Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Shield of Otters (TP)</name>
+    <name>Shield of Otters [TP Legacy]</name>
     <detail>shield, uncommon</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -272,7 +272,7 @@ Source:	Book of Ebon Tides p. 199 (Third Party),
 		Player's Handbook p. 144</text>
   </item>
   <item>
-    <name>Shield of Swans (TP)</name>
+    <name>Shield of Swans [TP Legacy]</name>
     <detail>shield, common</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -290,7 +290,7 @@ Source:	Book of Ebon Tides p. 199 (Third Party),
   </item>
   <!-- Illusion Seeds -->
   <item>
-    <name>Ale Seed (TP)</name>
+    <name>Ale Seed [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -299,7 +299,7 @@ Source:	Book of Ebon Tides p. 199 (Third Party),
 Source:	Book of Ebon Tides p. 199 (Third Party)</text>
   </item>
   <item>
-    <name>Bonfire Seed (TP)</name>
+    <name>Bonfire Seed [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -310,7 +310,7 @@ Source:	Book of Ebon Tides p. 199 (Third Party)</text>
     <roll description="Hours">1d4</roll>
   </item>
   <item>
-    <name>Bridge Seed (TP)</name>
+    <name>Bridge Seed [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -319,7 +319,7 @@ Source:	Book of Ebon Tides p. 199 (Third Party)</text>
 Source:	Book of Ebon Tides p. 199 (Third Party)</text>
   </item>
   <item>
-    <name>Dragon Seed (TP)</name>
+    <name>Dragon Seed [TP Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -350,7 +350,7 @@ The dragon created by the illusion seed considers you to be a friend, and it spe
 Source:	Book of Ebon Tides p. 200 (Third Party)</text>
   </item>
   <item>
-    <name>Forest Seed (TP)</name>
+    <name>Forest Seed [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -372,7 +372,7 @@ Source:	Book of Ebon Tides p. 200 (Third Party)</text>
     <roll description="Paths">1d6+1</roll>
   </item>
   <item>
-    <name>Knightly Seed (TP)</name>
+    <name>Knightly Seed [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -388,7 +388,7 @@ Check | Result
 Source:	Book of Ebon Tides p. 201 (Third Party)</text>
   </item>
   <item>
-    <name>Messenger Owl Seed (TP)</name>
+    <name>Messenger Owl Seed [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -398,7 +398,7 @@ Source:	Book of Ebon Tides p. 201 (Third Party)</text>
 Source:	Book of Ebon Tides p. 201 (Third Party)</text>
   </item>
   <item>
-    <name>Orchard Seed (TP)</name>
+    <name>Orchard Seed [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -419,7 +419,7 @@ Source:	Book of Ebon Tides p. 201 (Third Party)</text>
     <roll description="Fruit Trees">3d12</roll>
   </item>
   <item>
-    <name>Rain and Thunder Seed (TP)</name>
+    <name>Rain and Thunder Seed [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -429,7 +429,7 @@ Source:	Book of Ebon Tides p. 201 (Third Party)</text>
 Source:	Book of Ebon Tides p. 201 (Third Party)</text>
   </item>
   <item>
-    <name>Road Seed (TP)</name>
+    <name>Road Seed [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -439,7 +439,7 @@ Source:	Book of Ebon Tides p. 201 (Third Party)</text>
 Source:	Book of Ebon Tides p. 202 (Third Party)</text>
   </item>
   <item>
-    <name>Stallion Seed (TP)</name>
+    <name>Stallion Seed [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -449,7 +449,7 @@ Source:	Book of Ebon Tides p. 202 (Third Party)</text>
 Source:	Book of Ebon Tides p. 202 (Third Party)</text>
   </item>
   <item>
-    <name>Tavern Seed (TP)</name>
+    <name>Tavern Seed [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -461,7 +461,7 @@ Source:	Book of Ebon Tides p. 202 (Third Party)</text>
   </item>
   <!-- Memory Philters -->
   <item>
-    <name>Philter of Boundless Joy (TP)</name>
+    <name>Philter of Boundless Joy [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <text>As you imbibe this potion, you remember a time of pure happiness and joy, usually related to love, parenthood, or some other enormous, life-altering event-the specific memories depend on the philter's creator. You have advantage on Charisma ability checks for 1 hour and immediately gain the effects of a short rest.
@@ -470,7 +470,7 @@ Source:	Book of Ebon Tides p. 202 (Third Party)</text>
 Source:	Book of Ebon Tides p. 202 (Third Party)</text>
   </item>
   <item>
-    <name>Philter of Deep Despair (TP)</name>
+    <name>Philter of Deep Despair [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <text>As you imbibe this potion, you remember a time of heart-rending sorrow, grief, and despair related to death, loss, or failure-the specific memories depend on the philter's creator. You have advantage on Wisdom saving throws for 1 hour but cannot take bonus actions of any kind during that time.
@@ -479,7 +479,7 @@ Source:	Book of Ebon Tides p. 202 (Third Party)</text>
 Source:	Book of Ebon Tides p. 202 (Third Party)</text>
   </item>
   <item>
-    <name>Philter of Enchanted Fortune (TP)</name>
+    <name>Philter of Enchanted Fortune [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <text>As you imbibe this potion, you remember a time of staggering good fortune, accomplishment, and success-the specific memories depend on the philter's creator. You have advantage on the next three ability checks, attack rolls, or saving throws you make (including death saving throws).
@@ -487,7 +487,7 @@ Source:	Book of Ebon Tides p. 202 (Third Party)</text>
 Source:	Book of Ebon Tides p. 203 (Third Party)</text>
   </item>
   <item>
-    <name>Philter of Innocence (TP)</name>
+    <name>Philter of Innocence [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <text>As you imbibe this potion, you return to a childlike state, remembering your life as it was in your formative years—the specific memories depend on the philter's creator. You have resistance to psychic damage for 1 hour and have advantage on Constitution ability checks during that time.
@@ -495,7 +495,7 @@ Source:	Book of Ebon Tides p. 203 (Third Party)</text>
 Source:	Book of Ebon Tides p. 203 (Third Party)</text>
   </item>
   <item>
-    <name>Philter of Loving Kindness (TP)</name>
+    <name>Philter of Loving Kindness [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <text>As you imbibe this potion, you remember a time of love and acceptance-the specific memories depend on the philter's creator. You cannot be affected by spells from the school of enchantment for 1 hour.
@@ -503,7 +503,7 @@ Source:	Book of Ebon Tides p. 203 (Third Party)</text>
 Source:	Book of Ebon Tides p. 203 (Third Party)</text>
   </item>
   <item>
-    <name>Philter of Lust (TP)</name>
+    <name>Philter of Lust [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <text>As you imbibe this potion, you are overtaken with memories and feelings from a time of physical desire-the specific memories depend on the philter's creator. You must succeed on a DC 13 Wisdom saving throw or be overcome by a fit of lust for 1 minute. While in a fit of lust, you seek out either a person whose affection you desire or, more rarely, an object of consuming passion (usually a token, trophy, or fetish of some kind) to claim for yourself. On a successful saving throw, only the memories are passed to you. You can repeat the saving throw at the end of each of your turns, ending the effect on a success.
@@ -511,7 +511,7 @@ Source:	Book of Ebon Tides p. 203 (Third Party)</text>
 Source:	Book of Ebon Tides p. 203 (Third Party)</text>
   </item>
   <item>
-    <name>Philter of Mercy (TP)</name>
+    <name>Philter of Mercy [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <text>As you imbibe this potion, you remember a time of mercy, atonement, and forgiveness—the specific memories depend on the philter's creator. You are immune to being frightened for 1 hour and have advantage on Wisdom ability checks during that time.
@@ -520,7 +520,7 @@ Source:	Book of Ebon Tides p. 203 (Third Party)</text>
 Source:	Book of Ebon Tides p. 203 (Third Party)</text>
   </item>
   <item>
-    <name>Philter of Righteous Anger (TP)</name>
+    <name>Philter of Righteous Anger [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <text>As you imbibe this potion, you are overtaken with feelings of anger and memories of justice denied, betrayals, or blasphemy—the specific memories depend on the philter's creator. You must succeed on a DC 13 Wisdom saving throw or be overcome by a fit of rage for 1 minute. While in a fit of rage, you have advantage on melee attack rolls, and your melee weapon attacks deal an extra 3 (1d6) damage. You cannot distinguish friend from foe and must attack the nearest creature. If no creatures are nearby, you must dash in the direction of the nearest living creature. If no other creature is near enough to move to and attack, you stalk off in a random direction, seeking a target for your anger. On a successful saving throw, only the memories are passed to you. You can repeat the saving throw at the end of each of your turns, ending the effect on a success.
@@ -530,7 +530,7 @@ Source:	Book of Ebon Tides p. 203 (Third Party)</text>
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>Philter of Waking Dreams (TP)</name>
+    <name>Philter of Waking Dreams [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <text>As you imbibe this potion, you remember a particular scene of importance, such as a duel, kiss, theft, betrayal, murder, or funeral—the specific memories depend on the philter's creator. You can take no action for 1 round while caught up in these memories and thereafter cannot forget these events: any creature seen in such a memory will be remembered, as well as their name, by you as someone you have seen before. With a successful DC 13 Wisdom (Insight) check, you may note details of importance within the waking dream, including the relationships of people within the dream, their status, and the location of the dream.
@@ -540,7 +540,7 @@ Source:	Book of Ebon Tides p. 203 (Third Party)</text>
   </item>
   <!-- Potions, Scrolls, and Wondrous Items -->
   <item>
-    <name>Book of Ebon Tides (TP)</name>
+    <name>Book of Ebon Tides [TP Legacy]</name>
     <detail>very rare (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -578,7 +578,7 @@ Source:	Book of Ebon Tides p. 204 (Third Party)</text>
     <roll description="Damage Increase">1d4</roll>
   </item>
   <item>
-    <name>Collapsible Mountain (TP)</name>
+    <name>Collapsible Mountain [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -591,7 +591,7 @@ Source:	Book of Ebon Tides p. 205 (Third Party)</text>
     <roll description="Feet">2d6x100</roll>
   </item>
   <item>
-    <name>Crown of Infinite Midnight (TP)</name>
+    <name>Crown of Infinite Midnight [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -616,7 +616,7 @@ Source:	Book of Ebon Tides p. 205 (Third Party)</text>
     <roll description="Fire Damage">1d6</roll>
   </item>
   <item>
-    <name>Hecate's Lantern (TP)</name>
+    <name>Hecate's Lantern [TP Legacy]</name>
     <detail>legendary</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -633,7 +633,7 @@ Source:	Book of Ebon Tides p. 206 (Third Party)</text>
     <roll description="Recharge">1d12+1</roll>
   </item>
   <item>
-    <name>Instant Door (TP)</name>
+    <name>Instant Door [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -642,7 +642,7 @@ Source:	Book of Ebon Tides p. 206 (Third Party)</text>
 Source:	Book of Ebon Tides p. 206 (Third Party)</text>
   </item>
   <item>
-    <name>Labyrinth Rope (TP)</name>
+    <name>Labyrinth Rope [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -651,7 +651,7 @@ Source:	Book of Ebon Tides p. 206 (Third Party)</text>
 Source:	Book of Ebon Tides p. 206 (Third Party)</text>
   </item>
   <item>
-    <name>Moonseeker's Lantern of Safe Returns (TP)</name>
+    <name>Moonseeker's Lantern of Safe Returns [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -661,7 +661,7 @@ Source:	Book of Ebon Tides p. 206 (Third Party)</text>
 Source:	Book of Ebon Tides p. 206 (Third Party)</text>
   </item>
   <item>
-    <name>Shadow Portal Scroll (TP)</name>
+    <name>Shadow Portal Scroll [TP Legacy]</name>
     <detail>rare</detail>
     <type>SC</type>
     <text>Written on black leather in letters of glowing white, a shadow portal scroll opens a portal as a form of invitation from a fey enchanter, goblin shaman, or other powerful arcanist of the Shadow Realm. All creatures within 10 feet of you when the scroll is read are transported to the Shadow Realm, usually near the scroll maker's residence.
@@ -669,7 +669,7 @@ Source:	Book of Ebon Tides p. 206 (Third Party)</text>
 Source:	Book of Ebon Tides p. 206 (Third Party)</text>
   </item>
   <item>
-    <name>Unerring Dowsing Rod (TP)</name>
+    <name>Unerring Dowsing Rod [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -679,7 +679,7 @@ Source:	Book of Ebon Tides p. 206 (Third Party)</text>
 Source:	Book of Ebon Tides p. 206 (Third Party)</text>
   </item>
   <item>
-    <name>Wine of the Starry Void (TP)</name>
+    <name>Wine of the Starry Void [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <text>Found largely in the realms of the Court of a Million Stars and in the hands of disciples of the Void, this wine enables you to see the future-for a time. Roll 10d20 and apply each resulting die in any order when ability checks, attack rolls, saving throws, or even death saving throws are required. However, all ten results must be applied before any normal rolls can resume.
@@ -687,7 +687,7 @@ Source:	Book of Ebon Tides p. 206 (Third Party)</text>
 Source:	Book of Ebon Tides p. 207 (Third Party)</text>
   </item>
   <item>
-    <name>Wine of the Summer Court (TP)</name>
+    <name>Wine of the Summer Court [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <text>This white wine is slightly pink from the rose petals added to the grapes prior to the crush. It is light and airy and evaporates within an hour if left exposed to the air. The wine tastes of peach, grapefruit, and your first kiss. Drinking it fills you with giddy thoughts of dancing, romance, and adventure.
@@ -696,7 +696,7 @@ Source:	Book of Ebon Tides p. 207 (Third Party)</text>
 Source:	Book of Ebon Tides p. 207 (Third Party)</text>
   </item>
   <item>
-    <name>Wine of the Winter Court (TP)</name>
+    <name>Wine of the Winter Court [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <text>This wine, so dark red in color it is nearly black, pours from its bottle in a syrupy flow. When you drink it, you taste notes of sour apple, bitter ash, and jealousy, and your thoughts are occupied with vivid memories of heartbreak and loss.
@@ -706,7 +706,7 @@ Source:	Book of Ebon Tides p. 207 (Third Party)</text>
   </item>
   <!-- Rings, Rods, Staves and Wands -->
   <item>
-    <name>Ring of Dancing (TP)</name>
+    <name>Ring of Dancing [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>RG</type>
     <text>When you dance, caper, or perform for an audience, your movements are especially thrilling and graceful. You have advantage on all Charisma (Persuasion) checks with any fey, giant, or humanoid who has watched such a performance of yours within 24 hours. When worn with boots of dancing, you instead have advantage on all Charisma ability checks.
@@ -714,7 +714,7 @@ Source:	Book of Ebon Tides p. 207 (Third Party)</text>
 Source:	Book of Ebon Tides p. 207 (Third Party)</text>
   </item>
   <item>
-    <name>Ring of Daylight (TP)</name>
+    <name>Ring of Daylight [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -725,7 +725,7 @@ Source:	Book of Ebon Tides p. 208 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Ring of the Ghouls (TP)</name>
+    <name>Ring of the Ghouls [TP Legacy]</name>
     <detail>rare</detail>
     <type>RG</type>
     <text>This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. While wearing the ring, when you make a successful melee attack and use your reaction to expend 1 of the ring's charges, the target must succeed on a DC 13 Constitution saving throw or be paralyzed until the end of its next turn.
@@ -734,7 +734,7 @@ Source:	Book of Ebon Tides p. 208 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Ring of Winter's Kiss (TP)</name>
+    <name>Ring of Winter's Kiss [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -743,7 +743,7 @@ Source:	Book of Ebon Tides p. 208 (Third Party)</text>
 Source:	Book of Ebon Tides p. 208 (Third Party)</text>
   </item>
   <item>
-    <name>Staff of Radiance (TP)</name>
+    <name>Staff of Radiance [TP Legacy]</name>
     <detail>very rare (requires attunement by a druid warlock, or wizard)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -757,7 +757,7 @@ Source:	Book of Ebon Tides p. 208 (Third Party)</text>
     <roll description="Recharge">1d6+4</roll>
   </item>
   <item>
-    <name>Staff of the Void (TP)</name>
+    <name>Staff of the Void [TP Legacy]</name>
     <detail>very rare (requires attunement by a cleric warlock, or wizard)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -771,7 +771,7 @@ Source:	Book of Ebon Tides p. 208 (Third Party)</text>
     <roll description="Recharge">1d6+4</roll>
   </item>
   <item>
-    <name>Wand of Shadows (TP)</name>
+    <name>Wand of Shadows [TP Legacy]</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -782,7 +782,7 @@ Source:	Book of Ebon Tides p. 208 (Third Party)</text>
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>Wand of Tides (TP)</name>
+    <name>Wand of Tides [TP Legacy]</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -793,7 +793,7 @@ Source:	Book of Ebon Tides p. 208 (Third Party)</text>
     <roll description="Recharge">1d4+1</roll>
   </item>
   <item>
-    <name>Hecate's Dagger (TP)</name>
+    <name>Hecate's Dagger [TP Legacy]</name>
     <detail>dagger, legendary (requires attunement by a cleric or wizard)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -826,7 +826,7 @@ Source:	Book of Ebon Tides p. 208 (Third Party),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Mooncatcher's Net (TP)</name>
+    <name>Mooncatcher's Net [TP Legacy]</name>
     <detail>net, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -863,7 +863,7 @@ Source:	Book of Ebon Tides p. 209 (Third Party),
     <roll description="Memory Fragment">1d10</roll>
   </item>
   <item>
-    <name>Witchlight Scimitar (TP)</name>
+    <name>Witchlight Scimitar [TP Legacy]</name>
     <detail>scimitar, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>

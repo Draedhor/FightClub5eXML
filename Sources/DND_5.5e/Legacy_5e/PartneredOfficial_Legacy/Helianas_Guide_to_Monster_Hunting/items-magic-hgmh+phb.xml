@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Silvered Claw (TP)</name>
+    <name>Silvered Claw [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>2</weight>
@@ -21,7 +21,7 @@ Source:	Player's Handbook (2014) p. 148,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Silvered Haladie (TP)</name>
+    <name>Silvered Haladie [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>2</weight>
@@ -43,7 +43,7 @@ Source:	Player's Handbook (2014) p. 148,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Silvered Nunchuck (TP)</name>
+    <name>Silvered Nunchuck [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>4</weight>
@@ -66,7 +66,7 @@ Source:	Player's Handbook (2014) p. 148,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Silvered Tetherhook (TP)</name>
+    <name>Silvered Tetherhook [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight/>

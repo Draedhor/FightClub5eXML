@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Blood Hunter (Alt. LaserLlama) (TP)</name>
+    <name>Blood Hunter (Alt. LaserLlama) [TP]</name>
     <hd>12</hd>
     <proficiency>Constitution, Charisma, Acrobatics, Arcana, Athletics, History, Insight, Nature, Investigation, Religion, Survival</proficiency>
     <numSkills>3</numSkills>
@@ -1003,339 +1003,339 @@ Source:	LaserLlama's Alternate Blood Hunter v2.1.2 p. 12 (Homebrew)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Blade Ward (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Blade Ward [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Booming Blade (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Booming Blade [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Booming Blade (Alt) (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Booming Blade (Alt) [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Chill Touch (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Chill Touch [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Control Flames (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Control Flames [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Friends (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Friends [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Frostbite (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Frostbite [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Green-Flame Blade (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Green-Flame Blade [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Green-Flame Blade (Alt) (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Green-Flame Blade (Alt) [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Infestation (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Infestation [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Lightning Lure (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Lightning Lure [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Lightning Lure (Alt) (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Lightning Lure (Alt) [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Mage Hand (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Mage Hand [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Magic Stone (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Magic Stone [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Mind Sliver (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Mind Sliver [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Minor Illusion (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Minor Illusion [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Poison Spray (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Poison Spray [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Prestidigitation (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Prestidigitation [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Resistance (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Resistance [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Shocking Grasp (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Shocking Grasp [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Spare the Dying (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Spare the Dying [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Sword Burst (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Sword Burst [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Sword Burst (Alt) (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Sword Burst (Alt) [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Toll the Dead (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Toll the Dead [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>True Strike (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>True Strike [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Absorb Elements (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Absorb Elements [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Armor of Agathys (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Armor of Agathys [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Arms of Hadar (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Arms of Hadar [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Burning Hands (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Burning Hands [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Cause Fear (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Cause Fear [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Charm Person (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Charm Person [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Compelled Duel (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Compelled Duel [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Detect Evil and Good (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Detect Evil and Good [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Expeditious Retreat (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Expeditious Retreat [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>False Life (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>False Life [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Hellish Rebuke (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Hellish Rebuke [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Hex (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Hex [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Illusory Script (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Illusory Script [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Inflict Wounds (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Inflict Wounds [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Protection from Evil and Good (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Protection from Evil and Good [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Searing Smite (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Searing Smite [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Shield (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Shield [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Thunderous Smite (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Thunderous Smite [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Unseen Servant (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Unseen Servant [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Witch Bolt (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Witch Bolt [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Branding Smite (Alt) (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Branding Smite (Alt) [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Cloud of Daggers (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Cloud of Daggers [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Crown of Madness (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Crown of Madness [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Darkness (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Darkness [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Earthbind (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Earthbind [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Hold Person (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Hold Person [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Invisibility (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Invisibility [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Mind Spike (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Mind Spike [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Mirror Image (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Mirror Image [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Misty Step (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Misty Step [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Ray of Enfeeblement (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Ray of Enfeeblement [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Scorching Ray (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Scorching Ray [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Shadow Blade (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Shadow Blade [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Shatter (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Shatter [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Spider Climb (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Spider Climb [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Suggestion (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Suggestion [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Blinding Smite (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Blinding Smite [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Counterspell (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Counterspell [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Dispel Magic (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Dispel Magic [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Enemies Abound (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Enemies Abound [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Fear (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Fear [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Hunger of Hadar (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Hunger of Hadar [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Hypnotic Pattern (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Hypnotic Pattern [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Intellect Fortress (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Intellect Fortress [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Magic Circle (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Magic Circle [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Major Image (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Major Image [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Remove Curse (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Remove Curse [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Spirit Shroud (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Spirit Shroud [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Vampiric Touch (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Vampiric Touch [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Banishment (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Banishment [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Blight (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Blight [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Charm Monster (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Charm Monster [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Dimension Door (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Dimension Door [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Elemental Bane (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Elemental Bane [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Hallucinatory Terrain (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Hallucinatory Terrain [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Phantasmal Killer (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Phantasmal Killer [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Staggering Smite (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Staggering Smite [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Shadow of Moil (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Shadow of Moil [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
   <spell>
-    <name>Sickening Radiance (TP)</name>
-    <classes>Blood Hunter (Alt. LaserLlama) (Order of Witch Knights)</classes>
+    <name>Sickening Radiance [TP]</name>
+    <classes>Blood Hunter (Alt. LaserLlama) [TP] (Order of Witch Knights)</classes>
   </spell>
 </compendium>

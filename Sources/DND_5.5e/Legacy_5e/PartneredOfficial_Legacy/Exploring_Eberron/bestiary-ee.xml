@@ -2,7 +2,7 @@
 <compendium version="5" auto_indent="NO">
   <!--<monster><name>Siege Staff</name><size>H</size><type>arcane artillery (staff), requires attunement by a spellcaster</type><ac>15</ac><hp>120</hp><languages/><cr/><vulnerable/><resist/><immune>poison, psychic</immune><conditionImmune/><senses/><description>Source:	Exploring Eberron p. 18 (Third Party)</description><environment/></monster>-->
   <monster>
-    <name>Siege Staff, Black</name>
+    <name>Siege Staff, Black [TP Legacy]</name>
     <size>H</size>
     <type>arcane artillery (staff), requires attunement by a spellcaster</type>
     <ac>15</ac>
@@ -27,7 +27,7 @@ Source:	Exploring Eberron p. 18 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Siege Staff, Force</name>
+    <name>Siege Staff, Force [TP Legacy]</name>
     <size>H</size>
     <type>arcane artillery (staff), requires attunement by a spellcaster</type>
     <ac>15</ac>
@@ -52,7 +52,7 @@ Source:	Exploring Eberron p. 18 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Siege Staff, Focus</name>
+    <name>Siege Staff, Focus [TP Legacy]</name>
     <size>H</size>
     <type>arcane artillery (staff), requires attunement by a spellcaster</type>
     <ac>15</ac>
@@ -81,7 +81,7 @@ Source:	Exploring Eberron p. 18 (Third Party)</description>
 
 Source:	Exploring Eberron p. 19 (Third Party)</description><environment/></monster>-->
   <monster>
-    <name>Valaara</name>
+    <name>Valaara [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>neutral evil</alignment>
@@ -235,7 +235,7 @@ Source:	Exploring Eberron p. 234 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>The Forest Queen</name>
+    <name>The Forest Queen [TP Legacy]</name>
     <size>L</size>
     <type>fey</type>
     <alignment>neutral</alignment>
@@ -380,7 +380,7 @@ Source:	Exploring Eberron p. 236 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>The Forgotten Prince</name>
+    <name>The Forgotten Prince [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>chaotic neutral</alignment>
@@ -524,7 +524,7 @@ Source:	Exploring Eberron p. 239 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Meld</name>
+    <name>Meld [TP Legacy]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>any alignment</alignment>
@@ -592,7 +592,7 @@ Source:	Exploring Eberron p. 242 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Merfolk Stormcaller</name>
+    <name>Merfolk Stormcaller [TP Legacy]</name>
     <sortname>Merfolk, Stormcaller</sortname>
     <ancestry>Merfolk</ancestry>
     <npc>YES</npc>
@@ -667,7 +667,7 @@ Source:	Exploring Eberron p. 243 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Du'ulora Quori</name>
+    <name>Du'ulora Quori [TP Legacy]</name>
     <sortname>Quori, Du'ulora</sortname>
     <ancestry>Quori</ancestry>
     <size>L</size>
@@ -769,7 +769,7 @@ Source:	Exploring Eberron p. 244 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Claw of Sha'argon</name>
+    <name>Claw of Sha'argon [TP Legacy]</name>
     <npc>YES</npc>
     <size>L</size>
     <type>humanoid (sahuagin)</type>
@@ -852,7 +852,7 @@ Source:	Exploring Eberron p. 246 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Plasmid</name>
+    <name>Plasmid [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity (shapechanger)</type>
     <alignment>neutral</alignment>

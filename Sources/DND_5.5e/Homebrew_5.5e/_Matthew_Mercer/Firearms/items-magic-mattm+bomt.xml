@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Bad News of Throne's Command (TP)</name>
+    <name>Bad News of Throne's Command [TP]</name>
     <detail>firearm, modern, sniper rifle, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -41,7 +41,7 @@ Source:	The Book of Many Things p. 39,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Blunderbuss of Throne's Command (Matthew Mercer) (TP)</name>
+    <name>Blunderbuss of Throne's Command (Matthew Mercer) [TP]</name>
     <detail>firearm, modern, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -79,7 +79,7 @@ Source:	The Book of Many Things p. 39,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Hand Mortar of Throne's Command (TP)</name>
+    <name>Hand Mortar of Throne's Command [TP]</name>
     <detail>firearm, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -114,7 +114,7 @@ Source:	The Book of Many Things p. 39,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Musket of Throne's Command (Matthew Mercer) (TP)</name>
+    <name>Musket of Throne's Command (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -154,7 +154,7 @@ Source:	The Book of Many Things p. 39,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Palm Pistol of Throne's Command (TP)</name>
+    <name>Palm Pistol of Throne's Command [TP]</name>
     <detail>firearm, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -196,7 +196,7 @@ Source:	The Book of Many Things p. 39,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Pistol of Throne's Command (Matthew Mercer) (TP)</name>
+    <name>Pistol of Throne's Command (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -234,7 +234,7 @@ Source:	The Book of Many Things p. 39,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Pepperbox of Throne's Command (TP)</name>
+    <name>Pepperbox of Throne's Command [TP]</name>
     <detail>firearm, very rare</detail>
     <type>R</type>
     <magic>YES</magic>

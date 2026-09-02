@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <feat>
-    <name>Advanced Palate (TP)</name>
+    <name>Advanced Palate [TP]</name>
     <prerequisite>Proficiency in cook's utensils or brewer's supplies</prerequisite>
     <text>Whenever you take a short rest, you and up to 6 allies can enjoy a quick meal prepared by you. When they do, any hit dice they use during that rest count as if they had rolled their maximum. Once you use this feature, you must finish a long rest before you can use it again.
 	During a long rest, you can prepare a hearty meal for up to eight creatures using any ingredients at hand. Creatures who consume the meal gain a hearty resistance for 24 hours. While a creature has this hearty resistance, if that creature fails a saving throw, it can choose to succeed instead. It can use this benefit once, then the hearty resistance expires.
@@ -9,7 +9,7 @@
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 178 (Third Party)</text>
   </feat>
   <feat>
-    <name>Arcane Fletcher (TP)</name>
+    <name>Arcane Fletcher [TP]</name>
     <prerequisite>Requires proficiency in carpenter's tools, tinker's tools, or woodcarver's tools</prerequisite>
     <text>Whenever you take a long rest, you may spend 1 hour using your tools to imbue a number of arrows or bolts with elemental power. The maximum number of magical arrows or bolts you can imbue is equal to twice your proficiency bonus.
 	You choose the damage type from either fire, cold, lightning, acid, or poison. The arrows or bolts deal an additional 1d4 damage of the chosen type. Any previously imbued arrows or bolts lose this magic if you use this feature again.
@@ -18,7 +18,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 178 (Third Party)</text>
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 178 (Third Party)</text>
   </feat>
   <feat>
-    <name>Demolitions Expert (TP)</name>
+    <name>Demolitions Expert [TP]</name>
     <prerequisite>Requires proficiency in alchemist's supplies</prerequisite>
     <text>Once per day after finishing a long rest, you can spend one hour working with your chosen tools to create a special concoction or infusion using materials harvested or found in the field. You must have access to your tools during this time. As you gain levels, you learn how to create a more powerful item, as shown on the table below. This creation becomes inert after 24 hours. See the Core Rules for more information on the items below.
 
@@ -29,7 +29,7 @@ Level 11 — Grenade
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 179 (Third Party)</text>
   </feat>
   <feat>
-    <name>Expert Armorsmith (TP)</name>
+    <name>Expert Armorsmith [TP]</name>
     <prerequisite>Requires proficiency in smith's tools or leatherworker's tools</prerequisite>
     <text>Your advanced knowledge of your craft allows you to barter and talk shop with others in your profession, you gain proficiency in Charisma checks you make when speaking with armorsmiths. Additionally, you can identify the make, origin, and traits of any set of armor if you spend 1 minute examining it.
 	Whenever you take a long rest, you are able to improve one piece of non-magical armor for you or an ally. You must spend 1 hour to do so, and have access to your tools during this time.
@@ -39,7 +39,7 @@ You may choose one of the following damage types: fire, cold, lightning, acid, o
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 179 (Third Party)</text>
   </feat>
   <feat>
-    <name>Expert Bowyer (TP)</name>
+    <name>Expert Bowyer [TP]</name>
     <prerequisite>Requires proficiency in carpenter's tools or woodcarver's tools.</prerequisite>
     <text>Your advanced knowledge of your craft allows you to barter and talk shop with others in your profession, you gain proficiency in Charisma checks you make when speaking to professional archers or bowyers. Additionally, you can identify the make, origin, and traits of any ranged weapon if you spend 1 minute examining it.
 	During a long rest, you may spend 1 hour working with your tools to tune up a non-magical ranged weapon. You increase the long range of that weapon by an amount equal to 10 × your proficiency bonus and no longer have disadvantage when firing your weapon at long range. Additionally, the weapon now scores a critical hit on a 19 or 20. The improvements last until you use this feature again.
@@ -47,7 +47,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 179 (Third Party)</text>
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 179 (Third Party)</text>
   </feat>
   <feat>
-    <name>Expert Weaponsmith (TP)</name>
+    <name>Expert Weaponsmith [TP]</name>
     <prerequisite>Requires proficiency in smith's tools</prerequisite>
     <text>Your advanced knowledge of your craft allows you to barter and talk shop with others in your profession, you gain proficiency in Charisma checks you make when speaking with weaponsmiths. Additionally, you can identify the make, origin, and traits of any melee weapon if you spend 1 minute examining it.
 	Whenever you take a long rest, you are able to improve one non-magical melee weapon for you or an ally. You must spend 1 hour to do so, and have access to your tools and at least 100 gp worth of metal or other materials.
@@ -56,7 +56,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 179 (Third Party)</text>
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 179 (Third Party)</text>
   </feat>
   <feat>
-    <name>Investigative Mind (TP)</name>
+    <name>Investigative Mind [TP]</name>
     <prerequisite>Requires proficiency in exorcist's kit, vampire hunter's case, or investigator's kit</prerequisite>
     <proficiency>Investigation</proficiency>
     <text>Increase your Intelligence score by 1, to a maximum of 20.
@@ -68,7 +68,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 179 (Third Party)</text>
     <modifier category="ability score">intelligence +1</modifier>
   </feat>
   <feat>
-    <name>Medical Expert (TP) (Intelligence)</name>
+    <name>Medical Expert (Intelligence) [TP]</name>
     <prerequisite>Requires proficiency in occultist's tools, exorcist's kit, or doctor's bag</prerequisite>
     <text>Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
 	During a short rest you can tend to the sick or wounded. You can remove one level of exhaustion, cure one disease, or remove the charmed, frightened, paralyzed, or poisoned condition from up to six creatures you can tend to during the rest. Additionally, you may choose up to 6 creatures you can hear and see, they gain a number of extra hit dice to use during the rest equal to your proficiency bonus.
@@ -77,7 +77,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 179 (Third Party)</text>
     <modifier category="ability score">intelligence +1</modifier>
   </feat>
   <feat>
-    <name>Medical Expert (TP) (Wisdom)</name>
+    <name>Medical Expert (Wisdom) [TP]</name>
     <prerequisite>Requires proficiency in occultist's tools, exorcist's kit, or doctor's bag</prerequisite>
     <text>Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
 	During a short rest you can tend to the sick or wounded. You can remove one level of exhaustion, cure one disease, or remove the charmed, frightened, paralyzed, or poisoned condition from up to six creatures you can tend to during the rest. Additionally, you may choose up to 6 creatures you can hear and see, they gain a number of extra hit dice to use during the rest equal to your proficiency bonus.
@@ -86,7 +86,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 179 (Third Party)</text>
     <modifier category="ability score">wisdom +1</modifier>
   </feat>
   <feat>
-    <name>Occult Practitioner (TP) (Intelligence)</name>
+    <name>Occult Practitioner (Intelligence) [TP]</name>
     <prerequisite>Requires proficiency in occultist's tools, or exorcist's kit, and the spellcasting ability</prerequisite>
     <text>Increase your Intelligence or Charisma score by 1, to a maximum of 20.
 
@@ -96,7 +96,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 180 (Third Party)</text>
     <modifier category="ability score">intelligence +1</modifier>
   </feat>
   <feat>
-    <name>Occult Practitioner (TP) (Charisma)</name>
+    <name>Occult Practitioner (Charisma) [TP]</name>
     <prerequisite>Requires proficiency in occultist's tools, or exorcist's kit, and the spellcasting ability</prerequisite>
     <text>Increase your Intelligence or Charisma score by 1, to a maximum of 20.
 	When you finish a long rest, you may touch your tool kit and imbue a spell you know inside it. The spell must have a level equal to or lower than your proficiency bonus and a casting time of 1 action. While holding your tool kit, you can use an action cast this spell without expending a spell slot. You can cast the spell in this manner once, then must finish a long rest before you can do so again. The item remains imbued until you cast the imbued spell, or until you finish a long rest.
@@ -105,7 +105,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 180 (Third Party)</text>
     <modifier category="ability score">charisma +1</modifier>
   </feat>
   <feat>
-    <name>Potions Expert (TP)</name>
+    <name>Potions Expert [TP]</name>
     <prerequisite>Requires proficiency in alchemist's supplies, occultist's tools, or herbalism kit</prerequisite>
     <text>Your practice with potion brewing has given you an eye for the small details that distinguish ingredients and effects within potions. You gain proficiency in Charisma checks you make when speaking to potion sellers, alchemists, or herbalists. Additionally, you can determine the properties of potions by spending 1 minute examining them.
 	Once per day after finishing a long rest, you can spend one hour working with your chosen tools to create a special concoction or infusion using materials harvested or found in the field. You must have access to your tools during this time. As you gain levels, you learn how to create a more powerful item, as shown on the table below. This creation becomes inert after 24 hours. See the Core Rules for more information on the items below.
@@ -117,7 +117,7 @@ Level 11 — potion of supreme healing
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 180 (Third Party)</text>
   </feat>
   <feat>
-    <name>Proficient Poisoner (TP)</name>
+    <name>Proficient Poisoner [TP]</name>
     <prerequisite>Requires proficiency in poisoner's kit, occultist's tools, or herbalism kit</prerequisite>
     <text>You gain resistance to poison damage, and can detect the presence of poison by spending 1 minute examining a substance or object.
 	Once per day after finishing a long rest, you can spend one hour working with your chosen tools to create a special concoction or infusion using materials harvested or found in the field. You must have access to your tools during this time. As you gain levels, you learn how to create a more powerful item, as shown on the table below. This creation becomes inert after 24 hours. See the Core Rules for more information on the items below.
@@ -129,7 +129,7 @@ Level 11 — wyvern poison
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 180 (Third Party)</text>
   </feat>
   <feat>
-    <name>Scribe (TP)</name>
+    <name>Scribe [TP]</name>
     <prerequisite>Requires proficiency in calligrapher's supplies,
 investigator's kit, or cartographer's tools,
 and the spellcasting ability</prerequisite>
@@ -139,7 +139,7 @@ and the spellcasting ability</prerequisite>
 Source:	Sebastian Crowe's Guide to Drakkenheim p. 180 (Third Party)</text>
   </feat>
   <feat>
-    <name>Trapmaker (TP)</name>
+    <name>Trapmaker [TP]</name>
     <prerequisite>Requires proficiency in tinker's tools or thieves' tools</prerequisite>
     <text>After finishing a long rest, you can spend one hour working with your chosen tools to create a special trap using materials harvested or found in the field.
 	These traps can be placed on the ground as an action and take up a 5-foot-by-5-foot square. A creature who investigates the area must succeed on a DC 15 Wisdom (Perception) or Intelligence (Investigation) check in order to see the trap. If a creature steps on the space where a trap is located that creature immediately triggers the trap. You can make any of the traps listed below.

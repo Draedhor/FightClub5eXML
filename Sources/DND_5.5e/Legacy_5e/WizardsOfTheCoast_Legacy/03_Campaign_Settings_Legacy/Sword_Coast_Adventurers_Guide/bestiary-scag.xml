@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Bryn Lightfingers</name>
+    <name>Bryn Lightfingers [Legacy]</name>
     <sortname>Lightfingers, Bryn</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -69,7 +69,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Hommet Shaw</name>
+    <name>Hommet Shaw [Legacy]</name>
     <sortname>Shaw, Hommet</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -113,7 +113,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Illydia Maethellyn</name>
+    <name>Illydia Maethellyn [Legacy]</name>
     <sortname>Maethellyn, Illydia</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -167,7 +167,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Jarhild Stoneforge</name>
+    <name>Jarhild Stoneforge [Legacy]</name>
     <sortname>Stoneforge, Jarhild</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -214,7 +214,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Larethar Gulgrin</name>
+    <name>Larethar Gulgrin [Legacy]</name>
     <sortname>Gulgrin, Larethar</sortname>
     <npc>YES</npc>
     <size>M</size>

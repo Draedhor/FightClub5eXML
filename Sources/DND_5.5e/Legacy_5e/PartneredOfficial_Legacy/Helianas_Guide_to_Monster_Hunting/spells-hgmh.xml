@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Acid Rain (HB)</name>
+    <name>Acid Rain [HB Legacy]</name>
     <level>3</level>
     <school>C</school>
     <time>1 action</time>
@@ -23,7 +23,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 498</text>
     <roll description="Acid Damage" level="9">10d6</roll>
   </spell>
   <spell>
-    <name>Arcanomagnetic Repulsion (HB)</name>
+    <name>Arcanomagnetic Repulsion [HB Legacy]</name>
     <level>2</level>
     <school>A</school>
     <time>1 action</time>
@@ -48,7 +48,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 498</text>
     <roll description="Force Damage" level="9">8d6</roll>
   </spell>
   <spell>
-    <name>Arcanomagnetic Storm (HB)</name>
+    <name>Arcanomagnetic Storm [HB Legacy]</name>
     <level>7</level>
     <school>EV</school>
     <time>1 action</time>
@@ -68,21 +68,21 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 498</text>
     <roll description="Lightning Damage" level="9">6d8</roll>
   </spell>
   <spell>
-    <name>Aura of Impurity (HB)</name>
+    <name>Aura of Impurity [HB Legacy]</name>
     <level>4</level>
     <school>A</school>
     <time>1 action</time>
     <range>Self (30-foot-radius sphere)</range>
     <components>V</components>
     <duration>Concentration, up to 1 minute</duration>
-    <classes>School: Abjuration, Paladin, Warlock, Tamer</classes>
+    <classes>School: Abjuration, Paladin, Warlock, Tamer [TP Legacy]</classes>
     <text>Enervating energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each creature of your choice that enters the aura for the first time on its turn or starts its turn there must succeed on a Charisma saving throw or become drained until the end of its next turn. While drained, a creature must roll a d4 and subtract the number rolled from each ability check, attack roll, or saving throw it makes, and any hit points a creature regains are reduced by half.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 498</text>
     <roll description="Subtract from roll">1d4</roll>
   </spell>
   <spell>
-    <name>Blinding Radiance (HB)</name>
+    <name>Blinding Radiance [HB Legacy]</name>
     <level>4</level>
     <school>EV</school>
     <time>1 action</time>
@@ -103,7 +103,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 499</text>
     <roll description="Radiant Damage" level="9">8d10</roll>
   </spell>
   <spell>
-    <name>Bone Cage (HB)</name>
+    <name>Bone Cage [HB Legacy]</name>
     <level>5</level>
     <school>N</school>
     <time>1 action</time>
@@ -133,21 +133,21 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 499</text>
     <roll description="Temporary Hit Points" level="9">1d20+25</roll>
   </spell>
   <spell>
-    <name>Can't Trip (HB)</name>
+    <name>Can't Trip [HB Legacy]</name>
     <level>0</level>
     <school>A</school>
     <time>1 action</time>
     <range>30 feet</range>
     <components>V, S</components>
     <duration>1 Round</duration>
-    <classes>School: Abjuration, Bard, Cleric, Druid, Wizard, Tamer</classes>
+    <classes>School: Abjuration, Bard, Cleric, Druid, Wizard, Tamer [TP Legacy]</classes>
     <text>Choose a willing creature within range that you can see. Until the end of your next turn, that creature is immune to the prone condition. If it is already prone and is not restrained, this spell sets it on its feet.
 	The number of creatures you can simultaneously target with this spell increases by 1 when you reach 5th level (2 creatures), 11th level (3 creatures), and 17th level (4 creatures).
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 499</text>
   </spell>
   <spell>
-    <name>Can'trip (HB)</name>
+    <name>Can'trip [HB Legacy]</name>
     <level>0</level>
     <school>A</school>
     <time>1 action</time>
@@ -161,7 +161,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 499</text>
 Source:	Heliana's Guide to Monster Hunting - Part One p. 499</text>
   </spell>
   <spell>
-    <name>Cannotrip (HB)</name>
+    <name>Cannotrip [HB Legacy]</name>
     <level>1</level>
     <school>A</school>
     <time>1 action</time>
@@ -176,14 +176,14 @@ At Higher Levels: When you cast this spell using a spell slot of 2nd level or hi
 Source:	Heliana's Guide to Monster Hunting - Part One p. 499</text>
   </spell>
   <spell>
-    <name>Chameleon Skin (HB)</name>
+    <name>Chameleon Skin [HB Legacy]</name>
     <level>1</level>
     <school>T</school>
     <time>1 action</time>
     <range>Touch</range>
     <components>V, S, M (red, yellow, and blue pigment)</components>
     <duration>Concentration, up to 10 minutes</duration>
-    <classes>School: Transmutation, Touch Spells, School: Biomancy, Bard, Druid, Ranger, Wizard, Tamer</classes>
+    <classes>School: Transmutation, Touch Spells, School: Biomancy, Bard, Druid, Ranger, Wizard, Tamer [TP Legacy]</classes>
     <text>You imbue a creature you touch with pigment so that its skin, and anything it wears or carries, slowly shifts hues to match its surroundings. For the duration, the target can take the Hide action as a bonus action on each of its turns, even when only lightly obscured.
 	If the target did not move during its last turn, creatures have disadvantage on any Wisdom (Perception) checks made to see the target. Creatures who do not rely on sight, such as those with tremorsense, are immune to this effect.
 
@@ -192,7 +192,7 @@ At Higher Levels: When you cast this spell using a spell slot of 2nd level or hi
 Source:	Heliana's Guide to Monster Hunting - Part One p. 500</text>
   </spell>
   <spell>
-    <name>Concussion (HB)</name>
+    <name>Concussion [HB Legacy]</name>
     <level>0</level>
     <school>EV</school>
     <time>1 action</time>
@@ -211,7 +211,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 500</text>
     <roll description="Thunder Damage" level="17">4d8</roll>
   </spell>
   <spell>
-    <name>Conjure Anomaly (HB)</name>
+    <name>Conjure Anomaly [HB Legacy]</name>
     <level>5</level>
     <school>C</school>
     <time>1 minute</time>
@@ -228,7 +228,7 @@ At Higher Levels: When you cast this spell using a spell slot of 6th level or hi
 Source:	Heliana's Guide to Monster Hunting - Part One p. 500</text>
   </spell>
   <spell>
-    <name>Corrupting Ichor (HB)</name>
+    <name>Corrupting Ichor [HB Legacy]</name>
     <level>1</level>
     <school>N</school>
     <time>1 action</time>
@@ -253,7 +253,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 500</text>
     <roll description="Necrotic Damage" level="9">9d4</roll>
   </spell>
   <spell>
-    <name>Daydream (HB)</name>
+    <name>Daydream [HB Legacy]</name>
     <level>1</level>
     <school>EN</school>
     <time>1 action</time>
@@ -269,7 +269,7 @@ At Higher Levels: When you cast this spell using a spell slot of 2nd level or hi
 Source:	Heliana's Guide to Monster Hunting - Part One p. 501</text>
   </spell>
   <spell>
-    <name>Depth Charge (HB)</name>
+    <name>Depth Charge [HB Legacy]</name>
     <level>3</level>
     <school>EV</school>
     <time>1 action</time>
@@ -294,7 +294,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 501</text>
     <roll description="Increased Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Dreamwalk (HB)</name>
+    <name>Dreamwalk [HB Legacy]</name>
     <level>2</level>
     <school>EN</school>
     <ritual>YES</ritual>
@@ -308,14 +308,14 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 501</text>
 Source:	Heliana's Guide to Monster Hunting - Part One p. 501</text>
   </spell>
   <spell>
-    <name>Eelskin (HB)</name>
+    <name>Eelskin [HB Legacy]</name>
     <level>2</level>
     <school>EV</school>
     <time>1 action or 1 bonus action</time>
     <range>Touch</range>
     <components>V, S, M (some jellied eel)</components>
     <duration>Concentration, up to 1 minute</duration>
-    <classes>School: Evocation, Touch Spells, School: Biomancy, Druid, Sorcerer, Warlock, Wizard, Tamer</classes>
+    <classes>School: Evocation, Touch Spells, School: Biomancy, Druid, Sorcerer, Warlock, Wizard, Tamer [TP Legacy]</classes>
     <text>You cause the skin of a willing creature you touch to produce a slimy, electrified mucous. The creature's unarmed strikes and natural weapon attacks become magical for the duration of the spell. The first time the creature hits with an unarmed strike or an attack using a natural weapon on its turn, it deals an additional 1d8 lightning damage as the stored lightning discharges.
 
 Slimy: For the duration, the creature has advantage on checks and saves made to avoid being grappled or restrained, and disadvantage on any attempts it makes to grapple another creature.
@@ -329,7 +329,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 501</text>
     <roll description="Lightning Damage" level="8">4d8</roll>
   </spell>
   <spell>
-    <name>Endoleech (HB)</name>
+    <name>Endoleech [HB Legacy]</name>
     <level>2</level>
     <school>EV</school>
     <time>1 action</time>
@@ -352,14 +352,14 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 502</text>
     <roll description="Cold Damage" level="9">12d6</roll>
   </spell>
   <spell>
-    <name>Endure (HB)</name>
+    <name>Endure [HB Legacy]</name>
     <level>5</level>
     <school>N</school>
     <time>1 action</time>
     <range>60 feet</range>
     <components>V, S, M (a gem-encrusted cockroach worth 250 gp, which the spell consumes)</components>
     <duration>1 minute</duration>
-    <classes>School: Necromancy, Cleric, Druid, Paladin, Ranger, Warlock, Tamer</classes>
+    <classes>School: Necromancy, Cleric, Druid, Paladin, Ranger, Warlock, Tamer [TP Legacy]</classes>
     <text>Choose a willing creature you can see within range; it ceases to heed the pained calls of its body, needing neither food nor water to exist. An affected creature ignores the effects of exhaustion, the poisoned condition, and cannot be incapacitated, stunned, paralysed, or fall unconscious. Each time an affected creature takes damage that would reduce its hit points to 0, it makes a death saving throw instead. If the creature fails 3 death saving throws, it dies.
 	When the spell ends, the creature gains a level of exhaustion for each death saving throw it failed. If the creature is resurrected after dying from these failed death saving throws, it does not regain consciousness for a duration equal to the time for which this spell affected it. When it wakes, it gains 3 levels of exhaustion.
 	If the creature is still alive when the spell ends, it falls unconscious for a duration equal to the time for which this spell affected it. Whilst unconscious in this way, the creature can not be awakened by any means short of a wish spell.
@@ -369,7 +369,7 @@ At Higher Levels: When you cast this spell using a spell slot of 6th level or hi
 Source:	Heliana's Guide to Monster Hunting - Part One p. 502</text>
   </spell>
   <spell>
-    <name>Enrage (HB)</name>
+    <name>Enrage [HB Legacy]</name>
     <level>3</level>
     <school>EN</school>
     <time>1 action</time>
@@ -387,14 +387,14 @@ At Higher Levels: When you cast this spell using a spell slot of 4th level or hi
 Source:	Heliana's Guide to Monster Hunting - Part One p. 502</text>
   </spell>
   <spell>
-    <name>Ferocious Strike (HB)</name>
+    <name>Ferocious Strike [HB Legacy]</name>
     <level>0</level>
     <school>T</school>
     <time>1 action</time>
     <range>Self</range>
     <components>V, S</components>
     <duration>Instantaneous</duration>
-    <classes>School: Transmutation, School: Biomancy, Bard, Druid, Sorcerer, Warlock, Tamer</classes>
+    <classes>School: Transmutation, School: Biomancy, Bard, Druid, Sorcerer, Warlock, Tamer [TP Legacy]</classes>
     <text>With a pulse of adrenaline, a tremendous ferocity comes upon you. Make one weapon attack against a target within your reach or range. If this attack hits, the target takes additional 1d4 damage of the weapon's damage type.
 
 Cantrip Upgrade: This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4) and 17th level (4d4).
@@ -406,14 +406,14 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 502</text>
     <roll description="Extra Damage" level="17">4d4</roll>
   </spell>
   <spell>
-    <name>Feverskin (HB)</name>
+    <name>Feverskin [HB Legacy]</name>
     <level>5</level>
     <school>EV</school>
     <time>1 action</time>
     <range>Self</range>
     <components>V, S, M (a red hot chilli pepper, which the spell consumes)</components>
     <duration>Concentration, up to 1 minute</duration>
-    <classes>School: Evocation, School: Biomancy, Cleric, Druid, Sorcerer, Warlock, Wizard, Tamer</classes>
+    <classes>School: Evocation, School: Biomancy, Cleric, Druid, Sorcerer, Warlock, Wizard, Tamer [TP Legacy]</classes>
     <text>You eat a chilli pepper, your metabolism increases, and your skin begins to burn to the touch. Make a melee spell attack against a creature within your reach. On a hit, the target takes 6d6 fire damage. Until the spell ends, you can use an action on each of your subsequent turns to make this attack again.
 	For the duration, your walking speed increases by 15 feet, and you gain 2d6 temporary hit points at the start of each of your turns.
 
@@ -427,7 +427,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 503</text>
     <roll description="Fire Damage" level="9">10d6</roll>
   </spell>
   <spell>
-    <name>Firther's Shadow (HB)</name>
+    <name>Firther's Shadow [HB Legacy]</name>
     <level>3</level>
     <school>EN</school>
     <time>1 action</time>
@@ -468,7 +468,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 503</text>
     <roll description="Psychic Damage" level="9">10d10</roll>
   </spell>
   <spell>
-    <name>Fixit (HB)</name>
+    <name>Fixit [HB Legacy]</name>
     <level>1</level>
     <school>T</school>
     <time>1 minute</time>
@@ -483,7 +483,7 @@ At Higher Levels: When you cast this spell using a spell slot of 3rd level or hi
 Source:	Heliana's Guide to Monster Hunting - Part One p. 503</text>
   </spell>
   <spell>
-    <name>Flare (HB)</name>
+    <name>Flare [HB Legacy]</name>
     <level>0</level>
     <school>EV</school>
     <time>1 action</time>
@@ -503,7 +503,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 504</text>
     <roll description="Radiant Damage" level="17">4d8</roll>
   </spell>
   <spell>
-    <name>Flipperform (HB)</name>
+    <name>Flipperform [HB Legacy]</name>
     <level>1</level>
     <school>T</school>
     <ritual>YES</ritual>
@@ -511,7 +511,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 504</text>
     <range>30 feet</range>
     <components>V, S, M (a fish's fin)</components>
     <duration>1 hour</duration>
-    <classes>School: Transmutation, Ritual Caster, School: Biomancy, Druid, Ranger, Sorcerer, Wizard, Tamer</classes>
+    <classes>School: Transmutation, Ritual Caster, School: Biomancy, Druid, Ranger, Sorcerer, Wizard, Tamer [TP Legacy]</classes>
     <text>You change the morphology of a willing creature within range. It grows webbed fingers and gains a swimming speed equal to its walking speed.
 
 At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional creature for each slot level above 1st. In addition, the duration of the spell doubles for each slot level above 1st.
@@ -519,7 +519,7 @@ At Higher Levels: When you cast this spell using a spell slot of 2nd level or hi
 Source:	Heliana's Guide to Monster Hunting - Part One p. 504</text>
   </spell>
   <spell>
-    <name>Food Coma (HB)</name>
+    <name>Food Coma [HB Legacy]</name>
     <level>3</level>
     <school>EN</school>
     <ritual>YES</ritual>
@@ -527,7 +527,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 504</text>
     <range>Touch</range>
     <components>V, S, M (a turkey drumstick and a cranberry-coloured ruby worth at least 50 gp, both of which the spell consumes)</components>
     <duration>1 hour</duration>
-    <classes>School: Enchantment, Ritual Caster, Touch Spells, Bard, Cleric, Druid, Paladin, Tamer</classes>
+    <classes>School: Enchantment, Ritual Caster, Touch Spells, Bard, Cleric, Druid, Paladin, Tamer [TP Legacy]</classes>
     <text>You crush a ruby into dust, sprinkling it over a turkey drumstick, which wafts with an alluring aroma. A willing creature that entirely consumes the meat of this drumstick falls asleep and is unconscious for 1 hour, drowning out the sound of relatives asking whether they have a boyfriend yet or when they expect to have babies.
 	You can only be woken early by taking damage or by a greater restoration or wish spell. At the end of the hour, you wake feeling refreshed and have all of your hit points restored. If you are woken prematurely, the spell ends with no effect and you are grumpy.
 
@@ -536,14 +536,14 @@ At Higher Levels: When you cast this spell using a spell slot of 4th level or hi
 Source:	Heliana's Guide to Monster Hunting - Part One p. 504</text>
   </spell>
   <spell>
-    <name>Frogskin (HB)</name>
+    <name>Frogskin [HB Legacy]</name>
     <level>4</level>
     <school>T</school>
     <time>1 action</time>
     <range>Self</range>
     <components>V, S, M (some frogspawn)</components>
     <duration>Concentration, up to 1 minute</duration>
-    <classes>School: Transmutation, School: Biomancy, Druid, Sorcerer, Warlock, Wizard, Tamer</classes>
+    <classes>School: Transmutation, School: Biomancy, Druid, Sorcerer, Warlock, Wizard, Tamer [TP Legacy]</classes>
     <text>You morph your skin and clothing into that of a slimy, poisonous frog. Make a melee spell attack against a creature within your reach. On a hit, the target takes 3d10 poison damage and is poisoned until the end of your next turn. Until the spell ends, you can use an action on each of your subsequent turns to make this attack again.
 
 Slimy: For the duration, you have advantage on checks and saves made to avoid being grappled or restrained, and disadvantage on any attempts you make to grapple a target. Each creature grappling you, or that you are grappling, must make a Constitution saving throw at the start of each of its turns, taking 3d10 poison damage on a failure, or half as much damage on a success.
@@ -559,7 +559,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 504</text>
     <roll description="Poison Damage" level="9">8d10</roll>
   </spell>
   <spell>
-    <name>Fungal Infection (HB)</name>
+    <name>Fungal Infection [HB Legacy]</name>
     <level>4</level>
     <school>T</school>
     <time>1 action</time>
@@ -603,7 +603,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 504</text>
     <roll description="Poison Damage" level="9">7d8</roll>
   </spell>
   <spell>
-    <name>Gravity Repulsion (HB)</name>
+    <name>Gravity Repulsion [HB Legacy]</name>
     <level>4</level>
     <school>EV</school>
     <time>1 action</time>
@@ -626,7 +626,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 505</text>
     <roll description="Force Damage" level="9">8d6</roll>
   </spell>
   <spell>
-    <name>Gravity Smash (HB)</name>
+    <name>Gravity Smash [HB Legacy]</name>
     <level>5</level>
     <school>EV</school>
     <time>1 action</time>
@@ -651,21 +651,21 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 505</text>
     <roll description="Force Damage" level="9">12d10</roll>
   </spell>
   <spell>
-    <name>Howl (HB)</name>
+    <name>Howl [HB Legacy]</name>
     <level>0</level>
     <school>T</school>
     <time>1 action</time>
     <range>Self (1000-foot-radius sphere)</range>
     <components>V</components>
     <duration>1 Round</duration>
-    <classes>School: Transmutation, Druid, Tamer</classes>
+    <classes>School: Transmutation, Druid, Tamer [TP Legacy]</classes>
     <text>You utter a bestial, magically-augmented howl that can be heard for 1000 feet. The howl can manifest as any animal call you've heard, such as the screech of a hawk or trumpet of an elephant. Choose one creature with whom you are familiar as the recipient: if it can hear your howl, it understands your meaning and can respond in a likewise manner.
 	Creatures other than your recipient that hear the howl and that are under the effects of the comprehend languages spell or similar magic, or that can understand beasts, can understand the howl's meaning. Otherwise, the howl is unintelligible to creatures that can hear it.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 506</text>
   </spell>
   <spell>
-    <name>Humperdink's Halitosis (HB)</name>
+    <name>Humperdink's Halitosis [HB Legacy]</name>
     <level>1</level>
     <school>T</school>
     <time>1 action</time>
@@ -690,14 +690,14 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 506</text>
     <roll description="Acid Damage" level="9">11d4</roll>
   </spell>
   <spell>
-    <name>Incorporeality (HB)</name>
+    <name>Incorporeality [HB Legacy]</name>
     <level>5</level>
     <school>T</school>
     <time>1 action</time>
     <range>Touch</range>
     <components>V, S</components>
     <duration>Concentration, up to 1 minute</duration>
-    <classes>School: Transmutation, Touch Spells, Bard, Cleric, Druid, Sorcerer, Warlock, Wizard, Tamer</classes>
+    <classes>School: Transmutation, Touch Spells, Bard, Cleric, Druid, Sorcerer, Warlock, Wizard, Tamer [TP Legacy]</classes>
     <text>You touch a willing creature, causing it, and everything it is wearing and carrying, to become translucent. At the start of each of the target's turns for the duration, it can choose to become incorporeal (no action required) until the end of its turn. While incorporeal, it has advantage on Stealth checks; it gains resistance to nonmagical bludgeoning, piercing, and slashing damage; and it can move through other creatures and objects as if they were difficult terrain. If the target ends its turn inside an object, it is shunted to the nearest unoccupied space, taking 1d10 force damage for every 5 feet it is shunted.
 
 At Higher Levels: When you cast this spell using a spell slot level of 6th level or higher, you can choose to increase the spell's duration, or the number of targets, for each slot level above 5th. If you choose duration, the duration increases in increments to 10 minutes (6th level), 1 hour (7th level), 8 hours (8th level), or 24 hours (9th level). If you choose to increase the number of targets, the number increases by 1 for each slot level.
@@ -706,14 +706,14 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 506</text>
     <roll description="Force Damage">1d10</roll>
   </spell>
   <spell>
-    <name>Inequality (HB)</name>
+    <name>Inequality [HB Legacy]</name>
     <level>2</level>
     <school>EN</school>
     <time>1 action</time>
     <range>30 feet</range>
     <components>V, S, M (a drop of blood and water, mixed)</components>
     <duration>Concentration, up to 1 minute</duration>
-    <classes>School: Enchantment, Bard, Cleric, Paladin, Tamer</classes>
+    <classes>School: Enchantment, Bard, Cleric, Paladin, Tamer [TP Legacy]</classes>
     <text>You twist the fates of two creatures you can see, both of whom must be within range. Choose one target to favor and one to disfavor. The disfavored target must succeed on a Charisma saving throw or the following effects occur:
 
 	• Whenever the favored target makes an attack roll or saving throw before the spell ends, the favored target can roll a d4 and add the number rolled to the attack or saving throw.
@@ -730,7 +730,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 506</text>
     <roll description="Add to roll">1d4</roll>
   </spell>
   <spell>
-    <name>Influenza (HB)</name>
+    <name>Influenza [HB Legacy]</name>
     <level>3</level>
     <school>N</school>
     <time>1 action</time>
@@ -754,7 +754,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 507</text>
     <roll description="Poison Damage" level="9">9d6</roll>
   </spell>
   <spell>
-    <name>Initiative (HB)</name>
+    <name>Initiative [HB Legacy]</name>
     <level>1</level>
     <school>EN</school>
     <time>1 reaction, which you take when initiative is rolled</time>
@@ -769,7 +769,7 @@ At Higher Levels: When you cast this spell using a spell slot of 2nd level or hi
 Source:	Heliana's Guide to Monster Hunting - Part One p. 507</text>
   </spell>
   <spell>
-    <name>Lungburst (HB)</name>
+    <name>Lungburst [HB Legacy]</name>
     <level>6</level>
     <school>EV</school>
     <time>1 action</time>
@@ -789,7 +789,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 507</text>
     <roll description="Thunder Damage" level="9">10d6</roll>
   </spell>
   <spell>
-    <name>Magnetite Shard (HB)</name>
+    <name>Magnetite Shard [HB Legacy]</name>
     <level>3</level>
     <school>EV</school>
     <time>1 action</time>
@@ -812,7 +812,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 507</text>
     <roll description="Cold Damage" level="9">10d6</roll>
   </spell>
   <spell>
-    <name>Magnetobolt (HB)</name>
+    <name>Magnetobolt [HB Legacy]</name>
     <level>0</level>
     <school>EV</school>
     <time>1 action</time>
@@ -831,14 +831,14 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 508</text>
     <roll description="Force Damage" level="17">4d6</roll>
   </spell>
   <spell>
-    <name>Mass Leech (HB)</name>
+    <name>Mass Leech [HB Legacy]</name>
     <level>3</level>
     <school>N</school>
     <time>1 action</time>
     <range>Self (20-foot-radius sphere)</range>
     <components>V, S, M (a live leech that has fed on humanoid blood in the past 23 hours)</components>
     <duration>Instantaneous</duration>
-    <classes>School: Necromancy, Cleric, Warlock, Wizard, Tamer</classes>
+    <classes>School: Necromancy, Cleric, Warlock, Wizard, Tamer [TP Legacy]</classes>
     <text>You drain the life force of those around you, turning their limbs heavy and their bones cold. Each creature of your choice within 20 feet of you must make a Constitution saving throw. A target takes 2d8 necrotic damage on a failure, or half as much damage on a success. The caster regains hit points equal to half the total amount of necrotic damage dealt to Small or larger creatures.
 
 At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
@@ -853,14 +853,14 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 508</text>
     <roll description="Necrotic Damage" level="9">8d8</roll>
   </spell>
   <spell>
-    <name>Mechamagic (HB)</name>
+    <name>Mechamagic [HB Legacy]</name>
     <level>4</level>
     <school>T</school>
     <time>1 action</time>
     <range>Touch</range>
     <components>V, S, M (adhesive tape with gorillas drawn on it)</components>
     <duration>1 hour</duration>
-    <classes>School: Necromancy, Touch Spells, Cleric, Warlock, Wizard, Tamer</classes>
+    <classes>School: Necromancy, Touch Spells, Cleric, Warlock, Wizard, Tamer [TP Legacy]</classes>
     <text>You touch one item, instilling it with levels of belief worthy of a kobold and granting it one of the following properties, based on the item type, for the duration.
 
 	• Armor. A creature wearing this armor gains 1d4 temporary hit points at the start of each of its turns.
@@ -883,7 +883,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 508</text>
     <roll description="Poison Damage">1d4</roll>
   </spell>
   <spell>
-    <name>Mireball (HB)</name>
+    <name>Mireball [HB Legacy]</name>
     <level>3</level>
     <school>C</school>
     <time>1 action</time>
@@ -906,7 +906,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 508</text>
     <roll description="Bludgeoning Damage" level="9">9d10</roll>
   </spell>
   <spell>
-    <name>Mortiferous Pulse (HB)</name>
+    <name>Mortiferous Pulse [HB Legacy]</name>
     <level>2</level>
     <school>N</school>
     <time>1 action</time>
@@ -929,14 +929,14 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 509</text>
     <roll description="Necrotic Damage" level="9">10d8</roll>
   </spell>
   <spell>
-    <name>Peppermint Plate (HB)</name>
+    <name>Peppermint Plate [HB Legacy]</name>
     <level>1</level>
     <school>A</school>
     <time>1 action</time>
     <range>Self (50-foot line)</range>
     <components>V, S, M (a dead animal)</components>
     <duration>Instantaneous</duration>
-    <classes>School: Abjuration, Cleric, Paladin, Sorcerer, Warlock, Wizard, Tamer</classes>
+    <classes>School: Abjuration, Cleric, Paladin, Sorcerer, Warlock, Wizard, Tamer [TP Legacy]</classes>
     <text>A protective layer of hot, hard peppermint icing coats you. For the duration, you gain a +1 bonus to AC and if a creature hits you with a melee attack, the creature takes 1d4 fire damage. This damage can trigger no more than once per turn.
 
 At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the fire damage increases by 1d4 for each slot level above 1st.
@@ -953,7 +953,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 509</text>
     <roll description="Fire Damage" level="9">9d4</roll>
   </spell>
   <spell>
-    <name>Pins &amp; Needles (HB)</name>
+    <name>Pins &amp; Needles [HB Legacy]</name>
     <level>0</level>
     <school>EV</school>
     <time>1 action</time>
@@ -972,7 +972,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 509</text>
     <roll description="Psychic Damage" level="17">4d8</roll>
   </spell>
   <spell>
-    <name>Power World Shield (HB)</name>
+    <name>Power World Shield [HB Legacy]</name>
     <level>7</level>
     <school>A</school>
     <time>1 reaction, which you take when a creature you can see is the target of an attack or spell</time>
@@ -985,14 +985,14 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 509</text>
 Source:	Heliana's Guide to Monster Hunting - Part One p. 509</text>
   </spell>
   <spell>
-    <name>Preserve (HB)</name>
+    <name>Preserve [HB Legacy]</name>
     <level>2</level>
     <school>A</school>
     <time>1 action</time>
     <range>60 feet</range>
     <components>V, S, M (some ether)</components>
     <duration>24 hours</duration>
-    <classes>School: Abjuration, School: Biomancy, Cleric, Druid, Paladin, Ranger, Wizard, Tamer</classes>
+    <classes>School: Abjuration, School: Biomancy, Cleric, Druid, Paladin, Ranger, Wizard, Tamer [TP Legacy]</classes>
     <text>With a flare of brilliant octarine light, each creature within a 10-foot-radius sphere centred on a point you can see within range must succeed on a Charisma saving throw or become soulbound for the duration, its magical essence tied to its physical (or incorporeal) form. If a creature dies while soulbound, its magic is bound to its components for 24 hours allowing harvesting to start at any time within this period (see page 87 for the rules on harvesting). Once harvesting starts on a corpse under the effect of this spell, the spell ends for that corpse. Creatures possessing robust or more powerful essence (typically, those of CR 7 or higher) automatically succeed on this saving throw.
 
 At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the strength of the essence possessed by creatures that allows them to automatically succeed on the saving throw increases by one tier for each two slot levels above 2nd. Creatures with potent or more powerful essence (typically CR 12 or higher) automatically succeed at 4th level, mythic (typically CR 18 or higher) at 6th level, and deific (typically CR 25 or higher) at 8th level.
@@ -1000,28 +1000,28 @@ At Higher Levels: When you cast this spell using a spell slot of 4th level or hi
 Source:	Heliana's Guide to Monster Hunting - Part One p. 509</text>
   </spell>
   <spell>
-    <name>Primal Scent (HB)</name>
+    <name>Primal Scent [HB Legacy]</name>
     <level>0</level>
     <school>D</school>
     <time>1 action</time>
     <range>Self</range>
     <components>S</components>
     <duration>Concentration, up to 1 minute</duration>
-    <classes>School: Divination, Druid, Tamer</classes>
+    <classes>School: Divination, Druid, Tamer [TP Legacy]</classes>
     <text>You inhale deeply, magically enhancing the scents that surround you. You have advantage on the next ability check you make that relies on smell, and you can treat a roll of 4 or lower as a 5.
 	When you reach higher levels, this spell gives you an increasingly astute ability to identify the source of the scents around you. When you reach 5th level, whenever you make an ability check that relies on smell, you can treat a d20 roll of 7 or lower as an 8. At 11th level, a roll of 10 or lower is treated as an 11, and at 17th level, a roll of 13 or lower is treated as a 14.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 510</text>
   </spell>
   <spell>
-    <name>Protection (HB)</name>
+    <name>Protection [HB Legacy]</name>
     <level>2</level>
     <school>A</school>
     <time>1 action</time>
     <range>30 feet</range>
     <components>V, S, M (a miniature silver shield worth 10 gp, which the spell consumes)</components>
     <duration>Concentration, up to 1 hour</duration>
-    <classes>School: Abjuration, Bard, Cleric, Druid, Paladin, Ranger, Tamer</classes>
+    <classes>School: Abjuration, Bard, Cleric, Druid, Paladin, Ranger, Tamer [TP Legacy]</classes>
     <text>You trace a warding sigil in the air, sending it to slowly circle a willing creature you can see for the next hour. Immediately before the target next takes damage, except psychic damage, the ward triggers. Until the end of the target's next turn, it has resistance to all damage excluding psychic, including the triggering damage. The warding sigil then disappears, and the spell ends on the target.
 
 At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, you may target one additional creature for each slot level above 2nd.
@@ -1029,7 +1029,7 @@ At Higher Levels: When you cast this spell using a spell slot of 3rd level or hi
 Source:	Heliana's Guide to Monster Hunting - Part One p. 510</text>
   </spell>
   <spell>
-    <name>Riptide (HB)</name>
+    <name>Riptide [HB Legacy]</name>
     <level>2</level>
     <school>T</school>
     <time>1 action</time>
@@ -1043,7 +1043,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 510</text>
 Source:	Heliana's Guide to Monster Hunting - Part One p. 510</text>
   </spell>
   <spell>
-    <name>Shackles of Pain (HB)</name>
+    <name>Shackles of Pain [HB Legacy]</name>
     <level>4</level>
     <school>A</school>
     <time>1 action</time>
@@ -1056,14 +1056,14 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 510</text>
 Source:	Heliana's Guide to Monster Hunting - Part One p. 510</text>
   </spell>
   <spell>
-    <name>Shielding Word (HB)</name>
+    <name>Shielding Word [HB Legacy]</name>
     <level>2</level>
     <school>A</school>
     <time>1 reaction, which you take when a creature within range that you can see is hit by an attack from an attacker you can see or fails a Strength or Dexterity saving throw</time>
     <range>30 feet</range>
     <components>V</components>
     <duration>1 Round</duration>
-    <classes>School: Abjuration, Bard, Cleric, Paladin, Tamer</classes>
+    <classes>School: Abjuration, Bard, Cleric, Paladin, Tamer [TP Legacy]</classes>
     <text>With a word, you coat a creature in a shimmering shield that absorbs the energy of incoming blows. The creature gains 15 temporary hit points the instant before it takes the triggering damage. These hit points last until the start of the creature's next turn.
 
 At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, you may choose to either increase the range of the spell by 30 feet or increase the number of temporary hit points gained by 5, for each slot level above 2nd.
@@ -1071,21 +1071,21 @@ At Higher Levels: When you cast this spell using a spell slot of 3rd level or hi
 Source:	Heliana's Guide to Monster Hunting - Part One p. 510</text>
   </spell>
   <spell>
-    <name>Smokescreen (HB)</name>
+    <name>Smokescreen [HB Legacy]</name>
     <level>0</level>
     <school>C</school>
     <time>1 action</time>
     <range>Self (5-foot-radius, 10-foot-high cylinder)</range>
     <components>V, S, M (a puffball mushroom)</components>
     <duration>Concentration, up to 1 minute</duration>
-    <classes>School: Conjuration, Druid, Sorcerer, Wizard, Tamer</classes>
+    <classes>School: Conjuration, Druid, Sorcerer, Wizard, Tamer [TP Legacy]</classes>
     <text>You spew a thick cloud of dense black smoke that forms a 5-foot-diameter, 10-foot-high cylinder centred on you that lasts until the start of your next turn. The smoke heavily obscures its area. When you cast the spell, you can choose whether the cloud remains in the location where you cast it or if it moves with you, centered on you.
 	When you reach higher levels, the size of the cloud you can create with this spell increases. When you reach 5th level, the cloud has a maximum diameter and height of 15 feet; at 11th level this increases to 25 feet; and at 17th level this increases to 40 feet. You choose how big the cloud is in each dimension up to this maximum each time that you cast it.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 511</text>
   </spell>
   <spell>
-    <name>Spark (HB)</name>
+    <name>Spark [HB Legacy]</name>
     <level>0</level>
     <school>EV</school>
     <time>1 action</time>
@@ -1104,7 +1104,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 511</text>
     <roll description="Lightning Damage" level="3">4d8</roll>
   </spell>
   <spell>
-    <name>Spore Cloud (HB)</name>
+    <name>Spore Cloud [HB Legacy]</name>
     <level>0</level>
     <school>C</school>
     <time>1 action</time>
@@ -1123,21 +1123,21 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 511</text>
     <roll description="Poison Damage" level="17">4d4</roll>
   </spell>
   <spell>
-    <name>Stalker's Eye (HB)</name>
+    <name>Stalker's Eye [HB Legacy]</name>
     <level>0</level>
     <school>EN</school>
     <time>1 action</time>
     <range>Touch</range>
     <components>V, S, M (small magnifying lens)</components>
     <duration>Concentration, up to 1 minute</duration>
-    <classes>School: Enchantment, Touch Spells, Bard, Druid, Tamer</classes>
+    <classes>School: Enchantment, Touch Spells, Bard, Druid, Tamer [TP Legacy]</classes>
     <text>A willing creature you touch gains a preternatural ability to perceive the weaknesses in a creature's defenses. The first time the creature makes an attack while under the effect of this spell, it makes the attack with advantage. After it makes an attack, the spell ends.
 	This spell augments the creature's ability to strike at vital points when you reach certain levels. When you reach 5th level, the augmented attack scores a critical hit on a roll of 19 or 20. At 11th level, this range is increased to 18 to 20, and at 17th level, this range becomes 17 to 20.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 511</text>
   </spell>
   <spell>
-    <name>Stench (HB)</name>
+    <name>Stench [HB Legacy]</name>
     <level>3</level>
     <school>C</school>
     <time>1 action</time>
@@ -1160,14 +1160,14 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 511</text>
     <roll description="Poison Damage" level="9">9d6</roll>
   </spell>
   <spell>
-    <name>Sugar Rush (HB)</name>
+    <name>Sugar Rush [HB Legacy]</name>
     <level>2</level>
     <school>T</school>
     <time>1 action</time>
     <range>30 feet</range>
     <components>V, S, M (some candy)</components>
     <duration>Concentration, up to 1 minute</duration>
-    <classes>School: Transmutation, School: Biomancy, Bard, Cleric, Paladin, Sorcerer, Tamer</classes>
+    <classes>School: Transmutation, School: Biomancy, Bard, Cleric, Paladin, Sorcerer, Tamer [TP Legacy]</classes>
     <text>Choose a willing creature that you can see within range. Until the spell ends, the target's speed is increased by 15 feet, and it gains a +1 bonus to AC. As a bonus action on each of its turns, it can take the Dash, Disengage, Hide, or Use an Object action.
 	When the spell ends, or if an affected creature does not spend movement up to its walking speed by the end of its turn, it then develops a stomach ache and is poisoned until the end of its next turn.
 
@@ -1176,7 +1176,7 @@ At Higher Levels: When you cast this spell using a spell slot of 3rd-level or hi
 Source:	Heliana's Guide to Monster Hunting - Part One p. 512</text>
   </spell>
   <spell>
-    <name>Swarm (HB)</name>
+    <name>Swarm [HB Legacy]</name>
     <level>0</level>
     <school>C</school>
     <time>1 action</time>
@@ -1194,14 +1194,14 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 512</text>
     <roll description="Poison Damage" level="17">3d10</roll>
   </spell>
   <spell>
-    <name>Switcheroo (HB)</name>
+    <name>Switcheroo [HB Legacy]</name>
     <level>3</level>
     <school>T</school>
     <time>1 action</time>
     <range>90 feet</range>
     <components>V, S</components>
     <duration>Instantaneous</duration>
-    <classes>School: Transmutation, Bard, Cleric, Sorcerer, Warlock, Wizard, Tamer</classes>
+    <classes>School: Transmutation, Bard, Cleric, Sorcerer, Warlock, Wizard, Tamer [TP Legacy]</classes>
     <text>You attempt to switch places with a Large or smaller target within range that you can see. The target must succeed on a Charisma saving throw or instantly teleport to your space whilst you teleport to the one it previously occupied. A creature automatically succeeds on this saving throw if there is not enough space to accommodate either of the teleporting creatures. A willing creature may choose to fail the saving throw.
 
 At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the range of this spell increases by 30 feet for each slot level above 3rd. The maximum size of creature you can target increases to Huge when cast at 6th level or higher, and to Gargantuan when cast at 9th level.
@@ -1209,7 +1209,7 @@ At Higher Levels: When you cast this spell using a spell slot of 4th level or hi
 Source:	Heliana's Guide to Monster Hunting - Part One p. 512</text>
   </spell>
   <spell>
-    <name>Tentacle Lash (HB)</name>
+    <name>Tentacle Lash [HB Legacy]</name>
     <level>4</level>
     <school>T</school>
     <time>1 action</time>
@@ -1238,7 +1238,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 512</text>
     <roll description="Bludgeoning Damage" level="9">10d8</roll>
   </spell>
   <spell>
-    <name>The Bends (HB)</name>
+    <name>The Bends [HB Legacy]</name>
     <level>3</level>
     <school>T</school>
     <time>1 action</time>
@@ -1268,7 +1268,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 513</text>
     <roll description="Poison Damage" level="9">11d10</roll>
   </spell>
   <spell>
-    <name>Totem Arrows (HB)</name>
+    <name>Totem Arrows [HB Legacy]</name>
     <level>4</level>
     <school>T</school>
     <time>1 action</time>
@@ -1305,7 +1305,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 513</text>
     <roll description="Poison Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Water Whip (HB)</name>
+    <name>Water Whip [HB Legacy]</name>
     <level>0</level>
     <school>T</school>
     <time>1 action</time>
@@ -1324,7 +1324,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 513</text>
     <roll description="Slashing Damage" level="17">4d6</roll>
   </spell>
   <spell>
-    <name>Weavebend (HB)</name>
+    <name>Weavebend [HB Legacy]</name>
     <level>4</level>
     <school>A</school>
     <time>1 reaction, which you take when you see a creature within range casting a spell</time>
@@ -1339,7 +1339,7 @@ At Higher Levels: When you cast this spell using a spell slot of 5th level or hi
 Source:	Heliana's Guide to Monster Hunting - Part One p. 514</text>
   </spell>
   <spell>
-    <name>Weave Entanglement (HB)</name>
+    <name>Weave Entanglement [HB Legacy]</name>
     <level>6</level>
     <school>A</school>
     <time>1 action</time>
@@ -1369,7 +1369,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 514</text>
     <roll description="Effect">1d10</roll>
   </spell>
   <spell>
-    <name>Zippit! (HB)</name>
+    <name>Zippit! [HB Legacy]</name>
     <level>3</level>
     <school>T</school>
     <time>reaction, which you take when a creature within range vocalises</time>

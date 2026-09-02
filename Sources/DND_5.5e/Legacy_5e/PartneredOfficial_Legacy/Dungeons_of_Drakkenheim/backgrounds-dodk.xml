@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Continental Nobility (TP)</name>
+    <name>Continental Nobility [TP Legacy]</name>
     <proficiency/>
     <trait>
       <name>Description</name>
@@ -78,7 +78,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Mageborn (TP)</name>
+    <name>Mageborn [TP Legacy]</name>
     <proficiency/>
     <trait>
       <name>Description</name>
@@ -156,7 +156,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Devoted Missionary (TP)</name>
+    <name>Devoted Missionary [TP Legacy]</name>
     <proficiency/>
     <trait>
       <name>Description</name>
@@ -232,7 +232,7 @@ d7 | Flaw
     </trait>
   </background>
   <background>
-    <name>Survivor (TP)</name>
+    <name>Survivor [TP Legacy]</name>
     <proficiency/>
     <trait>
       <name>Description</name>
@@ -307,7 +307,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Treasure Seeker (TP)</name>
+    <name>Treasure Seeker [TP Legacy]</name>
     <proficiency>Investigation</proficiency>
     <trait>
       <name>Description</name>

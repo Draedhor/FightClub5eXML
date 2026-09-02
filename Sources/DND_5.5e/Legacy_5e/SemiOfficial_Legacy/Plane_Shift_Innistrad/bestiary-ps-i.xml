@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Creepy Doll</name>
+    <name>Creepy Doll [TP Legacy]</name>
     <sortname>Doll, Creepy</sortname>
     <ancestry>Doll</ancestry>
     <size>T</size>
@@ -54,7 +54,7 @@ The body exchange lasts until the doll's spirit is forced out by magic. (The dis
     <environment/>
   </monster>
   <monster>
-    <name>Demonlord of Ashmouth</name>
+    <name>Demonlord of Ashmouth [TP Legacy]</name>
     <size>L</size>
     <type>fiend (demon)</type>
     <alignment>Lawful Evil</alignment>
@@ -109,7 +109,7 @@ The body exchange lasts until the doll's spirit is forced out by magic. (The dis
     <environment/>
   </monster>
   <monster>
-    <name>Flight Alabaster Angel</name>
+    <name>Flight Alabaster Angel [TP Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>Lawful Good</alignment>
@@ -172,7 +172,7 @@ In a new form, the angel retains its game statistics and ability to speak, but i
     <environment/>
   </monster>
   <monster>
-    <name>Flight Goldnight Angel</name>
+    <name>Flight Goldnight Angel [TP Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>Lawful Good</alignment>
@@ -239,7 +239,7 @@ In a new form, the angel retains its game statistics and ability to speak, but i
     <environment/>
   </monster>
   <monster>
-    <name>Flight of Moonsilver Angel</name>
+    <name>Flight of Moonsilver Angel [TP Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>Lawful Good</alignment>
@@ -306,7 +306,7 @@ In a new form, the angel retains its game statistics and ability to speak, but i
     <environment/>
   </monster>
   <monster>
-    <name>Geist</name>
+    <name>Geist [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Any alignment</alignment>
@@ -370,7 +370,7 @@ damage if it ends its turn inside an object.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Host of Herons Angel</name>
+    <name>Host of Herons Angel [TP Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>Lawful Good</alignment>
@@ -437,7 +437,7 @@ In a new form, the angel retains its game statistics and ability to speak, but i
     <environment/>
   </monster>
   <monster>
-    <name>Keeper of the Feather</name>
+    <name>Keeper of the Feather [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (human, shapechanger)</type>
     <alignment>Lawful Good</alignment>
@@ -491,7 +491,7 @@ In a new form, the angel retains its game statistics and ability to speak, but i
     <environment/>
   </monster>
   <monster>
-    <name>Skaab</name>
+    <name>Skaab [TP Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Neutral</alignment>
@@ -577,7 +577,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
     <environment/>
   </monster>
   <monster>
-    <name>Vampire Neonate</name>
+    <name>Vampire Neonate [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -644,7 +644,7 @@ Spellcasting: The vampire has the spellcasting abilities of a wizard or cleric.<
     <environment/>
   </monster>
   <monster>
-    <name>Werewolf (Krallenhorde)</name>
+    <name>Werewolf (Krallenhorde) [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (human, shapechanger)</type>
     <alignment>Chaotic Evil</alignment>
@@ -714,7 +714,7 @@ Spellcasting: The vampire has the spellcasting abilities of a wizard or cleric.<
     <environment/>
   </monster>
   <monster>
-    <name>Zombie Cat</name>
+    <name>Zombie Cat [TP Legacy]</name>
     <sortname>Cat, Zombie</sortname>
     <ancestry>Cat, Zombie</ancestry>
     <size>T</size>
@@ -751,7 +751,7 @@ Spellcasting: The vampire has the spellcasting abilities of a wizard or cleric.<
     <environment>grassland, forest, urban, desert</environment>
   </monster>
   <monster>
-    <name>Zombie Rat</name>
+    <name>Zombie Rat [TP Legacy]</name>
     <sortname>Rat, Zombie</sortname>
     <ancestry>Rat, Zombie</ancestry>
     <size>T</size>
@@ -788,7 +788,7 @@ Spellcasting: The vampire has the spellcasting abilities of a wizard or cleric.<
     <environment>swamp, urban</environment>
   </monster>
   <monster>
-    <name>Zombie Snake</name>
+    <name>Zombie Snake [TP Legacy]</name>
     <sortname>Snake, Zombie</sortname>
     <ancestry>Snake, Zombie</ancestry>
     <size>T</size>

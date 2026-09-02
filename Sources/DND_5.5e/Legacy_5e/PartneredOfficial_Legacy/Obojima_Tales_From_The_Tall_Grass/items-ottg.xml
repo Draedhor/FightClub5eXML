@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Anglerfish Helm</name>
+    <name>Anglerfish Helm [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -11,7 +11,7 @@
 Source:	Obojima: Tales from the Tall Grass p. 167 (Third Party)</text>
   </item>
   <item>
-    <name>Baffled Candle</name>
+    <name>Baffled Candle [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -21,7 +21,7 @@ Source:	Obojima: Tales from the Tall Grass p. 167 (Third Party)</text>
     <roll description="Minutes">1d4+3</roll>
   </item>
   <item>
-    <name>Bell of Resonance</name>
+    <name>Bell of Resonance [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -30,7 +30,7 @@ Source:	Obojima: Tales from the Tall Grass p. 167 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 167 (Third Party)</text>
   </item>
   <item>
-    <name>Boots of the Stampede</name>
+    <name>Boots of the Stampede [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -39,7 +39,7 @@ Source:	Obojima: Tales from the Tall Grass p. 167 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 167 (Third Party)</text>
   </item>
   <item>
-    <name>Burnright Brand Hair Dryer</name>
+    <name>Burnright Brand Hair Dryer [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -49,7 +49,7 @@ Source:	Obojima: Tales from the Tall Grass p. 167 (Third Party)</text>
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>Censer of Arguing Spirits</name>
+    <name>Censer of Arguing Spirits [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -60,7 +60,7 @@ Source:	Obojima: Tales from the Tall Grass p. 168 (Third Party)</text>
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>Canseco Bat</name>
+    <name>Canseco Bat [TP Legacy]</name>
     <detail>warhammer, uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -80,7 +80,7 @@ Source:	Obojima: Tales from the Tall Grass p. 168 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Cloud-Touched Boomerang</name>
+    <name>Cloud-Touched Boomerang [TP Legacy]</name>
     <detail>boomerang, common (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -103,7 +103,7 @@ Proficiency: simple, boomerang
 Source:	Obojima: Tales from the Tall Grass p. 168 (Third Party)</text>
   </item>
   <item>
-    <name>Coin's Edge</name>
+    <name>Coin's Edge [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -112,7 +112,7 @@ Source:	Obojima: Tales from the Tall Grass p. 168 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 168 (Third Party)</text>
   </item>
   <item>
-    <name>Corrupted Pendant</name>
+    <name>Corrupted Pendant [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -122,7 +122,7 @@ Source:	Obojima: Tales from the Tall Grass p. 168 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 169 (Third Party)</text>
   </item>
   <item>
-    <name>CRT TV &amp; Chicken Timer</name>
+    <name>CRT TV &amp; Chicken Timer [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -131,7 +131,7 @@ Source:	Obojima: Tales from the Tall Grass p. 169 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 169 (Third Party)</text>
   </item>
   <item>
-    <name>Cube of Cubes</name>
+    <name>Cube of Cubes [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -149,7 +149,7 @@ Once the puzzle has been used to cast a spell, it can't do so again until the ne
 Source:	Obojima: Tales from the Tall Grass p. 169 (Third Party)</text>
   </item>
   <item>
-    <name>Eye Kite</name>
+    <name>Eye Kite [TP Legacy]</name>
     <detail>common (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -158,7 +158,7 @@ Source:	Obojima: Tales from the Tall Grass p. 169 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 170 (Third Party)</text>
   </item>
   <item>
-    <name>Familiar's Collar</name>
+    <name>Familiar's Collar [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -167,7 +167,7 @@ Source:	Obojima: Tales from the Tall Grass p. 170 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 170 (Third Party)</text>
   </item>
   <item>
-    <name>Field Cauldron</name>
+    <name>Field Cauldron [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -176,7 +176,7 @@ Source:	Obojima: Tales from the Tall Grass p. 170 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 170 (Third Party)</text>
   </item>
   <item>
-    <name>Fisherman's Spear</name>
+    <name>Fisherman's Spear [TP Legacy]</name>
     <detail>common (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -185,7 +185,7 @@ Source:	Obojima: Tales from the Tall Grass p. 170 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 170 (Third Party)</text>
   </item>
   <item>
-    <name>Flying Broomstick</name>
+    <name>Flying Broomstick [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -194,7 +194,7 @@ Source:	Obojima: Tales from the Tall Grass p. 170 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 170 (Third Party)</text>
   </item>
   <item>
-    <name>Keys to the Sandcastle</name>
+    <name>Keys to the Sandcastle [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -204,7 +204,7 @@ Source:	Obojima: Tales from the Tall Grass p. 170 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 171 (Third Party)</text>
   </item>
   <item>
-    <name>Keytar</name>
+    <name>Keytar [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -213,7 +213,7 @@ Source:	Obojima: Tales from the Tall Grass p. 171 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 171 (Third Party)</text>
   </item>
   <item>
-    <name>Gametoy</name>
+    <name>Gametoy [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -222,7 +222,7 @@ Source:	Obojima: Tales from the Tall Grass p. 171 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 171 (Third Party)</text>
   </item>
   <item>
-    <name>Guardian Spheres</name>
+    <name>Guardian Spheres [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -232,7 +232,7 @@ Source:	Obojima: Tales from the Tall Grass p. 171 (Third Party)</text>
     <roll description="Guardian Spheres">1d4+1</roll>
   </item>
   <item>
-    <name>Heron's Eye Ring</name>
+    <name>Heron's Eye Ring [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -252,7 +252,7 @@ Source:	Obojima: Tales from the Tall Grass p. 172 (Third Party)</text>
     <roll description="Recharge">1d4+2</roll>
   </item>
   <item>
-    <name>Hover Hopper</name>
+    <name>Hover Hopper [TP Legacy]</name>
     <detail>common (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -261,7 +261,7 @@ Source:	Obojima: Tales from the Tall Grass p. 172 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 172 (Third Party)</text>
   </item>
   <item>
-    <name>Hurler's Gloves</name>
+    <name>Hurler's Gloves [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -270,7 +270,7 @@ Source:	Obojima: Tales from the Tall Grass p. 172 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 172 (Third Party)</text>
   </item>
   <item>
-    <name>Instaprint Camera</name>
+    <name>Instaprint Camera [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -280,7 +280,7 @@ Source:	Obojima: Tales from the Tall Grass p. 172 (Third Party)</text>
     <roll description="Film Cards">1d12+4</roll>
   </item>
   <item>
-    <name>Jabbadoon's Feather</name>
+    <name>Jabbadoon's Feather [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -289,7 +289,7 @@ Source:	Obojima: Tales from the Tall Grass p. 172 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 172 (Third Party)</text>
   </item>
   <item>
-    <name>Lafula's Iron Teapot</name>
+    <name>Lafula's Iron Teapot [TP Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -298,7 +298,7 @@ Source:	Obojima: Tales from the Tall Grass p. 172 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 173 (Third Party)</text>
   </item>
   <item>
-    <name>Oiki's Pinwheel</name>
+    <name>Oiki's Pinwheel [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -308,7 +308,7 @@ Source:	Obojima: Tales from the Tall Grass p. 173 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 173 (Third Party)</text>
   </item>
   <item>
-    <name>Only Members Jacket</name>
+    <name>Only Members Jacket [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -319,7 +319,7 @@ Source:	Obojima: Tales from the Tall Grass p. 173 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 173 (Third Party)</text>
   </item>
   <item>
-    <name>Painter's Sun Hat</name>
+    <name>Painter's Sun Hat [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -328,7 +328,7 @@ Source:	Obojima: Tales from the Tall Grass p. 173 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 174 (Third Party)</text>
   </item>
   <item>
-    <name>Pendants of Belonging</name>
+    <name>Pendants of Belonging [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -337,7 +337,7 @@ Source:	Obojima: Tales from the Tall Grass p. 174 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 174 (Third Party)</text>
   </item>
   <item>
-    <name>Punch Card</name>
+    <name>Punch Card [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -347,7 +347,7 @@ Source:	Obojima: Tales from the Tall Grass p. 174 (Third Party)</text>
     <roll description="Punches">1d6</roll>
   </item>
   <item>
-    <name>Roake's Clay Urn</name>
+    <name>Roake's Clay Urn [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -358,7 +358,7 @@ Source:	Obojima: Tales from the Tall Grass p. 174 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 174 (Third Party)</text>
   </item>
   <item>
-    <name>Ruby Red Bike</name>
+    <name>Ruby Red Bike [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -367,7 +367,7 @@ Source:	Obojima: Tales from the Tall Grass p. 174 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 175 (Third Party)</text>
   </item>
   <item>
-    <name>Scarf of Muffling</name>
+    <name>Scarf of Muffling [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -376,7 +376,7 @@ Source:	Obojima: Tales from the Tall Grass p. 175 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 175 (Third Party)</text>
   </item>
   <item>
-    <name>Scuttling Lantern</name>
+    <name>Scuttling Lantern [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -385,7 +385,7 @@ Source:	Obojima: Tales from the Tall Grass p. 175 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 175 (Third Party)</text>
   </item>
   <item>
-    <name>Sibling Purses</name>
+    <name>Sibling Purses [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -394,7 +394,7 @@ Source:	Obojima: Tales from the Tall Grass p. 175 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 175 (Third Party)</text>
   </item>
   <item>
-    <name>Soda Cans</name>
+    <name>Soda Cans [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -409,7 +409,7 @@ Source:	Obojima: Tales from the Tall Grass p. 175 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 176 (Third Party)</text>
   </item>
   <item>
-    <name>Solar Amulet</name>
+    <name>Solar Amulet [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -418,7 +418,7 @@ Source:	Obojima: Tales from the Tall Grass p. 176 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 176 (Third Party)</text>
   </item>
   <item>
-    <name>Sticky Hand</name>
+    <name>Sticky Hand [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -427,7 +427,7 @@ Source:	Obojima: Tales from the Tall Grass p. 176 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 176 (Third Party)</text>
   </item>
   <item>
-    <name>Sunbaked Cassettes</name>
+    <name>Sunbaked Cassettes [TP Legacy]</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -437,7 +437,7 @@ Source:	Obojima: Tales from the Tall Grass p. 176 (Third Party)</text>
     <roll description="Regain Spell Slots">1d4</roll>
   </item>
   <item>
-    <name>Talisman of the Phoenix</name>
+    <name>Talisman of the Phoenix [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -447,7 +447,7 @@ Source:	Obojima: Tales from the Tall Grass p. 177 (Third Party)</text>
     <roll description="Charges">1d4</roll>
   </item>
   <item>
-    <name>Travel Wok</name>
+    <name>Travel Wok [TP Legacy]</name>
     <detail>frying pan, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -472,7 +472,7 @@ Source:	Obojima: Tales from the Tall Grass p. 177 (Third Party)</text>
     <roll description="Temporary Hit Points">1d6</roll>
   </item>
   <item>
-    <name>Umbrella of Shielding</name>
+    <name>Umbrella of Shielding [TP Legacy]</name>
     <detail>umbrella, uncommon (requires attunement)</detail>
     <type>M</type>
     <weight>2</weight>
@@ -492,7 +492,7 @@ Source:	Obojima: Tales from the Tall Grass p. 177 (Third Party)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Yappa Mask</name>
+    <name>Yappa Mask [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -502,7 +502,7 @@ Source:	Obojima: Tales from the Tall Grass p. 177 (Third Party)</text>
   </item>
   <!-- Combat Potions Common -->
   <item>
-    <name>Rabbit's Speed</name>
+    <name>Rabbit's Speed [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -511,7 +511,7 @@ Source:	Obojima: Tales from the Tall Grass p. 177 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 220 (Third Party)</text>
   </item>
   <item>
-    <name>Weapon Master's Elixir</name>
+    <name>Weapon Master's Elixir [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -520,7 +520,7 @@ Source:	Obojima: Tales from the Tall Grass p. 220 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 220 (Third Party)</text>
   </item>
   <item>
-    <name>Spirit of Salyri</name>
+    <name>Spirit of Salyri [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -529,7 +529,7 @@ Source:	Obojima: Tales from the Tall Grass p. 220 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 220 (Third Party)</text>
   </item>
   <item>
-    <name>Beast Hide</name>
+    <name>Beast Hide [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -538,7 +538,7 @@ Source:	Obojima: Tales from the Tall Grass p. 220 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 220 (Third Party)</text>
   </item>
   <item>
-    <name>Spirit Armor</name>
+    <name>Spirit Armor [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -547,7 +547,7 @@ Source:	Obojima: Tales from the Tall Grass p. 220 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 220 (Third Party)</text>
   </item>
   <item>
-    <name>Displacement Field</name>
+    <name>Displacement Field [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -556,7 +556,7 @@ Source:	Obojima: Tales from the Tall Grass p. 220 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 220 (Third Party)</text>
   </item>
   <item>
-    <name>Shepherd's Bane</name>
+    <name>Shepherd's Bane [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -566,7 +566,7 @@ Source:	Obojima: Tales from the Tall Grass p. 221 (Third Party)</text>
     <roll description="Unarmed Slashing Damage">1d6+%1</roll>
   </item>
   <item>
-    <name>Bottled Bomb</name>
+    <name>Bottled Bomb [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -576,7 +576,7 @@ Source:	Obojima: Tales from the Tall Grass p. 221 (Third Party)</text>
     <roll description="Force Damage">1d8</roll>
   </item>
   <item>
-    <name>Wonder Juice</name>
+    <name>Wonder Juice [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -585,7 +585,7 @@ Source:	Obojima: Tales from the Tall Grass p. 221 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 221 (Third Party)</text>
   </item>
   <item>
-    <name>Candlecap</name>
+    <name>Candlecap [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -596,7 +596,7 @@ Source:	Obojima: Tales from the Tall Grass p. 221 (Third Party)</text>
     <roll description="Fire Damage">2d4</roll>
   </item>
   <item>
-    <name>Eagle's Vision</name>
+    <name>Eagle's Vision [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -607,7 +607,7 @@ Source:	Obojima: Tales from the Tall Grass p. 221 (Third Party)</text>
     <roll description="Fire Damage">2d4</roll>
   </item>
   <item>
-    <name>Paranoia</name>
+    <name>Paranoia [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -616,7 +616,7 @@ Source:	Obojima: Tales from the Tall Grass p. 221 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 221 (Third Party)</text>
   </item>
   <item>
-    <name>Bottled Torch</name>
+    <name>Bottled Torch [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -626,7 +626,7 @@ Source:	Obojima: Tales from the Tall Grass p. 221 (Third Party)</text>
     <roll description="Fire Damage">2d4</roll>
   </item>
   <item>
-    <name>Static Shock</name>
+    <name>Static Shock [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -636,7 +636,7 @@ Source:	Obojima: Tales from the Tall Grass p. 222 (Third Party)</text>
     <roll description="Lightning Damage">1d10</roll>
   </item>
   <item>
-    <name>Incoming!</name>
+    <name>Incoming! [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -646,7 +646,7 @@ Source:	Obojima: Tales from the Tall Grass p. 222 (Third Party)</text>
     <roll description="Lightning Damage">1d10</roll>
   </item>
   <item>
-    <name>Lightning Breath</name>
+    <name>Lightning Breath [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -656,7 +656,7 @@ Source:	Obojima: Tales from the Tall Grass p. 222 (Third Party)</text>
     <roll description="Lightning Damage">1d10</roll>
   </item>
   <item>
-    <name>Heroism</name>
+    <name>Heroism [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -665,7 +665,7 @@ Source:	Obojima: Tales from the Tall Grass p. 222 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 222 (Third Party)</text>
   </item>
   <item>
-    <name>Slugskin</name>
+    <name>Slugskin [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -674,7 +674,7 @@ Source:	Obojima: Tales from the Tall Grass p. 222 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 222 (Third Party)</text>
   </item>
   <item>
-    <name>Thunderbelch</name>
+    <name>Thunderbelch [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -685,7 +685,7 @@ Source:	Obojima: Tales from the Tall Grass p. 222 (Third Party)</text>
     <roll description="Thunder Damage">3d8</roll>
   </item>
   <item>
-    <name>Seeking Smoke</name>
+    <name>Seeking Smoke [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -694,7 +694,7 @@ Source:	Obojima: Tales from the Tall Grass p. 222 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 222 (Third Party)</text>
   </item>
   <item>
-    <name>Dancing Juice</name>
+    <name>Dancing Juice [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -703,7 +703,7 @@ Source:	Obojima: Tales from the Tall Grass p. 222 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 223 (Third Party)</text>
   </item>
   <item>
-    <name>Prickleskin</name>
+    <name>Prickleskin [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -713,7 +713,7 @@ Source:	Obojima: Tales from the Tall Grass p. 223 (Third Party)</text>
     <roll description="Piercing Damage">1d4</roll>
   </item>
   <item>
-    <name>Tiny Bubbles</name>
+    <name>Tiny Bubbles [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -723,7 +723,7 @@ Source:	Obojima: Tales from the Tall Grass p. 223 (Third Party)</text>
     <roll description="Thunder Damage">1d6</roll>
   </item>
   <item>
-    <name>Claws of the Crab King</name>
+    <name>Claws of the Crab King [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -732,7 +732,7 @@ Source:	Obojima: Tales from the Tall Grass p. 223 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 223 (Third Party)</text>
   </item>
   <item>
-    <name>Rubberskin</name>
+    <name>Rubberskin [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -741,7 +741,7 @@ Source:	Obojima: Tales from the Tall Grass p. 223 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 223 (Third Party)</text>
   </item>
   <item>
-    <name>Keening Voice</name>
+    <name>Keening Voice [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -751,7 +751,7 @@ Source:	Obojima: Tales from the Tall Grass p. 223 (Third Party)</text>
     <roll description="Thunder Damage">1d6</roll>
   </item>
   <item>
-    <name>Kinetic Pop</name>
+    <name>Kinetic Pop [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -760,7 +760,7 @@ Source:	Obojima: Tales from the Tall Grass p. 223 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 223 (Third Party)</text>
   </item>
   <item>
-    <name>Healing Gas</name>
+    <name>Healing Gas [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -770,7 +770,7 @@ Source:	Obojima: Tales from the Tall Grass p. 224 (Third Party)</text>
     <roll description="Heal">1d4+1</roll>
   </item>
   <item>
-    <name>Iron Mind</name>
+    <name>Iron Mind [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -779,7 +779,7 @@ Source:	Obojima: Tales from the Tall Grass p. 224 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 224 (Third Party)</text>
   </item>
   <item>
-    <name>Cinderskin</name>
+    <name>Cinderskin [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -789,7 +789,7 @@ Source:	Obojima: Tales from the Tall Grass p. 224 (Third Party)</text>
   </item>
   <!-- Combat Potions Uncommon -->
   <item>
-    <name>Gargoyle Hooch</name>
+    <name>Gargoyle Hooch [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -798,7 +798,7 @@ Source:	Obojima: Tales from the Tall Grass p. 224 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 224 (Third Party)</text>
   </item>
   <item>
-    <name>Elixir of Jipampa</name>
+    <name>Elixir of Jipampa [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -807,7 +807,7 @@ Source:	Obojima: Tales from the Tall Grass p. 224 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 224 (Third Party)</text>
   </item>
   <item>
-    <name>Catspeed</name>
+    <name>Catspeed [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -816,7 +816,7 @@ Source:	Obojima: Tales from the Tall Grass p. 224 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 225 (Third Party)</text>
   </item>
   <item>
-    <name>Durability</name>
+    <name>Durability [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -825,7 +825,7 @@ Source:	Obojima: Tales from the Tall Grass p. 225 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 225 (Third Party)</text>
   </item>
   <item>
-    <name>Fire Shield</name>
+    <name>Fire Shield [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -834,7 +834,7 @@ Source:	Obojima: Tales from the Tall Grass p. 225 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 225 (Third Party)</text>
   </item>
   <item>
-    <name>Tunnel Vision</name>
+    <name>Tunnel Vision [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -844,7 +844,7 @@ Source:	Obojima: Tales from the Tall Grass p. 225 (Third Party)</text>
     <roll description="Damage">1d12</roll>
   </item>
   <item>
-    <name>Ratatam's Glowskin Elixir</name>
+    <name>Ratatam's Glowskin Elixir [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -853,7 +853,7 @@ Source:	Obojima: Tales from the Tall Grass p. 225 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 225 (Third Party)</text>
   </item>
   <item>
-    <name>Don't Hit Me Juice</name>
+    <name>Don't Hit Me Juice [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -862,7 +862,7 @@ Source:	Obojima: Tales from the Tall Grass p. 225 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 225 (Third Party)</text>
   </item>
   <item>
-    <name>Invulnerability</name>
+    <name>Invulnerability [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -871,7 +871,7 @@ Source:	Obojima: Tales from the Tall Grass p. 225 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 226 (Third Party)</text>
   </item>
   <item>
-    <name>Bottled Bind</name>
+    <name>Bottled Bind [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -880,7 +880,7 @@ Source:	Obojima: Tales from the Tall Grass p. 226 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 226 (Third Party)</text>
   </item>
   <item>
-    <name>Respiratory Distress</name>
+    <name>Respiratory Distress [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -889,7 +889,7 @@ Source:	Obojima: Tales from the Tall Grass p. 226 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 226 (Third Party)</text>
   </item>
   <item>
-    <name>Pumpkin Patch Guard</name>
+    <name>Pumpkin Patch Guard [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -898,7 +898,7 @@ Source:	Obojima: Tales from the Tall Grass p. 226 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 226 (Third Party)</text>
   </item>
   <item>
-    <name>Sheep Dragon Brew</name>
+    <name>Sheep Dragon Brew [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -907,7 +907,7 @@ Source:	Obojima: Tales from the Tall Grass p. 226 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 226 (Third Party)</text>
   </item>
   <item>
-    <name>Enhanced Static Shock</name>
+    <name>Enhanced Static Shock [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -917,7 +917,7 @@ Source:	Obojima: Tales from the Tall Grass p. 226 (Third Party)</text>
     <roll description="Lightning Damage">3d10</roll>
   </item>
   <item>
-    <name>Enhanced Lightning Breath</name>
+    <name>Enhanced Lightning Breath [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -927,7 +927,7 @@ Source:	Obojima: Tales from the Tall Grass p. 227 (Third Party)</text>
     <roll description="Lightning Damage">3d10</roll>
   </item>
   <item>
-    <name>Enhanced Bottled Bomb</name>
+    <name>Enhanced Bottled Bomb [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -937,7 +937,7 @@ Source:	Obojima: Tales from the Tall Grass p. 227 (Third Party)</text>
     <roll description="Force Damage">3d8</roll>
   </item>
   <item>
-    <name>Wrathful Spirit</name>
+    <name>Wrathful Spirit [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -947,7 +947,7 @@ Source:	Obojima: Tales from the Tall Grass p. 227 (Third Party)</text>
     <roll description="Extra Force Damage">2d8</roll>
   </item>
   <item>
-    <name>Rapid Withdrawal</name>
+    <name>Rapid Withdrawal [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -956,7 +956,7 @@ Source:	Obojima: Tales from the Tall Grass p. 227 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 227 (Third Party)</text>
   </item>
   <item>
-    <name>Life-Steal</name>
+    <name>Life-Steal [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -965,7 +965,7 @@ Source:	Obojima: Tales from the Tall Grass p. 227 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 227 (Third Party)</text>
   </item>
   <item>
-    <name>Demonskin</name>
+    <name>Demonskin [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -975,7 +975,7 @@ Source:	Obojima: Tales from the Tall Grass p. 227 (Third Party)</text>
   </item>
   <!-- Combat Potions Rare -->
   <item>
-    <name>Withered Will</name>
+    <name>Withered Will [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -985,7 +985,7 @@ Source:	Obojima: Tales from the Tall Grass p. 228 (Third Party)</text>
     <roll description="Regain use">1d6</roll>
   </item>
   <item>
-    <name>Astounding Vigor</name>
+    <name>Astounding Vigor [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -994,7 +994,7 @@ Source:	Obojima: Tales from the Tall Grass p. 228 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 228 (Third Party)</text>
   </item>
   <item>
-    <name>Many Hands</name>
+    <name>Many Hands [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1004,7 +1004,7 @@ Source:	Obojima: Tales from the Tall Grass p. 228 (Third Party)</text>
     <roll description="Necrotic Damage">10d6</roll>
   </item>
   <item>
-    <name>Epic Bottled Bomb</name>
+    <name>Epic Bottled Bomb [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1014,7 +1014,7 @@ Source:	Obojima: Tales from the Tall Grass p. 228 (Third Party)</text>
     <roll description="Force Damage">20d6</roll>
   </item>
   <item>
-    <name>Essence of Great Rivers</name>
+    <name>Essence of Great Rivers [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1023,7 +1023,7 @@ Source:	Obojima: Tales from the Tall Grass p. 228 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 229 (Third Party)</text>
   </item>
   <item>
-    <name>Carla Cackletooth's Corruption Cocktail</name>
+    <name>Carla Cackletooth's Corruption Cocktail [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1032,7 +1032,7 @@ Source:	Obojima: Tales from the Tall Grass p. 229 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 229 (Third Party)</text>
   </item>
   <item>
-    <name>Hunter's Speed</name>
+    <name>Hunter's Speed [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1042,7 +1042,7 @@ Source:	Obojima: Tales from the Tall Grass p. 229 (Third Party)</text>
     <roll description="Extra Attacks">1d4</roll>
   </item>
   <item>
-    <name>Hero's Blade</name>
+    <name>Hero's Blade [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1051,7 +1051,7 @@ Source:	Obojima: Tales from the Tall Grass p. 229 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 229 (Third Party)</text>
   </item>
   <item>
-    <name>Severed Reaction</name>
+    <name>Severed Reaction [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1060,7 +1060,7 @@ Source:	Obojima: Tales from the Tall Grass p. 229 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 229 (Third Party)</text>
   </item>
   <item>
-    <name>Dragon Frog Transmutation</name>
+    <name>Dragon Frog Transmutation [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1070,7 +1070,7 @@ Source:	Obojima: Tales from the Tall Grass p. 229 (Third Party)</text>
   </item>
   <!-- Utility Potions Common -->
   <item>
-    <name>Sensorius Maximus</name>
+    <name>Sensorius Maximus [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1079,7 +1079,7 @@ Source:	Obojima: Tales from the Tall Grass p. 229 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 230 (Third Party)</text>
   </item>
   <item>
-    <name>Flip and Skip</name>
+    <name>Flip and Skip [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1088,7 +1088,7 @@ Source:	Obojima: Tales from the Tall Grass p. 230 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 230 (Third Party)</text>
   </item>
   <item>
-    <name>Brute Brew</name>
+    <name>Brute Brew [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1097,7 +1097,7 @@ Source:	Obojima: Tales from the Tall Grass p. 230 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 230 (Third Party)</text>
   </item>
   <item>
-    <name>Animal Affinity</name>
+    <name>Animal Affinity [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1106,7 +1106,7 @@ Source:	Obojima: Tales from the Tall Grass p. 230 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 230 (Third Party)</text>
   </item>
   <item>
-    <name>Detective's Tonic</name>
+    <name>Detective's Tonic [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1115,7 +1115,7 @@ Source:	Obojima: Tales from the Tall Grass p. 230 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 230 (Third Party)</text>
   </item>
   <item>
-    <name>Cave Diver</name>
+    <name>Cave Diver [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1124,7 +1124,7 @@ Source:	Obojima: Tales from the Tall Grass p. 230 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 230 (Third Party)</text>
   </item>
   <item>
-    <name>Perfect Memory</name>
+    <name>Perfect Memory [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1133,7 +1133,7 @@ Source:	Obojima: Tales from the Tall Grass p. 230 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 231 (Third Party)</text>
   </item>
   <item>
-    <name>Eyes of Akibu</name>
+    <name>Eyes of Akibu [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1142,7 +1142,7 @@ Source:	Obojima: Tales from the Tall Grass p. 231 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 231 (Third Party)</text>
   </item>
   <item>
-    <name>Glowskin</name>
+    <name>Glowskin [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1151,7 +1151,7 @@ Source:	Obojima: Tales from the Tall Grass p. 231 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 231 (Third Party)</text>
   </item>
   <item>
-    <name>Tiny Telekinesis</name>
+    <name>Tiny Telekinesis [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1160,7 +1160,7 @@ Source:	Obojima: Tales from the Tall Grass p. 231 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 231 (Third Party)</text>
   </item>
   <item>
-    <name>Irresistible Charm</name>
+    <name>Irresistible Charm [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1169,7 +1169,7 @@ Source:	Obojima: Tales from the Tall Grass p. 231 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 231 (Third Party)</text>
   </item>
   <item>
-    <name>Pathseeking</name>
+    <name>Pathseeking [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1178,7 +1178,7 @@ Source:	Obojima: Tales from the Tall Grass p. 231 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 231 (Third Party)</text>
   </item>
   <item>
-    <name>Iron Belly</name>
+    <name>Iron Belly [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1187,7 +1187,7 @@ Source:	Obojima: Tales from the Tall Grass p. 231 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 231 (Third Party)</text>
   </item>
   <item>
-    <name>Face of Fugari</name>
+    <name>Face of Fugari [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1196,7 +1196,7 @@ Source:	Obojima: Tales from the Tall Grass p. 231 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 231 (Third Party)</text>
   </item>
   <item>
-    <name>Duck Foot</name>
+    <name>Duck Foot [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1205,7 +1205,7 @@ Source:	Obojima: Tales from the Tall Grass p. 231 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 232 (Third Party)</text>
   </item>
   <item>
-    <name>Potion of Fog</name>
+    <name>Potion of Fog [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1214,7 +1214,7 @@ Source:	Obojima: Tales from the Tall Grass p. 232 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 232 (Third Party)</text>
   </item>
   <item>
-    <name>Secret Path</name>
+    <name>Secret Path [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1223,7 +1223,7 @@ Source:	Obojima: Tales from the Tall Grass p. 232 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 232 (Third Party)</text>
   </item>
   <item>
-    <name>Grandma's Turnip Soup</name>
+    <name>Grandma's Turnip Soup [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1233,7 +1233,7 @@ Source:	Obojima: Tales from the Tall Grass p. 232 (Third Party)</text>
     <roll description="Hit">1d4+%3</roll>
   </item>
   <item>
-    <name>Herbalist's Aid</name>
+    <name>Herbalist's Aid [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1242,7 +1242,7 @@ Source:	Obojima: Tales from the Tall Grass p. 232 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 232 (Third Party)</text>
   </item>
   <item>
-    <name>Homeward Tonic</name>
+    <name>Homeward Tonic [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1251,7 +1251,7 @@ Source:	Obojima: Tales from the Tall Grass p. 232 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 232 (Third Party)</text>
   </item>
   <item>
-    <name>Soft Paw</name>
+    <name>Soft Paw [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1260,7 +1260,7 @@ Source:	Obojima: Tales from the Tall Grass p. 232 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 232 (Third Party)</text>
   </item>
   <item>
-    <name>Potion of Healing Touch</name>
+    <name>Potion of Healing Touch [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1270,7 +1270,7 @@ Source:	Obojima: Tales from the Tall Grass p. 232 (Third Party)</text>
     <roll description="Heal">2d4</roll>
   </item>
   <item>
-    <name>Cat's Eye</name>
+    <name>Cat's Eye [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1279,7 +1279,7 @@ Source:	Obojima: Tales from the Tall Grass p. 232 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 233 (Third Party)</text>
   </item>
   <item>
-    <name>Liquid Mending</name>
+    <name>Liquid Mending [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1288,7 +1288,7 @@ Source:	Obojima: Tales from the Tall Grass p. 233 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 233 (Third Party)</text>
   </item>
   <item>
-    <name>Liquid Lockpick</name>
+    <name>Liquid Lockpick [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1298,7 +1298,7 @@ Source:	Obojima: Tales from the Tall Grass p. 233 (Third Party)</text>
     <roll description="Decrease Lockpick DC">1d4</roll>
   </item>
   <item>
-    <name>Language Lore</name>
+    <name>Language Lore [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1307,7 +1307,7 @@ Source:	Obojima: Tales from the Tall Grass p. 233 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 233 (Third Party)</text>
   </item>
   <item>
-    <name>Pig Snout</name>
+    <name>Pig Snout [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1316,7 +1316,7 @@ Source:	Obojima: Tales from the Tall Grass p. 233 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 233 (Third Party)</text>
   </item>
   <item>
-    <name>Machine Oil</name>
+    <name>Machine Oil [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1325,7 +1325,7 @@ Source:	Obojima: Tales from the Tall Grass p. 233 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 233 (Third Party)</text>
   </item>
   <item>
-    <name>Potion of Soft Steps</name>
+    <name>Potion of Soft Steps [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1334,7 +1334,7 @@ Source:	Obojima: Tales from the Tall Grass p. 233 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 233 (Third Party)</text>
   </item>
   <item>
-    <name>Liquid Cat</name>
+    <name>Liquid Cat [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1344,7 +1344,7 @@ Source:	Obojima: Tales from the Tall Grass p. 233 (Third Party)</text>
   </item>
   <!-- Utility Potions Uncommon -->
   <item>
-    <name>Twin Vision</name>
+    <name>Twin Vision [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1353,7 +1353,7 @@ Source:	Obojima: Tales from the Tall Grass p. 233 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 234 (Third Party)</text>
   </item>
   <item>
-    <name>Spirit Repellent</name>
+    <name>Spirit Repellent [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1362,7 +1362,7 @@ Source:	Obojima: Tales from the Tall Grass p. 234 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 234 (Third Party)</text>
   </item>
   <item>
-    <name>Essence of the River Spirit</name>
+    <name>Essence of the River Spirit [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1372,7 +1372,7 @@ Source:	Obojima: Tales from the Tall Grass p. 234 (Third Party)</text>
     <roll description="Heal">4d4+4</roll>
   </item>
   <item>
-    <name>Potion of Freezing</name>
+    <name>Potion of Freezing [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1381,7 +1381,7 @@ Source:	Obojima: Tales from the Tall Grass p. 234 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 234 (Third Party)</text>
   </item>
   <item>
-    <name>Potion of Attunement</name>
+    <name>Potion of Attunement [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1390,7 +1390,7 @@ Source:	Obojima: Tales from the Tall Grass p. 234 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 234 (Third Party)</text>
   </item>
   <item>
-    <name>Water Breathing</name>
+    <name>Water Breathing [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1399,7 +1399,7 @@ Source:	Obojima: Tales from the Tall Grass p. 234 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 235 (Third Party)</text>
   </item>
   <item>
-    <name>Liquid Dispel</name>
+    <name>Liquid Dispel [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1408,7 +1408,7 @@ Source:	Obojima: Tales from the Tall Grass p. 235 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 235 (Third Party)</text>
   </item>
   <item>
-    <name>Pocket Stomach</name>
+    <name>Pocket Stomach [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1417,7 +1417,7 @@ Source:	Obojima: Tales from the Tall Grass p. 235 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 235 (Third Party)</text>
   </item>
   <item>
-    <name>Liquid Arcana</name>
+    <name>Liquid Arcana [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1426,7 +1426,7 @@ Source:	Obojima: Tales from the Tall Grass p. 235 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 235 (Third Party)</text>
   </item>
   <item>
-    <name>Arcane Solvent</name>
+    <name>Arcane Solvent [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1435,7 +1435,7 @@ Source:	Obojima: Tales from the Tall Grass p. 235 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 235 (Third Party)</text>
   </item>
   <item>
-    <name>Gardner's Solution</name>
+    <name>Gardner's Solution [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1444,7 +1444,7 @@ Source:	Obojima: Tales from the Tall Grass p. 235 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 235 (Third Party)</text>
   </item>
   <item>
-    <name>Potion of Exertion</name>
+    <name>Potion of Exertion [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1453,7 +1453,7 @@ Source:	Obojima: Tales from the Tall Grass p. 235 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 235 (Third Party)</text>
   </item>
   <item>
-    <name>Breakfast in a Bottle</name>
+    <name>Breakfast in a Bottle [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1462,7 +1462,7 @@ Source:	Obojima: Tales from the Tall Grass p. 235 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 235 (Third Party)</text>
   </item>
   <item>
-    <name>Twin Telepathy</name>
+    <name>Twin Telepathy [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1471,7 +1471,7 @@ Source:	Obojima: Tales from the Tall Grass p. 235 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 236 (Third Party)</text>
   </item>
   <item>
-    <name>Potion of Reprieve</name>
+    <name>Potion of Reprieve [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1480,7 +1480,7 @@ Source:	Obojima: Tales from the Tall Grass p. 236 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 236 (Third Party)</text>
   </item>
   <item>
-    <name>Uncanny Focus</name>
+    <name>Uncanny Focus [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1489,7 +1489,7 @@ Source:	Obojima: Tales from the Tall Grass p. 236 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 236 (Third Party)</text>
   </item>
   <item>
-    <name>Meditative Trance</name>
+    <name>Meditative Trance [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1498,7 +1498,7 @@ Source:	Obojima: Tales from the Tall Grass p. 236 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 236 (Third Party)</text>
   </item>
   <item>
-    <name>Potion of Holistic Wellness</name>
+    <name>Potion of Holistic Wellness [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1508,7 +1508,7 @@ Source:	Obojima: Tales from the Tall Grass p. 236 (Third Party)</text>
     <roll description="Heal">4d8+4</roll>
   </item>
   <item>
-    <name>Sharp Mind</name>
+    <name>Sharp Mind [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1517,7 +1517,7 @@ Source:	Obojima: Tales from the Tall Grass p. 236 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 236 (Third Party)</text>
   </item>
   <item>
-    <name>Mind Over Might</name>
+    <name>Mind Over Might [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1527,7 +1527,7 @@ Source:	Obojima: Tales from the Tall Grass p. 236 (Third Party)</text>
   </item>
   <!-- Utility Potions Rare -->
   <item>
-    <name>Simulacrum Elixir</name>
+    <name>Simulacrum Elixir [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1537,7 +1537,7 @@ Source:	Obojima: Tales from the Tall Grass p. 236 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 237 (Third Party)</text>
   </item>
   <item>
-    <name>Hidden Hand</name>
+    <name>Hidden Hand [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1546,7 +1546,7 @@ Source:	Obojima: Tales from the Tall Grass p. 237 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 237 (Third Party)</text>
   </item>
   <item>
-    <name>Last Resort</name>
+    <name>Last Resort [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1566,7 +1566,7 @@ Source:	Obojima: Tales from the Tall Grass p. 237 (Third Party)</text>
     <roll description="Measurement">1d6</roll>
   </item>
   <item>
-    <name>Elixir of Echoes</name>
+    <name>Elixir of Echoes [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1575,7 +1575,7 @@ Source:	Obojima: Tales from the Tall Grass p. 237 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 238 (Third Party)</text>
   </item>
   <item>
-    <name>Blessing of the Moon Spirit</name>
+    <name>Blessing of the Moon Spirit [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1586,7 +1586,7 @@ Source:	Obojima: Tales from the Tall Grass p. 238 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 238 (Third Party)</text>
   </item>
   <item>
-    <name>Bowark's Bombastic Beer</name>
+    <name>Bowark's Bombastic Beer [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1595,7 +1595,7 @@ Source:	Obojima: Tales from the Tall Grass p. 238 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 238 (Third Party)</text>
   </item>
   <item>
-    <name>Unified Might</name>
+    <name>Unified Might [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1604,7 +1604,7 @@ Source:	Obojima: Tales from the Tall Grass p. 238 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 238 (Third Party)</text>
   </item>
   <item>
-    <name>Umi's Powerful Undertow</name>
+    <name>Umi's Powerful Undertow [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1614,7 +1614,7 @@ Source:	Obojima: Tales from the Tall Grass p. 238 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 238 (Third Party)</text>
   </item>
   <item>
-    <name>Island Nectar</name>
+    <name>Island Nectar [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1623,7 +1623,7 @@ Source:	Obojima: Tales from the Tall Grass p. 238 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 239 (Third Party)</text>
   </item>
   <item>
-    <name>Elixir of Omnimind</name>
+    <name>Elixir of Omnimind [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1633,7 +1633,7 @@ Source:	Obojima: Tales from the Tall Grass p. 239 (Third Party)</text>
   </item>
   <!-- Whimsical Potions Common -->
   <item>
-    <name>Melodious Bird Calls</name>
+    <name>Melodious Bird Calls [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1642,7 +1642,7 @@ Source:	Obojima: Tales from the Tall Grass p. 239 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 239 (Third Party)</text>
   </item>
   <item>
-    <name>Projected Thoughts</name>
+    <name>Projected Thoughts [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1651,7 +1651,7 @@ Source:	Obojima: Tales from the Tall Grass p. 239 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 239 (Third Party)</text>
   </item>
   <item>
-    <name>Intoxicating Aroma</name>
+    <name>Intoxicating Aroma [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1660,7 +1660,7 @@ Source:	Obojima: Tales from the Tall Grass p. 239 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 239 (Third Party)</text>
   </item>
   <item>
-    <name>Ladybug Kinship</name>
+    <name>Ladybug Kinship [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1669,7 +1669,7 @@ Source:	Obojima: Tales from the Tall Grass p. 239 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 239 (Third Party)</text>
   </item>
   <item>
-    <name>Essence of Umami</name>
+    <name>Essence of Umami [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1678,7 +1678,7 @@ Source:	Obojima: Tales from the Tall Grass p. 239 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 240 (Third Party)</text>
   </item>
   <item>
-    <name>Vocal Stranger</name>
+    <name>Vocal Stranger [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1687,7 +1687,7 @@ Source:	Obojima: Tales from the Tall Grass p. 240 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 240 (Third Party)</text>
   </item>
   <item>
-    <name>Beard Brew</name>
+    <name>Beard Brew [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1696,7 +1696,7 @@ Source:	Obojima: Tales from the Tall Grass p. 240 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 240 (Third Party)</text>
   </item>
   <item>
-    <name>Photosynthetic Skin</name>
+    <name>Photosynthetic Skin [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1705,7 +1705,7 @@ Source:	Obojima: Tales from the Tall Grass p. 240 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 240 (Third Party)</text>
   </item>
   <item>
-    <name>Paradise Plumage</name>
+    <name>Paradise Plumage [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1714,7 +1714,7 @@ Source:	Obojima: Tales from the Tall Grass p. 240 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 240 (Third Party)</text>
   </item>
   <item>
-    <name>Musical Mixer</name>
+    <name>Musical Mixer [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1723,7 +1723,7 @@ Source:	Obojima: Tales from the Tall Grass p. 240 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 240 (Third Party)</text>
   </item>
   <item>
-    <name>Stink Brew</name>
+    <name>Stink Brew [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1733,7 +1733,7 @@ Source:	Obojima: Tales from the Tall Grass p. 240 (Third Party)</text>
     <roll description="Rounds">1d4</roll>
   </item>
   <item>
-    <name>Duko the Trickster's Elixir</name>
+    <name>Duko the Trickster's Elixir [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1742,7 +1742,7 @@ Source:	Obojima: Tales from the Tall Grass p. 240 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 240 (Third Party)</text>
   </item>
   <item>
-    <name>Manifested Nostalgia</name>
+    <name>Manifested Nostalgia [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1752,7 +1752,7 @@ and your Strength and Dexterity become 10, unless those scores are already less 
 Source:	Obojima: Tales from the Tall Grass p. 241 (Third Party)</text>
   </item>
   <item>
-    <name>Pigment</name>
+    <name>Pigment [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1761,7 +1761,7 @@ Source:	Obojima: Tales from the Tall Grass p. 241 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 241 (Third Party)</text>
   </item>
   <item>
-    <name>Audio Oddity</name>
+    <name>Audio Oddity [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1770,7 +1770,7 @@ Source:	Obojima: Tales from the Tall Grass p. 241 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 241 (Third Party)</text>
   </item>
   <item>
-    <name>Hindsight</name>
+    <name>Hindsight [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1779,7 +1779,7 @@ Source:	Obojima: Tales from the Tall Grass p. 241 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 241 (Third Party)</text>
   </item>
   <item>
-    <name>Super Singing</name>
+    <name>Super Singing [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1788,7 +1788,7 @@ Source:	Obojima: Tales from the Tall Grass p. 241 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 241 (Third Party)</text>
   </item>
   <item>
-    <name>Fluffplum Tonic</name>
+    <name>Fluffplum Tonic [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1797,7 +1797,7 @@ Source:	Obojima: Tales from the Tall Grass p. 241 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 241 (Third Party)</text>
   </item>
   <item>
-    <name>Merriment</name>
+    <name>Merriment [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1806,7 +1806,7 @@ Source:	Obojima: Tales from the Tall Grass p. 241 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 241 (Third Party)</text>
   </item>
   <item>
-    <name>Bubble Message</name>
+    <name>Bubble Message [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1815,7 +1815,7 @@ Source:	Obojima: Tales from the Tall Grass p. 241 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 241 (Third Party)</text>
   </item>
   <item>
-    <name>Crystal Clear</name>
+    <name>Crystal Clear [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1825,7 +1825,7 @@ Source:	Obojima: Tales from the Tall Grass p. 242 (Third Party)</text>
     <roll description="Hours">1d4</roll>
   </item>
   <item>
-    <name>Elder Elixir</name>
+    <name>Elder Elixir [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1835,7 +1835,7 @@ Source:	Obojima: Tales from the Tall Grass p. 242 (Third Party)</text>
     <roll description="Months">1d12</roll>
   </item>
   <item>
-    <name>Witch's Hidden Gem</name>
+    <name>Witch's Hidden Gem [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1844,7 +1844,7 @@ Source:	Obojima: Tales from the Tall Grass p. 242 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 242 (Third Party)</text>
   </item>
   <item>
-    <name>Carbonated Snake</name>
+    <name>Carbonated Snake [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1853,7 +1853,7 @@ Source:	Obojima: Tales from the Tall Grass p. 242 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 242 (Third Party)</text>
   </item>
   <item>
-    <name>Shadow Child</name>
+    <name>Shadow Child [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1862,7 +1862,7 @@ Source:	Obojima: Tales from the Tall Grass p. 242 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 242 (Third Party)</text>
   </item>
   <item>
-    <name>Hsirebbig</name>
+    <name>Hsirebbig [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1871,7 +1871,7 @@ Source:	Obojima: Tales from the Tall Grass p. 242 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 242 (Third Party)</text>
   </item>
   <item>
-    <name>Sky Swimming</name>
+    <name>Sky Swimming [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1880,7 +1880,7 @@ Source:	Obojima: Tales from the Tall Grass p. 242 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 242 (Third Party)</text>
   </item>
   <item>
-    <name>Passing Memory</name>
+    <name>Passing Memory [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1889,7 +1889,7 @@ Source:	Obojima: Tales from the Tall Grass p. 242 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 242 (Third Party)</text>
   </item>
   <item>
-    <name>Bottled Slime</name>
+    <name>Bottled Slime [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1898,7 +1898,7 @@ Source:	Obojima: Tales from the Tall Grass p. 242 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 243 (Third Party)</text>
   </item>
   <item>
-    <name>Oil of the Trademark Flourish</name>
+    <name>Oil of the Trademark Flourish [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1907,7 +1907,7 @@ Source:	Obojima: Tales from the Tall Grass p. 243 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 243 (Third Party)</text>
   </item>
   <item>
-    <name>Mosspot</name>
+    <name>Mosspot [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1916,7 +1916,7 @@ Source:	Obojima: Tales from the Tall Grass p. 243 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 243 (Third Party)</text>
   </item>
   <item>
-    <name>Incredible Luck</name>
+    <name>Incredible Luck [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1926,7 +1926,7 @@ Source:	Obojima: Tales from the Tall Grass p. 243 (Third Party)</text>
     <roll description="Ability Checks">1d4</roll>
   </item>
   <item>
-    <name>Grand Friendship</name>
+    <name>Grand Friendship [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1935,7 +1935,7 @@ Source:	Obojima: Tales from the Tall Grass p. 243 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 243 (Third Party)</text>
   </item>
   <item>
-    <name>Witch's Lament</name>
+    <name>Witch's Lament [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1944,7 +1944,7 @@ Source:	Obojima: Tales from the Tall Grass p. 243 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 243 (Third Party)</text>
   </item>
   <item>
-    <name>Spirit Appendage</name>
+    <name>Spirit Appendage [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1954,7 +1954,7 @@ Source:	Obojima: Tales from the Tall Grass p. 244 (Third Party)</text>
     <roll description="Days">1d12</roll>
   </item>
   <item>
-    <name>Move a Thing</name>
+    <name>Move a Thing [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1964,7 +1964,7 @@ Source:	Obojima: Tales from the Tall Grass p. 244 (Third Party)</text>
     <roll description="Pounds">1d100</roll>
   </item>
   <item>
-    <name>Gobble Gunk</name>
+    <name>Gobble Gunk [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1973,7 +1973,7 @@ Source:	Obojima: Tales from the Tall Grass p. 244 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 244 (Third Party)</text>
   </item>
   <item>
-    <name>Pocket Portal</name>
+    <name>Pocket Portal [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1982,7 +1982,7 @@ Source:	Obojima: Tales from the Tall Grass p. 244 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 244 (Third Party)</text>
   </item>
   <item>
-    <name>Don't Eat Dirt</name>
+    <name>Don't Eat Dirt [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1991,7 +1991,7 @@ Source:	Obojima: Tales from the Tall Grass p. 244 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 244 (Third Party)</text>
   </item>
   <item>
-    <name>Lunar Elixir</name>
+    <name>Lunar Elixir [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2000,7 +2000,7 @@ Source:	Obojima: Tales from the Tall Grass p. 244 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 244 (Third Party)</text>
   </item>
   <item>
-    <name>Lifetime Supply</name>
+    <name>Lifetime Supply [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2010,7 +2010,7 @@ Source:	Obojima: Tales from the Tall Grass p. 244 (Third Party)</text>
     <roll description="Feet of Hair">(1d4+2)x100</roll>
   </item>
   <item>
-    <name>Invisible Tonic</name>
+    <name>Invisible Tonic [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2019,7 +2019,7 @@ Source:	Obojima: Tales from the Tall Grass p. 244 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 244 (Third Party)</text>
   </item>
   <item>
-    <name>Liquid Disguise</name>
+    <name>Liquid Disguise [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2028,7 +2028,7 @@ Source:	Obojima: Tales from the Tall Grass p. 244 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 245 (Third Party)</text>
   </item>
   <item>
-    <name>Spirit Sweets</name>
+    <name>Spirit Sweets [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2038,7 +2038,7 @@ Source:	Obojima: Tales from the Tall Grass p. 245 (Third Party)</text>
     <roll description="Days">1d4</roll>
   </item>
   <item>
-    <name>A New Look</name>
+    <name>A New Look [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2047,7 +2047,7 @@ Source:	Obojima: Tales from the Tall Grass p. 245 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 245 (Third Party)</text>
   </item>
   <item>
-    <name>Shadow Puppet</name>
+    <name>Shadow Puppet [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2056,7 +2056,7 @@ Source:	Obojima: Tales from the Tall Grass p. 245 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 245 (Third Party)</text>
   </item>
   <item>
-    <name>Object Embodiment</name>
+    <name>Object Embodiment [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2065,7 +2065,7 @@ Source:	Obojima: Tales from the Tall Grass p. 245 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 245 (Third Party)</text>
   </item>
   <item>
-    <name>Phoenix Elixir</name>
+    <name>Phoenix Elixir [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2074,7 +2074,7 @@ Source:	Obojima: Tales from the Tall Grass p. 245 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 245 (Third Party)</text>
   </item>
   <item>
-    <name>Unknown Elixir</name>
+    <name>Unknown Elixir [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2083,7 +2083,7 @@ Source:	Obojima: Tales from the Tall Grass p. 245 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 246 (Third Party)</text>
   </item>
   <item>
-    <name>Illusion in a Bottle</name>
+    <name>Illusion in a Bottle [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2092,7 +2092,7 @@ Source:	Obojima: Tales from the Tall Grass p. 246 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 246 (Third Party)</text>
   </item>
   <item>
-    <name>Homegrown</name>
+    <name>Homegrown [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2101,7 +2101,7 @@ Source:	Obojima: Tales from the Tall Grass p. 246 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 246 (Third Party)</text>
   </item>
   <item>
-    <name>New Life</name>
+    <name>New Life [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2110,7 +2110,7 @@ Source:	Obojima: Tales from the Tall Grass p. 246 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 246 (Third Party)</text>
   </item>
   <item>
-    <name>Mind Transfer</name>
+    <name>Mind Transfer [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2119,7 +2119,7 @@ Source:	Obojima: Tales from the Tall Grass p. 246 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 247 (Third Party)</text>
   </item>
   <item>
-    <name>Ups-A-Daisy</name>
+    <name>Ups-A-Daisy [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2128,7 +2128,7 @@ Source:	Obojima: Tales from the Tall Grass p. 247 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 247 (Third Party)</text>
   </item>
   <item>
-    <name>Spiritual Rebuke</name>
+    <name>Spiritual Rebuke [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2137,7 +2137,7 @@ Source:	Obojima: Tales from the Tall Grass p. 247 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 247 (Third Party)</text>
   </item>
   <item>
-    <name>Newly Found Magic</name>
+    <name>Newly Found Magic [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2146,7 +2146,7 @@ Source:	Obojima: Tales from the Tall Grass p. 247 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 247 (Third Party)</text>
   </item>
   <item>
-    <name>Crafter's Brew</name>
+    <name>Crafter's Brew [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2155,7 +2155,7 @@ Source:	Obojima: Tales from the Tall Grass p. 247 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 248 (Third Party)</text>
   </item>
   <item>
-    <name>Dancing Feet</name>
+    <name>Dancing Feet [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2164,7 +2164,7 @@ Source:	Obojima: Tales from the Tall Grass p. 248 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 248 (Third Party)</text>
   </item>
   <item>
-    <name>Chicken Chaser</name>
+    <name>Chicken Chaser [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2174,7 +2174,7 @@ Source:	Obojima: Tales from the Tall Grass p. 248 (Third Party)</text>
     <roll description="Slashing Damage">30d6</roll>
   </item>
   <item>
-    <name>Disappearing Act</name>
+    <name>Disappearing Act [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2184,7 +2184,7 @@ Source:	Obojima: Tales from the Tall Grass p. 248 (Third Party)</text>
     <roll description="Slashing Damage">30d6</roll>
   </item>
   <item>
-    <name>Sunken Suitcase</name>
+    <name>Sunken Suitcase [TP Legacy]</name>
     <detail>wondrous</detail>
     <type>W</type>
     <text>This magic suitcase is indestructible and fully sealed from the outside world. When closed, it magically locks itself, setting its DC equal to 1d20+5.

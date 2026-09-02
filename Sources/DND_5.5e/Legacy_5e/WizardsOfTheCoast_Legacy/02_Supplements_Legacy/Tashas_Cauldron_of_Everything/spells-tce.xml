@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Blade of Disaster</name>
+    <name>Blade of Disaster [Legacy]</name>
     <level>9</level>
     <school>C</school>
     <time>1 bonus action</time>
@@ -20,7 +20,7 @@ Source:	Tasha's Cauldron of Everything p. 106,
     <roll description="Force Damage">12d12</roll>
   </spell>
   <spell>
-    <name>Booming Blade</name>
+    <name>Booming Blade [Legacy]</name>
     <level>0</level>
     <school>EV</school>
     <time>1 action</time>
@@ -40,7 +40,7 @@ Source:	Tasha's Cauldron of Everything p. 106,
     <roll description="Thunder Damage" level="17">4d8</roll>
   </spell>
   <spell>
-    <name>Dream of the Blue Veil</name>
+    <name>Dream of the Blue Veil [Legacy]</name>
     <level>7</level>
     <school>C</school>
     <time>10 minutes</time>
@@ -55,7 +55,7 @@ Source:	Tasha's Cauldron of Everything p. 106,
 Source:	Tasha's Cauldron of Everything p. 106</text>
   </spell>
   <spell>
-    <name>Green-Flame Blade</name>
+    <name>Green-Flame Blade [Legacy]</name>
     <level>0</level>
     <school>EV</school>
     <time>1 action</time>
@@ -77,7 +77,7 @@ Source:	Tasha's Cauldron of Everything p. 107,
     <roll description="Fire Damage" level="17">3d8+%0</roll>
   </spell>
   <spell>
-    <name>Intellect Fortress</name>
+    <name>Intellect Fortress [Legacy]</name>
     <level>3</level>
     <school>A</school>
     <time>1 action</time>
@@ -92,7 +92,7 @@ At Higher Levels: When you cast this spell using a spell slot of 4th level or hi
 Source:	Tasha's Cauldron of Everything p. 107</text>
   </spell>
   <spell>
-    <name>Lightning Lure</name>
+    <name>Lightning Lure [Legacy]</name>
     <level>0</level>
     <school>EV</school>
     <time>1 action</time>
@@ -132,7 +132,7 @@ Source:	Tasha's Cauldron of Everything p. 108</text>
     <roll description="Subtract from Saving Roll">1d4</roll>
   </spell> -->
   <spell>
-    <name>Spirit Shroud</name>
+    <name>Spirit Shroud [Legacy]</name>
     <level>3</level>
     <school>N</school>
     <time>1 bonus action</time>
@@ -265,7 +265,7 @@ At Higher Levels: When you cast this spell using a spell slot of 7th level or hi
 Source:	Tasha's Cauldron of Everything p. 112</text>
   </spell> -->
   <spell>
-    <name>Summon Shadowspawn</name>
+    <name>Summon Shadowspawn [Legacy]</name>
     <level>3</level>
     <school>C</school>
     <time>1 action</time>
@@ -297,7 +297,7 @@ At Higher Levels: When you cast this spell using a spell slot of 4th level or hi
 Source:	Tasha's Cauldron of Everything p. 114</text>
   </spell> -->
   <spell>
-    <name>Sword Burst</name>
+    <name>Sword Burst [Legacy]</name>
     <level>0</level>
     <school>C</school>
     <time>1 action</time>
@@ -317,7 +317,7 @@ Source:	Tasha's Cauldron of Everything p. 115,
     <roll description="Force Damage" level="17">4d6</roll>
   </spell>
   <spell>
-    <name>Tasha's Caustic Brew</name>
+    <name>Tasha's Caustic Brew [Legacy]</name>
     <level>1</level>
     <school>EV</school>
     <time>1 action</time>
@@ -341,7 +341,7 @@ Source:	Tasha's Cauldron of Everything p. 115</text>
     <roll description="Acid Damage" level="9">10d4</roll>
   </spell>
   <spell>
-    <name>Tasha's Mind Whip</name>
+    <name>Tasha's Mind Whip [Legacy]</name>
     <level>2</level>
     <school>EN</school>
     <time>1 action</time>
@@ -357,7 +357,7 @@ Source:	Tasha's Cauldron of Everything p. 115</text>
     <roll description="Psychic Damage">3d6</roll>
   </spell>
   <spell>
-    <name>Tasha's Otherworldly Guise</name>
+    <name>Tasha's Otherworldly Guise [Legacy]</name>
     <level>6</level>
     <school>T</school>
     <time>1 bonus action</time>

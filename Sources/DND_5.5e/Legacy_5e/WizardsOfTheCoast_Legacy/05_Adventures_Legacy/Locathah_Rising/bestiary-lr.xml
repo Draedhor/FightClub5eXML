@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Amble</name>
+    <name>Amble [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (tortle)</type>
@@ -85,7 +85,7 @@ Amble can't cast spells, and their ability to speak or take any action that requ
     <environment/>
   </monster>
   <monster>
-    <name>Fhenimore</name>
+    <name>Fhenimore [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -144,7 +144,7 @@ Amble can't cast spells, and their ability to speak or take any action that requ
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
-    <name>Fhenimore (Kraken Priest Variant)</name>
+    <name>Fhenimore (Kraken Priest Variant) [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -203,7 +203,7 @@ Amble can't cast spells, and their ability to speak or take any action that requ
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
-    <name>Gar Shatterkeel-Locathah Rising</name>
+    <name>Gar Shatterkeel-Locathah Rising [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -321,7 +321,7 @@ If Gar casts cure wounds using this lair action, he regains the maximum number o
     <environment/>
   </monster>
   <monster>
-    <name>Shoalar Quanderil-Locathah Rising</name>
+    <name>Shoalar Quanderil-Locathah Rising [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (water genasi)</type>
@@ -377,7 +377,7 @@ If Gar casts cure wounds using this lair action, he regains the maximum number o
     <environment/>
   </monster>
   <monster>
-    <name>Whymsee</name>
+    <name>Whymsee [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -432,7 +432,7 @@ If Gar casts cure wounds using this lair action, he regains the maximum number o
     <environment>coastal, underwater</environment>
   </monster>
   <monster>
-    <name>Young Kraken</name>
+    <name>Young Kraken [Legacy]</name>
     <sortname>Kraken, Young</sortname>
     <ancestry>Kraken</ancestry>
     <size>H</size>

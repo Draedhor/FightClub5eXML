@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Bryn Harjolf</name>
+    <name>Bryn Harjolf [TP Legacy]</name>
     <ancestry>Knight</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -65,7 +65,7 @@ Source:	Grim Hollow: Campaign Guide p. 223 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Vieri Barboro</name>
+    <name>Vieri Barboro [TP Legacy]</name>
     <sortname>Barboro, Vieri</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -146,7 +146,7 @@ Source:	Grim Hollow: Campaign Guide p. 223 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jarah Blackthane</name>
+    <name>Jarah Blackthane [TP Legacy]</name>
     <sortname>Blackthane, Jarah</sortname>
     <ancestry>Veteran</ancestry>
     <npc>YES</npc>
@@ -197,7 +197,7 @@ Source:	Grim Hollow: Campaign Guide p. 224 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Aren</name>
+    <name>Aren [TP Legacy]</name>
     <ancestry>Spy</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -256,7 +256,7 @@ Source:	Grim Hollow: Campaign Guide p. 224 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Mouse</name>
+    <name>Mouse [TP Legacy]</name>
     <ancestry>Commoner</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -295,7 +295,7 @@ Source:	Grim Hollow: Campaign Guide p. 224 (Third Party),
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Inorim Azeem</name>
+    <name>Inorim Azeem [TP Legacy]</name>
     <sortname>Azeem, Inorim</sortname>
     <ancestry>Archmage</ancestry>
     <npc>YES</npc>
@@ -368,7 +368,7 @@ Source:	Grim Hollow: Campaign Guide p. 224 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Torven Chimer</name>
+    <name>Torven Chimer [TP Legacy]</name>
     <sortname>Chimer, Torven</sortname>
     <ancestry>Commoner</ancestry>
     <npc>YES</npc>
@@ -407,7 +407,7 @@ Source:	Grim Hollow: Campaign Guide p. 236 (Third Party),
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Skellna Archbane</name>
+    <name>Skellna Archbane [TP Legacy]</name>
     <sortname>Archbane, Skellna</sortname>
     <ancestry>Mage</ancestry>
     <npc>YES</npc>
@@ -470,7 +470,7 @@ Source:	Grim Hollow: Campaign Guide p. 236 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Eldhyl Archbane</name>
+    <name>Eldhyl Archbane [TP Legacy]</name>
     <sortname>Archbane, Eldhyl</sortname>
     <ancestry>Noble</ancestry>
     <npc>YES</npc>
@@ -515,7 +515,7 @@ Source:	Grim Hollow: Campaign Guide p. 236 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Falkia Coldheart</name>
+    <name>Falkia Coldheart [TP Legacy]</name>
     <sortname>Coldheart, Falkia</sortname>
     <ancestry>Vampire</ancestry>
     <npc>YES</npc>
@@ -677,7 +677,7 @@ Source:	Grim Hollow: Campaign Guide p. 236 (Third Party),
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Lieutenant Doze</name>
+    <name>Lieutenant Doze [TP Legacy]</name>
     <sortname>Doze (Lieutenant)</sortname>
     <ancestry>Knight</ancestry>
     <npc>YES</npc>
@@ -740,7 +740,7 @@ Source:	Grim Hollow: Campaign Guide p. 236 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Ser Hugues le Généreux</name>
+    <name>Ser Hugues le Généreux [TP Legacy]</name>
     <sortname>le Généreux, Hugues (Ser)</sortname>
     <ancestry>Knight</ancestry>
     <npc>YES</npc>
@@ -788,7 +788,7 @@ Source:	Grim Hollow: Campaign Guide p. 246 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ymdrin Khaesir</name>
+    <name>Ymdrin Khaesir [TP Legacy]</name>
     <sortname>Khaesir, Ymdrin</sortname>
     <ancestry>Mage</ancestry>
     <npc>YES</npc>
@@ -848,7 +848,7 @@ Source:	Grim Hollow: Campaign Guide p. 246 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Mother Hedwige</name>
+    <name>Mother Hedwige [TP Legacy]</name>
     <sortname>Hedwige, Mother</sortname>
     <ancestry>Priest</ancestry>
     <npc>YES</npc>
@@ -906,7 +906,7 @@ Source:	Grim Hollow: Campaign Guide p. 246 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Blood Knight</name>
+    <name>Blood Knight [TP Legacy]</name>
     <sortname>Knight, Blood</sortname>
     <ancestry>Knight</ancestry>
     <npc>YES</npc>
@@ -952,7 +952,7 @@ Source:	Grim Hollow: Campaign Guide p. 246 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Daelron</name>
+    <name>Daelron [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf)</type>
@@ -1019,7 +1019,7 @@ Source:	Grim Hollow: Campaign Guide p. 257 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bloated Gastromorph</name>
+    <name>Bloated Gastromorph [TP Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -1087,7 +1087,7 @@ Source:	Grim Hollow: Campaign Guide p. 259 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dream Whisperer</name>
+    <name>Dream Whisperer [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -1155,7 +1155,7 @@ Source:	Grim Hollow: Campaign Guide p. 260 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Verminous Abomination</name>
+    <name>Verminous Abomination [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Neutral</alignment>
@@ -1222,7 +1222,7 @@ Source:	Grim Hollow: Campaign Guide p. 262 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Avatar of Slaughter</name>
+    <name>Avatar of Slaughter [TP Legacy]</name>
     <size>L</size>
     <type>fiend</type>
     <alignment>Chaotic Evil</alignment>
@@ -1300,7 +1300,7 @@ Source:	Grim Hollow: Campaign Guide p. 264 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Weeping Willow</name>
+    <name>Weeping Willow [TP Legacy]</name>
     <size>L</size>
     <type>plant</type>
     <alignment>Neutral Evil</alignment>
@@ -1378,7 +1378,7 @@ Source:	Grim Hollow: Campaign Guide p. 266 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Body Snatcher</name>
+    <name>Body Snatcher [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -1444,7 +1444,7 @@ Source:	Grim Hollow: Campaign Guide p. 269 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Plague Carrion</name>
+    <name>Plague Carrion [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Neutral</alignment>
@@ -1512,7 +1512,7 @@ Source:	Grim Hollow: Campaign Guide p. 270 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Herald of Calamity</name>
+    <name>Herald of Calamity [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Aasimar, Court (TP)</name>
+    <name>Aasimar, Court [TP Legacy]</name>
     <displayname>Court Aasimar</displayname>
     <ancestry>Aasimar</ancestry>
     <size>M</size>
@@ -135,7 +135,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Aasimar, Seeker (TP)</name>
+    <name>Aasimar, Seeker [TP Legacy]</name>
     <displayname>Seeker Aasimar</displayname>
     <ancestry>Aasimar</ancestry>
     <size>M</size>
@@ -259,7 +259,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Aasimar, Fernian (TP)</name>
+    <name>Aasimar, Fernian [TP Legacy]</name>
     <displayname>Fernian Aasimar</displayname>
     <ancestry>Aasimar</ancestry>
     <size>M</size>
@@ -374,7 +374,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Aasimar, Mabaran (TP)</name>
+    <name>Aasimar, Mabaran [TP Legacy]</name>
     <displayname>Mabaran Aasimar</displayname>
     <ancestry>Aasimar</ancestry>
     <size>M</size>
@@ -491,7 +491,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Elf, Aereni (TP)</name>
+    <name>Elf, Aereni [TP Legacy]</name>
     <displayname>Aereni Elf</displayname>
     <ancestry>Elf</ancestry>
     <size>M</size>
@@ -601,7 +601,7 @@ If you meditate during a long rest, you finish the rest after only 4 hours. You 
     </trait>
   </race>
   <race>
-    <name>Dwarf, Ruinbound (TP)</name>
+    <name>Dwarf, Ruinbound [TP Legacy]</name>
     <displayname>Ruinbound Dwarf</displayname>
     <ancestry>Dwarf</ancestry>
     <size>M</size>
@@ -745,7 +745,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
 
 Source:	Exploring Eberron p. 210 (Third Party)</text></trait><trait><name>Ability Score Increase</name><text>Your Constitution score increases by 2.</text></trait><trait><name>Age</name><text>Ghaal'dar mature at the same rate as humans and have lifespans similar to theirs.</text></trait><trait><name>Size</name><text>Ghaal'dar are between 5 and 6 feet tall and weigh between 150 and 200 pounds. Your size is Medium.</text></trait><trait><name>Speed</name><text>Your base walking speed is 30 feet.</text></trait><trait category="species"><name>Darkvision</name><text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text></trait><trait category="species"><name>Discipline</name><text>You have advantage on saving throws against being charmed.</text></trait><trait><name>Languages</name><text>You can speak, read, and write Common and Goblin.</text></trait></race>-->
   <race>
-    <name>Dhakaani Ghaal'dar, Guide (Hobgoblin) (TP)</name>
+    <name>Dhakaani Ghaal'dar, Guide (Hobgoblin) [TP Legacy]</name>
     <displayname>Guide Dhakaani Ghaal'dar</displayname>
     <ancestry>Dhakaani Ghaal'dar</ancestry>
     <size>M</size>
@@ -805,7 +805,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Dhakaani Ghaal'dar, Soldier (Hobgoblin) (TP)</name>
+    <name>Dhakaani Ghaal'dar, Soldier (Hobgoblin) [TP Legacy]</name>
     <displayname>Soldier Dhakaani Ghaal'dar</displayname>
     <ancestry>Dhakaani Ghaal'dar</ancestry>
     <size>M</size>
@@ -875,7 +875,7 @@ Size modifier = 2d4
 Height = 3 feet + 5 inches + your size modifier in inches
 Weight in pounds = 35 + your size modifier</text><roll description="Size Modifier">2d4</roll></trait><trait><name>Speed</name><text>Your base walking speed is 30 feet.</text></trait><trait category="species"><name>Darkvision</name><text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text></trait><trait category="species"><name>Naturally Stealthy</name><text>You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.</text></trait><trait><name>Languages</name><text>You can speak, read, and write Common and Goblin.</text></trait></race>-->
   <race>
-    <name>Dhakaani Golin'dar, Artisan (Goblin) (TP)</name>
+    <name>Dhakaani Golin'dar, Artisan (Goblin) [TP Legacy]</name>
     <displayname>Artisan Dhakaani Golin'dar</displayname>
     <ancestry>Dhakaani Golin'dar</ancestry>
     <size>S</size>
@@ -930,7 +930,7 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
   </race>
   <race>
-    <name>Dhakaani Golin'dar, Khesh'dar (Goblin) (TP)</name>
+    <name>Dhakaani Golin'dar, Khesh'dar (Goblin) [TP Legacy]</name>
     <displayname>Khesh'Dar Dhakaani Golin'dar</displayname>
     <ancestry>Dhakaani Golin'dar</ancestry>
     <size>S</size>
@@ -986,7 +986,7 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
   </race>
   <race>
-    <name>Dhakaani Guul'dar (Bugbear) (TP)</name>
+    <name>Dhakaani Guul'dar (Bugbear) [TP Legacy]</name>
     <displayname>Dhakaani Guul'dar</displayname>
     <ancestry>Dhakaani Guul'dar</ancestry>
     <size>M</size>
@@ -1049,7 +1049,7 @@ Weight in pounds = 200 + (2d6 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Gnoll (TP)</name>
+    <name>Gnoll [TP Legacy]</name>
     <displayname>Gnoll</displayname>
     <ancestry>Gnoll</ancestry>
     <size>M</size>

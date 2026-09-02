@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Aberrant Spirit</name>
+    <name>Aberrant Spirit [Legacy]</name>
     <sortname>Spirit, Aberrant</sortname>
     <ancestry>Spirit</ancestry>
     <size>M</size>
@@ -66,7 +66,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Adult Red Dracolich</name>
+    <name>Adult Red Dracolich [Legacy]</name>
     <sortname>Red Dracolich, Adult</sortname>
     <ancestry>Red Dracolich</ancestry>
     <size>H</size>
@@ -172,7 +172,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment>mountain, hill</environment>
   </monster>
   <monster>
-    <name>Beast of the Land</name>
+    <name>Beast of the Land [Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -215,7 +215,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Beast of the Sea</name>
+    <name>Beast of the Sea [Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -258,7 +258,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Beast of the Sky</name>
+    <name>Beast of the Sky [Legacy]</name>
     <size>S</size>
     <type>beast</type>
     <alignment>Neutral</alignment>
@@ -301,7 +301,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Bestial Spirit</name>
+    <name>Bestial Spirit [Legacy]</name>
     <sortname>Spirit, Bestial</sortname>
     <ancestry>Spirit</ancestry>
     <size>S</size>
@@ -354,7 +354,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Celestial Spirit</name>
+    <name>Celestial Spirit [Legacy]</name>
     <sortname>Spirit, Celestial</sortname>
     <ancestry>Spirit</ancestry>
     <size>L</size>
@@ -406,7 +406,7 @@ The chosen creature gains 1d10 temporary hit points.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Construct Spirit</name>
+    <name>Construct Spirit [Legacy]</name>
     <sortname>Spirit, Construct</sortname>
     <ancestry>Spirit</ancestry>
     <size>M</size>
@@ -459,7 +459,7 @@ The chosen creature gains 1d10 temporary hit points.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Dancing Item</name>
+    <name>Dancing Item [Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -502,7 +502,7 @@ The chosen creature gains 1d10 temporary hit points.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Elemental Spirit</name>
+    <name>Elemental Spirit [Legacy]</name>
     <sortname>Spirit, Elemental</sortname>
     <ancestry>Spirit</ancestry>
     <size>M</size>
@@ -547,7 +547,7 @@ The chosen creature gains 1d10 temporary hit points.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Fey Spirit</name>
+    <name>Fey Spirit [Legacy]</name>
     <sortname>Spirit, Fey</sortname>
     <ancestry>Spirit</ancestry>
     <size>S</size>
@@ -588,7 +588,7 @@ The chosen creature gains 1d10 temporary hit points.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Fiendish Spirit</name>
+    <name>Fiendish Spirit [Legacy]</name>
     <sortname>Spirit, Fiendish</sortname>
     <ancestry>Spirit</ancestry>
     <size>L</size>
@@ -649,7 +649,7 @@ The chosen creature gains 1d10 temporary hit points.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Juvenile Mimic</name>
+    <name>Juvenile Mimic [Legacy]</name>
     <sortname>Mimic, Juvenile</sortname>
     <ancestry>Mimic</ancestry>
     <size>T</size>
@@ -695,7 +695,7 @@ The chosen creature gains 1d10 temporary hit points.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Mighty Servant of Leuk-o</name>
+    <name>Mighty Servant of Leuk-o [Legacy]</name>
     <size>H</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -752,7 +752,7 @@ The chosen creature gains 1d10 temporary hit points.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Reflection</name>
+    <name>Reflection [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -799,7 +799,7 @@ The target dies if this reduces its Strength to 0. Otherwise, the reduction last
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Shadow Spirit</name>
+    <name>Shadow Spirit [Legacy]</name>
     <sortname>Spirit, Shadow</sortname>
     <ancestry>Spirit</ancestry>
     <size>M</size>
@@ -853,7 +853,7 @@ The target dies if this reduces its Strength to 0. Otherwise, the reduction last
     <environment/>
   </monster>
   <monster>
-    <name>Undead Spirit</name>
+    <name>Undead Spirit [Legacy]</name>
     <sortname>Spirit, Undead</sortname>
     <ancestry>Spirit</ancestry>
     <size>M</size>
@@ -910,7 +910,7 @@ The target dies if this reduces its Strength to 0. Otherwise, the reduction last
     <environment/>
   </monster>
   <monster>
-    <name>Wildfire Spirit</name>
+    <name>Wildfire Spirit [Legacy]</name>
     <sortname>Spirit, Wildfire</sortname>
     <ancestry>Spirit</ancestry>
     <size>S</size>

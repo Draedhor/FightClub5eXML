@@ -74,7 +74,7 @@ If you meditate during a long rest, you finish the rest after only 4 hours. You 
   
   
   <race>
-    <name>Goblin of Eberron (Legacy)</name>
+    <name>Goblin of Eberron [Legacy]</name>
     <size>S</size>
     <speed>30</speed>
     <proficiency />
@@ -123,7 +123,7 @@ Weight in pounds = 35 + your size modifier</text>
   </race>
   
   <race>
-    <name>Kalashtar (Legacy)</name>
+    <name>Kalashtar [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <proficiency />
@@ -198,7 +198,7 @@ When you're using this trait to speak telepathically to a creature, you can use 
     </trait>
   </race>
   <race>
-    <name>Warforged (Legacy)</name>
+    <name>Warforged [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <proficiency />
@@ -280,7 +280,7 @@ Weight in pounds = 270 + (1d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Dwarf: Mark of Warding (Legacy)</name>
+    <name>Dwarf: Mark of Warding [Legacy]</name>
     <size>M</size>
     <speed>25</speed>
     <spellAbility>Intelligence</spellAbility>
@@ -362,7 +362,7 @@ Spell Level | Spell
     </trait>
   </race>
   <race>
-    <name>Elf: Mark of Shadow (Legacy)</name>
+    <name>Elf: Mark of Shadow [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <spellAbility>Charisma</spellAbility>
@@ -439,7 +439,7 @@ Spell Level | Spell
     </trait>
   </race>
   <race>
-    <name>Gnome: Mark of Scribing (Legacy)</name>
+    <name>Gnome: Mark of Scribing [Legacy]</name>
     <size>S</size>
     <speed>25</speed>
     <proficiency />
@@ -504,7 +504,7 @@ Spell Level | Spell
     </trait>
   </race>
   <race>
-    <name>Half-Elf: Mark of Detection (Legacy)</name>
+    <name>Half-Elf: Mark of Detection [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <spellAbility>Intelligence</spellAbility>
@@ -574,7 +574,7 @@ Spell Level | Spell
     </trait>
   </race>
   <race>
-    <name>Half-Elf: Mark of Storm (Legacy)</name>
+    <name>Half-Elf: Mark of Storm [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <trait>
@@ -643,7 +643,7 @@ Spell Level | Spell
     </trait>
   </race>
   <race>
-    <name>Half-Orc: Mark of Finding (Legacy)</name>
+    <name>Half-Orc: Mark of Finding [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <proficiency />
@@ -704,7 +704,7 @@ Spell Level | Spells
     </trait>
   </race>
    <race>
-    <name>Halfling: Mark of Healing (Legacy)</name>
+    <name>Halfling: Mark of Healing [Legacy]</name>
     <size>S</size>
     <speed>25</speed>
     <trait>
@@ -773,7 +773,7 @@ Spell Level | Spell
     </trait>
   </race>
   <race>
-    <name>Halfling: Mark of Hospitality (Legacy)</name>
+    <name>Halfling: Mark of Hospitality [Legacy]</name>
     <size>S</size>
     <speed>25</speed>
     <spellAbility>Charisma</spellAbility>
@@ -843,7 +843,7 @@ Spell Level | Spell
     </trait>
   </race>
   <race>
-    <name>Human: Mark of Finding (Legacy)</name>
+    <name>Human: Mark of Finding [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <trait>
@@ -908,7 +908,7 @@ Spell Level | Spell
     </trait>
   </race>
   <race>
-    <name>Human: Mark of Handling (Legacy)</name>
+    <name>Human: Mark of Handling [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <spellAbility>Wisdom</spellAbility>
@@ -974,7 +974,7 @@ Spell Level | Spell
     </trait>
   </race>
   <race>
-    <name>Human: Mark of Making (Legacy)</name>
+    <name>Human: Mark of Making [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <spellAbility>Intelligence</spellAbility>
@@ -1040,7 +1040,7 @@ Spell Level | Spell
     </trait>
   </race>
   <race>
-    <name>Human: Mark of Passage (Legacy)</name>
+    <name>Human: Mark of Passage [Legacy]</name>
     <size>M</size>
     <speed>35</speed>
     <trait>
@@ -1105,7 +1105,7 @@ Spell Level | Spell
     </trait>
   </race>
   <race>
-    <name>Human: Mark of Sentinel (Legacy)</name>
+    <name>Human: Mark of Sentinel [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <trait>

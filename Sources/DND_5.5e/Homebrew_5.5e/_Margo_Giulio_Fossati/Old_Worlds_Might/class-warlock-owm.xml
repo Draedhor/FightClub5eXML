@@ -652,287 +652,287 @@ Source:	Old World's Might - Subclasses from Old Europe p. 62 (Homebrew)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Hex (TP)</name>
+    <name>Hex [TP]</name>
     <classes>Warlock (Hag Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Disguise Self (TP)</name>
+    <name>Disguise Self [TP]</name>
     <classes>Warlock (Hag Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Ray of Sickness (TP)</name>
+    <name>Ray of Sickness [TP]</name>
     <classes>Warlock (Hag Patron (HB)), Warlock (The Pale Rider - Famine (HB))</classes>
   </spell>
   <spell>
-    <name>Silent Image (TP)</name>
+    <name>Silent Image [TP]</name>
     <classes>Warlock (Hag Patron (HB)), Warlock (Pact of the Muse (HB))</classes>
   </spell>
   <spell>
-    <name>Charm Person (TP)</name>
+    <name>Charm Person [TP]</name>
     <classes>Warlock (Hag Patron (HB)), Warlock (Pact of the Muse (HB))</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration (TP)</name>
+    <name>Lesser Restoration [TP]</name>
     <classes>Warlock (Hag Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Prayer of Healing (TP)</name>
+    <name>Prayer of Healing [TP]</name>
     <classes>Warlock (Hag Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Hold Person (TP)</name>
+    <name>Hold Person [TP]</name>
     <classes>Warlock (Hag Patron (HB)), Warlock (Black Forest Patron (HB)), Warlock (The Pale Rider - Conquest (HB))</classes>
   </spell>
   <spell>
-    <name>Phantasmal Force (TP)</name>
+    <name>Phantasmal Force [TP]</name>
     <classes>Warlock (Hag Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Bestow Curse (TP)</name>
+    <name>Bestow Curse [TP]</name>
     <classes>Warlock (Hag Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Major Image (TP)</name>
+    <name>Major Image [TP]</name>
     <classes>Warlock (Hag Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Polymorph (TP)</name>
+    <name>Polymorph [TP]</name>
     <classes>Warlock (Hag Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Phantasmal Killer (TP)</name>
+    <name>Phantasmal Killer [TP]</name>
     <classes>Warlock (Hag Patron (HB)), Warlock (The Pale Rider - Death (HB))</classes>
   </spell>
   <spell>
-    <name>Entangle (TP)</name>
+    <name>Entangle [TP]</name>
     <classes>Warlock (Black Forest Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Fog Cloud (TP)</name>
+    <name>Fog Cloud [TP]</name>
     <classes>Warlock (Black Forest Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Thorn Whip (TP)</name>
+    <name>Thorn Whip [TP]</name>
     <classes>Warlock (Black Forest Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Pass without Trace (TP)</name>
+    <name>Pass without Trace [TP]</name>
     <classes>Warlock (Black Forest Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Plant Growth (TP)</name>
+    <name>Plant Growth [TP]</name>
     <classes>Warlock (Black Forest Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Speak with Dead (TP)</name>
+    <name>Speak with Dead [TP]</name>
     <classes>Warlock (Black Forest Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Blight (TP)</name>
+    <name>Blight [TP]</name>
     <classes>Warlock (Black Forest Patron (HB)), Warlock (The Pale Rider - Famine (HB))</classes>
   </spell>
   <spell>
-    <name>Hallucinatory Terrain (TP)</name>
+    <name>Hallucinatory Terrain [TP]</name>
     <classes>Warlock (Black Forest Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Insect Plague (TP)</name>
+    <name>Insect Plague [TP]</name>
     <classes>Warlock (Black Forest Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Tree Stride (TP)</name>
+    <name>Tree Stride [TP]</name>
     <classes>Warlock (Black Forest Patron (HB))</classes>
   </spell>
   <spell>
-    <name>Dissonant Whispers (TP)</name>
+    <name>Dissonant Whispers [TP]</name>
     <classes>Warlock (Pact of the Muse (HB))</classes>
   </spell>
   <spell>
-    <name>Tasha's Hideous Laughter (TP)</name>
+    <name>Tasha's Hideous Laughter [TP]</name>
     <classes>Warlock (Pact of the Muse (HB))</classes>
   </spell>
   <spell>
-    <name>Heroism (TP)</name>
+    <name>Heroism [TP]</name>
     <classes>Warlock (Pact of the Muse (HB))</classes>
   </spell>
   <spell>
-    <name>Suggestion (TP)</name>
+    <name>Suggestion [TP]</name>
     <classes>Warlock (Pact of the Muse (HB))</classes>
   </spell>
   <spell>
-    <name>Enthrall (TP)</name>
+    <name>Enthrall [TP]</name>
     <classes>Warlock (Pact of the Muse (HB))</classes>
   </spell>
   <spell>
-    <name>Greater Invisibility (TP)</name>
+    <name>Greater Invisibility [TP]</name>
     <classes>Warlock (Pact of the Muse (HB))</classes>
   </spell>
   <spell>
-    <name>Confusion (TP)</name>
+    <name>Confusion [TP]</name>
     <classes>Warlock (Pact of the Muse (HB))</classes>
   </spell>
   <spell>
-    <name>Seeming (TP)</name>
+    <name>Seeming [TP]</name>
     <classes>Warlock (Pact of the Muse (HB))</classes>
   </spell>
   <spell>
-    <name>Hold Monster (TP)</name>
+    <name>Hold Monster [TP]</name>
     <classes>Warlock (Pact of the Muse (HB))</classes>
   </spell>
   <spell>
-    <name>Command (TP)</name>
+    <name>Command [TP]</name>
     <classes>Warlock (The Pale Rider - Conquest (HB))</classes>
   </spell>
   <spell>
-    <name>Zephyr Strike (TP)</name>
+    <name>Zephyr Strike [TP]</name>
     <classes>Warlock (The Pale Rider - Conquest (HB))</classes>
   </spell>
   <spell>
-    <name>Shield of Faith (TP)</name>
+    <name>Shield of Faith [TP]</name>
     <classes>Warlock (The Pale Rider - Conquest (HB))</classes>
   </spell>
   <spell>
-    <name>Magic Weapon (TP)</name>
+    <name>Magic Weapon [TP]</name>
     <classes>Warlock (The Pale Rider - Conquest (HB))</classes>
   </spell>
   <spell>
-    <name>Crusader's Mantle (TP)</name>
+    <name>Crusader's Mantle [TP]</name>
     <classes>Warlock (The Pale Rider - Conquest (HB))</classes>
   </spell>
   <spell>
-    <name>Branding Smite (TP)</name>
+    <name>Branding Smite [TP]</name>
     <classes>Warlock (The Pale Rider - Conquest (HB)), Warlock (The Pale Rider - War (HB))</classes>
   </spell>
   <spell>
-    <name>Aura of Purity (TP)</name>
+    <name>Aura of Purity [TP]</name>
     <classes>Warlock (The Pale Rider - Conquest (HB))</classes>
   </spell>
   <spell>
-    <name>Banishment (TP)</name>
+    <name>Banishment [TP]</name>
     <classes>Warlock (The Pale Rider - Conquest (HB))</classes>
   </spell>
   <spell>
-    <name>Geas (TP)</name>
+    <name>Geas [TP]</name>
     <classes>Warlock (The Pale Rider - Conquest (HB))</classes>
   </spell>
   <spell>
-    <name>Dominate Person (TP)</name>
+    <name>Dominate Person [TP]</name>
     <classes>Warlock (The Pale Rider - Conquest (HB))</classes>
   </spell>
   <spell>
-    <name>Wrathful Smite (TP)</name>
+    <name>Wrathful Smite [TP]</name>
     <classes>Warlock (The Pale Rider - War (HB))</classes>
   </spell>
   <spell>
-    <name>Thunderwave (TP)</name>
+    <name>Thunderwave [TP]</name>
     <classes>Warlock (The Pale Rider - War (HB))</classes>
   </spell>
   <spell>
-    <name>Magic Missile (TP)</name>
+    <name>Magic Missile [TP]</name>
     <classes>Warlock (The Pale Rider - War (HB))</classes>
   </spell>
   <spell>
-    <name>Burning Hands (TP)</name>
+    <name>Burning Hands [TP]</name>
     <classes>Warlock (The Pale Rider - War (HB))</classes>
   </spell>
   <spell>
-    <name>Shatter (TP)</name>
+    <name>Shatter [TP]</name>
     <classes>Warlock (The Pale Rider - War (HB))</classes>
   </spell>
   <spell>
-    <name>Spiritual Weapon (TP)</name>
+    <name>Spiritual Weapon [TP]</name>
     <classes>Warlock (The Pale Rider - War (HB))</classes>
   </spell>
   <spell>
-    <name>Fireball (TP)</name>
+    <name>Fireball [TP]</name>
     <classes>Warlock (The Pale Rider - War (HB))</classes>
   </spell>
   <spell>
-    <name>Blinding Smite (TP)</name>
+    <name>Blinding Smite [TP]</name>
     <classes>Warlock (The Pale Rider - War (HB))</classes>
   </spell>
   <spell>
-    <name>Wall of Fire (TP)</name>
+    <name>Wall of Fire [TP]</name>
     <classes>Warlock (The Pale Rider - War (HB))</classes>
   </spell>
   <spell>
-    <name>Flame Strike (TP)</name>
+    <name>Flame Strike [TP]</name>
     <classes>Warlock (The Pale Rider - War (HB))</classes>
   </spell>
   <spell>
-    <name>Inflict Wounds (TP)</name>
+    <name>Inflict Wounds [TP]</name>
     <classes>Warlock (The Pale Rider - Famine (HB))</classes>
   </spell>
   <spell>
-    <name>Chill Touch (TP)</name>
+    <name>Chill Touch [TP]</name>
     <classes>Warlock (The Pale Rider - Famine (HB))</classes>
   </spell>
   <spell>
-    <name>Goodberry (TP)</name>
+    <name>Goodberry [TP]</name>
     <classes>Warlock (The Pale Rider - Famine (HB))</classes>
   </spell>
   <spell>
-    <name>Protection from Poison (TP)</name>
+    <name>Protection from Poison [TP]</name>
     <classes>Warlock (The Pale Rider - Famine (HB))</classes>
   </spell>
   <spell>
-    <name>Wither and Bloom (TP)</name>
+    <name>Wither and Bloom [TP]</name>
     <classes>Warlock (The Pale Rider - Famine (HB))</classes>
   </spell>
   <spell>
-    <name>Vampiric Touch (TP)</name>
+    <name>Vampiric Touch [TP]</name>
     <classes>Warlock (The Pale Rider - Famine (HB))</classes>
   </spell>
   <spell>
-    <name>Aura of Life (TP)</name>
+    <name>Aura of Life [TP]</name>
     <classes>Warlock (The Pale Rider - Famine (HB))</classes>
   </spell>
   <spell>
-    <name>Cloudkill (TP)</name>
+    <name>Cloudkill [TP]</name>
     <classes>Warlock (The Pale Rider - Famine (HB)), Warlock (The Pale Rider - Death (HB))</classes>
   </spell>
   <spell>
-    <name>Contagion (TP)</name>
+    <name>Contagion [TP]</name>
     <classes>Warlock (The Pale Rider - Famine (HB))</classes>
   </spell>
   <spell>
-    <name>Toll the Dead (TP)</name>
+    <name>Toll the Dead [TP]</name>
     <classes>Warlock (The Pale Rider - Death (HB))</classes>
   </spell>
   <spell>
-    <name>False Life (TP)</name>
+    <name>False Life [TP]</name>
     <classes>Warlock (The Pale Rider - Death (HB))</classes>
   </spell>
   <spell>
-    <name>Detect Evil and Good (TP)</name>
+    <name>Detect Evil and Good [TP]</name>
     <classes>Warlock (The Pale Rider - Death (HB))</classes>
   </spell>
   <spell>
-    <name>Bane (TP)</name>
+    <name>Bane [TP]</name>
     <classes>Warlock (The Pale Rider - Death (HB))</classes>
   </spell>
   <spell>
-    <name>Cause Fear (TP)</name>
+    <name>Cause Fear [TP]</name>
     <classes>Warlock (The Pale Rider - Death (HB))</classes>
   </spell>
   <spell>
-    <name>Gentle Repose (TP)</name>
+    <name>Gentle Repose [TP]</name>
     <classes>Warlock (The Pale Rider - Death (HB))</classes>
   </spell>
   <spell>
-    <name>Darkness (TP)</name>
+    <name>Darkness [TP]</name>
     <classes>Warlock (The Pale Rider - Death (HB))</classes>
   </spell>
   <spell>
-    <name>Death Ward (TP)</name>
+    <name>Death Ward [TP]</name>
     <classes>Warlock (The Pale Rider - Death (HB))</classes>
   </spell>
   <spell>
-    <name>Danse Macabre (TP)</name>
+    <name>Danse Macabre [TP]</name>
     <classes>Warlock (The Pale Rider - Death (HB))</classes>
   </spell>
   <spell>
-    <name>Finger of Death (TP)</name>
+    <name>Finger of Death [TP]</name>
     <classes>Warlock (The Pale Rider - Death (HB))</classes>
   </spell>
 </compendium>

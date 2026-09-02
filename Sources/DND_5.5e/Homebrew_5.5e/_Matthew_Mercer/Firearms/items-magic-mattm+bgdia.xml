@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Hellfire Bad News (TP)</name>
+    <name>Hellfire Bad News [TP]</name>
     <detail>firearm, modern, sniper rifle, uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -36,7 +36,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 223,
 		Matthew Mercer - Gunslinger 1.3 p. 3</text>
   </item>
   <item>
-    <name>Hellfire Blunderbuss (Matthew Mercer) (TP)</name>
+    <name>Hellfire Blunderbuss (Matthew Mercer) [TP]</name>
     <detail>firearm, modern, uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -69,7 +69,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 223,
 		Matthew Mercer - Gunslinger 1.3 p. 3</text>
   </item>
   <item>
-    <name>Hellfire Hand Mortar (TP)</name>
+    <name>Hellfire Hand Mortar [TP]</name>
     <detail>firearm, uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -99,7 +99,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 223,
     <roll description="Fire Damage">1d8</roll>
   </item>
   <item>
-    <name>Hellfire Musket (Matthew Mercer) (TP)</name>
+    <name>Hellfire Musket (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -134,7 +134,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 223,
 		Matthew Mercer - Gunslinger 1.3 p. 3</text>
   </item>
   <item>
-    <name>Hellfire Palm Pistol (TP)</name>
+    <name>Hellfire Palm Pistol [TP]</name>
     <detail>firearm, uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -171,7 +171,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 223,
 		Matthew Mercer - Gunslinger 1.3 p. 3</text>
   </item>
   <item>
-    <name>Hellfire Pistol (Matthew Mercer) (TP)</name>
+    <name>Hellfire Pistol (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -204,7 +204,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 223,
 		Matthew Mercer - Gunslinger 1.3 p. 3</text>
   </item>
   <item>
-    <name>Hellfire Pepperbox (TP)</name>
+    <name>Hellfire Pepperbox [TP]</name>
     <detail>firearm, uncommon</detail>
     <type>R</type>
     <magic>YES</magic>

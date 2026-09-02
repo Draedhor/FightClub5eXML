@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Basic Fishing Equipment</name>
+    <name>Basic Fishing Equipment [Legacy]</name>
     <type>G</type>
     <weight />
     <value>0.1</value>
@@ -20,7 +20,7 @@ Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 21</text
     <roll>1d10</roll>
   </item>
   <item>
-    <name>Keg of Alchemist's Fire</name>
+    <name>Keg of Alchemist's Fire [Legacy]</name>
     <type>G</type>
     <weight />
     <text>A keg of alchemist's fire lobbed at a creature or an object deals 21 (6d6) fire damage on a hit. Further, the target is set ablaze and takes the damage again every round (in the case of a creature, at the start of each of its turns) until the fire is put out. A creature within reach of the blaze can take an action to smother the flames using a blanket or carpet, reducing the fire damage by 2d6. Three such actions are needed to fully put out the fire.
@@ -28,7 +28,7 @@ Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 21</text
 Source:	Spelljammer: Adventures in Space - Light of Xaryxis p. 35</text>
   </item>
   <item>
-    <name>Fish Suit</name>
+    <name>Fish Suit [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>very rare</detail>
@@ -38,7 +38,7 @@ Source:	Spelljammer: Adventures in Space - Light of Xaryxis p. 35</text>
 Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 22</text>
   </item>
   <item>
-    <name>Spelljamming Helm</name>
+    <name>Spelljamming Helm [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>rare (requires attunement by a spellcaster)</detail>
@@ -61,7 +61,7 @@ You can use an action to touch a willing spellcaster. That creature attunes to t
 Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 23</text>
   </item>
   <item>
-    <name>Talarith</name>
+    <name>Talarith [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>legendary (requires attunement by a reigar who created it)</detail>
@@ -73,7 +73,7 @@ As an action, a reigar can use its talarith to summon a golem that looks just li
 Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 47</text>
   </item>
   <item>
-    <name>Wildspace Orrery</name>
+    <name>Wildspace Orrery [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>uncommon</detail>
@@ -83,7 +83,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 47</text>
 Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 23</text>
   </item>
   <item>
-    <name>Bombard (Vehicle)</name>
+    <name>Bombard (Vehicle) [Legacy]</name>
     <type>G</type>
     <detail>vehicle (space)</detail>
     <value>50000.0</value>
@@ -122,7 +122,7 @@ Ranged Weapon Attack: +6 to hit, range 600/2,400 ft., one target. Hit: 88 (16d10
 Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 26</text>
   </item>
   <item>
-    <name>Damselfly Ship (Vehicle)</name>
+    <name>Damselfly Ship (Vehicle) [Legacy]</name>
     <type>G</type>
     <detail>vehicle (space)</detail>
     <value>20000.0</value>
@@ -163,7 +163,7 @@ Ranged Weapon Attack: +5 to hit, range 200/800 ft. (can't hit targets within 60 
 Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 28</text>
   </item>
   <item>
-    <name>Flying Fish Ship (Vehicle)</name>
+    <name>Flying Fish Ship (Vehicle) [Legacy]</name>
     <type>G</type>
     <detail>vehicle (space)</detail>
     <value>20000.0</value>
@@ -204,7 +204,7 @@ Ranged Weapon Attack: +5 to hit, range 200/800 ft. (can't hit targets within 60 
 Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 30</text>
   </item>
   <item>
-    <name>Hammerhead Ship (Vehicle)</name>
+    <name>Hammerhead Ship (Vehicle) [Legacy]</name>
     <type>G</type>
     <detail>vehicle (space)</detail>
     <value>40000.0</value>
@@ -254,7 +254,7 @@ Ranged Weapon Attack: +5 to hit, range 200/800 ft. (can't hit targets within 60 
 Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 32</text>
   </item>
   <item>
-    <name>Lamprey Ship (Vehicle)</name>
+    <name>Lamprey Ship (Vehicle) [Legacy]</name>
     <type>G</type>
     <detail>vehicle (space)</detail>
     <value>20000.0</value>
@@ -294,7 +294,7 @@ As an action, a creature can use the grappling jaws' controls to release the tar
 Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 34</text>
   </item>
   <item>
-    <name>Living Ship (Vehicle)</name>
+    <name>Living Ship (Vehicle) [Legacy]</name>
     <type>G</type>
     <detail>vehicle (space)</detail>
     <value>25000.0</value>
@@ -328,7 +328,7 @@ Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. Hit: 16 (3d10) p
 Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 36</text>
   </item>
   <item>
-    <name>Nautiloid (Vehicle)</name>
+    <name>Nautiloid (Vehicle) [Legacy]</name>
     <type>G</type>
     <detail>vehicle (space)</detail>
     <value>50000.0</value>
@@ -380,7 +380,7 @@ Melee Spell Attack: +8 to hit, reach 30 ft., one creature. Hit: The target must 
 Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 38</text>
   </item>
   <item>
-    <name>Nightspider (Vehicle)</name>
+    <name>Nightspider (Vehicle) [Legacy]</name>
     <type>G</type>
     <detail>vehicle (space)</detail>
     <value>50000.0</value>
@@ -421,7 +421,7 @@ Ranged Weapon Attack: +5 to hit, range 200/800 ft. (can't hit targets within 60 
 Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 40</text>
   </item>
   <item>
-    <name>Scorpion Ship (Vehicle)</name>
+    <name>Scorpion Ship (Vehicle) [Legacy]</name>
     <type>G</type>
     <detail>vehicle (space)</detail>
     <value>25000.0</value>
@@ -468,7 +468,7 @@ Ranged Weapon Attack: +5 to hit, range 200/800 ft. (can't hit targets within 60 
 Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 42</text>
   </item>
   <item>
-    <name>Shrike Ship (Vehicle)</name>
+    <name>Shrike Ship (Vehicle) [Legacy]</name>
     <type>G</type>
     <detail>vehicle (space)</detail>
     <value>20000.0</value>
@@ -510,7 +510,7 @@ Miss: The attack deals no damage, the target moves into the nearest unoccupied s
 Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 44</text>
   </item>
   <item>
-    <name>Space Galleon (Vehicle)</name>
+    <name>Space Galleon (Vehicle) [Legacy]</name>
     <type>G</type>
     <detail>vehicle (space)</detail>
     <value>30000.0</value>
@@ -547,7 +547,7 @@ Ranged Weapon Attack: +5 to hit, range 200/800 ft. (can't hit targets within 60 
 Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 46</text>
   </item>
   <item>
-    <name>Squid Ship (Vehicle)</name>
+    <name>Squid Ship (Vehicle) [Legacy]</name>
     <type>G</type>
     <detail>vehicle (space)</detail>
     <value>25000.0</value>
@@ -598,7 +598,7 @@ Miss: The attack deals no damage, the target moves into the nearest unoccupied s
 Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 48</text>
   </item>
   <item>
-    <name>Star Moth (Vehicle)</name>
+    <name>Star Moth (Vehicle) [Legacy]</name>
     <type>G</type>
     <detail>vehicle (space)</detail>
     <value>40000.0</value>
@@ -636,7 +636,7 @@ Ranged Weapon Attack: +5 to hit, range 200/800 ft. (can't hit targets within 60 
 Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 50</text>
   </item>
   <item>
-    <name>Turtle Ship (Vehicle)</name>
+    <name>Turtle Ship (Vehicle) [Legacy]</name>
     <type>G</type>
     <detail>vehicle (space)</detail>
     <value>40000.0</value>
@@ -675,7 +675,7 @@ Ranged Weapon Attack: +5 to hit, range 200/800 ft. (can't hit targets within 60 
 Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 52</text>
   </item>
   <item>
-    <name>Tyrant Ship (Vehicle)</name>
+    <name>Tyrant Ship (Vehicle) [Legacy]</name>
     <type>G</type>
     <detail>vehicle (space)</detail>
     <text>Beholders carve tyrant ships out of stone using their disintegration rays and use these ships to wander the Astral Plane, looking for worlds to conquer and rival beholders to destroy. No two tyrant ships look alike, but they all have one or more features reminiscent of their creators, such as a bulbous shape and eyestalks.
@@ -705,7 +705,7 @@ Ranged Spell Attack: +8 to hit, range 120/480 ft., one target. Hit: 35 (10d6) fo
 Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 54</text>
   </item>
   <item>
-    <name>Wasp Ship (Vehicle)</name>
+    <name>Wasp Ship (Vehicle) [Legacy]</name>
     <type>G</type>
     <detail>vehicle (space)</detail>
     <value>20000.0</value>

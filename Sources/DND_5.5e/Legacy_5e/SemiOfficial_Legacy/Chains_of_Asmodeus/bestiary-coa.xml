@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Ramius</name>
+    <name>Ramius [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -101,7 +101,7 @@ Source:	Chains of Asmodeus p. 24</description>
     <environment/>
   </monster>
   <monster>
-    <name>Zythan</name>
+    <name>Zythan [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -174,7 +174,7 @@ Source:	Chains of Asmodeus p. 24</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sarevok (CoA)</name>
+    <name>Sarevok (CoA) [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -254,7 +254,7 @@ Source:	Chains of Asmodeus p. 24</description>
     <environment/>
   </monster>
   <monster>
-    <name>Slayer</name>
+    <name>Slayer [TP Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>host's alignment</alignment>
@@ -309,7 +309,7 @@ Source:	Chains of Asmodeus p. 24</description>
     <environment/>
   </monster>
   <monster>
-    <name>Avatar of Baalzebul</name>
+    <name>Avatar of Baalzebul [TP Legacy]</name>
     <sortname>Baalzebul, Avatar</sortname>
     <ancestry>Baalzebul</ancestry>
     <size>M</size>
@@ -369,7 +369,7 @@ Source:	Chains of Asmodeus p. 24</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fire Kraken</name>
+    <name>Fire Kraken [TP Legacy]</name>
     <sortname>Kraken, Fire</sortname>
     <ancestry>Kraken</ancestry>
     <size>G</size>
@@ -451,7 +451,7 @@ Source:	Chains of Asmodeus p. 24</description>
     <environment/>
   </monster>
   <monster>
-    <name>Eriflamme</name>
+    <name>Eriflamme [TP Legacy]</name>
     <size>G</size>
     <type>elemental</type>
     <alignment>unaligned</alignment>
@@ -531,7 +531,7 @@ Source:	Chains of Asmodeus p. 24</description>
     <environment/>
   </monster>
   <monster>
-    <name>Awful Fisher</name>
+    <name>Awful Fisher [TP Legacy]</name>
     <sortname>Fisher, Awful</sortname>
     <ancestry>Fisher</ancestry>
     <size>G</size>
@@ -611,7 +611,7 @@ Source:	Chains of Asmodeus p. 24</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ekengarik</name>
+    <name>Ekengarik [TP Legacy]</name>
     <size>L</size>
     <type>fiend</type>
     <alignment>lawful evil</alignment>
@@ -679,7 +679,7 @@ Source:	Chains of Asmodeus p. 24</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fiendish Formian</name>
+    <name>Fiendish Formian [TP Legacy]</name>
     <sortname>Formian, Fiendish</sortname>
     <ancestry>Formian</ancestry>
     <size>M</size>
@@ -730,7 +730,7 @@ Source:	Chains of Asmodeus p. 24</description>
     <environment/>
   </monster>
   <monster>
-    <name>Anacreda</name>
+    <name>Anacreda [TP Legacy]</name>
     <size>L</size>
     <type>fey</type>
     <alignment>neutral evil</alignment>
@@ -786,7 +786,7 @@ Source:	Chains of Asmodeus p. 24</description>
     <environment/>
   </monster>
   <monster>
-    <name>Waeloquay</name>
+    <name>Waeloquay [TP Legacy]</name>
     <size>G</size>
     <type>elemental</type>
     <alignment>neutral evil</alignment>
@@ -863,7 +863,7 @@ Source:	Chains of Asmodeus p. 24</description>
     <environment/>
   </monster>
   <monster>
-    <name>Brother Adramalech</name>
+    <name>Brother Adramalech [TP Legacy]</name>
     <sortname>Adramalech, Brother</sortname>
     <ancestry>Adramalech</ancestry>
     <size>M</size>
@@ -947,7 +947,7 @@ Source:	Chains of Asmodeus p. 24</description>
     <environment/>
   </monster>
   <monster>
-    <name>Brother Morax</name>
+    <name>Brother Morax [TP Legacy]</name>
     <sortname>Morax, Brother</sortname>
     <ancestry>Morax</ancestry>
     <size>L</size>
@@ -1043,7 +1043,7 @@ Source:	Chains of Asmodeus p. 24</description>
     <environment/>
   </monster>
   <monster>
-    <name>Abigor</name>
+    <name>Abigor [TP Legacy]</name>
     <size>L</size>
     <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
@@ -1120,7 +1120,7 @@ Source:	Chains of Asmodeus p. 24</description>
     <environment/>
   </monster>
   <monster>
-    <name>Devorastus</name>
+    <name>Devorastus [TP Legacy]</name>
     <size>H</size>
     <type>fiend (demon)</type>
     <alignment>unaligned</alignment>
@@ -1189,7 +1189,7 @@ Source:	Chains of Asmodeus p. 24</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rimmon</name>
+    <name>Rimmon [TP Legacy]</name>
     <size>M</size>
     <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
@@ -1253,7 +1253,7 @@ Source:	Chains of Asmodeus p. 24</description>
     <environment/>
   </monster>
   <monster>
-    <name>Zagum</name>
+    <name>Zagum [TP Legacy]</name>
     <size>M</size>
     <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
@@ -1320,7 +1320,7 @@ A confused creature may repeat the saving throw at the end of its turn, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Buer</name>
+    <name>Buer [TP Legacy]</name>
     <size>L</size>
     <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
@@ -1411,7 +1411,7 @@ A confused creature may repeat the saving throw at the end of its turn, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Asmodeus</name>
+    <name>Asmodeus [TP Legacy]</name>
     <size>L</size>
     <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
@@ -1528,7 +1528,7 @@ A confused creature may repeat the saving throw at the end of its turn, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Baalzebul (CoA)</name>
+    <name>Baalzebul (CoA) [TP Legacy]</name>
     <size>H</size>
     <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
@@ -1639,7 +1639,7 @@ A confused creature may repeat the saving throw at the end of its turn, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Belial</name>
+    <name>Belial [TP Legacy]</name>
     <size>M</size>
     <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
@@ -1739,7 +1739,7 @@ A confused creature may repeat the saving throw at the end of its turn, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Dispater</name>
+    <name>Dispater [TP Legacy]</name>
     <size>L</size>
     <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
@@ -1840,7 +1840,7 @@ A confused creature may repeat the saving throw at the end of its turn, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Fierna</name>
+    <name>Fierna [TP Legacy]</name>
     <size>M</size>
     <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
@@ -1929,7 +1929,7 @@ A confused creature may repeat the saving throw at the end of its turn, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Glasya</name>
+    <name>Glasya [TP Legacy]</name>
     <size>M</size>
     <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
@@ -2026,7 +2026,7 @@ A confused creature may repeat the saving throw at the end of its turn, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Levistus</name>
+    <name>Levistus [TP Legacy]</name>
     <size>M</size>
     <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
@@ -2127,7 +2127,7 @@ A confused creature may repeat the saving throw at the end of its turn, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Mammon</name>
+    <name>Mammon [TP Legacy]</name>
     <size>H</size>
     <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
@@ -2221,7 +2221,7 @@ A confused creature may repeat the saving throw at the end of its turn, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Mephistopheles (CoA)</name>
+    <name>Mephistopheles (CoA) [TP Legacy]</name>
     <size>L</size>
     <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
@@ -2333,7 +2333,7 @@ A confused creature may repeat the saving throw at the end of its turn, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Bel (CoA)</name>
+    <name>Bel (CoA) [TP Legacy]</name>
     <size>L</size>
     <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
@@ -2419,7 +2419,7 @@ A confused creature may repeat the saving throw at the end of its turn, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Affliction Devil (kocrachon)</name>
+    <name>Affliction Devil (kocrachon) [TP Legacy]</name>
     <size>M</size>
     <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
@@ -2483,7 +2483,7 @@ A confused creature may repeat the saving throw at the end of its turn, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Ayperobo Swarm</name>
+    <name>Ayperobo Swarm [TP Legacy]</name>
     <sortname>Ayperobo, Swarm</sortname>
     <ancestry>Ayperobo</ancestry>
     <size>M</size>
@@ -2549,7 +2549,7 @@ They act during the host's turn, taking actions based on their host. If a host d
     <environment/>
   </monster>
   <monster>
-    <name>Displacer Fiend</name>
+    <name>Displacer Fiend [TP Legacy]</name>
     <sortname>Displacer, Fiend</sortname>
     <ancestry>Displacer</ancestry>
     <size>L</size>
@@ -2611,7 +2611,7 @@ They act during the host's turn, taking actions based on their host. If a host d
     <environment/>
   </monster>
   <monster>
-    <name>Halog</name>
+    <name>Halog [TP Legacy]</name>
     <size>S</size>
     <type>aberration</type>
     <alignment>unaligned</alignment>
@@ -2669,7 +2669,7 @@ They act during the host's turn, taking actions based on their host. If a host d
     <environment/>
   </monster>
   <monster>
-    <name>Hellcat (bezekira)</name>
+    <name>Hellcat (bezekira) [TP Legacy]</name>
     <size>L</size>
     <type>fiend</type>
     <alignment>neutral evil</alignment>
@@ -2725,7 +2725,7 @@ They act during the host's turn, taking actions based on their host. If a host d
     <environment/>
   </monster>
   <monster>
-    <name>Maelephant Nomad</name>
+    <name>Maelephant Nomad [TP Legacy]</name>
     <size>L</size>
     <type>fiend</type>
     <alignment>lawful evil</alignment>
@@ -2793,7 +2793,7 @@ They act during the host's turn, taking actions based on their host. If a host d
     <environment/>
   </monster>
   <monster>
-    <name>Pain Devil (excruciarch)</name>
+    <name>Pain Devil (excruciarch) [TP Legacy]</name>
     <size>M</size>
     <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
@@ -2862,7 +2862,7 @@ They act during the host's turn, taking actions based on their host. If a host d
     <environment/>
   </monster>
   <monster>
-    <name>Shredwing</name>
+    <name>Shredwing [TP Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>lawful evil</alignment>
@@ -2921,7 +2921,7 @@ If the merged creature dies while merged, the shredwing permanently takes over i
     <environment/>
   </monster>
   <monster>
-    <name>Styx Dragon</name>
+    <name>Styx Dragon [TP Legacy]</name>
     <sortname>Dragon, Styx</sortname>
     <ancestry>Dragon</ancestry>
     <size>G</size>
@@ -3016,7 +3016,7 @@ If the merged creature dies while merged, the shredwing permanently takes over i
     <environment/>
   </monster>
   <monster>
-    <name>Lesser Tyrant Shadow</name>
+    <name>Lesser Tyrant Shadow [TP Legacy]</name>
     <sortname>Tyrant Shadow, Lesser</sortname>
     <ancestry>Tyrant Shadow</ancestry>
     <size>M</size>
@@ -3078,7 +3078,7 @@ If the merged creature dies while merged, the shredwing permanently takes over i
     <environment/>
   </monster>
   <monster>
-    <name>Tyrant Shadow</name>
+    <name>Tyrant Shadow [TP Legacy]</name>
     <ancestry>Tyrant Shadow</ancestry>
     <size>H</size>
     <type>aberration</type>
@@ -3163,7 +3163,7 @@ If the merged creature dies while merged, the shredwing permanently takes over i
     <environment/>
   </monster>
   <monster>
-    <name>Greater Tyrant Shadow</name>
+    <name>Greater Tyrant Shadow [TP Legacy]</name>
     <sortname>Tyrant Shadow, Greater</sortname>
     <ancestry>Tyrant Shadow</ancestry>
     <size>G</size>
@@ -3249,7 +3249,7 @@ If the merged creature dies while merged, the shredwing permanently takes over i
     <environment/>
   </monster>
   <monster>
-    <name>Vorvolaka</name>
+    <name>Vorvolaka [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>neutral evil</alignment>
@@ -3308,7 +3308,7 @@ If the merged creature dies while merged, the shredwing permanently takes over i
     <environment/>
   </monster>
   <monster>
-    <name>War Devil</name>
+    <name>War Devil [TP Legacy]</name>
     <sortname>Devil, War</sortname>
     <ancestry>Devil</ancestry>
     <size>H</size>
@@ -3369,7 +3369,7 @@ If the merged creature dies while merged, the shredwing permanently takes over i
     <environment/>
   </monster>
   <monster>
-    <name>Aeshma</name>
+    <name>Aeshma [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (tiefling)</type>
     <alignment>chaotic neutral</alignment>
@@ -3418,7 +3418,7 @@ If the merged creature dies while merged, the shredwing permanently takes over i
     <environment/>
   </monster>
   <monster>
-    <name>Anagwendol</name>
+    <name>Anagwendol [TP Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>lawful good</alignment>
@@ -3481,7 +3481,7 @@ If the merged creature dies while merged, the shredwing permanently takes over i
     <environment/>
   </monster>
   <monster>
-    <name>Barachiel</name>
+    <name>Barachiel [TP Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>lawful good</alignment>
@@ -3535,7 +3535,7 @@ If the merged creature dies while merged, the shredwing permanently takes over i
     <environment/>
   </monster>
   <monster>
-    <name>Jenevere</name>
+    <name>Jenevere [TP Legacy]</name>
     <size>L</size>
     <type>celestial</type>
     <alignment>lawful good</alignment>
@@ -3593,7 +3593,7 @@ If the merged creature dies while merged, the shredwing permanently takes over i
     <environment/>
   </monster>
   <monster>
-    <name>Koh Tam</name>
+    <name>Koh Tam [TP Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>lawful neutral</alignment>
@@ -3653,7 +3653,7 @@ Blinded:
     <environment/>
   </monster>
   <monster>
-    <name>Corruption Devil (paeliryon)</name>
+    <name>Corruption Devil (paeliryon) [TP Legacy]</name>
     <size>L</size>
     <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
@@ -3721,7 +3721,7 @@ Blinded:
     <environment/>
   </monster>
   <monster>
-    <name>Miasmorne</name>
+    <name>Miasmorne [TP Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>unaligned</alignment>
@@ -3788,7 +3788,7 @@ Blinded:
     <environment/>
   </monster>
   <monster>
-    <name>Oneirovore</name>
+    <name>Oneirovore [TP Legacy]</name>
     <size>L</size>
     <type>fiend</type>
     <alignment>unaligned</alignment>
@@ -3835,7 +3835,7 @@ Blinded:
     <environment/>
   </monster>
   <monster>
-    <name>Tiax</name>
+    <name>Tiax [TP Legacy]</name>
     <size>S</size>
     <type>humanoid</type>
     <alignment>chaotic neutral</alignment>

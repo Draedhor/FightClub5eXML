@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Dhampir (Legacy)</name>
+    <name>Dhampir [Legacy]</name>
     <size>M</size>
     <speed>35</speed>
     <trait category="description">
@@ -98,7 +98,7 @@ You can empower yourself with your bite a number of times equal to your proficie
     </trait>
   </race>
   <race>
-    <name>Hexblood (Legacy)</name>
+    <name>Hexblood [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <trait category="description">
@@ -186,7 +186,7 @@ If you are replacing your race with a lineage, you retain any languages you had 
     </trait>
   </race>
   <race>
-    <name>Reborn (Legacy)</name>
+    <name>Reborn [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <trait category="description">

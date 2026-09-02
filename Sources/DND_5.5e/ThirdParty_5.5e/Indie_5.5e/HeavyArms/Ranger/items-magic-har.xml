@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Ridill Greatsword (TP)</name>
+    <name>Ridill Greatsword [TP]</name>
     <detail>unique, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -24,7 +24,7 @@ Source:	HeavyArms: The Ranger p. 10 (Homebrew),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Ridill Longsword (TP)</name>
+    <name>Ridill Longsword [TP]</name>
     <detail>unique, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -46,7 +46,7 @@ Source:	HeavyArms: The Ranger p. 10 (Homebrew),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Ridill Rapier (TP)</name>
+    <name>Ridill Rapier [TP]</name>
     <detail>unique, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -67,7 +67,7 @@ Source:	HeavyArms: The Ranger p. 10 (Homebrew),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Ridill Scimitar (TP)</name>
+    <name>Ridill Scimitar [TP]</name>
     <detail>unique, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -90,7 +90,7 @@ Source:	HeavyArms: The Ranger p. 10 (Homebrew),
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Ridill Shortsword (TP)</name>
+    <name>Ridill Shortsword [TP]</name>
     <detail>unique, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>

@@ -125,7 +125,7 @@ Source:	Obojima: Tales from the Tall Grass p. 153 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Origami Construct: Bird</name>
+    <name>Origami Construct: Bird [TP Legacy]</name>
     <level>0</level>
     <classes>Wizard (Origami Mage) (TP): Origami Constructs</classes>
     <text>While the origami bird is bound to your person, you gain proficiency in the Perception skill. Additionally, you deal an additional 2 slashing damage whenever you hit a target with a ranged attack.
@@ -135,7 +135,7 @@ Source:	Obojima: Tales from the Tall Grass p. 152 (Third Party)</text>
     <modifier category="skill">perception +%0</modifier>
   </spell>
   <spell>
-    <name>Origami Construct: Cat</name>
+    <name>Origami Construct: Cat [TP Legacy]</name>
     <level>0</level>
     <classes>Wizard (Origami Mage) (TP): Origami Constructs</classes>
     <text>While the origami cat is bound to your person, you gain proficiency in the Stealth skill. Additionally, once on each of your turns when you hit a target with a melee weapon attack, the origami cat can make a melee spell attack against the same target. Its attack modifier is equal to your weapon attack modifier, and on a hit, the target takes 1d6 slashing damage.
@@ -148,7 +148,7 @@ Source:	Obojima: Tales from the Tall Grass p. 152 (Third Party)</text>
     <roll description="Slashing Damage" level="17">1d12</roll>
   </spell>
   <spell>
-    <name>Origami Construct: Crab</name>
+    <name>Origami Construct: Crab [TP Legacy]</name>
     <level>0</level>
     <classes>Wizard (Origami Mage) (TP): Origami Constructs</classes>
     <text>While the origami crab is bound to your person, you gain a +1 bonus to your AC and proficiency in the Athletics skill. If the wizard that crafted this origami crab creates another, this origami crab is destroyed.
@@ -158,7 +158,7 @@ Source:	Obojima: Tales from the Tall Grass p. 152 (Third Party)</text>
     <modifier category="bonus">ac +1</modifier>
   </spell>
   <spell>
-    <name>Origami Construct: Dragon</name>
+    <name>Origami Construct: Dragon [TP Legacy]</name>
     <level>0</level>
     <classes>Wizard (Origami Mage) (TP): Origami Constructs</classes>
     <text>While the origami dragon is bound to your person, you have disadvantage on Dexterity (Stealth) checks and can't benefit from being invisible. Additionally, you take 1d4 fire damage at the start of each of your turns. You can have multiple origami dragons bound to you at the same time.
@@ -169,7 +169,7 @@ Source:	Obojima: Tales from the Tall Grass p. 152 (Third Party)</text>
     <roll description="Fire Damage">2d6</roll>
   </spell>
   <spell>
-    <name>Origami Construct: Frog</name>
+    <name>Origami Construct: Frog [TP Legacy]</name>
     <level>0</level>
     <classes>Wizard (Origami Mage) (TP): Origami Constructs</classes>
     <text>While the origami frog is bound to your person, you gain proficiency in the Acrobatics skill. As a reaction, when you would fail a Dexterity saving throw, you can add a bonus to the roll equal to the spellcasting ability modifier of the wizard that crafted the construct; using this feature destroys the origami frog.

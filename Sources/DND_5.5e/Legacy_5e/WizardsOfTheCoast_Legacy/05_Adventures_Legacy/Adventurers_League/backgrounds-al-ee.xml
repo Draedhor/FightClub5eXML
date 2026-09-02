@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Caravan Specialist (Legacy)</name>
+    <name>Caravan Specialist [Legacy]</name>
     <proficiency>Animal Handling, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -63,7 +63,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Earthspur Miner (Legacy)</name>
+    <name>Earthspur Miner [Legacy]</name>
     <proficiency>Athletics, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -123,7 +123,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Harborfolk (Legacy)</name>
+    <name>Harborfolk [Legacy]</name>
     <proficiency>Athletics, Sleight of Hand</proficiency>
     <trait>
       <name>Description</name>
@@ -184,7 +184,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Mulmaster Aristocrat (Legacy)</name>
+    <name>Mulmaster Aristocrat [Legacy]</name>
     <proficiency>Deception, Performance</proficiency>
     <trait>
       <name>Description</name>
@@ -246,7 +246,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Phlan Refugee (Legacy)</name>
+    <name>Phlan Refugee [Legacy]</name>
     <proficiency>Insight, Athletics</proficiency>
     <trait>
       <name>Description</name>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>True Name Brass Knuckles (Rare) (TP)</name>
+    <name>True Name Brass Knuckles (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement by an illrigger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -28,7 +28,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Brass Knuckles (Very Rare) (TP)</name>
+    <name>True Name Brass Knuckles (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement by an illrigger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -55,7 +55,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Brass Knuckles (Legendary) (TP)</name>
+    <name>True Name Brass Knuckles (Legendary) [TP Legacy]</name>
     <detail>legendary (requires attunement by an illrigger)</detail>
     <type>M</type>
     <magic>YES</magic>

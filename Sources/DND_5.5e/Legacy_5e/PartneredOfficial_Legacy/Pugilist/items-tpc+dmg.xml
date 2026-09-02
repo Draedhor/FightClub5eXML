@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Brass Knuckles +1 (TP)</name>
+    <name>Brass Knuckles +1 [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -20,7 +20,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Brass Knuckles +2 (TP)</name>
+    <name>Brass Knuckles +2 [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -39,7 +39,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Brass Knuckles +3 (TP)</name>
+    <name>Brass Knuckles +3 [TP Legacy]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -58,7 +58,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">melee damage +3</modifier>
   </item>
   <item>
-    <name>Vicious Brass Knuckles (TP)</name>
+    <name>Vicious Brass Knuckles [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -75,7 +75,7 @@ Source:	Dungeon Master's Guide (2014) p. 209,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Brass Knuckles of Warning (TP)</name>
+    <name>Brass Knuckles of Warning [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>

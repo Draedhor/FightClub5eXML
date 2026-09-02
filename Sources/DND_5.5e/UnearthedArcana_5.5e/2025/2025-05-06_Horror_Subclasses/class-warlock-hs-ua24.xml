@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Warlock (UA)</name>
+    <name>Warlock</name>
     <!-- Warlock Subclass: Hexblade Patron (UA) -->
     <!-- <autolevel level="3">
       <feature optional="YES">
@@ -181,87 +181,87 @@ Source:	UA2024-Horror Subclasses p. 9</text>
     </autolevel>
   </class>
   <spell>
-    <name>Arcane Vigor (UA)</name>
+    <name>Arcane Vigor [UA]</name>
     <classes>Warlock (Hexblade Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Hex (UA)</name>
+    <name>Hex [UA]</name>
     <classes>Warlock (Hexblade Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Magic Weapon (UA)</name>
+    <name>Magic Weapon [UA]</name>
     <classes>Warlock (Hexblade Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Shield (UA)</name>
+    <name>Shield [UA]</name>
     <classes>Warlock (Hexblade Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Wrathful Smite (UA)</name>
+    <name>Wrathful Smite [UA]</name>
     <classes>Warlock (Hexblade Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Conjure Barrage (UA)</name>
+    <name>Conjure Barrage [UA]</name>
     <classes>Warlock (Hexblade Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Dispel Magic (UA)</name>
+    <name>Dispel Magic [UA]</name>
     <classes>Warlock (Hexblade Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement (UA)</name>
+    <name>Freedom of Movement [UA]</name>
     <classes>Warlock (Hexblade Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Staggering Smite (UA)</name>
+    <name>Staggering Smite [UA]</name>
     <classes>Warlock (Hexblade Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Animate Objects (UA)</name>
+    <name>Animate Objects [UA]</name>
     <classes>Warlock (Hexblade Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Steel Wind Strike (UA)</name>
+    <name>Steel Wind Strike [UA]</name>
     <classes>Warlock (Hexblade Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Blindness/Deafness (UA)</name>
+    <name>Blindness/Deafness [UA]</name>
     <classes>Warlock (Undead Patron (UA))</classes>
   </spell>
   <spell>
-    <name>False Life (UA)</name>
+    <name>False Life [UA]</name>
     <classes>Warlock (Undead Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Phantasmal Force (UA)</name>
+    <name>Phantasmal Force [UA]</name>
     <classes>Warlock (Undead Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Ray of Sickness (UA)</name>
+    <name>Ray of Sickness [UA]</name>
     <classes>Warlock (Undead Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Speak with Dead (UA)</name>
+    <name>Speak with Dead [UA]</name>
     <classes>Warlock (Undead Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Vampiric Touch (UA)</name>
+    <name>Vampiric Touch [UA]</name>
     <classes>Warlock (Undead Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Death Ward (UA)</name>
+    <name>Death Ward [UA]</name>
     <classes>Warlock (Undead Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Phantasmal Killer (UA)</name>
+    <name>Phantasmal Killer [UA]</name>
     <classes>Warlock (Undead Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Antilife Shell (UA)</name>
+    <name>Antilife Shell [UA]</name>
     <classes>Warlock (Undead Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Cloudkill (UA)</name>
+    <name>Cloudkill [UA]</name>
     <classes>Warlock (Undead Patron (UA))</classes>
   </spell>
 </compendium>

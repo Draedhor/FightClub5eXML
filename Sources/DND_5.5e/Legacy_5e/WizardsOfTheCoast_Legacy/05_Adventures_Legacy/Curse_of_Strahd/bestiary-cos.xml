@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Amber Golem</name>
+    <name>Amber Golem [Legacy]</name>
     <sortname>Golem, Amber</sortname>
     <ancestry>Golem</ancestry>
     <size>L</size>
@@ -54,7 +54,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Anastrasya Karelova</name>
+    <name>Anastrasya Karelova [Legacy]</name>
     <sortname>Karelova, Anastrasya</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -117,7 +117,7 @@ Sunlight Hypersensitivity: Anastrasya takes 20 radiant damage when it starts its
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Animated Halberd</name>
+    <name>Animated Halberd [Legacy]</name>
     <sortname>Animated Object, Halberd</sortname>
     <ancestry>Animated Object</ancestry>
     <size>S</size>
@@ -159,7 +159,7 @@ Sunlight Hypersensitivity: Anastrasya takes 20 radiant damage when it starts its
     <environment/>
   </monster>
   <monster>
-    <name>Arabelle</name>
+    <name>Arabelle [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -187,7 +187,7 @@ Sunlight Hypersensitivity: Anastrasya takes 20 radiant damage when it starts its
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Armored Saber-Toothed Tiger</name>
+    <name>Armored Saber-Toothed Tiger [Legacy]</name>
     <sortname>Saber-Toothed Tiger, Armored</sortname>
     <ancestry>Saber-Toothed Tiger</ancestry>
     <size>L</size>
@@ -234,7 +234,7 @@ Sunlight Hypersensitivity: Anastrasya takes 20 radiant damage when it starts its
     <environment>mountain, arctic</environment>
   </monster>
   <monster>
-    <name>Arrigal</name>
+    <name>Arrigal [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -291,7 +291,7 @@ Sunlight Hypersensitivity: Anastrasya takes 20 radiant damage when it starts its
     <environment/>
   </monster>
   <monster>
-    <name>Baba Lysaga</name>
+    <name>Baba Lysaga [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human, shapechanger)</type>
@@ -382,7 +382,7 @@ Source:	Curse of Strahd p. 228</description>
     <environment/>
   </monster>
   <monster>
-    <name>Baba Lysaga's Creeping Hut</name>
+    <name>Baba Lysaga's Creeping Hut [Legacy]</name>
     <size>G</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -447,7 +447,7 @@ Source:	Curse of Strahd p. 226</description>
     <environment/>
   </monster>
   <monster>
-    <name>Baron Vargas Vallakovich</name>
+    <name>Baron Vargas Vallakovich [Legacy]</name>
     <sortname>Vallakovich, Vargas</sortname>
     <ancestry>Noble</ancestry>
     <npc>YES</npc>
@@ -486,7 +486,7 @@ Source:	Curse of Strahd p. 226</description>
     <environment/>
   </monster>
   <monster>
-    <name>Barovian Commoner</name>
+    <name>Barovian Commoner [Legacy]</name>
     <sortname>Commoner, Barovian</sortname>
     <ancestry>Commoner</ancestry>
     <npc>YES</npc>
@@ -519,7 +519,7 @@ Source:	Curse of Strahd p. 226</description>
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Barovian Scout</name>
+    <name>Barovian Scout [Legacy]</name>
     <sortname>Scout, Barovian</sortname>
     <ancestry>Scout</ancestry>
     <npc>YES</npc>
@@ -567,7 +567,7 @@ Source:	Curse of Strahd p. 226</description>
     <environment/>
   </monster>
   <monster>
-    <name>Barovian Witch</name>
+    <name>Barovian Witch [Legacy]</name>
     <sortname>Witch, Barovian</sortname>
     <ancestry>Witch</ancestry>
     <npc>YES</npc>
@@ -627,7 +627,7 @@ Source:	Curse of Strahd p. 229</description>
     <environment/>
   </monster>
   <monster>
-    <name>Beucephalus</name>
+    <name>Beucephalus [Legacy]</name>
     <size>L</size>
     <type>fiend</type>
     <alignment>Neutral Evil</alignment>
@@ -671,7 +671,7 @@ Source:	Curse of Strahd p. 229</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bluto Krogarov</name>
+    <name>Bluto Krogarov [Legacy]</name>
     <sortname>Krogarov, Bluto</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -705,7 +705,7 @@ Source:	Curse of Strahd p. 229</description>
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Broom of Animated Attack</name>
+    <name>Broom of Animated Attack [Legacy]</name>
     <sortname>Animated Object, Broom of Animated Attack</sortname>
     <ancestry>Animated Object</ancestry>
     <size>S</size>
@@ -766,7 +766,7 @@ Source:	Curse of Strahd p. 226</description>
     <environment/>
   </monster>
   <monster>
-    <name>Clovin Belview</name>
+    <name>Clovin Belview [Legacy]</name>
     <sortname>Belview, Clovin</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -822,7 +822,7 @@ Source:	Curse of Strahd p. 226</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cyrus Belview</name>
+    <name>Cyrus Belview [Legacy]</name>
     <sortname>Belview, Cyrus</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -878,7 +878,7 @@ Source:	Curse of Strahd p. 226</description>
     <environment/>
   </monster>
   <monster>
-    <name>Davian Martikov</name>
+    <name>Davian Martikov [Legacy]</name>
     <sortname>Martikov, Davian</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -934,7 +934,7 @@ Source:	Curse of Strahd p. 226</description>
     <environment/>
   </monster>
   <monster>
-    <name>Distended Corpse</name>
+    <name>Distended Corpse [Legacy]</name>
     <sortname>Corpse, Distended</sortname>
     <ancestry>Corpse</ancestry>
     <size>M</size>
@@ -968,7 +968,7 @@ Source:	Curse of Strahd p. 226</description>
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Donavich</name>
+    <name>Donavich [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -1010,7 +1010,7 @@ Source:	Curse of Strahd p. 226</description>
     <environment/>
   </monster>
   <monster>
-    <name>Doru</name>
+    <name>Doru [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -1071,7 +1071,7 @@ Sunlight Hypersensitivity: Doru takes 20 radiant damage when it starts its turn 
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Emil Toranescu</name>
+    <name>Emil Toranescu [Legacy]</name>
     <sortname>Toranescu, Emil</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1131,7 +1131,7 @@ Sunlight Hypersensitivity: Doru takes 20 radiant damage when it starts its turn 
     <environment>forest, hill</environment>
   </monster>
   <monster>
-    <name>Escher</name>
+    <name>Escher [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -1192,7 +1192,7 @@ Sunlight Hypersensitivity: Escher takes 20 radiant damage when it starts its tur
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Exethanter</name>
+    <name>Exethanter [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Any Evil Alignment</alignment>
@@ -1285,7 +1285,7 @@ Sunlight Hypersensitivity: Escher takes 20 radiant damage when it starts its tur
     <environment/>
   </monster>
   <monster>
-    <name>Ezmerelda d'Avenir</name>
+    <name>Ezmerelda d'Avenir [Legacy]</name>
     <sortname>d'Avenir, Ezmerelda</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1386,7 +1386,7 @@ Source:	Curse of Strahd p. 231</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gadof Blinsky</name>
+    <name>Gadof Blinsky [Legacy]</name>
     <sortname>Blinsky, Gadof</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1418,7 +1418,7 @@ Source:	Curse of Strahd p. 231</description>
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Gertruda</name>
+    <name>Gertruda [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -1451,7 +1451,7 @@ Source:	Curse of Strahd p. 231</description>
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Guardian Portrait</name>
+    <name>Guardian Portrait [Legacy]</name>
     <sortname>Animated Object, Guardian Portrait</sortname>
     <ancestry>Animated Object</ancestry>
     <size>M</size>
@@ -1508,7 +1508,7 @@ Source:	Curse of Strahd p. 227</description>
     <environment/>
   </monster>
   <monster>
-    <name>Helga Ruvak</name>
+    <name>Helga Ruvak [Legacy]</name>
     <sortname>Ruvak, Helga</sortname>
     <size>M</size>
     <type>undead</type>
@@ -1570,7 +1570,7 @@ Sunlight Hypersensitivity: Helga takes 20 radiant damage when it starts its turn
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Henrik van der Voort</name>
+    <name>Henrik van der Voort [Legacy]</name>
     <sortname>van der Voort, Henrik</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1602,7 +1602,7 @@ Sunlight Hypersensitivity: Helga takes 20 radiant damage when it starts its turn
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Ireena Kolyana</name>
+    <name>Ireena Kolyana [Legacy]</name>
     <sortname>Kolyana, Ireena</sortname>
     <ancestry>Noble</ancestry>
     <npc>YES</npc>
@@ -1646,7 +1646,7 @@ Source:	Curse of Strahd p. 44</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ismark Kolyanovich</name>
+    <name>Ismark Kolyanovich [Legacy]</name>
     <sortname>Kolyanovich, Ismark</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1693,7 +1693,7 @@ Source:	Curse of Strahd p. 44</description>
     <environment/>
   </monster>
   <monster>
-    <name>Izek Strazni</name>
+    <name>Izek Strazni [Legacy]</name>
     <sortname>Strazni, Izek</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1763,7 +1763,7 @@ Source:	Curse of Strahd p. 232</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kasimir Velikov</name>
+    <name>Kasimir Velikov [Legacy]</name>
     <sortname>Velikov, Kasimir</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1822,7 +1822,7 @@ Source:	Curse of Strahd p. 232</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kiril Stoyanovich</name>
+    <name>Kiril Stoyanovich [Legacy]</name>
     <sortname>Stoyanovich, Kiril</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1882,7 +1882,7 @@ Source:	Curse of Strahd p. 232</description>
     <environment>forest, hill</environment>
   </monster>
   <monster>
-    <name>Knight of the Order</name>
+    <name>Knight of the Order [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral</alignment>
@@ -1947,7 +1947,7 @@ Source:	Curse of Strahd p. 232</description>
     <environment>forest, swamp, hill, urban, desert, arctic</environment>
   </monster>
   <monster>
-    <name>Lady Fiona Wachter</name>
+    <name>Lady Fiona Wachter [Legacy]</name>
     <sortname>Wachter, Fiona</sortname>
     <ancestry>priest</ancestry>
     <npc>YES</npc>
@@ -1996,7 +1996,7 @@ Source:	Curse of Strahd p. 232</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lady Lydia Petrovna</name>
+    <name>Lady Lydia Petrovna [Legacy]</name>
     <sortname>Petrovna, Lydia</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2028,7 +2028,7 @@ Source:	Curse of Strahd p. 232</description>
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Lief Lipsiege</name>
+    <name>Lief Lipsiege [Legacy]</name>
     <sortname>Lipsiege, Lief</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2062,7 +2062,7 @@ Source:	Curse of Strahd p. 232</description>
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Ludmilla Vilisevic</name>
+    <name>Ludmilla Vilisevic [Legacy]</name>
     <sortname>Vilisevic, Ludmilla</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2125,7 +2125,7 @@ Sunlight Hypersensitivity: Ludmilla takes 20 radiant damage when it starts its t
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Luvash</name>
+    <name>Luvash [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -2171,7 +2171,7 @@ Sunlight Hypersensitivity: Ludmilla takes 20 radiant damage when it starts its t
     <environment/>
   </monster>
   <monster>
-    <name>Mad Mary</name>
+    <name>Mad Mary [Legacy]</name>
     <sortname>Mary, Mad</sortname>
     <ancestry>Mary</ancestry>
     <npc>YES</npc>
@@ -2206,7 +2206,7 @@ Sunlight Hypersensitivity: Ludmilla takes 20 radiant damage when it starts its t
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Madam Eva</name>
+    <name>Madam Eva [Legacy]</name>
     <sortname>Eva, Madam</sortname>
     <ancestry>Eva</ancestry>
     <npc>YES</npc>
@@ -2285,7 +2285,7 @@ Source:	Curse of Strahd p. 233</description>
     <environment/>
   </monster>
   <monster>
-    <name>Majesto</name>
+    <name>Majesto [Legacy]</name>
     <size>T</size>
     <type>fiend (devil)</type>
     <alignment>Lawful Evil</alignment>
@@ -2340,7 +2340,7 @@ Familiar: Majesto can enter into a contract to serve another creature as a famil
     <environment/>
   </monster>
   <monster>
-    <name>Marzena Belview</name>
+    <name>Marzena Belview [Legacy]</name>
     <sortname>Belview, Marzena</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2396,7 +2396,7 @@ Familiar: Majesto can enter into a contract to serve another creature as a famil
     <environment/>
   </monster>
   <monster>
-    <name>Milivoj</name>
+    <name>Milivoj [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -2429,7 +2429,7 @@ Familiar: Majesto can enter into a contract to serve another creature as a famil
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Mishka Belview</name>
+    <name>Mishka Belview [Legacy]</name>
     <sortname>Belview, Mishka</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2485,7 +2485,7 @@ Familiar: Majesto can enter into a contract to serve another creature as a famil
     <environment/>
   </monster>
   <monster>
-    <name>Mongrelfolk</name>
+    <name>Mongrelfolk [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (mongrelfolk)</type>
@@ -2566,7 +2566,7 @@ Source:	Curse of Strahd p. 234</description>
     <environment/>
   </monster>
   <monster>
-    <name>Morgantha</name>
+    <name>Morgantha [Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>Neutral Evil</alignment>
@@ -2657,7 +2657,7 @@ For casting these spells, each hag is a 12th-level spellcaster that uses Intelli
     <environment/>
   </monster>
   <monster>
-    <name>Nikolai Wachter</name>
+    <name>Nikolai Wachter [Legacy]</name>
     <sortname>Wachter, Nikolai</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2694,7 +2694,7 @@ For casting these spells, each hag is a 12th-level spellcaster that uses Intelli
     <environment/>
   </monster>
   <monster>
-    <name>Otto Belview</name>
+    <name>Otto Belview [Legacy]</name>
     <sortname>Belview, Otto</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2749,7 +2749,7 @@ For casting these spells, each hag is a 12th-level spellcaster that uses Intelli
     <environment/>
   </monster>
   <monster>
-    <name>Parpol Cantemir</name>
+    <name>Parpol Cantemir [Legacy]</name>
     <sortname>Cantemir, Parpol</sortname>
     <ancestry>Gladiator</ancestry>
     <npc>YES</npc>
@@ -2803,7 +2803,7 @@ Source:	Curse of Strahd p. 43</description>
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Parriwimple</name>
+    <name>Parriwimple [Legacy]</name>
     <sortname>Cantemir, Parpol AKA Parriwimple</sortname>
     <ancestry>Gladiator</ancestry>
     <npc>YES</npc>
@@ -2856,7 +2856,7 @@ Source:	Curse of Strahd p. 43</description>
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Patrina Velikovna</name>
+    <name>Patrina Velikovna [Legacy]</name>
     <sortname>Velikovna, Patrina</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2919,7 +2919,7 @@ Source:	Curse of Strahd p. 43</description>
     <environment/>
   </monster>
   <monster>
-    <name>Phantom Warrior</name>
+    <name>Phantom Warrior [Legacy]</name>
     <sortname>Phantom, Warrior</sortname>
     <ancestry>Phantom</ancestry>
     <size>M</size>
@@ -2987,7 +2987,7 @@ Source:	Curse of Strahd p. 235</description>
     <environment/>
   </monster>
   <monster>
-    <name>Piccolo</name>
+    <name>Piccolo [Legacy]</name>
     <size>S</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -3023,7 +3023,7 @@ Source:	Curse of Strahd p. 235</description>
     <environment>forest, hill</environment>
   </monster>
   <monster>
-    <name>Pidlwick II</name>
+    <name>Pidlwick II [Legacy]</name>
     <size>S</size>
     <type>construct</type>
     <alignment>Neutral Evil</alignment>
@@ -3088,7 +3088,7 @@ Source:	Curse of Strahd p. 236</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rahadin</name>
+    <name>Rahadin [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf)</type>
@@ -3176,7 +3176,7 @@ Source:	Curse of Strahd p. 237</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rictavio</name>
+    <name>Rictavio [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -3253,7 +3253,7 @@ Source:	Curse of Strahd p. 238</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rosavalda "Rose" Durst</name>
+    <name>Rosavalda "Rose" Durst [Legacy]</name>
     <sortname>Durst, Rosavalda "Rose"</sortname>
     <size>S</size>
     <type>undead</type>
@@ -3305,7 +3305,7 @@ The possession lasts until the body drops to 0 hit points, Rose ends it as a bon
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Sangzor</name>
+    <name>Sangzor [Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -3345,7 +3345,7 @@ The possession lasts until the body drops to 0 hit points, Rose ends it as a bon
     <environment>mountain, grassland, hill</environment>
   </monster>
   <monster>
-    <name>Savid</name>
+    <name>Savid [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -3391,7 +3391,7 @@ The possession lasts until the body drops to 0 hit points, Rose ends it as a bon
     <environment/>
   </monster>
   <monster>
-    <name>Sir Godfrey Gwilym</name>
+    <name>Sir Godfrey Gwilym [Legacy]</name>
     <sortname>Gwilym, Godfrey</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3453,7 +3453,7 @@ The possession lasts until the body drops to 0 hit points, Rose ends it as a bon
     <environment>forest, swamp, hill, urban, desert, arctic</environment>
   </monster>
   <monster>
-    <name>Snow Maiden</name>
+    <name>Snow Maiden [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -3493,7 +3493,7 @@ The possession lasts until the body drops to 0 hit points, Rose ends it as a bon
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Stanimir</name>
+    <name>Stanimir [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -3543,7 +3543,7 @@ The possession lasts until the body drops to 0 hit points, Rose ends it as a bon
     <environment/>
   </monster>
   <monster>
-    <name>Stella Wachter</name>
+    <name>Stella Wachter [Legacy]</name>
     <sortname>Wachter, Stella</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3577,7 +3577,7 @@ The possession lasts until the body drops to 0 hit points, Rose ends it as a bon
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Strahd von Zarovich</name>
+    <name>Strahd von Zarovich [Legacy]</name>
     <sortname>Zarovich, Strahd von</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3748,7 +3748,7 @@ Source:	Curse of Strahd p. 240</description>
     <environment/>
   </monster>
   <monster>
-    <name>Strahd Zombie</name>
+    <name>Strahd Zombie [Legacy]</name>
     <sortname>Strahd, Zombie</sortname>
     <ancestry>Strahd</ancestry>
     <size>M</size>
@@ -3817,7 +3817,7 @@ Source:	Curse of Strahd p. 241</description>
     <environment/>
   </monster>
   <monster>
-    <name>Strahd's Animated Armor</name>
+    <name>Strahd's Animated Armor [Legacy]</name>
     <sortname>Animated Object, Strahd's Animated Armor</sortname>
     <ancestry>Animated Object</ancestry>
     <size>M</size>
@@ -3881,7 +3881,7 @@ Source:	Curse of Strahd p. 227</description>
     <environment/>
   </monster>
   <monster>
-    <name>Szoldar Szoldarovich</name>
+    <name>Szoldar Szoldarovich [Legacy]</name>
     <sortname>Szoldarovich, Szoldar</sortname>
     <ancestry>Szoldarovich</ancestry>
     <npc>YES</npc>
@@ -3929,7 +3929,7 @@ Source:	Curse of Strahd p. 227</description>
     <environment/>
   </monster>
   <monster>
-    <name>The Abbot</name>
+    <name>The Abbot [Legacy]</name>
     <sortname>Abbot, The</sortname>
     <size>M</size>
     <type>celestial</type>
@@ -3993,7 +3993,7 @@ In a new form, The Abbot retains its game statistics and ability to speak, but i
     <environment/>
   </monster>
   <monster>
-    <name>Mad Mage of Mount Baratok</name>
+    <name>Mad Mage of Mount Baratok [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -4055,7 +4055,7 @@ In a new form, The Abbot retains its game statistics and ability to speak, but i
     <environment/>
   </monster>
   <monster>
-    <name>Thornboldt "Thorn" Durst</name>
+    <name>Thornboldt "Thorn" Durst [Legacy]</name>
     <sortname>Durst, Thornboldt "Thorn"</sortname>
     <ancestry>Durst</ancestry>
     <npc>YES</npc>
@@ -4109,7 +4109,7 @@ The possession lasts until the body drops to 0 hit points, Thorn ends it as a bo
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Tree Blight</name>
+    <name>Tree Blight [Legacy]</name>
     <sortname>Blight, Tree</sortname>
     <ancestry>Blight</ancestry>
     <size>H</size>
@@ -4173,7 +4173,7 @@ Source:	Curse of Strahd p. 230</description>
     <environment/>
   </monster>
   <monster>
-    <name>Vasilka</name>
+    <name>Vasilka [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>construct</type>
@@ -4236,7 +4236,7 @@ Vasilka's creator, if within 60 feet of the berserk golem, can try to calm it by
     <environment/>
   </monster>
   <monster>
-    <name>Victor Vallakovich</name>
+    <name>Victor Vallakovich [Legacy]</name>
     <sortname>Vallakovich, Victor</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4287,7 +4287,7 @@ Vasilka's creator, if within 60 feet of the berserk golem, can try to calm it by
     <environment/>
   </monster>
   <monster>
-    <name>Vilnius</name>
+    <name>Vilnius [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -4337,7 +4337,7 @@ Vasilka's creator, if within 60 feet of the berserk golem, can try to calm it by
     <environment/>
   </monster>
   <monster>
-    <name>Vladimir Horngaard</name>
+    <name>Vladimir Horngaard [Legacy]</name>
     <sortname>Horngaard, Vladimir</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4446,7 +4446,7 @@ Source:	Curse of Strahd p. 241</description>
     <environment/>
   </monster>
   <monster>
-    <name>Volenta Popofsky</name>
+    <name>Volenta Popofsky [Legacy]</name>
     <sortname>Popofsky, Volenta</sortname>
     <size>M</size>
     <type>undead</type>
@@ -4508,7 +4508,7 @@ Sunlight Hypersensitivity: Volenta takes 20 radiant damage when it starts its tu
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Wereraven</name>
+    <name>Wereraven [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human, shapechanger)</type>
@@ -4578,7 +4578,7 @@ Source:	Curse of Strahd p. 242</description>
     <environment/>
   </monster>
   <monster>
-    <name>Yevgeni Krushkin</name>
+    <name>Yevgeni Krushkin [Legacy]</name>
     <sortname>Krushkin, Yevgeni</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4625,7 +4625,7 @@ Source:	Curse of Strahd p. 242</description>
     <environment/>
   </monster>
   <monster>
-    <name>Zuleika Toranescu</name>
+    <name>Zuleika Toranescu [Legacy]</name>
     <sortname>Toranescu, Zuleika</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4685,7 +4685,7 @@ Source:	Curse of Strahd p. 242</description>
     <environment>forest, hill</environment>
   </monster>
   <monster>
-    <name>Zygfrek Belview</name>
+    <name>Zygfrek Belview [Legacy]</name>
     <sortname>Belview, Zygfrek</sortname>
     <npc>YES</npc>
     <size>M</size>

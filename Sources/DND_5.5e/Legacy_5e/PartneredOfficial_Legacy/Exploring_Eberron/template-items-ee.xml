@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <itemtemplate>
-    <name>%name% of the Master (Uncommon)</name>
+    <name>%name% of the Master (Uncommon) [TP Legacy]</name>
     <detail>uncommon (requires attunement by a character proficient with the tool)</detail>
     <match>Tools</match>
     <text>While using this tool as a spellcasting focus, you gain a +1 bonus to spell attack rolls. In addition, you can add this bonus to any ability check you make using this tool.</text>
@@ -9,7 +9,7 @@
     <modifier category="bonus">spell attack +1</modifier>
   </itemtemplate>
   <itemtemplate>
-    <name>%name% of the Master (Rare)</name>
+    <name>%name% of the Master (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement by a character proficient with the tool)</detail>
     <match>Tools</match>
     <text>While using this tool as a spellcasting focus, you gain a +2 bonus to spell attack rolls. In addition, you can add this bonus to any ability check you make using this tool.</text>
@@ -17,7 +17,7 @@
     <modifier category="bonus">spell attack +2</modifier>
   </itemtemplate>
   <itemtemplate>
-    <name>%name% of the Master (Very Rare)</name>
+    <name>%name% of the Master (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement by a character proficient with the tool)</detail>
     <match>Tools</match>
     <text>While using this tool as a spellcasting focus, you gain a +3 bonus to spell attack rolls. In addition, you can add this bonus to any ability check you make using this tool.</text>
@@ -25,7 +25,7 @@
     <modifier category="bonus">spell attack +3</modifier>
   </itemtemplate>
   <itemtemplate>
-    <name>Hungry %name%</name>
+    <name>Hungry %name% [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <text>A hungry weapon, a creation of the daelkyr, is formed from muscle and bone. It may moan, growl, or wail, and it twists in your grip if it doesn't like you. If any creature attempts to wield this weapon while not attuned to it, it has disadvantage on attack rolls made using the weapon. Additionally, if you are attuned to this weapon when another creature tries to wield it, the weapon's hilt extrudes sharp thorns and that creature takes 1d4 points of piercing damage each turn.

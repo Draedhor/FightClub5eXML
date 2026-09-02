@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Aqua Delerium (TP)</name>
+    <name>Aqua Delerium [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <text>This purple potion glows dimly with octarine light. It swirls and sparkles in its small stoppered bottle.
@@ -40,7 +40,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party)</text>
     <roll>3d6</roll>
   </item>
   <item>
-    <name>Aqua Expurgo (TP)</name>
+    <name>Aqua Expurgo [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <text>This bright orange fluid is stored in a syringe and charged with arcane magic. You can use an action to administer the shot directly to the heart of yourself or another willing creature.
@@ -50,7 +50,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party)</text>
 Source:	Dungeons of Drakkenheim p. 230 (Third Party)</text>
   </item>
   <item>
-    <name>Bottled Comet (TP)</name>
+    <name>Bottled Comet [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <text>This spherical glass orb contains an ignited delerium shard hovering gently within. Electrical currents of yellow, green, and purple energy streak from the crystal and cascade along the glass, rendering it warm to the touch.
@@ -59,7 +59,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party)</text>
 Source:	Dungeons of Drakkenheim p. 230 (Third Party)</text>
   </item>
   <item>
-    <name>Chancellor's Crest (TP)</name>
+    <name>Chancellor's Crest [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <text>While wearing this amulet, you can read all writing, and speak and understand any language.
@@ -71,7 +71,7 @@ Crown Authority: A character cannot attune to more than one Seal of Drakkenheim.
 Source:	Dungeons of Drakkenheim p. 232 (Third Party)</text>
   </item>
   <item>
-    <name>Crown of Westemär (TP)</name>
+    <name>Crown of Westemär [TP Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <text>A character may only attune to the Crown of Westemär by performing a special one hour ceremony with six other characters who are each attuned to a different Seal of Drakkenheim. See the "Developments" section in Chapter 9: Castle Drakken for details on this ritual.
@@ -84,7 +84,7 @@ Crown Authority: A character cannot attune to more than one Seal of Drakkenheim.
 Source:	Dungeons of Drakkenheim p. 233 (Third Party)</text>
   </item>
   <item>
-    <name>Delerium Crystal Focus (TP)</name>
+    <name>Delerium Crystal Focus [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -118,7 +118,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party)</text>
     <modifier category="bonus">spell attack +2</modifier>
   </item>
   <item>
-    <name>Flame Lance (TP)</name>
+    <name>Flame Lance [TP Legacy]</name>
     <detail>lance, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -142,7 +142,7 @@ Source:	Dungeons of Drakkenheim p. 231 (Third Party),
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Hazewalker Plate (TP)</name>
+    <name>Hazewalker Plate [TP Legacy]</name>
     <detail>plate armor, very rare</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -168,7 +168,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party),
 		Player's Handbook (2014) p. 145</text>
   </item>
   <item>
-    <name>Helm of Patron Saints (TP)</name>
+    <name>Helm of Patron Saints [TP Legacy]</name>
     <detail>rare (requires attunement by a spellcaster)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -181,7 +181,7 @@ Source:	Dungeons of Drakkenheim p. 234 (Third Party)</text>
     <modifier category="bonus">spell attack +1</modifier>
   </item>
   <item>
-    <name>Ignacious, The Sword of Burning Truth (TP)</name>
+    <name>Ignacious, The Sword of Burning Truth [TP Legacy]</name>
     <detail>longsword, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -212,7 +212,7 @@ Source:	Dungeons of Drakkenheim p. 234 (Third Party),
     <roll>4d6</roll>
   </item>
   <item>
-    <name>Inscrutable Staff (TP)</name>
+    <name>Inscrutable Staff [TP Legacy]</name>
     <detail>quarterstaff, legendary (requires attunement by a sorcerer, warlock or wizard)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -265,7 +265,7 @@ Source:	Dungeons of Drakkenheim p. 233 (Third Party),
     <roll>1d10</roll>
   </item>
   <item>
-    <name>Lord Commander's Badge (TP)</name>
+    <name>Lord Commander's Badge [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -277,7 +277,7 @@ Crown Authority: A character cannot attune to more than one Seal of Drakkenheim.
 Source:	Dungeons of Drakkenheim p. 233 (Third Party)</text>
   </item>
   <item>
-    <name>Purging Rod (TP)</name>
+    <name>Purging Rod [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>RD</type>
     <magic>YES</magic>
@@ -287,7 +287,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party)</text>
     <roll>1d20</roll>
   </item>
   <item>
-    <name>Refined Delerium Dust (TP)</name>
+    <name>Refined Delerium Dust [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -297,7 +297,7 @@ Source:	Dungeons of Drakkenheim p. 230 (Third Party)</text>
 Source:	Dungeons of Drakkenheim p. 231 (Third Party)</text>
   </item>
   <item>
-    <name>Saint Vitruvio's Phylactery (TP)</name>
+    <name>Saint Vitruvio's Phylactery [TP Legacy]</name>
     <detail>rare (requires attunement by a bard, cleric, druid or paladin)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -312,7 +312,7 @@ Relics of Saint Vitruvio: These holy relics of the Sacred Flame were wielded by 
 Source:	Dungeons of Drakkenheim p. 233 (Third Party)</text>
   </item>
   <item>
-    <name>Sceptre of Saint Vitruvio (TP)</name>
+    <name>Sceptre of Saint Vitruvio [TP Legacy]</name>
     <detail>quarterstaff, rare (requires attunement by a spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -336,7 +336,7 @@ Source:	Dungeons of Drakkenheim p. 234 (Third Party)</text>
     <roll>1d6+4</roll>
   </item>
   <item>
-    <name>Skymetal Shield (TP)</name>
+    <name>Skymetal Shield [TP Legacy]</name>
     <detail>shield, uncommon (requires attunement)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -350,7 +350,7 @@ Source:	Dungeons of Drakkenheim p. 232 (Third Party)</text>
     <roll>1d6</roll>
   </item>
   <item>
-    <name>Skymetal Staff (TP)</name>
+    <name>Skymetal Staff [TP Legacy]</name>
     <detail>quarterstaff, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -368,7 +368,7 @@ Source:	Dungeons of Drakkenheim p. 232 (Third Party)</text>
     <roll>3d6</roll>
   </item>
   <item>
-    <name>Spellpiercing Wand (TP)</name>
+    <name>Spellpiercing Wand [TP Legacy]</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -377,7 +377,7 @@ Source:	Dungeons of Drakkenheim p. 232 (Third Party)</text>
 Source:	Dungeons of Drakkenheim p. 232 (Third Party)</text>
   </item>
   <item>
-    <name>Spymaster's Signet (TP)</name>
+    <name>Spymaster's Signet [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -389,7 +389,7 @@ Crown Authority: A character cannot attune to more than one Seal of Drakkenheim.
 Source:	Dungeons of Drakkenheim p. 233 (Third Party)</text>
   </item>
   <item>
-    <name>Staff of Contaminated Power (TP)</name>
+    <name>Staff of Contaminated Power [TP Legacy]</name>
     <detail>quarterstaff, legendary (requires attunement by a sorcerer, warlock or wizard)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -412,7 +412,7 @@ Source:	Dungeons of Drakkenheim p. 232 (Third Party)</text>
     <roll>1d6</roll>
   </item>
   <item>
-    <name>Steward's Seal (TP)</name>
+    <name>Steward's Seal [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -425,7 +425,7 @@ Crown Authority: A character cannot attune to more than one Seal of Drakkenheim.
 Source:	Dungeons of Drakkenheim p. 233 (Third Party)</text>
   </item>
   <item>
-    <name>The Shield of Sacred Flame (TP)</name>
+    <name>The Shield of Sacred Flame [TP Legacy]</name>
     <detail>shield, rare (requires attunement)</detail>
     <type>S</type>
     <magic>YES</magic>

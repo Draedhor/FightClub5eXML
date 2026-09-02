@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Aarakocra Simulacra</name>
+    <name>Aarakocra Simulacra [Legacy]</name>
     <sortname>Aarakocra, Simulacra</sortname>
     <ancestry>Aarakocra</ancestry>
     <npc>YES</npc>
@@ -53,7 +53,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Alastrah</name>
+    <name>Alastrah [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -86,7 +86,7 @@
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Augrek Brighthelm</name>
+    <name>Augrek Brighthelm [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (shield dwarf)</type>
@@ -142,7 +142,7 @@ Source:	Storm King's Thunder p. 247</description>
     <environment/>
   </monster>
   <monster>
-    <name>Axe of Mirabar Soldier</name>
+    <name>Axe of Mirabar Soldier [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (dwarf)</type>
@@ -193,7 +193,7 @@ Source:	Storm King's Thunder p. 247</description>
     <environment/>
   </monster>
   <monster>
-    <name>Beldora</name>
+    <name>Beldora [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (illuskanhuman)</type>
@@ -249,7 +249,7 @@ Source:	Storm King's Thunder p. 249</description>
     <environment/>
   </monster>
   <monster>
-    <name>Braxow</name>
+    <name>Braxow [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Neutral</alignment>
@@ -306,7 +306,7 @@ Rolling Rock: The giant sends a rock tumbling along the ground in a 30-foot line
     <environment>underdark, mountain, hill</environment>
   </monster>
   <monster>
-    <name>Chief Guh</name>
+    <name>Chief Guh [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -404,7 +404,7 @@ Source:	Storm King's Thunder p. 140</description>
     <environment/>
   </monster>
   <monster>
-    <name>Chief Kartha-Kaya</name>
+    <name>Chief Kartha-Kaya [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -452,7 +452,7 @@ The possession lasts until either the body drops to 0 hit points, Chief Kartha e
     <environment/>
   </monster>
   <monster>
-    <name>Cinderhild</name>
+    <name>Cinderhild [Legacy]</name>
     <size>L</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -489,7 +489,7 @@ The possession lasts until either the body drops to 0 hit points, Chief Kartha e
     <environment>grassland, forest, swamp, hill, desert, coastal, arctic, underdark, mountain</environment>
   </monster>
   <monster>
-    <name>Claugiyliamatar</name>
+    <name>Claugiyliamatar [Legacy]</name>
     <size>G</size>
     <type>dragon</type>
     <alignment>Lawful Evil</alignment>
@@ -596,7 +596,7 @@ If the dragon dies, the rodents and birds lose their supernatural link to it. Th
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Clockwork Mule</name>
+    <name>Clockwork Mule [Legacy]</name>
     <sortname>Mule, Clockwork</sortname>
     <ancestry>Mule</ancestry>
     <size>M</size>
@@ -642,7 +642,7 @@ If the dragon dies, the rodents and birds lose their supernatural link to it. Th
     <environment>hill, urban, desert</environment>
   </monster>
   <monster>
-    <name>Cog</name>
+    <name>Cog [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -689,7 +689,7 @@ Squash: Melee Weapon Attack: +8 to hit, reach 5 ft., one Medium or Smaller creat
     <environment>hill</environment>
   </monster>
   <monster>
-    <name>Count Thullen</name>
+    <name>Count Thullen [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Neutral Good (50%) Neutral Evil (50%)</alignment>
@@ -763,7 +763,7 @@ Wind Aura: A magical aura of wind surrounds Thullen. The aura is a 10-foot-radiu
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Countess Sansuri</name>
+    <name>Countess Sansuri [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Neutral Evil</alignment>
@@ -889,7 +889,7 @@ Source:	Storm King's Thunder p. 192</description>
     <environment/>
   </monster>
   <monster>
-    <name>Crag Cat</name>
+    <name>Crag Cat [Legacy]</name>
     <sortname>Cat, Crag</sortname>
     <ancestry>Cat</ancestry>
     <size>L</size>
@@ -947,7 +947,7 @@ Source:	Storm King's Thunder p. 240,
     <environment/>
   </monster>
   <monster>
-    <name>Cressaro</name>
+    <name>Cressaro [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Neutral Good (50%) Neutral Evil (50%)</alignment>
@@ -1009,7 +1009,7 @@ Wind Aura: A magical aura of wind surrounds the giant. The aura is a 10-foot-rad
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Cryovain</name>
+    <name>Cryovain [Legacy]</name>
     <size>H</size>
     <type>dragon</type>
     <alignment>Chaotic Evil</alignment>
@@ -1111,7 +1111,7 @@ If the dragon dies, the fog and precipitation fade within 1 day. The ice walls m
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Darathra Shendrel-Storm King's Thunder</name>
+    <name>Darathra Shendrel-Storm King's Thunder [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (chondathanhuman)</type>
@@ -1165,7 +1165,7 @@ Flaw: "I refuse to back down. Push me, and I'll push back."</text>
     <environment/>
   </monster>
   <monster>
-    <name>Darz Helgar</name>
+    <name>Darz Helgar [Legacy]</name>
     <sortname>Helgar, Darz</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1223,7 +1223,7 @@ Source:	Storm King's Thunder p. 253</description>
     <environment/>
   </monster>
   <monster>
-    <name>Deadstone Cleft Stone Giant</name>
+    <name>Deadstone Cleft Stone Giant [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Neutral</alignment>
@@ -1284,7 +1284,7 @@ Rolling Rock: The giant sends a rock tumbling along the ground in a 30-foot line
     <environment>underdark, mountain, hill</environment>
   </monster>
   <monster>
-    <name>Duchess Brimskarda</name>
+    <name>Duchess Brimskarda [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Lawful Evil</alignment>
@@ -1337,7 +1337,7 @@ Tackle: When the giant enters any enemy's space for the first time on a turn, th
     <environment>underdark, mountain</environment>
   </monster>
   <monster>
-    <name>Duke Zalto</name>
+    <name>Duke Zalto [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Lawful Evil</alignment>
@@ -1440,7 +1440,7 @@ Source:	Storm King's Thunder p. 184</description>
     <environment/>
   </monster>
   <monster>
-    <name>Duvessa Shane</name>
+    <name>Duvessa Shane [Legacy]</name>
     <sortname>Shane, Duvessa</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1492,7 +1492,7 @@ Source:	Storm King's Thunder p. 248</description>
     <environment/>
   </monster>
   <monster>
-    <name>Eigeron's Ghost</name>
+    <name>Eigeron's Ghost [Legacy]</name>
     <size>H</size>
     <type>undead</type>
     <alignment>Any alignment</alignment>
@@ -1547,7 +1547,7 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Elister</name>
+    <name>Elister [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (gnome)</type>
@@ -1599,7 +1599,7 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
     <environment/>
   </monster>
   <monster>
-    <name>Felbarren Dwarf</name>
+    <name>Felbarren Dwarf [Legacy]</name>
     <sortname>Dwarf, Felbarren</sortname>
     <ancestry>Dwarf</ancestry>
     <npc>YES</npc>
@@ -1638,7 +1638,7 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
     <environment/>
   </monster>
   <monster>
-    <name>Felgolos</name>
+    <name>Felgolos [Legacy]</name>
     <size>H</size>
     <type>dragon</type>
     <alignment>Lawful Good</alignment>
@@ -1749,7 +1749,7 @@ If the dragon dies, changed weather reverts to normal, as described in the spell
     <environment>coastal</environment>
   </monster>
   <monster>
-    <name>Ghelryn Foehammer</name>
+    <name>Ghelryn Foehammer [Legacy]</name>
     <sortname>Foehammer, Ghelryn</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1809,7 +1809,7 @@ Source:	Storm King's Thunder p. 255</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Raven</name>
+    <name>Giant Raven [Legacy]</name>
     <sortname>Raven, Giant</sortname>
     <ancestry>Raven</ancestry>
     <size>L</size>
@@ -1860,7 +1860,7 @@ Source:	Storm King's Thunder p. 255</description>
     <environment>grassland, desert</environment>
   </monster>
   <monster>
-    <name>Great Chief Halric Bonesnapper</name>
+    <name>Great Chief Halric Bonesnapper [Legacy]</name>
     <sortname>Chief Halric, Bonesnapper Great</sortname>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -1897,7 +1897,7 @@ Source:	Storm King's Thunder p. 255</description>
     <environment/>
   </monster>
   <monster>
-    <name>Harshnag</name>
+    <name>Harshnag [Legacy]</name>
     <npc>YES</npc>
     <size>H</size>
     <type>giant</type>
@@ -1991,7 +1991,7 @@ Source:	Storm King's Thunder p. 120</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hellenhild</name>
+    <name>Hellenhild [Legacy]</name>
     <npc>YES</npc>
     <size>H</size>
     <type>giant</type>
@@ -2039,7 +2039,7 @@ Weighted Net: Ranged Weapon Attack: +5 to hit, ranged 20/60 ft., one Small, Medi
     <environment>mountain, arctic</environment>
   </monster>
   <monster>
-    <name>Huge Stone Golem</name>
+    <name>Huge Stone Golem [Legacy]</name>
     <sortname>Stone Golem, Huge</sortname>
     <ancestry>Stone Golem</ancestry>
     <size>H</size>
@@ -2094,7 +2094,7 @@ Weighted Net: Ranged Weapon Attack: +5 to hit, ranged 20/60 ft., one Small, Medi
     <environment/>
   </monster>
   <monster>
-    <name>Hulking Crab</name>
+    <name>Hulking Crab [Legacy]</name>
     <sortname>Crab, Hulking</sortname>
     <ancestry>Crab</ancestry>
     <size>H</size>
@@ -2144,7 +2144,7 @@ Source:	Storm King's Thunder p. 240</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hydia Moonmusk</name>
+    <name>Hydia Moonmusk [Legacy]</name>
     <sortname>Moonmusk, Hydia</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2199,7 +2199,7 @@ Source:	Storm King's Thunder p. 240</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ice Spider</name>
+    <name>Ice Spider [Legacy]</name>
     <sortname>Spider, Ice</sortname>
     <size>L</size>
     <type>beast</type>
@@ -2252,7 +2252,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment>underdark, forest, swamp, urban, desert</environment>
   </monster>
   <monster>
-    <name>Ice Spider Queen</name>
+    <name>Ice Spider Queen [Legacy]</name>
     <sortname>Spider, Ice Queen</sortname>
     <ancestry>Spider</ancestry>
     <size>L</size>
@@ -2311,7 +2311,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment>underdark, forest, swamp, urban, desert</environment>
   </monster>
   <monster>
-    <name>Imperator Uthor</name>
+    <name>Imperator Uthor [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Chaotic Good</alignment>
@@ -2376,7 +2376,7 @@ Thunderous Stomp (Recharge 6). The storm giant stomps the ground, triggering a t
     <environment>coastal</environment>
   </monster>
   <monster>
-    <name>Isendraug</name>
+    <name>Isendraug [Legacy]</name>
     <size>H</size>
     <type>dragon</type>
     <alignment>Chaotic Evil</alignment>
@@ -2478,7 +2478,7 @@ If the dragon dies, the fog and precipitation fade within 1 day. The ice walls m
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Iymrith</name>
+    <name>Iymrith [Legacy]</name>
     <size>G</size>
     <type>dragon</type>
     <alignment>Lawful Evil</alignment>
@@ -2663,7 +2663,7 @@ Source:	Storm King's Thunder p. 241</description>
     <environment/>
   </monster>
   <monster>
-    <name>Iymrith (Giant Form)</name>
+    <name>Iymrith (Giant Form) [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Lawful Evil</alignment>
@@ -2732,7 +2732,7 @@ Source:	Storm King's Thunder p. 241</description>
     <environment/>
   </monster>
   <monster>
-    <name>Iymrith the Dragon</name>
+    <name>Iymrith the Dragon [Legacy]</name>
     <size>G</size>
     <type>dragon</type>
     <alignment>Lawful Evil</alignment>
@@ -2822,7 +2822,7 @@ Source:	Storm King's Thunder p. 241</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jarl Storvald</name>
+    <name>Jarl Storvald [Legacy]</name>
     <sortname>Storvald, Jarl</sortname>
     <ancestry>Storvald</ancestry>
     <npc>YES</npc>
@@ -2923,7 +2923,7 @@ Source:	Storm King's Thunder p. 165</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jasper Dimmerchasm</name>
+    <name>Jasper Dimmerchasm [Legacy]</name>
     <sortname>Dimmerchasm, Jasper</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2975,7 +2975,7 @@ Source:	Storm King's Thunder p. 165</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kaaltar</name>
+    <name>Kaaltar [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -3008,7 +3008,7 @@ Source:	Storm King's Thunder p. 165</description>
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Kella Darkhope</name>
+    <name>Kella Darkhope [Legacy]</name>
     <sortname>Darkhope, Kella</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3060,7 +3060,7 @@ Source:	Storm King's Thunder p. 165</description>
     <environment/>
   </monster>
   <monster>
-    <name>Khaspere Drylund</name>
+    <name>Khaspere Drylund [Legacy]</name>
     <sortname>Drylund, Khaspere</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3098,7 +3098,7 @@ Source:	Storm King's Thunder p. 165</description>
     <environment/>
   </monster>
   <monster>
-    <name>King Hekaton</name>
+    <name>King Hekaton [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Chaotic Good</alignment>
@@ -3205,7 +3205,7 @@ Source:	Storm King's Thunder p. 222</description>
     <environment/>
   </monster>
   <monster>
-    <name>Klauth</name>
+    <name>Klauth [Legacy]</name>
     <size>G</size>
     <type>dragon</type>
     <alignment>Chaotic Evil</alignment>
@@ -3396,7 +3396,7 @@ Source:	Storm King's Thunder p. 95</description>
     <environment/>
   </monster>
   <monster>
-    <name>Knight of the Mithral Shield</name>
+    <name>Knight of the Mithral Shield [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (dwarf)</type>
@@ -3459,7 +3459,7 @@ Source:	Storm King's Thunder p. 95</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lifferlas</name>
+    <name>Lifferlas [Legacy]</name>
     <size>H</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -3513,7 +3513,7 @@ Source:	Storm King's Thunder p. 250</description>
     <environment/>
   </monster>
   <monster>
-    <name>Maegera the Dawn Titan</name>
+    <name>Maegera the Dawn Titan [Legacy]</name>
     <size>G</size>
     <type>elemental</type>
     <alignment>Chaotic Evil</alignment>
@@ -3601,7 +3601,7 @@ Source:	Storm King's Thunder p. 241</description>
     <environment/>
   </monster>
   <monster>
-    <name>Markham Southwell</name>
+    <name>Markham Southwell [Legacy]</name>
     <sortname>Southwell, Markham</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3658,7 +3658,7 @@ Source:	Storm King's Thunder p. 248</description>
     <environment/>
   </monster>
   <monster>
-    <name>Miros Xelbrin</name>
+    <name>Miros Xelbrin [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (damaranhuman)</type>
@@ -3717,7 +3717,7 @@ Source:	Storm King's Thunder p. 251</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mirran</name>
+    <name>Mirran [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Chaotic Good</alignment>
@@ -3782,7 +3782,7 @@ Thunderous Stomp (Recharge 6). The storm giant stomps the ground, triggering a t
     <environment>coastal</environment>
   </monster>
   <monster>
-    <name>Morak Ur'gray</name>
+    <name>Morak Ur'gray [Legacy]</name>
     <sortname>Ur'gray, Morak</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3820,7 +3820,7 @@ Thunderous Stomp (Recharge 6). The storm giant stomps the ground, triggering a t
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Narbeck Horn</name>
+    <name>Narbeck Horn [Legacy]</name>
     <sortname>Horn, Narbeck</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3880,7 +3880,7 @@ Thunderous Stomp (Recharge 6). The storm giant stomps the ground, triggering a t
     <environment/>
   </monster>
   <monster>
-    <name>Narth Tezrin</name>
+    <name>Narth Tezrin [Legacy]</name>
     <sortname>Tezrin, Narth</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3937,7 +3937,7 @@ Source:	Storm King's Thunder p. 254</description>
     <environment/>
   </monster>
   <monster>
-    <name>Naxene Drathkala</name>
+    <name>Naxene Drathkala [Legacy]</name>
     <sortname>Drathkala, Naxene</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3996,7 +3996,7 @@ Source:	Storm King's Thunder p. 252</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nimir</name>
+    <name>Nimir [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Chaotic Good</alignment>
@@ -4069,7 +4069,7 @@ Thunderous Stomp (Recharge 6). The storm giant stomps the ground, triggering a t
     <environment>coastal</environment>
   </monster>
   <monster>
-    <name>Noori</name>
+    <name>Noori [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -4106,7 +4106,7 @@ Thunderous Stomp (Recharge 6). The storm giant stomps the ground, triggering a t
     <environment/>
   </monster>
   <monster>
-    <name>Nym</name>
+    <name>Nym [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Chaotic Good</alignment>
@@ -4171,7 +4171,7 @@ Thunderous Stomp (Recharge 6). The storm giant stomps the ground, triggering a t
     <environment>coastal</environment>
   </monster>
   <monster>
-    <name>Ogre Goblin Hucker</name>
+    <name>Ogre Goblin Hucker [Legacy]</name>
     <size>L</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -4213,7 +4213,7 @@ Thunderous Stomp (Recharge 6). The storm giant stomps the ground, triggering a t
     <environment>grassland, forest, swamp, hill, desert, coastal, arctic, underdark, mountain</environment>
   </monster>
   <monster>
-    <name>Oren Yogilvy</name>
+    <name>Oren Yogilvy [Legacy]</name>
     <sortname>Yogilvy, Oren</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -4273,7 +4273,7 @@ Source:	Storm King's Thunder p. 252</description>
     <environment/>
   </monster>
   <monster>
-    <name>Orlekto</name>
+    <name>Orlekto [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Chaotic Good</alignment>
@@ -4346,7 +4346,7 @@ Thunderous Stomp (Recharge 6). The storm giant stomps the ground, triggering a t
     <environment>coastal</environment>
   </monster>
   <monster>
-    <name>Orok</name>
+    <name>Orok [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (kobold)</type>
@@ -4388,7 +4388,7 @@ Thunderous Stomp (Recharge 6). The storm giant stomps the ground, triggering a t
     <environment>forest, swamp, hill, urban, desert, coastal, arctic, mountain, underdark</environment>
   </monster>
   <monster>
-    <name>Othovir</name>
+    <name>Othovir [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (illuskanhuman)</type>
@@ -4448,7 +4448,7 @@ Source:	Storm King's Thunder p. 255</description>
     <environment/>
   </monster>
   <monster>
-    <name>Pig</name>
+    <name>Pig [Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -4489,7 +4489,7 @@ Source:	Storm King's Thunder p. 255</description>
     <environment>grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Pow Ming</name>
+    <name>Pow Ming [Legacy]</name>
     <sortname>Ming, Pow</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4544,7 +4544,7 @@ Source:	Storm King's Thunder p. 255</description>
     <environment/>
   </monster>
   <monster>
-    <name>Purple Wormling</name>
+    <name>Purple Wormling [Legacy]</name>
     <sortname>Wormling, Purple</sortname>
     <ancestry>Wormling</ancestry>
     <size>L</size>
@@ -4592,7 +4592,7 @@ Source:	Storm King's Thunder p. 242</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rool</name>
+    <name>Rool [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (half-orc)</type>
@@ -4657,7 +4657,7 @@ Source:	Storm King's Thunder p. 242</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sea Elf</name>
+    <name>Sea Elf [Legacy]</name>
     <sortname>Elf, Sea</sortname>
     <ancestry>Elf</ancestry>
     <npc>YES</npc>
@@ -4700,7 +4700,7 @@ Source:	Storm King's Thunder p. 242</description>
     <environment>underwater, coastal</environment>
   </monster>
   <monster>
-    <name>Serissa</name>
+    <name>Serissa [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Chaotic Good</alignment>
@@ -4765,7 +4765,7 @@ Thunderous Stomp (Recharge 6). The storm giant stomps the ground, triggering a t
     <environment>coastal</environment>
   </monster>
   <monster>
-    <name>Shaldoor</name>
+    <name>Shaldoor [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Chaotic Good</alignment>
@@ -4838,7 +4838,7 @@ Thunderous Stomp (Recharge 6). The storm giant stomps the ground, triggering a t
     <environment>coastal</environment>
   </monster>
   <monster>
-    <name>Shalvus Martholio</name>
+    <name>Shalvus Martholio [Legacy]</name>
     <sortname>Martholio, Shalvus</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4896,7 +4896,7 @@ Source:	Storm King's Thunder p. 250</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sharda</name>
+    <name>Sharda [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -4947,7 +4947,7 @@ Source:	Storm King's Thunder p. 250</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sheep</name>
+    <name>Sheep [Legacy]</name>
     <size>S</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -4983,7 +4983,7 @@ Source:	Storm King's Thunder p. 250</description>
     <environment>mountain, grassland, hill, urban</environment>
   </monster>
   <monster>
-    <name>Shield Dwarf Guard</name>
+    <name>Shield Dwarf Guard [Legacy]</name>
     <sortname>Dwarf, Shield Guard</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -5021,7 +5021,7 @@ Source:	Storm King's Thunder p. 250</description>
     <environment/>
   </monster>
   <monster>
-    <name>Shield Dwarf Noble</name>
+    <name>Shield Dwarf Noble [Legacy]</name>
     <sortname>Dwarf, Shield Noble</sortname>
     <ancestry>Noble</ancestry>
     <npc>YES</npc>
@@ -5064,7 +5064,7 @@ Source:	Storm King's Thunder p. 250</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sir Baric Nylef</name>
+    <name>Sir Baric Nylef [Legacy]</name>
     <sortname>Nylef, Baric</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -5121,7 +5121,7 @@ Source:	Storm King's Thunder p. 249</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sirac of Suzail</name>
+    <name>Sirac of Suzail [Legacy]</name>
     <sortname>Suzail, Sirac of</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -5178,7 +5178,7 @@ Source:	Storm King's Thunder p. 247</description>
     <environment/>
   </monster>
   <monster>
-    <name>Slarkrethel</name>
+    <name>Slarkrethel [Legacy]</name>
     <size>G</size>
     <type>monstrosity (titan)</type>
     <alignment>Chaotic Evil</alignment>
@@ -5314,7 +5314,7 @@ Source:	Storm King's Thunder p. 224</description>
     <environment/>
   </monster>
   <monster>
-    <name>Stone Giant Statue</name>
+    <name>Stone Giant Statue [Legacy]</name>
     <sortname>Stone Giant, Statue</sortname>
     <ancestry>Stone Giant</ancestry>
     <size>H</size>
@@ -5369,7 +5369,7 @@ Source:	Storm King's Thunder p. 224</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tartha</name>
+    <name>Tartha [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Lawful Evil</alignment>
@@ -5418,7 +5418,7 @@ Tackle: When Tartha enters any enemy's space for the first time on a turn, the e
     <environment>underdark, mountain</environment>
   </monster>
   <monster>
-    <name>Tau</name>
+    <name>Tau [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -5469,7 +5469,7 @@ Tackle: When Tartha enters any enemy's space for the first time on a turn, the e
     <environment/>
   </monster>
   <monster>
-    <name>Thane Kayalithica</name>
+    <name>Thane Kayalithica [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Neutral Evil</alignment>
@@ -5577,7 +5577,7 @@ Source:	Storm King's Thunder p. 153</description>
     <environment/>
   </monster>
   <monster>
-    <name>Weevil, The</name>
+    <name>Weevil, The [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (dwarf)</type>
@@ -5622,7 +5622,7 @@ Source:	Storm King's Thunder p. 153</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tholtz Daggerdark</name>
+    <name>Tholtz Daggerdark [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -5684,7 +5684,7 @@ Source:	Storm King's Thunder p. 153</description>
     <environment/>
   </monster>
   <monster>
-    <name>Thunderbeast Skeleton</name>
+    <name>Thunderbeast Skeleton [Legacy]</name>
     <sortname>Skeleton, Thunderbeast</sortname>
     <ancestry>Skeleton</ancestry>
     <size>H</size>
@@ -5723,7 +5723,7 @@ Source:	Storm King's Thunder p. 153</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tressym</name>
+    <name>Tressym [Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Chaotic Neutral</alignment>
@@ -5780,7 +5780,7 @@ Source:	Storm King's Thunder p. 242</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tug</name>
+    <name>Tug [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -5827,7 +5827,7 @@ Squash: Melee Weapon Attack: +8 to hit, reach 5 ft., one Medium or Smaller creat
     <environment>hill</environment>
   </monster>
   <monster>
-    <name>Turlang</name>
+    <name>Turlang [Legacy]</name>
     <size>H</size>
     <type>plant</type>
     <alignment>Chaotic Good</alignment>
@@ -5881,7 +5881,7 @@ Squash: Melee Weapon Attack: +8 to hit, reach 5 ft., one Medium or Smaller creat
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Urgala Meltimer</name>
+    <name>Urgala Meltimer [Legacy]</name>
     <sortname>Meltimer, Urgala</sortname>
     <ancestry>Meltimer</ancestry>
     <npc>YES</npc>
@@ -5943,7 +5943,7 @@ Source:	Storm King's Thunder p. 254</description>
     <environment/>
   </monster>
   <monster>
-    <name>Uthgardt Barbarian Leader</name>
+    <name>Uthgardt Barbarian Leader [Legacy]</name>
     <sortname>Barbarian, Leader Uthgardt</sortname>
     <ancestry>Barbarian</ancestry>
     <npc>YES</npc>
@@ -5988,7 +5988,7 @@ Source:	Storm King's Thunder p. 254</description>
     <environment/>
   </monster>
   <monster>
-    <name>Uthgardt Shaman</name>
+    <name>Uthgardt Shaman [Legacy]</name>
     <sortname>Shaman, Uthgardt</sortname>
     <ancestry>Shaman</ancestry>
     <npc>YES</npc>
@@ -6059,7 +6059,7 @@ Source:	Storm King's Thunder p. 243</description>
     <environment/>
   </monster>
   <monster>
-    <name>Vaal</name>
+    <name>Vaal [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Neutral Good (50%) Neutral Evil (50%)</alignment>
@@ -6121,7 +6121,7 @@ Wind Aura: A magical aura of wind surrounds Vaal. The aura is a 10-foot-radius s
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Vaasha</name>
+    <name>Vaasha [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Chaotic Good</alignment>
@@ -6194,7 +6194,7 @@ Thunderous Stomp (Recharge 6). The storm giant stomps the ground, triggering a t
     <environment>coastal</environment>
   </monster>
   <monster>
-    <name>Wiri Feagol</name>
+    <name>Wiri Feagol [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (gnome)</type>
@@ -6231,7 +6231,7 @@ Thunderous Stomp (Recharge 6). The storm giant stomps the ground, triggering a t
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Wood Elf</name>
+    <name>Wood Elf [Legacy]</name>
     <sortname>Elf, Wood</sortname>
     <ancestry>Elf</ancestry>
     <npc>YES</npc>
@@ -6287,7 +6287,7 @@ Thunderous Stomp (Recharge 6). The storm giant stomps the ground, triggering a t
     <environment/>
   </monster>
   <monster>
-    <name>Xolkin Alassandar</name>
+    <name>Xolkin Alassandar [Legacy]</name>
     <sortname>Alassandar, Xolkin</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -6334,7 +6334,7 @@ Thunderous Stomp (Recharge 6). The storm giant stomps the ground, triggering a t
     <environment/>
   </monster>
   <monster>
-    <name>Yak</name>
+    <name>Yak [Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -6375,7 +6375,7 @@ Thunderous Stomp (Recharge 6). The storm giant stomps the ground, triggering a t
     <environment>grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Yakfolk Priest</name>
+    <name>Yakfolk Priest [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -6452,7 +6452,7 @@ Source:	Storm King's Thunder p. 245</description>
     <environment/>
   </monster>
   <monster>
-    <name>Yakfolk Warrior</name>
+    <name>Yakfolk Warrior [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -6517,7 +6517,7 @@ Source:	Storm King's Thunder p. 244</description>
     <environment/>
   </monster>
   <monster>
-    <name>Young Cloud Giant</name>
+    <name>Young Cloud Giant [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -6564,7 +6564,7 @@ Squash: Melee Weapon Attack: +8 to hit, reach 5 ft., one Medium or Smaller creat
     <environment>hill</environment>
   </monster>
   <monster>
-    <name>Zaltember</name>
+    <name>Zaltember [Legacy]</name>
     <size>L</size>
     <type>giant</type>
     <alignment>Lawful Evil</alignment>
@@ -6601,7 +6601,7 @@ Squash: Melee Weapon Attack: +8 to hit, reach 5 ft., one Medium or Smaller creat
     <environment/>
   </monster>
   <monster>
-    <name>Zephyros</name>
+    <name>Zephyros [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Neutral Good</alignment>
@@ -6726,7 +6726,7 @@ Source:	Storm King's Thunder p. 33</description>
     <environment/>
   </monster>
   <monster>
-    <name>Zi Liang</name>
+    <name>Zi Liang [Legacy]</name>
     <sortname>Liang, Zi</sortname>
     <ancestry>Liang</ancestry>
     <npc>YES</npc>

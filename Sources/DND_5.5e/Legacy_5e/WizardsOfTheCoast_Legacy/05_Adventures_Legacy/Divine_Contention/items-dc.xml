@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Gnomengarde Grenade</name>
+    <name>Gnomengarde Grenade [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <text>This small metallic object is comprised of rune-covered parts made from different metals, linked together with a variety of gears, bands, bits, and bobs. The metals are all different colors, making the grenade shine with a rainbow of color when held up in the light.
@@ -19,7 +19,7 @@ Source:	Essentials Kit: Divine Contention</text>
     <roll>8d6</roll>
   </item>
   <item>
-    <name>Ruinstone</name>
+    <name>Ruinstone [Legacy]</name>
     <detail>artifact</detail>
     <type>W</type>
     <magic>YES</magic>

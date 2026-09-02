@@ -128,43 +128,43 @@ Source:	The Griffon's Saddlebag: Book Two p. 227 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Entangle</name>
+    <name>Entangle [TP Legacy]</name>
     <classes>Warlock (The Many (Third Party))</classes>
   </spell>
   <spell>
-    <name>Magic Missile</name>
+    <name>Magic Missile [TP Legacy]</name>
     <classes>Warlock (The Many (Third Party))</classes>
   </spell>
   <spell>
-    <name>Scorching Ray</name>
+    <name>Scorching Ray [TP Legacy]</name>
     <classes>Warlock (The Many (Third Party))</classes>
   </spell>
   <spell>
-    <name>See Invisibility</name>
+    <name>See Invisibility [TP Legacy]</name>
     <classes>Warlock (The Many (Third Party))</classes>
   </spell>
   <spell>
-    <name>Blink</name>
+    <name>Blink [TP Legacy]</name>
     <classes>Warlock (The Many (Third Party))</classes>
   </spell>
   <spell>
-    <name>Nondetection</name>
+    <name>Nondetection [TP Legacy]</name>
     <classes>Warlock (The Many (Third Party))</classes>
   </spell>
   <spell>
-    <name>Arcane Eye</name>
+    <name>Arcane Eye [TP Legacy]</name>
     <classes>Warlock (The Many (Third Party))</classes>
   </spell>
   <spell>
-    <name>Evard's Black Tentacles</name>
+    <name>Evard's Black Tentacles [TP Legacy]</name>
     <classes>Warlock (The Many (Third Party))</classes>
   </spell>
   <spell>
-    <name>Mislead</name>
+    <name>Mislead [TP Legacy]</name>
     <classes>Warlock (The Many (Third Party))</classes>
   </spell>
   <spell>
-    <name>Telepathic Bond</name>
+    <name>Telepathic Bond [TP Legacy]</name>
     <classes>Warlock (The Many (Third Party))</classes>
   </spell>
 </compendium>

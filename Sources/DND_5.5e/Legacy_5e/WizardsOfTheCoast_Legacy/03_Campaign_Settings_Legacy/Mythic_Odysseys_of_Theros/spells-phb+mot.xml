@@ -1,43 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Commune</name>
+    <name>Commune [Legacy]</name>
     <classes>Paladin (Glory)</classes>
   </spell>
   <spell>
-    <name>Compulsion</name>
+    <name>Compulsion [Legacy]</name>
     <classes>Paladin (Glory)</classes>
   </spell>
   <spell>
-    <name>Enhance Ability</name>
+    <name>Enhance Ability [Legacy]</name>
     <classes>Paladin (Glory)</classes>
   </spell>
   <spell>
-    <name>Flame Strike</name>
+    <name>Flame Strike [Legacy]</name>
     <classes>Paladin (Glory)</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement</name>
+    <name>Freedom of Movement [Legacy]</name>
     <classes>Paladin (Glory)</classes>
   </spell>
   <spell>
-    <name>Guiding Bolt</name>
+    <name>Guiding Bolt [Legacy]</name>
     <classes>Paladin (Glory)</classes>
   </spell>
   <spell>
-    <name>Haste</name>
+    <name>Haste [Legacy]</name>
     <classes>Paladin (Glory)</classes>
   </spell>
   <spell>
-    <name>Heroism</name>
+    <name>Heroism [Legacy]</name>
     <classes>Paladin (Glory)</classes>
   </spell>
   <spell>
-    <name>Magic Weapon</name>
+    <name>Magic Weapon [Legacy]</name>
     <classes>Paladin (Glory)</classes>
   </spell>
   <spell>
-    <name>Protection from Energy</name>
+    <name>Protection from Energy [Legacy]</name>
     <classes>Paladin (Glory)</classes>
   </spell>
 </compendium>

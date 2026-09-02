@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Bracers of Celerity</name>
+    <name>Bracers of Celerity [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -12,7 +12,7 @@ Source:	Phandelver and Below: The Shattered Obelisk p. 217</text>
     <modifier category="bonus">speed +10</modifier>
   </item>
   <item>
-    <name>Cape of Enlargement</name>
+    <name>Cape of Enlargement [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -31,7 +31,7 @@ Source:	Phandelver and Below: The Shattered Obelisk p. 217</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Dragonguard</name>
+    <name>Dragonguard [Legacy]</name>
     <detail>rare</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -46,7 +46,7 @@ Source:	Phandelver and Below: The Shattered Obelisk p. 72,
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Flayer Slayer</name>
+    <name>Flayer Slayer [Legacy]</name>
     <detail>greataxe, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -68,7 +68,7 @@ Source:	Phandelver and Below: The Shattered Obelisk p. 217</text>
     <roll description="Slashing Damage">1d12</roll>
   </item>
   <item>
-    <name>Hew</name>
+    <name>Hew [Legacy]</name>
     <detail>battleaxe, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -90,7 +90,7 @@ Source:	Phandelver and Below: The Shattered Obelisk p. 54,
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Lightbringer</name>
+    <name>Lightbringer [Legacy]</name>
     <detail>mace, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -108,7 +108,7 @@ Source:	Phandelver and Below: The Shattered Obelisk p. 72,
     <roll>1d6</roll>
   </item>
   <item>
-    <name>Luminous War Pick</name>
+    <name>Luminous War Pick [Legacy]</name>
     <detail>war pick, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -122,7 +122,7 @@ Proficiency: martial, war pick
 Source:	Phandelver and Below: The Shattered Obelisk p. 217</text>
   </item>
   <item>
-    <name>Mind Crystal (Careful)</name>
+    <name>Mind Crystal (Careful) [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -134,7 +134,7 @@ Modify Spell: Choose up to three creatures affected by the spell. The chosen cre
 Source:	Phandelver and Below: The Shattered Obelisk p. 218</text>
   </item>
   <item>
-    <name>Mind Crystal (Distant)</name>
+    <name>Mind Crystal (Distant) [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -146,7 +146,7 @@ Modify Spell: If the spell has a range of 5 feet or more and doesn't have a rang
 Source:	Phandelver and Below: The Shattered Obelisk p. 218</text>
   </item>
   <item>
-    <name>Mind Crystal (Empowered)</name>
+    <name>Mind Crystal (Empowered) [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -158,7 +158,7 @@ Modify Spell: When you roll damage for the spell, you can reroll up to three dam
 Source:	Phandelver and Below: The Shattered Obelisk p. 218</text>
   </item>
   <item>
-    <name>Mind Crystal (Extended)</name>
+    <name>Mind Crystal (Extended) [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -170,7 +170,7 @@ Modify Spell: If the spell has a duration of 1 minute or longer, double the spel
 Source:	Phandelver and Below: The Shattered Obelisk p. 218</text>
   </item>
   <item>
-    <name>Mind Crystal (Heightened)</name>
+    <name>Mind Crystal (Heightened) [Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -182,7 +182,7 @@ Modify Spell: Choose one creature affected by the spell. That creature has disad
 Source:	Phandelver and Below: The Shattered Obelisk p. 218</text>
   </item>
   <item>
-    <name>Mind Crystal (Quickened)</name>
+    <name>Mind Crystal (Quickened) [Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -194,7 +194,7 @@ Modify Spell: You change the spell's casting time to 1 bonus action for this cas
 Source:	Phandelver and Below: The Shattered Obelisk p. 218</text>
   </item>
   <item>
-    <name>Mind Crystal (Subtle)</name>
+    <name>Mind Crystal (Subtle) [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -206,7 +206,7 @@ Modify Spell: You cast the spell without any somatic or verbal components for th
 Source:	Phandelver and Below: The Shattered Obelisk p. 218</text>
   </item>
   <item>
-    <name>Mindblasting Cap</name>
+    <name>Mindblasting Cap [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -217,7 +217,7 @@ Source:	Phandelver and Below: The Shattered Obelisk p. 218</text>
 Source:	Phandelver and Below: The Shattered Obelisk p. 218</text>
   </item>
   <item>
-    <name>Mindguard Crown</name>
+    <name>Mindguard Crown [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -226,7 +226,7 @@ Source:	Phandelver and Below: The Shattered Obelisk p. 218</text>
 Source:	Phandelver and Below: The Shattered Obelisk p. 218</text>
   </item>
   <item>
-    <name>Mudslick Tower</name>
+    <name>Mudslick Tower [Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -239,7 +239,7 @@ Source:	Phandelver and Below: The Shattered Obelisk p. 218</text>
 Source:	Phandelver and Below: The Shattered Obelisk p. 219</text>
   </item>
   <item>
-    <name>Netherese Ring of Protection</name>
+    <name>Netherese Ring of Protection [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -251,7 +251,7 @@ Source:	Phandelver and Below: The Shattered Obelisk p. 50</text>
     <modifier category="bonus">saving throws +1</modifier>
   </item>
   <item>
-    <name>Potion of Psionic Fortitude</name>
+    <name>Potion of Psionic Fortitude [Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -261,7 +261,7 @@ Source:	Phandelver and Below: The Shattered Obelisk p. 50</text>
 Source:	Phandelver and Below: The Shattered Obelisk p. 219</text>
   </item>
   <item>
-    <name>Ring of the Orator</name>
+    <name>Ring of the Orator [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -271,7 +271,7 @@ Source:	Phandelver and Below: The Shattered Obelisk p. 219</text>
     <roll description="Recharge">1d6</roll>
   </item>
   <item>
-    <name>Spider Staff</name>
+    <name>Spider Staff [Legacy]</name>
     <detail>quarterstaff, spellcasting focus, rare (requires attunement by a bard, sorcerer, warlock, or wizard)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -296,7 +296,7 @@ Source:	Phandelver and Below: The Shattered Obelisk p. 220,
     <roll description="Recharge">1d6+4</roll>
   </item>
   <item>
-    <name>Staff of Defense</name>
+    <name>Staff of Defense [Legacy]</name>
     <detail>quarterstaff, spellcasting focus, rare (requires attunement by a bard, sorcerer, warlock, or wizard)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -319,7 +319,7 @@ Source:	Phandelver and Below: The Shattered Obelisk p. 220,
     <roll description="Recharge">1d6+4</roll>
   </item>
   <item>
-    <name>Statuette of Augury</name>
+    <name>Statuette of Augury [Legacy]</name>
     <type>W</type>
     <value>100</value>
     <magic>YES</magic>
@@ -328,7 +328,7 @@ Source:	Phandelver and Below: The Shattered Obelisk p. 220,
 Source:	Phandelver and Below: The Shattered Obelisk p. 62</text>
   </item>
   <item>
-    <name>Talon</name>
+    <name>Talon [Legacy]</name>
     <detail>longsword, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Aarakocra (Legacy)</name>
+    <name>Aarakocra [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex +2, Wis +1</ability>
@@ -135,7 +135,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
   </race> -->
   <race>
-    <name>Bugbear (Legacy)</name>
+    <name>Bugbear [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +2, Dex +1</ability>
@@ -208,7 +208,7 @@ Weight in pounds = 200 + (2d6 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Centaur (Legacy)</name>
+    <name>Centaur [Legacy]</name>
     <size>M</size>
     <speed>40</speed>
     <ability>Str +2, Wis +1</ability>
@@ -273,7 +273,7 @@ Weight in pounds = 600 + (2d12 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Changeling (Legacy)</name>
+    <name>Changeling [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +2</ability>
@@ -330,7 +330,7 @@ Weight in pounds = 115 + (2d4 x your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Gnome of the Depths (Legacy)</name>
+    <name>Gnome of the Depths [Legacy]</name>
     <size>S</size>
     <speed>30</speed>
     <ability>Int +2, Dex +1</ability>
@@ -392,7 +392,7 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
   </race>
   <race>
-    <name>Dwarf: Duergar (Legacy)</name>
+    <name>Dwarf: Duergar [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Con +2, Str +1</ability>
@@ -454,7 +454,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Elf: Eladrin (Legacy)</name>
+    <name>Elf: Eladrin [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex +2, Cha +1</ability>
@@ -536,7 +536,7 @@ Summer: Immediately after you use your Fey Step, each creature of your choice th
     </trait>
   </race>
   <race>
-    <name>Fairy (Legacy)</name>
+    <name>Fairy [Legacy]</name>
     <size>S</size>
     <speed>30</speed>
     <trait category="description">
@@ -595,7 +595,7 @@ Source:	The Wild Beyond the Witchlight p. 12,
     </trait>
   </race>
   <race>
-    <name>Firbolg (Legacy)</name>
+    <name>Firbolg [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Wis +2, Str +1</ability>
@@ -916,7 +916,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
   </race> -->
   <race>
-    <name>Gith: Githyanki (Legacy)</name>
+    <name>Gith: Githyanki [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Int +1, Str +2</ability>
@@ -973,7 +973,7 @@ Average weight: 92-196 lb</text>
     </trait>
   </race>
   <race>
-    <name>Gith: Githzerai (Legacy)</name>
+    <name>Gith: Githzerai [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Int +1, Wis +2</ability>
@@ -1029,7 +1029,7 @@ Average weight: 92-196 lb</text>
     </trait>
   </race>
   <race>
-    <name>Goblin (Legacy)</name>
+    <name>Goblin [Legacy]</name>
     <size>S</size>
     <speed>30</speed>
     <ability>Dex +2, Con +1</ability>
@@ -1086,7 +1086,7 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
   </race>
   <race>
-    <name>Goliath (Legacy)</name>
+    <name>Goliath [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +2, Con +1</ability>
@@ -1148,7 +1148,7 @@ Weight in pounds = 200 + (2d6 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Harengon (Legacy)</name>
+    <name>Harengon [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <proficiency>Perception</proficiency>
@@ -1195,7 +1195,7 @@ Source:	The Wild Beyond the Witchlight p. 13,
     </trait>
   </race>
   <race>
-    <name>Hobgoblin (Legacy)</name>
+    <name>Hobgoblin [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Con +2, Int +1</ability>
@@ -1265,7 +1265,7 @@ Spite: Until the start of your next turn, the first time the creature you help h
     </trait>
   </race>
   <race>
-    <name>Kenku (Legacy)</name>
+    <name>Kenku [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex +2, Wis +1</ability>
@@ -1324,7 +1324,7 @@ Weight in pounds = 50 + (1d6 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Kobold (Legacy)</name>
+    <name>Kobold [Legacy]</name>
     <size>S</size>
     <speed>30</speed>
     <ability>Dex +2</ability>
@@ -1380,7 +1380,7 @@ Draconic Sorcery: You know one cantrip of your choice from the sorcerer spell li
     </trait>
   </race>
   <race>
-    <name>Lizardfolk (Legacy)</name>
+    <name>Lizardfolk [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Con +2, Wis +1</ability>
@@ -1444,7 +1444,7 @@ Source:	Volo's Guide to Monsters p. 113,
     </trait>
   </race>
   <race>
-    <name>Minotaur (Legacy)</name>
+    <name>Minotaur [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +2, Con +1</ability>
@@ -1509,7 +1509,7 @@ Weight in pounds = 175 + (2d6 x your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Orc (Legacy)</name>
+    <name>Orc [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +2, Con +1</ability>
@@ -1573,7 +1573,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Satyr (Legacy)</name>
+    <name>Satyr [Legacy]</name>
     <size>M</size>
     <speed>35</speed>
     <ability>Cha +2, Dex +1</ability>
@@ -1635,7 +1635,7 @@ Weight in pounds = 100 + (2d4 x your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Elf: Sea (Legacy)</name>
+    <name>Elf: Sea [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex +2, Con +1</ability>
@@ -1712,7 +1712,7 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Elf: Shadar-kai (Legacy)</name>
+    <name>Elf: Shadar-kai [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex +2, Con +1</ability>
@@ -1783,7 +1783,7 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Shifter (Legacy)</name>
+    <name>Shifter [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <trait category="description">
@@ -1860,7 +1860,7 @@ Wildhunt: While shifted, you have advantage on Wisdom checks, and no creature wi
     </trait>
   </race>
   <race>
-    <name>Tabaxi (Legacy)</name>
+    <name>Tabaxi [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex +2, Cha +1</ability>
@@ -1933,7 +1933,7 @@ Weight in pounds = 90 + (2d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Tortle (Legacy)</name>
+    <name>Tortle [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +2, Wis +1</ability>
@@ -2000,7 +2000,7 @@ Weight in pounds = 400 + (2d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Triton (Legacy)</name>
+    <name>Triton [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +1, Cha +1, Con +1</ability>
@@ -2064,7 +2064,7 @@ Source:	Volo's Guide to Monsters p. 118,
     </trait>
   </race>
   <race>
-    <name>Yuan-ti (Legacy)</name>
+    <name>Yuan-ti [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +2, Int +1</ability>

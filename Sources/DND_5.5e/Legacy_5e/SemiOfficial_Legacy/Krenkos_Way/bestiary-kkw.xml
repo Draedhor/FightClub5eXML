@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Goblin Gang Member</name>
+    <name>Goblin Gang Member [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (goblinoid)</type>
     <alignment>Neutral Evil</alignment>
@@ -42,7 +42,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Krenko</name>
+    <name>Krenko [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (goblinoid)</type>
     <alignment>Neutral Evil</alignment>
@@ -91,7 +91,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Loading Rig</name>
+    <name>Loading Rig [TP Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>

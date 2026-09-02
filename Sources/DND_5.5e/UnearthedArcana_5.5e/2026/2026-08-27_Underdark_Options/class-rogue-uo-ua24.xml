@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Rogue [5.5e]</name>
+    <name>Rogue</name>
     <!-- Rogue Subclass: House Agent (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -96,23 +96,23 @@ Source:	Underdark Options p. 3 (Unearthed Arcana)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Charm Person [5.5e]</name>
-    <classes>Rogue [5.5e] (House Agent (UA))</classes>
+    <name>Charm Person [UA]</name>
+    <classes>Rogue (House Agent (UA))</classes>
   </spell>
   <spell>
-    <name>Suggestion [5.5e]</name>
-    <classes>Rogue [5.5e] (House Agent (UA))</classes>
+    <name>Suggestion [UA]</name>
+    <classes>Rogue (House Agent (UA))</classes>
   </spell>
   <spell>
-    <name>Hypnotic Pattern [5.5e]</name>
-    <classes>Rogue [5.5e] (House Agent (UA))</classes>
+    <name>Hypnotic Pattern [UA]</name>
+    <classes>Rogue (House Agent (UA))</classes>
   </spell>
   <spell>
-    <name>Find Familiar [5.5e]</name>
-    <classes>Rogue [5.5e] (House Agent (UA))</classes>
+    <name>Find Familiar [UA]</name>
+    <classes>Rogue (House Agent (UA))</classes>
   </spell>
   <spell>
-    <name>Friends [5.5e]</name>
-    <classes>Rogue [5.5e] (House Agent (UA))</classes>
+    <name>Friends [UA]</name>
+    <classes>Rogue (House Agent (UA))</classes>
   </spell>
 </compendium>

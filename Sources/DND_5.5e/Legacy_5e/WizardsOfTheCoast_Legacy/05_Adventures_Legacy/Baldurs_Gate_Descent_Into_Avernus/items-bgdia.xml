@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Battle Standard of Infernal Power</name>
+    <name>Battle Standard of Infernal Power [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -11,7 +11,7 @@
 Source:	Baldur's Gate: Descent Into Avernus p. 223</text>
   </item>
   <item>
-    <name>Blade of Avernus</name>
+    <name>Blade of Avernus [Legacy]</name>
     <detail>longsword, artifact (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -44,7 +44,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 150</text>
     <roll description="Slashing Damage">6d8</roll>
   </item>
   <item>
-    <name>Candle Mace</name>
+    <name>Candle Mace [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>4</weight>
@@ -56,7 +56,7 @@ Proficiency: simple, mace
 Source:	Baldur's Gate: Descent Into Avernus p. 39</text>
   </item>
   <item>
-    <name>Fane-Eater</name>
+    <name>Fane-Eater [Legacy]</name>
     <detail>battleaxe, legendary (requires attunement by an evil cleric or paladin)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -77,7 +77,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 223</text>
     <roll description="Necrotic Damage">2d8</roll>
   </item>
   <item>
-    <name>Gauntlets of Flaming Fury</name>
+    <name>Gauntlets of Flaming Fury [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -87,7 +87,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 223</text>
     <roll description="Fire Damage">1d6</roll>
   </item>
   <item>
-    <name>Helm of Devil Command</name>
+    <name>Helm of Devil Command [Legacy]</name>
     <detail>very rare (requires attunement by a creature that can speak infernal)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -100,7 +100,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 223</text>
     <roll description="Hours">1d4</roll>
   </item>
   <item>
-    <name>Infernal Puzzle Box</name>
+    <name>Infernal Puzzle Box [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -112,7 +112,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 224</text>
     <roll description="Psychic Damage">12d6</roll>
   </item>
   <item>
-    <name>Matalotok</name>
+    <name>Matalotok [Legacy]</name>
     <detail>warhammer, legendary</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -132,7 +132,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 224</text>
     <roll>3d6</roll>
   </item>
   <item>
-    <name>Obsidian Flint Dragon Plate</name>
+    <name>Obsidian Flint Dragon Plate [Legacy]</name>
     <detail>legendary</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -150,7 +150,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 224</text>
     <modifier category="bonus">ac +2</modifier>
   </item>
   <item>
-    <name>Shatterstick</name>
+    <name>Shatterstick [Legacy]</name>
     <detail>other</detail>
     <type>G</type>
     <text>A shatterstick is a nonmagical, 12-inch-long, 4-pound stake made of blue-tinged infernal iron mined on Cania, the eighth layer of the Nine Hells. When embedded in earth or pounded into solid rock, the stake emits a seismic vibration in a 20-foot radius centered on itself for 1 minute, shaking the ground in that area for the duration. When the effects ends, the shatterstick breaks apart, becoming useless, and all structures within 20 feet of it take 35 (10d6) bludgeoning damage.
@@ -159,7 +159,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 99</text>
     <roll description="Bludgeoning Damage">10d6</roll>
   </item>
   <item>
-    <name>Shield of the Hidden Lord</name>
+    <name>Shield of the Hidden Lord [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -189,7 +189,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 225</text>
     <modifier category="bonus">ac +2</modifier>
   </item>
   <item>
-    <name>Soul Coin</name>
+    <name>Soul Coin [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -215,7 +215,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 225</text>
     <roll>1d10</roll>
   </item>
   <item>
-    <name>Sword of Zariel</name>
+    <name>Sword of Zariel [Legacy]</name>
     <detail>longsword, artifact (requires attunement by a creature the sword deems worthy)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -301,7 +301,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 226</text>
     <roll description="Radiant Damage">3d10</roll>
   </item>
   <item>
-    <name>Hellfire Weapons (Generic Variant)</name>
+    <name>Hellfire Weapons (Generic Variant) [Legacy]</name>
     <detail>weapon (any), generic variant, uncommon</detail>
     <type>G</type>
     <magic>YES</magic>

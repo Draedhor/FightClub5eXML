@@ -1,63 +1,63 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Absorb Elements</name>
+    <name>Absorb Elements [Legacy]</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Catapult</name>
+    <name>Catapult [Legacy]</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Catnap</name>
+    <name>Catnap [Legacy]</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Create Bonfire</name>
+    <name>Create Bonfire [Legacy]</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Elemental Bane</name>
+    <name>Elemental Bane [Legacy]</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Flame Arrows</name>
+    <name>Flame Arrows [Legacy]</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Frostbite</name>
+    <name>Frostbite [Legacy]</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Magic Stone</name>
+    <name>Magic Stone [Legacy]</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Pyrotechnics</name>
+    <name>Pyrotechnics [Legacy]</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Skill Empowerment</name>
+    <name>Skill Empowerment [Legacy]</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Skywrite</name>
+    <name>Skywrite [Legacy]</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Snare</name>
+    <name>Snare [Legacy]</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Thunderclap</name>
+    <name>Thunderclap [Legacy]</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Tiny Servant</name>
+    <name>Tiny Servant [Legacy]</name>
     <classes>Artificer</classes>
   </spell>
   <spell>
-    <name>Transmute Rock</name>
+    <name>Transmute Rock [Legacy]</name>
     <classes>Artificer</classes>
   </spell>
 <!-- <spell>

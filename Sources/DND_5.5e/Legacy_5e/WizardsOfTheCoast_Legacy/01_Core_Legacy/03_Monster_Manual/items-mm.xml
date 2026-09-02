@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Heartstone</name>
+    <name>Heartstone [Legacy]</name>
     <detail>gemstone, very rare</detail>
     <type>G</type>
     <weight />
@@ -11,7 +11,7 @@
 Source:	Monster Manual (2014) p. 179</text>
   </item>
   <item>
-    <name>Soul Bag</name>
+    <name>Soul Bag [Legacy]</name>
     <detail>very rare</detail>
     <type>G</type>
     <weight />

@@ -142,7 +142,7 @@ Source:	Grim Hollow: Player's Guide p. 51 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Compound: Adrenal Injection</name>
+    <name>Compound: Adrenal Injection [TP Legacy]</name>
     <level>0</level>
     <range>Self</range>
     <duration>1 minute</duration>
@@ -152,7 +152,7 @@ Source:	Grim Hollow: Player's Guide p. 51 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
   </spell>
   <spell>
-    <name>Compound: Allsense Injection</name>
+    <name>Compound: Allsense Injection [TP Legacy]</name>
     <level>0</level>
     <range>Self</range>
     <duration>1 minute</duration>
@@ -162,7 +162,7 @@ Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
   </spell>
   <spell>
-    <name>Compound: Arcane Eye Oil</name>
+    <name>Compound: Arcane Eye Oil [TP Legacy]</name>
     <level>0</level>
     <range>Self</range>
     <duration>1 hour</duration>
@@ -172,7 +172,7 @@ Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
   </spell>
   <spell>
-    <name>Compound: Draught of Bull's Strength</name>
+    <name>Compound: Draught of Bull's Strength [TP Legacy]</name>
     <level>0</level>
     <range>Self</range>
     <duration>10 minutes</duration>
@@ -182,7 +182,7 @@ Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
   </spell>
   <spell>
-    <name>Compound: Draught of Cat's Grace</name>
+    <name>Compound: Draught of Cat's Grace [TP Legacy]</name>
     <level>0</level>
     <range>Self</range>
     <duration>10 minutes</duration>
@@ -192,7 +192,7 @@ Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
   </spell>
   <spell>
-    <name>Compound: Draught of Bear's Endurance</name>
+    <name>Compound: Draught of Bear's Endurance [TP Legacy]</name>
     <level>0</level>
     <range>Self</range>
     <duration>10 minutes</duration>
@@ -202,7 +202,7 @@ Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
   </spell>
   <spell>
-    <name>Compound: Draught of Fox's Cunning</name>
+    <name>Compound: Draught of Fox's Cunning [TP Legacy]</name>
     <level>0</level>
     <range>Self</range>
     <duration>10 minutes</duration>
@@ -212,7 +212,7 @@ Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
   </spell>
   <spell>
-    <name>Compound: Draught of Owl's Wisdom</name>
+    <name>Compound: Draught of Owl's Wisdom [TP Legacy]</name>
     <level>0</level>
     <range>Self</range>
     <duration>10 minutes</duration>
@@ -222,7 +222,7 @@ Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
   </spell>
   <spell>
-    <name>Compound: Draught of Eagle's Splendor</name>
+    <name>Compound: Draught of Eagle's Splendor [TP Legacy]</name>
     <level>0</level>
     <range>Self</range>
     <duration>10 minutes</duration>
@@ -232,7 +232,7 @@ Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
   </spell>
   <spell>
-    <name>Compound: Elfsight Oil</name>
+    <name>Compound: Elfsight Oil [TP Legacy]</name>
     <level>0</level>
     <range>Self</range>
     <duration>8 hours</duration>
@@ -242,7 +242,7 @@ Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
   </spell>
   <spell>
-    <name>Compound: Fleshknit Phosphate</name>
+    <name>Compound: Fleshknit Phosphate [TP Legacy]</name>
     <level>0</level>
     <range>Self</range>
     <duration>1 minute</duration>
@@ -252,7 +252,7 @@ Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
   </spell>
   <spell>
-    <name>Compound: Ironmind Injection</name>
+    <name>Compound: Ironmind Injection [TP Legacy]</name>
     <level>0</level>
     <range>Self</range>
     <duration>1 hour</duration>
@@ -262,7 +262,7 @@ Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
   </spell>
   <spell>
-    <name>Compound: Liquid Courage</name>
+    <name>Compound: Liquid Courage [TP Legacy]</name>
     <level>0</level>
     <range>Self</range>
     <duration>1 minute</duration>
@@ -272,7 +272,7 @@ Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
   </spell>
   <spell>
-    <name>Compound: Liquid Rage</name>
+    <name>Compound: Liquid Rage [TP Legacy]</name>
     <level>0</level>
     <range>Self</range>
     <duration>1 minute</duration>
@@ -283,7 +283,7 @@ Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
   </spell>
   <spell>
-    <name>Compound: Presto Powder</name>
+    <name>Compound: Presto Powder [TP Legacy]</name>
     <level>0</level>
     <range>Self</range>
     <duration>10 minutes</duration>
@@ -293,7 +293,7 @@ Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
   </spell>
   <spell>
-    <name>Compound: Spellshine Ointment</name>
+    <name>Compound: Spellshine Ointment [TP Legacy]</name>
     <level>0</level>
     <range>Self</range>
     <duration>1 minute</duration>
@@ -303,7 +303,7 @@ Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
   </spell>
   <spell>
-    <name>Compound: Steelskin Ointment</name>
+    <name>Compound: Steelskin Ointment [TP Legacy]</name>
     <level>0</level>
     <range>Self</range>
     <duration>1 minute</duration>
@@ -313,7 +313,7 @@ Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 53 (Third Party)</text>
   </spell>
   <spell>
-    <name>Compound: Tenmen Tincture</name>
+    <name>Compound: Tenmen Tincture [TP Legacy]</name>
     <level>0</level>
     <range>Self</range>
     <duration>1 hour</duration>

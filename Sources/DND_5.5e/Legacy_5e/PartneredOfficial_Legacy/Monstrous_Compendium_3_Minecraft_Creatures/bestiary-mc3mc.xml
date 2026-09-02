@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Blaze</name>
+    <name>Blaze [TP Legacy]</name>
     <size>M</size>
     <type>elemental</type>
     <alignment>Neutral Evil</alignment>
@@ -64,7 +64,7 @@ Source:	Monstrous Compendium Vol. 3 - Minecraft Creatures p. 3 (Third Party)</de
     <environment/>
   </monster>
   <monster>
-    <name>Creeper</name>
+    <name>Creeper [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -131,7 +131,7 @@ Source:	Monstrous Compendium Vol. 3 - Minecraft Creatures p. 4 (Third Party)</de
     <environment/>
   </monster>
   <monster>
-    <name>Ender Dragon</name>
+    <name>Ender Dragon [TP Legacy]</name>
     <size>G</size>
     <type>dragon</type>
     <alignment>Chaotic Evil</alignment>
@@ -205,7 +205,7 @@ Source:	Monstrous Compendium Vol. 3 - Minecraft Creatures p. 5 (Third Party)</de
     <environment/>
   </monster>
   <monster>
-    <name>Enderman</name>
+    <name>Enderman [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Chaotic Neutral</alignment>
@@ -269,7 +269,7 @@ Source:	Monstrous Compendium Vol. 3 - Minecraft Creatures p. 6 (Third Party)</de
     <environment/>
   </monster>
   <monster>
-    <name>Wolf of the Overworld</name>
+    <name>Wolf of the Overworld [TP Legacy]</name>
     <sortname>Wolf, of the Overworld</sortname>
     <ancestry>Wolf</ancestry>
     <size>M</size>

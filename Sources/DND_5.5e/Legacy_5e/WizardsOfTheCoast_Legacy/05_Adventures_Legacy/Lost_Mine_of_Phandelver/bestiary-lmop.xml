@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Ash Zombie (Legacy)</name>
+    <name>Ash Zombie [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -49,7 +49,7 @@ Source:	Lost Mine of Phandelver p. 31</description>
     <environment/>
   </monster>
   <monster>
-    <name>Evil Mage</name>
+    <name>Evil Mage [Legacy]</name>
     <sortname>Mage, Evil</sortname>
     <ancestry>Mage</ancestry>
     <npc>YES</npc>
@@ -97,7 +97,7 @@ Source:	Lost Mine of Phandelver p. 57,
     <environment/>
   </monster>
   <monster>
-    <name>Iarno "Glasstaff" Albrek</name>
+    <name>Iarno "Glasstaff" Albrek [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -145,7 +145,7 @@ Source:	Lost Mine of Phandelver p. 57,
     <environment/>
   </monster>
   <monster>
-    <name>Gundren Rockseeker</name>
+    <name>Gundren Rockseeker [Legacy]</name>
     <sortname>Rockseeker, Gundren</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -183,7 +183,7 @@ Source:	Lost Mine of Phandelver p. 57,
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Mormesk the Wraith</name>
+    <name>Mormesk the Wraith [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -227,7 +227,7 @@ Source:	Lost Mine of Phandelver p. 59</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nezznar the Black Spider</name>
+    <name>Nezznar the Black Spider [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf)</type>
@@ -293,7 +293,7 @@ Source:	Lost Mine of Phandelver p. 59</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nundro Rockseeker</name>
+    <name>Nundro Rockseeker [Legacy]</name>
     <sortname>Rockseeker, Nundro</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -331,7 +331,7 @@ Source:	Lost Mine of Phandelver p. 59</description>
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Redbrand Ruffian</name>
+    <name>Redbrand Ruffian [Legacy]</name>
     <sortname>Ruffian, Redbrand</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -371,7 +371,7 @@ Source:	Lost Mine of Phandelver p. 61</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sildar Hallwinter</name>
+    <name>Sildar Hallwinter [Legacy]</name>
     <sortname>Hallwinter, Sildar</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -420,7 +420,7 @@ Source:	Lost Mine of Phandelver p. 61</description>
     <environment/>
   </monster>
   <monster>
-    <name>Venomfang</name>
+    <name>Venomfang [Legacy]</name>
     <size>L</size>
     <type>dragon</type>
     <alignment>Lawful Evil</alignment>

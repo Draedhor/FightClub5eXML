@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Apothecary (TP)</name>
+    <name>Apothecary [TP]</name>
     <hd>8</hd>
     <proficiency>Intelligence, Wisdom, Arcana, History, Investigation, Medicine, Nature, Religion</proficiency>
     <numSkills>2</numSkills>
@@ -1162,567 +1162,567 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 147 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Acid Splash (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Acid Splash [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Aid (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Aid [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Alarm (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Alarm [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Alter Self (TP)</name>
-    <classes>Apothecary: Mutagenist</classes>
+    <name>Alter Self [TP]</name>
+    <classes>Apothecary [TP]: Mutagenist</classes>
   </spell>
   <spell>
-    <name>Animate Objects (TP)</name>
-    <classes>Apothecary: Alienist</classes>
+    <name>Animate Objects [TP]</name>
+    <classes>Apothecary [TP]: Alienist</classes>
   </spell>
   <spell>
-    <name>Antilife Shell (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Antilife Shell [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Antimagic Field (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Antimagic Field [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Antipathy/Sympathy (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Antipathy/Sympathy [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Arcane Eye (TP)</name>
-    <classes>Apothecary: Alienist</classes>
+    <name>Arcane Eye [TP]</name>
+    <classes>Apothecary [TP]: Alienist</classes>
   </spell>
   <spell>
-    <name>Astral Projection (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Astral Projection [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Banishment (TP)</name>
-    <classes>Apothecary: Exorcist</classes>
+    <name>Banishment [TP]</name>
+    <classes>Apothecary [TP]: Exorcist</classes>
   </spell>
   <spell>
-    <name>Bestow Curse (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Bestow Curse [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Bless (TP)</name>
-    <classes>Apothecary: Exorcist</classes>
+    <name>Bless [TP]</name>
+    <classes>Apothecary [TP]: Exorcist</classes>
   </spell>
   <spell>
-    <name>Blight (TP)</name>
-    <classes>Apothecary: Pathogenist</classes>
+    <name>Blight [TP]</name>
+    <classes>Apothecary [TP]: Pathogenist</classes>
   </spell>
   <spell>
-    <name>Blindness/Deafness (TP)</name>
-    <classes>Apothecary: Pathogenist</classes>
+    <name>Blindness/Deafness [TP]</name>
+    <classes>Apothecary [TP]: Pathogenist</classes>
   </spell>
   <spell>
-    <name>Burning Hands (TP)</name>
-    <classes>Apothecary: Chemist</classes>
+    <name>Burning Hands [TP]</name>
+    <classes>Apothecary [TP]: Chemist</classes>
   </spell>
   <spell>
-    <name>Chain Lightning (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Chain Lightning [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Charm Person (TP)</name>
-    <classes>Apothecary: Alienist</classes>
+    <name>Charm Person [TP]</name>
+    <classes>Apothecary [TP]: Alienist</classes>
   </spell>
   <spell>
-    <name>Chill Touch (TP)</name>
-    <classes>Apothecary: Pathogenist</classes>
+    <name>Chill Touch [TP]</name>
+    <classes>Apothecary [TP]: Pathogenist</classes>
   </spell>
   <spell>
-    <name>Circle of Death (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Circle of Death [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Clone (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Clone [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Cloudkill (TP)</name>
-    <classes>Apothecary: Chemist</classes>
+    <name>Cloudkill [TP]</name>
+    <classes>Apothecary [TP]: Chemist</classes>
   </spell>
   <spell>
-    <name>Comprehend Languages (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Comprehend Languages [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Cone of Cold (TP)</name>
-    <classes>Apothecary: Chemist</classes>
+    <name>Cone of Cold [TP]</name>
+    <classes>Apothecary [TP]: Chemist</classes>
   </spell>
   <spell>
-    <name>Contact Other Plane (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Contact Other Plane [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Contagion (TP)</name>
-    <classes>Apothecary: Pathogenist</classes>
+    <name>Contagion [TP]</name>
+    <classes>Apothecary [TP]: Pathogenist</classes>
   </spell>
   <spell>
-    <name>Counterspell (TP)</name>
-    <classes>Apothecary: Exorcist</classes>
+    <name>Counterspell [TP]</name>
+    <classes>Apothecary [TP]: Exorcist</classes>
   </spell>
   <spell>
-    <name>Create or Destroy Water (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Create or Destroy Water [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Create Undead (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Create Undead [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Cure Wounds (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Cure Wounds [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Death Ward (TP)</name>
-    <classes>Apothecary: Reanimator</classes>
+    <name>Death Ward [TP]</name>
+    <classes>Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Detect Evil and Good (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Detect Evil and Good [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Detect Magic (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Detect Magic [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Detect Poison and Disease (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Detect Poison and Disease [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Detect Thoughts (TP)</name>
-    <classes>Apothecary: Alienist</classes>
+    <name>Detect Thoughts [TP]</name>
+    <classes>Apothecary [TP]: Alienist</classes>
   </spell>
   <spell>
-    <name>Dimension Door (TP)</name>
-    <classes>Apothecary: Alienist</classes>
+    <name>Dimension Door [TP]</name>
+    <classes>Apothecary [TP]: Alienist</classes>
   </spell>
   <spell>
-    <name>Disintegrate (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Disintegrate [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Dispel Evil and Good (TP)</name>
-    <classes>Apothecary: Exorcist</classes>
+    <name>Dispel Evil and Good [TP]</name>
+    <classes>Apothecary [TP]: Exorcist</classes>
   </spell>
   <spell>
-    <name>Dispel Magic (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Dispel Magic [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Dominate Monster (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Dominate Monster [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Eldritch Blast (TP)</name>
-    <classes>Apothecary: Alienist</classes>
+    <name>Eldritch Blast [TP]</name>
+    <classes>Apothecary [TP]: Alienist</classes>
   </spell>
   <spell>
-    <name>Enhance Ability (TP)</name>
-    <classes>Apothecary: Mutagenist</classes>
+    <name>Enhance Ability [TP]</name>
+    <classes>Apothecary [TP]: Mutagenist</classes>
   </spell>
   <spell>
-    <name>Enlarge/Reduce (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Enlarge/Reduce [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Etherealness (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Etherealness [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Evard's Black Tentacles (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Evard's Black Tentacles [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Eyebite (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Eyebite [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>False Life (TP)</name>
-    <classes>Apothecary: Reanimator</classes>
+    <name>False Life [TP]</name>
+    <classes>Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Fear (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Fear [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Feather Fall (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Feather Fall [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Feeblemind (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Feeblemind [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Finger of Death (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Finger of Death [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Fire Bolt (TP)</name>
-    <classes>Apothecary: Chemist</classes>
+    <name>Fire Bolt [TP]</name>
+    <classes>Apothecary [TP]: Chemist</classes>
   </spell>
   <spell>
-    <name>Fireball (TP)</name>
-    <classes>Apothecary: Chemist</classes>
+    <name>Fireball [TP]</name>
+    <classes>Apothecary [TP]: Chemist</classes>
   </spell>
   <spell>
-    <name>Flame Strike (TP)</name>
-    <classes>Apothecary: Exorcist</classes>
+    <name>Flame Strike [TP]</name>
+    <classes>Apothecary [TP]: Exorcist</classes>
   </spell>
   <spell>
-    <name>Flaming Sphere (TP)</name>
-    <classes>Apothecary: Chemist</classes>
+    <name>Flaming Sphere [TP]</name>
+    <classes>Apothecary [TP]: Chemist</classes>
   </spell>
   <spell>
-    <name>Flesh to Stone (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Flesh to Stone [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Fog Cloud (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Fog Cloud [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Forcecage (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Forcecage [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Foresight (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Foresight [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Freedom of Movement [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Gaseous Form (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Gaseous Form [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Gentle Repose (TP)</name>
-    <classes>Apothecary: Reanimator</classes>
+    <name>Gentle Repose [TP]</name>
+    <classes>Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Globe of Invulnerability (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Globe of Invulnerability [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Glyph of Warding (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Glyph of Warding [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Grease (TP)</name>
-    <classes>Apothecary: Chemist</classes>
+    <name>Grease [TP]</name>
+    <classes>Apothecary [TP]: Chemist</classes>
   </spell>
   <spell>
-    <name>Greater Restoration (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Greater Restoration [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Guidance (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Guidance [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Harm (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Harm [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Haste (TP)</name>
-    <classes>Apothecary: Mutagenist</classes>
+    <name>Haste [TP]</name>
+    <classes>Apothecary [TP]: Mutagenist</classes>
   </spell>
   <spell>
-    <name>Heal (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Heal [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Healing Word (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Healing Word [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Hold Monster (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Hold Monster [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Hold Person (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Hold Person [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Hypnotic Pattern (TP)</name>
-    <classes>Apothecary: Alienist</classes>
+    <name>Hypnotic Pattern [TP]</name>
+    <classes>Apothecary [TP]: Alienist</classes>
   </spell>
   <spell>
-    <name>Ice Storm (TP)</name>
-    <classes>Apothecary: Chemist</classes>
+    <name>Ice Storm [TP]</name>
+    <classes>Apothecary [TP]: Chemist</classes>
   </spell>
   <spell>
-    <name>Identify (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Identify [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Illusory Script (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Illusory Script [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Inflict Wounds (TP)</name>
-    <classes>Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Inflict Wounds [TP]</name>
+    <classes>Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Insect Plague (TP)</name>
-    <classes>Apothecary: Pathogenist</classes>
+    <name>Insect Plague [TP]</name>
+    <classes>Apothecary [TP]: Pathogenist</classes>
   </spell>
   <spell>
-    <name>Jump (TP)</name>
-    <classes>Apothecary: Mutagenist</classes>
+    <name>Jump [TP]</name>
+    <classes>Apothecary [TP]: Mutagenist</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Lesser Restoration [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Light (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Light [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Lightning Bolt (TP)</name>
-    <classes>Apothecary: Reanimator</classes>
+    <name>Lightning Bolt [TP]</name>
+    <classes>Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Magic Circle (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Magic Circle [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Major Image (TP)</name>
-    <classes>Apothecary: Alienist</classes>
+    <name>Major Image [TP]</name>
+    <classes>Apothecary [TP]: Alienist</classes>
   </spell>
   <spell>
-    <name>Mass Cure Wounds (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Mass Cure Wounds [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Mass Heal (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Mass Heal [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Mass Healing Word (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Mass Healing Word [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Melf's Acid Arrow (TP)</name>
-    <classes>Apothecary: Chemist</classes>
+    <name>Melf's Acid Arrow [TP]</name>
+    <classes>Apothecary [TP]: Chemist</classes>
   </spell>
   <spell>
-    <name>Mending (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Mending [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Message (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Message [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Mind Blank (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Mind Blank [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Modify Memory (TP)</name>
-    <classes>Apothecary: Alienist</classes>
+    <name>Modify Memory [TP]</name>
+    <classes>Apothecary [TP]: Alienist</classes>
   </spell>
   <spell>
-    <name>Plane Shift (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Plane Shift [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Poison Spray (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Poison Spray [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Polymorph (TP)</name>
-    <classes>Apothecary: Mutagenist</classes>
+    <name>Polymorph [TP]</name>
+    <classes>Apothecary [TP]: Mutagenist</classes>
   </spell>
   <spell>
-    <name>Power Word Kill (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Power Word Kill [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Power Word Stun (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Power Word Stun [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Prismatic Spray (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Prismatic Spray [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Protection from Energy (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Protection from Energy [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Protection from Evil and Good (TP)</name>
-    <classes>Apothecary: Exorcist</classes>
+    <name>Protection from Evil and Good [TP]</name>
+    <classes>Apothecary [TP]: Exorcist</classes>
   </spell>
   <spell>
-    <name>Protection from Poison (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Protection from Poison [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Purify Food and Drink (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Purify Food and Drink [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Raise Dead (TP)</name>
-    <classes>Apothecary: Reanimator</classes>
+    <name>Raise Dead [TP]</name>
+    <classes>Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Ray of Enfeeblement (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Ray of Enfeeblement [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Regenerate (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Regenerate [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Reincarnate (TP)</name>
-    <classes>Apothecary: Mutagenist</classes>
+    <name>Reincarnate [TP]</name>
+    <classes>Apothecary [TP]: Mutagenist</classes>
   </spell>
   <spell>
-    <name>Remove Curse (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Remove Curse [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Resistance (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Resistance [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Resurrection (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Resurrection [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Revivify (TP)</name>
-    <classes>Apothecary: Reanimator</classes>
+    <name>Revivify [TP]</name>
+    <classes>Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Scrying (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Scrying [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>See Invisibility (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>See Invisibility [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Sending (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Sending [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Shocking Grasp (TP)</name>
-    <classes>Apothecary: Reanimator</classes>
+    <name>Shocking Grasp [TP]</name>
+    <classes>Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Silence (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Silence [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Sleep (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Sleep [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Slow (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Slow [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Spare the Dying (TP)</name>
-    <classes>Apothecary: Reanimator</classes>
+    <name>Spare the Dying [TP]</name>
+    <classes>Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Speak with Dead (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Speak with Dead [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Spider Climb (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Spider Climb [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Spirit Guardians (TP)</name>
-    <classes>Apothecary: Exorcist</classes>
+    <name>Spirit Guardians [TP]</name>
+    <classes>Apothecary [TP]: Exorcist</classes>
   </spell>
   <spell>
-    <name>Spiritual Weapon (TP)</name>
-    <classes>Apothecary: Exorcist</classes>
+    <name>Spiritual Weapon [TP]</name>
+    <classes>Apothecary [TP]: Exorcist</classes>
   </spell>
   <spell>
-    <name>Stinking Cloud (TP)</name>
-    <classes>Apothecary: Chemist</classes>
+    <name>Stinking Cloud [TP]</name>
+    <classes>Apothecary [TP]: Chemist</classes>
   </spell>
   <spell>
-    <name>Stoneskin (TP)</name>
-    <classes>Apothecary: Mutagenist</classes>
+    <name>Stoneskin [TP]</name>
+    <classes>Apothecary [TP]: Mutagenist</classes>
   </spell>
   <spell>
-    <name>Suggestion (TP)</name>
-    <classes>Apothecary: Alienist</classes>
+    <name>Suggestion [TP]</name>
+    <classes>Apothecary [TP]: Alienist</classes>
   </spell>
   <spell>
-    <name>Tasha's Hideous Laughter (TP)</name>
-    <classes>Apothecary: Alienist</classes>
+    <name>Tasha's Hideous Laughter [TP]</name>
+    <classes>Apothecary [TP]: Alienist</classes>
   </spell>
   <spell>
-    <name>Telepathic Bond (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Telepathic Bond [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Teleportation Circle (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Teleportation Circle [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Tenser's Floating Disk (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Tenser's Floating Disk [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Thaumaturgy (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Thaumaturgy [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Time Stop (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Time Stop [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>True Polymorph (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>True Polymorph [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>True Resurrection (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>True Resurrection [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>True Seeing (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>True Seeing [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Unseen Servant (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Unseen Servant [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Vampiric Touch (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Vampiric Touch [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Wall of Fire (TP)</name>
-    <classes>Apothecary: Chemist</classes>
+    <name>Wall of Fire [TP]</name>
+    <classes>Apothecary [TP]: Chemist</classes>
   </spell>
   <spell>
-    <name>Water Breathing (TP)</name>
-    <classes>Apothecary: Mutagenist</classes>
+    <name>Water Breathing [TP]</name>
+    <classes>Apothecary [TP]: Mutagenist</classes>
   </spell>
   <spell>
-    <name>Web (TP)</name>
-    <classes>Apothecary, Apothecary: Alienist, Apothecary: Chemist, Apothecary: Exorcist, Apothecary: Mutagenist, Apothecary: Pathogenist, Apothecary: Reanimator</classes>
+    <name>Web [TP]</name>
+    <classes>Apothecary [TP], Apothecary [TP]: Alienist, Apothecary [TP]: Chemist, Apothecary [TP]: Exorcist, Apothecary [TP]: Mutagenist, Apothecary [TP]: Pathogenist, Apothecary [TP]: Reanimator</classes>
   </spell>
   <spell>
-    <name>Zone of Truth (TP)</name>
-    <classes>Apothecary: Exorcist</classes>
+    <name>Zone of Truth [TP]</name>
+    <classes>Apothecary [TP]: Exorcist</classes>
   </spell>
 </compendium>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Domestic Wonder [5.5e]</name>
+    <name>Domestic Wonder</name>
     <sortname>Mechanical Wonder, Domestic</sortname>
     <ancestry>Mechanical Wonder</ancestry>
     <size>M</size>
@@ -48,7 +48,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 245,
     <environment/>
   </monster>
   <monster>
-    <name>Flying Wonder [5.5e]</name>
+    <name>Flying Wonder</name>
     <sortname>Mechanical Wonder, Flying</sortname>
     <ancestry>Mechanical Wonder</ancestry>
     <size>T</size>
@@ -102,7 +102,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 246</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gyrocopter Wonder [5.5e]</name>
+    <name>Gyrocopter Wonder</name>
     <sortname>Mechanical Wonder, Gyrocopter</sortname>
     <ancestry>Mechanical Wonder</ancestry>
     <size>H</size>
@@ -141,7 +141,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 246</description>
     <environment/>
   </monster>
   <monster>
-    <name>Windskiff (Vehicle) [5.5e]</name>
+    <name>Windskiff (Vehicle)</name>
     <sortname>Windskiff</sortname>
     <ancestry>Windskiff</ancestry>
     <size>M</size>
@@ -180,7 +180,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 247</description>
     <environment/>
   </monster>
   <monster>
-    <name>Aranea [5.5e]</name>
+    <name>Aranea</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Neutral</alignment>
@@ -300,7 +300,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 250</description>
     <environment>Calimshan, Forest, Swamp</environment>
   </monster>
   <monster>
-    <name>Beast of Malar [5.5e]</name>
+    <name>Beast of Malar</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -412,7 +412,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 251</description>
     <environment>coastal, forest, hill</environment>
   </monster>
   <monster>
-    <name>Cultist of Bane [5.5e]</name>
+    <name>Cultist of Bane</name>
     <sortname>Cultist, Bane</sortname>
     <ancestry>Cultist</ancestry>
     <size>M</size>
@@ -540,7 +540,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 254</description>
     <environment>Baldur's Gate, Urban</environment>
   </monster>
   <monster>
-    <name>Cultist of Bhaal [5.5e]</name>
+    <name>Cultist of Bhaal</name>
     <sortname>Cultist, Bhaal</sortname>
     <ancestry>Cultist</ancestry>
     <size>M</size>
@@ -661,7 +661,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 255</description>
     <environment>Baldur's Gate</environment>
   </monster>
   <monster>
-    <name>Cultist of Myrkul [5.5e]</name>
+    <name>Cultist of Myrkul</name>
     <sortname>Cultist, Myrkul</sortname>
     <ancestry>Cultist</ancestry>
     <size>M</size>
@@ -787,7 +787,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 255</description>
     <environment>Baldur's Gate</environment>
   </monster>
   <monster>
-    <name>Dead Three Scion [5.5e]</name>
+    <name>Dead Three Scion</name>
     <sortname>Cultist, Dead Three Scion</sortname>
     <ancestry>Cultist</ancestry>
     <size>M</size>
@@ -888,7 +888,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 256</description>
     <environment>Baldur's Gate, underdark, Urban</environment>
   </monster>
   <monster>
-    <name>Deep Dragon Wyrmling [5.5e]</name>
+    <name>Deep Dragon Wyrmling</name>
     <sortname>Dragon, Deep Wyrmling</sortname>
     <ancestry>Dragon</ancestry>
     <size>M</size>
@@ -978,7 +978,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 257</description>
     <environment>Icewind Dale, Underdark</environment>
   </monster>
   <monster>
-    <name>Young Deep Dragon [5.5e]</name>
+    <name>Young Deep Dragon</name>
     <sortname>Dragon, Young Deep</sortname>
     <ancestry>Dragon</ancestry>
     <size>L</size>
@@ -1086,7 +1086,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 257</description>
     <environment>Icewind Dale</environment>
   </monster>
   <monster>
-    <name>Adult Deep Dragon [5.5e]</name>
+    <name>Adult Deep Dragon</name>
     <sortname>Dragon, Adult Deep</sortname>
     <ancestry>Dragon</ancestry>
     <size>H</size>
@@ -1226,7 +1226,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 258</description>
     <environment>Icewind Dale</environment>
   </monster>
   <monster>
-    <name>Ancient Deep Dragon [5.5e]</name>
+    <name>Ancient Deep Dragon</name>
     <sortname>Deep Dragon, Ancient</sortname>
     <ancestry>Dragon</ancestry>
     <size>G</size>
@@ -1365,7 +1365,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 259</description>
     <environment>Icewind Dale</environment>
   </monster>
   <monster>
-    <name>Drow of Lolth [5.5e]</name>
+    <name>Drow of Lolth</name>
     <sortname>Drow, of Lolth</sortname>
     <ancestry>Drow</ancestry>
     <size>M</size>
@@ -1468,7 +1468,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 260</description>
     <environment>Underdark, Urban</environment>
   </monster>
   <monster>
-    <name>Drow Elite Warrior of Lolth [5.5e]</name>
+    <name>Drow Elite Warrior of Lolth</name>
     <sortname>Drow, Elite Warrior of Lolth</sortname>
     <ancestry>Drow</ancestry>
     <size>M</size>
@@ -1575,7 +1575,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 260</description>
     <environment>Underdark, Urban</environment>
   </monster>
   <monster>
-    <name>Drow Mage of Lolth [5.5e]</name>
+    <name>Drow Mage of Lolth</name>
     <sortname>Drow, Mage of Lolth</sortname>
     <ancestry>Drow</ancestry>
     <size>M</size>
@@ -1678,7 +1678,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 261</description>
     <environment>Underdark, Urban</environment>
   </monster>
   <monster>
-    <name>Drow Priestess of Lolth [5.5e]</name>
+    <name>Drow Priestess of Lolth</name>
     <sortname>Drow, Priestess of Lolth</sortname>
     <ancestry>Drow</ancestry>
     <size>M</size>
@@ -1794,7 +1794,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 261</description>
     <environment>Underdark, Urban</environment>
   </monster>
   <monster>
-    <name>Nimblewright Guard [5.5e]</name>
+    <name>Nimblewright Guard</name>
     <sortname>Nimblewright, Guard</sortname>
     <ancestry>Nimblewright</ancestry>
     <size>M</size>
@@ -1904,7 +1904,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 266</description>
     <environment>Calimshan, Urban</environment>
   </monster>
   <monster>
-    <name>Nimblewright Hulk [5.5e]</name>
+    <name>Nimblewright Hulk</name>
     <sortname>Nimblewright, Hulk</sortname>
     <ancestry>Nimblewright</ancestry>
     <size>L</size>
@@ -1991,7 +1991,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 267</description>
     <environment>Calimshan</environment>
   </monster>
   <monster>
-    <name>Nimblewright Steed [5.5e]</name>
+    <name>Nimblewright Steed</name>
     <sortname>Nimblewright, Steed</sortname>
     <ancestry>Nimblewright</ancestry>
     <size>L</size>
@@ -2062,7 +2062,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 267</description>
     <environment>Calimshan</environment>
   </monster>
   <monster>
-    <name>Phaerimm Hatchling [5.5e]</name>
+    <name>Phaerimm Hatchling</name>
     <sortname>Phaerimm, Hatchling</sortname>
     <ancestry>Phaerimm</ancestry>
     <size>S</size>
@@ -2187,7 +2187,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 268</description>
     <environment>Dalelands, Underdark, Urban</environment>
   </monster>
   <monster>
-    <name>Phaerimm Agent [5.5e]</name>
+    <name>Phaerimm Agent</name>
     <sortname>Phaerimm, Agent</sortname>
     <ancestry>Phaerimm</ancestry>
     <size>L</size>
@@ -2335,7 +2335,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 269</description>
     <environment>Dalelands</environment>
   </monster>
   <monster>
-    <name>Polar Serpent [5.5e]</name>
+    <name>Polar Serpent</name>
     <sortname>Serpent, Polar</sortname>
     <ancestry>Serpent</ancestry>
     <size>L</size>
@@ -2412,7 +2412,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 269</description>
     <environment>Icewind Dale</environment>
   </monster>
   <monster>
-    <name>Rusted Behemoth [5.5e]</name>
+    <name>Rusted Behemoth</name>
     <sortname>Rusted, Behemoth</sortname>
     <ancestry>Rusted Construct</ancestry>
     <size>H</size>
@@ -2529,7 +2529,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 272</description>
     <environment>Moonshae Isles, Coastal, Forest</environment>
   </monster>
   <monster>
-    <name>Rusted Berserker [5.5e]</name>
+    <name>Rusted Berserker</name>
     <sortname>Rusted, Berserker</sortname>
     <ancestry>Rusted Construct</ancestry>
     <size>M</size>
@@ -2646,7 +2646,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 273</description>
     <environment>Moonshae Isles</environment>
   </monster>
   <monster>
-    <name>Rusted Wyrm [5.5e]</name>
+    <name>Rusted Wyrm</name>
     <sortname>Rusted, Wyrm</sortname>
     <ancestry>Rusted Construct</ancestry>
     <size>G</size>
@@ -2770,7 +2770,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 273</description>
     <environment>Moonshae Isles</environment>
   </monster>
   <monster>
-    <name>Spirit Dragon Wyrmling [5.5e]</name>
+    <name>Spirit Dragon Wyrmling</name>
     <sortname>Dragon, Wyrmling Spirit</sortname>
     <ancestry>Dragon</ancestry>
     <size>M</size>
@@ -2867,7 +2867,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 277</description>
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Young Spirit Dragon [5.5e]</name>
+    <name>Young Spirit Dragon</name>
     <sortname>Dragon, Young Spirit</sortname>
     <ancestry>Dragon</ancestry>
     <size>L</size>
@@ -2968,7 +2968,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 277</description>
     <environment/>
   </monster>
   <monster>
-    <name>Adult Spirit Dragon [5.5e]</name>
+    <name>Adult Spirit Dragon</name>
     <sortname>Dragon, Adult Spirit</sortname>
     <ancestry>Dragon</ancestry>
     <size>H</size>
@@ -3112,7 +3112,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 278</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ancient Spirit Dragon [5.5e]</name>
+    <name>Ancient Spirit Dragon</name>
     <sortname>Dragon, Ancient Spirit</sortname>
     <ancestry>Dragon</ancestry>
     <size>G</size>
@@ -3256,7 +3256,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 279</description>
     <environment/>
   </monster>
   <monster>
-    <name>Spore of Moander [5.5e]</name>
+    <name>Spore of Moander</name>
     <sortname>Spore, of Moander</sortname>
     <ancestry>Spore</ancestry>
     <size>H</size>
@@ -3398,7 +3398,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 280</description>
     <environment>Dalelands, Forest, Swamp</environment>
   </monster>
   <monster>
-    <name>Swanmay [5.5e]</name>
+    <name>Swanmay</name>
     <ancestry>Swanmay</ancestry>
     <size>M</size>
     <type>fey</type>
@@ -3500,7 +3500,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 281</description>
     <environment>Moonshae Isles</environment>
   </monster>
   <monster>
-    <name>Werewyvern [5.5e]</name>
+    <name>Werewyvern</name>
     <sortname>Were, Wyvern</sortname>
     <ancestry>Lycanthrope</ancestry>
     <size>M</size>
@@ -3605,7 +3605,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 284</description>
     <environment>hill, mountain</environment>
   </monster>
   <monster>
-    <name>Zhentilar Soldier [5.5e]</name>
+    <name>Zhentilar Soldier</name>
     <sortname>Soldier, Zhentilar</sortname>
     <ancestry>Soldier</ancestry>
     <size>M</size>
@@ -3695,7 +3695,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 285</description>
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Zhentilar Paladin of Bane [5.5e]</name>
+    <name>Zhentilar Paladin of Bane</name>
     <sortname>Paladin of Bane, Zhentilar</sortname>
     <ancestry>Paladin</ancestry>
     <size>M</size>
@@ -3810,7 +3810,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 285</description>
   </monster>
   <!-- NPCs -->
   <monster>
-    <name>Biha Babir [5.5e]</name>
+    <name>Biha Babir</name>
     <sortname>Babir, Biha</sortname>
     <npc>YES</npc>
     <size>L</size>
@@ -3924,7 +3924,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 252</description>
     <environment>Calimshan</environment>
   </monster>
   <monster>
-    <name>Karas Chembryl [5.5e]</name>
+    <name>Karas Chembryl</name>
     <sortname>Chembryl, Karas</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4044,7 +4044,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 263</description>
     <environment>Baldur's Gate</environment>
   </monster>
   <monster>
-    <name>Manshoon [5.5e]</name>
+    <name>Manshoon</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human, wizard)</type>
@@ -4164,7 +4164,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 264</description>
     <environment/>
   </monster>
   <monster>
-    <name>Queen Forfallen [5.5e]</name>
+    <name>Queen Forfallen</name>
     <sortname>Rusted, Queen Forfallen</sortname>
     <ancestry>Rusted Construct</ancestry>
     <npc>YES</npc>
@@ -4312,7 +4312,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 271</description>
     <environment>Moonshae Isles</environment>
   </monster>
   <monster>
-    <name>Sammaster (Dracolich Form) [5.5e]</name>
+    <name>Sammaster (Dracolich Form)</name>
     <sortname>Sammaster, Dracolich Form</sortname>
     <ancestry>Dracolich</ancestry>
     <npc>YES</npc>
@@ -4496,7 +4496,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 275</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sammaster (Lich Form) [5.5e]</name>
+    <name>Sammaster (Lich Form)</name>
     <sortname>Sammaster, Lich Form</sortname>
     <ancestry>Lich</ancestry>
     <npc>YES</npc>
@@ -4682,7 +4682,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 276</description>
     <environment/>
   </monster>
   <monster>
-    <name>Valindra Shadowmantle [5.5e]</name>
+    <name>Valindra Shadowmantle</name>
     <ancestry>Lich</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -4834,7 +4834,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 282</description>
     <environment/>
   </monster>
   <monster>
-    <name>Zlan [5.5e]</name>
+    <name>Zlan</name>
     <ancestry>Lich</ancestry>
     <npc>YES</npc>
     <size>H</size>

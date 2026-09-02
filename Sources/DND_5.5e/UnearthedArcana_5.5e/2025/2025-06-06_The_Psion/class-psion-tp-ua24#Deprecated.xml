@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Psion (UA)</name>
+    <name>Psion [UA]</name>
     <hd>6</hd>
     <proficiency>Intelligence, Wisdom, Arcana, Insight, Investigation, Medicine, Perception, Persuasion</proficiency>
     <numSkills>2</numSkills>
@@ -760,9 +760,9 @@ Source:	UA2025-ThePsion</text>
     </autolevel>
   </class>
   <spell>
-    <name>Psionic Discipline: Biofeedback (UA)</name>
+    <name>Psionic Discipline: Biofeedback [UA]</name>
     <level>0</level>
-    <classes>Psion (UA): Psionic Discipline Options</classes>
+    <classes>Psion [UA]: Psionic Discipline Options</classes>
     <text>When you cast a Psion spell from the Necromancy or Transmutation school, you can expend one Psionic Energy Die and roll it. You gain a number of Temporary Hit Points equal to the number rolled plus your Intelligence modifier (minimum of one).
 
 Source:	UA2025-ThePsion p. 4</text>
@@ -772,9 +772,9 @@ Source:	UA2025-ThePsion p. 4</text>
     <roll description="Psionic Energy Die" level="17">1d12</roll>
   </spell>
   <spell>
-    <name>Psionic Discipline: Destructive Thoughts (UA)</name>
+    <name>Psionic Discipline: Destructive Thoughts [UA]</name>
     <level>0</level>
-    <classes>Psion (UA): Psionic Discipline Options</classes>
+    <classes>Psion [UA]: Psionic Discipline Options</classes>
     <text>When you cast a Psion spell from the Conjuration or Evocation school and a creature you can see succeeds on a saving throw against the spell, you can expend one Psionic Energy Die and roll it. The creature takes Psychic damage equal to the number rolled plus your Intelligence modifier (minimum of one).
 
 Source:	UA2025-ThePsion p. 4</text>
@@ -784,9 +784,9 @@ Source:	UA2025-ThePsion p. 4</text>
     <roll description="Psionic Energy Die" level="17">1d12</roll>
   </spell>
   <spell>
-    <name>Psionic Discipline: Devilish Tongue (UA)</name>
+    <name>Psionic Discipline: Devilish Tongue [UA]</name>
     <level>0</level>
-    <classes>Psion (UA): Psionic Discipline Options</classes>
+    <classes>Psion [UA]: Psionic Discipline Options</classes>
     <text>When you take the Influence action, you can expend one Psionic Energy Die, roll it, and add the number rolled to the ability check.
 
 Source:	UA2025-ThePsion p. 4</text>
@@ -796,9 +796,9 @@ Source:	UA2025-ThePsion p. 4</text>
     <roll description="Psionic Energy Die" level="17">1d12</roll>
   </spell>
   <spell>
-    <name>Psionic Discipline: Ego Whip (UA)</name>
+    <name>Psionic Discipline: Ego Whip [UA]</name>
     <level>0</level>
-    <classes>Psion (UA): Psionic Discipline Options</classes>
+    <classes>Psion [UA]: Psionic Discipline Options</classes>
     <text>When a creature provokes an Opportunity Attack from you by leaving your reach, you can take a Reaction to roll one Psionic Energy Die and force the creature to make an Intelligence saving throw. On a failed save, the target's Speed is reduced by 10 feet and it subtracts the number rolled from the next damage roll it makes before the end of its next turn. The die is expended only if the target fails the saving throw.
 
 Source:	UA2025-ThePsion p. 4</text>
@@ -808,9 +808,9 @@ Source:	UA2025-ThePsion p. 4</text>
     <roll description="Psionic Energy Die" level="17">1d12</roll>
   </spell>
   <spell>
-    <name>Psionic Discipline: Expanded Awareness (UA)</name>
+    <name>Psionic Discipline: Expanded Awareness [UA]</name>
     <level>0</level>
-    <classes>Psion (UA): Psionic Discipline Options</classes>
+    <classes>Psion [UA]: Psionic Discipline Options</classes>
     <text>When you take the Search action, you can expend one Psionic Energy Die, roll it, and add the number rolled to the ability check.
 
 Source:	UA2025-ThePsion p. 4</text>
@@ -820,9 +820,9 @@ Source:	UA2025-ThePsion p. 4</text>
     <roll description="Psionic Energy Die" level="17">1d12</roll>
   </spell>
   <spell>
-    <name>Psionic Discipline: Id Insinuation (UA)</name>
+    <name>Psionic Discipline: Id Insinuation [UA]</name>
     <level>0</level>
-    <classes>Psion (UA): Psionic Discipline Options</classes>
+    <classes>Psion [UA]: Psionic Discipline Options</classes>
     <text>When you cast a Psion spell from the Enchantment or Illusion school that forces a creature to make a saving throw, you can expend two Psionic Energy Dice and roll one Psionic Energy Die. One target of the spell you can see subtracts the number rolled from its saving throw against the spell.
 
 Source:	UA2025-ThePsion p. 4</text>
@@ -832,9 +832,9 @@ Source:	UA2025-ThePsion p. 4</text>
     <roll description="Psionic Energy Die" level="17">1d12</roll>
   </spell>
   <spell>
-    <name>Psionic Discipline: Inerrant Aim (UA)</name>
+    <name>Psionic Discipline: Inerrant Aim [UA]</name>
     <level>0</level>
-    <classes>Psion (UA): Psionic Discipline Options</classes>
+    <classes>Psion [UA]: Psionic Discipline Options</classes>
     <text>When you make an attack roll against a creature and miss, you can roll one Psionic Energy Die and add the number rolled to the attack roll, potentially turning the miss into a hit. If this causes the a to hit, the die is expended.
 
 Source:	UA2025-ThePsion p. 4</text>
@@ -844,9 +844,9 @@ Source:	UA2025-ThePsion p. 4</text>
     <roll description="Psionic Energy Die" level="17">1d12</roll>
   </spell>
   <spell>
-    <name>Psionic Discipline: Psionic Backlash (UA)</name>
+    <name>Psionic Discipline: Psionic Backlash [UA]</name>
     <level>0</level>
-    <classes>Psion (UA): Psionic Discipline Options</classes>
+    <classes>Psion [UA]: Psionic Discipline Options</classes>
     <text>Immediately after a creature you can see hits you with an attack roll, you can take a Reaction to expend one Psionic Energy Die, roll two Psionic Energy Dice, and subtract the number rolled on each die from the total. In addition, you can force the attacker to make a Wisdom saving throw. On a failed save, the target takes Psychic damage equal to the amount rolled on the two Psionic Energy Dice.
 
 Source:	UA2025-ThePsion p. 4</text>
@@ -856,9 +856,9 @@ Source:	UA2025-ThePsion p. 4</text>
     <roll description="Psionic Energy Die" level="17">1d12</roll>
   </spell>
   <spell>
-    <name>Psionic Discipline: Psionic Guards (UA)</name>
+    <name>Psionic Discipline: Psionic Guards [UA]</name>
     <level>0</level>
-    <classes>Psion (UA): Psionic Discipline Options</classes>
+    <classes>Psion [UA]: Psionic Discipline Options</classes>
     <text>At the start of your turn, you can expend one Psionic Energy Die. Until the start of your next turn, you have Immunity to the Charmed and Frightened conditions and Advantage on Intelligence saving throws. If you are Charmed or Frightened when you use this discipline, the condition ends on you.
 	When you use Psionic Guards, you can also use a different Psionic Discipline this turn.
 
@@ -869,9 +869,9 @@ Source:	UA2025-ThePsion p. 5</text>
     <roll description="Psionic Energy Die" level="17">1d12</roll>
   </spell>
   <spell>
-    <name>Psionic Discipline: Swift Precognition (UA)</name>
+    <name>Psionic Discipline: Swift Precognition [UA]</name>
     <level>0</level>
-    <classes>Psion (UA): Psionic Discipline Options</classes>
+    <classes>Psion [UA]: Psionic Discipline Options</classes>
     <text>When you cast a Psion spell from the Abjuration or Divination school with a casting time of an action, you can expend a number of Psionic Energy Dice to change the casting time to a Bonus Action for this casting. The number of dice equals one plus the spell's level.
 
 Source:	UA2025-ThePsion p. 5</text>
@@ -881,9 +881,9 @@ Source:	UA2025-ThePsion p. 5</text>
     <roll description="Psionic Energy Die" level="17">1d12</roll>
   </spell>
   <spell>
-    <name>Psionic Discipline: Tactical Mind (UA)</name>
+    <name>Psionic Discipline: Tactical Mind [UA]</name>
     <level>0</level>
-    <classes>Psion (UA): Psionic Discipline Options</classes>
+    <classes>Psion [UA]: Psionic Discipline Options</classes>
     <text>When you take the Study action, you can expend one Psionic Energy Die, roll it, and add the number rolled to the ability check.
 
 Source:	UA2025-ThePsion p. 5</text>
@@ -893,591 +893,591 @@ Source:	UA2025-ThePsion p. 5</text>
     <roll description="Psionic Energy Die" level="17">1d12</roll>
   </spell>
   <spell>
-    <name>Blade Ward (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Blade Ward [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Dancing Lights (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Dancing Lights [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Friends (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Friends [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Light (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Light [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Mage Hand (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Mage Hand [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Mending (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Mending [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Message (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Message [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Mind Sliver (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Mind Sliver [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Minor Illusion (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Minor Illusion [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Prestidigitation (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Prestidigitation [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>True Strike (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>True Strike [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Animal Friendship (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Animal Friendship [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Charm Person (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Charm Person [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Command (UA)</name>
-    <classes>Psion (UA), Psion (UA) (Telepath)</classes>
+    <name>Command [UA]</name>
+    <classes>Psion [UA], Psion [UA] (Telepath)</classes>
   </spell>
   <spell>
-    <name>Comprehend Languages (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Comprehend Languages [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Detect Magic (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Detect Magic [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Dissonant Whispers (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Dissonant Whispers [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Feather Fall (UA)</name>
-    <classes>Psion (UA), Psion (UA) (Psi Warper)</classes>
+    <name>Feather Fall [UA]</name>
+    <classes>Psion [UA], Psion [UA] (Psi Warper)</classes>
   </spell>
   <spell>
-    <name>Identify (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Identify [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Jump (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Jump [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Longstrider (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Longstrider [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Mage Armor (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Mage Armor [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Silent Image (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Silent Image [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Sleep (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Sleep [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Speak with Animals (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Speak with Animals [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Tasha's Hideous Laughter (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Tasha's Hideous Laughter [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Tenser's Floating Disk (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Tenser's Floating Disk [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Animal Messenger (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Animal Messenger [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Blindness/Deafness (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Blindness/Deafness [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Calm Emotions (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Calm Emotions [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Crown of Madness (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Crown of Madness [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Detect Thoughts (UA)</name>
-    <classes>Psion (UA), Psion (UA) (Telepath)</classes>
+    <name>Detect Thoughts [UA]</name>
+    <classes>Psion [UA], Psion [UA] (Telepath)</classes>
   </spell>
   <spell>
-    <name>Enhance Ability (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Enhance Ability [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Enlarge/Reduce (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Enlarge/Reduce [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Enthrall (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Enthrall [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Heat Metal (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Heat Metal [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Hold Person (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Hold Person [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Invisibility (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Invisibility [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Knock (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Knock [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Locate Animals or Plants (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Locate Animals or Plants [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Locate Object (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Locate Object [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Magic Mouth (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Magic Mouth [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Mind Spike (UA)</name>
-    <classes>Psion (UA), Psion (UA) (Telepath)</classes>
+    <name>Mind Spike [UA]</name>
+    <classes>Psion [UA], Psion [UA] (Telepath)</classes>
   </spell>
   <spell>
-    <name>Mirror Image (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Mirror Image [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Phantasmal Force (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Phantasmal Force [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>See Invisibility (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>See Invisibility [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Shatter (UA)</name>
-    <classes>Psion (UA), Psion (UA) (Psi Warper)</classes>
+    <name>Shatter [UA]</name>
+    <classes>Psion [UA], Psion [UA] (Psi Warper)</classes>
   </spell>
   <spell>
-    <name>Silence (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Silence [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Suggestion (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Suggestion [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Zone of Truth (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Zone of Truth [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Animate Dead (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Animate Dead [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Bestow Curse (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Bestow Curse [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Clairvoyance (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Clairvoyance [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Dispel Magic (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Dispel Magic [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Fear (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Fear [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Fly (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Fly [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Hypnotic Pattern (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Hypnotic Pattern [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Major Image (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Major Image [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Nondetection (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Nondetection [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Sending (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Sending [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Tongues (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Tongues [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Arcane Eye (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Arcane Eye [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Banishment (UA)</name>
-    <classes>Psion (UA), Psion (UA) (Psi Warper)</classes>
+    <name>Banishment [UA]</name>
+    <classes>Psion [UA], Psion [UA] (Psi Warper)</classes>
   </spell>
   <spell>
-    <name>Charm Monster (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Charm Monster [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Compulsion (UA)</name>
-    <classes>Psion (UA), Psion (UA) (Telepath)</classes>
+    <name>Compulsion [UA]</name>
+    <classes>Psion [UA], Psion [UA] (Telepath)</classes>
   </spell>
   <spell>
-    <name>Confusion (UA)</name>
-    <classes>Psion (UA), Psion (UA) (Telepath)</classes>
+    <name>Confusion [UA]</name>
+    <classes>Psion [UA], Psion [UA] (Telepath)</classes>
   </spell>
   <spell>
-    <name>Dimension Door (UA)</name>
-    <classes>Psion (UA), Psion (UA) (Psi Warper)</classes>
+    <name>Dimension Door [UA]</name>
+    <classes>Psion [UA], Psion [UA] (Psi Warper)</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Freedom of Movement [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Greater Invisibility (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Greater Invisibility [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Hallucinatory Terrain (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Hallucinatory Terrain [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Locate Creature (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Locate Creature [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Phantasmal Killer (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Phantasmal Killer [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Polymorph (UA)</name>
-    <classes>Psion (UA), Psion (UA) (Metamorph)</classes>
+    <name>Polymorph [UA]</name>
+    <classes>Psion [UA], Psion [UA] (Metamorph)</classes>
   </spell>
   <spell>
-    <name>Summon Aberration (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Summon Aberration [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Animate Objects (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Animate Objects [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Awaken (UA)</name>
-    <classes>Psion (UA), Psion (UA) (Telepath)</classes>
+    <name>Awaken [UA]</name>
+    <classes>Psion [UA], Psion [UA] (Telepath)</classes>
   </spell>
   <spell>
-    <name>Contact Other Plane (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Contact Other Plane [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Dominate Person (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Dominate Person [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Dream (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Dream [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Geas (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Geas [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Hold Monster (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Hold Monster [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Legend Lore (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Legend Lore [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Mislead (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Mislead [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Modify Memory (UA)</name>
-    <classes>Psion (UA), Psion (UA) (Telepath)</classes>
+    <name>Modify Memory [UA]</name>
+    <classes>Psion [UA], Psion [UA] (Telepath)</classes>
   </spell>
   <spell>
-    <name>Rary's Telepathic Bond (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Rary's Telepathic Bond [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Scrying (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Scrying [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Seeming (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Seeming [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Synaptic Static (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Synaptic Static [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Telekinesis (UA)</name>
-    <classes>Psion (UA), Psion (UA) (Psykinetic)</classes>
+    <name>Telekinesis [UA]</name>
+    <classes>Psion [UA], Psion [UA] (Psykinetic)</classes>
   </spell>
   <spell>
-    <name>Teleportation Circle (UA)</name>
-    <classes>Psion (UA), Psion (UA) (Psi Warper)</classes>
+    <name>Teleportation Circle [UA]</name>
+    <classes>Psion [UA], Psion [UA] (Psi Warper)</classes>
   </spell>
   <spell>
-    <name>Blade Barrier (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Blade Barrier [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Disintegrate (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Disintegrate [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Eyebite (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Eyebite [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Find the Path (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Find the Path [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Mass Suggestion (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Mass Suggestion [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Move Earth (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Move Earth [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Otto's Irresistible Dance (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Otto's Irresistible Dance [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Programmed Illusion (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Programmed Illusion [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>True Seeing (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>True Seeing [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Etherealness (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Etherealness [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Forcecage (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Forcecage [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Mirage Arcane (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Mirage Arcane [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Plane Shift (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Plane Shift [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Power Word Fortify (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Power Word Fortify [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Project Image (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Project Image [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Reverse Gravity (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Reverse Gravity [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Teleport (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Teleport [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Antipathy/Sympathy (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Antipathy/Sympathy [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Befuddlement (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Befuddlement [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Dominate Monster (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Dominate Monster [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Glibness (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Glibness [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Maze (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Maze [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Mind Blank (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Mind Blank [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Power Word Stun (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Power Word Stun [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Telepathy (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Telepathy [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Astral Projection (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Astral Projection [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Foresight (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Foresight [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Power Word Heal (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Power Word Heal [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Power Word Kill (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Power Word Kill [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Shapechange (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Shapechange [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Time Stop (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Time Stop [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Weird (UA)</name>
-    <classes>Psion (UA)</classes>
+    <name>Weird [UA]</name>
+    <classes>Psion [UA]</classes>
   </spell>
   <spell>
-    <name>Alter Self (UA)</name>
-    <classes>Psion (UA) (Metamorph)</classes>
+    <name>Alter Self [UA]</name>
+    <classes>Psion [UA] (Metamorph)</classes>
   </spell>
   <spell>
-    <name>Cure Wounds (UA)</name>
-    <classes>Psion (UA) (Metamorph)</classes>
+    <name>Cure Wounds [UA]</name>
+    <classes>Psion [UA] (Metamorph)</classes>
   </spell>
   <spell>
-    <name>Inflict Wounds (UA)</name>
-    <classes>Psion (UA) (Metamorph)</classes>
+    <name>Inflict Wounds [UA]</name>
+    <classes>Psion [UA] (Metamorph)</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration (UA)</name>
-    <classes>Psion (UA) (Metamorph)</classes>
+    <name>Lesser Restoration [UA]</name>
+    <classes>Psion [UA] (Metamorph)</classes>
   </spell>
   <spell>
-    <name>Aura of Vitality (UA)</name>
-    <classes>Psion (UA) (Metamorph)</classes>
+    <name>Aura of Vitality [UA]</name>
+    <classes>Psion [UA] (Metamorph)</classes>
   </spell>
   <spell>
-    <name>Haste (UA)</name>
-    <classes>Psion (UA) (Metamorph), Psion (UA) (Psi Warper)</classes>
+    <name>Haste [UA]</name>
+    <classes>Psion [UA] (Metamorph), Psion [UA] (Psi Warper)</classes>
   </spell>
   <spell>
-    <name>Stoneskin (UA)</name>
-    <classes>Psion (UA) (Metamorph)</classes>
+    <name>Stoneskin [UA]</name>
+    <classes>Psion [UA] (Metamorph)</classes>
   </spell>
   <spell>
-    <name>Contagion (UA)</name>
-    <classes>Psion (UA) (Metamorph)</classes>
+    <name>Contagion [UA]</name>
+    <classes>Psion [UA] (Metamorph)</classes>
   </spell>
   <spell>
-    <name>Mass Cure Wounds (UA)</name>
-    <classes>Psion (UA) (Metamorph)</classes>
+    <name>Mass Cure Wounds [UA]</name>
+    <classes>Psion [UA] (Metamorph)</classes>
   </spell>
   <spell>
-    <name>Expeditious Retreat (UA)</name>
-    <classes>Psion (UA) (Psi Warper)</classes>
+    <name>Expeditious Retreat [UA]</name>
+    <classes>Psion [UA] (Psi Warper)</classes>
   </spell>
   <spell>
-    <name>Misty Step (UA)</name>
-    <classes>Psion (UA) (Psi Warper)</classes>
+    <name>Misty Step [UA]</name>
+    <classes>Psion [UA] (Psi Warper)</classes>
   </spell>
   <spell>
-    <name>Blink (UA)</name>
-    <classes>Psion (UA) (Psi Warper)</classes>
+    <name>Blink [UA]</name>
+    <classes>Psion [UA] (Psi Warper)</classes>
   </spell>
   <spell>
-    <name>Steel Wind Strike (UA)</name>
-    <classes>Psion (UA) (Psi Warper)</classes>
+    <name>Steel Wind Strike [UA]</name>
+    <classes>Psion [UA] (Psi Warper)</classes>
   </spell>
   <spell>
-    <name>Cloud of Daggers (UA)</name>
-    <classes>Psion (UA) (Psykinetic)</classes>
+    <name>Cloud of Daggers [UA]</name>
+    <classes>Psion [UA] (Psykinetic)</classes>
   </spell>
   <spell>
-    <name>Levitate (UA)</name>
-    <classes>Psion (UA) (Psykinetic)</classes>
+    <name>Levitate [UA]</name>
+    <classes>Psion [UA] (Psykinetic)</classes>
   </spell>
   <spell>
-    <name>Shield (UA)</name>
-    <classes>Psion (UA) (Psykinetic)</classes>
+    <name>Shield [UA]</name>
+    <classes>Psion [UA] (Psykinetic)</classes>
   </spell>
   <spell>
-    <name>Thunderwave (UA)</name>
-    <classes>Psion (UA) (Psykinetic)</classes>
+    <name>Thunderwave [UA]</name>
+    <classes>Psion [UA] (Psykinetic)</classes>
   </spell>
   <spell>
-    <name>Slow (UA)</name>
-    <classes>Psion (UA) (Psykinetic)</classes>
+    <name>Slow [UA]</name>
+    <classes>Psion [UA] (Psykinetic)</classes>
   </spell>
   <spell>
-    <name>Telekinetic Crush (UA)</name>
-    <classes>Psion (UA) (Psykinetic)</classes>
+    <name>Telekinetic Crush [UA]</name>
+    <classes>Psion [UA] (Psykinetic)</classes>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere (UA)</name>
-    <classes>Psion (UA) (Psykinetic)</classes>
+    <name>Otiluke's Resilient Sphere [UA]</name>
+    <classes>Psion [UA] (Psykinetic)</classes>
   </spell>
   <spell>
-    <name>Stone Shape (UA)</name>
-    <classes>Psion (UA) (Psykinetic)</classes>
+    <name>Stone Shape [UA]</name>
+    <classes>Psion [UA] (Psykinetic)</classes>
   </spell>
   <spell>
-    <name>Wall of Force (UA)</name>
-    <classes>Psion (UA) (Psykinetic)</classes>
+    <name>Wall of Force [UA]</name>
+    <classes>Psion [UA] (Psykinetic)</classes>
   </spell>
   <spell>
-    <name>Bane (UA)</name>
-    <classes>Psion (UA) (Telepath)</classes>
+    <name>Bane [UA]</name>
+    <classes>Psion [UA] (Telepath)</classes>
   </spell>
   <spell>
-    <name>Counterspell (UA)</name>
-    <classes>Psion (UA) (Telepath)</classes>
+    <name>Counterspell [UA]</name>
+    <classes>Psion [UA] (Telepath)</classes>
   </spell>
   <spell>
-    <name>Speak with Plants (UA)</name>
-    <classes>Psion (UA) (Telepath)</classes>
+    <name>Speak with Plants [UA]</name>
+    <classes>Psion [UA] (Telepath)</classes>
   </spell>
 </compendium>

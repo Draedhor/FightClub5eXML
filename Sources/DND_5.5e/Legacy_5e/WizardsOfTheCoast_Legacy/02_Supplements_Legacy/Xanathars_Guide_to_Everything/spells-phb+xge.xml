@@ -1,251 +1,251 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Animate Objects</name>
+    <name>Animate Objects [Legacy]</name>
     <classes>Cleric (Forge Domain)</classes>
   </spell>
   <spell>
-    <name>Antilife Shell</name>
+    <name>Antilife Shell [Legacy]</name>
     <classes>Cleric (Grave Domain)</classes>
   </spell>
   <spell>
-    <name>Armor of Agathys</name>
+    <name>Armor of Agathys [Legacy]</name>
     <classes>Paladin (Conquest)</classes>
   </spell>
   <spell>
-    <name>Augury</name>
+    <name>Augury [Legacy]</name>
     <classes>Barbarian (Ancestral Guardian)</classes>
   </spell>
   <spell>
-    <name>Bane</name>
+    <name>Bane [Legacy]</name>
     <classes>Cleric (Grave Domain), Sorcerer (Divine Soul)</classes>
   </spell>
   <spell>
-    <name>Banishing Smite</name>
+    <name>Banishing Smite [Legacy]</name>
     <classes>Warlock (Hexblade)</classes>
   </spell>
   <spell>
-    <name>Banishment</name>
+    <name>Banishment [Legacy]</name>
     <classes>Ranger (Horizon Walker), Ranger (Monster Slayer)</classes>
   </spell>
   <spell>
-    <name>Bestow Curse</name>
+    <name>Bestow Curse [Legacy]</name>
     <classes>Paladin (Conquest)</classes>
   </spell>
   <spell>
-    <name>Bless</name>
+    <name>Bless [Legacy]</name>
     <classes>Sorcerer (Divine Soul)</classes>
   </spell>
   <spell>
-    <name>Blight</name>
+    <name>Blight [Legacy]</name>
     <classes>Cleric (Grave Domain)</classes>
   </spell>
   <spell>
-    <name>Blink</name>
+    <name>Blink [Legacy]</name>
     <classes>Warlock (Hexblade)</classes>
   </spell>
   <spell>
-    <name>Blur</name>
+    <name>Blur [Legacy]</name>
     <classes>Warlock (Hexblade)</classes>
   </spell>
   <spell>
-    <name>Shining Smite</name>
+    <name>Shining Smite [Legacy]</name>
     <classes>Warlock (Hexblade)</classes>
   </spell>
   <spell>
-    <name>Calm Emotions</name>
+    <name>Calm Emotions [Legacy]</name>
     <classes>Paladin (Redemption)</classes>
   </spell>
   <spell>
-    <name>Clairvoyance</name>
+    <name>Clairvoyance [Legacy]</name>
     <classes>Barbarian (Ancestral Guardian)</classes>
   </spell>
   <spell>
-    <name>Cloudkill</name>
+    <name>Cloudkill [Legacy]</name>
     <classes>Paladin (Conquest)</classes>
   </spell>
   <spell>
-    <name>Command</name>
+    <name>Command [Legacy]</name>
     <classes>Paladin (Conquest)</classes>
   </spell>
   <spell>
-    <name>Cone of Cold</name>
+    <name>Cone of Cold [Legacy]</name>
     <classes>Warlock (Hexblade)</classes>
   </spell>
   <spell>
-    <name>Counterspell</name>
+    <name>Counterspell [Legacy]</name>
     <classes>Paladin (Redemption)</classes>
   </spell>
   <spell>
-    <name>Creation</name>
+    <name>Creation [Legacy]</name>
     <classes>Cleric (Forge Domain)</classes>
   </spell>
   <spell>
-    <name>Darkness</name>
+    <name>Darkness [Legacy]</name>
     <classes>Sorcerer (Shadow)</classes>
   </spell>
   <spell>
-    <name>Death Ward</name>
+    <name>Death Ward [Legacy]</name>
     <classes>Cleric (Grave Domain)</classes>
   </spell>
   <spell>
-    <name>Dominate Beast</name>
+    <name>Dominate Beast [Legacy]</name>
     <classes>Paladin (Conquest)</classes>
   </spell>
   <spell>
-    <name>Dominate Person</name>
+    <name>Dominate Person [Legacy]</name>
     <classes>Paladin (Conquest)</classes>
   </spell>
   <spell>
-    <name>Druidcraft</name>
+    <name>Druidcraft [Legacy]</name>
     <classes>Fighter (Arcane Archer)</classes>
   </spell>
   <spell>
-    <name>Elemental Weapon</name>
+    <name>Elemental Weapon [Legacy]</name>
     <classes>Warlock (Hexblade), Cleric (Forge Domain)</classes>
   </spell>
   <spell>
-    <name>Fabricate</name>
+    <name>Fabricate [Legacy]</name>
     <classes>Cleric (Forge Domain)</classes>
   </spell>
   <spell>
-    <name>False Life</name>
+    <name>False Life [Legacy]</name>
     <classes>Cleric (Grave Domain)</classes>
   </spell>
   <spell>
-    <name>Fear</name>
+    <name>Fear [Legacy]</name>
     <classes>Paladin (Conquest)</classes>
   </spell>
   <spell>
-    <name>Gentle Repose</name>
+    <name>Gentle Repose [Legacy]</name>
     <classes>Cleric (Grave Domain)</classes>
   </spell>
   <spell>
-    <name>Haste</name>
+    <name>Haste [Legacy]</name>
     <classes>Ranger (Horizon Walker)</classes>
   </spell>
   <spell>
-    <name>Heat Metal</name>
+    <name>Heat Metal [Legacy]</name>
     <classes>Cleric (Forge Domain)</classes>
   </spell>
   <spell>
-    <name>Hold Monster</name>
+    <name>Hold Monster [Legacy]</name>
     <classes>Paladin (Redemption), Ranger (Monster Slayer)</classes>
   </spell>
   <spell>
-    <name>Hold Person</name>
+    <name>Hold Person [Legacy]</name>
     <classes>Paladin (Conquest), Paladin (Redemption)</classes>
   </spell>
   <spell>
-    <name>Hypnotic Pattern</name>
+    <name>Hypnotic Pattern [Legacy]</name>
     <classes>Paladin (Redemption)</classes>
   </spell>
   <spell>
-    <name>Identify</name>
+    <name>Identify [Legacy]</name>
     <classes>Cleric (Forge Domain)</classes>
   </spell>
   <spell>
-    <name>Inflict Wounds</name>
+    <name>Inflict Wounds [Legacy]</name>
     <classes>Sorcerer (Divine Soul)</classes>
   </spell>
   <spell>
-    <name>Magic Circle</name>
+    <name>Magic Circle [Legacy]</name>
     <classes>Ranger (Monster Slayer)</classes>
   </spell>
   <spell>
-    <name>Magic Weapon</name>
+    <name>Magic Weapon [Legacy]</name>
     <classes>Cleric (Forge Domain)</classes>
   </spell>
   <spell>
-    <name>Misty Step</name>
+    <name>Misty Step [Legacy]</name>
     <classes>Ranger (Horizon Walker)</classes>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere</name>
+    <name>Otiluke's Resilient Sphere [Legacy]</name>
     <classes>Paladin (Redemption)</classes>
   </spell>
   <spell>
-    <name>Phantasmal Killer</name>
+    <name>Phantasmal Killer [Legacy]</name>
     <classes>Warlock (Hexblade)</classes>
   </spell>
   <spell>
-    <name>Prestidigitation</name>
+    <name>Prestidigitation [Legacy]</name>
     <classes>Fighter (Arcane Archer)</classes>
   </spell>
   <spell>
-    <name>Protection from Energy</name>
+    <name>Protection from Energy [Legacy]</name>
     <classes>Cleric (Forge Domain)</classes>
   </spell>
   <spell>
-    <name>Protection from Evil and Good</name>
+    <name>Protection from Evil and Good [Legacy]</name>
     <classes>Ranger (Horizon Walker), Ranger (Monster Slayer), Sorcerer (Divine Soul)</classes>
   </spell>
   <spell>
-    <name>Raise Dead</name>
+    <name>Raise Dead [Legacy]</name>
     <classes>Cleric (Grave Domain)</classes>
   </spell>
   <spell>
-    <name>Revivify</name>
+    <name>Revivify [Legacy]</name>
     <classes>Cleric (Grave Domain)</classes>
   </spell>
   <spell>
-    <name>Ray of Enfeeblement</name>
+    <name>Ray of Enfeeblement [Legacy]</name>
     <classes>Cleric (Grave Domain)</classes>
   </spell>
   <spell>
-    <name>Sanctuary</name>
+    <name>Sanctuary [Legacy]</name>
     <classes>Paladin (Redemption)</classes>
   </spell>
   <spell>
-    <name>Searing Smite</name>
+    <name>Searing Smite [Legacy]</name>
     <classes>Cleric (Forge Domain)</classes>
   </spell>
   <spell>
-    <name>Shield</name>
+    <name>Shield [Legacy]</name>
     <classes>Warlock (Hexblade)</classes>
   </spell>
   <spell>
-    <name>Sleep</name>
+    <name>Sleep [Legacy]</name>
     <classes>Paladin (Redemption)</classes>
   </spell>
   <spell>
-    <name>Spare the Dying</name>
+    <name>Spare the Dying [Legacy]</name>
     <classes>Cleric (Grave Domain)</classes>
   </spell>
   <spell>
-    <name>Spiritual Weapon</name>
+    <name>Spiritual Weapon [Legacy]</name>
     <classes>Paladin (Conquest)</classes>
   </spell>
   <spell>
-    <name>Staggering Smite</name>
+    <name>Staggering Smite [Legacy]</name>
     <classes>Warlock (Hexblade)</classes>
   </spell>
   <spell>
-    <name>Stoneskin</name>
+    <name>Stoneskin [Legacy]</name>
     <classes>Paladin (Conquest), Paladin (Redemption)</classes>
   </spell>
   <spell>
-    <name>Teleportation Circle</name>
+    <name>Teleportation Circle [Legacy]</name>
     <classes>Ranger (Horizon Walker)</classes>
   </spell>
   <spell>
-    <name>Vampiric Touch</name>
+    <name>Vampiric Touch [Legacy]</name>
     <classes>Cleric (Grave Domain)</classes>
   </spell>
   <spell>
-    <name>Wall of Fire</name>
+    <name>Wall of Fire [Legacy]</name>
     <classes>Cleric (Forge Domain)</classes>
   </spell>
   <spell>
-    <name>Wall of Force</name>
+    <name>Wall of Force [Legacy]</name>
     <classes>Paladin (Redemption)</classes>
   </spell>
   <spell>
-    <name>Wrathful Smite</name>
+    <name>Wrathful Smite [Legacy]</name>
     <classes>Warlock (Hexblade)</classes>
   </spell>
   <spell>
-    <name>Zone of Truth</name>
+    <name>Zone of Truth [Legacy]</name>
     <classes>Ranger (Monster Slayer)</classes>
   </spell>
 </compendium>

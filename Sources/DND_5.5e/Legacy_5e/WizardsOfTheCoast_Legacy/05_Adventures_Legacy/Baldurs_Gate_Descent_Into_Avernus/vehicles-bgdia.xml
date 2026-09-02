@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Demon Grinder</name>
+    <name>Demon Grinder [Legacy]</name>
     <size>G</size>
     <type>vehicle (12,000 lb.)</type>
     <alignment>Unaligned</alignment>
@@ -70,7 +70,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 219</description>
     <environment/>
   </monster>
   <monster>
-    <name>Devil's Ride</name>
+    <name>Devil's Ride [Legacy]</name>
     <size>L</size>
     <type>vehicle (500 lb.)</type>
     <alignment>Unaligned</alignment>
@@ -122,7 +122,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 218</description>
     <environment/>
   </monster>
   <monster>
-    <name>Scavenger</name>
+    <name>Scavenger [Legacy]</name>
     <size>H</size>
     <type>vehicle (9,000 lb.)</type>
     <alignment>Unaligned</alignment>
@@ -181,7 +181,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 219</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tormentor</name>
+    <name>Tormentor [Legacy]</name>
     <size>H</size>
     <type>infernal vehicle (3,000 lb.)</type>
     <alignment>Unaligned</alignment>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Banner of the Krig Rune</name>
+    <name>Banner of the Krig Rune [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -19,7 +19,7 @@ Gift of Battle: You can transfer the banner's magic to a place by tracing the kr
 Source:	Storm King's Thunder p. 233</text>
   </item>
   <item>
-    <name>Blod Stone</name>
+    <name>Blod Stone [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -29,7 +29,7 @@ Source:	Storm King's Thunder p. 233</text>
 Source:	Storm King's Thunder p. 233</text>
   </item>
   <item>
-    <name>Claw of the Wyrm Rune</name>
+    <name>Claw of the Wyrm Rune [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -45,7 +45,7 @@ While in the 100-foot-radius sphere, any dragon has disadvantage on saving throw
 Source:	Storm King's Thunder p. 233</text>
   </item>
   <item>
-    <name>Clockwork Dog</name>
+    <name>Clockwork Dog [Legacy]</name>
     <detail>other</detail>
     <type>G</type>
     <text>This Tiny clockwork dog made of copper and tin comes with a copper wind-up key. As an action, you can use the key to wind the dog, after which it follows you for 12 hours. At the end of that duration, the clockwork dog stops until wound again. The dog has AC 5, 1 hit point, and a walking speed of 30 feet.
@@ -53,7 +53,7 @@ Source:	Storm King's Thunder p. 233</text>
 Source:	Storm King's Thunder p. 44</text>
   </item>
   <item>
-    <name>Conch of Teleportation</name>
+    <name>Conch of Teleportation [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -63,7 +63,7 @@ Source:	Storm King's Thunder p. 44</text>
 Source:	Storm King's Thunder p. 234</text>
   </item>
   <item>
-    <name>Dragon Thighbone Club</name>
+    <name>Dragon Thighbone Club [Legacy]</name>
     <detail>greatclub (attunement optional)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -82,7 +82,7 @@ Source:	Storm King's Thunder p. 105</text>
     <roll description="Bludgeoning Damage">2d8</roll>
   </item>
   <item>
-    <name>Gavel of the Venn Rune</name>
+    <name>Gavel of the Venn Rune [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -99,7 +99,7 @@ Whenever a creature utters a lie while within the 30-foot-radius sphere, that cr
 Source:	Storm King's Thunder p. 234</text>
   </item>
   <item>
-    <name>Gurt's Greataxe</name>
+    <name>Gurt's Greataxe [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -124,7 +124,7 @@ Source:	Storm King's Thunder p. 234</text>
     <roll description="Slashing Damage">2d12</roll>
   </item>
   <item>
-    <name>Ingot of the Skold Rune</name>
+    <name>Ingot of the Skold Rune [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -144,7 +144,7 @@ Source:	Storm King's Thunder p. 234</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Korolnor Scepter</name>
+    <name>Korolnor Scepter [Legacy]</name>
     <detail>club, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -172,7 +172,7 @@ Source:	Storm King's Thunder p. 234</text>
     <roll description="Recharge">1d6+4</roll>
   </item>
   <item>
-    <name>Navigation Orb</name>
+    <name>Navigation Orb [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -186,7 +186,7 @@ The castle moves at a speed of 1 mph in a straight line, in a direction of your 
 Source:	Storm King's Thunder p. 235</text>
   </item>
   <item>
-    <name>Opal of the Ild Rune</name>
+    <name>Opal of the Ild Rune [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -207,7 +207,7 @@ Source:	Storm King's Thunder p. 235</text>
     <roll description="Fire Damage">1d6</roll>
   </item>
   <item>
-    <name>Orb of the Stein Rune</name>
+    <name>Orb of the Stein Rune [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -229,7 +229,7 @@ Gift of Stone: You can transfer the orb's magic to a nonmagical item—a shield 
 Source:	Storm King's Thunder p. 235</text>
   </item>
   <item>
-    <name>Pennant of the Vind Rune</name>
+    <name>Pennant of the Vind Rune [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -252,7 +252,7 @@ Gift of Wind: You can transfer the pennant's magic to a nonmagical item—a suit
 Source:	Storm King's Thunder p. 235</text>
   </item>
   <item>
-    <name>Pixie Dust (SKT)</name>
+    <name>Pixie Dust (SKT) [Legacy]</name>
     <detail>uncommon</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -269,7 +269,7 @@ Source:	Storm King's Thunder p. 35</text>
     <roll description="Magical Effect">1d100</roll>
   </item>
   <item>
-    <name>Potion of Giant Size</name>
+    <name>Potion of Giant Size [Legacy]</name>
     <detail>legendary</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -280,7 +280,7 @@ Source:	Storm King's Thunder p. 35</text>
 Source:	Storm King's Thunder p. 236</text>
   </item>
   <item>
-    <name>Robe of Serpents</name>
+    <name>Robe of Serpents [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -291,7 +291,7 @@ Source:	Storm King's Thunder p. 236</text>
     <roll description="Stylized Serpents">1d4+3</roll>
   </item>
   <item>
-    <name>Rod of the Vonindod</name>
+    <name>Rod of the Vonindod [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>RD</type>
     <weight>2</weight>
@@ -302,7 +302,7 @@ Source:	Storm King's Thunder p. 236</text>
     <roll description="Recharge">1d6+4</roll>
   </item>
   <item>
-    <name>Shard of the Ise Rune</name>
+    <name>Shard of the Ise Rune [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -325,7 +325,7 @@ Gift of Frost: You can transfer the shard's magic to a nonmagical item—a cloak
 Source:	Storm King's Thunder p. 236</text>
   </item>
   <item>
-    <name>Wyrmskull Throne</name>
+    <name>Wyrmskull Throne [Legacy]</name>
     <detail>artifact</detail>
     <type>W</type>
     <magic>YES</magic>

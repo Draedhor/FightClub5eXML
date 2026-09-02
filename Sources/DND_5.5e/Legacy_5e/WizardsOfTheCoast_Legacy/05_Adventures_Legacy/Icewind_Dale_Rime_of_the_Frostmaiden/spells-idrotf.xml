@@ -8,7 +8,7 @@ The blade can harmlessly pass through any barrier, including a wall of force.
 
 Source:	Icewind Dale: Rime of the Frostmaiden p. 318</text><roll>4d12</roll><roll>8d12</roll><roll>12d12</roll></spell-->
   <spell>
-    <name>Create Magen</name>
+    <name>Create Magen [Legacy]</name>
     <level>7</level>
     <school>T</school>
     <time>1 hour</time>
@@ -23,7 +23,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 318</text><roll>4d12</roll><rol
 Source:	Icewind Dale: Rime of the Frostmaiden p. 318</text>
   </spell>
   <spell>
-    <name>Frost Fingers</name>
+    <name>Frost Fingers [Legacy]</name>
     <level>1</level>
     <school>EV</school>
     <time>1 action</time>

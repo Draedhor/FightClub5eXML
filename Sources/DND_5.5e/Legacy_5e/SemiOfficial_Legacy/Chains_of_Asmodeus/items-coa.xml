@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Amulet of Appearance</name>
+    <name>Amulet of Appearance [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -10,7 +10,7 @@
 Source:	Chains of Asmodeus p. 267</text>
   </item>
   <item>
-    <name>Amulet of Betrayal</name>
+    <name>Amulet of Betrayal [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -19,7 +19,7 @@ Source:	Chains of Asmodeus p. 267</text>
 Source:	Chains of Asmodeus p. 267</text>
   </item>
   <item>
-    <name>Amulet of Duplicity</name>
+    <name>Amulet of Duplicity [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -30,7 +30,7 @@ Curse: An Identify spell or similar reveals only that the amulet can prevent dea
 Source:	Chains of Asmodeus p. 267</text>
   </item>
   <item>
-    <name>Bracers of Asmodeus</name>
+    <name>Bracers of Asmodeus [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -43,7 +43,7 @@ Corrupting: This item corrupts. See the "Infernal Item Corruption" section.
 Source:	Chains of Asmodeus p. 267</text>
   </item>
   <item>
-    <name>Canian Fork</name>
+    <name>Canian Fork [TP Legacy]</name>
     <detail>trident, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -69,7 +69,7 @@ Source:	Chains of Asmodeus p. 267</text>
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Condensed Order</name>
+    <name>Condensed Order [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -78,7 +78,7 @@ Source:	Chains of Asmodeus p. 267</text>
 Source:	Chains of Asmodeus p. 267</text>
   </item>
   <item>
-    <name>Gauntlets of Rage</name>
+    <name>Gauntlets of Rage [TP Legacy]</name>
     <detail>rare (requires attunement by a bard, sorcerer, warlock, or wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -87,7 +87,7 @@ Source:	Chains of Asmodeus p. 267</text>
 Source:	Chains of Asmodeus p. 267</text>
   </item>
   <item>
-    <name>Infernal Amulet</name>
+    <name>Infernal Amulet [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -102,7 +102,7 @@ Source:	Chains of Asmodeus p. 267</text>
     <modifier category="bonus">spell dc +2</modifier>
   </item>
   <item>
-    <name>Infernal Plate Armor</name>
+    <name>Infernal Plate Armor [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -120,7 +120,7 @@ Source:	Chains of Asmodeus p. 267</text>
     <modifier category="bonus">ac +2</modifier>
   </item>
   <item>
-    <name>Knife of Stolen Resistance</name>
+    <name>Knife of Stolen Resistance [TP Legacy]</name>
     <detail>dagger, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -135,7 +135,7 @@ Proficiency: simple, dagger
 Source:	Chains of Asmodeus p. 267</text>
   </item>
   <item>
-    <name>Ring of Collecting</name>
+    <name>Ring of Collecting [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -144,7 +144,7 @@ Source:	Chains of Asmodeus p. 267</text>
 Source:	Chains of Asmodeus p. 267</text>
   </item>
   <item>
-    <name>Ring of The Copycat</name>
+    <name>Ring of The Copycat [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -153,7 +153,7 @@ Source:	Chains of Asmodeus p. 267</text>
 Source:	Chains of Asmodeus p. 267</text>
   </item>
   <item>
-    <name>Ring of Treachery</name>
+    <name>Ring of Treachery [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -162,7 +162,7 @@ Source:	Chains of Asmodeus p. 267</text>
 Source:	Chains of Asmodeus p. 269</text>
   </item>
   <item>
-    <name>Sage's Mirror</name>
+    <name>Sage's Mirror [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -176,7 +176,7 @@ With each use, it is apparent that the information gleaned from the mirror comes
 Source:	Chains of Asmodeus p. 269</text>
   </item>
   <item>
-    <name>Skull of Selfish Knowledge</name>
+    <name>Skull of Selfish Knowledge [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -185,7 +185,7 @@ Source:	Chains of Asmodeus p. 269</text>
 Source:	Chains of Asmodeus p. 269</text>
   </item>
   <item>
-    <name>Vial of Greed</name>
+    <name>Vial of Greed [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -201,7 +201,7 @@ You may have more than one kind of resource in the vial, up to the limits expres
 Source:	Chains of Asmodeus p. 270</text>
   </item>
   <item>
-    <name>Accounting and Valuation of All Things</name>
+    <name>Accounting and Valuation of All Things [TP Legacy]</name>
     <detail>artifact (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -228,7 +228,7 @@ Source:	Chains of Asmodeus p. 272</text>
     <modifier category="bonus">spell dc +3</modifier>
   </item>
   <item>
-    <name>Amulet of The Inferno</name>
+    <name>Amulet of The Inferno [TP Legacy]</name>
     <detail>artifact (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -254,7 +254,7 @@ Source:	Chains of Asmodeus p. 272</text>
     <modifier category="bonus">spell dc +3</modifier>
   </item>
   <item>
-    <name>Ranseur of Torture</name>
+    <name>Ranseur of Torture [TP Legacy]</name>
     <detail>pike, artifact (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -294,7 +294,7 @@ Source:	Chains of Asmodeus p. 272</text>
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Ruby Rod of Asmodeus</name>
+    <name>Ruby Rod of Asmodeus [TP Legacy]</name>
     <detail>artifact (requires attunement)</detail>
     <type>RD</type>
     <magic>YES</magic>
@@ -327,7 +327,7 @@ Destroying the Rod: While Asmodeus lives, the Ruby Rod of Asmodeus can't be dest
 Source:	Chains of Asmodeus p. 274</text>
   </item>
   <item>
-    <name>Scourge of Shadow</name>
+    <name>Scourge of Shadow [TP Legacy]</name>
     <detail>whip, artifact (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -364,7 +364,7 @@ Source:	Chains of Asmodeus p. 275</text>
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>True-Ice Shards</name>
+    <name>True-Ice Shards [TP Legacy]</name>
     <detail>artifact (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -396,7 +396,7 @@ Source:	Chains of Asmodeus p. 275</text>
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Wrought-Iron Tower</name>
+    <name>Wrought-Iron Tower [TP Legacy]</name>
     <detail>warhammer, artifact (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>

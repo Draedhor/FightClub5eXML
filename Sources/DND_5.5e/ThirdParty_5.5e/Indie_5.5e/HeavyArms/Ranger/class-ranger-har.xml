@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Ranger (HeavyArms) (TP)</name>
+    <name>Ranger (HeavyArms) [TP]</name>
     <hd>8</hd>
     <proficiency>Strength, Dexterity, Animal Handling, Athletics, Insight, Investigation, Medicine, Nature, Perception, Stealth, Survival</proficiency>
     <numSkills>3</numSkills>

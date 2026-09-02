@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Giant Shark Skeleton</name>
+    <name>Giant Shark Skeleton [Legacy]</name>
     <sortname>Shark, Skeleton Giant</sortname>
     <ancestry>Shark</ancestry>
     <size>H</size>
@@ -43,7 +43,7 @@ Source:	Essentials Kit: Sleeping Dragon's Wake</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lhammaruntosz</name>
+    <name>Lhammaruntosz [Legacy]</name>
     <size>H</size>
     <type>dragon</type>
     <alignment>Lawful Good</alignment>

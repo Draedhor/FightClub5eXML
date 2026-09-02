@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>True Name Bad News (Rare) (TP)</name>
+    <name>True Name Bad News (Rare) [TP]</name>
     <detail>firearm, modern, sniper rifle, rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -45,7 +45,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Blunderbuss (Rare) (Matthew Mercer) (TP)</name>
+    <name>True Name Blunderbuss (Rare) (Matthew Mercer) [TP]</name>
     <detail>firearm, modern, rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -87,7 +87,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Hand Mortar (Rare) (TP)</name>
+    <name>True Name Hand Mortar (Rare) [TP]</name>
     <detail>firearm, rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -126,7 +126,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Musket (Rare) (Matthew Mercer) (TP)</name>
+    <name>True Name Musket (Rare) (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -170,7 +170,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Palm Pistol (Rare) (TP)</name>
+    <name>True Name Palm Pistol (Rare) [TP]</name>
     <detail>firearm, rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -216,7 +216,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Pistol (Rare) (Matthew Mercer) (TP)</name>
+    <name>True Name Pistol (Rare) (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -258,7 +258,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Pepperbox (Rare) (TP)</name>
+    <name>True Name Pepperbox (Rare) [TP]</name>
     <detail>firearm, rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -300,7 +300,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Bad News (Very Rare) (TP)</name>
+    <name>True Name Bad News (Very Rare) [TP]</name>
     <detail>firearm, modern, sniper rifle, very rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -344,7 +344,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Blunderbuss (Very Rare) (Matthew Mercer) (TP)</name>
+    <name>True Name Blunderbuss (Very Rare) (Matthew Mercer) [TP]</name>
     <detail>firearm, modern, very rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -386,7 +386,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Hand Mortar (Very Rare) (TP)</name>
+    <name>True Name Hand Mortar (Very Rare) [TP]</name>
     <detail>firearm, very rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -425,7 +425,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Musket (Very Rare) (Matthew Mercer) (TP)</name>
+    <name>True Name Musket (Very Rare) (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, very rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -469,7 +469,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Palm Pistol (Very Rare) (TP)</name>
+    <name>True Name Palm Pistol (Very Rare) [TP]</name>
     <detail>firearm, very rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -515,7 +515,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Pistol (Very Rare) (Matthew Mercer) (TP)</name>
+    <name>True Name Pistol (Very Rare) (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, very rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -557,7 +557,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Pepperbox (Very Rare) (TP)</name>
+    <name>True Name Pepperbox (Very Rare) [TP]</name>
     <detail>firearm, very rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -599,7 +599,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Bad News (Legendary) (TP)</name>
+    <name>True Name Bad News (Legendary) [TP]</name>
     <detail>firearm, modern, sniper rifle, legendary (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -643,7 +643,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">3d6</roll>
   </item>
   <item>
-    <name>True Name Blunderbuss (Legendary) (Matthew Mercer) (TP)</name>
+    <name>True Name Blunderbuss (Legendary) (Matthew Mercer) [TP]</name>
     <detail>firearm, modern, legendary (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -685,7 +685,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">3d6</roll>
   </item>
   <item>
-    <name>True Name Hand Mortar (Legendary) (TP)</name>
+    <name>True Name Hand Mortar (Legendary) [TP]</name>
     <detail>firearm, legendary (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -724,7 +724,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">3d6</roll>
   </item>
   <item>
-    <name>True Name Musket (Legendary) (Matthew Mercer) (TP)</name>
+    <name>True Name Musket (Legendary) (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, legendary (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -768,7 +768,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">3d6</roll>
   </item>
   <item>
-    <name>True Name Palm Pistol (Legendary) (TP)</name>
+    <name>True Name Palm Pistol (Legendary) [TP]</name>
     <detail>firearm, legendary (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -814,7 +814,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">3d6</roll>
   </item>
   <item>
-    <name>True Name Pistol (Legendary) (Matthew Mercer) (TP)</name>
+    <name>True Name Pistol (Legendary) (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, legendary (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -856,7 +856,7 @@ Source:	The Illrigger Revised p. 38,
     <roll description="Extra Damage">3d6</roll>
   </item>
   <item>
-    <name>True Name Pepperbox (Legendary) (TP)</name>
+    <name>True Name Pepperbox (Legendary) [TP]</name>
     <detail>firearm, legendary (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>

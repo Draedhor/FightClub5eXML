@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Cleric (UA)</name>
+    <name>Cleric</name>
     <!-- Cleric Subclass: Arcana Domain (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -70,43 +70,43 @@ Source:	UA25-ArcaneSubclasses p. 2</text>
     </autolevel>
   </class>
   <spell>
-    <name>Detect Magic (UA)</name>
+    <name>Detect Magic [UA]</name>
     <classes>Cleric (Arcana Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Magic Missile (UA)</name>
+    <name>Magic Missile [UA]</name>
     <classes>Cleric (Arcana Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Magic Weapon (UA)</name>
+    <name>Magic Weapon [UA]</name>
     <classes>Cleric (Arcana Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Nystul's Magic Aura (UA)</name>
+    <name>Nystul's Magic Aura [UA]</name>
     <classes>Cleric (Arcana Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Counterspell (UA)</name>
+    <name>Counterspell [UA]</name>
     <classes>Cleric (Arcana Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Dispel Magic (UA)</name>
+    <name>Dispel Magic [UA]</name>
     <classes>Cleric (Arcana Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Arcane Eye (UA)</name>
+    <name>Arcane Eye [UA]</name>
     <classes>Cleric (Arcana Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Leomund's Secret Chest (UA)</name>
+    <name>Leomund's Secret Chest [UA]</name>
     <classes>Cleric (Arcana Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Bigby's Hand (UA)</name>
+    <name>Bigby's Hand [UA]</name>
     <classes>Cleric (Arcana Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Teleportation Circle (UA)</name>
+    <name>Teleportation Circle [UA]</name>
     <classes>Cleric (Arcana Domain (UA))</classes>
   </spell>
 </compendium>

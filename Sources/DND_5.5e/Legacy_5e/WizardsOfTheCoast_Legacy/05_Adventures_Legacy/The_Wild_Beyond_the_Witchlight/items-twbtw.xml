@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Bobbing Lily Pad</name>
+    <name>Bobbing Lily Pad [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -11,7 +11,7 @@
 Source:	The Wild Beyond the Witchlight p. 208</text>
   </item>
   <item>
-    <name>Chromatic Rose</name>
+    <name>Chromatic Rose [Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -31,7 +31,7 @@ Source:	The Wild Beyond the Witchlight p. 208</text>
     <roll description="Chromatic Damage">3d10</roll>
   </item>
   <item>
-    <name>Dust of Corrosion</name>
+    <name>Dust of Corrosion [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -42,7 +42,7 @@ Source:	The Wild Beyond the Witchlight p. 209</text>
     <roll description="Necrotic Damage">4d8</roll>
   </item>
   <item>
-    <name>Eldritch Staff</name>
+    <name>Eldritch Staff [Legacy]</name>
     <detail>spellcasting focus, very rare (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -70,7 +70,7 @@ Source:	The Wild Beyond the Witchlight p. 209</text>
     <roll description="Lightning Damage">1d8</roll>
   </item>
   <item>
-    <name>Iggwilv's Cauldron</name>
+    <name>Iggwilv's Cauldron [Legacy]</name>
     <detail>artifact (requires attunement by a spellcaster)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -122,7 +122,7 @@ All on the cauldron that is ever seeming
 Source:	The Wild Beyond the Witchlight p. 209</text>
   </item>
   <item>
-    <name>Ornithopter of Flying</name>
+    <name>Ornithopter of Flying [Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -134,7 +134,7 @@ Source:	The Wild Beyond the Witchlight p. 212</text>
     <roll description="Days">1d6+4</roll>
   </item>
   <item>
-    <name>Pixie Dust</name>
+    <name>Pixie Dust [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -144,7 +144,7 @@ Source:	The Wild Beyond the Witchlight p. 212</text>
 Source:	The Wild Beyond the Witchlight p. 212</text>
   </item>
   <item>
-    <name>Potion of Advantage</name>
+    <name>Potion of Advantage [Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -154,7 +154,7 @@ Source:	The Wild Beyond the Witchlight p. 212</text>
 Source:	The Wild Beyond the Witchlight p. 212</text>
   </item>
   <item>
-    <name>Scissors of Shadow Snipping</name>
+    <name>Scissors of Shadow Snipping [Legacy]</name>
     <detail>rare (requires attunement by a fey or a spellcaster)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -170,7 +170,7 @@ A creature whose shadow has detached from it is cursed. If a shadowless creature
 Source:	The Wild Beyond the Witchlight p. 213</text>
   </item>
   <item>
-    <name>Snicker-Snack</name>
+    <name>Snicker-Snack [Legacy]</name>
     <detail>greatsword, legendary (requires attunement by a non-evil creature)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -196,7 +196,7 @@ Source:	The Wild Beyond the Witchlight p. 213</text>
     <roll description="Slashing Damage">6d8</roll>
   </item>
   <item>
-    <name>Steel</name>
+    <name>Steel [Legacy]</name>
     <detail>longsword, very rare (requires attunement by a good-aligned creature)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -219,7 +219,7 @@ Source:	The Wild Beyond the Witchlight p. 214</text>
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Witchlight Vane</name>
+    <name>Witchlight Vane [Legacy]</name>
     <detail>legendary (requires attunement by a mister light or his handpicked successor)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -248,7 +248,7 @@ Source:	The Wild Beyond the Witchlight p. 27</text>
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Witchlight Watch</name>
+    <name>Witchlight Watch [Legacy]</name>
     <detail>legendary (requires attunement by a mister witch or his handpicked successor)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -268,7 +268,7 @@ Source:	The Wild Beyond the Witchlight p. 25</text>
     <roll>1d8</roll>
   </item>
   <item>
-    <name>Woodcutter's Axe</name>
+    <name>Woodcutter's Axe [Legacy]</name>
     <detail>greataxe, rare</detail>
     <type>M</type>
     <magic>YES</magic>

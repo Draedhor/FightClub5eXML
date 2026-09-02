@@ -83,43 +83,43 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 136 (Homebrew)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Protection from Evil and Good (TP)</name>
+    <name>Protection from Evil and Good [TP]</name>
     <classes>Cleric (Guardian Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Sanctuary (TP)</name>
+    <name>Sanctuary [TP]</name>
     <classes>Cleric (Guardian Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Aid (TP)</name>
+    <name>Aid [TP]</name>
     <classes>Cleric (Guardian Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Warding Bond (TP)</name>
+    <name>Warding Bond [TP]</name>
     <classes>Cleric (Guardian Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Protection from Energy (TP)</name>
+    <name>Protection from Energy [TP]</name>
     <classes>Cleric (Guardian Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Slow (TP)</name>
+    <name>Slow [TP]</name>
     <classes>Cleric (Guardian Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Guardian of Faith (TP)</name>
+    <name>Guardian of Faith [TP]</name>
     <classes>Cleric (Guardian Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere (TP)</name>
+    <name>Otiluke's Resilient Sphere [TP]</name>
     <classes>Cleric (Guardian Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Antilife Shell (TP)</name>
+    <name>Antilife Shell [TP]</name>
     <classes>Cleric (Guardian Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Wall of Force (TP)</name>
+    <name>Wall of Force [TP]</name>
     <classes>Cleric (Guardian Domain (HB))</classes>
   </spell>
 </compendium>

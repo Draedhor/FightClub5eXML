@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Gate Warden (Legacy)</name>
+    <name>Gate Warden [Legacy]</name>
     <proficiency>Persuasion, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -47,7 +47,7 @@ d6 | Personality Trait
     </trait>
   </background>
   <background>
-    <name>Planar Philosopher (Legacy)</name>
+    <name>Planar Philosopher [Legacy]</name>
     <proficiency>Arcana</proficiency>
     <trait>
       <name>Description</name>

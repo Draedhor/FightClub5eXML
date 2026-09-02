@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Fate Dealer's Deck +1</name>
+    <name>Fate Dealer's Deck +1 [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>rare (requires attunement by a cleric or paladin)</detail>
@@ -14,7 +14,7 @@ Source:	The Book of Many Things p. 61</text>
     <modifier category="bonus">spell dc +1</modifier>
   </item>
   <item>
-    <name>Wraps of Unarmed Prowess +1</name>
+    <name>Wraps of Unarmed Prowess +1 [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>uncommon</detail>
@@ -23,7 +23,7 @@ Source:	The Book of Many Things p. 61</text>
 Source:	The Book of Many Things p. 69</text>
   </item>
   <item>
-    <name>Fate Dealer's Deck +2</name>
+    <name>Fate Dealer's Deck +2 [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement by a cleric or paladin)</detail>
@@ -36,7 +36,7 @@ Source:	The Book of Many Things p. 61</text>
     <modifier category="bonus">spell dc +2</modifier>
   </item>
   <item>
-    <name>Wraps of Unarmed Prowess +2</name>
+    <name>Wraps of Unarmed Prowess +2 [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>rare</detail>
@@ -45,7 +45,7 @@ Source:	The Book of Many Things p. 61</text>
 Source:	The Book of Many Things p. 69</text>
   </item>
   <item>
-    <name>Fate Dealer's Deck +3</name>
+    <name>Fate Dealer's Deck +3 [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>legendary (requires attunement by a cleric or paladin)</detail>
@@ -58,7 +58,7 @@ Source:	The Book of Many Things p. 61</text>
     <modifier category="bonus">spell dc +3</modifier>
   </item>
   <item>
-    <name>Wraps of Unarmed Prowess +3</name>
+    <name>Wraps of Unarmed Prowess +3 [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>very rare</detail>
@@ -67,7 +67,7 @@ Source:	The Book of Many Things p. 61</text>
 Source:	The Book of Many Things p. 69</text>
   </item>
   <item>
-    <name>Antimagic Breastplate</name>
+    <name>Antimagic Breastplate [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>20</weight>
@@ -81,7 +81,7 @@ Source:	The Book of Many Things p. 65</text>
     <ac>14</ac>
   </item>
   <item>
-    <name>Antimagic Chain Mail</name>
+    <name>Antimagic Chain Mail [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>55</weight>
@@ -101,7 +101,7 @@ Source:	The Book of Many Things p. 65</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Antimagic Chain Shirt</name>
+    <name>Antimagic Chain Shirt [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>20</weight>
@@ -115,7 +115,7 @@ Source:	The Book of Many Things p. 65</text>
     <ac>13</ac>
   </item>
   <item>
-    <name>Antimagic Half Plate Armor</name>
+    <name>Antimagic Half Plate Armor [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>40</weight>
@@ -132,7 +132,7 @@ Source:	The Book of Many Things p. 65</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Antimagic Hide Armor</name>
+    <name>Antimagic Hide Armor [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>12</weight>
@@ -146,7 +146,7 @@ Source:	The Book of Many Things p. 65</text>
     <ac>12</ac>
   </item>
   <item>
-    <name>Antimagic Leather Armor</name>
+    <name>Antimagic Leather Armor [Legacy]</name>
     <type>LA</type>
     <magic>YES</magic>
     <weight>10</weight>
@@ -160,7 +160,7 @@ Source:	The Book of Many Things p. 65</text>
     <ac>11</ac>
   </item>
   <item>
-    <name>Antimagic Padded Armor</name>
+    <name>Antimagic Padded Armor [Legacy]</name>
     <type>LA</type>
     <magic>YES</magic>
     <weight>8</weight>
@@ -177,7 +177,7 @@ Source:	The Book of Many Things p. 65</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Antimagic Plate Armor</name>
+    <name>Antimagic Plate Armor [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>65</weight>
@@ -197,7 +197,7 @@ Source:	The Book of Many Things p. 65</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Antimagic Ring Mail</name>
+    <name>Antimagic Ring Mail [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>40</weight>
@@ -214,7 +214,7 @@ Source:	The Book of Many Things p. 65</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Antimagic Scale Mail</name>
+    <name>Antimagic Scale Mail [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>45</weight>
@@ -231,7 +231,7 @@ Source:	The Book of Many Things p. 65</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Antimagic Spiked Armor</name>
+    <name>Antimagic Spiked Armor [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>45</weight>
@@ -248,7 +248,7 @@ Source:	The Book of Many Things p. 65</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Antimagic Splint Armor</name>
+    <name>Antimagic Splint Armor [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>60</weight>
@@ -268,7 +268,7 @@ Source:	The Book of Many Things p. 65</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Antimagic Studded Leather Armor</name>
+    <name>Antimagic Studded Leather Armor [Legacy]</name>
     <type>LA</type>
     <magic>YES</magic>
     <weight>13</weight>
@@ -282,7 +282,7 @@ Source:	The Book of Many Things p. 65</text>
     <ac>12</ac>
   </item>
   <item>
-    <name>Antimatter Rifle of Throne's Command</name>
+    <name>Antimatter Rifle of Throne's Command [Legacy]</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -313,7 +313,7 @@ Source:	The Book of Many Things p. 39</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Deck of Many Things: Balance Card</name>
+    <name>Deck of Many Things: Balance Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -325,7 +325,7 @@ Source:	The Book of Many Things p. 13</text>
     <roll>4d8</roll>
   </item>
   <item>
-    <name>Baleful Talon</name>
+    <name>Baleful Talon [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>1</weight>
@@ -352,7 +352,7 @@ Source:	The Book of Many Things p. 34</text>
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Battleaxe of Throne's Command</name>
+    <name>Battleaxe of Throne's Command [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>4</weight>
@@ -375,7 +375,7 @@ Source:	The Book of Many Things p. 39</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Blasted Goggles</name>
+    <name>Blasted Goggles [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>uncommon (requires attunement)</detail>
@@ -391,7 +391,7 @@ Source:	The Book of Many Things p. 174</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Bloodrage Greataxe</name>
+    <name>Bloodrage Greataxe [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>7</weight>
@@ -409,7 +409,7 @@ Source:	The Book of Many Things p. 66</text>
     <property>M,H,2H</property>
   </item>
   <item>
-    <name>Bloodseeker Arrow</name>
+    <name>Bloodseeker Arrow [Legacy]</name>
     <detail>very rare</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -421,7 +421,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	The Book of Many Things p. 66</text>
   </item>
   <item>
-    <name>Bloodseeker Blowgun Needle</name>
+    <name>Bloodseeker Blowgun Needle [Legacy]</name>
     <detail>very rare</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -434,7 +434,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	The Book of Many Things p. 66</text>
   </item>
   <item>
-    <name>Bloodseeker Crossbow Bolt</name>
+    <name>Bloodseeker Crossbow Bolt [Legacy]</name>
     <type>A</type>
     <magic>YES</magic>
     <weight>0.075</weight>
@@ -446,7 +446,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	The Book of Many Things p. 66</text>
   </item>
   <item>
-    <name>Bloodseeker Energy Cell</name>
+    <name>Bloodseeker Energy Cell [Legacy]</name>
     <detail>very rare</detail>
     <type>A</type>
     <weight>0.05</weight>
@@ -459,7 +459,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	The Book of Many Things p. 66</text>
   </item>
   <item>
-    <name>Bloodseeker Modern Bullet</name>
+    <name>Bloodseeker Modern Bullet [Legacy]</name>
     <detail>very rare</detail>
     <type>A</type>
     <weight>0.016</weight>
@@ -470,7 +470,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	Dungeon Master's Guide (2014) p. 268</text>
   </item>
   <item>
-    <name>Bloodseeker Renaissance Bullet</name>
+    <name>Bloodseeker Renaissance Bullet [Legacy]</name>
     <detail>very rare</detail>
     <type>A</type>
     <weight>0.2</weight>
@@ -481,7 +481,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	Dungeon Master's Guide (2014) p. 268</text>
   </item>
   <item>
-    <name>Bloodseeker Sling Bullet</name>
+    <name>Bloodseeker Sling Bullet [Legacy]</name>
     <detail>very rare</detail>
     <type>A</type>
     <weight>0.075</weight>
@@ -493,7 +493,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	The Book of Many Things p. 66</text>
   </item>
   <item>
-    <name>Blowgun of Throne's Command</name>
+    <name>Blowgun of Throne's Command [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <weight>1</weight>
@@ -522,7 +522,7 @@ Source:	The Book of Many Things p. 39</text>
     <modifier category="bonus">ranged damage +1</modifier>
   </item>
   <item>
-    <name>Boomerang Shield</name>
+    <name>Boomerang Shield [Legacy]</name>
     <type>S</type>
     <magic>YES</magic>
     <weight>6</weight>
@@ -536,7 +536,7 @@ Source:	The Book of Many Things p. 66</text>
     <ac>2</ac>
   </item>
   <item>
-    <name>Breastplate of Balance</name>
+    <name>Breastplate of Balance [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <ac>14</ac>
@@ -558,7 +558,7 @@ Source:	The Book of Many Things p. 34</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Breastplate of Fungal Spores</name>
+    <name>Breastplate of Fungal Spores [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>20</weight>
@@ -571,7 +571,7 @@ Source:	The Book of Many Things p. 65</text>
     <ac>14</ac>
   </item>
   <item>
-    <name>Breastplate of the Fallen</name>
+    <name>Breastplate of the Fallen [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>20</weight>
@@ -586,7 +586,7 @@ Source:	The Book of Many Things p. 65</text>
     <ac>14</ac>
   </item>
   <item>
-    <name>Breastplate of Weightlessness</name>
+    <name>Breastplate of Weightlessness [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>20</weight>
@@ -602,7 +602,7 @@ Source:	The Book of Many Things p. 65</text>
     <roll>1d4+1</roll>
   </item>
   <item>
-    <name>Card Sharp's Deck</name>
+    <name>Card Sharp's Deck [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>uncommon</detail>
@@ -617,7 +617,7 @@ As an action, you can shuffle the deck and cast the Spray of Cards spell at 3rd 
 Source:	The Book of Many Things p. 40</text>
   </item>
   <item>
-    <name>Chain Mail of the Fallen</name>
+    <name>Chain Mail of the Fallen [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>55</weight>
@@ -638,7 +638,7 @@ Source:	The Book of Many Things p. 65</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Chain Mail of Weightlessness</name>
+    <name>Chain Mail of Weightlessness [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>55</weight>
@@ -660,7 +660,7 @@ Source:	The Book of Many Things p. 65</text>
     <roll>1d4+1</roll>
   </item>
   <item>
-    <name>Chain Shirt of Fungal Spores</name>
+    <name>Chain Shirt of Fungal Spores [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>20</weight>
@@ -673,7 +673,7 @@ Source:	The Book of Many Things p. 65</text>
     <ac>13</ac>
   </item>
   <item>
-    <name>Chain Shirt of the Fallen</name>
+    <name>Chain Shirt of the Fallen [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>20</weight>
@@ -688,7 +688,7 @@ Source:	The Book of Many Things p. 65</text>
     <ac>13</ac>
   </item>
   <item>
-    <name>Chain Shirt of Weightlessness</name>
+    <name>Chain Shirt of Weightlessness [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>20</weight>
@@ -703,7 +703,7 @@ Source:	The Book of Many Things p. 65</text>
     <ac>13</ac>
   </item>
   <item>
-    <name>Clockwork Chain Mail</name>
+    <name>Clockwork Chain Mail [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>55</weight>
@@ -726,7 +726,7 @@ Source:	The Book of Many Things p. 67</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Clockwork Plate Armor</name>
+    <name>Clockwork Plate Armor [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>65</weight>
@@ -749,7 +749,7 @@ Source:	The Book of Many Things p. 67</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Clockwork Ring Mail</name>
+    <name>Clockwork Ring Mail [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>40</weight>
@@ -769,7 +769,7 @@ Source:	The Book of Many Things p. 67</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Clockwork Splint Armor</name>
+    <name>Clockwork Splint Armor [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>60</weight>
@@ -792,7 +792,7 @@ Source:	The Book of Many Things p. 67</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Deck of Many Things: Comet Card</name>
+    <name>Deck of Many Things: Comet Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -804,7 +804,7 @@ Source:	The Book of Many Things p. 13</text>
     <roll>6d6</roll>
   </item>
   <item>
-    <name>Crown of Whirling Comets</name>
+    <name>Crown of Whirling Comets [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -828,7 +828,7 @@ Source:	The Book of Many Things p. 35</text>
     <roll>1d6</roll>
   </item>
   <item>
-    <name>Deck of Dimensions</name>
+    <name>Deck of Dimensions [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -849,7 +849,7 @@ Source:	The Book of Many Things p. 40</text>
     <roll>1d6</roll>
   </item>
   <item>
-    <name>Deck of Many More Things</name>
+    <name>Deck of Many More Things [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>legendary</detail>
@@ -1084,7 +1084,7 @@ Source:	The Book of Many Things p. 51</text>
     <roll>3d6x10</roll>
   </item>
   <item>
-    <name>Deck of Miscellany</name>
+    <name>Deck of Miscellany [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>uncommon</detail>
@@ -1131,7 +1131,7 @@ Source:	The Book of Many Things p. 41</text>
     <roll>1d32</roll>
   </item>
   <item>
-    <name>Deck of Oracles</name>
+    <name>Deck of Oracles [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>rare (requires attunement)</detail>
@@ -1143,7 +1143,7 @@ Source:	The Book of Many Things p. 61</text>
     <roll>1d20</roll>
   </item>
   <item>
-    <name>Deck of Wild Cards</name>
+    <name>Deck of Wild Cards [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>very rare</detail>
@@ -1169,7 +1169,7 @@ Source:	The Book of Many Things p. 41</text>
     <roll>1d10</roll>
   </item>
   <item>
-    <name>Deck of Wonder</name>
+    <name>Deck of Wonder [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>uncommon</detail>
@@ -1281,7 +1281,7 @@ Source:	The Book of Many Things p. 55</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Deck of Many Things: Donjon Card</name>
+    <name>Deck of Many Things: Donjon Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -1292,7 +1292,7 @@ Source:	The Book of Many Things p. 55</text>
 Source:	The Book of Many Things p. 13</text>
   </item>
   <item>
-    <name>Donjon's Sundering Sphere</name>
+    <name>Donjon's Sundering Sphere [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>rare (requires attunement)</detail>
@@ -1311,7 +1311,7 @@ When you end your attunement to the sphere, the sphere harmlessly detaches from 
 Source:	The Book of Many Things p. 35</text>
   </item>
   <item>
-    <name>Double-Bladed Scimitar of the Planes</name>
+    <name>Double-Bladed Scimitar of the Planes [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>6</weight>
@@ -1338,7 +1338,7 @@ Source:	The Book of Many Things p. 68</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Double-Bladed Scimitar of Throne's Command</name>
+    <name>Double-Bladed Scimitar of Throne's Command [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>6</weight>
@@ -1365,7 +1365,7 @@ Source:	The Book of Many Things p. 39</text>
   </item>
   
   <item>
-    <name>Dried Leech Arrow</name>
+    <name>Dried Leech Arrow [Legacy]</name>
     <detail>uncommon</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -1377,7 +1377,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	The Book of Many Things p. 67</text>
   </item>
   <item>
-    <name>Dried Leech Blowgun Needle</name>
+    <name>Dried Leech Blowgun Needle [Legacy]</name>
     <detail>uncommon</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -1390,7 +1390,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	The Book of Many Things p. 67</text>
   </item>
   <item>
-    <name>Dried Leech Crossbow Bolt</name>
+    <name>Dried Leech Crossbow Bolt [Legacy]</name>
     <type>A</type>
     <magic>YES</magic>
     <weight>0.075</weight>
@@ -1402,7 +1402,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	The Book of Many Things p. 67</text>
   </item>
   <item>
-    <name>Dried Leech Energy Cell</name>
+    <name>Dried Leech Energy Cell [Legacy]</name>
     <detail>uncommon</detail>
     <type>A</type>
     <weight>0.05</weight>
@@ -1415,7 +1415,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	The Book of Many Things p. 67</text>
   </item>
   <item>
-    <name>Dried Leech Modern Bullet</name>
+    <name>Dried Leech Modern Bullet [Legacy]</name>
     <detail>uncommon</detail>
     <type>A</type>
     <weight>0.016</weight>
@@ -1426,7 +1426,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	The Book of Many Things p. 67</text>
   </item>
   <item>
-    <name>Dried Leech Renaissance Bullet</name>
+    <name>Dried Leech Renaissance Bullet [Legacy]</name>
     <detail>uncommon</detail>
     <type>A</type>
     <weight>0.2</weight>
@@ -1437,7 +1437,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	The Book of Many Things p. 67</text>
   </item>
   <item>
-    <name>Dried Leech Sling Bullet</name>
+    <name>Dried Leech Sling Bullet [Legacy]</name>
     <detail>uncommon</detail>
     <type>A</type>
     <weight>0.075</weight>
@@ -1449,7 +1449,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	The Book of Many Things p. 67</text>
   </item>
   <item>
-    <name>Deck of Many Things: Euryale Card</name>
+    <name>Deck of Many Things: Euryale Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -1460,7 +1460,7 @@ Source:	The Book of Many Things p. 67</text>
 Source:	The Book of Many Things p. 13</text>
   </item>
   <item>
-    <name>Euryale's Aegis</name>
+    <name>Euryale's Aegis [Legacy]</name>
     <type>S</type>
     <magic>YES</magic>
     <weight>6</weight>
@@ -1483,7 +1483,7 @@ Source:	The Book of Many Things p. 35</text>
     <ac>2</ac>
   </item>
   <item>
-    <name>Fabulist Gem</name>
+    <name>Fabulist Gem [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>uncommon (requires attunement)</detail>
@@ -1500,7 +1500,7 @@ As a bonus action, you can magically change the appearance of your clothing and 
 Source:	The Book of Many Things p. 36</text>
   </item>
   <item>
-    <name>Fate Cutter Shears</name>
+    <name>Fate Cutter Shears [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>1</weight>
@@ -1526,7 +1526,7 @@ Source:	The Book of Many Things p. 61</text>
     <range>20/60</range>
   </item>
   <item>
-    <name>Deck of Many Things: Fates Card</name>
+    <name>Deck of Many Things: Fates Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -1537,7 +1537,7 @@ Source:	The Book of Many Things p. 61</text>
 Source:	The Book of Many Things p. 13</text>
   </item>
   <item>
-    <name>Feywrought Breastplate</name>
+    <name>Feywrought Breastplate [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>20</weight>
@@ -1553,7 +1553,7 @@ Source:	The Book of Many Things p. 67</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Feywrought Chain Mail</name>
+    <name>Feywrought Chain Mail [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>55</weight>
@@ -1575,7 +1575,7 @@ Source:	The Book of Many Things p. 67</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Feywrought Chain Shirt</name>
+    <name>Feywrought Chain Shirt [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>20</weight>
@@ -1591,7 +1591,7 @@ Source:	The Book of Many Things p. 67</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Feywrought Half Plate Armor</name>
+    <name>Feywrought Half Plate Armor [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>40</weight>
@@ -1610,7 +1610,7 @@ Source:	The Book of Many Things p. 67</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Feywrought Hide Armor</name>
+    <name>Feywrought Hide Armor [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>12</weight>
@@ -1626,7 +1626,7 @@ Source:	The Book of Many Things p. 67</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Feywrought Leather Armor</name>
+    <name>Feywrought Leather Armor [Legacy]</name>
     <type>LA</type>
     <magic>YES</magic>
     <weight>10</weight>
@@ -1642,7 +1642,7 @@ Source:	The Book of Many Things p. 67</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Feywrought Padded Armor</name>
+    <name>Feywrought Padded Armor [Legacy]</name>
     <type>LA</type>
     <magic>YES</magic>
     <weight>8</weight>
@@ -1660,7 +1660,7 @@ Source:	The Book of Many Things p. 67</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Feywrought Plate Armor</name>
+    <name>Feywrought Plate Armor [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>65</weight>
@@ -1682,7 +1682,7 @@ Source:	The Book of Many Things p. 67</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Feywrought Ring Mail</name>
+    <name>Feywrought Ring Mail [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>40</weight>
@@ -1701,7 +1701,7 @@ Source:	The Book of Many Things p. 67</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Feywrought Scale Mail</name>
+    <name>Feywrought Scale Mail [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>45</weight>
@@ -1717,7 +1717,7 @@ Source:	The Book of Many Things p. 67</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Feywrought Spiked Armor</name>
+    <name>Feywrought Spiked Armor [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>45</weight>
@@ -1734,7 +1734,7 @@ Source:	The Book of Many Things p. 67</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Feywrought Splint Armor</name>
+    <name>Feywrought Splint Armor [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>60</weight>
@@ -1756,7 +1756,7 @@ Source:	The Book of Many Things p. 67</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Feywrought Studded Leather Armor</name>
+    <name>Feywrought Studded Leather Armor [Legacy]</name>
     <type>LA</type>
     <magic>YES</magic>
     <weight>13</weight>
@@ -1773,7 +1773,7 @@ Source:	The Book of Many Things p. 67</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Flail of Throne's Command</name>
+    <name>Flail of Throne's Command [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>2</weight>
@@ -1792,7 +1792,7 @@ Source:	The Book of Many Things p. 39</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Deck of Many Things: Flames Card</name>
+    <name>Deck of Many Things: Flames Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -1803,7 +1803,7 @@ Source:	The Book of Many Things p. 39</text>
 Source:	The Book of Many Things p. 13</text>
   </item>
   <item>
-    <name>Deck of Many Things: Fool Card</name>
+    <name>Deck of Many Things: Fool Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -1814,7 +1814,7 @@ Source:	The Book of Many Things p. 13</text>
 Source:	The Book of Many Things p. 13</text>
   </item>
   <item>
-    <name>Fool's Double-Bladed Scimitar</name>
+    <name>Fool's Double-Bladed Scimitar [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>6</weight>
@@ -1842,7 +1842,7 @@ Source:	The Book of Many Things p. 36</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Fool's Greatsword</name>
+    <name>Fool's Greatsword [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>6</weight>
@@ -1867,7 +1867,7 @@ Source:	The Book of Many Things p. 36</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Fool's Longsword</name>
+    <name>Fool's Longsword [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>3</weight>
@@ -1891,7 +1891,7 @@ Source:	The Book of Many Things p. 36</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Fool's Rapier</name>
+    <name>Fool's Rapier [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>2</weight>
@@ -1914,7 +1914,7 @@ Source:	The Book of Many Things p. 36</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Fool's Scimitar</name>
+    <name>Fool's Scimitar [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>3</weight>
@@ -1939,7 +1939,7 @@ Source:	The Book of Many Things p. 36</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Fool's Shortsword</name>
+    <name>Fool's Shortsword [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>2</weight>
@@ -1964,7 +1964,7 @@ Source:	The Book of Many Things p. 36</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Forcebreaker Club</name>
+    <name>Forcebreaker Club [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>2</weight>
@@ -1984,7 +1984,7 @@ Source:	The Book of Many Things p. 67</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Forcebreaker Flail</name>
+    <name>Forcebreaker Flail [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>2</weight>
@@ -2001,7 +2001,7 @@ Source:	The Book of Many Things p. 67</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Forcebreaker Greatclub</name>
+    <name>Forcebreaker Greatclub [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>10</weight>
@@ -2021,7 +2021,7 @@ Source:	The Book of Many Things p. 67</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Forcebreaker Light Hammer</name>
+    <name>Forcebreaker Light Hammer [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>2</weight>
@@ -2046,7 +2046,7 @@ Source:	The Book of Many Things p. 67</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Forcebreaker Mace</name>
+    <name>Forcebreaker Mace [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>4</weight>
@@ -2063,7 +2063,7 @@ Source:	The Book of Many Things p. 67</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Forcebreaker Maul</name>
+    <name>Forcebreaker Maul [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>10</weight>
@@ -2085,7 +2085,7 @@ Source:	The Book of Many Things p. 67</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Forcebreaker Quarterstaff</name>
+    <name>Forcebreaker Quarterstaff [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>4</weight>
@@ -2106,7 +2106,7 @@ Source:	The Book of Many Things p. 67</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Forcebreaker Sling</name>
+    <name>Forcebreaker Sling [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <detail>very rare</detail>
@@ -2131,7 +2131,7 @@ Source:	The Book of Many Things p. 67</text>
     <modifier category="bonus">ranged damage +2</modifier>
   </item>
   <item>
-    <name>Forcebreaker Staff</name>
+    <name>Forcebreaker Staff [Legacy]</name>
     <type>ST</type>
     <magic>YES</magic>
     <weight>4</weight>
@@ -2154,7 +2154,7 @@ Source:	The Book of Many Things p. 67</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Forcebreaker Warhammer</name>
+    <name>Forcebreaker Warhammer [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>2</weight>
@@ -2175,7 +2175,7 @@ Source:	The Book of Many Things p. 67</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Forcebreaker Wooden Staff</name>
+    <name>Forcebreaker Wooden Staff [Legacy]</name>
     <type>ST</type>
     <magic>YES</magic>
     <weight>4</weight>
@@ -2198,7 +2198,7 @@ Source:	The Book of Many Things p. 67</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Deck of Many Things: Gem Card</name>
+    <name>Deck of Many Things: Gem Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -2209,7 +2209,7 @@ Source:	The Book of Many Things p. 67</text>
 Source:	The Book of Many Things p. 13</text>
   </item>
   <item>
-    <name>Glaive of Throne's Command</name>
+    <name>Glaive of Throne's Command [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>6</weight>
@@ -2236,7 +2236,7 @@ Source:	The Book of Many Things p. 39</text>
   </item>
   
   <item>
-    <name>Glimmering Moon Longbow</name>
+    <name>Glimmering Moon Longbow [Legacy]</name>
     <detail>longbow, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -2267,7 +2267,7 @@ Source:	The Book of Many Things p. 36</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Glimmering Moon Shortbow</name>
+    <name>Glimmering Moon Shortbow [Legacy]</name>
     <detail>shortbow, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -2296,7 +2296,7 @@ Source:	The Book of Many Things p. 36</text>
     <modifier category="bonus">ranged damage +1</modifier>
   </item>
   <item>
-    <name>Gloomwrought Breastplate</name>
+    <name>Gloomwrought Breastplate [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>20</weight>
@@ -2311,7 +2311,7 @@ Source:	The Book of Many Things p. 67</text>
     <ac>14</ac>
   </item>
   <item>
-    <name>Gloomwrought Chain Mail</name>
+    <name>Gloomwrought Chain Mail [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>55</weight>
@@ -2332,7 +2332,7 @@ Source:	The Book of Many Things p. 67</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Gloomwrought Chain Shirt</name>
+    <name>Gloomwrought Chain Shirt [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>20</weight>
@@ -2347,7 +2347,7 @@ Source:	The Book of Many Things p. 67</text>
     <ac>13</ac>
   </item>
   <item>
-    <name>Gloomwrought Half Plate Armor</name>
+    <name>Gloomwrought Half Plate Armor [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>40</weight>
@@ -2365,7 +2365,7 @@ Source:	The Book of Many Things p. 67</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Gloomwrought Hide Armor</name>
+    <name>Gloomwrought Hide Armor [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>12</weight>
@@ -2380,7 +2380,7 @@ Source:	The Book of Many Things p. 67</text>
     <ac>12</ac>
   </item>
   <item>
-    <name>Gloomwrought Leather Armor</name>
+    <name>Gloomwrought Leather Armor [Legacy]</name>
     <type>LA</type>
     <magic>YES</magic>
     <weight>10</weight>
@@ -2395,7 +2395,7 @@ Source:	The Book of Many Things p. 67</text>
     <ac>11</ac>
   </item>
   <item>
-    <name>Gloomwrought Padded Armor</name>
+    <name>Gloomwrought Padded Armor [Legacy]</name>
     <type>LA</type>
     <magic>YES</magic>
     <weight>8</weight>
@@ -2413,7 +2413,7 @@ Source:	The Book of Many Things p. 67</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Gloomwrought Plate Armor</name>
+    <name>Gloomwrought Plate Armor [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>65</weight>
@@ -2434,7 +2434,7 @@ Source:	The Book of Many Things p. 67</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Gloomwrought Ring Mail</name>
+    <name>Gloomwrought Ring Mail [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>40</weight>
@@ -2452,7 +2452,7 @@ Source:	The Book of Many Things p. 67</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Gloomwrought Scale Mail</name>
+    <name>Gloomwrought Scale Mail [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>45</weight>
@@ -2468,7 +2468,7 @@ Source:	The Book of Many Things p. 67</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Gloomwrought Spiked Armor</name>
+    <name>Gloomwrought Spiked Armor [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>45</weight>
@@ -2485,7 +2485,7 @@ Source:	The Book of Many Things p. 67</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Gloomwrought Splint Armor</name>
+    <name>Gloomwrought Splint Armor [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>60</weight>
@@ -2506,7 +2506,7 @@ Source:	The Book of Many Things p. 67</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Gloomwrought Studded Leather Armor</name>
+    <name>Gloomwrought Studded Leather Armor [Legacy]</name>
     <type>LA</type>
     <magic>YES</magic>
     <weight>13</weight>
@@ -2522,7 +2522,7 @@ Source:	The Book of Many Things p. 67</text>
     <ac>12</ac>
   </item>
   <item>
-    <name>Grasping Whip</name>
+    <name>Grasping Whip [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>3</weight>
@@ -2542,7 +2542,7 @@ Source:	The Book of Many Things p. 67</text>
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Greataxe of Throne's Command</name>
+    <name>Greataxe of Throne's Command [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2566,7 +2566,7 @@ Source:	The Book of Many Things p. 39</text>
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Greatsword of the Planes</name>
+    <name>Greatsword of the Planes [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>6</weight>
@@ -2590,7 +2590,7 @@ Source:	The Book of Many Things p. 68</text>
     <modifier category="bonus">melee damage +3</modifier>
   </item>
   <item>
-    <name>Greatsword of Throne's Command</name>
+    <name>Greatsword of Throne's Command [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>6</weight>
@@ -2613,7 +2613,7 @@ Source:	The Book of Many Things p. 39</text>
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Halberd of Throne's Command</name>
+    <name>Halberd of Throne's Command [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>6</weight>
@@ -2638,7 +2638,7 @@ Source:	The Book of Many Things p. 39</text>
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Half Plate Armor of Fungal Spores</name>
+    <name>Half Plate Armor of Fungal Spores [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>40</weight>
@@ -2654,7 +2654,7 @@ Source:	The Book of Many Things p. 65</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Half Plate Armor of the Fallen</name>
+    <name>Half Plate Armor of the Fallen [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>40</weight>
@@ -2672,7 +2672,7 @@ Source:	The Book of Many Things p. 65</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Half Plate Armor of Weightlessness</name>
+    <name>Half Plate Armor of Weightlessness [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>40</weight>
@@ -2691,7 +2691,7 @@ Source:	The Book of Many Things p. 65</text>
     <roll>1d4+1</roll>
   </item>
   <item>
-    <name>Hammer of Runic Focus</name>
+    <name>Hammer of Runic Focus [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>2</weight>
@@ -2710,7 +2710,7 @@ Source:	The Book of Many Things p. 67</text>
   </item>
   
   <item>
-    <name>Hand Crossbow of Throne's Command</name>
+    <name>Hand Crossbow of Throne's Command [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <weight>3</weight>
@@ -2745,7 +2745,7 @@ Source:	The Book of Many Things p. 39</text>
   </item>
   
   <item>
-    <name>Heavy Crossbow of Throne's Command</name>
+    <name>Heavy Crossbow of Throne's Command [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <weight>18</weight>
@@ -2779,7 +2779,7 @@ Source:	The Book of Many Things p. 39</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Hide Armor of Fungal Spores</name>
+    <name>Hide Armor of Fungal Spores [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>12</weight>
@@ -2792,7 +2792,7 @@ Source:	The Book of Many Things p. 65</text>
     <ac>12</ac>
   </item>
   <item>
-    <name>Hide Armor of the Fallen</name>
+    <name>Hide Armor of the Fallen [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>12</weight>
@@ -2807,7 +2807,7 @@ Source:	The Book of Many Things p. 65</text>
     <ac>12</ac>
   </item>
   <item>
-    <name>Hide Armor of Weightlessness</name>
+    <name>Hide Armor of Weightlessness [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>12</weight>
@@ -2823,7 +2823,7 @@ Source:	The Book of Many Things p. 65</text>
     <roll>1d4+1</roll>
   </item>
   <item>
-    <name>Hoopak of Throne's Command</name>
+    <name>Hoopak of Throne's Command [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <magic>YES</magic>
     <type>M</type>
@@ -2855,7 +2855,7 @@ Source:	The Book of Many Things p. 39</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>House of Cards</name>
+    <name>House of Cards [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>uncommon</detail>
@@ -2866,7 +2866,7 @@ The shelter has AC 15, 50 hit points, and immunity to poison and psychic damage.
 Source:	The Book of Many Things p. 61</text>
   </item>
   <item>
-    <name>Deck of Many Things: Jester Card</name>
+    <name>Deck of Many Things: Jester Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -2877,7 +2877,7 @@ Source:	The Book of Many Things p. 61</text>
 Source:	The Book of Many Things p. 14</text>
   </item>
   <item>
-    <name>Jester's Mask</name>
+    <name>Jester's Mask [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>legendary (requires attunement by a bard, sorcerer, or warlock)</detail>
@@ -2895,7 +2895,7 @@ When you roll a 1 on a d20, you can treat the roll as if you rolled a 20 instead
 Source:	The Book of Many Things p. 36</text>
   </item>
   <item>
-    <name>Deck of Many Things: Key Card</name>
+    <name>Deck of Many Things: Key Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -2906,7 +2906,7 @@ Source:	The Book of Many Things p. 36</text>
 Source:	The Book of Many Things p. 14</text>
   </item>
   <item>
-    <name>Deck of Many Things: Knight Card</name>
+    <name>Deck of Many Things: Knight Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -2917,7 +2917,7 @@ Source:	The Book of Many Things p. 14</text>
 Source:	The Book of Many Things p. 14</text>
   </item>
   <item>
-    <name>Lance of Throne's Command</name>
+    <name>Lance of Throne's Command [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>6</weight>
@@ -2941,7 +2941,7 @@ Source:	The Book of Many Things p. 39</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Laser Pistol of Throne's Command</name>
+    <name>Laser Pistol of Throne's Command [Legacy]</name>
     <detail>firearm, futuristic, very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -2973,7 +2973,7 @@ Source:	The Book of Many Things p. 39</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Laser Rifle of Throne's Command</name>
+    <name>Laser Rifle of Throne's Command [Legacy]</name>
     <detail>firearm, futuristic, very rare (requires attunement)</detail>
     <magic>YES</magic>
     <type>R</type>
@@ -3008,7 +3008,7 @@ Source:	The Book of Many Things p. 39</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Leather Armor of Weightlessness</name>
+    <name>Leather Armor of Weightlessness [Legacy]</name>
     <type>LA</type>
     <magic>YES</magic>
     <weight>10</weight>
@@ -3025,7 +3025,7 @@ Source:	The Book of Many Things p. 65</text>
   </item>
   
   <item>
-    <name>Longbow of Conflagration</name>
+    <name>Longbow of Conflagration [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <weight>2</weight>
@@ -3051,7 +3051,7 @@ Source:	The Book of Many Things p. 66</text>
     <range>150/600</range>
   </item>
   <item>
-    <name>Longbow of Melodies</name>
+    <name>Longbow of Melodies [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <weight>2</weight>
@@ -3082,7 +3082,7 @@ Source:	The Book of Many Things p. 66</text>
     <range>150/600</range>
   </item>
   <item>
-    <name>Longbow of Throne's Command</name>
+    <name>Longbow of Throne's Command [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <weight>2</weight>
@@ -3114,7 +3114,7 @@ Source:	The Book of Many Things p. 39</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Longsword of the Planes</name>
+    <name>Longsword of the Planes [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>3</weight>
@@ -3137,7 +3137,7 @@ Source:	The Book of Many Things p. 68</text>
     <modifier category="bonus">melee damage +3</modifier>
   </item>
   <item>
-    <name>Longsword of Throne's Command</name>
+    <name>Longsword of Throne's Command [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>3</weight>
@@ -3160,7 +3160,7 @@ Source:	The Book of Many Things p. 39</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Maul of Throne's Command</name>
+    <name>Maul of Throne's Command [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>10</weight>
@@ -3184,7 +3184,7 @@ Source:	The Book of Many Things p. 39</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Deck of Many Things: Moon Card</name>
+    <name>Deck of Many Things: Moon Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -3196,7 +3196,7 @@ Source:	The Book of Many Things p. 14</text>
     <roll>1d6</roll>
   </item>
   <item>
-    <name>Morningstar of Throne's Command</name>
+    <name>Morningstar of Throne's Command [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>4</weight>
@@ -3216,7 +3216,7 @@ Source:	The Book of Many Things p. 39</text>
   </item>
   
   <item>
-    <name>Musket of Throne's Command</name>
+    <name>Musket of Throne's Command [Legacy]</name>
     <detail>firearm, renaissance</detail>
     <magic>YES</magic>
     <type>R</type>
@@ -3253,7 +3253,7 @@ Source:	The Book of Many Things p. 39</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Net of Throne's Command</name>
+    <name>Net of Throne's Command [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <weight>3</weight>
@@ -3276,7 +3276,7 @@ Source:	The Book of Many Things p. 39</text>
     <range>5/15</range>
   </item>
   <item>
-    <name>Padded Armor of Weightlessness</name>
+    <name>Padded Armor of Weightlessness [Legacy]</name>
     <type>LA</type>
     <magic>YES</magic>
     <weight>8</weight>
@@ -3295,7 +3295,7 @@ Source:	The Book of Many Things p. 65</text>
     <roll>1d4+1</roll>
   </item>
   <item>
-    <name>Pike of Throne's Command</name>
+    <name>Pike of Throne's Command [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>18</weight>
@@ -3321,7 +3321,7 @@ Source:	The Book of Many Things p. 39</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Pistol of Throne's Command</name>
+    <name>Pistol of Throne's Command [Legacy]</name>
     <detail>firearm, renaissance</detail>
     <magic>YES</magic>
     <type>R</type>
@@ -3356,7 +3356,7 @@ Source:	The Book of Many Things p. 39</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Plate Armor of the Fallen</name>
+    <name>Plate Armor of the Fallen [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>65</weight>
@@ -3377,7 +3377,7 @@ Source:	The Book of Many Things p. 65</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Plate Armor of Weightlessness</name>
+    <name>Plate Armor of Weightlessness [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>65</weight>
@@ -3399,7 +3399,7 @@ Source:	The Book of Many Things p. 65</text>
     <roll>1d4+1</roll>
   </item>
   <item>
-    <name>Plate of Knight's Fellowship</name>
+    <name>Plate of Knight's Fellowship [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>65</weight>
@@ -3430,7 +3430,7 @@ Source:	The Book of Many Things p. 37</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Deck of Many Things: Puzzle Card</name>
+    <name>Deck of Many Things: Puzzle Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -3441,7 +3441,7 @@ Source:	The Book of Many Things p. 37</text>
 Source:	The Book of Many Things p. 14</text>
   </item>
   <item>
-    <name>Rapier of the Planes</name>
+    <name>Rapier of the Planes [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>2</weight>
@@ -3463,7 +3463,7 @@ Source:	The Book of Many Things p. 68</text>
     <modifier category="bonus">melee damage +3</modifier>
   </item>
   <item>
-    <name>Rapier of Throne's Command</name>
+    <name>Rapier of Throne's Command [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>2</weight>
@@ -3485,7 +3485,7 @@ Source:	The Book of Many Things p. 39</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Revolver of Throne's Command</name>
+    <name>Revolver of Throne's Command [Legacy]</name>
     <detail>firearm, modern</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -3514,7 +3514,7 @@ Proficiency: firearms
 Source:	Dungeon Master's Guide (2014) p. 268</text>
   </item>
   <item>
-    <name>Ring Mail of the Fallen</name>
+    <name>Ring Mail of the Fallen [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>40</weight>
@@ -3532,7 +3532,7 @@ Source:	The Book of Many Things p. 65</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Ring Mail of Weightlessness</name>
+    <name>Ring Mail of Weightlessness [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>40</weight>
@@ -3551,7 +3551,7 @@ Source:	The Book of Many Things p. 65</text>
     <roll>1d4+1</roll>
   </item>
   <item>
-    <name>Ring of Puzzler's Wit</name>
+    <name>Ring of Puzzler's Wit [Legacy]</name>
     <type>RG</type>
     <magic>YES</magic>
     <detail>uncommon</detail>
@@ -3563,7 +3563,7 @@ Source:	The Book of Many Things p. 37</text>
     <roll>1d4-1</roll>
   </item>
   <item>
-    <name>Rod of Hellish Flames</name>
+    <name>Rod of Hellish Flames [Legacy]</name>
     <type>RD</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement by a spellcaster)</detail>
@@ -3583,7 +3583,7 @@ Whenever you cast a spell that deals fire or necrotic damage, you can use the ro
 Source:	The Book of Many Things p. 37</text>
   </item>
   <item>
-    <name>Deck of Many Things: Rogue Card</name>
+    <name>Deck of Many Things: Rogue Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -3595,7 +3595,7 @@ Source:	The Book of Many Things p. 14</text>
     <roll>6d6</roll>
   </item>
   <item>
-    <name>Rogue's Mantle</name>
+    <name>Rogue's Mantle [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>rare (requires attunement)</detail>
@@ -3613,7 +3613,7 @@ You can cast the Antagonize spell (save DC 15) from the mantle. Once the mantle 
 Source:	The Book of Many Things p. 37</text>
   </item>
   <item>
-    <name>Deck of Many Things: Ruin Card</name>
+    <name>Deck of Many Things: Ruin Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -3624,7 +3624,7 @@ Source:	The Book of Many Things p. 37</text>
 Source:	The Book of Many Things p. 15</text>
   </item>
   <item>
-    <name>Ruinous Flail</name>
+    <name>Ruinous Flail [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>2</weight>
@@ -3641,7 +3641,7 @@ Source:	The Book of Many Things p. 37</text>
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Deck of Many Things: Sage Card</name>
+    <name>Deck of Many Things: Sage Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -3652,7 +3652,7 @@ Source:	The Book of Many Things p. 37</text>
 Source:	The Book of Many Things p. 15</text>
   </item>
   <item>
-    <name>Sage's Signet</name>
+    <name>Sage's Signet [Legacy]</name>
     <type>RG</type>
     <magic>YES</magic>
     <detail>varies (requires attunement by a spellcaster)</detail>
@@ -3672,7 +3672,7 @@ Wolf | Very rare | Freedom of Movement, Pass without Trace
 Source:	The Book of Many Things p. 37</text>
   </item>
   <item>
-    <name>Sage's Signet (Bear)</name>
+    <name>Sage's Signet (Bear) [Legacy]</name>
     <type>RG</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement by a spellcaster)</detail>
@@ -3683,7 +3683,7 @@ While wearing the Sage's Signet (Bear), you can cast the Enlarge/Reduce and Poly
 Source:	The Book of Many Things p. 37</text>
   </item>
   <item>
-    <name>Sage's Signet (Hart)</name>
+    <name>Sage's Signet (Hart) [Legacy]</name>
     <type>RG</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement by a spellcaster)</detail>
@@ -3694,7 +3694,7 @@ While wearing the Sage's Signet (Hart), you can cast the Aura of Vitality and Ma
 Source:	The Book of Many Things p. 37</text>
   </item>
   <item>
-    <name>Sage's Signet (Lion)</name>
+    <name>Sage's Signet (Lion) [Legacy]</name>
     <type>RG</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement by a spellcaster)</detail>
@@ -3705,7 +3705,7 @@ While wearing the Sage's Signet (Lion), you can cast the Destructive Wave and Fi
 Source:	The Book of Many Things p. 37</text>
   </item>
   <item>
-    <name>Sage's Signet (Serpent)</name>
+    <name>Sage's Signet (Serpent) [Legacy]</name>
     <type>RG</type>
     <magic>YES</magic>
     <detail>rare (requires attunement by a spellcaster)</detail>
@@ -3716,7 +3716,7 @@ While wearing the Sage's Signet (Serpent), you can cast the Fear and Hex once ea
 Source:	The Book of Many Things p. 37</text>
   </item>
   <item>
-    <name>Sage's Signet (Songbird)</name>
+    <name>Sage's Signet (Songbird) [Legacy]</name>
     <type>RG</type>
     <magic>YES</magic>
     <detail>rare (requires attunement by a spellcaster)</detail>
@@ -3727,7 +3727,7 @@ While wearing the Sage's Signet (Songbird), you can cast the Charm Person and Hy
 Source:	The Book of Many Things p. 37</text>
   </item>
   <item>
-    <name>Sage's Signet (Wolf)</name>
+    <name>Sage's Signet (Wolf) [Legacy]</name>
     <type>RG</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement by a spellcaster)</detail>
@@ -3738,7 +3738,7 @@ While wearing the Sage's Signet (Wolf), you can cast the Freedom of Movement and
 Source:	The Book of Many Things p. 37</text>
   </item>
   <item>
-    <name>Scale Mail of Fungal Spores</name>
+    <name>Scale Mail of Fungal Spores [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>45</weight>
@@ -3754,7 +3754,7 @@ Source:	The Book of Many Things p. 65</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Scale Mail of the Fallen</name>
+    <name>Scale Mail of the Fallen [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>45</weight>
@@ -3772,7 +3772,7 @@ Source:	The Book of Many Things p. 65</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Scale Mail of Weightlessness</name>
+    <name>Scale Mail of Weightlessness [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>45</weight>
@@ -3791,7 +3791,7 @@ Source:	The Book of Many Things p. 65</text>
     <roll>1d4+1</roll>
   </item>
   <item>
-    <name>Scimitar of the Planes</name>
+    <name>Scimitar of the Planes [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>3</weight>
@@ -3815,7 +3815,7 @@ Source:	The Book of Many Things p. 68</text>
     <modifier category="bonus">melee damage +3</modifier>
   </item>
   <item>
-    <name>Scimitar of Throne's Command</name>
+    <name>Scimitar of Throne's Command [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>3</weight>
@@ -3839,7 +3839,7 @@ Source:	The Book of Many Things p. 39</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Shield of the Tortoise</name>
+    <name>Shield of the Tortoise [Legacy]</name>
     <type>S</type>
     <magic>YES</magic>
     <weight>6</weight>
@@ -3854,7 +3854,7 @@ Source:	The Book of Many Things p. 67</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Shortbow of Conflagration</name>
+    <name>Shortbow of Conflagration [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <weight>2</weight>
@@ -3879,7 +3879,7 @@ Source:	The Book of Many Things p. 66</text>
     <roll>1d6</roll>
   </item>
   <item>
-    <name>Shortbow of Melodies</name>
+    <name>Shortbow of Melodies [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <weight>2</weight>
@@ -3908,7 +3908,7 @@ Source:	The Book of Many Things p. 66</text>
     <range>80/320</range>
   </item>
   <item>
-    <name>Shortsword of the Planes</name>
+    <name>Shortsword of the Planes [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>2</weight>
@@ -3932,7 +3932,7 @@ Source:	The Book of Many Things p. 68</text>
     <modifier category="bonus">melee damage +3</modifier>
   </item>
   <item>
-    <name>Shortsword of Throne's Command</name>
+    <name>Shortsword of Throne's Command [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>2</weight>
@@ -3956,7 +3956,7 @@ Source:	The Book of Many Things p. 39</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Shotgun of Throne's Command</name>
+    <name>Shotgun of Throne's Command [Legacy]</name>
     <detail>firearm, modern, very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -3993,7 +3993,7 @@ Source:	The Book of Many Things p. 39</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Shrieking Greaves</name>
+    <name>Shrieking Greaves [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>rare (requires attunement)</detail>
@@ -4008,7 +4008,7 @@ You have disadvantage on saving throws against the frightened condition. Wheneve
 Source:	The Book of Many Things p. 174</text>
   </item>
   <item>
-    <name>Deck of Many Things: Skull Card</name>
+    <name>Deck of Many Things: Skull Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -4019,7 +4019,7 @@ Source:	The Book of Many Things p. 174</text>
 Source:	The Book of Many Things p. 15</text>
   </item>
   <item>
-    <name>Skull Helm</name>
+    <name>Skull Helm [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -4030,7 +4030,7 @@ Additionally, while wearing the helm, you can cast Spirit of Death from it witho
 Source:	The Book of Many Things p. 38</text>
   </item>
   <item>
-    <name>Sling of Giant Felling</name>
+    <name>Sling of Giant Felling [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <detail>uncommon</detail>
@@ -4051,7 +4051,7 @@ Source:	The Book of Many Things p. 68</text>
     <range>30/120</range>
   </item>
   <item>
-    <name>Spiked Armor of Fungal Spores</name>
+    <name>Spiked Armor of Fungal Spores [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>45</weight>
@@ -4067,7 +4067,7 @@ Source:	The Book of Many Things p. 65</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Spiked Armor of the Fallen</name>
+    <name>Spiked Armor of the Fallen [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>45</weight>
@@ -4085,7 +4085,7 @@ Source:	The Book of Many Things p. 65</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Spiked Armor of Weightlessness</name>
+    <name>Spiked Armor of Weightlessness [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>45</weight>
@@ -4104,7 +4104,7 @@ Source:	The Book of Many Things p. 65</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Spindle of Fate</name>
+    <name>Spindle of Fate [Legacy]</name>
     <type>WD</type>
     <magic>YES</magic>
     <detail>legendary (requires attunement)</detail>
@@ -4125,7 +4125,7 @@ Source:	The Book of Many Things p. 38</text>
     <roll>1d6</roll>
   </item>
   <item>
-    <name>Splint Armor of the Fallen</name>
+    <name>Splint Armor of the Fallen [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>60</weight>
@@ -4146,7 +4146,7 @@ Source:	The Book of Many Things p. 65</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Splint Armor of Weightlessness</name>
+    <name>Splint Armor of Weightlessness [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <weight>60</weight>
@@ -4168,7 +4168,7 @@ Source:	The Book of Many Things p. 65</text>
     <roll>1d4+1</roll>
   </item>
   <item>
-    <name>Deck of Many Things: Star Card</name>
+    <name>Deck of Many Things: Star Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -4179,7 +4179,7 @@ Source:	The Book of Many Things p. 65</text>
 Source:	The Book of Many Things p. 15</text>
   </item>
   <item>
-    <name>Starshot Hand Crossbow</name>
+    <name>Starshot Hand Crossbow [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <weight>3</weight>
@@ -4218,7 +4218,7 @@ Source:	The Book of Many Things p. 38</text>
     <roll description="Fire Damage">2d8</roll>
   </item>
   <item>
-    <name>Starshot Heavy Crossbow</name>
+    <name>Starshot Heavy Crossbow [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <weight>18</weight>
@@ -4257,7 +4257,7 @@ Source:	The Book of Many Things p. 38</text>
     <roll description="Fire Damage">2d8</roll>
   </item>
   <item>
-    <name>Starshot Light Crossbow</name>
+    <name>Starshot Light Crossbow [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <weight>5</weight>
@@ -4294,7 +4294,7 @@ Source:	The Book of Many Things p. 38</text>
     <roll description="Fire Damage">2d8</roll>
   </item>
   <item>
-    <name>Stonemaker War Pick</name>
+    <name>Stonemaker War Pick [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>2</weight>
@@ -4315,7 +4315,7 @@ Source:	The Book of Many Things p. 68</text>
     <roll>1d6+1</roll>
   </item>
   <item>
-    <name>Studded Leather Armor of Weightlessness</name>
+    <name>Studded Leather Armor of Weightlessness [Legacy]</name>
     <type>LA</type>
     <magic>YES</magic>
     <weight>13</weight>
@@ -4331,7 +4331,7 @@ Source:	The Book of Many Things p. 65</text>
     <roll>1d4+1</roll>
   </item>
   <item>
-    <name>Deck of Many Things: Sun Card</name>
+    <name>Deck of Many Things: Sun Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -4342,7 +4342,7 @@ Source:	The Book of Many Things p. 65</text>
 Source:	The Book of Many Things p. 15</text>
   </item>
   <item>
-    <name>Sun Staff</name>
+    <name>Sun Staff [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>4</weight>
@@ -4367,7 +4367,7 @@ Source:	The Book of Many Things p. 39</text>
     <property>V</property>
   </item>
   <item>
-    <name>Deck of Many Things: Talons Card</name>
+    <name>Deck of Many Things: Talons Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -4378,7 +4378,7 @@ Source:	The Book of Many Things p. 39</text>
 Source:	The Book of Many Things p. 15</text>
   </item>
   <item>
-    <name>Telescopic Transporter</name>
+    <name>Telescopic Transporter [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>legendary</detail>
@@ -4400,7 +4400,7 @@ Source:	The Book of Many Things p. 105</text>
     <roll>8d6</roll>
   </item>
   <item>
-    <name>Deck of Many Things: Throne Card</name>
+    <name>Deck of Many Things: Throne Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -4411,7 +4411,7 @@ Source:	The Book of Many Things p. 105</text>
 Source:	The Book of Many Things p. 15</text>
   </item>
   <item>
-    <name>Tidecaller Trident</name>
+    <name>Tidecaller Trident [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>4</weight>
@@ -4438,7 +4438,7 @@ Source:	The Book of Many Things p. 69</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Trident of Throne's Command</name>
+    <name>Trident of Throne's Command [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>4</weight>
@@ -4466,7 +4466,7 @@ Source:	The Book of Many Things p. 39</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Deck of Many Things: Void Card</name>
+    <name>Deck of Many Things: Void Card [Legacy]</name>
     <detail>legendary</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -4477,7 +4477,7 @@ Source:	The Book of Many Things p. 39</text>
 Source:	The Book of Many Things p. 15</text>
   </item>
   <item>
-    <name>Voidwalker Armor</name>
+    <name>Voidwalker Armor [Legacy]</name>
     <type>LA</type>
     <magic>YES</magic>
     <weight>13</weight>
@@ -4492,7 +4492,7 @@ Source:	The Book of Many Things p. 39</text>
     <ac>12</ac>
   </item>
   <item>
-    <name>War Pick of Throne's Command</name>
+    <name>War Pick of Throne's Command [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>2</weight>
@@ -4511,7 +4511,7 @@ Source:	The Book of Many Things p. 39</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Warhammer of Throne's Command</name>
+    <name>Warhammer of Throne's Command [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>2</weight>
@@ -4534,7 +4534,7 @@ Source:	The Book of Many Things p. 39</text>
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Warrior's Passkey</name>
+    <name>Warrior's Passkey [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <weight>3</weight>
@@ -4556,7 +4556,7 @@ Source:	The Book of Many Things p. 39</text>
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Whip of Throne's Command</name>
+    <name>Whip of Throne's Command [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>3</weight>
@@ -4581,7 +4581,7 @@ Source:	The Book of Many Things p. 39</text>
   </item>
   
   <item>
-    <name>Winged Arrow</name>
+    <name>Winged Arrow [Legacy]</name>
     <detail>uncommon</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -4595,7 +4595,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	The Book of Many Things p. 66</text>
   </item>
   <item>
-    <name>Winged Blowgun Needle</name>
+    <name>Winged Blowgun Needle [Legacy]</name>
     <detail>uncommon</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -4610,7 +4610,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	The Book of Many Things p. 66</text>
   </item>
   <item>
-    <name>Winged Crossbow Bolt</name>
+    <name>Winged Crossbow Bolt [Legacy]</name>
     <type>A</type>
     <magic>YES</magic>
     <weight>0.075</weight>
@@ -4624,7 +4624,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	The Book of Many Things p. 66</text>
   </item>
   <item>
-    <name>Winged Energy Cell</name>
+    <name>Winged Energy Cell [Legacy]</name>
     <detail>uncommon</detail>
     <type>A</type>
     <weight>0.05</weight>
@@ -4639,7 +4639,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	The Book of Many Things p. 66</text>
   </item>
   <item>
-    <name>Winged Modern Bullet</name>
+    <name>Winged Modern Bullet [Legacy]</name>
     <detail>uncommon</detail>
     <type>A</type>
     <weight>0.016</weight>
@@ -4652,7 +4652,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	Dungeon Master's Guide (2014) p. 268</text>
   </item>
   <item>
-    <name>Winged Renaissance Bullet</name>
+    <name>Winged Renaissance Bullet [Legacy]</name>
     <detail>uncommon</detail>
     <type>A</type>
     <weight>0.2</weight>
@@ -4665,7 +4665,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	Dungeon Master's Guide (2014) p. 268</text>
   </item>
   <item>
-    <name>Winged Sling Bullet</name>
+    <name>Winged Sling Bullet [Legacy]</name>
     <detail>uncommon</detail>
     <type>A</type>
     <weight>0.075</weight>
@@ -4679,7 +4679,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	The Book of Many Things p. 66</text>
   </item>
   <item>
-    <name>Trinket (Rewarded)</name>
+    <name>Trinket (Rewarded) [Legacy]</name>
     <detail />
     <type>G</type>
     <weight />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Dream Eater</name>
+    <name>Dream Eater [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Chaotic Evil</alignment>
@@ -66,7 +66,7 @@ Source:	Monstrous Compendium Vol. 2 - Dragonlance Creatures p. 3</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ember</name>
+    <name>Ember [Legacy]</name>
     <size>H</size>
     <type>dragon (adult chromatic)</type>
     <alignment>Chaotic Evil</alignment>
@@ -158,7 +158,7 @@ Source:	Monstrous Compendium Vol. 2 - Dragonlance Creatures p. 5</description>
     <environment/>
   </monster>
   <monster>
-    <name>Forest Master</name>
+    <name>Forest Master [Legacy]</name>
     <size>L</size>
     <type>celestial (unicorn)</type>
     <alignment>Neutral Good</alignment>
@@ -239,7 +239,7 @@ Source:	Monstrous Compendium Vol. 2 - Dragonlance Creatures p. 6</description>
     <environment/>
   </monster>
   <monster>
-    <name>Foresworn</name>
+    <name>Foresworn [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Lawful Good</alignment>
@@ -309,7 +309,7 @@ Source:	Monstrous Compendium Vol. 2 - Dragonlance Creatures p. 7</description>
     <environment/>
   </monster>
   <monster>
-    <name>Irda Seeker</name>
+    <name>Irda Seeker [Legacy]</name>
     <size>M</size>
     <type>giant</type>
     <alignment>Any Alignment</alignment>
@@ -371,7 +371,7 @@ Source:	Monstrous Compendium Vol. 2 - Dragonlance Creatures p. 8</description>
     <environment/>
   </monster>
   <monster>
-    <name>Irda Veil Keeper</name>
+    <name>Irda Veil Keeper [Legacy]</name>
     <size>M</size>
     <type>giant (sorcerer)</type>
     <alignment>Any Alignment</alignment>
@@ -440,7 +440,7 @@ Source:	Monstrous Compendium Vol. 2 - Dragonlance Creatures p. 9</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nevermind Gnome Inventor</name>
+    <name>Nevermind Gnome Inventor [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid</type>
@@ -508,7 +508,7 @@ Source:	Monstrous Compendium Vol. 2 - Dragonlance Creatures p. 10</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nevermind Gnome Mastermind</name>
+    <name>Nevermind Gnome Mastermind [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid</type>
@@ -583,7 +583,7 @@ Source:	Monstrous Compendium Vol. 2 - Dragonlance Creatures p. 11</description>
     <environment/>
   </monster>
   <monster>
-    <name>Thanoi Hunter</name>
+    <name>Thanoi Hunter [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Any Alignment</alignment>
@@ -639,7 +639,7 @@ Source:	Monstrous Compendium Vol. 2 - Dragonlance Creatures p. 12</description>
     <environment/>
   </monster>
   <monster>
-    <name>Traag Draconian</name>
+    <name>Traag Draconian [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -705,7 +705,7 @@ Source:	Monstrous Compendium Vol. 2 - Dragonlance Creatures p. 13</description>
     <environment/>
   </monster>
   <monster>
-    <name>Verminaard</name>
+    <name>Verminaard [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (cleric, human)</type>
@@ -816,7 +816,7 @@ Source:	Monstrous Compendium Vol. 2 - Dragonlance Creatures p. 15</description>
     <environment/>
   </monster>
   <item>
-    <name>Nightbringer</name>
+    <name>Nightbringer [Legacy]</name>
     <detail>mace, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>

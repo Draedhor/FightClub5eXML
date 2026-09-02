@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>True Name Double-Bladed Scimitar (Rare) (TP)</name>
+    <name>True Name Double-Bladed Scimitar (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement by an illrigger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -34,7 +34,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Double-Bladed Scimitar (Very Rare) (TP)</name>
+    <name>True Name Double-Bladed Scimitar (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement by an illrigger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -67,7 +67,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Double-Bladed Scimitar (Legendary) (TP)</name>
+    <name>True Name Double-Bladed Scimitar (Legendary) [TP Legacy]</name>
     <detail>legendary (requires attunement by an illrigger)</detail>
     <type>M</type>
     <magic>YES</magic>

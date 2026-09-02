@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Aarakocra</name>
+    <name>Aarakocra [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (aarakocra)</type>
@@ -62,7 +62,7 @@ Source:	Monster Manual (2014) p. 12,
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Aboleth</name>
+    <name>Aboleth [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Lawful Evil</alignment>
@@ -189,7 +189,7 @@ Source:	Monster Manual (2014) p. 13,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Abominable Yeti</name>
+    <name>Abominable Yeti [Legacy]</name>
     <sortname>Yeti, Abominable</sortname>
     <ancestry>Yeti</ancestry>
     <size>H</size>
@@ -272,7 +272,7 @@ Source:	Monster Manual (2014) p. 306,
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Acolyte</name>
+    <name>Acolyte [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -329,7 +329,7 @@ Source:	Monster Manual (2014) p. 342,
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Adult Black Dragon</name>
+    <name>Adult Black Dragon [Legacy]</name>
     <sortname>Black Dragon, Adult</sortname>
     <ancestry>Dragon, Black Dragon</ancestry>
     <size>H</size>
@@ -543,7 +543,7 @@ Source:	Monster Manual (2014) p. 88,
     <environment>swamp</environment>
   </monster>
   <monster>
-    <name>Adult Blue Dracolich</name>
+    <name>Adult Blue Dracolich [Legacy]</name>
     <sortname>Blue Dracolich, Adult</sortname>
     <ancestry>Dracolich</ancestry>
     <size>H</size>
@@ -679,7 +679,7 @@ Source:	Monster Manual (2014) p. 84,
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Adult Blue Dragon</name>
+    <name>Adult Blue Dragon [Legacy]</name>
     <sortname>Blue Dragon, Adult</sortname>
     <ancestry>Dragon, Blue Dragon</ancestry>
     <size>H</size>
@@ -892,7 +892,7 @@ Source:	Monster Manual (2014) p. 91,
     <environment>desert, coastal</environment>
   </monster>
   <monster>
-    <name>Adult Brass Dragon</name>
+    <name>Adult Brass Dragon [Legacy]</name>
     <sortname>Brass Dragon, Adult</sortname>
     <ancestry>Dragon, Brass Dragon</ancestry>
     <size>H</size>
@@ -1094,7 +1094,7 @@ Source:	Monster Manual (2014) p. 105,
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Adult Bronze Dragon</name>
+    <name>Adult Bronze Dragon [Legacy]</name>
     <sortname>Bronze Dragon, Adult</sortname>
     <ancestry>Dragon, Bronze Dragon</ancestry>
     <size>H</size>
@@ -1312,7 +1312,7 @@ Source:	Monster Manual (2014) p. 108,
     <environment>coastal</environment>
   </monster>
   <monster>
-    <name>Adult Copper Dragon</name>
+    <name>Adult Copper Dragon [Legacy]</name>
     <sortname>Copper Dragon, Adult</sortname>
     <ancestry>Dragon, Copper Dragon</ancestry>
     <size>H</size>
@@ -1508,7 +1508,7 @@ Source:	Monster Manual (2014) p. 112,
     <environment>hill</environment>
   </monster>
   <monster>
-    <name>Adult Gold Dragon</name>
+    <name>Adult Gold Dragon [Legacy]</name>
     <sortname>Gold Dragon, Adult</sortname>
     <ancestry>Dragon, Gold Dragon</ancestry>
     <size>H</size>
@@ -1714,7 +1714,7 @@ Source:	Monster Manual (2014) p. 114,
     <environment>grassland, forest</environment>
   </monster>
   <monster>
-    <name>Adult Green Dragon</name>
+    <name>Adult Green Dragon [Legacy]</name>
     <sortname>Green Dragon, Adult</sortname>
     <ancestry>Dragon, Green Dragon</ancestry>
     <size>H</size>
@@ -1926,7 +1926,7 @@ Source:	Monster Manual (2014) p. 94,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Adult Red Dragon</name>
+    <name>Adult Red Dragon [Legacy]</name>
     <sortname>Red Dragon, Adult</sortname>
     <ancestry>Dragon, Red Dragon</ancestry>
     <size>H</size>
@@ -2139,7 +2139,7 @@ Source:	Monster Manual (2014) p. 98,
     <environment>mountain, hill</environment>
   </monster>
   <monster>
-    <name>Adult Silver Dragon</name>
+    <name>Adult Silver Dragon [Legacy]</name>
     <sortname>Silver Dragon, Adult</sortname>
     <ancestry>Dragon, Silver Dragon</ancestry>
     <size>H</size>
@@ -2333,7 +2333,7 @@ Source:	Monster Manual (2014) p. 117,
     <environment>mountain, urban</environment>
   </monster>
   <monster>
-    <name>Adult White Dragon</name>
+    <name>Adult White Dragon [Legacy]</name>
     <sortname>White Dragon, Adult</sortname>
     <ancestry>Dragon, White Dragon</ancestry>
     <size>H</size>
@@ -2546,7 +2546,7 @@ Source:	Monster Manual (2014) p. 101,
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Air Elemental</name>
+    <name>Air Elemental [Legacy]</name>
     <sortname>Elemental, Air</sortname>
     <ancestry>Elemental</ancestry>
     <size>L</size>
@@ -2626,7 +2626,7 @@ Source:	Monster Manual (2014) p. 124,
     <environment>mountain, desert</environment>
   </monster>
   <monster>
-    <name>Allosaurus</name>
+    <name>Allosaurus [Legacy]</name>
     <sortname>Dinosaur, Allosaurus</sortname>
     <ancestry>Dinosaur</ancestry>
     <size>L</size>
@@ -2677,7 +2677,7 @@ Source:	Monster Manual (2014) p. 79,
     <environment>grassland</environment>
   </monster>
   <monster>
-    <name>Ancient Black Dragon</name>
+    <name>Ancient Black Dragon [Legacy]</name>
     <sortname>Black Dragon, Ancient</sortname>
     <ancestry>Dragon, Black Dragon</ancestry>
     <size>G</size>
@@ -2887,7 +2887,7 @@ Source:	Monster Manual (2014) p. 87</description>
     <environment>swamp</environment>
   </monster>
   <monster>
-    <name>Ancient Blue Dragon</name>
+    <name>Ancient Blue Dragon [Legacy]</name>
     <sortname>Blue Dragon, Ancient</sortname>
     <ancestry>Dragon, Blue Dragon</ancestry>
     <size>G</size>
@@ -3097,7 +3097,7 @@ Source:	Monster Manual (2014) p. 90,
     <environment>desert, coastal</environment>
   </monster>
   <monster>
-    <name>Ancient Brass Dragon</name>
+    <name>Ancient Brass Dragon [Legacy]</name>
     <sortname>Brass Dragon, Ancient</sortname>
     <ancestry>Dragon, Brass Dragon</ancestry>
     <size>G</size>
@@ -3303,7 +3303,7 @@ Source:	Monster Manual (2014) p. 104</description>
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Ancient Bronze Dragon</name>
+    <name>Ancient Bronze Dragon [Legacy]</name>
     <sortname>Bronze Dragon, Ancient</sortname>
     <ancestry>Dragon, Bronze Dragon</ancestry>
     <size>G</size>
@@ -3517,7 +3517,7 @@ Source:	Monster Manual (2014) p. 107,
     <environment>coastal</environment>
   </monster>
   <monster>
-    <name>Ancient Copper Dragon</name>
+    <name>Ancient Copper Dragon [Legacy]</name>
     <sortname>Copper Dragon, Ancient</sortname>
     <ancestry>Dragon, Copper Dragon</ancestry>
     <size>G</size>
@@ -3718,7 +3718,7 @@ Source:	Monster Manual (2014) p. 110,
     <environment>hill</environment>
   </monster>
   <monster>
-    <name>Ancient Gold Dragon</name>
+    <name>Ancient Gold Dragon [Legacy]</name>
     <sortname>Gold Dragon, Ancient</sortname>
     <ancestry>Dragon, Gold Dragon</ancestry>
     <size>G</size>
@@ -3922,7 +3922,7 @@ Source:	Monster Manual (2014) p. 113</description>
     <environment>grassland, forest</environment>
   </monster>
   <monster>
-    <name>Ancient Green Dragon</name>
+    <name>Ancient Green Dragon [Legacy]</name>
     <sortname>Green Dragon, Ancient</sortname>
     <ancestry>Dragon, Green Dragon</ancestry>
     <size>G</size>
@@ -4134,7 +4134,7 @@ Source:	Monster Manual (2014) p. 93,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Ancient Red Dragon</name>
+    <name>Ancient Red Dragon [Legacy]</name>
     <sortname>Red Dragon, Ancient</sortname>
     <ancestry>Dragon, Red Dragon</ancestry>
     <size>G</size>
@@ -4345,7 +4345,7 @@ Source:	Monster Manual (2014) p. 97,
     <environment>mountain, hill</environment>
   </monster>
   <monster>
-    <name>Ancient Silver Dragon</name>
+    <name>Ancient Silver Dragon [Legacy]</name>
     <sortname>Silver Dragon, Ancient</sortname>
     <ancestry>Dragon, Silver Dragon</ancestry>
     <size>G</size>
@@ -4537,7 +4537,7 @@ Source:	Monster Manual (2014) p. 116</description>
     <environment>mountain, urban</environment>
   </monster>
   <monster>
-    <name>Ancient White Dragon</name>
+    <name>Ancient White Dragon [Legacy]</name>
     <sortname>White Dragon, Ancient</sortname>
     <ancestry>Dragon, White Dragon</ancestry>
     <size>G</size>
@@ -4746,7 +4746,7 @@ Source:	Monster Manual (2014) p. 100,
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Androsphinx</name>
+    <name>Androsphinx [Legacy]</name>
     <sortname>Sphinx, Androsphinx</sortname>
     <ancestry>Sphinx</ancestry>
     <size>L</size>
@@ -4871,7 +4871,7 @@ Source:	Monster Manual (2014) p. 281,
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Animated Armor</name>
+    <name>Animated Armor [Legacy]</name>
     <sortname>Animated Object, Armor</sortname>
     <ancestry>Animated Object</ancestry>
     <size>M</size>
@@ -4937,7 +4937,7 @@ Source:	Monster Manual (2014) p. 19,
     <environment/>
   </monster>
   <monster>
-    <name>Ankheg</name>
+    <name>Ankheg [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -4990,7 +4990,7 @@ Source:	Monster Manual (2014) p. 21,
     <environment>grassland, forest</environment>
   </monster>
   <monster>
-    <name>Ankylosaurus</name>
+    <name>Ankylosaurus [Legacy]</name>
     <sortname>Dinosaur, Ankylosaurus</sortname>
     <ancestry>Dinosaur</ancestry>
     <size>H</size>
@@ -5029,7 +5029,7 @@ Source:	Monster Manual (2014) p. 79,
     <environment>grassland</environment>
   </monster>
   <monster>
-    <name>Ape</name>
+    <name>Ape [Legacy]</name>
     <sortname>Ape</sortname>
     <ancestry>Ape</ancestry>
     <size>M</size>
@@ -5076,7 +5076,7 @@ Source:	Monster Manual (2014) p. 79,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Arcanaloth</name>
+    <name>Arcanaloth [Legacy]</name>
     <sortname>Yugoloth, Arcanaloth</sortname>
     <ancestry>Yugoloth</ancestry>
     <size>M</size>
@@ -5185,7 +5185,7 @@ Source:	Monster Manual (2014) p. 313,
     <environment/>
   </monster>
   <monster>
-    <name>Archmage</name>
+    <name>Archmage [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -5262,7 +5262,7 @@ Source:	Monster Manual (2014) p. 342,
     <environment/>
   </monster>
   <monster>
-    <name>Assassin</name>
+    <name>Assassin [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -5339,7 +5339,7 @@ Source:	Monster Manual (2014) p. 343,
     <environment/>
   </monster>
   <monster>
-    <name>Awakened Shrub</name>
+    <name>Awakened Shrub [Legacy]</name>
     <sortname>Awakened Plant, Shrub</sortname>
     <ancestry>Awakened Plant</ancestry>
     <size>S</size>
@@ -5384,7 +5384,7 @@ Source:	Monster Manual (2014) p. 317,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Awakened Tree</name>
+    <name>Awakened Tree [Legacy]</name>
     <sortname>Awakened Plant, Tree</sortname>
     <ancestry>Awakened Plant</ancestry>
     <size>H</size>
@@ -5432,7 +5432,7 @@ Source:	Monster Manual (2014) p. 317,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Axe Beak</name>
+    <name>Axe Beak [Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -5471,7 +5471,7 @@ Source:	Monster Manual (2014) p. 317,
     <environment>grassland, hill</environment>
   </monster>
   <monster>
-    <name>Azer</name>
+    <name>Azer [Legacy]</name>
     <size>M</size>
     <type>elemental</type>
     <alignment>Lawful Neutral</alignment>
@@ -5536,7 +5536,7 @@ Source:	Monster Manual (2014) p. 22,
     <environment/>
   </monster>
   <monster>
-    <name>Baboon</name>
+    <name>Baboon [Legacy]</name>
     <sortname>Baboon</sortname>
     <ancestry>Baboon</ancestry>
     <size>S</size>
@@ -5576,7 +5576,7 @@ Source:	Monster Manual (2014) p. 22,
     <environment>forest, hill</environment>
   </monster>
   <monster>
-    <name>Badger</name>
+    <name>Badger [Legacy]</name>
     <sortname>Badger</sortname>
     <ancestry>Badger</ancestry>
     <size>T</size>
@@ -5614,7 +5614,7 @@ Source:	Monster Manual (2014) p. 22,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Balor</name>
+    <name>Balor [Legacy]</name>
     <sortname>Demon, Balor</sortname>
     <ancestry>Demon</ancestry>
     <size>H</size>
@@ -5793,7 +5793,7 @@ Source:	Monster Manual (2014) p. 55,
     <environment/>
   </monster>
   <monster>
-    <name>Bandit</name>
+    <name>Bandit [Legacy]</name>
     <sortname>Bandit</sortname>
     <ancestry>Bandit</ancestry>
     <npc>YES</npc>
@@ -5850,7 +5850,7 @@ Source:	Monster Manual (2014) p. 343,
     <environment/>
   </monster>
   <monster>
-    <name>Bandit Captain</name>
+    <name>Bandit Captain [Legacy]</name>
     <sortname>Bandit, Captain</sortname>
     <ancestry>Bandit</ancestry>
     <npc>YES</npc>
@@ -5916,7 +5916,7 @@ Source:	Monster Manual (2014) p. 344,
     <environment/>
   </monster>
   <monster>
-    <name>Banshee</name>
+    <name>Banshee [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -5986,7 +5986,7 @@ Source:	Monster Manual (2014) p. 23,
     <environment>forest, coastal</environment>
   </monster>
   <monster>
-    <name>Barbed Devil</name>
+    <name>Barbed Devil [Legacy]</name>
     <sortname>Devil, Barbed</sortname>
     <ancestry>Devil</ancestry>
     <size>M</size>
@@ -6135,7 +6135,7 @@ Source:	Monster Manual (2014) p. 70,
     <environment/>
   </monster>
   <monster>
-    <name>Barlgura</name>
+    <name>Barlgura [Legacy]</name>
     <sortname>Demon, Barlgura</sortname>
     <ancestry>Demon</ancestry>
     <size>L</size>
@@ -6299,7 +6299,7 @@ Source:	Monster Manual (2014) p. 56,
     <environment/>
   </monster>
   <monster>
-    <name>Basilisk</name>
+    <name>Basilisk [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -6352,7 +6352,7 @@ Source:	Monster Manual (2014) p. 24,
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Bat</name>
+    <name>Bat [Legacy]</name>
     <sortname>Bat</sortname>
     <ancestry>Bat</ancestry>
     <size>T</size>
@@ -6398,7 +6398,7 @@ Source:	Monster Manual (2014) p. 24,
     <environment/>
   </monster>
   <monster>
-    <name>Bearded Devil</name>
+    <name>Bearded Devil [Legacy]</name>
     <sortname>Devil, Bearded</sortname>
     <ancestry>Devil</ancestry>
     <size>M</size>
@@ -6540,7 +6540,7 @@ Source:	Monster Manual (2014) p. 70,
     <environment/>
   </monster>
   <monster>
-    <name>Behir</name>
+    <name>Behir [Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -6606,7 +6606,7 @@ Source:	Monster Manual (2014) p. 25,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Beholder</name>
+    <name>Beholder [Legacy]</name>
     <sortname>Beholder</sortname>
     <ancestry>Beholder</ancestry>
     <size>L</size>
@@ -6726,7 +6726,7 @@ Source:	Monster Manual (2014) p. 28,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Beholder Zombie</name>
+    <name>Beholder Zombie [Legacy]</name>
     <sortname>Zombie, Beholder</sortname>
     <ancestry>Zombie, Beholder</ancestry>
     <size>L</size>
@@ -6794,7 +6794,7 @@ Source:	Monster Manual (2014) p. 316,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Berserker</name>
+    <name>Berserker [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -6846,7 +6846,7 @@ Source:	Monster Manual (2014) p. 344,
     <environment/>
   </monster>
   <monster>
-    <name>Black Bear</name>
+    <name>Black Bear [Legacy]</name>
     <sortname>Bear, Black</sortname>
     <ancestry>Bear</ancestry>
     <size>M</size>
@@ -6898,7 +6898,7 @@ Source:	Monster Manual (2014) p. 344,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Black Dragon Wyrmling</name>
+    <name>Black Dragon Wyrmling [Legacy]</name>
     <sortname>Black Dragon, Wyrmling</sortname>
     <ancestry>Dragon, Black Dragon</ancestry>
     <size>M</size>
@@ -6986,7 +6986,7 @@ Source:	Monster Manual (2014) p. 88,
     <environment/>
   </monster>
   <monster>
-    <name>Black Pudding</name>
+    <name>Black Pudding [Legacy]</name>
     <sortname>Ooze, Black Pudding</sortname>
     <ancestry>Ooze</ancestry>
     <size>L</size>
@@ -7064,7 +7064,7 @@ Source:	Monster Manual (2014) p. 241,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Blink Dog</name>
+    <name>Blink Dog [Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Lawful Good</alignment>
@@ -7112,7 +7112,7 @@ Source:	Monster Manual (2014) p. 318,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Blood Hawk</name>
+    <name>Blood Hawk [Legacy]</name>
     <sortname>Hawk, Blood</sortname>
     <ancestry>Hawk</ancestry>
     <size>S</size>
@@ -7160,7 +7160,7 @@ Source:	Monster Manual (2014) p. 319,
     <environment>mountain, grassland, forest, hill, coastal, arctic</environment>
   </monster>
   <monster>
-    <name>Blue Dragon Wyrmling</name>
+    <name>Blue Dragon Wyrmling [Legacy]</name>
     <sortname>Blue Dragon, Wyrmling</sortname>
     <ancestry>Dragon, Blue Dragon</ancestry>
     <size>M</size>
@@ -7247,7 +7247,7 @@ Source:	Monster Manual (2014) p. 91,
     <environment/>
   </monster>
   <monster>
-    <name>Blue Slaad</name>
+    <name>Blue Slaad [Legacy]</name>
     <sortname>Slaad, Blue</sortname>
     <ancestry>Slaad</ancestry>
     <size>L</size>
@@ -7325,7 +7325,7 @@ Source:	Monster Manual (2014) p. 276,
     <environment/>
   </monster>
   <monster>
-    <name>Boar</name>
+    <name>Boar [Legacy]</name>
     <sortname>Boar</sortname>
     <ancestry>Boar</ancestry>
     <size>M</size>
@@ -7374,7 +7374,7 @@ Source:	Monster Manual (2014) p. 276,
     <environment>grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Bone Devil</name>
+    <name>Bone Devil [Legacy]</name>
     <sortname>Devil, Bone</sortname>
     <ancestry>Devil</ancestry>
     <size>L</size>
@@ -7524,7 +7524,7 @@ Source:	Monster Manual (2014) p. 71,
     <environment/>
   </monster>
   <monster>
-    <name>Bone Naga (Guardian)</name>
+    <name>Bone Naga (Guardian) [Legacy]</name>
     <sortname>Bone Naga, Guardian</sortname>
     <ancestry>Bone Naga</ancestry>
     <size>L</size>
@@ -7587,7 +7587,7 @@ Source:	Monster Manual (2014) p. 233,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Bone Naga (Spirit)</name>
+    <name>Bone Naga (Spirit) [Legacy]</name>
     <sortname>Bone Naga, Spirit</sortname>
     <ancestry>Bone Naga</ancestry>
     <size>L</size>
@@ -7648,7 +7648,7 @@ Source:	Monster Manual (2014) p. 233</description>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Brass Dragon Wyrmling</name>
+    <name>Brass Dragon Wyrmling [Legacy]</name>
     <sortname>Brass Dragon, Wyrmling</sortname>
     <ancestry>Dragon, Brass Dragon</ancestry>
     <size>M</size>
@@ -7732,7 +7732,7 @@ Source:	Monster Manual (2014) p. 106</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bronze Dragon Wyrmling</name>
+    <name>Bronze Dragon Wyrmling [Legacy]</name>
     <sortname>Bronze Dragon, Wyrmling</sortname>
     <ancestry>Dragon, Bronze Dragon</ancestry>
     <size>M</size>
@@ -7819,7 +7819,7 @@ Source:	Monster Manual (2014) p. 109</description>
     <environment/>
   </monster>
   <monster>
-    <name>Brown Bear</name>
+    <name>Brown Bear [Legacy]</name>
     <sortname>Bear, Brown</sortname>
     <ancestry>Bear</ancestry>
     <size>L</size>
@@ -7873,7 +7873,7 @@ Source:	Monster Manual (2014) p. 109</description>
     <environment>forest, hill, arctic</environment>
   </monster>
   <monster>
-    <name>Bugbear</name>
+    <name>Bugbear [Legacy]</name>
     <sortname>Bugbear</sortname>
     <ancestry>Bugbear</ancestry>
     <npc>YES</npc>
@@ -7943,7 +7943,7 @@ Source:	Monster Manual (2014) p. 33,
     <environment>underdark, grassland, forest</environment>
   </monster>
   <monster>
-    <name>Bugbear Chief</name>
+    <name>Bugbear Chief [Legacy]</name>
     <sortname>Bugbear, Chief</sortname>
     <ancestry>Bugbear</ancestry>
     <npc>YES</npc>
@@ -8010,7 +8010,7 @@ Source:	Monster Manual (2014) p. 33,
     <environment>underdark, grassland, forest</environment>
   </monster>
   <monster>
-    <name>Bulette</name>
+    <name>Bulette [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -8066,7 +8066,7 @@ Source:	Monster Manual (2014) p. 34,
     <environment>mountain, grassland, hill</environment>
   </monster>
   <monster>
-    <name>Bullywug</name>
+    <name>Bullywug [Legacy]</name>
     <size>M</size>
     <type>humanoid (bullywug)</type>
     <alignment>Neutral Evil</alignment>
@@ -8140,7 +8140,7 @@ Source:	Monster Manual (2014) p. 35,
     <environment>swamp</environment>
   </monster>
   <monster>
-    <name>Cambion</name>
+    <name>Cambion [Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>Any Evil Alignment</alignment>
@@ -8219,7 +8219,7 @@ Source:	Monster Manual (2014) p. 36,
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Camel</name>
+    <name>Camel [Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -8252,7 +8252,7 @@ Source:	Monster Manual (2014) p. 36,
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Carrion Crawler</name>
+    <name>Carrion Crawler [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -8316,7 +8316,7 @@ Source:	Monster Manual (2014) p. 37,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Cat</name>
+    <name>Cat [Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -8360,7 +8360,7 @@ Source:	Monster Manual (2014) p. 37,
     <environment>grassland, forest, urban, desert</environment>
   </monster>
   <monster>
-    <name>Cave Bear</name>
+    <name>Cave Bear [Legacy]</name>
     <sortname>Bear, Cave</sortname>
     <ancestry>Bear</ancestry>
     <size>L</size>
@@ -8409,7 +8409,7 @@ Source:	Monster Manual (2014) p. 37,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Centaur</name>
+    <name>Centaur [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral Good</alignment>
@@ -8476,7 +8476,7 @@ Source:	Monster Manual (2014) p. 38,
     <environment>grassland, forest</environment>
   </monster>
   <monster>
-    <name>Chain Devil</name>
+    <name>Chain Devil [Legacy]</name>
     <sortname>Devil, Chain</sortname>
     <ancestry>Devil</ancestry>
     <size>M</size>
@@ -8605,7 +8605,7 @@ Source:	Monster Manual (2014) p. 72,
     <environment/>
   </monster>
   <monster>
-    <name>Chasme</name>
+    <name>Chasme [Legacy]</name>
     <sortname>Demon, Chasme</sortname>
     <ancestry>Demon</ancestry>
     <size>L</size>
@@ -8755,7 +8755,7 @@ Source:	Monster Manual (2014) p. 57,
     <environment/>
   </monster>
   <monster>
-    <name>Chimera</name>
+    <name>Chimera [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -8823,7 +8823,7 @@ Source:	Monster Manual (2014) p. 39,
     <environment>underdark, mountain, grassland, hill</environment>
   </monster>
   <monster>
-    <name>Chuul</name>
+    <name>Chuul [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Chaotic Evil</alignment>
@@ -8890,7 +8890,7 @@ Source:	Monster Manual (2014) p. 40,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Clay Golem</name>
+    <name>Clay Golem [Legacy]</name>
     <sortname>Golem, Clay</sortname>
     <ancestry>Golem</ancestry>
     <size>L</size>
@@ -8977,7 +8977,7 @@ Source:	Monster Manual (2014) p. 168,
     <environment/>
   </monster>
   <monster>
-    <name>Cloaker</name>
+    <name>Cloaker [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Chaotic Neutral</alignment>
@@ -9056,7 +9056,7 @@ Source:	Monster Manual (2014) p. 41,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Cloud Giant</name>
+    <name>Cloud Giant [Legacy]</name>
     <sortname>Giant, Cloud</sortname>
     <ancestry>Giant</ancestry>
     <size>H</size>
@@ -9158,7 +9158,7 @@ Source:	Monster Manual (2014) p. 154,
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Cockatrice</name>
+    <name>Cockatrice [Legacy]</name>
     <size>S</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -9196,7 +9196,7 @@ Source:	Monster Manual (2014) p. 42,
     <environment>grassland</environment>
   </monster>
   <monster>
-    <name>Commoner</name>
+    <name>Commoner [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -9252,7 +9252,7 @@ Source:	Monster Manual (2014) p. 345,
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Constrictor Snake</name>
+    <name>Constrictor Snake [Legacy]</name>
     <sortname>Constrictor Snake</sortname>
     <ancestry>Constrictor Snake</ancestry>
     <size>L</size>
@@ -9294,7 +9294,7 @@ Source:	Monster Manual (2014) p. 345,
     <environment>underwater, forest, swamp, desert</environment>
   </monster>
   <monster>
-    <name>Copper Dragon Wyrmling</name>
+    <name>Copper Dragon Wyrmling [Legacy]</name>
     <sortname>Copper Dragon, Wyrmling</sortname>
     <ancestry>Dragon, Copper Dragon</ancestry>
     <size>M</size>
@@ -9376,7 +9376,7 @@ Source:	Monster Manual (2014) p. 111</description>
     <environment/>
   </monster>
   <monster>
-    <name>Couatl</name>
+    <name>Couatl [Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>Lawful Good</alignment>
@@ -9448,7 +9448,7 @@ Source:	Monster Manual (2014) p. 43,
     <environment>grassland, forest, urban, desert</environment>
   </monster>
   <monster>
-    <name>Crab</name>
+    <name>Crab [Legacy]</name>
     <sortname>Crab</sortname>
     <ancestry>Crab</ancestry>
     <size>T</size>
@@ -9489,7 +9489,7 @@ Source:	Monster Manual (2014) p. 43,
     <environment>coastal</environment>
   </monster>
   <monster>
-    <name>Crawling Claw</name>
+    <name>Crawling Claw [Legacy]</name>
     <size>T</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -9546,7 +9546,7 @@ Source:	Monster Manual (2014) p. 44,
     <environment/>
   </monster>
   <monster>
-    <name>Crocodile</name>
+    <name>Crocodile [Legacy]</name>
     <sortname>Crocodile</sortname>
     <ancestry>Crocodile</ancestry>
     <size>L</size>
@@ -9592,7 +9592,7 @@ Source:	Monster Manual (2014) p. 44,
     <environment>swamp, urban</environment>
   </monster>
   <monster>
-    <name>Cult Fanatic</name>
+    <name>Cult Fanatic [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -9664,7 +9664,7 @@ Source:	Monster Manual (2014) p. 345,
     <environment/>
   </monster>
   <monster>
-    <name>Cultist</name>
+    <name>Cultist [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -9721,7 +9721,7 @@ Source:	Monster Manual (2014) p. 345,
     <environment/>
   </monster>
   <monster>
-    <name>Cyclops</name>
+    <name>Cyclops [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Chaotic Neutral</alignment>
@@ -9782,7 +9782,7 @@ Source:	Monster Manual (2014) p. 45,
     <environment>underdark, mountain, grassland, hill, desert, coastal</environment>
   </monster>
   <monster>
-    <name>Dao</name>
+    <name>Dao [Legacy]</name>
     <sortname>Genie, Dao</sortname>
     <ancestry>Genie</ancestry>
     <size>L</size>
@@ -9887,7 +9887,7 @@ Source:	Monster Manual (2014) p. 143,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Darkmantle</name>
+    <name>Darkmantle [Legacy]</name>
     <size>S</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -9939,7 +9939,7 @@ Source:	Monster Manual (2014) p. 46,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Death Dog</name>
+    <name>Death Dog [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -9986,7 +9986,7 @@ Source:	Monster Manual (2014) p. 321,
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Death Knight</name>
+    <name>Death Knight [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -10078,7 +10078,7 @@ Source:	Monster Manual (2014) p. 47,
     <environment/>
   </monster>
   <monster>
-    <name>Death Slaad</name>
+    <name>Death Slaad [Legacy]</name>
     <sortname>Slaad, Death</sortname>
     <ancestry>Slaad</ancestry>
     <size>M</size>
@@ -10188,7 +10188,7 @@ Source:	Monster Manual (2014) p. 278,
     <environment/>
   </monster>
   <monster>
-    <name>Death Tyrant</name>
+    <name>Death Tyrant [Legacy]</name>
     <sortname>Beholder, Death Tyrant</sortname>
     <ancestry>Beholder</ancestry>
     <size>L</size>
@@ -10303,7 +10303,7 @@ Source:	Monster Manual (2014) p. 29,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Deep Gnome (Svirfneblin)</name>
+    <name>Deep Gnome (Svirfneblin) [Legacy]</name>
     <sortname>Gnome, Deep (Svirfneblin)</sortname>
     <ancestry>Gnome</ancestry>
     <npc>YES</npc>
@@ -10371,7 +10371,7 @@ Source:	Monster Manual (2014) p. 164,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Deer</name>
+    <name>Deer [Legacy]</name>
     <sortname>Deer</sortname>
     <ancestry>Deer</ancestry>
     <size>M</size>
@@ -10407,7 +10407,7 @@ Source:	Monster Manual (2014) p. 164,
     <environment>grassland, forest</environment>
   </monster>
   <monster>
-    <name>Demilich</name>
+    <name>Demilich [Legacy]</name>
     <size>T</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -10528,7 +10528,7 @@ Source:	Monster Manual (2014) p. 48,
     <environment/>
   </monster>
   <monster>
-    <name>Deva</name>
+    <name>Deva [Legacy]</name>
     <sortname>Angel, Deva</sortname>
     <ancestry>Angel</ancestry>
     <size>M</size>
@@ -10611,7 +10611,7 @@ Source:	Monster Manual (2014) p. 16,
     <environment/>
   </monster>
   <monster>
-    <name>Dire Wolf</name>
+    <name>Dire Wolf [Legacy]</name>
     <sortname>Wolf, Dire</sortname>
     <ancestry>Wolf</ancestry>
     <size>L</size>
@@ -10658,7 +10658,7 @@ Source:	Monster Manual (2014) p. 16,
     <environment>forest, hill</environment>
   </monster>
   <monster>
-    <name>Displacer Beast</name>
+    <name>Displacer Beast [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Lawful Evil</alignment>
@@ -10718,7 +10718,7 @@ Source:	Monster Manual (2014) p. 81,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Djinni</name>
+    <name>Djinni [Legacy]</name>
     <sortname>Genie, Djinni</sortname>
     <ancestry>Genie</ancestry>
     <size>L</size>
@@ -10816,7 +10816,7 @@ Source:	Monster Manual (2014) p. 144,
     <environment>coastal</environment>
   </monster>
   <monster>
-    <name>Doppelganger</name>
+    <name>Doppelganger [Legacy]</name>
     <size>M</size>
     <type>monstrosity (shapechanger)</type>
     <alignment>Neutral</alignment>
@@ -10889,7 +10889,7 @@ Source:	Monster Manual (2014) p. 82,
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Draft Horse</name>
+    <name>Draft Horse [Legacy]</name>
     <sortname>Horse, Draft</sortname>
     <ancestry>Horse</ancestry>
     <size>L</size>
@@ -10928,7 +10928,7 @@ Source:	Monster Manual (2014) p. 82,
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Dragon Turtle</name>
+    <name>Dragon Turtle [Legacy]</name>
     <sortname>Turtle, Dragon</sortname>
     <ancestry>Turtle</ancestry>
     <size>G</size>
@@ -11001,7 +11001,7 @@ Source:	Monster Manual (2014) p. 119,
     <environment>underwater, coastal</environment>
   </monster>
   <monster>
-    <name>Dretch</name>
+    <name>Dretch [Legacy]</name>
     <sortname>Demon, Dretch</sortname>
     <ancestry>Demon</ancestry>
     <size>S</size>
@@ -11143,7 +11143,7 @@ Source:	Monster Manual (2014) p. 57,
     <environment/>
   </monster>
   <monster>
-    <name>Drider</name>
+    <name>Drider [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -11237,7 +11237,7 @@ Source:	Monster Manual (2014) p. 120,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Drow</name>
+    <name>Drow [Legacy]</name>
     <sortname>Elves: Drow</sortname>
     <ancestry>Elves: Drow</ancestry>
     <npc>YES</npc>
@@ -11329,7 +11329,7 @@ Source:	Monster Manual (2014) p. 128,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Drow Elite Warrior</name>
+    <name>Drow Elite Warrior [Legacy]</name>
     <sortname>Elves: Drow, Elite Warrior</sortname>
     <ancestry>Elf, Drow</ancestry>
     <npc>YES</npc>
@@ -11435,7 +11435,7 @@ Source:	Monster Manual (2014) p. 128,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Drow Mage</name>
+    <name>Drow Mage [Legacy]</name>
     <sortname>Elves: Drow, Mage</sortname>
     <ancestry>Elf, Drow</ancestry>
     <npc>YES</npc>
@@ -11543,7 +11543,7 @@ Source:	Monster Manual (2014) p. 129,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Drow Priestess of Lolth</name>
+    <name>Drow Priestess of Lolth [Legacy]</name>
     <sortname>Elves: Drow, Priestess of Lolth</sortname>
     <ancestry>Elf, Drow</ancestry>
     <npc>YES</npc>
@@ -11655,7 +11655,7 @@ Source:	Monster Manual (2014) p. 129,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Druid</name>
+    <name>Druid [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -11716,7 +11716,7 @@ Source:	Monster Manual (2014) p. 346,
     <environment/>
   </monster>
   <monster>
-    <name>Dryad</name>
+    <name>Dryad [Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Neutral</alignment>
@@ -11792,7 +11792,7 @@ Source:	Monster Manual (2014) p. 121,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Duergar</name>
+    <name>Duergar [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (dwarf)</type>
@@ -11870,7 +11870,7 @@ Source:	Monster Manual (2014) p. 122,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Duodrone</name>
+    <name>Duodrone [Legacy]</name>
     <sortname>Modron, Duodrone</sortname>
     <ancestry>Modron</ancestry>
     <size>M</size>
@@ -11938,7 +11938,7 @@ Source:	Monster Manual (2014) p. 225</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dust Mephit</name>
+    <name>Dust Mephit [Legacy]</name>
     <sortname>Mephit, Dust</sortname>
     <ancestry>Mephit</ancestry>
     <size>S</size>
@@ -12006,7 +12006,7 @@ Source:	Monster Manual (2014) p. 215,
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Eagle</name>
+    <name>Eagle [Legacy]</name>
     <sortname>Eagle</sortname>
     <ancestry>Eagle</ancestry>
     <size>S</size>
@@ -12044,7 +12044,7 @@ Source:	Monster Manual (2014) p. 215,
     <environment>mountain, grassland, hill, coastal</environment>
   </monster>
   <monster>
-    <name>Earth Elemental</name>
+    <name>Earth Elemental [Legacy]</name>
     <sortname>Elemental, Earth</sortname>
     <ancestry>Elemental</ancestry>
     <size>L</size>
@@ -12112,7 +12112,7 @@ Source:	Monster Manual (2014) p. 124,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Efreeti</name>
+    <name>Efreeti [Legacy]</name>
     <sortname>Genie, Efreeti</sortname>
     <ancestry>Genie</ancestry>
     <size>L</size>
@@ -12212,7 +12212,7 @@ Source:	Monster Manual (2014) p. 145,
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Elephant</name>
+    <name>Elephant [Legacy]</name>
     <sortname>Elephant</sortname>
     <ancestry>Elephant</ancestry>
     <size>H</size>
@@ -12256,7 +12256,7 @@ Source:	Monster Manual (2014) p. 145,
     <environment>grassland</environment>
   </monster>
   <monster>
-    <name>Elk</name>
+    <name>Elk [Legacy]</name>
     <sortname>Elk</sortname>
     <ancestry>Elk</ancestry>
     <size>L</size>
@@ -12305,7 +12305,7 @@ Source:	Monster Manual (2014) p. 145,
     <environment>grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Empyrean</name>
+    <name>Empyrean [Legacy]</name>
     <size>H</size>
     <type>celestial (titan)</type>
     <alignment>Chaotic Good (75%) Neutral Evil (25%)</alignment>
@@ -12396,7 +12396,7 @@ Source:	Monster Manual (2014) p. 130,
     <environment/>
   </monster>
   <monster>
-    <name>Erinyes</name>
+    <name>Erinyes [Legacy]</name>
     <sortname>Devil, Erinyes</sortname>
     <ancestry>Devil</ancestry>
     <size>M</size>
@@ -12546,7 +12546,7 @@ Source:	Monster Manual (2014) p. 73,
     <environment/>
   </monster>
   <monster>
-    <name>Ettercap</name>
+    <name>Ettercap [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -12631,7 +12631,7 @@ Source:	Monster Manual (2014) p. 131,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Ettin</name>
+    <name>Ettin [Legacy]</name>
     <size>L</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -12698,7 +12698,7 @@ Source:	Monster Manual (2014) p. 132,
     <environment>underdark, mountain, hill</environment>
   </monster>
   <monster>
-    <name>Faerie Dragon (Blue)</name>
+    <name>Faerie Dragon (Blue) [Legacy]</name>
     <sortname>Faerie Dragon, Blue</sortname>
     <ancestry>Faerie Dragon</ancestry>
     <size>T</size>
@@ -12832,7 +12832,7 @@ Source:	Monster Manual (2014) p. 133</description>
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Faerie Dragon (Green)</name>
+    <name>Faerie Dragon (Green) [Legacy]</name>
     <sortname>Faerie Dragon, Green</sortname>
     <ancestry>Faerie Dragon</ancestry>
     <size>T</size>
@@ -12967,7 +12967,7 @@ Source:	Monster Manual (2014) p. 133,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Faerie Dragon (Indigo)</name>
+    <name>Faerie Dragon (Indigo) [Legacy]</name>
     <sortname>Faerie Dragon, Indigo</sortname>
     <ancestry>Faerie Dragon</ancestry>
     <size>T</size>
@@ -13101,7 +13101,7 @@ Source:	Monster Manual (2014) p. 133</description>
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Faerie Dragon (Older)</name>
+    <name>Faerie Dragon (Older) [Legacy]</name>
     <sortname>Faerie Dragon, Older</sortname>
     <ancestry>Faerie Dragon</ancestry>
     <size>T</size>
@@ -13245,7 +13245,7 @@ Source:	Monster Manual (2014) p. 133</description>
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Faerie Dragon (Orange)</name>
+    <name>Faerie Dragon (Orange) [Legacy]</name>
     <sortname>Faerie Dragon, Orange</sortname>
     <ancestry>Faerie Dragon</ancestry>
     <size>T</size>
@@ -13379,7 +13379,7 @@ Source:	Monster Manual (2014) p. 133</description>
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Faerie Dragon (Red)</name>
+    <name>Faerie Dragon (Red) [Legacy]</name>
     <sortname>Faerie Dragon, Red</sortname>
     <ancestry>Faerie Dragon</ancestry>
     <size>T</size>
@@ -13513,7 +13513,7 @@ Source:	Monster Manual (2014) p. 133</description>
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Faerie Dragon (Violet)</name>
+    <name>Faerie Dragon (Violet) [Legacy]</name>
     <sortname>Faerie Dragon, Violet</sortname>
     <ancestry>Faerie Dragon</ancestry>
     <size>T</size>
@@ -13650,7 +13650,7 @@ Source:	Monster Manual (2014) p. 133,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Faerie Dragon (Yellow)</name>
+    <name>Faerie Dragon (Yellow) [Legacy]</name>
     <sortname>Faerie Dragon, Yellow</sortname>
     <ancestry>Faerie Dragon</ancestry>
     <size>T</size>
@@ -13784,7 +13784,7 @@ Source:	Monster Manual (2014) p. 133</description>
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Faerie Dragon (Younger)</name>
+    <name>Faerie Dragon (Younger) [Legacy]</name>
     <sortname>Faerie Dragon, Younger</sortname>
     <ancestry>Faerie Dragon</ancestry>
     <size>T</size>
@@ -13878,7 +13878,7 @@ Source:	Monster Manual (2014) p. 133</description>
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Fire Elemental</name>
+    <name>Fire Elemental [Legacy]</name>
     <sortname>Elemental, Fire</sortname>
     <ancestry>Elemental</ancestry>
     <size>L</size>
@@ -13955,7 +13955,7 @@ Source:	Monster Manual (2014) p. 125,
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Fire Giant</name>
+    <name>Fire Giant [Legacy]</name>
     <sortname>Giant, Fire</sortname>
     <ancestry>Giant</ancestry>
     <size>H</size>
@@ -14047,7 +14047,7 @@ Source:	Monster Manual (2014) p. 154,
     <environment>underdark, mountain</environment>
   </monster>
   <monster>
-    <name>Fire Giant (Variant)</name>
+    <name>Fire Giant (Variant) [Legacy]</name>
     <sortname>Giant, Fire (Variant)</sortname>
     <ancestry>Giant</ancestry>
     <size>H</size>
@@ -14136,7 +14136,7 @@ Source:	Monster Manual (2014) p. 154</description>
     <environment>mountain, underdark</environment>
   </monster>
   <monster>
-    <name>Fire Snake</name>
+    <name>Fire Snake [Legacy]</name>
     <sortname>Salamander, Fire Snake</sortname>
     <ancestry>Salamander</ancestry>
     <size>M</size>
@@ -14206,7 +14206,7 @@ Source:	Monster Manual (2014) p. 265,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Flameskull</name>
+    <name>Flameskull [Legacy]</name>
     <size>T</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -14290,7 +14290,7 @@ Source:	Monster Manual (2014) p. 134,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Flesh Golem</name>
+    <name>Flesh Golem [Legacy]</name>
     <sortname>Golem, Flesh</sortname>
     <ancestry>Golem</ancestry>
     <size>M</size>
@@ -14384,7 +14384,7 @@ Source:	Monster Manual (2014) p. 169,
     <environment/>
   </monster>
   <monster>
-    <name>Flumph</name>
+    <name>Flumph [Legacy]</name>
     <size>S</size>
     <type>aberration</type>
     <alignment>Lawful Good</alignment>
@@ -14447,7 +14447,7 @@ Source:	Monster Manual (2014) p. 135,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Flying Snake</name>
+    <name>Flying Snake [Legacy]</name>
     <sortname>Snake, Flying</sortname>
     <ancestry>Snake</ancestry>
     <size>T</size>
@@ -14493,7 +14493,7 @@ Source:	Monster Manual (2014) p. 322,
     <environment>grassland, forest, urban, desert</environment>
   </monster>
   <monster>
-    <name>Flying Sword</name>
+    <name>Flying Sword [Legacy]</name>
     <sortname>Animated Object, Flying Sword</sortname>
     <ancestry>Animated Object</ancestry>
     <size>S</size>
@@ -14555,7 +14555,7 @@ Source:	Monster Manual (2014) p. 20,
     <environment/>
   </monster>
   <monster>
-    <name>Fomorian</name>
+    <name>Fomorian [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -14616,7 +14616,7 @@ Source:	Monster Manual (2014) p. 136,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Frog</name>
+    <name>Frog [Legacy]</name>
     <sortname>Frog</sortname>
     <ancestry>Frog</ancestry>
     <size>T</size>
@@ -14656,7 +14656,7 @@ Source:	Monster Manual (2014) p. 322,
     <environment/>
   </monster>
   <monster>
-    <name>Frost Giant</name>
+    <name>Frost Giant [Legacy]</name>
     <sortname>Giant, Frost</sortname>
     <ancestry>Giant</ancestry>
     <size>H</size>
@@ -14742,7 +14742,7 @@ Source:	Monster Manual (2014) p. 155,
     <environment>mountain, arctic</environment>
   </monster>
   <monster>
-    <name>Galeb Duhr</name>
+    <name>Galeb Duhr [Legacy]</name>
     <size>M</size>
     <type>elemental</type>
     <alignment>Neutral</alignment>
@@ -14799,7 +14799,7 @@ Source:	Monster Manual (2014) p. 139,
     <environment>mountain, hill</environment>
   </monster>
   <monster>
-    <name>Gargoyle</name>
+    <name>Gargoyle [Legacy]</name>
     <size>M</size>
     <type>elemental</type>
     <alignment>Chaotic Evil</alignment>
@@ -14868,7 +14868,7 @@ Source:	Monster Manual (2014) p. 140,
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Gas Spore</name>
+    <name>Gas Spore [Legacy]</name>
     <sortname>Fungi, Gas Spore</sortname>
     <ancestry>Fungi</ancestry>
     <size>L</size>
@@ -14930,7 +14930,7 @@ Source:	Monster Manual (2014) p. 138,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Gelatinous Cube</name>
+    <name>Gelatinous Cube [Legacy]</name>
     <sortname>Ooze, Gelatinous Cube</sortname>
     <ancestry>Ooze</ancestry>
     <size>L</size>
@@ -15005,7 +15005,7 @@ Source:	Monster Manual (2014) p. 242,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Ghast</name>
+    <name>Ghast [Legacy]</name>
     <sortname>Ghoul, Ghast</sortname>
     <ancestry>Ghoul</ancestry>
     <size>M</size>
@@ -15070,7 +15070,7 @@ Source:	Monster Manual (2014) p. 148,
     <environment>underdark, swamp, urban</environment>
   </monster>
   <monster>
-    <name>Ghost</name>
+    <name>Ghost [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Any alignment</alignment>
@@ -15152,7 +15152,7 @@ Source:	Monster Manual (2014) p. 147,
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Ghoul</name>
+    <name>Ghoul [Legacy]</name>
     <sortname>Ghoul</sortname>
     <ancestry>Ghoul</ancestry>
     <size>M</size>
@@ -15213,7 +15213,7 @@ Source:	Monster Manual (2014) p. 148,
     <environment>underdark, swamp, urban</environment>
   </monster>
   <monster>
-    <name>Giant Ape</name>
+    <name>Giant Ape [Legacy]</name>
     <sortname>Ape, Giant</sortname>
     <ancestry>Giant Animal, Ape</ancestry>
     <size>H</size>
@@ -15257,7 +15257,7 @@ Source:	Monster Manual (2014) p. 148,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Giant Badger</name>
+    <name>Giant Badger [Legacy]</name>
     <sortname>Badger, Giant</sortname>
     <ancestry>Giant Animal, Badger</ancestry>
     <size>M</size>
@@ -15305,7 +15305,7 @@ Source:	Monster Manual (2014) p. 148,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Giant Bat</name>
+    <name>Giant Bat [Legacy]</name>
     <sortname>Bat, Giant</sortname>
     <ancestry>Giant Animal, Bat</ancestry>
     <size>L</size>
@@ -15351,7 +15351,7 @@ Source:	Monster Manual (2014) p. 148,
     <environment>underdark, forest</environment>
   </monster>
   <monster>
-    <name>Giant Boar</name>
+    <name>Giant Boar [Legacy]</name>
     <sortname>Boar, Giant</sortname>
     <ancestry>Giant Animal, Boar</ancestry>
     <size>L</size>
@@ -15399,7 +15399,7 @@ Source:	Monster Manual (2014) p. 148,
     <environment>grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Giant Centipede</name>
+    <name>Giant Centipede [Legacy]</name>
     <sortname>Centipede, Giant</sortname>
     <ancestry>Giant Animal, Centipede</ancestry>
     <size>S</size>
@@ -15440,7 +15440,7 @@ Source:	Monster Manual (2014) p. 148,
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Giant Constrictor Snake</name>
+    <name>Giant Constrictor Snake [Legacy]</name>
     <sortname>Constrictor Snake, Giant</sortname>
     <ancestry>Giant Animal, Constrictor Snake</ancestry>
     <size>H</size>
@@ -15484,7 +15484,7 @@ Source:	Monster Manual (2014) p. 148,
     <environment>underwater, underdark, forest, swamp, desert</environment>
   </monster>
   <monster>
-    <name>Giant Crab</name>
+    <name>Giant Crab [Legacy]</name>
     <sortname>Crab, Giant</sortname>
     <ancestry>Giant Animal, Crab</ancestry>
     <size>M</size>
@@ -15531,7 +15531,7 @@ Source:	Monster Manual (2014) p. 148,
     <environment>coastal</environment>
   </monster>
   <monster>
-    <name>Giant Crocodile</name>
+    <name>Giant Crocodile [Legacy]</name>
     <sortname>Crocodile, Giant</sortname>
     <ancestry>Giant Animal, Crocodile</ancestry>
     <size>H</size>
@@ -15582,7 +15582,7 @@ Source:	Monster Manual (2014) p. 148,
     <environment>swamp</environment>
   </monster>
   <monster>
-    <name>Giant Eagle</name>
+    <name>Giant Eagle [Legacy]</name>
     <sortname>Eagle, Giant</sortname>
     <ancestry>Giant Animal, Eagle</ancestry>
     <size>L</size>
@@ -15632,7 +15632,7 @@ Source:	Monster Manual (2014) p. 324,
     <environment>mountain, grassland, hill, coastal</environment>
   </monster>
   <monster>
-    <name>Giant Elk</name>
+    <name>Giant Elk [Legacy]</name>
     <sortname>Elk, Giant</sortname>
     <ancestry>Giant Animal, Elk</ancestry>
     <size>H</size>
@@ -15679,7 +15679,7 @@ Source:	Monster Manual (2014) p. 325,
     <environment>mountain, grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Giant Fire Beetle</name>
+    <name>Giant Fire Beetle [Legacy]</name>
     <sortname>Fire Beetle, Giant</sortname>
     <ancestry>Giant Animal, Fire Beetle</ancestry>
     <size>S</size>
@@ -15722,7 +15722,7 @@ Source:	Monster Manual (2014) p. 325,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Giant Frog</name>
+    <name>Giant Frog [Legacy]</name>
     <sortname>Frog, Giant</sortname>
     <ancestry>Giant Animal, Frog</ancestry>
     <size>M</size>
@@ -15776,7 +15776,7 @@ Source:	Monster Manual (2014) p. 325,
     <environment>forest, swamp</environment>
   </monster>
   <monster>
-    <name>Giant Goat</name>
+    <name>Giant Goat [Legacy]</name>
     <sortname>Goat, Giant</sortname>
     <ancestry>Giant Animal, Goat</ancestry>
     <size>L</size>
@@ -15822,7 +15822,7 @@ Source:	Monster Manual (2014) p. 325,
     <environment>mountain, grassland, hill</environment>
   </monster>
   <monster>
-    <name>Giant Hyena</name>
+    <name>Giant Hyena [Legacy]</name>
     <sortname>Hyena, Giant</sortname>
     <ancestry>Giant Animal, Hyena</ancestry>
     <size>L</size>
@@ -15863,7 +15863,7 @@ Source:	Monster Manual (2014) p. 325,
     <environment>grassland, forest, hill, desert</environment>
   </monster>
   <monster>
-    <name>Giant Lizard</name>
+    <name>Giant Lizard [Legacy]</name>
     <sortname>Lizard, Giant</sortname>
     <ancestry>Giant Animal, Lizard</ancestry>
     <size>L</size>
@@ -15918,7 +15918,7 @@ Source:	Monster Manual (2014) p. 326,
     <environment>underdark, forest, swamp, desert, coastal</environment>
   </monster>
   <monster>
-    <name>Giant Octopus</name>
+    <name>Giant Octopus [Legacy]</name>
     <sortname>Octopus, Giant</sortname>
     <ancestry>Giant Animal, Octopus</ancestry>
     <size>L</size>
@@ -15975,7 +15975,7 @@ Source:	Monster Manual (2014) p. 326,
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Giant Owl</name>
+    <name>Giant Owl [Legacy]</name>
     <sortname>Owl, Giant</sortname>
     <ancestry>Giant Animal, Owl</ancestry>
     <size>L</size>
@@ -16023,7 +16023,7 @@ Source:	Monster Manual (2014) p. 327,
     <environment>forest, hill, arctic</environment>
   </monster>
   <monster>
-    <name>Giant Poisonous Snake</name>
+    <name>Giant Poisonous Snake [Legacy]</name>
     <sortname>Poisonous Snake, Giant</sortname>
     <ancestry>Giant Animal, Poisonous Snake</ancestry>
     <size>M</size>
@@ -16064,7 +16064,7 @@ Source:	Monster Manual (2014) p. 327,
     <environment>underdark, grassland, forest, swamp, urban, desert</environment>
   </monster>
   <monster>
-    <name>Giant Rat</name>
+    <name>Giant Rat [Legacy]</name>
     <sortname>Rat, Giant</sortname>
     <ancestry>Giant Animal, Rat</ancestry>
     <size>S</size>
@@ -16123,7 +16123,7 @@ Bite: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) 
     <environment>underdark, forest, swamp, urban</environment>
   </monster>
   <monster>
-    <name>Giant Rat (Diseased)</name>
+    <name>Giant Rat (Diseased) [Legacy]</name>
     <sortname>Rat, Giant (Diseased)</sortname>
     <ancestry>Giant Animal, Rat</ancestry>
     <size>S</size>
@@ -16166,7 +16166,7 @@ Bite: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) 
     <environment>underdark, forest, swamp, urban</environment>
   </monster>
   <monster>
-    <name>Giant Scorpion</name>
+    <name>Giant Scorpion [Legacy]</name>
     <sortname>Scorpion, Giant</sortname>
     <ancestry>Giant Animal, Scorpion</ancestry>
     <size>L</size>
@@ -16214,7 +16214,7 @@ Bite: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) 
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Giant Sea Horse</name>
+    <name>Giant Sea Horse [Legacy]</name>
     <sortname>Sea Horse, Giant</sortname>
     <ancestry>Giant Animal, Sea Horse</ancestry>
     <size>L</size>
@@ -16260,7 +16260,7 @@ Source:	Monster Manual (2014) p. 328,
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Giant Shark</name>
+    <name>Giant Shark [Legacy]</name>
     <sortname>Shark, Giant</sortname>
     <ancestry>Giant Animal, Shark</ancestry>
     <size>H</size>
@@ -16311,7 +16311,7 @@ Source:	Monster Manual (2014) p. 328,
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Giant Spider</name>
+    <name>Giant Spider [Legacy]</name>
     <sortname>Spider, Giant</sortname>
     <ancestry>Giant Animal, Spider</ancestry>
     <size>L</size>
@@ -16383,7 +16383,7 @@ Source:	Monster Manual (2014) p. 328,
     <environment>underdark, forest, swamp, urban, desert</environment>
   </monster>
   <monster>
-    <name>Giant Toad</name>
+    <name>Giant Toad [Legacy]</name>
     <sortname>Toad, Giant</sortname>
     <ancestry>Giant Animal, Toad</ancestry>
     <size>L</size>
@@ -16437,7 +16437,7 @@ Source:	Monster Manual (2014) p. 328,
     <environment>underdark, forest, swamp, desert, coastal</environment>
   </monster>
   <monster>
-    <name>Giant Vulture</name>
+    <name>Giant Vulture [Legacy]</name>
     <sortname>Vulture, Giant</sortname>
     <ancestry>Giant Animal, Vulture</ancestry>
     <size>L</size>
@@ -16494,7 +16494,7 @@ Source:	Monster Manual (2014) p. 329,
     <environment>grassland, desert</environment>
   </monster>
   <monster>
-    <name>Giant Wasp</name>
+    <name>Giant Wasp [Legacy]</name>
     <sortname>Wasp, Giant</sortname>
     <ancestry>Giant Animal, Wasp</ancestry>
     <size>M</size>
@@ -16532,7 +16532,7 @@ Source:	Monster Manual (2014) p. 329,
     <environment>grassland, forest, urban</environment>
   </monster>
   <monster>
-    <name>Giant Weasel</name>
+    <name>Giant Weasel [Legacy]</name>
     <sortname>Weasel, Giant</sortname>
     <ancestry>Giant Animal, Weasel</ancestry>
     <size>M</size>
@@ -16572,7 +16572,7 @@ Source:	Monster Manual (2014) p. 329,
     <environment>grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Giant Wolf Spider</name>
+    <name>Giant Wolf Spider [Legacy]</name>
     <sortname>Spider, Giant Wolf</sortname>
     <ancestry>Giant Animal, Spider</ancestry>
     <size>M</size>
@@ -16626,7 +16626,7 @@ Source:	Monster Manual (2014) p. 330,
     <environment>grassland, forest, hill, desert, coastal</environment>
   </monster>
   <monster>
-    <name>Gibbering Mouther</name>
+    <name>Gibbering Mouther [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Neutral</alignment>
@@ -16691,7 +16691,7 @@ Source:	Monster Manual (2014) p. 157,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Githyanki Knight</name>
+    <name>Githyanki Knight [Legacy]</name>
     <sortname>Gith, Githyanki Knight</sortname>
     <ancestry>Gith, Githyanki</ancestry>
     <npc>YES</npc>
@@ -16763,7 +16763,7 @@ Source:	Monster Manual (2014) p. 160,
     <environment/>
   </monster>
   <monster>
-    <name>Githyanki Warrior</name>
+    <name>Githyanki Warrior [Legacy]</name>
     <sortname>Gith, Githyanki Warrior</sortname>
     <ancestry>Gith, Githyanki</ancestry>
     <npc>YES</npc>
@@ -16833,7 +16833,7 @@ Source:	Monster Manual (2014) p. 160,
     <environment/>
   </monster>
   <monster>
-    <name>Githzerai Monk</name>
+    <name>Githzerai Monk [Legacy]</name>
     <sortname>Gith, Githzerai Monk</sortname>
     <ancestry>Gith, Githzerai</ancestry>
     <npc>YES</npc>
@@ -16907,7 +16907,7 @@ Source:	Monster Manual (2014) p. 161</description>
     <environment/>
   </monster>
   <monster>
-    <name>Githzerai Zerth</name>
+    <name>Githzerai Zerth [Legacy]</name>
     <sortname>Gith, Githzerai Zerth</sortname>
     <ancestry>Gith, Githzerai</ancestry>
     <npc>YES</npc>
@@ -16983,7 +16983,7 @@ Source:	Monster Manual (2014) p. 161,
     <environment/>
   </monster>
   <monster>
-    <name>Glabrezu</name>
+    <name>Glabrezu [Legacy]</name>
     <sortname>Demon, Glabrezu</sortname>
     <ancestry>Demon</ancestry>
     <size>L</size>
@@ -17146,7 +17146,7 @@ Source:	Monster Manual (2014) p. 58,
     <environment/>
   </monster>
   <monster>
-    <name>Gladiator</name>
+    <name>Gladiator [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -17214,7 +17214,7 @@ Source:	Monster Manual (2014) p. 346,
     <environment/>
   </monster>
   <monster>
-    <name>Gnoll</name>
+    <name>Gnoll [Legacy]</name>
     <sortname>Gnoll</sortname>
     <ancestry>Gnoll</ancestry>
     <size>M</size>
@@ -17280,7 +17280,7 @@ Source:	Monster Manual (2014) p. 163,
     <environment>grassland, forest, hill, desert</environment>
   </monster>
   <monster>
-    <name>Gnoll Fang of Yeenoghu</name>
+    <name>Gnoll Fang of Yeenoghu [Legacy]</name>
     <sortname>Gnoll, Fang of Yeenoghu</sortname>
     <ancestry>Gnoll</ancestry>
     <size>M</size>
@@ -17342,7 +17342,7 @@ Source:	Monster Manual (2014) p. 163,
     <environment>grassland, forest, hill, desert</environment>
   </monster>
   <monster>
-    <name>Gnoll Pack Lord</name>
+    <name>Gnoll Pack Lord [Legacy]</name>
     <sortname>Gnoll, Pack Lord</sortname>
     <ancestry>Gnoll</ancestry>
     <size>M</size>
@@ -17414,7 +17414,7 @@ Source:	Monster Manual (2014) p. 163,
     <environment>grassland, forest, hill, desert</environment>
   </monster>
   <monster>
-    <name>Goat</name>
+    <name>Goat [Legacy]</name>
     <sortname>Goat</sortname>
     <ancestry>Goat</ancestry>
     <size>M</size>
@@ -17466,7 +17466,7 @@ Source:	Monster Manual (2014) p. 163,
     <environment>mountain, grassland, hill, urban</environment>
   </monster>
   <monster>
-    <name>Goblin</name>
+    <name>Goblin [Legacy]</name>
     <sortname>Goblin</sortname>
     <ancestry>Goblin</ancestry>
     <npc>YES</npc>
@@ -17536,7 +17536,7 @@ Source:	Monster Manual (2014) p. 166,
     <environment>underdark, grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Goblin Boss</name>
+    <name>Goblin Boss [Legacy]</name>
     <sortname>Goblin, Boss</sortname>
     <ancestry>Goblin</ancestry>
     <npc>YES</npc>
@@ -17607,7 +17607,7 @@ Source:	Monster Manual (2014) p. 166,
     <environment>underdark, grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Gold Dragon Wyrmling</name>
+    <name>Gold Dragon Wyrmling [Legacy]</name>
     <sortname>Gold Dragon, Wyrmling</sortname>
     <ancestry>Dragon, Gold Dragon</ancestry>
     <size>M</size>
@@ -17694,7 +17694,7 @@ Source:	Monster Manual (2014) p. 115</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gorgon</name>
+    <name>Gorgon [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -17751,7 +17751,7 @@ Source:	Monster Manual (2014) p. 171,
     <environment>grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Goristro</name>
+    <name>Goristro [Legacy]</name>
     <sortname>Demon, Goristro</sortname>
     <ancestry>Demon</ancestry>
     <size>H</size>
@@ -17906,7 +17906,7 @@ Source:	Monster Manual (2014) p. 59</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gray Ooze</name>
+    <name>Gray Ooze [Legacy]</name>
     <sortname>Ooze, Gray</sortname>
     <ancestry>Ooze</ancestry>
     <size>M</size>
@@ -17984,7 +17984,7 @@ Source:	Monster Manual (2014) p. 243,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Gray Slaad</name>
+    <name>Gray Slaad [Legacy]</name>
     <sortname>Slaad, Gray</sortname>
     <ancestry>Slaad</ancestry>
     <size>M</size>
@@ -18083,7 +18083,7 @@ Source:	Monster Manual (2014) p. 277,
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Green Dragon Wyrmling</name>
+    <name>Green Dragon Wyrmling [Legacy]</name>
     <sortname>Green Dragon, Wyrmling</sortname>
     <ancestry>Dragon, Green Dragon</ancestry>
     <size>M</size>
@@ -18173,7 +18173,7 @@ Source:	Monster Manual (2014) p. 95</description>
     <environment/>
   </monster>
   <monster>
-    <name>Green Hag</name>
+    <name>Green Hag [Legacy]</name>
     <sortname>Hag, Green</sortname>
     <ancestry>Hag</ancestry>
     <size>M</size>
@@ -18290,7 +18290,7 @@ Source:	Monster Manual (2014) p. 177,
     <environment>forest, swamp, hill</environment>
   </monster>
   <monster>
-    <name>Green Slaad</name>
+    <name>Green Slaad [Legacy]</name>
     <sortname>Slaad, Green</sortname>
     <ancestry>Slaad</ancestry>
     <size>L</size>
@@ -18391,7 +18391,7 @@ Source:	Monster Manual (2014) p. 277,
     <environment/>
   </monster>
   <monster>
-    <name>Grell</name>
+    <name>Grell [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -18448,7 +18448,7 @@ Source:	Monster Manual (2014) p. 172,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Grick</name>
+    <name>Grick [Legacy]</name>
     <sortname>Grick</sortname>
     <ancestry>Grick</ancestry>
     <size>M</size>
@@ -18508,7 +18508,7 @@ Source:	Monster Manual (2014) p. 173,
     <environment>underdark, forest</environment>
   </monster>
   <monster>
-    <name>Grick Alpha</name>
+    <name>Grick Alpha [Legacy]</name>
     <sortname>Grick, Alpha</sortname>
     <ancestry>Grick</ancestry>
     <size>L</size>
@@ -18569,7 +18569,7 @@ Source:	Monster Manual (2014) p. 173,
     <environment>underdark, forest</environment>
   </monster>
   <monster>
-    <name>Griffon</name>
+    <name>Griffon [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -18634,7 +18634,7 @@ Source:	Monster Manual (2014) p. 174,
     <environment>mountain, grassland, hill, coastal, arctic</environment>
   </monster>
   <monster>
-    <name>Grimlock</name>
+    <name>Grimlock [Legacy]</name>
     <size>M</size>
     <type>humanoid (grimlock)</type>
     <alignment>Neutral Evil</alignment>
@@ -18692,7 +18692,7 @@ Source:	Monster Manual (2014) p. 175,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Guard</name>
+    <name>Guard [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -18743,7 +18743,7 @@ Source:	Monster Manual (2014) p. 347,
     <environment/>
   </monster>
   <monster>
-    <name>Guardian Naga</name>
+    <name>Guardian Naga [Legacy]</name>
     <sortname>Naga, Guardian</sortname>
     <ancestry>Naga</ancestry>
     <size>L</size>
@@ -18818,7 +18818,7 @@ Source:	Monster Manual (2014) p. 234,
     <environment>forest, desert</environment>
   </monster>
   <monster>
-    <name>Gynosphinx</name>
+    <name>Gynosphinx [Legacy]</name>
     <sortname>Sphinx, Gynosphinx</sortname>
     <ancestry>Sphinx</ancestry>
     <size>L</size>
@@ -18932,7 +18932,7 @@ Source:	Monster Manual (2014) p. 282,
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Half-Ogre (Ogrillon)</name>
+    <name>Half-Ogre (Ogrillon) [Legacy]</name>
     <size>L</size>
     <type>giant</type>
     <alignment>Any Chaotic Alignment</alignment>
@@ -18996,7 +18996,7 @@ Source:	Monster Manual (2014) p. 238,
     <environment>underdark, mountain, forest, hill, urban, desert, arctic</environment>
   </monster>
   <monster>
-    <name>Half-Red Dragon Veteran</name>
+    <name>Half-Red Dragon Veteran [Legacy]</name>
     <sortname>Half-Dragon, Red Dragon Veteran</sortname>
     <ancestry>Half-Dragon</ancestry>
     <npc>YES</npc>
@@ -19091,7 +19091,7 @@ Source:	Monster Manual (2014) p. 180,
     <environment/>
   </monster>
   <monster>
-    <name>Harpy</name>
+    <name>Harpy [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -19160,7 +19160,7 @@ Source:	Monster Manual (2014) p. 181,
     <environment>mountain, forest, hill, coastal</environment>
   </monster>
   <monster>
-    <name>Hawk</name>
+    <name>Hawk [Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -19199,7 +19199,7 @@ Source:	Monster Manual (2014) p. 181,
     <environment/>
   </monster>
   <monster>
-    <name>Hell Hound</name>
+    <name>Hell Hound [Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>Lawful Evil</alignment>
@@ -19266,7 +19266,7 @@ Source:	Monster Manual (2014) p. 182,
     <environment>underdark, mountain</environment>
   </monster>
   <monster>
-    <name>Helmed Horror</name>
+    <name>Helmed Horror [Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -19328,7 +19328,7 @@ Source:	Monster Manual (2014) p. 183,
     <environment/>
   </monster>
   <monster>
-    <name>Hezrou</name>
+    <name>Hezrou [Legacy]</name>
     <sortname>Demon, Hezrou</sortname>
     <ancestry>Demon</ancestry>
     <size>L</size>
@@ -19485,7 +19485,7 @@ Source:	Monster Manual (2014) p. 60,
     <environment/>
   </monster>
   <monster>
-    <name>Hill Giant</name>
+    <name>Hill Giant [Legacy]</name>
     <sortname>Giant, Hill</sortname>
     <ancestry>Giant</ancestry>
     <size>H</size>
@@ -19576,7 +19576,7 @@ Source:	Monster Manual (2014) p. 155,
     <environment>hill</environment>
   </monster>
   <monster>
-    <name>Hippogriff</name>
+    <name>Hippogriff [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -19633,7 +19633,7 @@ Source:	Monster Manual (2014) p. 184,
     <environment>mountain, grassland, hill</environment>
   </monster>
   <monster>
-    <name>Hobgoblin</name>
+    <name>Hobgoblin [Legacy]</name>
     <sortname>Hobgoblin</sortname>
     <ancestry>Hobgoblin</ancestry>
     <size>M</size>
@@ -19711,7 +19711,7 @@ Source:	Monster Manual (2014) p. 186,
     <environment>underdark, grassland, forest, hill, desert</environment>
   </monster>
   <monster>
-    <name>Hobgoblin Captain</name>
+    <name>Hobgoblin Captain [Legacy]</name>
     <sortname>Hobgoblin, Captain</sortname>
     <ancestry>Hobgoblin</ancestry>
     <size>M</size>
@@ -19792,7 +19792,7 @@ Source:	Monster Manual (2014) p. 186,
     <environment>underdark, grassland, forest, hill, desert</environment>
   </monster>
   <monster>
-    <name>Hobgoblin Warlord</name>
+    <name>Hobgoblin Warlord [Legacy]</name>
     <sortname>Hobgoblin, Warlord</sortname>
     <ancestry>Hobgoblin</ancestry>
     <size>M</size>
@@ -19881,7 +19881,7 @@ Source:	Monster Manual (2014) p. 187,
     <environment>underdark, grassland, forest, hill, desert</environment>
   </monster>
   <monster>
-    <name>Homunculus</name>
+    <name>Homunculus [Legacy]</name>
     <size>T</size>
     <type>construct</type>
     <alignment>Neutral</alignment>
@@ -19928,7 +19928,7 @@ Source:	Monster Manual (2014) p. 188,
     <environment/>
   </monster>
   <monster>
-    <name>Hook Horror</name>
+    <name>Hook Horror [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral</alignment>
@@ -19984,7 +19984,7 @@ Source:	Monster Manual (2014) p. 189,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Horned Devil</name>
+    <name>Horned Devil [Legacy]</name>
     <sortname>Devil, Horned</sortname>
     <ancestry>Devil</ancestry>
     <size>L</size>
@@ -20123,7 +20123,7 @@ Source:	Monster Manual (2014) p. 74,
     <environment/>
   </monster>
   <monster>
-    <name>Hunter Shark</name>
+    <name>Hunter Shark [Legacy]</name>
     <sortname>Shark, Hunter</sortname>
     <ancestry>Shark</ancestry>
     <size>L</size>
@@ -20174,7 +20174,7 @@ Source:	Monster Manual (2014) p. 330,
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Hydra</name>
+    <name>Hydra [Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -20246,7 +20246,7 @@ Source:	Monster Manual (2014) p. 190,
     <environment>swamp</environment>
   </monster>
   <monster>
-    <name>Hyena</name>
+    <name>Hyena [Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -20283,7 +20283,7 @@ Source:	Monster Manual (2014) p. 190,
     <environment>grassland, forest, hill, desert</environment>
   </monster>
   <monster>
-    <name>Ice Devil</name>
+    <name>Ice Devil [Legacy]</name>
     <sortname>Devil, Ice</sortname>
     <ancestry>Devil</ancestry>
     <size>L</size>
@@ -20447,7 +20447,7 @@ Source:	Monster Manual (2014) p. 75,
     <environment/>
   </monster>
   <monster>
-    <name>Ice Mephit</name>
+    <name>Ice Mephit [Legacy]</name>
     <sortname>Mephit, Ice</sortname>
     <ancestry>Mephit</ancestry>
     <size>S</size>
@@ -20526,7 +20526,7 @@ Source:	Monster Manual (2014) p. 215,
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Imp</name>
+    <name>Imp [Legacy]</name>
     <sortname>Devil, Imp</sortname>
     <ancestry>Devil</ancestry>
     <size>T</size>
@@ -20660,7 +20660,7 @@ Source:	Monster Manual (2014) p. 76,
     <environment/>
   </monster>
   <monster>
-    <name>Incubus</name>
+    <name>Incubus [Legacy]</name>
     <sortname>Succubus, Incubus</sortname>
     <ancestry>Succubus</ancestry>
     <size>M</size>
@@ -20735,7 +20735,7 @@ Source:	Monster Manual (2014) p. 285,
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Intellect Devourer</name>
+    <name>Intellect Devourer [Legacy]</name>
     <size>T</size>
     <type>aberration</type>
     <alignment>Lawful Evil</alignment>
@@ -20795,7 +20795,7 @@ Source:	Monster Manual (2014) p. 191,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Invisible Stalker</name>
+    <name>Invisible Stalker [Legacy]</name>
     <size>M</size>
     <type>elemental</type>
     <alignment>Neutral</alignment>
@@ -20860,7 +20860,7 @@ Source:	Monster Manual (2014) p. 192,
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Iron Golem</name>
+    <name>Iron Golem [Legacy]</name>
     <sortname>Golem, Iron</sortname>
     <ancestry>Golem</ancestry>
     <size>L</size>
@@ -20950,7 +20950,7 @@ Source:	Monster Manual (2014) p. 170,
     <environment/>
   </monster>
   <monster>
-    <name>Jackal</name>
+    <name>Jackal [Legacy]</name>
     <size>S</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -20991,7 +20991,7 @@ Source:	Monster Manual (2014) p. 170,
     <environment>grassland, desert</environment>
   </monster>
   <monster>
-    <name>Jackalwere</name>
+    <name>Jackalwere [Legacy]</name>
     <size>M</size>
     <type>humanoid (shapechanger)</type>
     <alignment>Chaotic Evil</alignment>
@@ -21055,7 +21055,7 @@ Source:	Monster Manual (2014) p. 193,
     <environment>grassland, desert</environment>
   </monster>
   <monster>
-    <name>Kenku</name>
+    <name>Kenku [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (kenku)</type>
@@ -21115,7 +21115,7 @@ Source:	Monster Manual (2014) p. 194,
     <environment>forest, urban</environment>
   </monster>
   <monster>
-    <name>Killer Whale</name>
+    <name>Killer Whale [Legacy]</name>
     <sortname>Whale, Killer</sortname>
     <ancestry>Whale</ancestry>
     <size>H</size>
@@ -21166,7 +21166,7 @@ Source:	Monster Manual (2014) p. 194,
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Knight</name>
+    <name>Knight [Legacy]</name>
     <ancestry>Knight</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -21238,7 +21238,7 @@ Source:	Monster Manual (2014) p. 347,
     <environment/>
   </monster>
   <monster>
-    <name>Kobold</name>
+    <name>Kobold [Legacy]</name>
     <sortname>Kobold</sortname>
     <ancestry>Kobold</ancestry>
     <size>S</size>
@@ -21305,7 +21305,7 @@ Source:	Monster Manual (2014) p. 195,
     <environment>forest, swamp, hill, urban, desert, coastal, arctic, mountain, underdark</environment>
   </monster>
   <monster>
-    <name>Kraken</name>
+    <name>Kraken [Legacy]</name>
     <size>G</size>
     <type>monstrosity (titan)</type>
     <alignment>Chaotic Evil</alignment>
@@ -21427,7 +21427,7 @@ Source:	Monster Manual (2014) p. 197,
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Kuo-toa</name>
+    <name>Kuo-toa [Legacy]</name>
     <size>M</size>
     <type>humanoid (kuo-toa)</type>
     <alignment>Neutral Evil</alignment>
@@ -21511,7 +21511,7 @@ Source:	Monster Manual (2014) p. 199,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Kuo-toa Archpriest</name>
+    <name>Kuo-toa Archpriest [Legacy]</name>
     <size>M</size>
     <type>humanoid (kuo-toa)</type>
     <alignment>Neutral Evil</alignment>
@@ -21601,7 +21601,7 @@ Source:	Monster Manual (2014) p. 200,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Kuo-toa Monitor</name>
+    <name>Kuo-toa Monitor [Legacy]</name>
     <size>M</size>
     <type>humanoid (kuo-toa)</type>
     <alignment>Neutral Evil</alignment>
@@ -21681,7 +21681,7 @@ Source:	Monster Manual (2014) p. 198,
     <environment/>
   </monster>
   <monster>
-    <name>Kuo-toa Whip</name>
+    <name>Kuo-toa Whip [Legacy]</name>
     <size>M</size>
     <type>humanoid (kuo-toa)</type>
     <alignment>Neutral Evil</alignment>
@@ -21767,7 +21767,7 @@ Source:	Monster Manual (2014) p. 200,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Lamia</name>
+    <name>Lamia [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -21835,7 +21835,7 @@ Source:	Monster Manual (2014) p. 201,
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Lemure</name>
+    <name>Lemure [Legacy]</name>
     <sortname>Devil, Lemure</sortname>
     <ancestry>Devil</ancestry>
     <size>M</size>
@@ -21947,7 +21947,7 @@ Source:	Monster Manual (2014) p. 76,
     <environment/>
   </monster>
   <monster>
-    <name>Lich</name>
+    <name>Lich [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Any Evil Alignment</alignment>
@@ -22075,7 +22075,7 @@ Source:	Monster Manual (2014) p. 202,
     <environment/>
   </monster>
   <monster>
-    <name>Lion</name>
+    <name>Lion [Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -22129,7 +22129,7 @@ Source:	Monster Manual (2014) p. 202,
     <environment>mountain, grassland, hill, desert</environment>
   </monster>
   <monster>
-    <name>Lizard</name>
+    <name>Lizard [Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -22162,7 +22162,7 @@ Source:	Monster Manual (2014) p. 202,
     <environment/>
   </monster>
   <monster>
-    <name>Lizard King</name>
+    <name>Lizard King [Legacy]</name>
     <sortname>Lizardfolk, Lizard King</sortname>
     <ancestry>Lizardfolk</ancestry>
     <size>M</size>
@@ -22239,7 +22239,7 @@ Source:	Monster Manual (2014) p. 205,
     <environment>forest, swamp</environment>
   </monster>
   <monster>
-    <name>Lizard Queen</name>
+    <name>Lizard Queen [Legacy]</name>
     <sortname>Lizardfolk, Queen</sortname>
     <ancestry>Lizardfolk</ancestry>
     <size>M</size>
@@ -22313,7 +22313,7 @@ Source:	Monster Manual (2014) p. 205</description>
     <environment>forest, swamp</environment>
   </monster>
   <monster>
-    <name>Lizardfolk</name>
+    <name>Lizardfolk [Legacy]</name>
     <sortname>Lizardfolk</sortname>
     <ancestry>Lizardfolk</ancestry>
     <size>M</size>
@@ -22397,7 +22397,7 @@ Source:	Monster Manual (2014) p. 204,
     <environment>forest, swamp</environment>
   </monster>
   <monster>
-    <name>Lizardfolk Shaman</name>
+    <name>Lizardfolk Shaman [Legacy]</name>
     <sortname>Lizardfolk, Shaman</sortname>
     <ancestry>Lizardfolk</ancestry>
     <size>M</size>
@@ -22483,7 +22483,7 @@ Source:	Monster Manual (2014) p. 205,
     <environment>forest, swamp</environment>
   </monster>
   <monster>
-    <name>Mage</name>
+    <name>Mage [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -22555,7 +22555,7 @@ Source:	Monster Manual (2014) p. 347,
     <environment/>
   </monster>
   <monster>
-    <name>Magma Mephit</name>
+    <name>Magma Mephit [Legacy]</name>
     <sortname>Mephit, Magma</sortname>
     <ancestry>Mephit</ancestry>
     <size>S</size>
@@ -22635,7 +22635,7 @@ Source:	Monster Manual (2014) p. 216,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Magmin</name>
+    <name>Magmin [Legacy]</name>
     <size>S</size>
     <type>elemental</type>
     <alignment>Chaotic Neutral</alignment>
@@ -22688,7 +22688,7 @@ Source:	Monster Manual (2014) p. 212,
     <environment/>
   </monster>
   <monster>
-    <name>Mammoth</name>
+    <name>Mammoth [Legacy]</name>
     <size>H</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -22733,7 +22733,7 @@ Source:	Monster Manual (2014) p. 332,
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Manes</name>
+    <name>Manes [Legacy]</name>
     <sortname>Demon, Manes</sortname>
     <ancestry>Demon</ancestry>
     <size>S</size>
@@ -22861,7 +22861,7 @@ Source:	Monster Manual (2014) p. 60,
     <environment/>
   </monster>
   <monster>
-    <name>Manticore</name>
+    <name>Manticore [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Lawful Evil</alignment>
@@ -22929,7 +22929,7 @@ Source:	Monster Manual (2014) p. 213,
     <environment>mountain, grassland, hill, coastal, arctic</environment>
   </monster>
   <monster>
-    <name>Marid</name>
+    <name>Marid [Legacy]</name>
     <sortname>Genie, Marid</sortname>
     <ancestry>Genie</ancestry>
     <size>L</size>
@@ -23036,7 +23036,7 @@ Source:	Monster Manual (2014) p. 146,
     <environment>underwater, coastal</environment>
   </monster>
   <monster>
-    <name>Marilith</name>
+    <name>Marilith [Legacy]</name>
     <sortname>Demon, Marilith</sortname>
     <ancestry>Demon</ancestry>
     <size>L</size>
@@ -23209,7 +23209,7 @@ Source:	Monster Manual (2014) p. 61,
     <environment/>
   </monster>
   <monster>
-    <name>Mastiff</name>
+    <name>Mastiff [Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -23254,7 +23254,7 @@ Source:	Monster Manual (2014) p. 332,
     <environment>forest, hill, urban</environment>
   </monster>
   <monster>
-    <name>Medusa</name>
+    <name>Medusa [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Lawful Evil</alignment>
@@ -23323,7 +23323,7 @@ Source:	Monster Manual (2014) p. 214,
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Merfolk</name>
+    <name>Merfolk [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (merfolk)</type>
@@ -23370,7 +23370,7 @@ Source:	Monster Manual (2014) p. 218,
     <environment>underwater, coastal</environment>
   </monster>
   <monster>
-    <name>Merrow</name>
+    <name>Merrow [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -23434,7 +23434,7 @@ Source:	Monster Manual (2014) p. 219,
     <environment>underwater, coastal</environment>
   </monster>
   <monster>
-    <name>Mezzoloth</name>
+    <name>Mezzoloth [Legacy]</name>
     <sortname>Yugoloth, Mezzoloth</sortname>
     <ancestry>Yugoloth</ancestry>
     <size>M</size>
@@ -23534,7 +23534,7 @@ Source:	Monster Manual (2014) p. 313,
     <environment/>
   </monster>
   <monster>
-    <name>Mimic</name>
+    <name>Mimic [Legacy]</name>
     <size>M</size>
     <type>monstrosity (shapechanger)</type>
     <alignment>Neutral</alignment>
@@ -23606,7 +23606,7 @@ Source:	Monster Manual (2014) p. 220,
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Mind Flayer</name>
+    <name>Mind Flayer [Legacy]</name>
     <sortname>Mind Flayer</sortname>
     <ancestry>Mind Flayer</ancestry>
     <size>M</size>
@@ -23685,7 +23685,7 @@ Source:	Monster Manual (2014) p. 222,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Mind Flayer Arcanist</name>
+    <name>Mind Flayer Arcanist [Legacy]</name>
     <sortname>Mind Flayer, Arcanist</sortname>
     <ancestry>Mind Flayer</ancestry>
     <size>M</size>
@@ -23771,7 +23771,7 @@ Source:	Monster Manual (2014) p. 222,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Minotaur</name>
+    <name>Minotaur [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -23840,7 +23840,7 @@ Source:	Monster Manual (2014) p. 223,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Minotaur Skeleton</name>
+    <name>Minotaur Skeleton [Legacy]</name>
     <sortname>Skeleton, Minotaur</sortname>
     <ancestry>Skeleton</ancestry>
     <size>L</size>
@@ -23906,7 +23906,7 @@ Source:	Monster Manual (2014) p. 273,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Monodrone</name>
+    <name>Monodrone [Legacy]</name>
     <sortname>Modron, Monodrone</sortname>
     <ancestry>Modron</ancestry>
     <size>M</size>
@@ -23974,7 +23974,7 @@ Source:	Monster Manual (2014) p. 224,
     <environment/>
   </monster>
   <monster>
-    <name>Mud Mephit</name>
+    <name>Mud Mephit [Legacy]</name>
     <sortname>Mephit, Mud</sortname>
     <ancestry>Mephit</ancestry>
     <size>S</size>
@@ -24040,7 +24040,7 @@ Source:	Monster Manual (2014) p. 216,
     <environment>swamp</environment>
   </monster>
   <monster>
-    <name>Mule</name>
+    <name>Mule [Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -24083,7 +24083,7 @@ Source:	Monster Manual (2014) p. 216,
     <environment>hill, urban, desert</environment>
   </monster>
   <monster>
-    <name>Mummy</name>
+    <name>Mummy [Legacy]</name>
     <sortname>Mummy</sortname>
     <ancestry>Mummy</ancestry>
     <size>M</size>
@@ -24152,7 +24152,7 @@ Source:	Monster Manual (2014) p. 228,
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Mummy Lord</name>
+    <name>Mummy Lord [Legacy]</name>
     <sortname>Mummy, Lord</sortname>
     <ancestry>Mummy</ancestry>
     <size>M</size>
@@ -24301,7 +24301,7 @@ Source:	Monster Manual (2014) p. 229,
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Myconid Adult</name>
+    <name>Myconid Adult [Legacy]</name>
     <sortname>Myconid, Adult</sortname>
     <ancestry>Myconid</ancestry>
     <size>M</size>
@@ -24375,7 +24375,7 @@ Source:	Monster Manual (2014) p. 232,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Myconid Sovereign</name>
+    <name>Myconid Sovereign [Legacy]</name>
     <sortname>Myconid, Sovereign</sortname>
     <ancestry>Myconid</ancestry>
     <size>L</size>
@@ -24464,7 +24464,7 @@ Source:	Monster Manual (2014) p. 232,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Myconid Sprout</name>
+    <name>Myconid Sprout [Legacy]</name>
     <sortname>Myconid, Sprout</sortname>
     <ancestry>Myconid</ancestry>
     <size>S</size>
@@ -24521,7 +24521,7 @@ Source:	Monster Manual (2014) p. 230,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Nalfeshnee</name>
+    <name>Nalfeshnee [Legacy]</name>
     <sortname>Demon, Nalfeshnee</sortname>
     <ancestry>Demon</ancestry>
     <size>L</size>
@@ -24686,7 +24686,7 @@ Source:	Monster Manual (2014) p. 62,
     <environment/>
   </monster>
   <monster>
-    <name>Needle Blight</name>
+    <name>Needle Blight [Legacy]</name>
     <sortname>Blight, Needle</sortname>
     <ancestry>Blight</ancestry>
     <size>M</size>
@@ -24739,7 +24739,7 @@ Source:	Monster Manual (2014) p. 32,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Night Hag</name>
+    <name>Night Hag [Legacy]</name>
     <sortname>Hag, Night</sortname>
     <ancestry>Hag</ancestry>
     <size>M</size>
@@ -24870,7 +24870,7 @@ Source:	Monster Manual (2014) p. 178,
     <environment/>
   </monster>
   <monster>
-    <name>Nightmare</name>
+    <name>Nightmare [Legacy]</name>
     <size>L</size>
     <type>fiend</type>
     <alignment>Neutral Evil</alignment>
@@ -24926,7 +24926,7 @@ Source:	Monster Manual (2014) p. 235,
     <environment/>
   </monster>
   <monster>
-    <name>Noble</name>
+    <name>Noble [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -24983,7 +24983,7 @@ Source:	Monster Manual (2014) p. 348,
     <environment/>
   </monster>
   <monster>
-    <name>Nothic</name>
+    <name>Nothic [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -25050,7 +25050,7 @@ Source:	Monster Manual (2014) p. 236,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Nycaloth</name>
+    <name>Nycaloth [Legacy]</name>
     <sortname>Yugoloth, Nycaloth</sortname>
     <ancestry>Yugoloth</ancestry>
     <size>L</size>
@@ -25153,7 +25153,7 @@ Source:	Monster Manual (2014) p. 314,
     <environment/>
   </monster>
   <monster>
-    <name>Ochre Jelly</name>
+    <name>Ochre Jelly [Legacy]</name>
     <sortname>Ooze, Ochre Jelly</sortname>
     <ancestry>Ooze</ancestry>
     <size>L</size>
@@ -25226,7 +25226,7 @@ Source:	Monster Manual (2014) p. 243,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Octopus</name>
+    <name>Octopus [Legacy]</name>
     <size>S</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -25279,7 +25279,7 @@ Source:	Monster Manual (2014) p. 243,
     <environment/>
   </monster>
   <monster>
-    <name>Ogre</name>
+    <name>Ogre [Legacy]</name>
     <size>L</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -25346,7 +25346,7 @@ Source:	Monster Manual (2014) p. 237,
     <environment>grassland, forest, swamp, hill, desert, coastal, arctic, underdark, mountain</environment>
   </monster>
   <monster>
-    <name>Ogre Zombie</name>
+    <name>Ogre Zombie [Legacy]</name>
     <sortname>Zombie, Ogre</sortname>
     <ancestry>Zombie, Ogre</ancestry>
     <size>L</size>
@@ -25404,7 +25404,7 @@ Source:	Monster Manual (2014) p. 316,
     <environment/>
   </monster>
   <monster>
-    <name>Oni</name>
+    <name>Oni [Legacy]</name>
     <size>L</size>
     <type>giant</type>
     <alignment>Lawful Evil</alignment>
@@ -25480,7 +25480,7 @@ Source:	Monster Manual (2014) p. 239,
     <environment>forest, urban</environment>
   </monster>
   <monster>
-    <name>Orc</name>
+    <name>Orc [Legacy]</name>
     <sortname>Orc</sortname>
     <ancestry>Orc</ancestry>
     <npc>YES</npc>
@@ -25552,7 +25552,7 @@ Source:	Monster Manual (2014) p. 246,
     <environment>underdark, mountain, grassland, forest, swamp, hill, arctic</environment>
   </monster>
   <monster>
-    <name>Orc Eye of Gruumsh</name>
+    <name>Orc Eye of Gruumsh [Legacy]</name>
     <sortname>Orc, Eye of Gruumsh</sortname>
     <ancestry>Orc</ancestry>
     <npc>YES</npc>
@@ -25633,7 +25633,7 @@ Source:	Monster Manual (2014) p. 247,
     <environment>underdark, mountain, grassland, forest, swamp, hill, arctic</environment>
   </monster>
   <monster>
-    <name>Orc War Chief</name>
+    <name>Orc War Chief [Legacy]</name>
     <sortname>Orc, War Chief</sortname>
     <ancestry>Orc</ancestry>
     <npc>YES</npc>
@@ -25724,7 +25724,7 @@ Source:	Monster Manual (2014) p. 246,
     <environment>underdark, mountain, grassland, forest, swamp, hill, arctic</environment>
   </monster>
   <monster>
-    <name>Orog</name>
+    <name>Orog [Legacy]</name>
     <sortname>Orc, Orog</sortname>
     <ancestry>Orc</ancestry>
     <npc>YES</npc>
@@ -25806,7 +25806,7 @@ Source:	Monster Manual (2014) p. 247,
     <environment>underdark, mountain, grassland, forest, hill, arctic</environment>
   </monster>
   <monster>
-    <name>Otyugh</name>
+    <name>Otyugh [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Neutral</alignment>
@@ -25875,7 +25875,7 @@ Source:	Monster Manual (2014) p. 248,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Owl</name>
+    <name>Owl [Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -25918,7 +25918,7 @@ Source:	Monster Manual (2014) p. 248,
     <environment>forest, arctic</environment>
   </monster>
   <monster>
-    <name>Owlbear</name>
+    <name>Owlbear [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -25989,7 +25989,7 @@ Source:	Monster Manual (2014) p. 249,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Panther</name>
+    <name>Panther [Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -26037,7 +26037,7 @@ Source:	Monster Manual (2014) p. 249,
     <environment>grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Pegasus</name>
+    <name>Pegasus [Legacy]</name>
     <size>L</size>
     <type>celestial</type>
     <alignment>Chaotic Good</alignment>
@@ -26079,7 +26079,7 @@ Source:	Monster Manual (2014) p. 250,
     <environment>grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Pentadrone</name>
+    <name>Pentadrone [Legacy]</name>
     <sortname>Modron, Pentadrone</sortname>
     <ancestry>Modron</ancestry>
     <size>L</size>
@@ -26150,7 +26150,7 @@ Source:	Monster Manual (2014) p. 226,
     <environment/>
   </monster>
   <monster>
-    <name>Peryton</name>
+    <name>Peryton [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -26218,7 +26218,7 @@ Source:	Monster Manual (2014) p. 251,
     <environment>mountain, hill</environment>
   </monster>
   <monster>
-    <name>Phase Spider</name>
+    <name>Phase Spider [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -26271,7 +26271,7 @@ Source:	Monster Manual (2014) p. 334,
     <environment>underdark, grassland, forest, hill, urban, desert</environment>
   </monster>
   <monster>
-    <name>Piercer</name>
+    <name>Piercer [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -26323,7 +26323,7 @@ Source:	Monster Manual (2014) p. 252,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Pit Fiend</name>
+    <name>Pit Fiend [Legacy]</name>
     <sortname>Devil, Pit Fiend</sortname>
     <ancestry>Devil</ancestry>
     <size>L</size>
@@ -26485,7 +26485,7 @@ Source:	Monster Manual (2014) p. 77,
     <environment/>
   </monster>
   <monster>
-    <name>Pixie</name>
+    <name>Pixie [Legacy]</name>
     <size>T</size>
     <type>fey</type>
     <alignment>Neutral Good</alignment>
@@ -26543,7 +26543,7 @@ Source:	Monster Manual (2014) p. 253,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Planetar</name>
+    <name>Planetar [Legacy]</name>
     <sortname>Angel, Planetar</sortname>
     <ancestry>Angel</ancestry>
     <size>L</size>
@@ -26626,7 +26626,7 @@ Source:	Monster Manual (2014) p. 17,
     <environment/>
   </monster>
   <monster>
-    <name>Plesiosaurus</name>
+    <name>Plesiosaurus [Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -26671,7 +26671,7 @@ Source:	Monster Manual (2014) p. 80,
     <environment>underwater, coastal</environment>
   </monster>
   <monster>
-    <name>Poisonous Snake</name>
+    <name>Poisonous Snake [Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -26708,7 +26708,7 @@ Source:	Monster Manual (2014) p. 80,
     <environment>grassland, forest, swamp, hill, desert, coastal</environment>
   </monster>
   <monster>
-    <name>Polar Bear</name>
+    <name>Polar Bear [Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -26759,7 +26759,7 @@ Source:	Monster Manual (2014) p. 80,
     <environment>underdark, arctic</environment>
   </monster>
   <monster>
-    <name>Poltergeist</name>
+    <name>Poltergeist [Legacy]</name>
     <sortname>Specter, Poltergeist</sortname>
     <ancestry>Specter</ancestry>
     <size>M</size>
@@ -26829,7 +26829,7 @@ Source:	Monster Manual (2014) p. 279,
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Pony</name>
+    <name>Pony [Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -26862,7 +26862,7 @@ Source:	Monster Manual (2014) p. 279,
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Priest</name>
+    <name>Priest [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -26934,7 +26934,7 @@ Source:	Monster Manual (2014) p. 348,
     <environment/>
   </monster>
   <monster>
-    <name>Pseudodragon</name>
+    <name>Pseudodragon [Legacy]</name>
     <size>T</size>
     <type>dragon</type>
     <alignment>Neutral Good</alignment>
@@ -27006,7 +27006,7 @@ Source:	Monster Manual (2014) p. 254,
     <environment>mountain, forest, hill, urban, desert, coastal</environment>
   </monster>
   <monster>
-    <name>Pteranodon</name>
+    <name>Pteranodon [Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -27051,7 +27051,7 @@ Source:	Monster Manual (2014) p. 80,
     <environment>mountain, grassland, coastal</environment>
   </monster>
   <monster>
-    <name>Purple Worm</name>
+    <name>Purple Worm [Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -27112,7 +27112,7 @@ Source:	Monster Manual (2014) p. 255,
     <environment>underdark, desert</environment>
   </monster>
   <monster>
-    <name>Quadrone</name>
+    <name>Quadrone [Legacy]</name>
     <sortname>Modron, Quadrone</sortname>
     <ancestry>Modron</ancestry>
     <size>M</size>
@@ -27184,7 +27184,7 @@ Source:	Monster Manual (2014) p. 226,
     <environment/>
   </monster>
   <monster>
-    <name>Quaggoth</name>
+    <name>Quaggoth [Legacy]</name>
     <sortname>Quaggoth</sortname>
     <ancestry>Quaggoth</ancestry>
     <size>M</size>
@@ -27240,7 +27240,7 @@ Source:	Monster Manual (2014) p. 256,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Quaggoth Spore Servant</name>
+    <name>Quaggoth Spore Servant [Legacy]</name>
     <sortname>Myconid, Quaggoth Spore Servant</sortname>
     <ancestry>Myconid</ancestry>
     <size>M</size>
@@ -27303,7 +27303,7 @@ Source:	Monster Manual (2014) p. 230,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Quaggoth Thonot</name>
+    <name>Quaggoth Thonot [Legacy]</name>
     <sortname>Quaggoth, Thonot</sortname>
     <ancestry>Quaggoth</ancestry>
     <size>M</size>
@@ -27366,7 +27366,7 @@ Source:	Monster Manual (2014) p. 256,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Quasit</name>
+    <name>Quasit [Legacy]</name>
     <sortname>Demon, Quasit</sortname>
     <ancestry>Demon</ancestry>
     <size>T</size>
@@ -27520,7 +27520,7 @@ Source:	Monster Manual (2014) p. 63,
     <environment/>
   </monster>
   <monster>
-    <name>Quipper</name>
+    <name>Quipper [Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -27567,7 +27567,7 @@ Source:	Monster Manual (2014) p. 335,
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Rakshasa</name>
+    <name>Rakshasa [Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>Lawful Evil</alignment>
@@ -27629,7 +27629,7 @@ Source:	Monster Manual (2014) p. 257,
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Rat</name>
+    <name>Rat [Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -27672,7 +27672,7 @@ Source:	Monster Manual (2014) p. 257,
     <environment>swamp, urban</environment>
   </monster>
   <monster>
-    <name>Raven</name>
+    <name>Raven [Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -27710,7 +27710,7 @@ Source:	Monster Manual (2014) p. 257,
     <environment>swamp, hill, urban</environment>
   </monster>
   <monster>
-    <name>Red Dragon Wyrmling</name>
+    <name>Red Dragon Wyrmling [Legacy]</name>
     <sortname>Red Dragon, Wyrmling</sortname>
     <ancestry>Dragon, Red Dragon</ancestry>
     <size>M</size>
@@ -27797,7 +27797,7 @@ Source:	Monster Manual (2014) p. 98,
     <environment/>
   </monster>
   <monster>
-    <name>Red Slaad</name>
+    <name>Red Slaad [Legacy]</name>
     <sortname>Slaad, Red</sortname>
     <ancestry>Slaad</ancestry>
     <size>L</size>
@@ -27877,7 +27877,7 @@ Source:	Monster Manual (2014) p. 276,
     <environment/>
   </monster>
   <monster>
-    <name>Reef Shark</name>
+    <name>Reef Shark [Legacy]</name>
     <sortname>Shark, Reef</sortname>
     <ancestry>Shark</ancestry>
     <size>M</size>
@@ -27924,7 +27924,7 @@ Source:	Monster Manual (2014) p. 336,
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Remorhaz</name>
+    <name>Remorhaz [Legacy]</name>
     <sortname>Remorhaz</sortname>
     <ancestry>Remorhaz</ancestry>
     <size>H</size>
@@ -27984,7 +27984,7 @@ Source:	Monster Manual (2014) p. 258,
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Revenant</name>
+    <name>Revenant [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral</alignment>
@@ -28060,7 +28060,7 @@ Source:	Monster Manual (2014) p. 259,
     <environment>forest, swamp, hill, urban, desert, arctic</environment>
   </monster>
   <monster>
-    <name>Rhinoceros</name>
+    <name>Rhinoceros [Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -28100,7 +28100,7 @@ Source:	Monster Manual (2014) p. 259,
     <environment>grassland</environment>
   </monster>
   <monster>
-    <name>Riding Horse</name>
+    <name>Riding Horse [Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -28139,7 +28139,7 @@ Source:	Monster Manual (2014) p. 259,
     <environment>grassland, urban</environment>
   </monster>
   <monster>
-    <name>Roc</name>
+    <name>Roc [Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -28200,7 +28200,7 @@ Source:	Monster Manual (2014) p. 260,
     <environment>mountain, hill, desert, coastal, arctic</environment>
   </monster>
   <monster>
-    <name>Roper</name>
+    <name>Roper [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -28269,7 +28269,7 @@ Source:	Monster Manual (2014) p. 261,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Rug of Smothering</name>
+    <name>Rug of Smothering [Legacy]</name>
     <sortname>Animated Object, Rug of Smothering</sortname>
     <ancestry>Animated Object</ancestry>
     <size>L</size>
@@ -28335,7 +28335,7 @@ Source:	Monster Manual (2014) p. 20,
     <environment/>
   </monster>
   <monster>
-    <name>Rust Monster</name>
+    <name>Rust Monster [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -28395,7 +28395,7 @@ Source:	Monster Manual (2014) p. 262,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Saber-Toothed Tiger</name>
+    <name>Saber-Toothed Tiger [Legacy]</name>
     <sortname>Tiger, Saber-Toothed</sortname>
     <ancestry>Tiger</ancestry>
     <size>L</size>
@@ -28445,7 +28445,7 @@ Source:	Monster Manual (2014) p. 262,
     <environment>mountain, arctic</environment>
   </monster>
   <monster>
-    <name>Sahuagin</name>
+    <name>Sahuagin [Legacy]</name>
     <sortname>Sahuagin</sortname>
     <ancestry>Sahuagin</ancestry>
     <size>M</size>
@@ -28524,7 +28524,7 @@ Source:	Monster Manual (2014) p. 263,
     <environment>underwater, coastal</environment>
   </monster>
   <monster>
-    <name>Sahuagin Baron</name>
+    <name>Sahuagin Baron [Legacy]</name>
     <sortname>Sahuagin, Baron</sortname>
     <ancestry>Sahuagin</ancestry>
     <size>L</size>
@@ -28600,7 +28600,7 @@ Source:	Monster Manual (2014) p. 264,
     <environment>underwater, coastal</environment>
   </monster>
   <monster>
-    <name>Sahuagin Priestess</name>
+    <name>Sahuagin Priestess [Legacy]</name>
     <sortname>Sahuagin, Priestess</sortname>
     <ancestry>Sahuagin</ancestry>
     <size>M</size>
@@ -28683,7 +28683,7 @@ Source:	Monster Manual (2014) p. 264,
     <environment>underwater, coastal</environment>
   </monster>
   <monster>
-    <name>Salamander</name>
+    <name>Salamander [Legacy]</name>
     <sortname>Salamander</sortname>
     <ancestry>Salamander</ancestry>
     <size>L</size>
@@ -28761,7 +28761,7 @@ Source:	Monster Manual (2014) p. 266,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Satyr</name>
+    <name>Satyr [Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Chaotic Neutral</alignment>
@@ -28828,7 +28828,7 @@ Source:	Monster Manual (2014) p. 267,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Scarecrow</name>
+    <name>Scarecrow [Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Chaotic Evil</alignment>
@@ -28880,7 +28880,7 @@ Source:	Monster Manual (2014) p. 268,
     <environment>grassland</environment>
   </monster>
   <monster>
-    <name>Scorpion</name>
+    <name>Scorpion [Legacy]</name>
     <sortname>Scorpion</sortname>
     <ancestry>Scorpion</ancestry>
     <size>T</size>
@@ -28916,7 +28916,7 @@ Source:	Monster Manual (2014) p. 268,
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Scout</name>
+    <name>Scout [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -28980,7 +28980,7 @@ Source:	Monster Manual (2014) p. 349,
     <environment/>
   </monster>
   <monster>
-    <name>Sea Hag</name>
+    <name>Sea Hag [Legacy]</name>
     <sortname>Hag, Sea</sortname>
     <ancestry>Hag</ancestry>
     <size>M</size>
@@ -29095,7 +29095,7 @@ Source:	Monster Manual (2014) p. 179,
     <environment>underwater, coastal</environment>
   </monster>
   <monster>
-    <name>Sea Horse</name>
+    <name>Sea Horse [Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -29126,7 +29126,7 @@ Source:	Monster Manual (2014) p. 179,
     <environment/>
   </monster>
   <monster>
-    <name>Shadow</name>
+    <name>Shadow [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -29191,7 +29191,7 @@ Source:	Monster Manual (2014) p. 269,
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Shadow Demon</name>
+    <name>Shadow Demon [Legacy]</name>
     <sortname>Demon, Shadow</sortname>
     <ancestry>Demon</ancestry>
     <size>M</size>
@@ -29343,7 +29343,7 @@ Source:	Monster Manual (2014) p. 64,
     <environment/>
   </monster>
   <monster>
-    <name>Shambling Mound</name>
+    <name>Shambling Mound [Legacy]</name>
     <size>L</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -29410,7 +29410,7 @@ Source:	Monster Manual (2014) p. 270,
     <environment>forest, swamp</environment>
   </monster>
   <monster>
-    <name>Shield Guardian</name>
+    <name>Shield Guardian [Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -29481,7 +29481,7 @@ Source:	Monster Manual (2014) p. 271,
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Shrieker</name>
+    <name>Shrieker [Legacy]</name>
     <sortname>Fungi, Shrieker</sortname>
     <ancestry>Fungi</ancestry>
     <size>M</size>
@@ -29528,7 +29528,7 @@ Source:	Monster Manual (2014) p. 138,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Silver Dragon Wyrmling</name>
+    <name>Silver Dragon Wyrmling [Legacy]</name>
     <sortname>Silver Dragon, Wyrmling</sortname>
     <ancestry>Dragon, Silver Dragon</ancestry>
     <size>M</size>
@@ -29615,7 +29615,7 @@ Source:	Monster Manual (2014) p. 118,
     <environment/>
   </monster>
   <monster>
-    <name>Skeleton</name>
+    <name>Skeleton [Legacy]</name>
     <sortname>Skeleton</sortname>
     <ancestry>Skeleton</ancestry>
     <size>M</size>
@@ -29688,7 +29688,7 @@ Source:	Monster Manual (2014) p. 272,
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Slaad Tadpole</name>
+    <name>Slaad Tadpole [Legacy]</name>
     <sortname>Slaad, Tadpole</sortname>
     <ancestry>Slaad</ancestry>
     <size>T</size>
@@ -29738,7 +29738,7 @@ Source:	Monster Manual (2014) p. 276,
     <environment/>
   </monster>
   <monster>
-    <name>Smoke Mephit</name>
+    <name>Smoke Mephit [Legacy]</name>
     <sortname>Mephit, Smoke</sortname>
     <ancestry>Mephit</ancestry>
     <size>S</size>
@@ -29809,7 +29809,7 @@ Source:	Monster Manual (2014) p. 217,
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Solar</name>
+    <name>Solar [Legacy]</name>
     <sortname>Angel, Solar</sortname>
     <ancestry>Angel</ancestry>
     <size>L</size>
@@ -29923,7 +29923,7 @@ Source:	Monster Manual (2014) p. 18,
     <environment/>
   </monster>
   <monster>
-    <name>Spectator</name>
+    <name>Spectator [Legacy]</name>
     <sortname>Beholder, Spectator</sortname>
     <ancestry>Beholder</ancestry>
     <size>M</size>
@@ -29992,7 +29992,7 @@ Source:	Monster Manual (2014) p. 30,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Specter</name>
+    <name>Specter [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -30062,7 +30062,7 @@ Source:	Monster Manual (2014) p. 279,
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Spider</name>
+    <name>Spider [Legacy]</name>
     <sortname>Spider</sortname>
     <ancestry>Spider</ancestry>
     <size>T</size>
@@ -30111,7 +30111,7 @@ Source:	Monster Manual (2014) p. 279,
     <environment/>
   </monster>
   <monster>
-    <name>Spined Devil</name>
+    <name>Spined Devil [Legacy]</name>
     <sortname>Devil, Spined</sortname>
     <ancestry>Devil</ancestry>
     <size>S</size>
@@ -30251,7 +30251,7 @@ Source:	Monster Manual (2014) p. 78,
     <environment/>
   </monster>
   <monster>
-    <name>Spirit Naga</name>
+    <name>Spirit Naga [Legacy]</name>
     <sortname>Naga, Spirit</sortname>
     <ancestry>Naga</ancestry>
     <size>L</size>
@@ -30323,7 +30323,7 @@ Source:	Monster Manual (2014) p. 234,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Sprite</name>
+    <name>Sprite [Legacy]</name>
     <size>T</size>
     <type>fey</type>
     <alignment>Neutral Good</alignment>
@@ -30390,7 +30390,7 @@ Source:	Monster Manual (2014) p. 283,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Spy</name>
+    <name>Spy [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -30460,7 +30460,7 @@ Source:	Monster Manual (2014) p. 349,
     <environment/>
   </monster>
   <monster>
-    <name>Steam Mephit</name>
+    <name>Steam Mephit [Legacy]</name>
     <sortname>Mephit, Steam</sortname>
     <ancestry>Mephit</ancestry>
     <size>S</size>
@@ -30535,7 +30535,7 @@ Source:	Monster Manual (2014) p. 217,
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Stirge</name>
+    <name>Stirge [Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -30587,7 +30587,7 @@ Source:	Monster Manual (2014) p. 284,
     <environment>grassland, forest, swamp, hill, urban, desert, coastal, mountain, underdark</environment>
   </monster>
   <monster>
-    <name>Stone Giant</name>
+    <name>Stone Giant [Legacy]</name>
     <sortname>Giant, Stone</sortname>
     <ancestry>Giant</ancestry>
     <size>H</size>
@@ -30683,7 +30683,7 @@ Source:	Monster Manual (2014) p. 156,
     <environment>underdark, mountain, hill</environment>
   </monster>
   <monster>
-    <name>Stone Golem</name>
+    <name>Stone Golem [Legacy]</name>
     <sortname>Golem, Stone</sortname>
     <ancestry>Golem</ancestry>
     <size>L</size>
@@ -30767,7 +30767,7 @@ Source:	Monster Manual (2014) p. 170,
     <environment/>
   </monster>
   <monster>
-    <name>Storm Giant</name>
+    <name>Storm Giant [Legacy]</name>
     <sortname>Giant, Storm</sortname>
     <ancestry>Giant</ancestry>
     <size>H</size>
@@ -30868,7 +30868,7 @@ Source:	Monster Manual (2014) p. 156,
     <environment>coastal</environment>
   </monster>
   <monster>
-    <name>Succubus</name>
+    <name>Succubus [Legacy]</name>
     <sortname>Succubus</sortname>
     <ancestry>Succubus</ancestry>
     <size>M</size>
@@ -30944,7 +30944,7 @@ Source:	Monster Manual (2014) p. 285,
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Swarm of Bats</name>
+    <name>Swarm of Bats [Legacy]</name>
     <sortname>Bat, Swarm</sortname>
     <ancestry>Bat</ancestry>
     <size>M</size>
@@ -31001,7 +31001,7 @@ Source:	Monster Manual (2014) p. 337,
     <environment>underdark, mountain, hill, urban</environment>
   </monster>
   <monster>
-    <name>Swarm of Beetles</name>
+    <name>Swarm of Beetles [Legacy]</name>
     <sortname>Beetle, Swarm</sortname>
     <ancestry>Beetle</ancestry>
     <size>M</size>
@@ -31043,7 +31043,7 @@ Source:	Monster Manual (2014) p. 338</description>
     <environment>underdark, grassland, forest, swamp, hill, urban, desert</environment>
   </monster>
   <monster>
-    <name>Swarm of Centipedes</name>
+    <name>Swarm of Centipedes [Legacy]</name>
     <sortname>Centipede, Swarm</sortname>
     <ancestry>Centipede</ancestry>
     <size>M</size>
@@ -31088,7 +31088,7 @@ Source:	Monster Manual (2014) p. 338,
     <environment>underdark, grassland, forest, swamp, hill, urban, desert</environment>
   </monster>
   <monster>
-    <name>Swarm of Insects</name>
+    <name>Swarm of Insects [Legacy]</name>
     <sortname>Insect, Swarm</sortname>
     <ancestry>Insect</ancestry>
     <size>M</size>
@@ -31137,7 +31137,7 @@ Source:	Monster Manual (2014) p. 338,
     <environment>underdark, grassland, forest, swamp, hill, urban, desert</environment>
   </monster>
   <monster>
-    <name>Swarm of Poisonous Snakes</name>
+    <name>Swarm of Poisonous Snakes [Legacy]</name>
     <sortname>Poisonous Snake, Swarm</sortname>
     <ancestry>Poisonous Snake</ancestry>
     <size>M</size>
@@ -31188,7 +31188,7 @@ Source:	Monster Manual (2014) p. 338,
     <environment>forest, swamp</environment>
   </monster>
   <monster>
-    <name>Swarm of Quippers</name>
+    <name>Swarm of Quippers [Legacy]</name>
     <sortname>Quipper, Swarm</sortname>
     <ancestry>Quipper</ancestry>
     <size>M</size>
@@ -31245,7 +31245,7 @@ Source:	Monster Manual (2014) p. 338,
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Swarm of Rats</name>
+    <name>Swarm of Rats [Legacy]</name>
     <sortname>Rat, Swarm</sortname>
     <ancestry>Rat</ancestry>
     <size>M</size>
@@ -31299,7 +31299,7 @@ Source:	Monster Manual (2014) p. 339,
     <environment>swamp, urban</environment>
   </monster>
   <monster>
-    <name>Swarm of Ravens</name>
+    <name>Swarm of Ravens [Legacy]</name>
     <sortname>Raven, Swarm</sortname>
     <ancestry>Raven</ancestry>
     <size>M</size>
@@ -31348,7 +31348,7 @@ Source:	Monster Manual (2014) p. 339,
     <environment>forest, swamp, hill, urban</environment>
   </monster>
   <monster>
-    <name>Swarm of Spiders</name>
+    <name>Swarm of Spiders [Legacy]</name>
     <sortname>Spider, Swarm</sortname>
     <ancestry>Spider</ancestry>
     <size>M</size>
@@ -31409,7 +31409,7 @@ Source:	Monster Manual (2014) p. 338,
     <environment>underdark, grassland, forest, swamp, hill, urban, desert</environment>
   </monster>
   <monster>
-    <name>Swarm of Wasps</name>
+    <name>Swarm of Wasps [Legacy]</name>
     <sortname>Wasp, Swarm</sortname>
     <ancestry>Wasp</ancestry>
     <size>M</size>
@@ -31454,7 +31454,7 @@ Source:	Monster Manual (2014) p. 338,
     <environment>underdark, grassland, forest, swamp, hill, urban, desert</environment>
   </monster>
   <monster>
-    <name>Tarrasque</name>
+    <name>Tarrasque [Legacy]</name>
     <size>G</size>
     <type>monstrosity (titan)</type>
     <alignment>Unaligned</alignment>
@@ -31559,7 +31559,7 @@ Source:	Monster Manual (2014) p. 286,
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Thri-kreen</name>
+    <name>Thri-kreen [Legacy]</name>
     <size>M</size>
     <type>humanoid (thri-kreen)</type>
     <alignment>Chaotic Neutral</alignment>
@@ -31636,7 +31636,7 @@ Source:	Monster Manual (2014) p. 288</description>
     <environment>grassland, desert</environment>
   </monster>
   <monster>
-    <name>Thug</name>
+    <name>Thug [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -31697,7 +31697,7 @@ Source:	Monster Manual (2014) p. 350,
     <environment/>
   </monster>
   <monster>
-    <name>Tiger</name>
+    <name>Tiger [Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -31747,7 +31747,7 @@ Source:	Monster Manual (2014) p. 350,
     <environment>grassland, forest</environment>
   </monster>
   <monster>
-    <name>Treant</name>
+    <name>Treant [Legacy]</name>
     <size>H</size>
     <type>plant</type>
     <alignment>Chaotic Good</alignment>
@@ -31821,7 +31821,7 @@ Source:	Monster Manual (2014) p. 289,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Tribal Warrior</name>
+    <name>Tribal Warrior [Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Any alignment</alignment>
@@ -31869,7 +31869,7 @@ Source:	Monster Manual (2014) p. 350,
     <environment/>
   </monster>
   <monster>
-    <name>Triceratops</name>
+    <name>Triceratops [Legacy]</name>
     <sortname>Dinosaur, Triceratops</sortname>
     <ancestry>Dinosaur</ancestry>
     <size>H</size>
@@ -31919,7 +31919,7 @@ Source:	Monster Manual (2014) p. 80,
     <environment>grassland</environment>
   </monster>
   <monster>
-    <name>Tridrone</name>
+    <name>Tridrone [Legacy]</name>
     <sortname>Modron, Tridone</sortname>
     <ancestry>Modron</ancestry>
     <size>M</size>
@@ -31990,7 +31990,7 @@ Source:	Monster Manual (2014) p. 225,
     <environment/>
   </monster>
   <monster>
-    <name>Troglodyte</name>
+    <name>Troglodyte [Legacy]</name>
     <size>M</size>
     <type>humanoid (troglodyte)</type>
     <alignment>Chaotic Evil</alignment>
@@ -32056,7 +32056,7 @@ Source:	Monster Manual (2014) p. 290,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Troll</name>
+    <name>Troll [Legacy]</name>
     <size>L</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -32140,7 +32140,7 @@ Source:	Monster Manual (2014) p. 291,
     <environment>underdark, mountain, forest, swamp, hill, arctic</environment>
   </monster>
   <monster>
-    <name>Twig Blight</name>
+    <name>Twig Blight [Legacy]</name>
     <sortname>Blight, Twig</sortname>
     <ancestry>Blight</ancestry>
     <size>S</size>
@@ -32197,7 +32197,7 @@ Source:	Monster Manual (2014) p. 32,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Tyrannosaurus Rex</name>
+    <name>Tyrannosaurus Rex [Legacy]</name>
     <sortname>Dinosaur, Tyrannosaurus Rex</sortname>
     <ancestry>Dinosaur</ancestry>
     <size>H</size>
@@ -32248,7 +32248,7 @@ Source:	Monster Manual (2014) p. 80,
     <environment>grassland</environment>
   </monster>
   <monster>
-    <name>Ultroloth</name>
+    <name>Ultroloth [Legacy]</name>
     <sortname>Yugoloth, Ultroloth</sortname>
     <ancestry>Yugoloth</ancestry>
     <size>M</size>
@@ -32350,7 +32350,7 @@ Source:	Monster Manual (2014) p. 314,
     <environment/>
   </monster>
   <monster>
-    <name>Umber Hulk</name>
+    <name>Umber Hulk [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -32416,7 +32416,7 @@ Source:	Monster Manual (2014) p. 292,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Unicorn</name>
+    <name>Unicorn [Legacy]</name>
     <size>L</size>
     <type>celestial</type>
     <alignment>Lawful Good</alignment>
@@ -32545,7 +32545,7 @@ Source:	Monster Manual (2014) p. 294,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Vampire</name>
+    <name>Vampire [Legacy]</name>
     <sortname>Vampire</sortname>
     <ancestry>Vampire</ancestry>
     <size>M</size>
@@ -32698,7 +32698,7 @@ Source:	Monster Manual (2014) p. 297,
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Vampire Spawn</name>
+    <name>Vampire Spawn [Legacy]</name>
     <sortname>Vampire, Spawn</sortname>
     <ancestry>Vampire</ancestry>
     <size>M</size>
@@ -32793,7 +32793,7 @@ Source:	Monster Manual (2014) p. 298,
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Vampire Spellcaster</name>
+    <name>Vampire Spellcaster [Legacy]</name>
     <sortname>Vampire, Spellcaster</sortname>
     <ancestry>Vampire</ancestry>
     <size>M</size>
@@ -32957,7 +32957,7 @@ Source:	Monster Manual (2014) p. 298,
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Vampire Warrior</name>
+    <name>Vampire Warrior [Legacy]</name>
     <sortname>Vampire, Warrior</sortname>
     <ancestry>Vampire</ancestry>
     <size>M</size>
@@ -33115,7 +33115,7 @@ Source:	Monster Manual (2014) p. 298</description>
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Veteran</name>
+    <name>Veteran [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -33183,7 +33183,7 @@ Source:	Monster Manual (2014) p. 350,
     <environment/>
   </monster>
   <monster>
-    <name>Vine Blight</name>
+    <name>Vine Blight [Legacy]</name>
     <sortname>Blight, Vine</sortname>
     <ancestry>Blight</ancestry>
     <size>M</size>
@@ -33241,7 +33241,7 @@ Source:	Monster Manual (2014) p. 32,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Violet Fungus</name>
+    <name>Violet Fungus [Legacy]</name>
     <sortname>Fungi, Violet Fungus</sortname>
     <ancestry>Fungi</ancestry>
     <size>M</size>
@@ -33294,7 +33294,7 @@ Source:	Monster Manual (2014) p. 138,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Vrock</name>
+    <name>Vrock [Legacy]</name>
     <sortname>Demon, Vrock</sortname>
     <ancestry>Demon</ancestry>
     <size>L</size>
@@ -33462,7 +33462,7 @@ Source:	Monster Manual (2014) p. 64,
     <environment/>
   </monster>
   <monster>
-    <name>Vulture</name>
+    <name>Vulture [Legacy]</name>
     <sortname>Vulture</sortname>
     <ancestry>Vulture</ancestry>
     <size>M</size>
@@ -33507,7 +33507,7 @@ Source:	Monster Manual (2014) p. 64,
     <environment>grassland, hill, desert</environment>
   </monster>
   <monster>
-    <name>Warhorse</name>
+    <name>Warhorse [Legacy]</name>
     <sortname>Horse, Warhorse</sortname>
     <ancestry>Horse</ancestry>
     <size>L</size>
@@ -33566,7 +33566,7 @@ AC | Barding
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Warhorse Skeleton</name>
+    <name>Warhorse Skeleton [Legacy]</name>
     <sortname>Skeleton, Warhorse</sortname>
     <ancestry>Skeleton, Horse</ancestry>
     <size>L</size>
@@ -33616,7 +33616,7 @@ Source:	Monster Manual (2014) p. 273,
     <environment/>
   </monster>
   <monster>
-    <name>Water Elemental</name>
+    <name>Water Elemental [Legacy]</name>
     <sortname>Elemental, Water</sortname>
     <ancestry>Elemental</ancestry>
     <size>L</size>
@@ -33693,7 +33693,7 @@ Source:	Monster Manual (2014) p. 125,
     <environment>underwater, swamp, coastal</environment>
   </monster>
   <monster>
-    <name>Water Weird</name>
+    <name>Water Weird [Legacy]</name>
     <size>L</size>
     <type>elemental</type>
     <alignment>Neutral</alignment>
@@ -33746,7 +33746,7 @@ Source:	Monster Manual (2014) p. 299,
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Weasel</name>
+    <name>Weasel [Legacy]</name>
     <sortname>Weasel</sortname>
     <ancestry>Weasel</ancestry>
     <size>T</size>
@@ -33785,7 +33785,7 @@ Source:	Monster Manual (2014) p. 299,
     <environment/>
   </monster>
   <monster>
-    <name>Werebear</name>
+    <name>Werebear [Legacy]</name>
     <sortname>Lycanthrope, Werebear</sortname>
     <ancestry>Lycanthrope</ancestry>
     <size>M</size>
@@ -33874,7 +33874,7 @@ Source:	Monster Manual (2014) p. 208,
     <environment>forest, hill, arctic</environment>
   </monster>
   <monster>
-    <name>Wereboar</name>
+    <name>Wereboar [Legacy]</name>
     <sortname>Lycanthrope, Wereboar</sortname>
     <ancestry>Lycanthrope</ancestry>
     <size>M</size>
@@ -33968,7 +33968,7 @@ Source:	Monster Manual (2014) p. 209,
     <environment>grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Wererat</name>
+    <name>Wererat [Legacy]</name>
     <sortname>Lycanthrope, Wererat</sortname>
     <ancestry>Lycanthrope</ancestry>
     <size>M</size>
@@ -34063,7 +34063,7 @@ Source:	Monster Manual (2014) p. 209,
     <environment>forest, urban</environment>
   </monster>
   <monster>
-    <name>Weretiger</name>
+    <name>Weretiger [Legacy]</name>
     <sortname>Lycanthrope, Weretiger</sortname>
     <ancestry>Lycanthrope</ancestry>
     <size>M</size>
@@ -34160,7 +34160,7 @@ Source:	Monster Manual (2014) p. 210,
     <environment>grassland, forest, desert</environment>
   </monster>
   <monster>
-    <name>Werewolf</name>
+    <name>Werewolf [Legacy]</name>
     <sortname>Lycanthrope, Werewolf</sortname>
     <ancestry>Lycanthrope</ancestry>
     <size>M</size>
@@ -34257,7 +34257,7 @@ Source:	Monster Manual (2014) p. 211,
     <environment>forest, hill</environment>
   </monster>
   <monster>
-    <name>White Dragon Wyrmling</name>
+    <name>White Dragon Wyrmling [Legacy]</name>
     <sortname>White Dragon, Wyrmling</sortname>
     <ancestry>Dragon, White Dragon</ancestry>
     <size>M</size>
@@ -34344,7 +34344,7 @@ Source:	Monster Manual (2014) p. 102,
     <environment/>
   </monster>
   <monster>
-    <name>Wight</name>
+    <name>Wight [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -34419,7 +34419,7 @@ Source:	Monster Manual (2014) p. 300,
     <environment>underdark, swamp, urban, desert</environment>
   </monster>
   <monster>
-    <name>Will-o'-Wisp</name>
+    <name>Will-o'-Wisp [Legacy]</name>
     <size>T</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -34494,7 +34494,7 @@ Source:	Monster Manual (2014) p. 301,
     <environment>forest, swamp, urban</environment>
   </monster>
   <monster>
-    <name>Winged Kobold</name>
+    <name>Winged Kobold [Legacy]</name>
     <sortname>Kobold, Winged</sortname>
     <ancestry>Kobold</ancestry>
     <size>S</size>
@@ -34552,7 +34552,7 @@ Source:	Monster Manual (2014) p. 195,
     <environment>forest, swamp, hill, urban, desert, coastal, arctic, mountain, underdark</environment>
   </monster>
   <monster>
-    <name>Winter Wolf</name>
+    <name>Winter Wolf [Legacy]</name>
     <sortname>Wolf, Winter</sortname>
     <ancestry>Wolf</ancestry>
     <size>L</size>
@@ -34610,7 +34610,7 @@ Source:	Monster Manual (2014) p. 340,
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Wolf</name>
+    <name>Wolf [Legacy]</name>
     <sortname>Wolf</sortname>
     <ancestry>Wolf</ancestry>
     <size>M</size>
@@ -34662,7 +34662,7 @@ Source:	Monster Manual (2014) p. 340,
     <environment>grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Worg</name>
+    <name>Worg [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -34705,7 +34705,7 @@ Source:	Monster Manual (2014) p. 341,
     <environment>grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Wraith</name>
+    <name>Wraith [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -34777,7 +34777,7 @@ Source:	Monster Manual (2014) p. 302,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Wyvern</name>
+    <name>Wyvern [Legacy]</name>
     <size>L</size>
     <type>dragon</type>
     <alignment>Unaligned</alignment>
@@ -34846,7 +34846,7 @@ Source:	Monster Manual (2014) p. 303,
     <environment>mountain, hill</environment>
   </monster>
   <monster>
-    <name>Xorn</name>
+    <name>Xorn [Legacy]</name>
     <size>M</size>
     <type>elemental</type>
     <alignment>Neutral</alignment>
@@ -34909,7 +34909,7 @@ Source:	Monster Manual (2014) p. 304,
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Yeti</name>
+    <name>Yeti [Legacy]</name>
     <sortname>Yeti</sortname>
     <ancestry>Yeti</ancestry>
     <size>L</size>
@@ -34982,7 +34982,7 @@ Source:	Monster Manual (2014) p. 305,
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Yochlol</name>
+    <name>Yochlol [Legacy]</name>
     <sortname>Demon, Hochlol</sortname>
     <ancestry>Demon</ancestry>
     <size>M</size>
@@ -35154,7 +35154,7 @@ Source:	Monster Manual (2014) p. 65,
     <environment/>
   </monster>
   <monster>
-    <name>Young Black Dragon</name>
+    <name>Young Black Dragon [Legacy]</name>
     <sortname>Black Dragon, Young</sortname>
     <ancestry>Dragon, Black Dragon</ancestry>
     <size>L</size>
@@ -35254,7 +35254,7 @@ Source:	Monster Manual (2014) p. 88,
     <environment>swamp</environment>
   </monster>
   <monster>
-    <name>Young Blue Dragon</name>
+    <name>Young Blue Dragon [Legacy]</name>
     <sortname>Blue Dragon, Young</sortname>
     <ancestry>Dragon, Blue Dragon</ancestry>
     <size>L</size>
@@ -35354,7 +35354,7 @@ Source:	Monster Manual (2014) p. 91,
     <environment>desert, coastal</environment>
   </monster>
   <monster>
-    <name>Young Brass Dragon</name>
+    <name>Young Brass Dragon [Legacy]</name>
     <sortname>Brass Dragon, Young</sortname>
     <ancestry>Dragon, Brass Dragon</ancestry>
     <size>L</size>
@@ -35448,7 +35448,7 @@ Source:	Monster Manual (2014) p. 105,
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Young Bronze Dragon</name>
+    <name>Young Bronze Dragon [Legacy]</name>
     <sortname>Bronze Dragon, Young</sortname>
     <ancestry>Dragon, Bronze Dragon</ancestry>
     <size>L</size>
@@ -35546,7 +35546,7 @@ Source:	Monster Manual (2014) p. 108,
     <environment>coastal</environment>
   </monster>
   <monster>
-    <name>Young Copper Dragon</name>
+    <name>Young Copper Dragon [Legacy]</name>
     <sortname>Copper Dragon, Young</sortname>
     <ancestry>Dragon, Copper Dragon</ancestry>
     <size>L</size>
@@ -35638,7 +35638,7 @@ Source:	Monster Manual (2014) p. 112,
     <environment>hill</environment>
   </monster>
   <monster>
-    <name>Young Gold Dragon</name>
+    <name>Young Gold Dragon [Legacy]</name>
     <sortname>Gold Dragon, Young</sortname>
     <ancestry>Dragon, Gold Dragon</ancestry>
     <size>L</size>
@@ -35734,7 +35734,7 @@ Source:	Monster Manual (2014) p. 115</description>
     <environment>grassland, forest</environment>
   </monster>
   <monster>
-    <name>Young Green Dragon</name>
+    <name>Young Green Dragon [Legacy]</name>
     <sortname>Green Dragon, Young</sortname>
     <ancestry>Dragon, Green Dragon</ancestry>
     <size>L</size>
@@ -35838,7 +35838,7 @@ Source:	Monster Manual (2014) p. 94,
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Young Red Dragon</name>
+    <name>Young Red Dragon [Legacy]</name>
     <sortname>Red Dragon, Young</sortname>
     <ancestry>Dragon, Red Dragon</ancestry>
     <size>L</size>
@@ -35935,7 +35935,7 @@ Source:	Monster Manual (2014) p. 98,
     <environment>mountain, hill</environment>
   </monster>
   <monster>
-    <name>Young Red Shadow Dragon</name>
+    <name>Young Red Shadow Dragon [Legacy]</name>
     <sortname>Shadow Dragon, Young Red</sortname>
     <ancestry>Dragon, Shadow Dragon</ancestry>
     <size>L</size>
@@ -36023,7 +36023,7 @@ Source:	Monster Manual (2014) p. 85</description>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Young Remorhaz</name>
+    <name>Young Remorhaz [Legacy]</name>
     <sortname>Remorhaz, Young</sortname>
     <ancestry>Remorhaz</ancestry>
     <size>L</size>
@@ -36073,7 +36073,7 @@ Source:	Monster Manual (2014) p. 258,
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Young Silver Dragon</name>
+    <name>Young Silver Dragon [Legacy]</name>
     <sortname>Silver Dragon, Young</sortname>
     <ancestry>Dragon, Silver Dragon</ancestry>
     <size>L</size>
@@ -36168,7 +36168,7 @@ Source:	Monster Manual (2014) p. 118,
     <environment>mountain, urban</environment>
   </monster>
   <monster>
-    <name>Young White Dragon</name>
+    <name>Young White Dragon [Legacy]</name>
     <sortname>White Dragon, Young</sortname>
     <ancestry>Dragon, White Dragon</ancestry>
     <size>L</size>
@@ -36269,7 +36269,7 @@ Source:	Monster Manual (2014) p. 101,
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Yuan-ti Abomination</name>
+    <name>Yuan-ti Abomination [Legacy]</name>
     <sortname>Yuan-ti, Abomination</sortname>
     <ancestry>Yuan-ti</ancestry>
     <size>L</size>
@@ -36373,7 +36373,7 @@ Source:	Monster Manual (2014) p. 308,
     <environment>forest, swamp, desert</environment>
   </monster>
   <monster>
-    <name>Yuan-ti Malison (Type 1)</name>
+    <name>Yuan-ti Malison (Type 1) [Legacy]</name>
     <sortname>Yuan-ti, Malison (Type 1)</sortname>
     <ancestry>Yuan-ti</ancestry>
     <size>M</size>
@@ -36480,7 +36480,7 @@ Source:	Monster Manual (2014) p. 309,
     <environment>forest, swamp, desert</environment>
   </monster>
   <monster>
-    <name>Yuan-ti Malison (Type 2)</name>
+    <name>Yuan-ti Malison (Type 2) [Legacy]</name>
     <sortname>Yuan-ti, Malison (Type 2)</sortname>
     <ancestry>Yuan-ti</ancestry>
     <size>M</size>
@@ -36575,7 +36575,7 @@ Source:	Monster Manual (2014) p. 309,
     <environment>forest, swamp, desert</environment>
   </monster>
   <monster>
-    <name>Yuan-ti Malison (Type 3)</name>
+    <name>Yuan-ti Malison (Type 3) [Legacy]</name>
     <sortname>Yuan-ti, Malison (Type 3)</sortname>
     <ancestry>Yuan-ti</ancestry>
     <size>M</size>
@@ -36685,7 +36685,7 @@ Source:	Monster Manual (2014) p. 309,
     <environment>forest, swamp, desert</environment>
   </monster>
   <monster>
-    <name>Yuan-ti Pureblood</name>
+    <name>Yuan-ti Pureblood [Legacy]</name>
     <sortname>Yuan-ti, Pureblood</sortname>
     <ancestry>Yuan-ti</ancestry>
     <size>M</size>
@@ -36772,7 +36772,7 @@ Source:	Monster Manual (2014) p. 310,
     <environment>forest, swamp, urban, desert</environment>
   </monster>
   <monster>
-    <name>Zombie</name>
+    <name>Zombie [Legacy]</name>
     <sortname>Zombie</sortname>
     <ancestry>Zombie</ancestry>
     <size>M</size>

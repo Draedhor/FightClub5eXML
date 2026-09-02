@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Knight of Solamnia (Legacy)</name>
+    <name>Knight of Solamnia [Legacy]</name>
     <proficiency>Athletics, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -41,7 +41,7 @@ d6 | Trinket
     </trait>
   </background>
   <background>
-    <name>Mage of High Sorcery (Legacy)</name>
+    <name>Mage of High Sorcery [Legacy]</name>
     <proficiency>Arcana, History</proficiency>
     <trait>
       <name>Description</name>

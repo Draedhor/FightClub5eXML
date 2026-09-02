@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Book of Vile Darkness (Variant)</name>
+    <name>Book of Vile Darkness (Variant) [Legacy]</name>
     <detail>artifact (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -44,7 +44,7 @@ Source:	Keys from the Golden Vault p. 207</text>
     <roll description="Years">1d10x100</roll>
   </item>
   <item>
-    <name>Constantori's Portrait</name>
+    <name>Constantori's Portrait [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -67,7 +67,7 @@ Source:	Keys from the Golden Vault p. 101</text>
     <roll description="Heal">2d6</roll>
   </item>
   <item>
-    <name>Shard of Xeluan</name>
+    <name>Shard of Xeluan [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -93,7 +93,7 @@ Source:	Keys from the Golden Vault p. 134</text>
     <roll description="Misfortune">1d6</roll>
   </item>
   <item>
-    <name>Shard Solitaire</name>
+    <name>Shard Solitaire [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>

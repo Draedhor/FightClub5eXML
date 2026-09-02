@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Cleric (UA)</name>
+    <name>Cleric</name>
     <!-- Cleric Subclass: Knowledge Domain (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -62,63 +62,63 @@ Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 3</text>
     </autolevel>
   </class>
   <spell>
-    <name>Command (UA)</name>
+    <name>Command [UA]</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Comprehend Languages (UA)</name>
+    <name>Comprehend Languages [UA]</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Detect Magic (UA)</name>
+    <name>Detect Magic [UA]</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Detect Thoughts (UA)</name>
+    <name>Detect Thoughts [UA]</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Identify (UA)</name>
+    <name>Identify [UA]</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Mind Spike (UA)</name>
+    <name>Mind Spike [UA]</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Dispel Magic (UA)</name>
+    <name>Dispel Magic [UA]</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Nondetection (UA)</name>
+    <name>Nondetection [UA]</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Tongues (UA)</name>
+    <name>Tongues [UA]</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Arcane Eye (UA)</name>
+    <name>Arcane Eye [UA]</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Banishment (UA)</name>
+    <name>Banishment [UA]</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Confusion (UA)</name>
+    <name>Confusion [UA]</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Legend Lore (UA)</name>
+    <name>Legend Lore [UA]</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Scrying (UA)</name>
+    <name>Scrying [UA]</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Synaptic Static (UA)</name>
+    <name>Synaptic Static [UA]</name>
     <classes>Cleric (Knowledge Domain (UA))</classes>
   </spell>
 </compendium>

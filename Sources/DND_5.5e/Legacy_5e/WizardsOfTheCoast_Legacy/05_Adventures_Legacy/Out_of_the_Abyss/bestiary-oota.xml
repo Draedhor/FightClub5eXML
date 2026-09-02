@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Aljanor Keenblade</name>
+    <name>Aljanor Keenblade [Legacy]</name>
     <sortname>Keenblade, Aljanor</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -57,7 +57,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Amarith Coppervein</name>
+    <name>Amarith Coppervein [Legacy]</name>
     <sortname>Coppervein, Amarith</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -109,7 +109,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Animated Drow Statue</name>
+    <name>Animated Drow Statue [Legacy]</name>
     <sortname>Animated Object, Drow Statue</sortname>
     <ancestry>Animated Object</ancestry>
     <size>M</size>
@@ -155,7 +155,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Awakened Zurkhwood</name>
+    <name>Awakened Zurkhwood [Legacy]</name>
     <sortname>Zurkhwood, Awakened</sortname>
     <ancestry>Zurkhwood</ancestry>
     <size>H</size>
@@ -205,7 +205,7 @@ Source:	Out of the Abyss p. 230</description>
     <environment/>
   </monster>
   <monster>
-    <name>Blurg</name>
+    <name>Blurg [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (orc)</type>
@@ -251,7 +251,7 @@ Source:	Out of the Abyss p. 230</description>
     <environment>underdark, mountain, grassland, forest, hill, arctic</environment>
   </monster>
   <monster>
-    <name>Bridesmaid of Zuggtmoy</name>
+    <name>Bridesmaid of Zuggtmoy [Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment>Chaotic Evil</alignment>
@@ -291,7 +291,7 @@ Source:	Out of the Abyss p. 230</description>
     <environment/>
   </monster>
   <monster>
-    <name>Buppido</name>
+    <name>Buppido [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (derro)</type>
@@ -337,7 +337,7 @@ Source:	Out of the Abyss p. 230</description>
     <environment>mountain, underdark</environment>
   </monster>
   <monster>
-    <name>Cave Badger</name>
+    <name>Cave Badger [Legacy]</name>
     <sortname>Badger, Cave</sortname>
     <ancestry>Badger</ancestry>
     <size>M</size>
@@ -384,7 +384,7 @@ Source:	Out of the Abyss p. 230</description>
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Chamberlain of Zuggtmoy</name>
+    <name>Chamberlain of Zuggtmoy [Legacy]</name>
     <size>L</size>
     <type>plant</type>
     <alignment>Chaotic Evil</alignment>
@@ -433,7 +433,7 @@ Source:	Out of the Abyss p. 230</description>
     <environment/>
   </monster>
   <monster>
-    <name>Chuul Spore Servant</name>
+    <name>Chuul Spore Servant [Legacy]</name>
     <sortname>Spore Servant, Chuul</sortname>
     <ancestry>Spore Servant</ancestry>
     <size>L</size>
@@ -471,7 +471,7 @@ Source:	Out of the Abyss p. 230</description>
     <environment/>
   </monster>
   <monster>
-    <name>Deepking Horgar Steelshadow V</name>
+    <name>Deepking Horgar Steelshadow V [Legacy]</name>
     <sortname>Steelshadow V, Horgar</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -553,7 +553,7 @@ Source:	Out of the Abyss p. 230</description>
     <environment/>
   </monster>
   <monster>
-    <name>Droki</name>
+    <name>Droki [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (derro)</type>
@@ -628,7 +628,7 @@ Source:	Out of the Abyss p. 231</description>
     <environment/>
   </monster>
   <monster>
-    <name>Drow Acolyte</name>
+    <name>Drow Acolyte [Legacy]</name>
     <sortname>Drow, Acolyte</sortname>
     <ancestry>Drow</ancestry>
     <npc>YES</npc>
@@ -687,7 +687,7 @@ Source:	Out of the Abyss p. 231</description>
     <environment/>
   </monster>
   <monster>
-    <name>Drow Bandit</name>
+    <name>Drow Bandit [Legacy]</name>
     <sortname>Drow, Bandit</sortname>
     <ancestry>Drow, Bandit</ancestry>
     <npc>YES</npc>
@@ -743,7 +743,7 @@ Source:	Out of the Abyss p. 231</description>
     <environment/>
   </monster>
   <monster>
-    <name>Drow Commoner</name>
+    <name>Drow Commoner [Legacy]</name>
     <sortname>Drow, Commoner</sortname>
     <ancestry>Drow, Commoner</ancestry>
     <npc>YES</npc>
@@ -794,7 +794,7 @@ Source:	Out of the Abyss p. 231</description>
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Drow Cultist</name>
+    <name>Drow Cultist [Legacy]</name>
     <sortname>Drow, Cultist</sortname>
     <ancestry>Drow, Cultist</ancestry>
     <npc>YES</npc>
@@ -849,7 +849,7 @@ Source:	Out of the Abyss p. 231</description>
     <environment/>
   </monster>
   <monster>
-    <name>Drow Guard</name>
+    <name>Drow Guard [Legacy]</name>
     <sortname>Drow, Guard</sortname>
     <ancestry>Drow, Guard</ancestry>
     <npc>YES</npc>
@@ -900,7 +900,7 @@ Source:	Out of the Abyss p. 231</description>
     <environment/>
   </monster>
   <monster>
-    <name>Drow Noble</name>
+    <name>Drow Noble [Legacy]</name>
     <sortname>Drow, Noble</sortname>
     <ancestry>Drow, Noble</ancestry>
     <npc>YES</npc>
@@ -955,7 +955,7 @@ Source:	Out of the Abyss p. 231</description>
     <environment/>
   </monster>
   <monster>
-    <name>Drow Scout</name>
+    <name>Drow Scout [Legacy]</name>
     <sortname>Drow, Scout</sortname>
     <ancestry>Drow, Scout</ancestry>
     <npc>YES</npc>
@@ -1019,7 +1019,7 @@ Source:	Out of the Abyss p. 231</description>
     <environment/>
   </monster>
   <monster>
-    <name>Drow Spore Servant</name>
+    <name>Drow Spore Servant [Legacy]</name>
     <sortname>Drow, Spore Servant</sortname>
     <ancestry>Drow, Spore Servant</ancestry>
     <npc>YES</npc>
@@ -1054,7 +1054,7 @@ Source:	Out of the Abyss p. 231</description>
     <environment/>
   </monster>
   <monster>
-    <name>Drow Spy</name>
+    <name>Drow Spy [Legacy]</name>
     <sortname>Drow, Spy</sortname>
     <ancestry>Drow, Spy</ancestry>
     <npc>YES</npc>
@@ -1123,7 +1123,7 @@ Source:	Out of the Abyss p. 231</description>
     <environment/>
   </monster>
   <monster>
-    <name>Duergar Alchemist</name>
+    <name>Duergar Alchemist [Legacy]</name>
     <sortname>Duergar, Alchemist</sortname>
     <ancestry>Duergar, Alchemist</ancestry>
     <npc>YES</npc>
@@ -1186,7 +1186,7 @@ Source:	Out of the Abyss p. 231</description>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Duergar Darkhaft</name>
+    <name>Duergar Darkhaft [Legacy]</name>
     <sortname>Duergar, Darkhaft</sortname>
     <ancestry>Duergar</ancestry>
     <npc>YES</npc>
@@ -1268,7 +1268,7 @@ Source:	Out of the Abyss p. 226</description>
     <environment/>
   </monster>
   <monster>
-    <name>Duergar Keeper of the Flame</name>
+    <name>Duergar Keeper of the Flame [Legacy]</name>
     <sortname>Duergar, Keeper of the Flame</sortname>
     <ancestry>Duergar</ancestry>
     <npc>YES</npc>
@@ -1374,7 +1374,7 @@ Source:	Out of the Abyss p. 226</description>
     <environment/>
   </monster>
   <monster>
-    <name>Duergar Spore Servant</name>
+    <name>Duergar Spore Servant [Legacy]</name>
     <sortname>Duergar, Spore Servant</sortname>
     <ancestry>Duergar, Spore Servant</ancestry>
     <npc>YES</npc>
@@ -1409,7 +1409,7 @@ Source:	Out of the Abyss p. 226</description>
     <environment/>
   </monster>
   <monster>
-    <name>Eldeth Feldrun</name>
+    <name>Eldeth Feldrun [Legacy]</name>
     <sortname>Feldrun, Eldeth</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1460,7 +1460,7 @@ Source:	Out of the Abyss p. 226</description>
     <environment/>
   </monster>
   <monster>
-    <name>Emerald Enclave Scout</name>
+    <name>Emerald Enclave Scout [Legacy]</name>
     <sortname>Scout, Emerald Enclave</sortname>
     <ancestry>Scout</ancestry>
     <npc>YES</npc>
@@ -1512,7 +1512,7 @@ Source:	Out of the Abyss p. 226</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fiendish Giant Spider</name>
+    <name>Fiendish Giant Spider [Legacy]</name>
     <sortname>Spider, Giant Fiendish</sortname>
     <ancestry>Spider</ancestry>
     <size>M</size>
@@ -1561,7 +1561,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment>grassland, forest, hill, desert, coastal</environment>
   </monster>
   <monster>
-    <name>Four-Armed Statue</name>
+    <name>Four-Armed Statue [Legacy]</name>
     <ancestry>Animated Object</ancestry>
     <size>L</size>
     <type>construct</type>
@@ -1615,7 +1615,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment/>
   </monster>
   <monster>
-    <name>Gash</name>
+    <name>Gash [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (gnoll)</type>
@@ -1666,7 +1666,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment>grassland, forest, hill, desert</environment>
   </monster>
   <monster>
-    <name>Ghazrim DuLoc</name>
+    <name>Ghazrim DuLoc [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -1703,7 +1703,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment/>
   </monster>
   <monster>
-    <name>Giant Riding Lizard</name>
+    <name>Giant Riding Lizard [Legacy]</name>
     <sortname>Riding Lizard, Giant</sortname>
     <ancestry>Riding Lizard</ancestry>
     <size>L</size>
@@ -1741,7 +1741,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment/>
   </monster>
   <monster>
-    <name>Giant Rocktopus</name>
+    <name>Giant Rocktopus [Legacy]</name>
     <sortname>Rocktopus, Giant</sortname>
     <ancestry>Rocktopus</ancestry>
     <size>L</size>
@@ -1788,7 +1788,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Glabbagool</name>
+    <name>Glabbagool [Legacy]</name>
     <size>L</size>
     <type>ooze</type>
     <alignment>Unaligned</alignment>
@@ -1838,7 +1838,7 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Grazilaxx</name>
+    <name>Grazilaxx [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Lawful Evil</alignment>
@@ -1893,7 +1893,7 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Grisha</name>
+    <name>Grisha [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (damaranhuman)</type>
@@ -1941,7 +1941,7 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
     <environment/>
   </monster>
   <monster>
-    <name>Hook Horror Spore Servant</name>
+    <name>Hook Horror Spore Servant [Legacy]</name>
     <sortname>Hook Horror, Spore Servant</sortname>
     <ancestry>Horror, Spore Servant</ancestry>
     <size>M</size>
@@ -1979,7 +1979,7 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
     <environment/>
   </monster>
   <monster>
-    <name>Ilvara Mizzrym</name>
+    <name>Ilvara Mizzrym [Legacy]</name>
     <sortname>Mizzrym, Ilvara</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2060,7 +2060,7 @@ A drow priestess of lolth wearing +3 scale mail has AC 19.</text>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Infant Basilisk</name>
+    <name>Infant Basilisk [Legacy]</name>
     <sortname>Basilisk, Infant</sortname>
     <ancestry>Basilisk</ancestry>
     <size>T</size>
@@ -2102,7 +2102,7 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Infant Hook Horror</name>
+    <name>Infant Hook Horror [Legacy]</name>
     <sortname>Hook Horror, Infant</sortname>
     <ancestry>Hook Horror</ancestry>
     <size>T</size>
@@ -2148,7 +2148,7 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Ixitxachitl</name>
+    <name>Ixitxachitl [Legacy]</name>
     <ancestry>Ixitxachitl</ancestry>
     <size>S</size>
     <type>aberration</type>
@@ -2209,7 +2209,7 @@ Source:	Out of the Abyss p. 225</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ixitxachitl Cleric</name>
+    <name>Ixitxachitl Cleric [Legacy]</name>
     <sortname>Ixitxachitl, Cleric</sortname>
     <ancestry>Ixitxachitl</ancestry>
     <size>S</size>
@@ -2271,7 +2271,7 @@ Source:	Out of the Abyss p. 225</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jade Giant Spider</name>
+    <name>Jade Giant Spider [Legacy]</name>
     <sortname>Spider, Giant Jade</sortname>
     <ancestry>Spider</ancestry>
     <size>L</size>
@@ -2326,7 +2326,7 @@ Source:	Out of the Abyss p. 225</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jimjar</name>
+    <name>Jimjar [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (gnome)</type>
@@ -2389,7 +2389,7 @@ Source:	Out of the Abyss p. 225</description>
     <environment/>
   </monster>
   <monster>
-    <name>Juvenile Hook Horror</name>
+    <name>Juvenile Hook Horror [Legacy]</name>
     <sortname>Hook Horror, Juvenile</sortname>
     <ancestry>Hook Horror</ancestry>
     <size>M</size>
@@ -2435,7 +2435,7 @@ Source:	Out of the Abyss p. 225</description>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Khalessa Draga</name>
+    <name>Khalessa Draga [Legacy]</name>
     <sortname>Draga, Khalessa</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2495,7 +2495,7 @@ Source:	Out of the Abyss p. 225</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kinyel Druu'giir</name>
+    <name>Kinyel Druu'giir [Legacy]</name>
     <sortname>Druu'giir, Kinyel</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2569,7 +2569,7 @@ Source:	Out of the Abyss p. 225</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kurr</name>
+    <name>Kurr [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>fiend (gnoll)</type>
@@ -2616,7 +2616,7 @@ Source:	Out of the Abyss p. 225</description>
     <environment>grassland, forest, hill, desert</environment>
   </monster>
   <monster>
-    <name>Lords' Alliance Guard</name>
+    <name>Lords' Alliance Guard [Legacy]</name>
     <sortname>Guard, Lords' Alliance</sortname>
     <ancestry>Guard</ancestry>
     <npc>YES</npc>
@@ -2655,7 +2655,7 @@ Source:	Out of the Abyss p. 225</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lords' Alliance Spy</name>
+    <name>Lords' Alliance Spy [Legacy]</name>
     <sortname>Spy, Lords' Alliance</sortname>
     <ancestry>Spy</ancestry>
     <size>M</size>
@@ -2707,7 +2707,7 @@ Source:	Out of the Abyss p. 225</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lorthuun</name>
+    <name>Lorthuun [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Lawful Evil</alignment>
@@ -2792,7 +2792,7 @@ If the beholder dies, these effects fade over the course of 1d10 days.</text>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Narrak</name>
+    <name>Narrak [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (derro)</type>
@@ -2855,7 +2855,7 @@ If the beholder dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Ougalop</name>
+    <name>Ougalop [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (kuo-toa)</type>
@@ -2917,7 +2917,7 @@ If the beholder dies, these effects fade over the course of 1d10 days.</text>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Peebles</name>
+    <name>Peebles [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (gnome)</type>
@@ -2980,7 +2980,7 @@ If the beholder dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Prince Derendil</name>
+    <name>Prince Derendil [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (quaggoth)</type>
@@ -3021,7 +3021,7 @@ If the beholder dies, these effects fade over the course of 1d10 days.</text>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Princess Ebonmire</name>
+    <name>Princess Ebonmire [Legacy]</name>
     <npc>YES</npc>
     <size>L</size>
     <type>ooze</type>
@@ -3070,7 +3070,7 @@ If the beholder dies, these effects fade over the course of 1d10 days.</text>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Regenerating Black Pudding</name>
+    <name>Regenerating Black Pudding [Legacy]</name>
     <sortname>Black Pudding, Regenerating</sortname>
     <ancestry>Black Pudding</ancestry>
     <size>L</size>
@@ -3124,7 +3124,7 @@ If the beholder dies, these effects fade over the course of 1d10 days.</text>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Ront</name>
+    <name>Ront [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (orc)</type>
@@ -3166,7 +3166,7 @@ If the beholder dies, these effects fade over the course of 1d10 days.</text>
     <environment>underdark, mountain, grassland, forest, swamp, hill, arctic</environment>
   </monster>
   <monster>
-    <name>Rumpadump</name>
+    <name>Rumpadump [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>plant</type>
@@ -3212,7 +3212,7 @@ If the beholder dies, these effects fade over the course of 1d10 days.</text>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Rystia Zav</name>
+    <name>Rystia Zav [Legacy]</name>
     <sortname>Zav, Rystia</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3264,7 +3264,7 @@ If the beholder dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Sarith Kzekarit</name>
+    <name>Sarith Kzekarit [Legacy]</name>
     <sortname>Kzekarit, Sarith</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3327,7 +3327,7 @@ A drow wearing a +1 chain shirt and carrying a +1 shortsword has AC 16 and a +1 
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Shedrak</name>
+    <name>Shedrak [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -3377,7 +3377,7 @@ A drow wearing a +1 chain shirt and carrying a +1 shortsword has AC 16 and a +1 
     <environment/>
   </monster>
   <monster>
-    <name>Shuushar the Awakened</name>
+    <name>Shuushar the Awakened [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (kuo-toa)</type>
@@ -3439,7 +3439,7 @@ A drow wearing a +1 chain shirt and carrying a +1 shortsword has AC 16 and a +1 
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Skriss</name>
+    <name>Skriss [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (troglodyte)</type>
@@ -3493,7 +3493,7 @@ A drow wearing a +1 chain shirt and carrying a +1 shortsword has AC 16 and a +1 
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Sladis Vadir</name>
+    <name>Sladis Vadir [Legacy]</name>
     <sortname>Vadir, Sladis</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3541,7 +3541,7 @@ A drow wearing a +1 chain shirt and carrying a +1 shortsword has AC 16 and a +1 
     <environment/>
   </monster>
   <monster>
-    <name>Sloopidoop</name>
+    <name>Sloopidoop [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (kuo-toa)</type>
@@ -3612,7 +3612,7 @@ A drow wearing a +1 chain shirt and carrying a +1 shortsword has AC 16 and a +1 
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Sovereign Basidia</name>
+    <name>Sovereign Basidia [Legacy]</name>
     <npc>YES</npc>
     <size>L</size>
     <type>plant</type>
@@ -3684,7 +3684,7 @@ Euphoria Spores (1/Day). Basidia releases a cloud of spores in a 20-foot-radius 
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Spider King</name>
+    <name>Spider King [Legacy]</name>
     <sortname>Spider, King</sortname>
     <ancestry>Spider</ancestry>
     <size>L</size>
@@ -3742,7 +3742,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment/>
   </monster>
   <monster>
-    <name>Spiderbait</name>
+    <name>Spiderbait [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (goblinoid)</type>
@@ -3784,7 +3784,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment>underdark, grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Stool</name>
+    <name>Stool [Legacy]</name>
     <size>S</size>
     <type>plant</type>
     <alignment>Lawful Neutral</alignment>
@@ -3829,7 +3829,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Pudding King, The</name>
+    <name>Pudding King, The [Legacy]</name>
     <sortname>Pudding King, The</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -3904,7 +3904,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment/>
   </monster>
   <monster>
-    <name>Themberchaud</name>
+    <name>Themberchaud [Legacy]</name>
     <size>H</size>
     <type>dragon</type>
     <alignment>Chaotic Evil</alignment>
@@ -4004,7 +4004,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment>mountain, hill</environment>
   </monster>
   <monster>
-    <name>Topsy</name>
+    <name>Topsy [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human, shapechanger)</type>
@@ -4063,7 +4063,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment>forest, urban</environment>
   </monster>
   <monster>
-    <name>Troglodyte Champion of Laogzed</name>
+    <name>Troglodyte Champion of Laogzed [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (troglodyte)</type>
@@ -4130,7 +4130,7 @@ Source:	Out of the Abyss p. 229</description>
     <environment/>
   </monster>
   <monster>
-    <name>Turvy</name>
+    <name>Turvy [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human, shapechanger)</type>
@@ -4189,7 +4189,7 @@ Source:	Out of the Abyss p. 229</description>
     <environment>forest, urban</environment>
   </monster>
   <monster>
-    <name>Vampiric Ixitxachitl</name>
+    <name>Vampiric Ixitxachitl [Legacy]</name>
     <sortname>Vampiric Ixitxachitl</sortname>
     <ancestry>Vampiric Ixitxachitl</ancestry>
     <size>M</size>
@@ -4251,7 +4251,7 @@ Source:	Out of the Abyss p. 226</description>
     <environment/>
   </monster>
   <monster>
-    <name>Vampiric Ixitxachitl Cleric</name>
+    <name>Vampiric Ixitxachitl Cleric [Legacy]</name>
     <sortname>Vampiric Ixitxachitl, Cleric</sortname>
     <ancestry>Vampiric Ixitxachitl, Cleric</ancestry>
     <size>M</size>
@@ -4324,7 +4324,7 @@ Source:	Out of the Abyss p. 226</description>
     <environment/>
   </monster>
   <monster>
-    <name>Veldyskar</name>
+    <name>Veldyskar [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -4364,7 +4364,7 @@ If Veldyskar sees its reflection within 30 feet of it in bright light, it mistak
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Veteran of the Gauntlet</name>
+    <name>Veteran of the Gauntlet [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -4411,7 +4411,7 @@ If Veldyskar sees its reflection within 30 feet of it in bright light, it mistak
     <environment/>
   </monster>
   <monster>
-    <name>Vizeran DeVir</name>
+    <name>Vizeran DeVir [Legacy]</name>
     <sortname>DeVir, Vizeran</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4489,7 +4489,7 @@ If Veldyskar sees its reflection within 30 feet of it in bright light, it mistak
     <environment/>
   </monster>
   <monster>
-    <name>Xazax the Eyemonger</name>
+    <name>Xazax the Eyemonger [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Lawful Evil</alignment>
@@ -4585,7 +4585,7 @@ If the beholder dies, these effects fade over the course of 1d10 days.</text>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Y</name>
+    <name>Y [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (derro)</type>
@@ -4637,7 +4637,7 @@ If the beholder dies, these effects fade over the course of 1d10 days.</text>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Yestabrod</name>
+    <name>Yestabrod [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -4697,7 +4697,7 @@ If the beholder dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Young Basilisk</name>
+    <name>Young Basilisk [Legacy]</name>
     <size>S</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -4737,7 +4737,7 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Young Hook Horror</name>
+    <name>Young Hook Horror [Legacy]</name>
     <size>S</size>
     <type>monstrosity</type>
     <alignment>Neutral</alignment>
@@ -4781,7 +4781,7 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Yuk Yuk</name>
+    <name>Yuk Yuk [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (goblinoid)</type>
@@ -4823,7 +4823,7 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
     <environment>underdark, grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Zhentarim Thug</name>
+    <name>Zhentarim Thug [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -4869,7 +4869,7 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
     <environment/>
   </monster>
   <monster>
-    <name>Zilchyn Q'Leptin</name>
+    <name>Zilchyn Q'Leptin [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf)</type>

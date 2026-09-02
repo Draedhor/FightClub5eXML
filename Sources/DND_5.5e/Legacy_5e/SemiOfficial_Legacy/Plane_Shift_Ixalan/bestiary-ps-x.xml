@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Chupacabra</name>
+    <name>Chupacabra [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -46,7 +46,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Elder Dinosaur</name>
+    <name>Elder Dinosaur [TP Legacy]</name>
     <sortname>Dinosaur, Elder</sortname>
     <ancestry>Dinosaur</ancestry>
     <size>G</size>
@@ -117,7 +117,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Elder Dinosaur (Etali, Primal Storm)</name>
+    <name>Elder Dinosaur (Etali, Primal Storm) [TP Legacy]</name>
     <sortname>Dinosaur, Elder (Etali, Primal Storm)</sortname>
     <ancestry>Dinosaur</ancestry>
     <size>G</size>
@@ -202,7 +202,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Elder Dinosaur (Ghalta, Primal Hunger)</name>
+    <name>Elder Dinosaur (Ghalta, Primal Hunger) [TP Legacy]</name>
     <sortname>Dinosaur, Elder (Ghalta, Primal Hunger)</sortname>
     <ancestry>Dinosaur</ancestry>
     <size>G</size>
@@ -288,7 +288,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Elder Dinosaur (Nezahal, Primal Tide)</name>
+    <name>Elder Dinosaur (Nezahal, Primal Tide) [TP Legacy]</name>
     <sortname>Dinosaur, Elder (Nezahal, Primal Tide)</sortname>
     <ancestry>Dinosaur</ancestry>
     <size>G</size>
@@ -373,7 +373,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Elder Dinosaur (Tetzimoc, Primal Death)</name>
+    <name>Elder Dinosaur (Tetzimoc, Primal Death) [TP Legacy]</name>
     <sortname>Dinosaur, Elder (Tetzimoc, Primal Death)</sortname>
     <ancestry>Dinosaur</ancestry>
     <size>G</size>
@@ -477,7 +477,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Elder Dinosaur (Zacama, Primal Calamity)</name>
+    <name>Elder Dinosaur (Zacama, Primal Calamity) [TP Legacy]</name>
     <sortname>Dinosaur, Elder (Zacama, Primal Calamity)</sortname>
     <ancestry>Dinosaur</ancestry>
     <size>G</size>
@@ -563,7 +563,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Elder Dinosaur (Zetalpa, Primal Dawn)</name>
+    <name>Elder Dinosaur (Zetalpa, Primal Dawn) [TP Legacy]</name>
     <sortname>Dinosaur, Elder (Zetalpa, Primal Dawn)</sortname>
     <ancestry>Dinosaur</ancestry>
     <size>G</size>
@@ -654,7 +654,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Frilled Deathspitter</name>
+    <name>Frilled Deathspitter [TP Legacy]</name>
     <sortname>Deathspitter, Frilled</sortname>
     <ancestry>Deathspitter</ancestry>
     <size>S</size>
@@ -702,7 +702,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Gishath, Sun's Avatar</name>
+    <name>Gishath, Sun's Avatar [TP Legacy]</name>
     <size>G</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -772,7 +772,7 @@ If Gishath takes 30 damage or more on a single turn from a creature inside it, i
     <environment/>
   </monster>
   <monster>
-    <name>Harpy (Plane Shift: Ixalan)</name>
+    <name>Harpy (Plane Shift: Ixalan) [TP Legacy]</name>
     <ancestry>Harpy</ancestry>
     <size>M</size>
     <type>monstrosity</type>
@@ -822,7 +822,7 @@ A target that successfully saves is immune to this Harpy (Plane Shift: Ixalan)'s
     <environment>mountain, forest, hill, coastal</environment>
   </monster>
   <monster>
-    <name>Sunbird</name>
+    <name>Sunbird [TP Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>

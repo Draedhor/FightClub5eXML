@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <feat>
-    <name>Ember of the Fire Giant (Constitution)</name>
+    <name>Ember of the Fire Giant (Constitution) [Legacy]</name>
     <prerequisite>4th level, Strike of the Giants (Fire Strike) Feat</prerequisite>
     <text>You've manifested the fiery combat emblematic of fire giants, granting you the following benefits:
 
@@ -19,7 +19,7 @@ Source:	Bigby Presents: Glory of the Giants p. 17</text>
     <modifier category="ability score">constitution +1</modifier>
   </feat>
   <feat>
-    <name>Ember of the Fire Giant (Strength)</name>
+    <name>Ember of the Fire Giant (Strength) [Legacy]</name>
     <prerequisite>4th level, Strike of the Giants (Fire Strike) Feat</prerequisite>
     <text>You've manifested the fiery combat emblematic of fire giants, granting you the following benefits:
 
@@ -37,7 +37,7 @@ Source:	Bigby Presents: Glory of the Giants p. 17</text>
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Ember of the Fire Giant (Wisdom)</name>
+    <name>Ember of the Fire Giant (Wisdom) [Legacy]</name>
     <prerequisite>4th level, Strike of the Giants (Fire Strike) Feat</prerequisite>
     <text>You've manifested the fiery combat emblematic of fire giants, granting you the following benefits:
 
@@ -55,7 +55,7 @@ Source:	Bigby Presents: Glory of the Giants p. 17</text>
     <modifier category="ability score">wisdom +1</modifier>
   </feat>
   <feat>
-    <name>Fury of the Frost Giant (Constitution)</name>
+    <name>Fury of the Frost Giant (Constitution) [Legacy]</name>
     <prerequisite>4th level, Strike of the Giants (Frost Strike) Feat</prerequisite>
     <text>You've manifested the icy might emblematic of frost giants, granting you the following benefits:
 
@@ -69,7 +69,7 @@ Source:	Bigby Presents: Glory of the Giants p. 17</text>
     <modifier category="ability score">constitution +1</modifier>
   </feat>
   <feat>
-    <name>Fury of the Frost Giant (Strength)</name>
+    <name>Fury of the Frost Giant (Strength) [Legacy]</name>
     <prerequisite>4th level, Strike of the Giants (Frost Strike) Feat</prerequisite>
     <text>You've manifested the icy might emblematic of frost giants, granting you the following benefits:
 
@@ -83,7 +83,7 @@ Source:	Bigby Presents: Glory of the Giants p. 17</text>
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Fury of the Frost Giant (Wisdom)</name>
+    <name>Fury of the Frost Giant (Wisdom) [Legacy]</name>
     <prerequisite>4th level, Strike of the Giants (Frost Strike) Feat</prerequisite>
     <text>You've manifested the icy might emblematic of frost giants, granting you the following benefits:
 
@@ -97,7 +97,7 @@ Source:	Bigby Presents: Glory of the Giants p. 17</text>
     <modifier category="ability score">wisdom +1</modifier>
   </feat>
   <feat>
-    <name>Guile of the Cloud Giant (Constitution)</name>
+    <name>Guile of the Cloud Giant (Constitution) [Legacy]</name>
     <prerequisite>4th level, Strike of the Giants (Cloud Strike) Feat</prerequisite>
     <text>You've manifested the confounding magic emblematic of cloud giants, granting you the following benefits:
 
@@ -109,7 +109,7 @@ Source:	Bigby Presents: Glory of the Giants p. 18</text>
     <modifier category="ability score">constitution +1</modifier>
   </feat>
   <feat>
-    <name>Guile of the Cloud Giant (Charisma)</name>
+    <name>Guile of the Cloud Giant (Charisma) [Legacy]</name>
     <prerequisite>4th level, Strike of the Giants (Cloud Strike) Feat</prerequisite>
     <text>You've manifested the confounding magic emblematic of cloud giants, granting you the following benefits:
 
@@ -121,7 +121,7 @@ Source:	Bigby Presents: Glory of the Giants p. 18</text>
     <modifier category="ability score">charisma +1</modifier>
   </feat>
   <feat>
-    <name>Guile of the Cloud Giant (Strength)</name>
+    <name>Guile of the Cloud Giant (Strength) [Legacy]</name>
     <prerequisite>4th level, Strike of the Giants (Cloud Strike) Feat</prerequisite>
     <text>You've manifested the confounding magic emblematic of cloud giants, granting you the following benefits:
 
@@ -133,7 +133,7 @@ Source:	Bigby Presents: Glory of the Giants p. 18</text>
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Keenness of the Stone Giant (Constitution)</name>
+    <name>Keenness of the Stone Giant (Constitution) [Legacy]</name>
     <prerequisite>4th level, Strike of the Giants (Stone Strike) Feat</prerequisite>
     <text>You've manifested the physical talents emblematic of stone giants, granting you the following benefits:
 
@@ -147,7 +147,7 @@ Source:	Bigby Presents: Glory of the Giants p. 18</text>
     <modifier category="ability score">constitution +1</modifier>
   </feat>
   <feat>
-    <name>Keenness of the Stone Giant (Strength)</name>
+    <name>Keenness of the Stone Giant (Strength) [Legacy]</name>
     <prerequisite>4th level, Strike of the Giants (Stone Strike) Feat</prerequisite>
     <text>You've manifested the physical talents emblematic of stone giants, granting you the following benefits:
 
@@ -161,7 +161,7 @@ Source:	Bigby Presents: Glory of the Giants p. 18</text>
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Keenness of the Stone Giant (Wisdom)</name>
+    <name>Keenness of the Stone Giant (Wisdom) [Legacy]</name>
     <prerequisite>4th level, Strike of the Giants (Stone Strike) Feat</prerequisite>
     <text>You've manifested the physical talents emblematic of stone giants, granting you the following benefits:
 
@@ -175,7 +175,7 @@ Source:	Bigby Presents: Glory of the Giants p. 18</text>
     <modifier category="ability score">wisdom +1</modifier>
   </feat>
   <feat>
-    <name>Rune Shaper</name>
+    <name>Rune Shaper [Legacy]</name>
     <prerequisite>Spellcasting Feature or Rune Carver</prerequisite>
     <text>You've studied the magic of Giant runes, granting you the following benefits:
 
@@ -206,7 +206,7 @@ Storm | Thunderwave
 Source:	Bigby Presents: Glory of the Giants p. 18</text>
   </feat>
   <feat>
-    <name>Soul of the Storm Giant (Charisma)</name>
+    <name>Soul of the Storm Giant (Charisma) [Legacy]</name>
     <prerequisite>4th level, Strike of the Giants (Storm Strike) Feat</prerequisite>
     <text>You've manifested the tempest magic emblematic of storm giants, granting you the following benefits:
 
@@ -218,7 +218,7 @@ Source:	Bigby Presents: Glory of the Giants p. 19</text>
     <modifier category="ability score">charisma +1</modifier>
   </feat>
   <feat>
-    <name>Soul of the Storm Giant (Strength)</name>
+    <name>Soul of the Storm Giant (Strength) [Legacy]</name>
     <prerequisite>4th level, Strike of the Giants (Storm Strike) Feat</prerequisite>
     <text>You've manifested the tempest magic emblematic of storm giants, granting you the following benefits:
 
@@ -230,7 +230,7 @@ Source:	Bigby Presents: Glory of the Giants p. 19</text>
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Soul of the Storm Giant (Wisdom)</name>
+    <name>Soul of the Storm Giant (Wisdom) [Legacy]</name>
     <prerequisite>4th level, Strike of the Giants (Storm Strike) Feat</prerequisite>
     <text>You've manifested the tempest magic emblematic of storm giants, granting you the following benefits:
 
@@ -242,7 +242,7 @@ Source:	Bigby Presents: Glory of the Giants p. 19</text>
     <modifier category="ability score">wisdom +1</modifier>
   </feat>
   <feat>
-    <name>Strike of the Giants</name>
+    <name>Strike of the Giants [Legacy]</name>
     <prerequisite>Martial Proficiency or Giant Foundling</prerequisite>
     <text>You have absorbed primeval magic that gives you an echo of the might of giants. When you take this feat, choose one of the benefits listed below. Once per turn, when you hit a target with a melee weapon attack or a ranged weapon attack using a thrown weapon, you can imbue the attack with an additional effect depending on the benefit you chose:
 
@@ -265,7 +265,7 @@ You can use this feat a number of times equal to your proficiency bonus, and you
 Source:	Bigby Presents: Glory of the Giants p. 19</text>
   </feat>
   <feat>
-    <name>Vigor of the Hill Giant (Constitution)</name>
+    <name>Vigor of the Hill Giant (Constitution) [Legacy]</name>
     <prerequisite>4th level, Strike of the Giants (Hill Strike) Feat</prerequisite>
     <text>You've manifested the resilience emblematic of hill giants, granting you the following benefits:
 
@@ -279,7 +279,7 @@ Source:	Bigby Presents: Glory of the Giants p. 19</text>
     <modifier category="ability score">constitution +1</modifier>
   </feat>
   <feat>
-    <name>Vigor of the Hill Giant (Strength)</name>
+    <name>Vigor of the Hill Giant (Strength) [Legacy]</name>
     <prerequisite>4th level, Strike of the Giants (Hill Strike) Feat</prerequisite>
     <text>You've manifested the resilience emblematic of hill giants, granting you the following benefits:
 
@@ -293,7 +293,7 @@ Source:	Bigby Presents: Glory of the Giants p. 19</text>
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Vigor of the Hill Giant (Wisdom)</name>
+    <name>Vigor of the Hill Giant (Wisdom) [Legacy]</name>
     <prerequisite>4th level, Strike of the Giants (Hill Strike) Feat</prerequisite>
     <text>You've manifested the resilience emblematic of hill giants, granting you the following benefits:
 

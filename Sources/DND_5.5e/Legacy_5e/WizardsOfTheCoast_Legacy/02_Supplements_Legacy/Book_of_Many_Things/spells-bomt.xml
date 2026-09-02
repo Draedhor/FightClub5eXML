@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Antagonize</name>
+    <name>Antagonize [Legacy]</name>
     <level>3</level>
     <school>EN</school>
     <time>1 action</time>
@@ -23,7 +23,7 @@ Source:	The Book of Many Things p. 50</text>
     <roll level="9">10d4</roll>
   </spell>
   <spell>
-    <name>Spirit of Death</name>
+    <name>Spirit of Death [Legacy]</name>
     <level>4</level>
     <school>N</school>
     <time>1 action</time>
@@ -40,7 +40,7 @@ At Higher Levels: When you cast this spell using a spell slot of 5th level or hi
 Source:	The Book of Many Things p. 50</text>
   </spell>
   <spell>
-    <name>Spray of Cards</name>
+    <name>Spray of Cards [Legacy]</name>
     <level>2</level>
     <school>C</school>
     <time>1 action</time>

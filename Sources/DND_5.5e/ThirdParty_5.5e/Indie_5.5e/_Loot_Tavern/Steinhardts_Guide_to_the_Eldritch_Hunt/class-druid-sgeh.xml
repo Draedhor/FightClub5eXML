@@ -92,39 +92,39 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 141 (Homebrew)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Shillelagh (TP)</name>
+    <name>Shillelagh [TP]</name>
     <classes>Druid (Circle of Symbiosis (HB))</classes>
   </spell>
   <spell>
-    <name>Barkskin (TP)</name>
+    <name>Barkskin [TP]</name>
     <classes>Druid (Circle of Symbiosis (HB))</classes>
   </spell>
   <spell>
-    <name>Skeletal Tail (TP)</name>
+    <name>Skeletal Tail [TP]</name>
     <classes>Druid (Circle of Symbiosis (HB))</classes>
   </spell>
   <spell>
-    <name>Osseous Cage (TP)</name>
+    <name>Osseous Cage [TP]</name>
     <classes>Druid (Circle of Symbiosis (HB))</classes>
   </spell>
   <spell>
-    <name>Plant Growth (TP)</name>
+    <name>Plant Growth [TP]</name>
     <classes>Druid (Circle of Symbiosis (HB))</classes>
   </spell>
   <spell>
-    <name>Maiden of Bones (TP)</name>
+    <name>Maiden of Bones [TP]</name>
     <classes>Druid (Circle of Symbiosis (HB))</classes>
   </spell>
   <spell>
-    <name>Stoneskin (TP)</name>
+    <name>Stoneskin [TP]</name>
     <classes>Druid (Circle of Symbiosis (HB))</classes>
   </spell>
   <spell>
-    <name>Forest of Dread (TP)</name>
+    <name>Forest of Dread [TP]</name>
     <classes>Druid (Circle of Symbiosis (HB))</classes>
   </spell>
   <spell>
-    <name>Tree Stride (TP)</name>
+    <name>Tree Stride [TP]</name>
     <classes>Druid (Circle of Symbiosis (HB))</classes>
   </spell>
 </compendium>

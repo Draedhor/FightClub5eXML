@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Coral</name>
+    <name>Coral [Legacy]</name>
     <size>L</size>
     <type>fey</type>
     <alignment>Chaotic Good</alignment>
@@ -70,7 +70,7 @@ Source:	Misplaced Monsters: Volume One p. 4</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dandylion</name>
+    <name>Dandylion [Legacy]</name>
     <size>L</size>
     <type>fey</type>
     <alignment>Chaotic Neutral</alignment>
@@ -144,7 +144,7 @@ Source:	Misplaced Monsters: Volume One p. 6</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rain</name>
+    <name>Rain [Legacy]</name>
     <size>S</size>
     <type>celestial</type>
     <alignment>Lawful Good</alignment>
@@ -214,7 +214,7 @@ Source:	Misplaced Monsters: Volume One p. 8</description>
     <environment/>
   </monster>
   <monster>
-    <name>Scrapper</name>
+    <name>Scrapper [Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -274,7 +274,7 @@ Source:	Misplaced Monsters: Volume One p. 10</description>
     <environment/>
   </monster>
   <monster>
-    <name>Seth the Shapeshifting Dragon</name>
+    <name>Seth the Shapeshifting Dragon [Legacy]</name>
     <size>M</size>
     <type>dragon</type>
     <alignment>Neutral</alignment>
@@ -347,7 +347,7 @@ Source:	Misplaced Monsters: Volume One p. 12</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sheldon the Blueberry Dragon</name>
+    <name>Sheldon the Blueberry Dragon [Legacy]</name>
     <size>L</size>
     <type>dragon</type>
     <alignment>Neutral Good</alignment>

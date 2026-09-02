@@ -391,115 +391,115 @@ Source:	Zamanora: Ballad of the Witch p. 79 (Homebrew)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Ancestral Guidance (TP)</name>
+    <name>Ancestral Guidance [TP]</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Augury (TP)</name>
+    <name>Augury [TP]</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Guidance (TP)</name>
+    <name>Guidance [TP]</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Inflict Wounds (TP)</name>
+    <name>Inflict Wounds [TP]</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Protection from Evil and Good (TP)</name>
+    <name>Protection from Evil and Good [TP]</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Bestow Curse (TP)</name>
+    <name>Bestow Curse [TP]</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Remove Curse (TP)</name>
+    <name>Remove Curse [TP]</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Banishment (TP)</name>
+    <name>Banishment [TP]</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Spirit Sense (TP)</name>
+    <name>Spirit Sense [TP]</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Dispel Evil and Good (TP)</name>
+    <name>Dispel Evil and Good [TP]</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Reincarnate (TP)</name>
+    <name>Reincarnate [TP]</name>
     <classes>Druid (Circle of the Berendei (HB))</classes>
   </spell>
   <spell>
-    <name>Dissonant Whispers (TP)</name>
+    <name>Dissonant Whispers [TP]</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Elementalism (TP)</name>
+    <name>Elementalism [TP]</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Find Steed (TP)</name>
+    <name>Find Steed [TP]</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Ice Knife (TP)</name>
+    <name>Ice Knife [TP]</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Mirror Image (TP)</name>
+    <name>Mirror Image [TP]</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Fear (TP)</name>
+    <name>Fear [TP]</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Sleet Storm (TP)</name>
+    <name>Sleet Storm [TP]</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Ice Storm (TP)</name>
+    <name>Ice Storm [TP]</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Phantasmal Killer (TP)</name>
+    <name>Phantasmal Killer [TP]</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Deepening Gloom (TP)</name>
+    <name>Deepening Gloom [TP]</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Dream (TP)</name>
+    <name>Dream [TP]</name>
     <classes>Druid (Circle of the Long Night (HB))</classes>
   </spell>
   <spell>
-    <name>Barkskin (TP)</name>
+    <name>Barkskin [TP]</name>
     <classes>Druid (Circle of the Oakenheart (HB))</classes>
   </spell>
   <spell>
-    <name>Ensnaring Strike (TP)</name>
+    <name>Ensnaring Strike [TP]</name>
     <classes>Druid (Circle of the Oakenheart (HB))</classes>
   </spell>
   <spell>
-    <name>Shillelagh (TP)</name>
+    <name>Shillelagh [TP]</name>
     <classes>Druid (Circle of the Oakenheart (HB))</classes>
   </spell>
   <spell>
-    <name>Speak with Plants (TP)</name>
+    <name>Speak with Plants [TP]</name>
     <classes>Druid (Circle of the Oakenheart (HB))</classes>
   </spell>
   <spell>
-    <name>Woodland Awakening (TP)</name>
+    <name>Woodland Awakening [TP]</name>
     <classes>Druid (Circle of the Oakenheart (HB))</classes>
   </spell>
   <spell>
-    <name>Tree Stride (TP)</name>
+    <name>Tree Stride [TP]</name>
     <classes>Druid (Circle of the Oakenheart (HB))</classes>
   </spell>
 </compendium>

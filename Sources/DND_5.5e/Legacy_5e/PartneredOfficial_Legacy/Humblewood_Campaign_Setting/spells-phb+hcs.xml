@@ -1,83 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Bless</name>
+    <name>Bless [TP Legacy]</name>
     <classes>Cleric (Community Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Goodberry</name>
+    <name>Goodberry [TP Legacy]</name>
     <classes>Cleric (Community Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Aid</name>
+    <name>Aid [TP Legacy]</name>
     <classes>Cleric (Community Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Heroism</name>
+    <name>Heroism [TP Legacy]</name>
     <classes>Cleric (Community Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Beacon of Hope</name>
+    <name>Beacon of Hope [TP Legacy]</name>
     <classes>Cleric (Community Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Spirit Guardians</name>
+    <name>Spirit Guardians [TP Legacy]</name>
     <classes>Cleric (Community Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Banishment</name>
+    <name>Banishment [TP Legacy]</name>
     <classes>Cleric (Community Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Mordenkainen's Faithful Hound</name>
+    <name>Mordenkainen's Faithful Hound [TP Legacy]</name>
     <classes>Cleric (Community Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Mass Cure Wounds</name>
+    <name>Mass Cure Wounds [TP Legacy]</name>
     <classes>Cleric (Community Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Rary's Telepathic Bond</name>
+    <name>Rary's Telepathic Bond [TP Legacy]</name>
     <classes>Cleric (Community Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Sleep</name>
+    <name>Sleep [TP Legacy]</name>
     <classes>Cleric (Night Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Veil of Dusk (HB)</name>
+    <name>Veil of Dusk [HB Legacy]</name>
     <classes>Cleric (Night Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Darkness</name>
+    <name>Darkness [TP Legacy]</name>
     <classes>Cleric (Night Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Moonbeam</name>
+    <name>Moonbeam [TP Legacy]</name>
     <classes>Cleric (Night Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Nondetection</name>
+    <name>Nondetection [TP Legacy]</name>
     <classes>Cleric (Night Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Globe of Twilight (HB)</name>
+    <name>Globe of Twilight [HB Legacy]</name>
     <classes>Cleric (Night Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Divination</name>
+    <name>Divination [TP Legacy]</name>
     <classes>Cleric (Night Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Stellar Bodies (HB)</name>
+    <name>Stellar Bodies [HB Legacy]</name>
     <classes>Cleric (Night Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Dream</name>
+    <name>Dream [TP Legacy]</name>
     <classes>Cleric (Night Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Seeming</name>
+    <name>Seeming [TP Legacy]</name>
     <classes>Cleric (Night Domain (Legacy))</classes>
   </spell>
 </compendium>

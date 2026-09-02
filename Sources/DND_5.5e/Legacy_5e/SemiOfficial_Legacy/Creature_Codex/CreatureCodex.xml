@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium auto_indent="NO" version="5">
   <monster>
-    <name>Aatxe</name>
+    <name>Aatxe [TP Legacy]</name>
     <size>L</size>
     <type>celestial (shapechanger)</type>
     <alignment>Good Lawful</alignment>
@@ -78,7 +78,7 @@
     <environment>farmland</environment>
   </monster>
   <monster>
-    <name>Acid Ant</name>
+    <name>Acid Ant [TP Legacy]</name>
     <size>S</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -123,7 +123,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Agnibarra</name>
+    <name>Agnibarra [TP Legacy]</name>
     <size>S</size>
     <type>monstrosity</type>
     <alignment>Chaotic Neutral</alignment>
@@ -168,7 +168,7 @@
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Ahuizotl</name>
+    <name>Ahuizotl [TP Legacy]</name>
     <size>S</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -225,7 +225,7 @@ After stealing an object or weapon, the ahuizotl can move up to its speed as a b
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Ahu-nixta</name>
+    <name>Ahu-nixta [TP Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -290,7 +290,7 @@ The ahu-nixta can exit or enter its clockwork armor as a bonus action.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Alkonost</name>
+    <name>Alkonost [TP Legacy]</name>
     <size>S</size>
     <type>monstrosity</type>
     <alignment>Neutral</alignment>
@@ -331,7 +331,7 @@ The ahu-nixta can exit or enter its clockwork armor as a bonus action.</text>
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Alliumite</name>
+    <name>Alliumite [TP Legacy]</name>
     <size>S</size>
     <type>plant</type>
     <alignment>Chaotic Neutral</alignment>
@@ -376,7 +376,7 @@ The ahu-nixta can exit or enter its clockwork armor as a bonus action.</text>
     <environment>farmland, grassland</environment>
   </monster>
   <monster>
-    <name>Alp</name>
+    <name>Alp [TP Legacy]</name>
     <size>S</size>
     <type>fey (shapechanger)</type>
     <alignment>Chaotic Evil</alignment>
@@ -429,7 +429,7 @@ The ahu-nixta can exit or enter its clockwork armor as a bonus action.</text>
     <environment>farmland</environment>
   </monster>
   <monster>
-    <name>Ammut</name>
+    <name>Ammut [TP Legacy]</name>
     <size>L</size>
     <type>celestial</type>
     <alignment>Neutral</alignment>
@@ -491,7 +491,7 @@ If the ammut takes 30 damage or more on a single turn from the swallowed creatur
     <environment>badlands, coastal</environment>
   </monster>
   <monster>
-    <name>Eye of the Gods</name>
+    <name>Eye of the Gods [TP Legacy]</name>
     <size>S</size>
     <type>celestial (as its creator deity)</type>
     <alignment>Any alignment</alignment>
@@ -542,7 +542,7 @@ If the ammut takes 30 damage or more on a single turn from the swallowed creatur
     <environment/>
   </monster>
   <monster>
-    <name>Kinnara</name>
+    <name>Kinnara [TP Legacy]</name>
     <size>M</size>
     <type>celestial (angel)</type>
     <alignment>Good Lawful</alignment>
@@ -607,7 +607,7 @@ When the kinnara hits with any weapon, the weapon deals an extra 2d8 radiant dam
     <environment/>
   </monster>
   <monster>
-    <name>Ophanim</name>
+    <name>Ophanim [TP Legacy]</name>
     <size>L</size>
     <type>celestial (angel)</type>
     <alignment>Good Lawful</alignment>
@@ -669,7 +669,7 @@ When the kinnara hits with any weapon, the weapon deals an extra 2d8 radiant dam
     <environment/>
   </monster>
   <monster>
-    <name>Sammael</name>
+    <name>Sammael [TP Legacy]</name>
     <size>M</size>
     <type>celestial (angel)</type>
     <alignment>Good Neutral</alignment>
@@ -734,7 +734,7 @@ The sammael's purpose is to punish, but not kill, creatures, inflicting long-ter
     <environment/>
   </monster>
   <monster>
-    <name>Song</name>
+    <name>Song [TP Legacy]</name>
     <size>L</size>
     <type>celestial (angel)</type>
     <alignment>Good Lawful</alignment>
@@ -808,7 +808,7 @@ In the new form, the angel retains its game statistics and the ability to speak,
     <environment/>
   </monster>
   <monster>
-    <name>Zoryas</name>
+    <name>Zoryas [TP Legacy]</name>
     <size>M</size>
     <type>celestial (angel)</type>
     <alignment>Good Lawful</alignment>
@@ -875,7 +875,7 @@ The light dispels up to three spells or other magical effects of 3rd level or lo
     <environment/>
   </monster>
   <monster>
-    <name>Bat King</name>
+    <name>Bat King [TP Legacy]</name>
     <size>S</size>
     <type>fey (shapechanger, animal lord)</type>
     <alignment>Neutral</alignment>
@@ -994,7 +994,7 @@ On a failure, the creature takes 33 (6d10) thunder damage and is deafened for 1 
     <environment/>
   </monster>
   <monster>
-    <name>Brother Ox</name>
+    <name>Brother Ox [TP Legacy]</name>
     <size>H</size>
     <type>fey (shapechanger, animal lord)</type>
     <alignment>Lawful Neutral</alignment>
@@ -1100,7 +1100,7 @@ Brother Ox can't use this legendary action again until the end of his next turn.
     <environment>hill, mountain</environment>
   </monster>
   <monster>
-    <name>Lord of Vultures</name>
+    <name>Lord of Vultures [TP Legacy]</name>
     <size>L</size>
     <type>fey (shapechanger, animal lord)</type>
     <alignment>Good Neutral</alignment>
@@ -1213,7 +1213,7 @@ Sampati must fly at least 30 feet straight towards the target to use this action
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Mouse King</name>
+    <name>Mouse King [TP Legacy]</name>
     <size>S</size>
     <type>fey (shapechanger, animal lord)</type>
     <alignment>Neutral</alignment>
@@ -1328,7 +1328,7 @@ Any equipment he is wearing or carrying transforms with him.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Queen of Birds</name>
+    <name>Queen of Birds [TP Legacy]</name>
     <size>L</size>
     <type>fey (shapechanger, animal lord)</type>
     <alignment>Chaotic Neutral</alignment>
@@ -1434,7 +1434,7 @@ one with her talons and two with her spear.</text>
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Queen of Cats</name>
+    <name>Queen of Cats [TP Legacy]</name>
     <size>L</size>
     <type>fey (shapechanger, animal lord)</type>
     <alignment>Good Chaotic</alignment>
@@ -1553,7 +1553,7 @@ The target must succeed on a DC 18 Dexterity saving throw or shed dim light in a
     <environment/>
   </monster>
   <monster>
-    <name>Queen of Serpents</name>
+    <name>Queen of Serpents [TP Legacy]</name>
     <size>M</size>
     <type>fey (shapechanger, animal lord)</type>
     <alignment>Lawful Neutral</alignment>
@@ -1677,7 +1677,7 @@ Each creature must succeed on a DC 18 Charisma saving throw or be stunned for 10
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Ankou Soul Herald</name>
+    <name>Ankou Soul Herald [TP Legacy]</name>
     <size>G</size>
     <type>dragon</type>
     <alignment>Neutral</alignment>
@@ -1787,7 +1787,7 @@ A creature can repeat the saving throw at the end of each of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Ankou Soul Seeker</name>
+    <name>Ankou Soul Seeker [TP Legacy]</name>
     <size>L</size>
     <type>dragon</type>
     <alignment>Neutral</alignment>
@@ -1852,7 +1852,7 @@ A creature can repeat the saving throw at the end of each of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Anophiloi</name>
+    <name>Anophiloi [TP Legacy]</name>
     <size>S</size>
     <type>monstrosity</type>
     <alignment>Neutral</alignment>
@@ -1906,7 +1906,7 @@ The anophiloi can detach itself by spending 5 feet of its movement. It does so a
     <environment>farmland, forest</environment>
   </monster>
   <monster>
-    <name>Arborcyte</name>
+    <name>Arborcyte [TP Legacy]</name>
     <size>L</size>
     <type>plant</type>
     <alignment>Chaotic Neutral</alignment>
@@ -1953,7 +1953,7 @@ Until this grapple ends, the target takes 7 (2d6) acid damage at the start of ea
     <environment>farmland, forest, grassland</environment>
   </monster>
   <monster>
-    <name>Arcamag</name>
+    <name>Arcamag [TP Legacy]</name>
     <size>T</size>
     <type>monstrosity (shapechanger)</type>
     <alignment>Neutral</alignment>
@@ -2007,7 +2007,7 @@ The host can use its action to detach the arcamag only after the host has expend
     <environment/>
   </monster>
   <monster>
-    <name>Arcanaphage</name>
+    <name>Arcanaphage [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -2063,7 +2063,7 @@ The host can use its action to detach the arcamag only after the host has expend
     <environment/>
   </monster>
   <monster>
-    <name>Astral Snapper</name>
+    <name>Astral Snapper [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -2107,7 +2107,7 @@ If both attacks hit the same target, the target must succeed on a DC 13 Wisdom s
     <environment>farmland</environment>
   </monster>
   <monster>
-    <name>Azeban</name>
+    <name>Azeban [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Chaotic Neutral</alignment>
@@ -2170,7 +2170,7 @@ If both attacks hit the same target, the target must succeed on a DC 13 Wisdom s
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Azi Dahaka</name>
+    <name>Azi Dahaka [TP Legacy]</name>
     <size>H</size>
     <type>dragon</type>
     <alignment>Chaotic Evil</alignment>
@@ -2259,7 +2259,7 @@ Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity sav
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Baba Yaga</name>
+    <name>Baba Yaga [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Chaotic Neutral</alignment>
@@ -2368,7 +2368,7 @@ The target must succeed on a DC 20 Constitution saving throw or have disadvantag
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Iron Teeth of Baba Yaga, The</name>
+    <name>Iron Teeth of Baba Yaga, The [TP Legacy]</name>
     <size>T</size>
     <type>fey</type>
     <alignment>Chaotic Neutral</alignment>
@@ -2409,7 +2409,7 @@ The target must succeed on a DC 20 Constitution saving throw or have disadvantag
     <environment/>
   </monster>
   <monster>
-    <name>Bar Brawl</name>
+    <name>Bar Brawl [TP Legacy]</name>
     <size>H</size>
     <type>humanoid</type>
     <alignment>Unaligned</alignment>
@@ -2463,7 +2463,7 @@ The target must succeed on a DC 20 Constitution saving throw or have disadvantag
     <environment/>
   </monster>
   <monster>
-    <name>Barong</name>
+    <name>Barong [TP Legacy]</name>
     <size>L</size>
     <type>celestial</type>
     <alignment>Good Lawful</alignment>
@@ -2551,7 +2551,7 @@ The target must succeed on a DC 20 Constitution saving throw or have disadvantag
     <environment/>
   </monster>
   <monster>
-    <name>Giant Albino Bat</name>
+    <name>Giant Albino Bat [TP Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -2586,7 +2586,7 @@ The target must succeed on a DC 20 Constitution saving throw or have disadvantag
     <environment>farmland, forest, grassland, mountain</environment>
   </monster>
   <monster>
-    <name>Giant Vampire Bat</name>
+    <name>Giant Vampire Bat [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -2626,7 +2626,7 @@ The target must succeed on a DC 20 Constitution saving throw or have disadvantag
     <environment>grassland, mountain</environment>
   </monster>
   <monster>
-    <name>Bearfolk Chieftain</name>
+    <name>Bearfolk Chieftain [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (bearfolk)</type>
     <alignment>Good Chaotic</alignment>
@@ -2690,7 +2690,7 @@ Attack rolls made against a frenzied bearfolk have advantage.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Bearmit Crab</name>
+    <name>Bearmit Crab [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -2744,7 +2744,7 @@ Attack rolls made against a frenzied bearfolk have advantage.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Bilwis</name>
+    <name>Bilwis [TP Legacy]</name>
     <size>M</size>
     <type>elemental</type>
     <alignment>Chaotic Evil</alignment>
@@ -2785,7 +2785,7 @@ Attack rolls made against a frenzied bearfolk have advantage.</text>
     <environment>farmland</environment>
   </monster>
   <monster>
-    <name>Bloody Bones</name>
+    <name>Bloody Bones [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -2837,7 +2837,7 @@ Attack rolls made against a frenzied bearfolk have advantage.</text>
     <environment>farmland</environment>
   </monster>
   <monster>
-    <name>Bookkeeper</name>
+    <name>Bookkeeper [TP Legacy]</name>
     <size>T</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -2891,7 +2891,7 @@ When its hp maximum reaches 0, it dies. If its creator dies, the bookkeeper can 
     <environment/>
   </monster>
   <monster>
-    <name>Boot Grabber</name>
+    <name>Boot Grabber [TP Legacy]</name>
     <size>S</size>
     <type>aberration</type>
     <alignment>Neutral</alignment>
@@ -2941,7 +2941,7 @@ A Large or smaller creature adhered to the boot grabber is also grappled by it (
     <environment/>
   </monster>
   <monster>
-    <name>Carbuncle</name>
+    <name>Carbuncle [TP Legacy]</name>
     <size>S</size>
     <type>monstrosity</type>
     <alignment>Good Chaotic</alignment>
@@ -2994,7 +2994,7 @@ A Large or smaller creature adhered to the boot grabber is also grappled by it (
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Cats of Ulthar</name>
+    <name>Cats of Ulthar [TP Legacy]</name>
     <size>H</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -3038,7 +3038,7 @@ A Large or smaller creature adhered to the boot grabber is also grappled by it (
     <environment>farmland</environment>
   </monster>
   <monster>
-    <name>Cauldronborn</name>
+    <name>Cauldronborn [TP Legacy]</name>
     <size>S</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -3097,7 +3097,7 @@ Along with the potion's effect, the cauldronborn's hp maximum increases by 3 (1d
     <environment/>
   </monster>
   <monster>
-    <name>Centaur Chieftain</name>
+    <name>Centaur Chieftain [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Neutral</alignment>
@@ -3161,7 +3161,7 @@ The attack leaves the centaur chieftain vulnerable, reducing its Armor Class by 
     <environment>grassland</environment>
   </monster>
   <monster>
-    <name>Child of Yggdrasil</name>
+    <name>Child of Yggdrasil [TP Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -3209,7 +3209,7 @@ The attack leaves the centaur chieftain vulnerable, reducing its Armor Class by 
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Chuhaister</name>
+    <name>Chuhaister [TP Legacy]</name>
     <size>L</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -3267,7 +3267,7 @@ The shield splinters and disappears afterwards.</text>
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Chupacabra</name>
+    <name>Chupacabra [TP Legacy]</name>
     <size>S</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -3318,7 +3318,7 @@ While attached, the chupacabra doesn't attack.</text>
     <environment>grassland</environment>
   </monster>
   <monster>
-    <name>Clockwork Assassin</name>
+    <name>Clockwork Assassin [TP Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -3387,7 +3387,7 @@ While attached, the chupacabra doesn't attack.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Clockwork Servant</name>
+    <name>Clockwork Servant [TP Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -3431,7 +3431,7 @@ While attached, the chupacabra doesn't attack.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Clockwork Soldier</name>
+    <name>Clockwork Soldier [TP Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -3480,7 +3480,7 @@ While attached, the chupacabra doesn't attack.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Corpse Thief</name>
+    <name>Corpse Thief [TP Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>Neutral</alignment>
@@ -3528,7 +3528,7 @@ If the most recent owner is dead, the corpse thief can learn five things about t
     <environment/>
   </monster>
   <monster>
-    <name>Crimson Mist</name>
+    <name>Crimson Mist [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -3584,7 +3584,7 @@ The mist can only engulf one Medium or smaller creature at a time.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Cueyatl</name>
+    <name>Cueyatl [TP Legacy]</name>
     <size>S</size>
     <type>humanoid</type>
     <alignment>Lawful Evil</alignment>
@@ -3632,7 +3632,7 @@ The mist can only engulf one Medium or smaller creature at a time.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Cueyatl Moon Priest</name>
+    <name>Cueyatl Moon Priest [TP Legacy]</name>
     <size>S</size>
     <type>humanoid</type>
     <alignment>Lawful Evil</alignment>
@@ -3698,7 +3698,7 @@ A creature that has total cover from the moon priest is not affected.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Cueyatl Sea Priest</name>
+    <name>Cueyatl Sea Priest [TP Legacy]</name>
     <size>S</size>
     <type>humanoid</type>
     <alignment>Lawful Evil</alignment>
@@ -3761,7 +3761,7 @@ A creature that has total cover from the moon priest is not affected.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Cueyatl Warrior</name>
+    <name>Cueyatl Warrior [TP Legacy]</name>
     <size>S</size>
     <type>humanoid</type>
     <alignment>Lawful Evil</alignment>
@@ -3809,7 +3809,7 @@ A creature that has total cover from the moon priest is not affected.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Dakini, Simhamukha</name>
+    <name>Dakini, Simhamukha [TP Legacy]</name>
     <size>H</size>
     <type>celestial (dakini)</type>
     <alignment>Good Chaotic</alignment>
@@ -3885,7 +3885,7 @@ On a failure, a creature takes 13 (3d8) bludgeoning damage and is knocked prone.
     <environment/>
   </monster>
   <monster>
-    <name>Dark Father</name>
+    <name>Dark Father [TP Legacy]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>Lawful Neutral</alignment>
@@ -3939,7 +3939,7 @@ The target must succeed on a DC 14 Constitution saving throw or its hp maximum i
     <environment/>
   </monster>
   <monster>
-    <name>Dark Eye</name>
+    <name>Dark Eye [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (dark folk)</type>
     <alignment>Neutral Evil</alignment>
@@ -3989,7 +3989,7 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
     <environment/>
   </monster>
   <monster>
-    <name>Dark Servant</name>
+    <name>Dark Servant [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (dark folk)</type>
     <alignment>Neutral Evil</alignment>
@@ -4046,7 +4046,7 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
     <environment/>
   </monster>
   <monster>
-    <name>Dark Voice</name>
+    <name>Dark Voice [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (dark folk)</type>
     <alignment>Neutral Evil</alignment>
@@ -4106,7 +4106,7 @@ Each non-dark folk creature in the area must succeed on a DC 15 Charisma saving 
     <environment/>
   </monster>
   <monster>
-    <name>Chemosh, Demon Lord of Conquest</name>
+    <name>Chemosh, Demon Lord of Conquest [TP Legacy]</name>
     <size>H</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4207,7 +4207,7 @@ Chemosh can summon up to three vrocks per day.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Chittr'k'k, Demon Lord of Rats</name>
+    <name>Chittr'k'k, Demon Lord of Rats [TP Legacy]</name>
     <size>M</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4288,7 +4288,7 @@ This trait works like the freedom of movement spell, except it only lasts for 1 
     <environment/>
   </monster>
   <monster>
-    <name>Rangda, Demon Lord of Witches</name>
+    <name>Rangda, Demon Lord of Witches [TP Legacy]</name>
     <size>L</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4383,7 +4383,7 @@ If the target is a humanoid, it must succeed on a DC 19 Constitution saving thro
     <environment/>
   </monster>
   <monster>
-    <name>Typhon, Father of Monsters</name>
+    <name>Typhon, Father of Monsters [TP Legacy]</name>
     <size>G</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4471,7 +4471,7 @@ If the target is a humanoid, it must succeed on a DC 19 Constitution saving thro
     <environment/>
   </monster>
   <monster>
-    <name>Alnaar</name>
+    <name>Alnaar [TP Legacy]</name>
     <size>L</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4525,7 +4525,7 @@ Nonmagical weapons and objects with Armor Class 15 or lower are immediately dest
     <environment/>
   </monster>
   <monster>
-    <name>Cipactli</name>
+    <name>Cipactli [TP Legacy]</name>
     <size>M</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4588,7 +4588,7 @@ The cipactli can only devour one target at a time. A creature, including the dev
     <environment/>
   </monster>
   <monster>
-    <name>Echo</name>
+    <name>Echo [TP Legacy]</name>
     <size>M</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4634,7 +4634,7 @@ The cipactli can only devour one target at a time. A creature, including the dev
     <environment/>
   </monster>
   <monster>
-    <name>Fulad-zereh</name>
+    <name>Fulad-zereh [TP Legacy]</name>
     <size>M</size>
     <type>fiend (demon, shapechanger)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4687,7 +4687,7 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
     <environment/>
   </monster>
   <monster>
-    <name>Neophron</name>
+    <name>Neophron [TP Legacy]</name>
     <size>M</size>
     <type>fiend (shapechanger, demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4737,7 +4737,7 @@ The target must succeed on a DC 16 Constitution saving throw or be poisoned unti
     <environment/>
   </monster>
   <monster>
-    <name>Pishacha</name>
+    <name>Pishacha [TP Legacy]</name>
     <size>M</size>
     <type>fiend (shapechanger)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4799,7 +4799,7 @@ The target is immune to possession by the same pishacha for 24 hours after succe
     <environment/>
   </monster>
   <monster>
-    <name>Plaresh</name>
+    <name>Plaresh [TP Legacy]</name>
     <size>M</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4849,7 +4849,7 @@ The target is immune to possession by the same pishacha for 24 hours after succe
     <environment/>
   </monster>
   <monster>
-    <name>Rattok</name>
+    <name>Rattok [TP Legacy]</name>
     <size>S</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4908,7 +4908,7 @@ The target is immune to possession by the same pishacha for 24 hours after succe
     <environment/>
   </monster>
   <monster>
-    <name>Spree</name>
+    <name>Spree [TP Legacy]</name>
     <size>S</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4957,7 +4957,7 @@ On a failure, the target can't take reactions and must roll a d10 at the start o
     <environment/>
   </monster>
   <monster>
-    <name>Vellso</name>
+    <name>Vellso [TP Legacy]</name>
     <size>M</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -5014,7 +5014,7 @@ On a failure, the target can't take reactions and must roll a d10 at the start o
     <environment/>
   </monster>
   <monster>
-    <name>Wind Demon</name>
+    <name>Wind Demon [TP Legacy]</name>
     <size>S</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -5062,7 +5062,7 @@ On a failure, the target can't take reactions and must roll a d10 at the start o
     <environment/>
   </monster>
   <monster>
-    <name>Yek</name>
+    <name>Yek [TP Legacy]</name>
     <size>S</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -5115,7 +5115,7 @@ On a failure, the target can't take reactions and must roll a d10 at the start o
     <environment/>
   </monster>
   <monster>
-    <name>Alpha Yek</name>
+    <name>Alpha Yek [TP Legacy]</name>
     <size>M</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -5169,7 +5169,7 @@ On a failure, the target can't take reactions and must roll a d10 at the start o
     <environment/>
   </monster>
   <monster>
-    <name>Speaker To The Darkness</name>
+    <name>Speaker To The Darkness [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (derro)</type>
     <alignment>Chaotic Evil</alignment>
@@ -5225,7 +5225,7 @@ This darkness works like the darkness spell, except creatures inside it have dis
     <environment/>
   </monster>
   <monster>
-    <name>Witch Queen</name>
+    <name>Witch Queen [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (derro)</type>
     <alignment>Chaotic Evil</alignment>
@@ -5282,7 +5282,7 @@ This darkness works like the darkness spell, except creatures inside it have dis
     <environment/>
   </monster>
   <monster>
-    <name>Devil Shark</name>
+    <name>Devil Shark [TP Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -5346,7 +5346,7 @@ If the devil shark takes 30 damage or more on a single turn from a swallowed cre
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Belphegor, Hell's Inventor</name>
+    <name>Belphegor, Hell's Inventor [TP Legacy]</name>
     <size>H</size>
     <type>fiend (devil)</type>
     <alignment>Lawful Evil</alignment>
@@ -5445,7 +5445,7 @@ Each creature trapped in his flail by Form the Chain must succeed on a DC 20 Con
     <environment/>
   </monster>
   <monster>
-    <name>Parzelon, King of Secrets</name>
+    <name>Parzelon, King of Secrets [TP Legacy]</name>
     <size>H</size>
     <type>fiend (devil)</type>
     <alignment>Lawful Evil</alignment>
@@ -5547,7 +5547,7 @@ Each creature trapped in his flail by Form the Chain must succeed on a DC 20 Con
     <environment/>
   </monster>
   <monster>
-    <name>Spawn of Parzelon</name>
+    <name>Spawn of Parzelon [TP Legacy]</name>
     <size>M</size>
     <type>fiend (devil)</type>
     <alignment>Lawful Evil</alignment>
@@ -5625,7 +5625,7 @@ A creature can repeat the saving throw at the end of each of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Fire Imp</name>
+    <name>Fire Imp [TP Legacy]</name>
     <size>T</size>
     <type>fiend (devil)</type>
     <alignment>Lawful Evil</alignment>
@@ -5679,7 +5679,7 @@ A creature can repeat the saving throw at the end of each of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Infernal Knight</name>
+    <name>Infernal Knight [TP Legacy]</name>
     <size>M</size>
     <type>fiend (devil)</type>
     <alignment>Lawful Evil</alignment>
@@ -5750,7 +5750,7 @@ A banishment spell targeted at the greatsword forces the infernal knight to make
     <environment/>
   </monster>
   <monster>
-    <name>Wind's Harp</name>
+    <name>Wind's Harp [TP Legacy]</name>
     <size>M</size>
     <type>fiend (devil)</type>
     <alignment>Lawful Evil</alignment>
@@ -5807,7 +5807,7 @@ A banishment spell targeted at the greatsword forces the infernal knight to make
     <environment/>
   </monster>
   <monster>
-    <name>Dhampir</name>
+    <name>Dhampir [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (dhampir)</type>
     <alignment>Any alignment</alignment>
@@ -5864,7 +5864,7 @@ If the target's saving throw is successful or the effect ends, the target is imm
     <environment/>
   </monster>
   <monster>
-    <name>Dhampir Commander</name>
+    <name>Dhampir Commander [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (dhampir)</type>
     <alignment>Any alignment</alignment>
@@ -5931,7 +5931,7 @@ If the target's saving throw is successful or the effect ends, the target is imm
     <environment/>
   </monster>
   <monster>
-    <name>Archaeopteryx</name>
+    <name>Archaeopteryx [TP Legacy]</name>
     <size>T</size>
     <type>beast (dinosaur)</type>
     <alignment>Unaligned</alignment>
@@ -5976,7 +5976,7 @@ If the target's saving throw is successful or the effect ends, the target is imm
     <environment>forest, swamp</environment>
   </monster>
   <monster>
-    <name>Lystrosaurus</name>
+    <name>Lystrosaurus [TP Legacy]</name>
     <size>M</size>
     <type>beast (dinosaur)</type>
     <alignment>Unaligned</alignment>
@@ -6017,7 +6017,7 @@ If the target's saving throw is successful or the effect ends, the target is imm
     <environment>grassland</environment>
   </monster>
   <monster>
-    <name>Nodosaurus</name>
+    <name>Nodosaurus [TP Legacy]</name>
     <size>L</size>
     <type>beast (dinosaur)</type>
     <alignment>Unaligned</alignment>
@@ -6053,7 +6053,7 @@ If the target's saving throw is successful or the effect ends, the target is imm
     <environment>grassland, swamp</environment>
   </monster>
   <monster>
-    <name>Dracotaur</name>
+    <name>Dracotaur [TP Legacy]</name>
     <size>L</size>
     <type>dragon</type>
     <alignment>Chaotic Neutral</alignment>
@@ -6113,7 +6113,7 @@ If the target's saving throw is successful or the effect ends, the target is imm
     <environment>grassland</environment>
   </monster>
   <monster>
-    <name>One-headed Clockwork Dragon</name>
+    <name>One-headed Clockwork Dragon [TP Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -6188,7 +6188,7 @@ Each circlet is a magic item that must be attuned.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Three-headed Clockwork Dragon</name>
+    <name>Three-headed Clockwork Dragon [TP Legacy]</name>
     <size>H</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -6262,7 +6262,7 @@ Each circlet is a magic item that must be attuned.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Light Dragon Wyrmling</name>
+    <name>Light Dragon Wyrmling [TP Legacy]</name>
     <size>M</size>
     <type>dragon</type>
     <alignment>Good Neutral</alignment>
@@ -6316,7 +6316,7 @@ Undead within the area of effect must also make a DC 12 Wisdom saving throw or b
     <environment/>
   </monster>
   <monster>
-    <name>Young Light Dragon</name>
+    <name>Young Light Dragon [TP Legacy]</name>
     <size>L</size>
     <type>dragon</type>
     <alignment>Good Neutral</alignment>
@@ -6370,7 +6370,7 @@ Undead within the area of effect must also make a DC 15 Wisdom saving throw or b
     <environment/>
   </monster>
   <monster>
-    <name>Adult Light Dragon</name>
+    <name>Adult Light Dragon [TP Legacy]</name>
     <size>H</size>
     <type>dragon</type>
     <alignment>Good Neutral</alignment>
@@ -6477,7 +6477,7 @@ Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity sav
     <environment/>
   </monster>
   <monster>
-    <name>Ancient Light Dragon</name>
+    <name>Ancient Light Dragon [TP Legacy]</name>
     <size>G</size>
     <type>dragon</type>
     <alignment>Good Neutral</alignment>
@@ -6581,7 +6581,7 @@ Each creature within 10 feet of the dragon must succeed on a DC 23 Dexterity sav
     <environment/>
   </monster>
   <monster>
-    <name>Wasteland Dragon Wyrmling</name>
+    <name>Wasteland Dragon Wyrmling [TP Legacy]</name>
     <size>M</size>
     <type>dragon</type>
     <alignment>Chaotic Evil</alignment>
@@ -6618,7 +6618,7 @@ Each creature within 10 feet of the dragon must succeed on a DC 23 Dexterity sav
     <environment>badlands, hill</environment>
   </monster>
   <monster>
-    <name>Young Wasteland Dragon</name>
+    <name>Young Wasteland Dragon [TP Legacy]</name>
     <size>L</size>
     <type>dragon</type>
     <alignment>Chaotic Evil</alignment>
@@ -6664,7 +6664,7 @@ Each creature within 10 feet of the dragon must succeed on a DC 23 Dexterity sav
     <environment>badlands, hill</environment>
   </monster>
   <monster>
-    <name>Adult Wasteland Dragon</name>
+    <name>Adult Wasteland Dragon [TP Legacy]</name>
     <size>H</size>
     <type>dragon</type>
     <alignment>Chaotic Evil</alignment>
@@ -6746,7 +6746,7 @@ Each creature within 10 feet of the dragon must succeed on a DC 18 Dexterity sav
     <environment>badlands, hill</environment>
   </monster>
   <monster>
-    <name>Ancient Wasteland Dragon</name>
+    <name>Ancient Wasteland Dragon [TP Legacy]</name>
     <size>G</size>
     <type>dragon</type>
     <alignment>Chaotic Evil</alignment>
@@ -6830,7 +6830,7 @@ Each creature within 15 feet of the dragon must succeed on a DC 20 Dexterity sav
     <environment>badlands, hill</environment>
   </monster>
   <monster>
-    <name>Edjet</name>
+    <name>Edjet [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (dragonborn)</type>
     <alignment>Lawful Neutral</alignment>
@@ -6889,7 +6889,7 @@ Each creature within 15 feet of the dragon must succeed on a DC 20 Dexterity sav
     <environment/>
   </monster>
   <monster>
-    <name>Elementalist</name>
+    <name>Elementalist [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (dragonborn)</type>
     <alignment>Lawful Neutral</alignment>
@@ -6962,7 +6962,7 @@ It can cast the blade ward cantrip at will and can cast meld into stone or shatt
     <environment/>
   </monster>
   <monster>
-    <name>Heavy Cavalry</name>
+    <name>Heavy Cavalry [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (dragonborn)</type>
     <alignment>Lawful Neutral</alignment>
@@ -7021,7 +7021,7 @@ Heavy Crossbow. Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. 
     <environment/>
   </monster>
   <monster>
-    <name>Light Cavalry</name>
+    <name>Light Cavalry [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (dragonborn)</type>
     <alignment>Lawful Neutral</alignment>
@@ -7071,7 +7071,7 @@ All creatures in that area must make a DC 12 Dexterity saving throw, taking 10 (
     <environment/>
   </monster>
   <monster>
-    <name>Ouroban</name>
+    <name>Ouroban [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (dragonborn)</type>
     <alignment>Neutral Evil</alignment>
@@ -7139,7 +7139,7 @@ The ouroban has advantage on attack rolls and ability checks against a creature 
     <environment/>
   </monster>
   <monster>
-    <name>Bathhouse Drake</name>
+    <name>Bathhouse Drake [TP Legacy]</name>
     <size>M</size>
     <type>dragon</type>
     <alignment>Lawful Neutral</alignment>
@@ -7207,7 +7207,7 @@ one with its bite and two with its claws. Alternatively, it can use Scalding Jet
     <environment>farmland</environment>
   </monster>
   <monster>
-    <name>Fey Drake</name>
+    <name>Fey Drake [TP Legacy]</name>
     <size>S</size>
     <type>dragon</type>
     <alignment>Chaotic Neutral</alignment>
@@ -7266,7 +7266,7 @@ one with its bite and two with its claws. Alternatively, it can use Scalding Jet
     <environment/>
   </monster>
   <monster>
-    <name>Forest Drake</name>
+    <name>Forest Drake [TP Legacy]</name>
     <size>S</size>
     <type>dragon</type>
     <alignment>Neutral</alignment>
@@ -7317,7 +7317,7 @@ Additionally, if it ends its jump within 5 feet of a creature, the first attack 
     <environment/>
   </monster>
   <monster>
-    <name>Moon Drake</name>
+    <name>Moon Drake [TP Legacy]</name>
     <size>M</size>
     <type>dragon</type>
     <alignment>Neutral</alignment>
@@ -7383,7 +7383,7 @@ Under any other moon, it gains no extra traits.</text>
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Pact Drake</name>
+    <name>Pact Drake [TP Legacy]</name>
     <size>S</size>
     <type>dragon</type>
     <alignment>Lawful Neutral</alignment>
@@ -7449,7 +7449,7 @@ Under any other moon, it gains no extra traits.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Peluda Drake</name>
+    <name>Peluda Drake [TP Legacy]</name>
     <size>L</size>
     <type>dragon</type>
     <alignment>Chaotic Neutral</alignment>
@@ -7510,7 +7510,7 @@ The drake exhales acid in a 15-foot line that is 5 feet wide. Each creature in t
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Skull Drake</name>
+    <name>Skull Drake [TP Legacy]</name>
     <size>M</size>
     <type>dragon</type>
     <alignment>Neutral</alignment>
@@ -7559,7 +7559,7 @@ The drake exhales acid in a 15-foot line that is 5 feet wide. Each creature in t
     <environment/>
   </monster>
   <monster>
-    <name>Spider Drake</name>
+    <name>Spider Drake [TP Legacy]</name>
     <size>L</size>
     <type>dragon</type>
     <alignment>Lawful Evil</alignment>
@@ -7612,7 +7612,7 @@ The drake exhales acid in a 15-foot line that is 5 feet wide. Each creature in t
     <environment/>
   </monster>
   <monster>
-    <name>Dream Squire</name>
+    <name>Dream Squire [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Neutral</alignment>
@@ -7670,7 +7670,7 @@ On a failure, the squire's bond with its master is broken, and it returns to its
     <environment/>
   </monster>
   <monster>
-    <name>Dream Wraith</name>
+    <name>Dream Wraith [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -7724,7 +7724,7 @@ The dream wraith gains temporary hp for 1 hour equal to the amount of hp the cre
     <environment>farmland</environment>
   </monster>
   <monster>
-    <name>Dust Goblin Chieftain</name>
+    <name>Dust Goblin Chieftain [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (goblinoid)</type>
     <alignment>Neutral Evil</alignment>
@@ -7788,7 +7788,7 @@ The target must succeed on a DC 13 Constitution saving throw or be poisoned for 
     <environment>badlands</environment>
   </monster>
   <monster>
-    <name>Dvarapala</name>
+    <name>Dvarapala [TP Legacy]</name>
     <size>H</size>
     <type>giant (as its patron deity)</type>
     <alignment>Any alignment</alignment>
@@ -7851,7 +7851,7 @@ The target must succeed on a DC 13 Constitution saving throw or be poisoned for 
     <environment/>
   </monster>
   <monster>
-    <name>Blood Elemental</name>
+    <name>Blood Elemental [TP Legacy]</name>
     <size>L</size>
     <type>elemental</type>
     <alignment>Neutral</alignment>
@@ -7910,7 +7910,7 @@ A creature within 5 feet of the elemental can use its action to make a DC 15 Str
     <environment/>
   </monster>
   <monster>
-    <name>Storm Lord</name>
+    <name>Storm Lord [TP Legacy]</name>
     <size>H</size>
     <type>elemental</type>
     <alignment>Neutral</alignment>
@@ -7965,7 +7965,7 @@ Each creature that starts its turn within 30 feet of the storm lord must succeed
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Venom Elemental</name>
+    <name>Venom Elemental [TP Legacy]</name>
     <size>L</size>
     <type>elemental</type>
     <alignment>Neutral</alignment>
@@ -8009,7 +8009,7 @@ Each creature that starts its turn within 30 feet of the storm lord must succeed
     <environment/>
   </monster>
   <monster>
-    <name>Alchemist Archer</name>
+    <name>Alchemist Archer [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (elf)</type>
     <alignment>Any alignment</alignment>
@@ -8074,7 +8074,7 @@ Each creature that starts its turn within 30 feet of the storm lord must succeed
     <environment/>
   </monster>
   <monster>
-    <name>Deathsworn</name>
+    <name>Deathsworn [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (elf)</type>
     <alignment>Chaotic Neutral</alignment>
@@ -8149,7 +8149,7 @@ Each creature that starts its turn within 30 feet of the storm lord must succeed
     <environment/>
   </monster>
   <monster>
-    <name>Enchanter</name>
+    <name>Enchanter [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (elf)</type>
     <alignment>Any alignment</alignment>
@@ -8215,7 +8215,7 @@ The effect also ends if the creature can no longer see or hear the enchanter. If
     <environment/>
   </monster>
   <monster>
-    <name>Servant of the Vine</name>
+    <name>Servant of the Vine [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (elf)</type>
     <alignment>Chaotic Neutral</alignment>
@@ -8278,7 +8278,7 @@ The effect also ends if the creature can no longer see or hear the enchanter. If
     <environment/>
   </monster>
   <monster>
-    <name>Shadow Fey Ambassador</name>
+    <name>Shadow Fey Ambassador [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (elf)</type>
     <alignment>Lawful Evil</alignment>
@@ -8344,7 +8344,7 @@ Each time a charmed target witnesses the shadow fey ambassador or its allies do 
     <environment/>
   </monster>
   <monster>
-    <name>Knight of the Road</name>
+    <name>Knight of the Road [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (elf)</type>
     <alignment>Lawful Evil</alignment>
@@ -8416,7 +8416,7 @@ Each time a charmed target witnesses the shadow fey ambassador or its allies do 
     <environment/>
   </monster>
   <monster>
-    <name>Pattern Dancer</name>
+    <name>Pattern Dancer [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (elf)</type>
     <alignment>Chaotic Evil</alignment>
@@ -8497,7 +8497,7 @@ reactions to complete it. These spells are listed in innate spellcasting.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Shadow Fey Poisoner</name>
+    <name>Shadow Fey Poisoner [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (elf)</type>
     <alignment>Neutral</alignment>
@@ -8572,7 +8572,7 @@ reactions to complete it. These spells are listed in innate spellcasting.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Elophar</name>
+    <name>Elophar [TP Legacy]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -8621,7 +8621,7 @@ reactions to complete it. These spells are listed in innate spellcasting.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Exploding Toad</name>
+    <name>Exploding Toad [TP Legacy]</name>
     <size>T</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -8679,7 +8679,7 @@ Each creature in the area must make a DC 11 Dexterity saving throw, taking 10 (3
     <environment>swamp</environment>
   </monster>
   <monster>
-    <name>Far Wanderer</name>
+    <name>Far Wanderer [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Neutral</alignment>
@@ -8731,7 +8731,7 @@ It can end this effect as a bonus action or by using an action to change the tar
     <environment/>
   </monster>
   <monster>
-    <name>Fear Liath</name>
+    <name>Fear Liath [TP Legacy]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -8777,7 +8777,7 @@ The target must succeed on a DC 13 Constitution saving throw or be blinded for 1
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Berchta</name>
+    <name>Berchta [TP Legacy]</name>
     <size>M</size>
     <type>fey (shapechanger)</type>
     <alignment>Lawful Neutral</alignment>
@@ -8869,7 +8869,7 @@ The target must succeed on a DC 13 Constitution saving throw or be blinded for 1
     <environment>farmland, forest</environment>
   </monster>
   <monster>
-    <name>Reynard</name>
+    <name>Reynard [TP Legacy]</name>
     <size>M</size>
     <type>fey (shapechanger)</type>
     <alignment>Chaotic Neutral</alignment>
@@ -8950,7 +8950,7 @@ His statistics, other than his size and speed, are the same in each form. Any eq
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Fierstjerren</name>
+    <name>Fierstjerren [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -9006,7 +9006,7 @@ When it has 40 hp or fewer, its weapon attacks instead deal an extra 13 (3d8) ne
     <environment/>
   </monster>
   <monster>
-    <name>Flame Eater Swarm</name>
+    <name>Flame Eater Swarm [TP Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -9050,7 +9050,7 @@ When it has 40 hp or fewer, its weapon attacks instead deal an extra 13 (3d8) ne
     <environment/>
   </monster>
   <monster>
-    <name>Flame-scourged Scion</name>
+    <name>Flame-scourged Scion [TP Legacy]</name>
     <size>H</size>
     <type>aberration</type>
     <alignment>Chaotic Evil</alignment>
@@ -9105,7 +9105,7 @@ If the target is a Large or smaller creature, it is grappled (escape DC 16). Unt
     <environment>badlands, forest</environment>
   </monster>
   <monster>
-    <name>Flesh Reaver</name>
+    <name>Flesh Reaver [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -9154,7 +9154,7 @@ If the target is a Large or smaller creature, it is grappled (escape DC 16). Unt
     <environment/>
   </monster>
   <monster>
-    <name>Fleshpod Hornet</name>
+    <name>Fleshpod Hornet [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -9206,7 +9206,7 @@ The tumor can be excised with a DC 15 Wisdom (Medicine) check, causing 16 (3d10)
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Flying Polyp</name>
+    <name>Flying Polyp [TP Legacy]</name>
     <size>H</size>
     <type>aberration</type>
     <alignment>Chaotic Evil</alignment>
@@ -9287,7 +9287,7 @@ Each creature in the wind when it appears or that starts its turn in the wind mu
     <environment/>
   </monster>
   <monster>
-    <name>Foxin</name>
+    <name>Foxin [TP Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>Neutral</alignment>
@@ -9334,7 +9334,7 @@ A creature has advantage on the saving throw if it suffers any harm while charme
     <environment>grassland</environment>
   </monster>
   <monster>
-    <name>Fragrite</name>
+    <name>Fragrite [TP Legacy]</name>
     <size>M</size>
     <type>elemental (shapechanger)</type>
     <alignment>Chaotic Neutral</alignment>
@@ -9391,7 +9391,7 @@ Each creature within 15 feet of it must make a DC 14 Dexterity saving throw, tak
     <environment>badlands</environment>
   </monster>
   <monster>
-    <name>Fulminar</name>
+    <name>Fulminar [TP Legacy]</name>
     <size>L</size>
     <type>elemental</type>
     <alignment>Neutral</alignment>
@@ -9449,7 +9449,7 @@ Each creature within 15 feet of it must make a DC 14 Dexterity saving throw, tak
     <environment>grassland, hill, mountain</environment>
   </monster>
   <monster>
-    <name>Wirbeln Fungi</name>
+    <name>Wirbeln Fungi [TP Legacy]</name>
     <size>S</size>
     <type>plant</type>
     <alignment>Lawful Neutral</alignment>
@@ -9496,7 +9496,7 @@ The target can repeat the saving throw at the end of each of its turns, ending t
     <environment>forest, swamp</environment>
   </monster>
   <monster>
-    <name>Gargoctopus</name>
+    <name>Gargoctopus [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral</alignment>
@@ -9565,7 +9565,7 @@ If the target is thrown at another creature, that creature must succeed on a DC 
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Ghast of Leng</name>
+    <name>Ghast of Leng [TP Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -9614,7 +9614,7 @@ If the target is thrown at another creature, that creature must succeed on a DC 
     <environment/>
   </monster>
   <monster>
-    <name>Ghost Boar</name>
+    <name>Ghost Boar [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -9663,7 +9663,7 @@ If the target is thrown at another creature, that creature must succeed on a DC 
     <environment>farmland, grassland</environment>
   </monster>
   <monster>
-    <name>Elder Ghost Boar</name>
+    <name>Elder Ghost Boar [TP Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -9720,7 +9720,7 @@ If the target is thrown at another creature, that creature must succeed on a DC 
     <environment>farmland, grassland</environment>
   </monster>
   <monster>
-    <name>Ghost Dragon</name>
+    <name>Ghost Dragon [TP Legacy]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>Any alignment</alignment>
@@ -9778,7 +9778,7 @@ If the target is thrown at another creature, that creature must succeed on a DC 
     <environment/>
   </monster>
   <monster>
-    <name>Ghost Dwarf</name>
+    <name>Ghost Dwarf [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -9848,7 +9848,7 @@ The target must succeed on a DC 15 Constitution saving throw or its hp maximum i
     <environment/>
   </monster>
   <monster>
-    <name>Darakhul High Priestess</name>
+    <name>Darakhul High Priestess [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -9925,7 +9925,7 @@ The target must succeed on a DC 15 Constitution saving throw or its hp maximum i
     <environment/>
   </monster>
   <monster>
-    <name>Darakhul Shadowmancer</name>
+    <name>Darakhul Shadowmancer [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -9999,7 +9999,7 @@ The target must succeed on a DC 15 Constitution saving throw or its hp maximum i
     <environment/>
   </monster>
   <monster>
-    <name>Darakhul Shadowmancer (Midgard Version)</name>
+    <name>Darakhul Shadowmancer (Midgard Version) [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -10073,7 +10073,7 @@ The target must succeed on a DC 15 Constitution saving throw or its hp maximum i
     <environment/>
   </monster>
   <monster>
-    <name>Necrophage Ghast</name>
+    <name>Necrophage Ghast [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -10129,7 +10129,7 @@ The target must succeed on a DC 15 Constitution saving throw or its hp maximum i
     <environment/>
   </monster>
   <monster>
-    <name>Tar Ghoul</name>
+    <name>Tar Ghoul [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -10182,7 +10182,7 @@ The tar burns for 3 (1d6) rounds or until a creature takes an action to stop the
     <environment/>
   </monster>
   <monster>
-    <name>Ghoulsteed</name>
+    <name>Ghoulsteed [TP Legacy]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -10231,7 +10231,7 @@ The tar burns for 3 (1d6) rounds or until a creature takes an action to stop the
     <environment/>
   </monster>
   <monster>
-    <name>Giant Moth</name>
+    <name>Giant Moth [TP Legacy]</name>
     <size>S</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -10272,7 +10272,7 @@ The tar burns for 3 (1d6) rounds or until a creature takes an action to stop the
     <environment/>
   </monster>
   <monster>
-    <name>Rimewing</name>
+    <name>Rimewing [TP Legacy]</name>
     <size>S</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -10315,7 +10315,7 @@ A charmed creature can repeat the saving throw at the end of each of its turns, 
     <environment>arctic, forest</environment>
   </monster>
   <monster>
-    <name>Shockwing</name>
+    <name>Shockwing [TP Legacy]</name>
     <size>S</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -10366,7 +10366,7 @@ This trait doesn't function if the shockwing has used its Fulminating Wings in t
     <environment>forest, grassland</environment>
   </monster>
   <monster>
-    <name>Sootwing</name>
+    <name>Sootwing [TP Legacy]</name>
     <size>S</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -10407,7 +10407,7 @@ This trait doesn't function if the shockwing has used its Fulminating Wings in t
     <environment>grassland, mountain</environment>
   </monster>
   <monster>
-    <name>Blood Giant</name>
+    <name>Blood Giant [TP Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Lawful Neutral</alignment>
@@ -10469,7 +10469,7 @@ A red mist surrounds the blood giant in a 20-foot-radius sphere. The mist spread
     <environment/>
   </monster>
   <monster>
-    <name>Cacus Giant</name>
+    <name>Cacus Giant [TP Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -10518,7 +10518,7 @@ A red mist surrounds the blood giant in a 20-foot-radius sphere. The mist spread
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Cave Giant</name>
+    <name>Cave Giant [TP Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -10570,7 +10570,7 @@ While in sunlight, it moves at half speed and has disadvantage on attack rolls a
     <environment/>
   </monster>
   <monster>
-    <name>Haunted Giant</name>
+    <name>Haunted Giant [TP Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Chaotic Neutral</alignment>
@@ -10629,7 +10629,7 @@ If an ancestral spirit is reduced to 0 hp, it disappears temporarily. Reduce the
     <environment>badlands, mountain</environment>
   </monster>
   <monster>
-    <name>Laestrigonian Giant</name>
+    <name>Laestrigonian Giant [TP Legacy]</name>
     <size>L</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -10675,7 +10675,7 @@ If an ancestral spirit is reduced to 0 hp, it disappears temporarily. Reduce the
     <environment/>
   </monster>
   <monster>
-    <name>Mountain Giant</name>
+    <name>Mountain Giant [TP Legacy]</name>
     <size>G</size>
     <type>giant</type>
     <alignment>Neutral Evil</alignment>
@@ -10759,7 +10759,7 @@ If an ancestral spirit is reduced to 0 hp, it disappears temporarily. Reduce the
     <environment/>
   </monster>
   <monster>
-    <name>Void Giant</name>
+    <name>Void Giant [TP Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Chaotic Neutral</alignment>
@@ -10817,7 +10817,7 @@ If an ancestral spirit is reduced to 0 hp, it disappears temporarily. Reduce the
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Gloomflower</name>
+    <name>Gloomflower [TP Legacy]</name>
     <size>T</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -10870,7 +10870,7 @@ A creature that is reduced to 0 hp by this psychic damage falls unconscious and 
     <environment/>
   </monster>
   <monster>
-    <name>Gnoll Slaver</name>
+    <name>Gnoll Slaver [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (gnoll)</type>
     <alignment>Chaotic Evil</alignment>
@@ -10924,7 +10924,7 @@ A creature that is reduced to 0 hp by this psychic damage falls unconscious and 
     <environment>farmland, grassland</environment>
   </monster>
   <monster>
-    <name>Chaos-spawn Goblin</name>
+    <name>Chaos-spawn Goblin [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (goblinoid)</type>
     <alignment>Neutral Evil</alignment>
@@ -10969,7 +10969,7 @@ A creature that is reduced to 0 hp by this psychic damage falls unconscious and 
     <environment>badlands</environment>
   </monster>
   <monster>
-    <name>Shadow Goblin</name>
+    <name>Shadow Goblin [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (goblinoid)</type>
     <alignment>Neutral Evil</alignment>
@@ -11029,7 +11029,7 @@ A creature that is reduced to 0 hp by this psychic damage falls unconscious and 
     <environment/>
   </monster>
   <monster>
-    <name>Alchemical Golem</name>
+    <name>Alchemical Golem [TP Legacy]</name>
     <size>L</size>
     <type>construct (golem)</type>
     <alignment>Unaligned</alignment>
@@ -11101,7 +11101,7 @@ Poison Breath (Brimstone Infusion Only; Recharge 5-6). The golem exhales poisono
     <environment/>
   </monster>
   <monster>
-    <name>Altar Flame Golem</name>
+    <name>Altar Flame Golem [TP Legacy]</name>
     <size>L</size>
     <type>construct (golem)</type>
     <alignment>Neutral</alignment>
@@ -11167,7 +11167,7 @@ Flame Breath (Recharge 5?6). The golem breathes fire in a 30-foot cone. Each cre
     <environment/>
   </monster>
   <monster>
-    <name>Armory Golem</name>
+    <name>Armory Golem [TP Legacy]</name>
     <size>L</size>
     <type>construct (golem)</type>
     <alignment>Unaligned</alignment>
@@ -11239,7 +11239,7 @@ It regains 10 hp, and its AC increases by 2 until the end of its next turn.</tex
     <environment/>
   </monster>
   <monster>
-    <name>Bone Golem</name>
+    <name>Bone Golem [TP Legacy]</name>
     <size>M</size>
     <type>construct (golem)</type>
     <alignment>Unaligned</alignment>
@@ -11308,7 +11308,7 @@ The golem's creator, if within 60 feet of the berserk golem, can calm it by spea
     <environment/>
   </monster>
   <monster>
-    <name>Bronze Golem</name>
+    <name>Bronze Golem [TP Legacy]</name>
     <size>L</size>
     <type>construct (golem)</type>
     <alignment>Unaligned</alignment>
@@ -11364,7 +11364,7 @@ The golem's creator, if within 60 feet of the berserk golem, can calm it by spea
     <environment/>
   </monster>
   <monster>
-    <name>Doom Golem</name>
+    <name>Doom Golem [TP Legacy]</name>
     <size>L</size>
     <type>construct (golem)</type>
     <alignment>Unaligned</alignment>
@@ -11387,7 +11387,7 @@ The golem's creator, if within 60 feet of the berserk golem, can calm it by spea
     <description>Source:	Creature Codex (3pp) p. 197</description>
   </monster>
   <monster>
-    <name>Fractal Golem</name>
+    <name>Fractal Golem [TP Legacy]</name>
     <size>L</size>
     <type>construct (golem)</type>
     <alignment>Unaligned</alignment>
@@ -11410,7 +11410,7 @@ The golem's creator, if within 60 feet of the berserk golem, can calm it by spea
     <description>Source:	Creature Codex (3pp) p. 198</description>
   </monster>
   <monster>
-    <name>Glass Golem</name>
+    <name>Glass Golem [TP Legacy]</name>
     <size>S</size>
     <type>construct (golem)</type>
     <alignment>Unaligned</alignment>
@@ -11454,7 +11454,7 @@ The golem's creator, if within 60 feet of the berserk golem, can calm it by spea
     <environment/>
   </monster>
   <monster>
-    <name>Hair Golem</name>
+    <name>Hair Golem [TP Legacy]</name>
     <size>S</size>
     <type>construct (golem)</type>
     <alignment>Unaligned</alignment>
@@ -11492,7 +11492,7 @@ The target must succeed on a DC 11 Dexterity saving throw or be knocked prone.</
     <environment/>
   </monster>
   <monster>
-    <name>Keg Golem</name>
+    <name>Keg Golem [TP Legacy]</name>
     <size>M</size>
     <type>construct (golem)</type>
     <alignment>Unaligned</alignment>
@@ -11545,7 +11545,7 @@ The target must succeed on a DC 11 Dexterity saving throw or be knocked prone.</
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Lotus Golem</name>
+    <name>Lotus Golem [TP Legacy]</name>
     <size>L</size>
     <type>construct (golem)</type>
     <alignment>Unaligned</alignment>
@@ -11605,7 +11605,7 @@ The target must succeed on a DC 11 Dexterity saving throw or be knocked prone.</
     <environment/>
   </monster>
   <monster>
-    <name>Manastorm Golem</name>
+    <name>Manastorm Golem [TP Legacy]</name>
     <size>M</size>
     <type>construct (golem)</type>
     <alignment>Unaligned</alignment>
@@ -11666,7 +11666,7 @@ The target must succeed on a DC 11 Dexterity saving throw or be knocked prone.</
     <environment/>
   </monster>
   <monster>
-    <name>Mud Golem</name>
+    <name>Mud Golem [TP Legacy]</name>
     <size>S</size>
     <type>construct (golem)</type>
     <alignment>Unaligned</alignment>
@@ -11715,7 +11715,7 @@ The target must succeed on a DC 11 Dexterity saving throw or be knocked prone.</
     <environment/>
   </monster>
   <monster>
-    <name>Paper Golem</name>
+    <name>Paper Golem [TP Legacy]</name>
     <size>T</size>
     <type>construct (golem)</type>
     <alignment>Unaligned</alignment>
@@ -11763,7 +11763,7 @@ The target must succeed on a DC 11 Dexterity saving throw or be knocked prone.</
     <environment/>
   </monster>
   <monster>
-    <name>Paper Golem Swarm</name>
+    <name>Paper Golem Swarm [TP Legacy]</name>
     <size>M</size>
     <type>construct (golem)</type>
     <alignment>Unaligned</alignment>
@@ -11819,7 +11819,7 @@ The target must succeed on a DC 11 Dexterity saving throw or be knocked prone.</
     <environment/>
   </monster>
   <monster>
-    <name>War Machine Golem</name>
+    <name>War Machine Golem [TP Legacy]</name>
     <size>G</size>
     <type>construct (golem)</type>
     <alignment>Unaligned</alignment>
@@ -11886,7 +11886,7 @@ All other effects of the catapult attack remain the same.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Wood Golem</name>
+    <name>Wood Golem [TP Legacy]</name>
     <size>M</size>
     <type>construct (golem)</type>
     <alignment>Unaligned</alignment>
@@ -11930,7 +11930,7 @@ All other effects of the catapult attack remain the same.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Goliath Longlegs</name>
+    <name>Goliath Longlegs [TP Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -11996,7 +11996,7 @@ All other effects of the catapult attack remain the same.</text>
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Goreling</name>
+    <name>Goreling [TP Legacy]</name>
     <size>S</size>
     <type>undead</type>
     <alignment>Unaligned</alignment>
@@ -12040,7 +12040,7 @@ All other effects of the catapult attack remain the same.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Grave Behemoth</name>
+    <name>Grave Behemoth [TP Legacy]</name>
     <size>H</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -12102,7 +12102,7 @@ All other effects of the catapult attack remain the same.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Green Knight of the Woods</name>
+    <name>Green Knight of the Woods [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Lawful Neutral</alignment>
@@ -12171,7 +12171,7 @@ On its turn, the affected creature must move towards the green knight and make a
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Grindylow</name>
+    <name>Grindylow [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Chaotic Evil</alignment>
@@ -12231,7 +12231,7 @@ After releasing the ink, the grindylow can use the Dash action as a bonus action
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Gugalanna</name>
+    <name>Gugalanna [TP Legacy]</name>
     <size>H</size>
     <type>celestial</type>
     <alignment>Good Chaotic</alignment>
@@ -12311,7 +12311,7 @@ On a failure, a target takes 18 (2d10 + 7) bludgeoning damage and is pushed 20 f
     <environment/>
   </monster>
   <monster>
-    <name>Gulon</name>
+    <name>Gulon [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -12367,7 +12367,7 @@ This waste is difficult terrain and creatures crossing through it must succeed o
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Gumienniki</name>
+    <name>Gumienniki [TP Legacy]</name>
     <size>S</size>
     <type>fiend (shapechanger)</type>
     <alignment>Neutral Evil</alignment>
@@ -12416,7 +12416,7 @@ This waste is difficult terrain and creatures crossing through it must succeed o
     <environment/>
   </monster>
   <monster>
-    <name>Snow Hag</name>
+    <name>Snow Hag [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Neutral Evil</alignment>
@@ -12475,7 +12475,7 @@ Otherwise, a creature must take an action to visually inspect the illusion and s
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Herald of Fire</name>
+    <name>Herald of Fire [TP Legacy]</name>
     <size>L</size>
     <type>dragon</type>
     <alignment>Lawful Evil</alignment>
@@ -12564,7 +12564,7 @@ When a creature enters the area for the first time on a turn or starts its turn 
     <environment/>
   </monster>
   <monster>
-    <name>Herald of the Great Wyrm</name>
+    <name>Herald of the Great Wyrm [TP Legacy]</name>
     <size>L</size>
     <type>dragon</type>
     <alignment>Lawful Neutral</alignment>
@@ -12655,7 +12655,7 @@ The target must succeed on a DC 18 Wisdom saving throw or be restrained by magic
     <environment/>
   </monster>
   <monster>
-    <name>Herald of Undeath</name>
+    <name>Herald of Undeath [TP Legacy]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>Lawful Evil</alignment>
@@ -12708,7 +12708,7 @@ The target must succeed on a DC 18 Wisdom saving throw or be restrained by magic
     <environment>farmland</environment>
   </monster>
   <monster>
-    <name>Horned Serpent</name>
+    <name>Horned Serpent [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -12772,7 +12772,7 @@ The target's hp maximum is reduced by an amount equal to the necrotic damage tak
     <environment>forest, grassland, swamp</environment>
   </monster>
   <monster>
-    <name>Hound of Tindalos</name>
+    <name>Hound of Tindalos [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -12843,7 +12843,7 @@ The target's hp maximum is reduced by an amount equal to the necrotic damage tak
     <environment/>
   </monster>
   <monster>
-    <name>Gaki</name>
+    <name>Gaki [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -12900,7 +12900,7 @@ The target's hp maximum is reduced by an amount equal to the necrotic damage tak
     <environment/>
   </monster>
   <monster>
-    <name>Preta</name>
+    <name>Preta [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -12954,7 +12954,7 @@ The preta regains hp equal to half the necrotic damage dealt.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Ichneumon</name>
+    <name>Ichneumon [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -13011,7 +13011,7 @@ The preta regains hp equal to half the necrotic damage dealt.</text>
     <environment>hill, mountain</environment>
   </monster>
   <monster>
-    <name>Ijiraq</name>
+    <name>Ijiraq [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Chaotic Neutral</alignment>
@@ -13070,7 +13070,7 @@ While in its true form or its hybrid form, its statistics are the same. When in 
     <environment/>
   </monster>
   <monster>
-    <name>Incinis</name>
+    <name>Incinis [TP Legacy]</name>
     <size>L</size>
     <type>elemental</type>
     <alignment>Neutral Evil</alignment>
@@ -13115,7 +13115,7 @@ While in its true form or its hybrid form, its statistics are the same. When in 
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Inkling</name>
+    <name>Inkling [TP Legacy]</name>
     <size>T</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -13171,7 +13171,7 @@ While in its true form or its hybrid form, its statistics are the same. When in 
     <environment/>
   </monster>
   <monster>
-    <name>Iron Sphere</name>
+    <name>Iron Sphere [TP Legacy]</name>
     <size>S</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -13237,7 +13237,7 @@ While in its true form or its hybrid form, its statistics are the same. When in 
     <environment/>
   </monster>
   <monster>
-    <name>Jaanavar Jal</name>
+    <name>Jaanavar Jal [TP Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -13289,7 +13289,7 @@ The jaanavar jal dies only if it starts its turn with 0 hp and doesn't regenerat
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Jiangshi</name>
+    <name>Jiangshi [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -13357,7 +13357,7 @@ The target must succeed on a DC 14 Constitution saving throw or its hp maximum i
     <environment>farmland</environment>
   </monster>
   <monster>
-    <name>Jinmenju</name>
+    <name>Jinmenju [TP Legacy]</name>
     <size>H</size>
     <type>plant</type>
     <alignment>Chaotic Neutral</alignment>
@@ -13424,7 +13424,7 @@ Damaging a root doesn't damage the jinmenju tree. The jinmenju can have up to 5 
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Kallikantzaros</name>
+    <name>Kallikantzaros [TP Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>Chaotic Evil</alignment>
@@ -13485,7 +13485,7 @@ If the creature is Large or smaller, it must succeed on a DC 13 Strength saving 
     <environment/>
   </monster>
   <monster>
-    <name>Kappa</name>
+    <name>Kappa [TP Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>Chaotic Evil Chaotic Neutral</alignment>
@@ -13545,7 +13545,7 @@ The target is grappled (escape DC 14) if it is a Large or smaller creature and t
     <environment>swamp, underwater</environment>
   </monster>
   <monster>
-    <name>Karakura</name>
+    <name>Karakura [TP Legacy]</name>
     <size>M</size>
     <type>fiend (shapechanger)</type>
     <alignment>Neutral Evil</alignment>
@@ -13616,7 +13616,7 @@ While in the Plane of Shadow, the target is bombarded with horrific images and s
     <environment/>
   </monster>
   <monster>
-    <name>Kitsune</name>
+    <name>Kitsune [TP Legacy]</name>
     <size>S</size>
     <type>fey (shapechanger)</type>
     <alignment>Chaotic Neutral</alignment>
@@ -13675,7 +13675,7 @@ While in the Plane of Shadow, the target is bombarded with horrific images and s
     <environment>farmland</environment>
   </monster>
   <monster>
-    <name>Elite Kobold</name>
+    <name>Elite Kobold [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (kobold)</type>
     <alignment>Lawful Neutral</alignment>
@@ -13733,7 +13733,7 @@ While in the Plane of Shadow, the target is bombarded with horrific images and s
     <environment/>
   </monster>
   <monster>
-    <name>Junk Shaman</name>
+    <name>Junk Shaman [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (kobold)</type>
     <alignment>Lawful Neutral</alignment>
@@ -13791,7 +13791,7 @@ While in the Plane of Shadow, the target is bombarded with horrific images and s
     <environment/>
   </monster>
   <monster>
-    <name>King Kobold</name>
+    <name>King Kobold [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (kobold)</type>
     <alignment>Lawful Neutral</alignment>
@@ -13867,7 +13867,7 @@ While in the Plane of Shadow, the target is bombarded with horrific images and s
     <environment/>
   </monster>
   <monster>
-    <name>Swolbold</name>
+    <name>Swolbold [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (kobold)</type>
     <alignment>Chaotic Neutral</alignment>
@@ -13917,7 +13917,7 @@ If the target is a Large or smaller creature, it is grappled (escape DC 14). Unt
     <environment/>
   </monster>
   <monster>
-    <name>Wizard Kobold</name>
+    <name>Wizard Kobold [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (kobold)</type>
     <alignment>Lawful Neutral</alignment>
@@ -13986,7 +13986,7 @@ When the wizard uses this action, and as a bonus action on it subsequent turns, 
     <environment/>
   </monster>
   <monster>
-    <name>Korrigan</name>
+    <name>Korrigan [TP Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>Chaotic Neutral</alignment>
@@ -14050,7 +14050,7 @@ A charmed target is incapacitated and begins to dance and caper for the duration
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Kryt</name>
+    <name>Kryt [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (kryt)</type>
     <alignment>Neutral Evil</alignment>
@@ -14100,7 +14100,7 @@ A charmed target is incapacitated and begins to dance and caper for the duration
     <environment>forest, mountain</environment>
   </monster>
   <monster>
-    <name>Külmking</name>
+    <name>Külmking [TP Legacy]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -14162,7 +14162,7 @@ If the target is not undead, it must succeed on a DC 16 Constitution saving thro
     <environment>forest, grassland</environment>
   </monster>
   <monster>
-    <name>Kuunganisha</name>
+    <name>Kuunganisha [TP Legacy]</name>
     <size>S</size>
     <type>fiend</type>
     <alignment>Any Evil Alignment</alignment>
@@ -14221,7 +14221,7 @@ The target can repeat the saving throw at the end of each of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Lady In White</name>
+    <name>Lady In White [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Any alignment</alignment>
@@ -14271,7 +14271,7 @@ If a female humanoid dies from this attack, a new lady in white rises from the c
     <environment/>
   </monster>
   <monster>
-    <name>Lamassu</name>
+    <name>Lamassu [TP Legacy]</name>
     <size>L</size>
     <type>celestial</type>
     <alignment>Good Lawful</alignment>
@@ -14358,7 +14358,7 @@ Each creature within 10 feet of it must succeed on a DC 16 Dexterity saving thro
     <environment>coastal</environment>
   </monster>
   <monster>
-    <name>Serpentine Lamia</name>
+    <name>Serpentine Lamia [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -14420,7 +14420,7 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
     <environment>forest, mountain</environment>
   </monster>
   <monster>
-    <name>Matriarch Serpentine Lamia</name>
+    <name>Matriarch Serpentine Lamia [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -14492,7 +14492,7 @@ The matriarch can have only one target seduced at a time. If it seduces another,
     <environment/>
   </monster>
   <monster>
-    <name>Leonino</name>
+    <name>Leonino [TP Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -14538,7 +14538,7 @@ If this is the first time the leonino has hit the target within the past 24 hour
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Hierophant Lich</name>
+    <name>Hierophant Lich [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Any Evil Alignment</alignment>
@@ -14623,7 +14623,7 @@ The target must succeed on a DC 17 Wisdom saving throw or be charmed for 1 minut
     <environment/>
   </monster>
   <monster>
-    <name>Pact Lich</name>
+    <name>Pact Lich [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Any Evil Alignment</alignment>
@@ -14729,7 +14729,7 @@ On a successful hit, the pact lich can push the target 10 feet away from it in a
     <environment/>
   </monster>
   <monster>
-    <name>Living Shade</name>
+    <name>Living Shade [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Neutral</alignment>
@@ -14773,7 +14773,7 @@ On a successful hit, the pact lich can push the target 10 feet away from it in a
     <environment/>
   </monster>
   <monster>
-    <name>Living Star</name>
+    <name>Living Star [TP Legacy]</name>
     <size>H</size>
     <type>celestial</type>
     <alignment>Any alignment</alignment>
@@ -14830,7 +14830,7 @@ On a successful hit, the pact lich can push the target 10 feet away from it in a
     <environment/>
   </monster>
   <monster>
-    <name>Lou Carcolh</name>
+    <name>Lou Carcolh [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -14884,7 +14884,7 @@ On a successful hit, the pact lich can push the target 10 feet away from it in a
     <environment>swamp</environment>
   </monster>
   <monster>
-    <name>Werebat</name>
+    <name>Werebat [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (human, shapechanger)</type>
     <alignment>Lawful Evil</alignment>
@@ -14948,7 +14948,7 @@ If the target is a humanoid, it must succeed on a DC 14 Constitution saving thro
     <environment/>
   </monster>
   <monster>
-    <name>Werehyena</name>
+    <name>Werehyena [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (gnoll, shapechanger)</type>
     <alignment>Chaotic Evil</alignment>
@@ -15006,7 +15006,7 @@ If the target is humanoid, it must succeed on a DC 12 Constitution saving throw 
     <environment>farmland, grassland</environment>
   </monster>
   <monster>
-    <name>Mandrake</name>
+    <name>Mandrake [TP Legacy]</name>
     <size>T</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -15045,7 +15045,7 @@ If a creature fails the saving throw by 5 or more, it is stunned until the end o
     <environment/>
   </monster>
   <monster>
-    <name>Great Mandrake</name>
+    <name>Great Mandrake [TP Legacy]</name>
     <size>T</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -15090,7 +15090,7 @@ If a creature fails the saving throw by 5 or more, it is stunned until the end o
     <environment/>
   </monster>
   <monster>
-    <name>Mandriano</name>
+    <name>Mandriano [TP Legacy]</name>
     <size>L</size>
     <type>plant</type>
     <alignment>Lawful Evil</alignment>
@@ -15134,7 +15134,7 @@ The target dies if this effect reduces its hp maximum to 0. A humanoid slain in 
     <environment>badlands, forest</environment>
   </monster>
   <monster>
-    <name>Ancient Mandriano</name>
+    <name>Ancient Mandriano [TP Legacy]</name>
     <size>H</size>
     <type>plant</type>
     <alignment>Lawful Evil</alignment>
@@ -15185,7 +15185,7 @@ If the target is Medium or smaller, it is grappled (escape DC 16). Until this gr
     <environment>badlands</environment>
   </monster>
   <monster>
-    <name>Mantik, Barbed King of the Manticores</name>
+    <name>Mantik, Barbed King of the Manticores [TP Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Lawful Evil</alignment>
@@ -15282,7 +15282,7 @@ If the target is Medium or smaller, it is grappled (escape DC 16). Until this gr
     <environment>badlands</environment>
   </monster>
   <monster>
-    <name>The Barbed</name>
+    <name>The Barbed [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (kobold)</type>
     <alignment>Lawful Evil</alignment>
@@ -15329,7 +15329,7 @@ The target must succeed on a DC 12 Constitution saving throw or be poisoned unti
     <environment>badlands</environment>
   </monster>
   <monster>
-    <name>Master of Demon Mountain</name>
+    <name>Master of Demon Mountain [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (tiefling)</type>
     <alignment>Lawful Evil</alignment>
@@ -15417,7 +15417,7 @@ The target must succeed on a DC 12 Constitution saving throw or be poisoned unti
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Master of Demon Mountain (Midgard Version)</name>
+    <name>Master of Demon Mountain (Midgard Version) [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (tiefling)</type>
     <alignment>Lawful Evil</alignment>
@@ -15505,7 +15505,7 @@ The target must succeed on a DC 12 Constitution saving throw or be poisoned unti
     <environment/>
   </monster>
   <monster>
-    <name>Megapede</name>
+    <name>Megapede [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -15562,7 +15562,7 @@ If the target is a Large or smaller creature, it is grappled (escape DC 13).</te
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Labyrinth Keeper</name>
+    <name>Labyrinth Keeper [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -15625,7 +15625,7 @@ one with its gore and one with its shortsword.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Moon Priestess</name>
+    <name>Moon Priestess [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -15687,7 +15687,7 @@ one with its gore and one with its shortsword.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Lost Minotaur</name>
+    <name>Lost Minotaur [TP Legacy]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -15744,7 +15744,7 @@ one with its gore and one with its shortsword.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Moon Nymph</name>
+    <name>Moon Nymph [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Chaotic Neutral</alignment>
@@ -15800,7 +15800,7 @@ On a failure, the creature takes 36 (8d8) psychic damage and is frightened. On a
     <environment>farmland</environment>
   </monster>
   <monster>
-    <name>Morko</name>
+    <name>Morko [TP Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>Chaotic Evil</alignment>
@@ -15848,7 +15848,7 @@ If the morko lacks the room to grow back to its regular size, it attains the max
     <environment>farmland</environment>
   </monster>
   <monster>
-    <name>Mytholabe</name>
+    <name>Mytholabe [TP Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -15923,7 +15923,7 @@ If the morko lacks the room to grow back to its regular size, it attains the max
     <environment/>
   </monster>
   <monster>
-    <name>Nachzehrer</name>
+    <name>Nachzehrer [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -15979,7 +15979,7 @@ The target must succeed on a DC 16 Constitution saving throw or become infected 
     <environment/>
   </monster>
   <monster>
-    <name>Moonchild Naga</name>
+    <name>Moonchild Naga [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -16035,7 +16035,7 @@ Until this grapple ends, the target is restrained, and the naga can't constrict 
     <environment/>
   </monster>
   <monster>
-    <name>Nalusa Falaya</name>
+    <name>Nalusa Falaya [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -16088,7 +16088,7 @@ Until this grapple ends, the target is restrained, and the naga can't constrict 
     <environment>farmland</environment>
   </monster>
   <monster>
-    <name>Necrotic Tick</name>
+    <name>Necrotic Tick [TP Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -16139,7 +16139,7 @@ It does so when seeking a new host or if the target dies. A creature, including 
     <environment/>
   </monster>
   <monster>
-    <name>Nian</name>
+    <name>Nian [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Neutral</alignment>
@@ -16200,7 +16200,7 @@ Creatures entirely inside the darkness are deafened and can't cast spells that i
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Nightgaunt</name>
+    <name>Nightgaunt [TP Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Lawful Evil</alignment>
@@ -16262,7 +16262,7 @@ Creatures entirely inside the darkness are deafened and can't cast spells that i
     <environment/>
   </monster>
   <monster>
-    <name>Ningyo</name>
+    <name>Ningyo [TP Legacy]</name>
     <size>S</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -16310,7 +16310,7 @@ Creatures entirely inside the darkness are deafened and can't cast spells that i
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Tusked Crimson Ogre</name>
+    <name>Tusked Crimson Ogre [TP Legacy]</name>
     <size>L</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -16366,7 +16366,7 @@ one with its morningstar and one with its bite.</text>
     <environment>badlands, grassland</environment>
   </monster>
   <monster>
-    <name>Oliphaunt</name>
+    <name>Oliphaunt [TP Legacy]</name>
     <size>G</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -16426,7 +16426,7 @@ If the target is prone, the oliphaunt can make one stomp attack against it as a 
     <environment>arctic, grassland</environment>
   </monster>
   <monster>
-    <name>Alchemical Apprentice</name>
+    <name>Alchemical Apprentice [TP Legacy]</name>
     <size>S</size>
     <type>ooze</type>
     <alignment>Unaligned</alignment>
@@ -16479,7 +16479,7 @@ If the target is prone, the oliphaunt can make one stomp attack against it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Blood Ooze</name>
+    <name>Blood Ooze [TP Legacy]</name>
     <size>L</size>
     <type>ooze</type>
     <alignment>Unaligned</alignment>
@@ -16529,7 +16529,7 @@ The ooze gains temporary hp equal to the necrotic damage taken.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Foxfire Ooze</name>
+    <name>Foxfire Ooze [TP Legacy]</name>
     <size>L</size>
     <type>ooze</type>
     <alignment>Unaligned</alignment>
@@ -16581,7 +16581,7 @@ The ooze gains temporary hp equal to the necrotic damage taken.</text>
     <environment>forest, grassland, swamp</environment>
   </monster>
   <monster>
-    <name>Giant Shark Bowl</name>
+    <name>Giant Shark Bowl [TP Legacy]</name>
     <size>H</size>
     <type>ooze</type>
     <alignment>Unaligned</alignment>
@@ -16654,7 +16654,7 @@ An engulfed creature can try to escape by taking an action to make a DC 15 Stren
     <environment/>
   </monster>
   <monster>
-    <name>Ink Guardian</name>
+    <name>Ink Guardian [TP Legacy]</name>
     <size>L</size>
     <type>ooze</type>
     <alignment>Unaligned</alignment>
@@ -16712,7 +16712,7 @@ When the ink guardian is reduced to 0 hp, it explodes. Each creature within 15 f
     <environment/>
   </monster>
   <monster>
-    <name>Ruby Ooze</name>
+    <name>Ruby Ooze [TP Legacy]</name>
     <size>M</size>
     <type>ooze</type>
     <alignment>Unaligned</alignment>
@@ -16779,7 +16779,7 @@ The ooze can eat through 2-inch-thick, nonmagical wood or metal in 1 round.</tex
     <environment/>
   </monster>
   <monster>
-    <name>Shadow Ooze</name>
+    <name>Shadow Ooze [TP Legacy]</name>
     <size>M</size>
     <type>ooze</type>
     <alignment>Unaligned</alignment>
@@ -16831,7 +16831,7 @@ The ooze can eat through 2-inch-thick, nonmagical wood or metal in 1 round.</tex
     <environment/>
   </monster>
   <monster>
-    <name>Suppurating Ooze</name>
+    <name>Suppurating Ooze [TP Legacy]</name>
     <size>M</size>
     <type>ooze</type>
     <alignment>Unaligned</alignment>
@@ -16875,7 +16875,7 @@ The ooze can eat through 2-inch-thick, nonmagical wood or metal in 1 round.</tex
     <environment/>
   </monster>
   <monster>
-    <name>Black Sun Orc</name>
+    <name>Black Sun Orc [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (orc)</type>
     <alignment>Chaotic Evil</alignment>
@@ -16932,7 +16932,7 @@ The ooze can eat through 2-inch-thick, nonmagical wood or metal in 1 round.</tex
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Black Sun Priestess</name>
+    <name>Black Sun Priestess [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (orc)</type>
     <alignment>Chaotic Evil</alignment>
@@ -16987,7 +16987,7 @@ The ooze can eat through 2-inch-thick, nonmagical wood or metal in 1 round.</tex
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Green Abyss Orc</name>
+    <name>Green Abyss Orc [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (orc)</type>
     <alignment>Chaotic Evil</alignment>
@@ -17027,7 +17027,7 @@ The ooze can eat through 2-inch-thick, nonmagical wood or metal in 1 round.</tex
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Orthrus</name>
+    <name>Orthrus [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Lawful Neutral</alignment>
@@ -17077,7 +17077,7 @@ The ooze can eat through 2-inch-thick, nonmagical wood or metal in 1 round.</tex
     <environment/>
   </monster>
   <monster>
-    <name>Ouroboros</name>
+    <name>Ouroboros [TP Legacy]</name>
     <size>H</size>
     <type>dragon</type>
     <alignment>Neutral</alignment>
@@ -17159,7 +17159,7 @@ The damage is either acid, cold, fire, lightning, necrotic, poison, radiant, or 
     <environment/>
   </monster>
   <monster>
-    <name>Pech</name>
+    <name>Pech [TP Legacy]</name>
     <size>S</size>
     <type>elemental (pech)</type>
     <alignment>Good Neutral</alignment>
@@ -17209,7 +17209,7 @@ The damage is either acid, cold, fire, lightning, necrotic, poison, radiant, or 
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Pech Lithlord</name>
+    <name>Pech Lithlord [TP Legacy]</name>
     <size>S</size>
     <type>elemental (pech)</type>
     <alignment>Good Neutral</alignment>
@@ -17268,7 +17268,7 @@ The damage is either acid, cold, fire, lightning, necrotic, poison, radiant, or 
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Pech Stonemaster</name>
+    <name>Pech Stonemaster [TP Legacy]</name>
     <size>S</size>
     <type>elemental (pech)</type>
     <alignment>Good Neutral</alignment>
@@ -17326,7 +17326,7 @@ The damage is either acid, cold, fire, lightning, necrotic, poison, radiant, or 
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Phantom</name>
+    <name>Phantom [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Any alignment</alignment>
@@ -17371,7 +17371,7 @@ The damage is either acid, cold, fire, lightning, necrotic, poison, radiant, or 
     <environment/>
   </monster>
   <monster>
-    <name>Philosopher's Ghost</name>
+    <name>Philosopher's Ghost [TP Legacy]</name>
     <size>M</size>
     <type>ooze</type>
     <alignment>Unaligned</alignment>
@@ -17427,7 +17427,7 @@ As soon as any portion of it is exposed to the air again, it resumes moving at f
     <environment/>
   </monster>
   <monster>
-    <name>Piasa</name>
+    <name>Piasa [TP Legacy]</name>
     <size>L</size>
     <type>dragon</type>
     <alignment>Unaligned</alignment>
@@ -17492,7 +17492,7 @@ A creature can repeat the saving throw at the end of each of its turns, ending t
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Pillar of the Lost Magocracy</name>
+    <name>Pillar of the Lost Magocracy [TP Legacy]</name>
     <size>H</size>
     <type>construct</type>
     <alignment>Chaotic Neutral</alignment>
@@ -17537,7 +17537,7 @@ d4 | Attack | Effect
     <environment>badlands</environment>
   </monster>
   <monster>
-    <name>Pixiu</name>
+    <name>Pixiu [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -17590,7 +17590,7 @@ d4 | Attack | Effect
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Alabaster Tree</name>
+    <name>Alabaster Tree [TP Legacy]</name>
     <size>H</size>
     <type>celestial</type>
     <alignment>Good Neutral</alignment>
@@ -17659,7 +17659,7 @@ Each creature in that area must make a DC 15 Dexterity saving throw, taking 18 (
     <environment/>
   </monster>
   <monster>
-    <name>Devil Bough</name>
+    <name>Devil Bough [TP Legacy]</name>
     <size>H</size>
     <type>fiend</type>
     <alignment>Neutral Evil</alignment>
@@ -17716,7 +17716,7 @@ The spell resolves as normal, but the devil bough has a 50% chance of regaining 
     <environment/>
   </monster>
   <monster>
-    <name>Ecstatic Bloom</name>
+    <name>Ecstatic Bloom [TP Legacy]</name>
     <size>H</size>
     <type>celestial</type>
     <alignment>Good Neutral</alignment>
@@ -17773,7 +17773,7 @@ The spell resolves as normal, but the devil bough has a 50% chance of regaining 
     <environment/>
   </monster>
   <monster>
-    <name>Execrable Shrub</name>
+    <name>Execrable Shrub [TP Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>Neutral Evil</alignment>
@@ -17822,7 +17822,7 @@ The spell resolves as normal, but the devil bough has a 50% chance of regaining 
     <environment/>
   </monster>
   <monster>
-    <name>Hallowed Reed</name>
+    <name>Hallowed Reed [TP Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>Good Neutral</alignment>
@@ -17871,7 +17871,7 @@ Until this grapple ends, the creature is restrained, it takes 2 (1d4) radiant da
     <environment/>
   </monster>
   <monster>
-    <name>Thorned Sulfurlord</name>
+    <name>Thorned Sulfurlord [TP Legacy]</name>
     <size>H</size>
     <type>fiend</type>
     <alignment>Chaotic Evil</alignment>
@@ -17938,7 +17938,7 @@ The target must succeed on a DC 17 Constitution saving throw or be blinded until
     <environment/>
   </monster>
   <monster>
-    <name>Purple Slime</name>
+    <name>Purple Slime [TP Legacy]</name>
     <size>L</size>
     <type>ooze</type>
     <alignment>Unaligned</alignment>
@@ -17987,7 +17987,7 @@ The target must succeed on a DC 17 Constitution saving throw or be blinded until
     <environment>swamp</environment>
   </monster>
   <monster>
-    <name>Quickstep</name>
+    <name>Quickstep [TP Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>Neutral Evil</alignment>
@@ -18049,7 +18049,7 @@ The target must succeed on a DC 17 Constitution saving throw or be blinded until
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Quiet Soul</name>
+    <name>Quiet Soul [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -18093,7 +18093,7 @@ If an unconscious creature is hit by this attack, that creature must make a DC 1
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Rageipede</name>
+    <name>Rageipede [TP Legacy]</name>
     <size>S</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -18143,7 +18143,7 @@ If an unconscious creature is hit by this attack, that creature must make a DC 1
     <environment/>
   </monster>
   <monster>
-    <name>Greater Rakshasa</name>
+    <name>Greater Rakshasa [TP Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>Lawful Evil</alignment>
@@ -18226,7 +18226,7 @@ The magical curse takes effect whenever the target takes a short or long rest, f
     <environment/>
   </monster>
   <monster>
-    <name>Ramag Portal Master</name>
+    <name>Ramag Portal Master [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (ramag)</type>
     <alignment>Neutral</alignment>
@@ -18294,7 +18294,7 @@ The gateways last for 1 minute, or until the ramag loses concentration on them a
     <environment/>
   </monster>
   <monster>
-    <name>Ratatosk Warlord</name>
+    <name>Ratatosk Warlord [TP Legacy]</name>
     <size>S</size>
     <type>celestial</type>
     <alignment>Chaotic Neutral</alignment>
@@ -18347,7 +18347,7 @@ The gateways last for 1 minute, or until the ramag loses concentration on them a
     <environment/>
   </monster>
   <monster>
-    <name>Ratfolk Mercenary</name>
+    <name>Ratfolk Mercenary [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (ratfolk)</type>
     <alignment>Neutral</alignment>
@@ -18408,7 +18408,7 @@ The gateways last for 1 minute, or until the ramag loses concentration on them a
     <environment/>
   </monster>
   <monster>
-    <name>Ratfolk Warlock</name>
+    <name>Ratfolk Warlock [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (ratfolk)</type>
     <alignment>Any alignment</alignment>
@@ -18466,7 +18466,7 @@ The gateways last for 1 minute, or until the ramag loses concentration on them a
     <environment/>
   </monster>
   <monster>
-    <name>Razorleaf</name>
+    <name>Razorleaf [TP Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment>Neutral Evil</alignment>
@@ -18521,7 +18521,7 @@ This area is difficult terrain and nonmagical sources of light are only half as 
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Ring Servant</name>
+    <name>Ring Servant [TP Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Neutral</alignment>
@@ -18572,7 +18572,7 @@ The target must succeed on a DC 16 Strength saving throw or be knocked prone.</t
     <environment/>
   </monster>
   <monster>
-    <name>Roachling Scout</name>
+    <name>Roachling Scout [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (roachling)</type>
     <alignment>Chaotic Neutral</alignment>
@@ -18629,7 +18629,7 @@ The target must succeed on a DC 16 Strength saving throw or be knocked prone.</t
     <environment/>
   </monster>
   <monster>
-    <name>Roggenwolf</name>
+    <name>Roggenwolf [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -18670,7 +18670,7 @@ The target must succeed on a DC 16 Strength saving throw or be knocked prone.</t
     <environment>farmland, grassland</environment>
   </monster>
   <monster>
-    <name>Scitalis</name>
+    <name>Scitalis [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -18710,7 +18710,7 @@ The target must succeed on a DC 16 Strength saving throw or be knocked prone.</t
     <environment/>
   </monster>
   <monster>
-    <name>Lesser Scrag</name>
+    <name>Lesser Scrag [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -18749,7 +18749,7 @@ The target must succeed on a DC 16 Strength saving throw or be knocked prone.</t
     <environment>swamp, underwater</environment>
   </monster>
   <monster>
-    <name>Greater Scrag</name>
+    <name>Greater Scrag [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -18796,7 +18796,7 @@ The target must succeed on a DC 16 Strength saving throw or be knocked prone.</t
     <environment>swamp, underwater</environment>
   </monster>
   <monster>
-    <name>Sentinel In Darkness</name>
+    <name>Sentinel In Darkness [TP Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -18849,7 +18849,7 @@ The curse lasts until it is lifted by a remove curse spell or similar magic.</te
     <environment/>
   </monster>
   <monster>
-    <name>Serpentfolk of Yig</name>
+    <name>Serpentfolk of Yig [TP Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>Neutral Evil</alignment>
@@ -18905,7 +18905,7 @@ The curse lasts until it is lifted by a remove curse spell or similar magic.</te
     <environment/>
   </monster>
   <monster>
-    <name>Servant of Yig</name>
+    <name>Servant of Yig [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -18965,7 +18965,7 @@ Until this grapple ends, the creature is restrained, and the Servant of Yig can'
     <environment/>
   </monster>
   <monster>
-    <name>Shadow Blight</name>
+    <name>Shadow Blight [TP Legacy]</name>
     <size>S</size>
     <type>plant</type>
     <alignment>Neutral Evil</alignment>
@@ -19008,7 +19008,7 @@ If the shrubs are not destroyed before 1 hour passes, they become new shadow bli
     <environment>arctic, forest</environment>
   </monster>
   <monster>
-    <name>Shadow River Lord</name>
+    <name>Shadow River Lord [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -19058,7 +19058,7 @@ If the shrubs are not destroyed before 1 hour passes, they become new shadow bli
     <environment>forest, underwater</environment>
   </monster>
   <monster>
-    <name>Shantak</name>
+    <name>Shantak [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Lawful Evil</alignment>
@@ -19128,7 +19128,7 @@ If the shrubs are not destroyed before 1 hour passes, they become new shadow bli
     <environment/>
   </monster>
   <monster>
-    <name>Shard Swarm</name>
+    <name>Shard Swarm [TP Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -19195,7 +19195,7 @@ A creature within 5 feet of the swarm can take an action to pull a restrained cr
     <environment/>
   </monster>
   <monster>
-    <name>Shoreline Scrapper</name>
+    <name>Shoreline Scrapper [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -19258,7 +19258,7 @@ Until it emerges, it increases its AC by 4, has a speed of 0 ft., and can't use 
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Avatar of Shoth</name>
+    <name>Avatar of Shoth [TP Legacy]</name>
     <size>G</size>
     <type>aberration (shoth)</type>
     <alignment>Lawful Neutral</alignment>
@@ -19358,7 +19358,7 @@ On a failure, a creature takes 67 (15d8) acid damage and is knocked prone. On a 
     <environment/>
   </monster>
   <monster>
-    <name>Droth</name>
+    <name>Droth [TP Legacy]</name>
     <size>H</size>
     <type>aberration (shoth)</type>
     <alignment>Lawful Neutral</alignment>
@@ -19418,7 +19418,7 @@ On a failure, a creature takes 45 (10d8) acid damage and is knocked prone. On a 
     <environment/>
   </monster>
   <monster>
-    <name>Oth</name>
+    <name>Oth [TP Legacy]</name>
     <size>L</size>
     <type>aberration (shoth)</type>
     <alignment>Lawful Neutral</alignment>
@@ -19490,7 +19490,7 @@ On a failure, a creature takes 45 (10d8) acid damage and is knocked prone. On a 
     <environment/>
   </monster>
   <monster>
-    <name>Sooze</name>
+    <name>Sooze [TP Legacy]</name>
     <size>M</size>
     <type>aberration (shoth)</type>
     <alignment>Lawful Neutral</alignment>
@@ -19547,7 +19547,7 @@ On a failure, a creature takes 45 (10d8) acid damage and is knocked prone. On a 
     <environment/>
   </monster>
   <monster>
-    <name>Sigilian</name>
+    <name>Sigilian [TP Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -19605,7 +19605,7 @@ If the owner has the spell prepared, it can re-record the spell during a long re
     <environment/>
   </monster>
   <monster>
-    <name>Kapi</name>
+    <name>Kapi [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (simian)</type>
     <alignment>Good Chaotic</alignment>
@@ -19658,7 +19658,7 @@ If the owner has the spell prepared, it can re-record the spell during a long re
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Monkey King</name>
+    <name>Monkey King [TP Legacy]</name>
     <size>M</size>
     <type>celestial (simian)</type>
     <alignment>Neutral</alignment>
@@ -19744,7 +19744,7 @@ The target must succeed on a DC 18 Charisma saving throw or be stunned until the
     <environment>farmland, forest</environment>
   </monster>
   <monster>
-    <name>Vanara</name>
+    <name>Vanara [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (simian)</type>
     <alignment>Good Neutral</alignment>
@@ -19798,7 +19798,7 @@ The target must succeed on a DC 18 Charisma saving throw or be stunned until the
     <environment/>
   </monster>
   <monster>
-    <name>Simurg</name>
+    <name>Simurg [TP Legacy]</name>
     <size>G</size>
     <type>celestial</type>
     <alignment>Good Neutral</alignment>
@@ -19861,7 +19861,7 @@ The target must succeed on a DC 18 Charisma saving throw or be stunned until the
     <environment/>
   </monster>
   <monster>
-    <name>Clacking Skeleton</name>
+    <name>Clacking Skeleton [TP Legacy]</name>
     <size>M</size>
     <type>undead (skeleton)</type>
     <alignment>Neutral Evil</alignment>
@@ -19911,7 +19911,7 @@ The target must succeed on a DC 18 Charisma saving throw or be stunned until the
     <environment/>
   </monster>
   <monster>
-    <name>Monarch Skeleton</name>
+    <name>Monarch Skeleton [TP Legacy]</name>
     <size>M</size>
     <type>undead (skeleton)</type>
     <alignment>Neutral Evil</alignment>
@@ -19964,7 +19964,7 @@ The target must succeed on a DC 18 Charisma saving throw or be stunned until the
     <environment/>
   </monster>
   <monster>
-    <name>Shadow Skeleton</name>
+    <name>Shadow Skeleton [TP Legacy]</name>
     <size>M</size>
     <type>undead (skeleton)</type>
     <alignment>Neutral Evil</alignment>
@@ -20006,7 +20006,7 @@ The target must succeed on a DC 18 Charisma saving throw or be stunned until the
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Skull Lantern</name>
+    <name>Skull Lantern [TP Legacy]</name>
     <size>T</size>
     <type>undead</type>
     <alignment>Unaligned</alignment>
@@ -20057,7 +20057,7 @@ Afterwards, the light winks out and the skull falls to the ground, inert. In one
     <environment/>
   </monster>
   <monster>
-    <name>Sleipnir</name>
+    <name>Sleipnir [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Good Neutral</alignment>
@@ -20114,7 +20114,7 @@ An undead creature who takes damage from this attack must succeed on a DC 16 Cha
     <environment>arctic, grassland</environment>
   </monster>
   <monster>
-    <name>Giant Sloth</name>
+    <name>Giant Sloth [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -20172,7 +20172,7 @@ The target must make a DC 15 Strength saving throw, taking 27 (6d8) bludgeoning 
     <environment>grassland</environment>
   </monster>
   <monster>
-    <name>Snow Cat</name>
+    <name>Snow Cat [TP Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -20221,7 +20221,7 @@ The target must make a DC 15 Strength saving throw, taking 27 (6d8) bludgeoning 
     <environment>arctic, forest</environment>
   </monster>
   <monster>
-    <name>Spawn of Chernobog</name>
+    <name>Spawn of Chernobog [TP Legacy]</name>
     <size>L</size>
     <type>fiend</type>
     <alignment>Chaotic Evil</alignment>
@@ -20277,7 +20277,7 @@ Disease Progression:
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Crypt Spider</name>
+    <name>Crypt Spider [TP Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Lawful Evil</alignment>
@@ -20340,7 +20340,7 @@ The crypt spider can have no more than four zombies under its control at one tim
     <environment/>
   </monster>
   <monster>
-    <name>Spirit Lamp</name>
+    <name>Spirit Lamp [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -20401,7 +20401,7 @@ If the creature remains cursed after 30 days, it is irreversibly changed by the 
     <environment/>
   </monster>
   <monster>
-    <name>Storm Spirit</name>
+    <name>Storm Spirit [TP Legacy]</name>
     <size>M</size>
     <type>elemental</type>
     <alignment>Neutral</alignment>
@@ -20451,7 +20451,7 @@ Any creature which ends its turn in the same space as the spirit takes 2 (1d4) l
     <environment/>
   </monster>
   <monster>
-    <name>Sunset Raptor</name>
+    <name>Sunset Raptor [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -20504,7 +20504,7 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
     <environment>forest, grassland</environment>
   </monster>
   <monster>
-    <name>Terror Bird</name>
+    <name>Terror Bird [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -20550,7 +20550,7 @@ The target must succeed on a DC 12 Constitution saving throw or take 7 (2d6) sla
     <environment/>
   </monster>
   <monster>
-    <name>Thread-bound Constrictor Snake</name>
+    <name>Thread-bound Constrictor Snake [TP Legacy]</name>
     <size>H</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -20598,7 +20598,7 @@ The target must succeed on a DC 12 Constitution saving throw or take 7 (2d6) sla
     <environment/>
   </monster>
   <monster>
-    <name>Three-headed Cobra</name>
+    <name>Three-headed Cobra [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -20646,7 +20646,7 @@ The target must succeed on a DC 12 Constitution saving throw or take 7 (2d6) sla
     <environment>coastal, grassland</environment>
   </monster>
   <monster>
-    <name>Tosculi Jeweled Drone</name>
+    <name>Tosculi Jeweled Drone [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (tosculi)</type>
     <alignment>Lawful Evil</alignment>
@@ -20702,7 +20702,7 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
     <environment>coastal, forest, grassland</environment>
   </monster>
   <monster>
-    <name>Desert Troll</name>
+    <name>Desert Troll [TP Legacy]</name>
     <size>L</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -20763,7 +20763,7 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
     <environment>coastal</environment>
   </monster>
   <monster>
-    <name>Trollkin Shaman</name>
+    <name>Trollkin Shaman [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (trollkin)</type>
     <alignment>Neutral</alignment>
@@ -20825,7 +20825,7 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
     <environment/>
   </monster>
   <monster>
-    <name>Trollkin Grunt</name>
+    <name>Trollkin Grunt [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (trollkin)</type>
     <alignment>Neutral</alignment>
@@ -20874,7 +20874,7 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
     <environment/>
   </monster>
   <monster>
-    <name>Tulpa</name>
+    <name>Tulpa [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -20936,7 +20936,7 @@ Each creature, other than the tulpa's creator, within that area must succeed on 
     <environment/>
   </monster>
   <monster>
-    <name>Tveirherjar</name>
+    <name>Tveirherjar [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Lawful Evil</alignment>
@@ -21002,7 +21002,7 @@ This light works like the faerie fire spell, except only the tveirherjar has adv
     <environment/>
   </monster>
   <monster>
-    <name>Two-headed Eagle</name>
+    <name>Two-headed Eagle [TP Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -21055,7 +21055,7 @@ This light works like the faerie fire spell, except only the tveirherjar has adv
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Undead Phoenix</name>
+    <name>Undead Phoenix [TP Legacy]</name>
     <size>H</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -21106,7 +21106,7 @@ The target must succeed on a DC 15 Constitution saving throw or be cursed with p
     <environment/>
   </monster>
   <monster>
-    <name>Undine</name>
+    <name>Undine [TP Legacy]</name>
     <size>M</size>
     <type>fey (shapechanger)</type>
     <alignment>Chaotic Neutral</alignment>
@@ -21172,7 +21172,7 @@ The target must succeed on a DC 15 Constitution saving throw or be cursed with p
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Unhatched</name>
+    <name>Unhatched [TP Legacy]</name>
     <size>S</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -21237,7 +21237,7 @@ Each creature in the area must make a DC 14 Dexterity saving throw, taking 16 (3
     <environment/>
   </monster>
   <monster>
-    <name>Ursa Polaris</name>
+    <name>Ursa Polaris [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -21300,7 +21300,7 @@ On a failure, a creature takes 21 (6d6) radiant damage and is stunned for 1 minu
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Vampire Patrician</name>
+    <name>Vampire Patrician [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Lawful Evil</alignment>
@@ -21405,7 +21405,7 @@ The target's hp maximum is reduced by an amount equal to the necrotic damage tak
     <environment/>
   </monster>
   <monster>
-    <name>Vampire Priestess</name>
+    <name>Vampire Priestess [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Lawful Evil</alignment>
@@ -21500,7 +21500,7 @@ The target's hp maximum is reduced by an amount equal to the necrotic damage tak
     <environment/>
   </monster>
   <monster>
-    <name>Vampire Priestess (Midgard Version)</name>
+    <name>Vampire Priestess (Midgard Version) [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Lawful Evil</alignment>
@@ -21595,7 +21595,7 @@ The target's hp maximum is reduced by an amount equal to the necrotic damage tak
     <environment/>
   </monster>
   <monster>
-    <name>Vampire Thrall</name>
+    <name>Vampire Thrall [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Any Non-Good Alignment</alignment>
@@ -21651,7 +21651,7 @@ The target's hp maximum is reduced by an amount equal to the necrotic damage tak
     <environment/>
   </monster>
   <monster>
-    <name>Vampiric Knight</name>
+    <name>Vampiric Knight [TP Legacy]</name>
     <size>M</size>
     <type>undead (Vampire)</type>
     <alignment>Neutral Evil</alignment>
@@ -21718,7 +21718,7 @@ The vampiric knight impales the target on its longsword, grappling the target if
     <environment/>
   </monster>
   <monster>
-    <name>Venom Maw Hydra</name>
+    <name>Venom Maw Hydra [TP Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -21801,7 +21801,7 @@ The vampiric knight impales the target on its longsword, grappling the target if
     <environment>swamp</environment>
   </monster>
   <monster>
-    <name>Vines of Nemthyr</name>
+    <name>Vines of Nemthyr [TP Legacy]</name>
     <size>L</size>
     <type>plant</type>
     <alignment>Neutral Evil</alignment>
@@ -21861,7 +21861,7 @@ Until this grapple ends, the target is restrained. The vines of Nemthyr has two 
     <environment>forest, grassland</environment>
   </monster>
   <monster>
-    <name>Warlock's Trumpetbloom</name>
+    <name>Warlock's Trumpetbloom [TP Legacy]</name>
     <size>L</size>
     <type>plant</type>
     <alignment>Neutral Evil</alignment>
@@ -21913,7 +21913,7 @@ The target is paralyzed while poisoned in this way. It can repeat the saving thr
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Water Horse</name>
+    <name>Water Horse [TP Legacy]</name>
     <size>M</size>
     <type>fey (shapechanger)</type>
     <alignment>Neutral Evil</alignment>
@@ -21973,7 +21973,7 @@ The target has advantage on the saving throw if it has taken damage since the en
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Albino Death Weasel</name>
+    <name>Albino Death Weasel [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -22025,7 +22025,7 @@ The target is also grappled (escape DC 13) if it is a Medium or smaller creature
     <environment/>
   </monster>
   <monster>
-    <name>Wind Weasel</name>
+    <name>Wind Weasel [TP Legacy]</name>
     <size>M</size>
     <type>fey (shapechanger)</type>
     <alignment>Chaotic Neutral</alignment>
@@ -22090,7 +22090,7 @@ The target is also grappled (escape DC 13) if it is a Medium or smaller creature
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Weirding Scroll</name>
+    <name>Weirding Scroll [TP Legacy]</name>
     <size>T</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -22134,7 +22134,7 @@ The target is also grappled (escape DC 13) if it is a Medium or smaller creature
     <environment/>
   </monster>
   <monster>
-    <name>Wendigo</name>
+    <name>Wendigo [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -22188,7 +22188,7 @@ The target is also grappled (escape DC 13) if it is a Medium or smaller creature
     <environment>arctic, farmland, mountain</environment>
   </monster>
   <monster>
-    <name>Whisperer In Darkness</name>
+    <name>Whisperer In Darkness [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -22247,7 +22247,7 @@ The target can repeat the saving throw at the end of each of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>White Stag</name>
+    <name>White Stag [TP Legacy]</name>
     <size>L</size>
     <type>celestial</type>
     <alignment>Chaotic Good</alignment>
@@ -22302,7 +22302,7 @@ roots randomly rise up to trip the creature when it walks past a tree (5% chance
     <environment/>
   </monster>
   <monster>
-    <name>Wind Eater</name>
+    <name>Wind Eater [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Lawful Evil</alignment>
@@ -22361,7 +22361,7 @@ The invisibility lasts until the wind eater uses a bonus action to end it or unt
     <environment/>
   </monster>
   <monster>
-    <name>Wolpertinger</name>
+    <name>Wolpertinger [TP Legacy]</name>
     <size>T</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -22417,7 +22417,7 @@ Each creature within 30 feet that can hear the wolpertinger must succeed on a DC
     <environment/>
   </monster>
   <monster>
-    <name>Woodwose</name>
+    <name>Woodwose [TP Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>Chaotic Neutral</alignment>
@@ -22471,7 +22471,7 @@ Each creature within 30 feet that can hear the wolpertinger must succeed on a DC
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Fang of the Great Wolf</name>
+    <name>Fang of the Great Wolf [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity (worg)</type>
     <alignment>Neutral Evil</alignment>
@@ -22520,7 +22520,7 @@ If the worg takes 10 damage or more on a single turn from the swallowed creature
     <environment>arctic, forest, grassland</environment>
   </monster>
   <monster>
-    <name>Wyvern Knight</name>
+    <name>Wyvern Knight [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Lawful Evil</alignment>
@@ -22579,7 +22579,7 @@ If the worg takes 10 damage or more on a single turn from the swallowed creature
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>War Wyvern</name>
+    <name>War Wyvern [TP Legacy]</name>
     <size>L</size>
     <type>dragon</type>
     <alignment>Unaligned</alignment>
@@ -22636,7 +22636,7 @@ The target must make a DC 16 Constitution saving throw, taking 24 (7d6) poison d
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Xenabsorber</name>
+    <name>Xenabsorber [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Chaotic Neutral</alignment>
@@ -22680,7 +22680,7 @@ The target must make a DC 16 Constitution saving throw, taking 24 (7d6) poison d
     <environment/>
   </monster>
   <monster>
-    <name>Xiphus</name>
+    <name>Xiphus [TP Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>Chaotic Evil</alignment>
@@ -22740,7 +22740,7 @@ The target is stable and doesn't die if this effect reduces its hp to 0. After 2
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Yaga Goo</name>
+    <name>Yaga Goo [TP Legacy]</name>
     <size>S</size>
     <type>ooze</type>
     <alignment>Neutral Evil</alignment>
@@ -22797,7 +22797,7 @@ The target is stable and doesn't die if this effect reduces its hp to 0. After 2
     <environment/>
   </monster>
   <monster>
-    <name>Yakirian</name>
+    <name>Yakirian [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (yakirian)</type>
     <alignment>Lawful Neutral</alignment>
@@ -22862,7 +22862,7 @@ A schism yakirian has a challenge rating of 3 (700 XP).</text>
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Yann-an-oed</name>
+    <name>Yann-an-oed [TP Legacy]</name>
     <size>H</size>
     <type>aberration</type>
     <alignment>Neutral</alignment>
@@ -22922,7 +22922,7 @@ Each creature within 120 feet that is able to hear the sound must succeed on a D
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Ziphius</name>
+    <name>Ziphius [TP Legacy]</name>
     <size>G</size>
     <type>aberration</type>
     <alignment>Neutral</alignment>
@@ -22987,7 +22987,7 @@ If the target is a Large or smaller creature, it must succeed on a DC 15 Strengt
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Blood Zombie</name>
+    <name>Blood Zombie [TP Legacy]</name>
     <size>M</size>
     <type>undead (zombie)</type>
     <alignment>Neutral Evil</alignment>
@@ -23029,7 +23029,7 @@ The zombie gains temporary hp equal to the necrotic damage taken.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Lord Zombie</name>
+    <name>Lord Zombie [TP Legacy]</name>
     <size>M</size>
     <type>undead (zombie)</type>
     <alignment>Neutral Evil</alignment>
@@ -23111,7 +23111,7 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the lord'
     <environment/>
   </monster>
   <monster>
-    <name>Mold Zombie</name>
+    <name>Mold Zombie [TP Legacy]</name>
     <size>M</size>
     <type>undead (zombie)</type>
     <alignment>Chaotic Evil</alignment>
@@ -23160,7 +23160,7 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the lord'
     <environment>swamp</environment>
   </monster>
   <monster>
-    <name>Zoog</name>
+    <name>Zoog [TP Legacy]</name>
     <size>T</size>
     <type>aberration</type>
     <alignment>Chaotic Evil</alignment>
@@ -23191,7 +23191,7 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the lord'
     <environment/>
   </monster>
   <monster>
-    <name>Battle Mage</name>
+    <name>Battle Mage [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Any alignment</alignment>
@@ -23247,7 +23247,7 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the lord'
     <environment/>
   </monster>
   <monster>
-    <name>Blood Mage</name>
+    <name>Blood Mage [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Any Non-Good Alignment</alignment>
@@ -23313,7 +23313,7 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the lord'
     <environment/>
   </monster>
   <monster>
-    <name>Blood Mage (Midgard Version)</name>
+    <name>Blood Mage (Midgard Version) [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Any Non-Good Alignment</alignment>
@@ -23379,7 +23379,7 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the lord'
     <environment/>
   </monster>
   <monster>
-    <name>Doomspeaker</name>
+    <name>Doomspeaker [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Chaotic Evil</alignment>
@@ -23433,7 +23433,7 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the lord'
     <environment/>
   </monster>
   <monster>
-    <name>Doomspeaker (Midgard Version)</name>
+    <name>Doomspeaker (Midgard Version) [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Chaotic Evil</alignment>
@@ -23494,7 +23494,7 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the lord'
     <environment/>
   </monster>
   <monster>
-    <name>Cleric of the Brew</name>
+    <name>Cleric of the Brew [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (dwarf)</type>
     <alignment>Any Good Alignment</alignment>
@@ -23559,7 +23559,7 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the lord'
     <environment/>
   </monster>
   <monster>
-    <name>Graveslayer</name>
+    <name>Graveslayer [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (dwarf)</type>
     <alignment>Any Non-Evil Alignment</alignment>
@@ -23619,7 +23619,7 @@ A turned undead must spend its turns trying to move as far away from the gravesl
     <environment/>
   </monster>
   <monster>
-    <name>Gear Mage</name>
+    <name>Gear Mage [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Lawful Neutral</alignment>
@@ -23673,7 +23673,7 @@ A turned undead must spend its turns trying to move as far away from the gravesl
     <environment/>
   </monster>
   <monster>
-    <name>Gear Mage (Midgard Version)</name>
+    <name>Gear Mage (Midgard Version) [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Lawful Neutral</alignment>
@@ -23727,7 +23727,7 @@ A turned undead must spend its turns trying to move as far away from the gravesl
     <environment/>
   </monster>
   <monster>
-    <name>Gnomish Knife Cultist</name>
+    <name>Gnomish Knife Cultist [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (gnome)</type>
     <alignment>Chaotic Evil</alignment>
@@ -23786,7 +23786,7 @@ A turned undead must spend its turns trying to move as far away from the gravesl
     <environment>farmland</environment>
   </monster>
   <monster>
-    <name>Elfmarked Human</name>
+    <name>Elfmarked Human [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (half-elf)</type>
     <alignment>Any alignment</alignment>
@@ -23840,7 +23840,7 @@ A turned undead must spend its turns trying to move as far away from the gravesl
     <environment/>
   </monster>
   <monster>
-    <name>Metee-kolen-ol</name>
+    <name>Metee-kolen-ol [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Chaotic Evil</alignment>
@@ -23889,7 +23889,7 @@ A creature that isn't surprised can avert its eyes to avoid the saving throw at 
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Necromancer</name>
+    <name>Necromancer [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Any Evil Alignment</alignment>
@@ -23942,7 +23942,7 @@ A creature that isn't surprised can avert its eyes to avoid the saving throw at 
     <environment/>
   </monster>
   <monster>
-    <name>Scorpion Assassin</name>
+    <name>Scorpion Assassin [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Neutral Evil</alignment>
@@ -24008,7 +24008,7 @@ On a failure, the target takes 24 (7d6) poison damage and is poisoned for 1 minu
     <environment>badlands, coastal</environment>
   </monster>
   <monster>
-    <name>Thief Lord</name>
+    <name>Thief Lord [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Lawful Evil</alignment>
@@ -24068,7 +24068,7 @@ The chosen ally becomes the target of the attack instead.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Void Cultist</name>
+    <name>Void Cultist [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Neutral Evil</alignment>
@@ -24128,7 +24128,7 @@ The chosen ally becomes the target of the attack instead.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Void Speaker</name>
+    <name>Void Speaker [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Neutral Evil</alignment>
@@ -24198,7 +24198,7 @@ The chosen ally becomes the target of the attack instead.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Void Speaker (Midgard Version)</name>
+    <name>Void Speaker (Midgard Version) [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Neutral Evil</alignment>
@@ -24268,7 +24268,7 @@ The chosen ally becomes the target of the attack instead.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Voidwracked Mage</name>
+    <name>Voidwracked Mage [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Chaotic Evil</alignment>
@@ -24334,7 +24334,7 @@ Either the creature itself or an ally outside of the event horizon must succeed 
     <environment/>
   </monster>
   <monster>
-    <name>Voidwracked Mage (Midgard Version)</name>
+    <name>Voidwracked Mage (Midgard Version) [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Chaotic Evil</alignment>
@@ -24400,7 +24400,7 @@ Either the creature itself or an ally outside of the event horizon must succeed 
     <environment/>
   </monster>
   <monster>
-    <name>War Chaplain</name>
+    <name>War Chaplain [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Any Lawful Alignment</alignment>
@@ -24456,7 +24456,7 @@ Either the creature itself or an ally outside of the event horizon must succeed 
     <environment/>
   </monster>
   <monster>
-    <name>War Priest</name>
+    <name>War Priest [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Any alignment</alignment>
@@ -24508,7 +24508,7 @@ Either the creature itself or an ally outside of the event horizon must succeed 
     <environment/>
   </monster>
   <spell>
-    <name>Call a Roggenwolf</name>
+    <name>Call a Roggenwolf [TP Legacy]</name>
     <level>2</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -24522,7 +24522,7 @@ Either the creature itself or an ally outside of the event horizon must succeed 
 Source:	Creature Codex (3pp) p. 320</text>
   </spell>
   <item>
-    <name>Robe of Iridescence</name>
+    <name>Robe of Iridescence [TP Legacy]</name>
     <type>G</type>
     <text>This shimmering cloak is made from the scales of a scitalis. While in an area of bright or dim light, you can pull the cloak's hood over your head to cause the scales to glimmer and shine. Each creature within 10 feet of you must succeed on a DC 15 Constitution saving throw or be blinded until the end of its next turn. Once this property has been used twice, it can't be used again until the next dawn. Pulling the hood up or down requires an action.
 

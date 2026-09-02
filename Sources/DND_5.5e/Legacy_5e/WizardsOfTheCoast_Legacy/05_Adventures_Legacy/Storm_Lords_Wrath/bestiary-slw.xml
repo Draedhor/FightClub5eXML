@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Expert</name>
+    <name>Expert [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -56,7 +56,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Skull Flier</name>
+    <name>Skull Flier [Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -91,7 +91,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment/>
   </monster>
   <monster>
-    <name>Spellcaster (Healer)</name>
+    <name>Spellcaster (Healer) [Legacy]</name>
     <ancestry>Healer</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -141,7 +141,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment/>
   </monster>
   <monster>
-    <name>Spellcaster (Mage)</name>
+    <name>Spellcaster (Mage) [Legacy]</name>
     <ancestry>Mage</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -191,7 +191,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment/>
   </monster>
   <monster>
-    <name>Statue of Talos</name>
+    <name>Statue of Talos [Legacy]</name>
     <size>L</size>
     <type>elemental</type>
     <alignment>Chaotic Evil</alignment>
@@ -236,7 +236,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment/>
   </monster>
   <monster>
-    <name>Tooth-N-Claw</name>
+    <name>Tooth-N-Claw [Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>Lawful Evil</alignment>
@@ -282,7 +282,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment/>
   </monster>
   <monster>
-    <name>Warrior</name>
+    <name>Warrior [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>

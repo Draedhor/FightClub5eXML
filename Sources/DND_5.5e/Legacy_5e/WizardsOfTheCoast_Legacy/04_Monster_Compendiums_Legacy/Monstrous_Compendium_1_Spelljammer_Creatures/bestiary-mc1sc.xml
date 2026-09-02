@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Asteroid Spider</name>
+    <name>Asteroid Spider [Legacy]</name>
     <sortname>Spider, Asteroid</sortname>
     <ancestry>Spider</ancestry>
     <size>G</size>
@@ -74,7 +74,7 @@ Source:	Monstrous Compendium Vol. 1 - Spelljammer Creatures p. 3</description>
     <environment/>
   </monster>
   <monster>
-    <name>Clockwork Horror</name>
+    <name>Clockwork Horror [Legacy]</name>
     <sortname>Horror, Clockwork</sortname>
     <ancestry>Horror</ancestry>
     <size>S</size>
@@ -147,7 +147,7 @@ Source:	Monstrous Compendium Vol. 1 - Spelljammer Creatures p. 4</description>
     <environment/>
   </monster>
   <monster>
-    <name>Eldritch Lich</name>
+    <name>Eldritch Lich [Legacy]</name>
     <sortname>Lich, Eldritch</sortname>
     <ancestry>Lich</ancestry>
     <size>M</size>
@@ -239,7 +239,7 @@ Source:	Monstrous Compendium Vol. 1 - Spelljammer Creatures p. 6</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fractine</name>
+    <name>Fractine [Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Typically Neutral</alignment>
@@ -312,7 +312,7 @@ Source:	Monstrous Compendium Vol. 1 - Spelljammer Creatures p. 7</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gadabout</name>
+    <name>Gadabout [Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -367,7 +367,7 @@ Source:	Monstrous Compendium Vol. 1 - Spelljammer Creatures p. 8</description>
     <environment/>
   </monster>
   <monster>
-    <name>Goon Balloon</name>
+    <name>Goon Balloon [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Typically Chaotic Evil</alignment>
@@ -431,7 +431,7 @@ Source:	Monstrous Compendium Vol. 1 - Spelljammer Creatures p. 9</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nightmare Beast</name>
+    <name>Nightmare Beast [Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>Typically Chaotic Evil</alignment>
@@ -515,7 +515,7 @@ Source:	Monstrous Compendium Vol. 1 - Spelljammer Creatures p. 10</description>
     <environment/>
   </monster>
   <monster>
-    <name>Puppeteer Parasite</name>
+    <name>Puppeteer Parasite [Legacy]</name>
     <size>T</size>
     <type>aberration</type>
     <alignment>Typically Neutral Evil</alignment>
@@ -568,7 +568,7 @@ Source:	Monstrous Compendium Vol. 1 - Spelljammer Creatures p. 11</description>
     <environment/>
   </monster>
   <monster>
-    <name>Star Lancer</name>
+    <name>Star Lancer [Legacy]</name>
     <size>L</size>
     <type>celestial</type>
     <alignment>Typically Neutral</alignment>
@@ -618,7 +618,7 @@ Source:	Monstrous Compendium Vol. 1 - Spelljammer Creatures p. 12</description>
     <environment/>
   </monster>
   <monster>
-    <name>Yggdrasti</name>
+    <name>Yggdrasti [Legacy]</name>
     <size>G</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>

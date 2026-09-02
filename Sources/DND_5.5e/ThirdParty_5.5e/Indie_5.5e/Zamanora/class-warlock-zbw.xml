@@ -364,123 +364,123 @@ Source:	Zamanora: Ballad of the Witch p. 112 (Homebrew)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Detect Thoughts (TP)</name>
+    <name>Detect Thoughts [TP]</name>
     <classes>Warlock (The Old Crone (HB))</classes>
   </spell>
   <spell>
-    <name>Hex (TP)</name>
+    <name>Hex [TP]</name>
     <classes>Warlock (The Old Crone (HB))</classes>
   </spell>
   <spell>
-    <name>Identify (TP)</name>
+    <name>Identify [TP]</name>
     <classes>Warlock (The Old Crone (HB))</classes>
   </spell>
   <spell>
-    <name>Mirror Image (TP)</name>
+    <name>Mirror Image [TP]</name>
     <classes>Warlock (The Old Crone (HB))</classes>
   </spell>
   <spell>
-    <name>Bestow Curse (TP)</name>
+    <name>Bestow Curse [TP]</name>
     <classes>Warlock (The Old Crone (HB))</classes>
   </spell>
   <spell>
-    <name>Tiny Hut (TP)</name>
+    <name>Tiny Hut [TP]</name>
     <classes>Warlock (The Old Crone (HB))</classes>
   </spell>
   <spell>
-    <name>Black Tentacles (TP)</name>
+    <name>Black Tentacles [TP]</name>
     <classes>Warlock (The Old Crone (HB))</classes>
   </spell>
   <spell>
-    <name>Polymorph (TP)</name>
+    <name>Polymorph [TP]</name>
     <classes>Warlock (The Old Crone (HB))</classes>
   </spell>
   <spell>
-    <name>Modify Memory (TP)</name>
+    <name>Modify Memory [TP]</name>
     <classes>Warlock (The Old Crone (HB))</classes>
   </spell>
   <spell>
-    <name>Teleportation Circle (TP)</name>
+    <name>Teleportation Circle [TP]</name>
     <classes>Warlock (The Old Crone (HB))</classes>
   </spell>
   <spell>
-    <name>Thunderwave (TP)</name>
+    <name>Thunderwave [TP]</name>
     <classes>Warlock (The Underlord (HB))</classes>
   </spell>
   <spell>
-    <name>Shield (TP)</name>
+    <name>Shield [TP]</name>
     <classes>Warlock (The Underlord (HB))</classes>
   </spell>
   <spell>
-    <name>Silence (TP)</name>
+    <name>Silence [TP]</name>
     <classes>Warlock (The Underlord (HB))</classes>
   </spell>
   <spell>
-    <name>Warding Bond (TP)</name>
+    <name>Warding Bond [TP]</name>
     <classes>Warlock (The Underlord (HB))</classes>
   </spell>
   <spell>
-    <name>Glyph of Warding (TP)</name>
+    <name>Glyph of Warding [TP]</name>
     <classes>Warlock (The Underlord (HB))</classes>
   </spell>
   <spell>
-    <name>Meld Into Stone (TP)</name>
+    <name>Meld Into Stone [TP]</name>
     <classes>Warlock (The Underlord (HB))</classes>
   </spell>
   <spell>
-    <name>Resilient Sphere (TP)</name>
+    <name>Resilient Sphere [TP]</name>
     <classes>Warlock (The Underlord (HB))</classes>
   </spell>
   <spell>
-    <name>Stoneskin (TP)</name>
+    <name>Stoneskin [TP]</name>
     <classes>Warlock (The Underlord (HB))</classes>
   </spell>
   <spell>
-    <name>Legend Lore (TP)</name>
+    <name>Legend Lore [TP]</name>
     <classes>Warlock (The Underlord (HB))</classes>
   </spell>
   <spell>
-    <name>Wall of Stone (TP)</name>
+    <name>Wall of Stone [TP]</name>
     <classes>Warlock (The Underlord (HB))</classes>
   </spell>
   <spell>
-    <name>Detect Poison and Disease (TP)</name>
+    <name>Detect Poison and Disease [TP]</name>
     <classes>Warlock (The Murrain Maiden (HB))</classes>
   </spell>
   <spell>
-    <name>Hold Person (TP)</name>
+    <name>Hold Person [TP]</name>
     <classes>Warlock (The Murrain Maiden (HB))</classes>
   </spell>
   <spell>
-    <name>Ray of Enfeeblement (TP)</name>
+    <name>Ray of Enfeeblement [TP]</name>
     <classes>Warlock (The Murrain Maiden (HB))</classes>
   </spell>
   <spell>
-    <name>Ray of Sickness (TP)</name>
+    <name>Ray of Sickness [TP]</name>
     <classes>Warlock (The Murrain Maiden (HB))</classes>
   </spell>
   <spell>
-    <name>Animate Dead (TP)</name>
+    <name>Animate Dead [TP]</name>
     <classes>Warlock (The Murrain Maiden (HB))</classes>
   </spell>
   <spell>
-    <name>Speak with Dead (TP)</name>
+    <name>Speak with Dead [TP]</name>
     <classes>Warlock (The Murrain Maiden (HB))</classes>
   </spell>
   <spell>
-    <name>Blight (TP)</name>
+    <name>Blight [TP]</name>
     <classes>Warlock (The Murrain Maiden (HB))</classes>
   </spell>
   <spell>
-    <name>Patchwork Restoration (TP)</name>
+    <name>Patchwork Restoration [TP]</name>
     <classes>Warlock (The Murrain Maiden (HB))</classes>
   </spell>
   <spell>
-    <name>Cloudkill (TP)</name>
+    <name>Cloudkill [TP]</name>
     <classes>Warlock (The Murrain Maiden (HB))</classes>
   </spell>
   <spell>
-    <name>Insect Plague (TP)</name>
+    <name>Insect Plague [TP]</name>
     <classes>Warlock (The Murrain Maiden (HB))</classes>
   </spell>
 </compendium>

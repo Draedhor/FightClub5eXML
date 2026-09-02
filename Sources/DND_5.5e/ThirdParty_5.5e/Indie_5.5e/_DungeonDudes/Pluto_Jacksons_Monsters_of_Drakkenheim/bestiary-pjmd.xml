@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Amalgamation (Epic) (TP)</name>
+    <name>Amalgamation (Epic) [TP]</name>
     <ancestry>Amalgamation</ancestry>
     <size>G</size>
     <type>aberration</type>
@@ -136,7 +136,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 24 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Anomollusk (TP)</name>
+    <name>Anomollusk [TP]</name>
     <ancestry>Anomollusk</ancestry>
     <size>H</size>
     <type>monstrosity</type>
@@ -215,7 +215,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 26 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Arcane Wraith (TP)</name>
+    <name>Arcane Wraith [TP]</name>
     <sortname>Wraith, Arcane</sortname>
     <ancestry>Wraith</ancestry>
     <size>M</size>
@@ -306,7 +306,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 27 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Beetle Knight (TP)</name>
+    <name>Beetle Knight [TP]</name>
     <sortname>Knight, Beetle</sortname>
     <ancestry>Knight</ancestry>
     <size>L</size>
@@ -393,7 +393,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 28 (Third Party)</description
     <environment>urban, grassland, forest</environment>
   </monster>
   <monster>
-    <name>Belfray (TP)</name>
+    <name>Belfray [TP]</name>
     <ancestry>Belfray</ancestry>
     <size>M</size>
     <type>monstrosity</type>
@@ -487,7 +487,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 29 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Big Linda (TP)</name>
+    <name>Big Linda [TP]</name>
     <sortname>Linda, Big</sortname>
     <ancestry>Linda</ancestry>
     <size>H</size>
@@ -578,7 +578,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 30 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Bigger Linda (Epic) (TP)</name>
+    <name>Bigger Linda (Epic) [TP]</name>
     <sortname>Linda, Bigger</sortname>
     <ancestry>Linda</ancestry>
     <size>G</size>
@@ -698,7 +698,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 31 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Bloated Hive (TP)</name>
+    <name>Bloated Hive [TP]</name>
     <sortname>Hive, Bloated</sortname>
     <ancestry>Hive</ancestry>
     <size>M</size>
@@ -786,7 +786,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 32 (Third Party)</description
     <environment>urban, grassland, forest</environment>
   </monster>
   <monster>
-    <name>Swarm of Contaminated Insects (TP)</name>
+    <name>Swarm of Contaminated Insects [TP]</name>
     <sortname>of Contaminated Insects, Swarm</sortname>
     <ancestry>Contaminated Insects</ancestry>
     <size>M</size>
@@ -844,7 +844,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 32 (Third Party)</description
     <environment>urban, grassland, forest</environment>
   </monster>
   <monster>
-    <name>Bojack (TP)</name>
+    <name>Bojack [TP]</name>
     <ancestry>Bojack</ancestry>
     <size>L</size>
     <type>monstrosity</type>
@@ -939,7 +939,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 34 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Cacophonous Chimera (Epic) (TP)</name>
+    <name>Cacophonous Chimera (Epic) [TP]</name>
     <sortname>Chimera, Cacophonous</sortname>
     <ancestry>Chimera</ancestry>
     <npc>YES</npc>
@@ -1082,7 +1082,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 36 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Chitter (TP)</name>
+    <name>Chitter [TP]</name>
     <ancestry>Chitter</ancestry>
     <size>M</size>
     <type>monstrosity</type>
@@ -1177,7 +1177,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 38 (Third Party)</description
     <environment>urban, forest</environment>
   </monster>
   <monster>
-    <name>Crater Wurm (TP)</name>
+    <name>Crater Wurm [TP]</name>
     <sortname>Wurm, Crater</sortname>
     <ancestry>Wurm</ancestry>
     <size>G</size>
@@ -1264,7 +1264,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 39 (Third Party)</description
     <environment>urban, underdark</environment>
   </monster>
   <monster>
-    <name>Dark Growth (TP)</name>
+    <name>Dark Growth [TP]</name>
     <sortname>Growth, Dark</sortname>
     <ancestry>Growth</ancestry>
     <size>M</size>
@@ -1348,7 +1348,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 40 (Third Party)</description
     <environment>urban, grassland, forest</environment>
   </monster>
   <monster>
-    <name>Dark Growth Shambler (TP)</name>
+    <name>Dark Growth Shambler [TP]</name>
     <sortname>Shambler, Dark Growth</sortname>
     <ancestry>Dark Growth</ancestry>
     <size>M</size>
@@ -1417,7 +1417,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 41 (Third Party)</description
     <environment>urban, grassland, forest</environment>
   </monster>
   <monster>
-    <name>Digipede (TP)</name>
+    <name>Digipede [TP]</name>
     <ancestry>Digipede</ancestry>
     <size>H</size>
     <type>monstrosity</type>
@@ -1501,7 +1501,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 42 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Drakkenheim Sewer Gator (TP)</name>
+    <name>Drakkenheim Sewer Gator [TP]</name>
     <sortname>Sewer Gator, Drakkenheim</sortname>
     <ancestry>Sewer Gator</ancestry>
     <size>H</size>
@@ -1600,7 +1600,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 43 (Third Party)</description
     <environment>urban, underwater, swamp</environment>
   </monster>
   <monster>
-    <name>Effulgent Cnidarian (TP)</name>
+    <name>Effulgent Cnidarian [TP]</name>
     <sortname>Cnidarian, Effulgent</sortname>
     <ancestry>Cnidarian</ancestry>
     <size>L</size>
@@ -1692,7 +1692,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 44 (Third Party)</description
     <environment>planar, urban</environment>
   </monster>
   <monster>
-    <name>Animated Delerium Sludge (TP)</name>
+    <name>Animated Delerium Sludge [TP]</name>
     <sortname>Delerium Sludge, Animated</sortname>
     <ancestry>Delerium Sludge</ancestry>
     <size>L</size>
@@ -1775,7 +1775,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 46 (Third Party)</description
     <environment>urban, underwater</environment>
   </monster>
   <monster>
-    <name>Entropic Flame (TP)</name>
+    <name>Entropic Flame [TP]</name>
     <sortname>Flame, Entropic</sortname>
     <ancestry>Flame</ancestry>
     <size>L</size>
@@ -1863,7 +1863,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 47 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Living Deep Haze (TP)</name>
+    <name>Living Deep Haze [TP]</name>
     <sortname>Deep Haze, Living</sortname>
     <ancestry>Deep Haze</ancestry>
     <size>L</size>
@@ -1944,7 +1944,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 48 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Walking Delerium Geode (TP)</name>
+    <name>Walking Delerium Geode [TP]</name>
     <size>L</size>
     <type>elemental</type>
     <ac>17 (natural armor)</ac>
@@ -2023,7 +2023,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 49 (Third Party)</description
     <environment>urban, underdark</environment>
   </monster>
   <monster>
-    <name>Eldritch Cataclysm (TP)</name>
+    <name>Eldritch Cataclysm [TP]</name>
     <sortname>Cataclysm, Eldritch</sortname>
     <ancestry>Cataclysm</ancestry>
     <size>G</size>
@@ -2121,7 +2121,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 50 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Graffiti (TP)</name>
+    <name>Graffiti [TP]</name>
     <ancestry>Graffiti</ancestry>
     <size>T</size>
     <type>construct</type>
@@ -2225,7 +2225,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 52 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Chorus (TP)</name>
+    <name>Chorus [TP]</name>
     <ancestry>Chorus</ancestry>
     <size>H</size>
     <type>swarm of medium constructs</type>
@@ -2285,7 +2285,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 52 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Gravekeeper (Epic) (TP)</name>
+    <name>Gravekeeper (Epic) [TP]</name>
     <ancestry>Gavekeeper</ancestry>
     <size>L</size>
     <type>aberration</type>
@@ -2432,7 +2432,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 54 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Haze Husk (TP)</name>
+    <name>Haze Husk [TP]</name>
     <sortname>Husk, Haze</sortname>
     <ancestry>Husk</ancestry>
     <size>M</size>
@@ -2511,7 +2511,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 56 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Haze Wight (TP)</name>
+    <name>Haze Wight [TP]</name>
     <sortname>Wight, Haze</sortname>
     <ancestry>Haze Husk</ancestry>
     <size>M</size>
@@ -2595,7 +2595,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 57 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Hazewing Moth Caterpillar (TP)</name>
+    <name>Hazewing Moth Caterpillar [TP]</name>
     <sortname>Caterpillar, Hazewing Moth</sortname>
     <ancestry>Hazewing Moth</ancestry>
     <size>S</size>
@@ -2664,7 +2664,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 58 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Hazewing Moth Chrysalis (TP)</name>
+    <name>Hazewing Moth Chrysalis [TP]</name>
     <sortname>Chrysalis, Hazewing Moth</sortname>
     <ancestry>Hazewing Moth</ancestry>
     <size>M</size>
@@ -2748,7 +2748,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 59 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Hazewing Moth Adult (TP)</name>
+    <name>Hazewing Moth Adult [TP]</name>
     <sortname>Adult, Hazewing Moth</sortname>
     <ancestry>Hazewing Moth</ancestry>
     <size>M</size>
@@ -2827,7 +2827,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 60 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Hypnotic Eldritch Blossom (TP)</name>
+    <name>Hypnotic Eldritch Blossom [TP]</name>
     <sortname>Eldritch Blossom, Hypnotic</sortname>
     <ancestry>Eldritch Blossom</ancestry>
     <size>M</size>
@@ -2906,7 +2906,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 61 (Third Party)</description
     <environment>urban, forest</environment>
   </monster>
   <monster>
-    <name>Kronen (TP)</name>
+    <name>Kronen [TP]</name>
     <ancestry>Kronen</ancestry>
     <size>L</size>
     <type>aberration</type>
@@ -2992,7 +2992,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 62 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Last Memory (TP)</name>
+    <name>Last Memory [TP]</name>
     <sortname>Memory, Last</sortname>
     <ancestry>Memory</ancestry>
     <size>M</size>
@@ -3078,7 +3078,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 63 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Living City (Epic) (TP)</name>
+    <name>Living City (Epic) [TP]</name>
     <sortname>City (Epic), Living</sortname>
     <ancestry>City</ancestry>
     <size>G</size>
@@ -3200,7 +3200,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 64 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Loathsome Gag Fly (TP)</name>
+    <name>Loathsome Gag Fly [TP]</name>
     <sortname>Gag Fly, Loathsome</sortname>
     <ancestry>Gag Fly</ancestry>
     <size>S</size>
@@ -3289,7 +3289,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 66 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Lob Frog (TP)</name>
+    <name>Lob Frog [TP]</name>
     <sortname>Frog, Lob</sortname>
     <ancestry>Frog</ancestry>
     <size>M</size>
@@ -3374,7 +3374,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 67 (Third Party)</description
     <environment>urban, underwater, swamp</environment>
   </monster>
   <monster>
-    <name>Octarine Tree (TP)</name>
+    <name>Octarine Tree [TP]</name>
     <sortname>Tree, Octarine</sortname>
     <ancestry>Tree</ancestry>
     <size>H</size>
@@ -3473,7 +3473,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 68 (Third Party)</description
     <environment>urban, forest, grassland, swamp</environment>
   </monster>
   <monster>
-    <name>Pyknic Maunder (TP)</name>
+    <name>Pyknic Maunder [TP]</name>
     <sortname>Maunder, Pyknic</sortname>
     <ancestry>Maunder</ancestry>
     <size>L</size>
@@ -3558,7 +3558,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 70 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Reality Cyst (TP)</name>
+    <name>Reality Cyst [TP]</name>
     <sortname>Cyst, Reality</sortname>
     <ancestry>Cyst</ancestry>
     <size>M</size>
@@ -3646,7 +3646,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 72 (Third Party)</description
     <environment>urban, planar</environment>
   </monster>
   <monster>
-    <name>Sewer Thing (TP)</name>
+    <name>Sewer Thing [TP]</name>
     <sortname>Thing, Sewer</sortname>
     <ancestry>Thing</ancestry>
     <size>H</size>
@@ -3747,7 +3747,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 74 (Third Party)</description
     <environment>urban, underwater</environment>
   </monster>
   <monster>
-    <name>Shardmaul Manticore (TP)</name>
+    <name>Shardmaul Manticore [TP]</name>
     <sortname>Manticore, Shardmaul</sortname>
     <ancestry>Manticore</ancestry>
     <size>L</size>
@@ -3839,7 +3839,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 75 (Third Party)</description
     <environment>urban, mountain, hill, grassland, forest</environment>
   </monster>
   <monster>
-    <name>Skin Crawler (TP)</name>
+    <name>Skin Crawler [TP]</name>
     <sortname>Crawler, Skin</sortname>
     <ancestry>Crawler</ancestry>
     <size>M</size>
@@ -3924,7 +3924,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 76 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Skretch (TP)</name>
+    <name>Skretch [TP]</name>
     <ancestry>Skretch</ancestry>
     <size>M</size>
     <type>monstrosity</type>
@@ -4008,7 +4008,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 77 (Third Party)</description
     <environment/>
   </monster>
   <monster>
-    <name>Undulating Polyp (TP)</name>
+    <name>Undulating Polyp [TP]</name>
     <size>S</size>
     <type>aberration</type>
     <ac>16 (natural armor)</ac>
@@ -4095,7 +4095,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 78 (Third Party)</description
     <environment>urban, planar</environment>
   </monster>
   <monster>
-    <name>Warp Witch (TP)</name>
+    <name>Warp Witch [TP]</name>
     <sortname>Witch, Warp</sortname>
     <ancestry>Witch</ancestry>
     <size>M</size>
@@ -4182,7 +4182,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 80 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>The World Ender (Epic) (TP)</name>
+    <name>The World Ender (Epic) [TP]</name>
     <sortname>World Ender (Epic), The</sortname>
     <ancestry>World Ender</ancestry>
     <size>G</size>
@@ -4337,7 +4337,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 82 (Third Party)</description
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Delerium Dreg (TP)</name>
+    <name>Delerium Dreg [TP]</name>
     <sortname>Dreg, Delerium</sortname>
     <ancestry>Dreg</ancestry>
     <size>M</size>
@@ -4412,7 +4412,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 92 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Bloated Dreg (TP)</name>
+    <name>Bloated Dreg [TP]</name>
     <sortname>Dreg, Bloated</sortname>
     <ancestry>Dreg</ancestry>
     <size>M</size>
@@ -4489,7 +4489,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 93 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Chitinous Dreg (TP)</name>
+    <name>Chitinous Dreg [TP]</name>
     <sortname>Dreg, Chitinous</sortname>
     <ancestry>Dreg</ancestry>
     <size>M</size>
@@ -4569,7 +4569,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 94 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Crystaline Dreg (TP)</name>
+    <name>Crystaline Dreg [TP]</name>
     <sortname>Dreg, Crystaline</sortname>
     <ancestry>Dreg</ancestry>
     <size>M</size>
@@ -4648,7 +4648,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 95 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Displacer Dreg (TP)</name>
+    <name>Displacer Dreg [TP]</name>
     <sortname>Dreg, Displacer</sortname>
     <ancestry>Dreg</ancestry>
     <size>M</size>
@@ -4727,7 +4727,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 96 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Eldritch Dreg (TP)</name>
+    <name>Eldritch Dreg [TP]</name>
     <sortname>Dreg, Eldritch</sortname>
     <ancestry>Dreg</ancestry>
     <size>M</size>
@@ -4816,7 +4816,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 97 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Frenzied Dreg (TP)</name>
+    <name>Frenzied Dreg [TP]</name>
     <sortname>Dreg, Frenzied</sortname>
     <ancestry>Dreg</ancestry>
     <size>M</size>
@@ -4897,7 +4897,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 98 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Gutwrench Dreg (TP)</name>
+    <name>Gutwrench Dreg [TP]</name>
     <size>M</size>
     <type>aberration</type>
     <ac>15 (natural armor)</ac>
@@ -4976,7 +4976,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 99 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Lambent Dreg (TP)</name>
+    <name>Lambent Dreg [TP]</name>
     <sortname>Dreg, Lambent</sortname>
     <ancestry>Dreg</ancestry>
     <size>M</size>
@@ -5065,7 +5065,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 100 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Lurking Dreg (TP)</name>
+    <name>Lurking Dreg [TP]</name>
     <size>M</size>
     <type>aberration</type>
     <ac>13 (natural armor)</ac>
@@ -5148,7 +5148,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 101 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Spined Dreg (TP)</name>
+    <name>Spined Dreg [TP]</name>
     <sortname>Dreg, Spined</sortname>
     <ancestry>Dreg</ancestry>
     <size>M</size>
@@ -5230,7 +5230,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 102 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Tentacled Dreg (TP)</name>
+    <name>Tentacled Dreg [TP]</name>
     <sortname>Dreg, Tentacled</sortname>
     <ancestry>Dreg</ancestry>
     <size>M</size>
@@ -5313,7 +5313,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 103 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Haze Hulk (TP)</name>
+    <name>Haze Hulk [TP]</name>
     <sortname>Hulk, Haze</sortname>
     <ancestry>Hulk</ancestry>
     <size>L</size>
@@ -5393,7 +5393,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 104 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Cyclopian Hulk (TP)</name>
+    <name>Cyclopian Hulk [TP]</name>
     <sortname>Hulk, Cyclopian</sortname>
     <ancestry>Hulk</ancestry>
     <size>L</size>
@@ -5474,7 +5474,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 105 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Grotesque Gargantuan (TP)</name>
+    <name>Grotesque Gargantuan [TP]</name>
     <sortname>Gargantuan, Grotesque</sortname>
     <ancestry>Gargantuan</ancestry>
     <size>G</size>
@@ -5561,7 +5561,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 106 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Gutbuster Hulk (TP)</name>
+    <name>Gutbuster Hulk [TP]</name>
     <sortname>Hulk, Gutbuster</sortname>
     <ancestry>Hulk</ancestry>
     <size>L</size>
@@ -5640,7 +5640,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 108 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Hunter Hulk (TP)</name>
+    <name>Hunter Hulk [TP]</name>
     <sortname>Hulk, Hunter</sortname>
     <ancestry>Hulk</ancestry>
     <size>L</size>
@@ -5725,7 +5725,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 109 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Juggernaut Hulk (TP)</name>
+    <name>Juggernaut Hulk [TP]</name>
     <sortname>Hulk, Juggernaut</sortname>
     <ancestry>Hulk</ancestry>
     <size>L</size>
@@ -5815,7 +5815,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 110 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Protean Abomination (TP)</name>
+    <name>Protean Abomination [TP]</name>
     <sortname>Abomination, Protean</sortname>
     <ancestry>Abomination</ancestry>
     <size>H</size>
@@ -5904,7 +5904,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 111 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Haze Regent Lenore von Kessel (Epic) (TP)</name>
+    <name>Haze Regent Lenore von Kessel (Epic) [TP]</name>
     <sortname>Lenore von Kessel (Epic), Haze Regent</sortname>
     <ancestry>Lenore von Kessel</ancestry>
     <npc>YES</npc>
@@ -6022,7 +6022,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 112 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Lenore von Kessel (TP)</name>
+    <name>Lenore von Kessel [TP]</name>
     <sortname>von Kessel, Lenore</sortname>
     <ancestry>Lenore von Kessel</ancestry>
     <npc>YES</npc>
@@ -6111,7 +6111,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 112 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Pale Man (Epic) (TP)</name>
+    <name>Pale Man (Epic) [TP]</name>
     <sortname>Man (Epic), Pale</sortname>
     <ancestry>Man</ancestry>
     <size>M</size>
@@ -6250,7 +6250,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 114 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Ratling Warrior (TP)</name>
+    <name>Ratling Warrior [TP]</name>
     <sortname>Warrior, Ratling</sortname>
     <ancestry>Ratling</ancestry>
     <size>S</size>
@@ -6340,7 +6340,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 124 (Third Party)</descriptio
     <environment>urban, underdark</environment>
   </monster>
   <monster>
-    <name>Ratling Burrow Warden (TP)</name>
+    <name>Ratling Burrow Warden [TP]</name>
     <sortname>Burrow Warden, Ratling</sortname>
     <ancestry>Ratling</ancestry>
     <size>M</size>
@@ -6431,7 +6431,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 125 (Third Party)</descriptio
     <environment>urban, underdark</environment>
   </monster>
   <monster>
-    <name>Ratling Guttersnipe (TP)</name>
+    <name>Ratling Guttersnipe [TP]</name>
     <sortname>Guttersnipe, Ratling</sortname>
     <ancestry>Ratling</ancestry>
     <size>S</size>
@@ -6529,7 +6529,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 126 (Third Party)</descriptio
     <environment>urban, underdark</environment>
   </monster>
   <monster>
-    <name>Warlock of the Rat God (TP)</name>
+    <name>Warlock of the Rat God [TP]</name>
     <sortname>of the Rat God, Warlock</sortname>
     <ancestry>Ratling</ancestry>
     <size>S</size>
@@ -6625,7 +6625,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 127 (Third Party)</descriptio
     <environment>urban, underdark</environment>
   </monster>
   <monster>
-    <name>Giant Ratling (TP)</name>
+    <name>Giant Ratling [TP]</name>
     <sortname>Ratling, Giant</sortname>
     <ancestry>Ratling</ancestry>
     <size>L</size>
@@ -6716,7 +6716,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 128 (Third Party)</descriptio
     <environment>urban, underdark</environment>
   </monster>
   <monster>
-    <name>Ratling Alchemist (TP)</name>
+    <name>Ratling Alchemist [TP]</name>
     <sortname>Alchemist, Ratling</sortname>
     <ancestry>Alchemist</ancestry>
     <size>S</size>
@@ -6823,7 +6823,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 130 (Third Party)</descriptio
     <environment>urban, underdark</environment>
   </monster>
   <monster>
-    <name>Swarm of Ratlings (TP)</name>
+    <name>Swarm of Ratlings [TP]</name>
     <sortname>of Ratlings, Swarm</sortname>
     <ancestry>Ratlings</ancestry>
     <size>H</size>
@@ -6913,7 +6913,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 131 (Third Party)</descriptio
     <environment>urban, underdark</environment>
   </monster>
   <monster>
-    <name>Ratling Pathogenist (TP)</name>
+    <name>Ratling Pathogenist [TP]</name>
     <sortname>Pathogenist, Ratling</sortname>
     <ancestry>Ratling</ancestry>
     <size>S</size>
@@ -7008,7 +7008,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 132 (Third Party)</descriptio
     <environment>urban, underdark</environment>
   </monster>
   <monster>
-    <name>Maw Vermin (TP)</name>
+    <name>Maw Vermin [TP]</name>
     <sortname>Vermin, Maw</sortname>
     <ancestry>Ratling</ancestry>
     <size>H</size>
@@ -7101,7 +7101,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 133 (Third Party)</descriptio
     <environment>urban, underdark</environment>
   </monster>
   <monster>
-    <name>Oracle of the Rat God (TP)</name>
+    <name>Oracle of the Rat God [TP]</name>
     <sortname>Rat God, Oracle</sortname>
     <ancestry>Ratling</ancestry>
     <size>S</size>
@@ -7200,7 +7200,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 134 (Third Party)</descriptio
     <environment>urban, underdark</environment>
   </monster>
   <monster>
-    <name>Rat King (TP)</name>
+    <name>Rat King [TP]</name>
     <sortname>King, Rat</sortname>
     <ancestry>Ratling</ancestry>
     <size>L</size>
@@ -7285,7 +7285,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 135 (Third Party)</descriptio
     <environment>urban, underdark</environment>
   </monster>
   <monster>
-    <name>Rat Crown-Prince (Epic) (TP)</name>
+    <name>Rat Crown-Prince (Epic) [TP]</name>
     <sortname>Crown-Prince (Epic), Rat</sortname>
     <ancestry>Rat Prince</ancestry>
     <npc>YES</npc>
@@ -7392,7 +7392,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 136 (Third Party)</descriptio
     <environment>urban, underdark</environment>
   </monster>
   <monster>
-    <name>Rat Prince (TP)</name>
+    <name>Rat Prince [TP]</name>
     <sortname>Prince, Rat</sortname>
     <ancestry>Ratling</ancestry>
     <npc>YES</npc>
@@ -7506,7 +7506,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 136 (Third Party)</descriptio
     <environment>urban, underdark</environment>
   </monster>
   <monster>
-    <name>Garmyr Bloodhound (TP)</name>
+    <name>Garmyr Bloodhound [TP]</name>
     <sortname>Bloodhound, Garmyr</sortname>
     <ancestry>Garmyr</ancestry>
     <size>M</size>
@@ -7616,7 +7616,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 146 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Garmyr Berserker (TP)</name>
+    <name>Garmyr Berserker [TP]</name>
     <sortname>Berserker, Garmyr</sortname>
     <ancestry>Garmyr</ancestry>
     <size>L</size>
@@ -7714,7 +7714,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 147 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Garmyr Thaumaturge (TP)</name>
+    <name>Garmyr Thaumaturge [TP]</name>
     <sortname>Thaumaturge, Garmyr</sortname>
     <ancestry>Garmyr</ancestry>
     <size>M</size>
@@ -7825,7 +7825,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 148 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Garmyr War Dog (TP)</name>
+    <name>Garmyr War Dog [TP]</name>
     <sortname>War Dog, Garmyr</sortname>
     <ancestry>Garmyr</ancestry>
     <size>L</size>
@@ -7902,7 +7902,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 149 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Garmyr Warrior (TP)</name>
+    <name>Garmyr Warrior [TP]</name>
     <sortname>Warrior, Garmyr</sortname>
     <ancestry>Garmyr</ancestry>
     <size>M</size>
@@ -7994,7 +7994,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 150 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Lord of the Feast (Epic) (TP)</name>
+    <name>Lord of the Feast (Epic) [TP]</name>
     <sortname>of the Feast (Epic), Lord</sortname>
     <ancestry>Garmyr</ancestry>
     <npc>YES</npc>
@@ -8134,7 +8134,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 152 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Deep Dreg Warrior (TP)</name>
+    <name>Deep Dreg Warrior [TP]</name>
     <sortname>Dreg Warrior, Deep</sortname>
     <ancestry>Deep Dreg</ancestry>
     <size>M</size>
@@ -8227,7 +8227,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 155 (Third Party)</descriptio
     <environment>urban, underwater, swamp, coastal</environment>
   </monster>
   <monster>
-    <name>Deep Knight (TP)</name>
+    <name>Deep Knight [TP]</name>
     <sortname>Knight, Deep</sortname>
     <ancestry>Deep Dreg</ancestry>
     <size>L</size>
@@ -8322,7 +8322,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 156 (Third Party)</descriptio
     <environment>urban, underwater, swamp, coastal</environment>
   </monster>
   <monster>
-    <name>Deep Siren (TP)</name>
+    <name>Deep Siren [TP]</name>
     <sortname>Siren, Deep</sortname>
     <ancestry>Deep Dreg</ancestry>
     <size>M</size>
@@ -8424,7 +8424,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 157 (Third Party)</descriptio
     <environment>urban, underwater, swamp, coastal</environment>
   </monster>
   <monster>
-    <name>The Duchess (Epic) (TP)</name>
+    <name>The Duchess (Epic) [TP]</name>
     <sortname>Duchess (Epic), The</sortname>
     <ancestry>The Duchess</ancestry>
     <npc>YES</npc>
@@ -8581,7 +8581,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 158 (Third Party)</descriptio
     <environment>urban, underwater, swamp, coastal</environment>
   </monster>
   <monster>
-    <name>Wall Gargoyle (TP)</name>
+    <name>Wall Gargoyle [TP]</name>
     <sortname>Gargoyle, Wall</sortname>
     <ancestry>Gargoyle</ancestry>
     <size>M</size>
@@ -8671,7 +8671,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 160 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Tower Dragon (TP)</name>
+    <name>Tower Dragon [TP]</name>
     <sortname>Dragon, Tower</sortname>
     <ancestry>Dragon</ancestry>
     <size>L</size>
@@ -8784,7 +8784,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 161 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Executioner (Epic) (TP)</name>
+    <name>Executioner (Epic) [TP]</name>
     <sortname>(Epic), Executioner</sortname>
     <ancestry>Executioner</ancestry>
     <npc>YES</npc>
@@ -8910,7 +8910,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 162 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Grasping Shadow (TP)</name>
+    <name>Grasping Shadow [TP]</name>
     <sortname>Shadow, Grasping</sortname>
     <ancestry>Shadow</ancestry>
     <size>M</size>
@@ -8971,7 +8971,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 162 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Minazorond (Epic) (TP)</name>
+    <name>Minazorond (Epic) [TP]</name>
     <sortname>(Epic), Minazorond</sortname>
     <ancestry>Minazorond</ancestry>
     <npc>YES</npc>
@@ -9106,7 +9106,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 164 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Hazewind Harpy Crone (TP)</name>
+    <name>Hazewind Harpy Crone [TP]</name>
     <sortname>Harpy Crone, Hazewind</sortname>
     <ancestry>Harpy Crone</ancestry>
     <size>M</size>
@@ -9188,7 +9188,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 166 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Hazewind Harpy Hunter (TP)</name>
+    <name>Hazewind Harpy Hunter [TP]</name>
     <sortname>Harpy Hunter, Hazewind</sortname>
     <ancestry>Hazewind Harpy</ancestry>
     <size>M</size>
@@ -9277,7 +9277,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 167 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Hazewind Harpy Valkyrie (TP)</name>
+    <name>Hazewind Harpy Valkyrie [TP]</name>
     <sortname>Harpy Valkyrie, Hazewind</sortname>
     <ancestry>Hazewind Harpy</ancestry>
     <size>M</size>
@@ -9373,7 +9373,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 168 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Crimson Countess (Epic) (TP)</name>
+    <name>Crimson Countess (Epic) [TP]</name>
     <sortname>Countess (Epic), Crimson</sortname>
     <ancestry>Harpy</ancestry>
     <npc>YES</npc>
@@ -9486,7 +9486,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 169 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Alienist (TP)</name>
+    <name>Alienist [TP]</name>
     <ancestry>Alienist</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -9589,7 +9589,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 182 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Chemist (TP)</name>
+    <name>Chemist [TP]</name>
     <ancestry>Chemist</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -9681,7 +9681,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 183 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Exorcist (TP)</name>
+    <name>Exorcist [TP]</name>
     <ancestry>Exorcist</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -9783,7 +9783,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 184 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Mutagenist (TP)</name>
+    <name>Mutagenist [TP]</name>
     <ancestry>Mutagenist</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -9879,7 +9879,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 185 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Pathogenist (TP)</name>
+    <name>Pathogenist [TP]</name>
     <ancestry>Pathogenist</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -9975,7 +9975,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 186 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Dr. Everett Freed, Reanimator (TP)</name>
+    <name>Dr. Everett Freed, Reanimator [TP]</name>
     <sortname>Everett Freed, Reanimator, Dr.</sortname>
     <ancestry>Everett Freed, Reanimator</ancestry>
     <npc>YES</npc>
@@ -10076,7 +10076,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 188 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Think Tank (Epic) (TP)</name>
+    <name>Think Tank (Epic) [TP]</name>
     <sortname>Tank (Epic), Think</sortname>
     <ancestry>Think Tank</ancestry>
     <size>L</size>
@@ -10193,7 +10193,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 190 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Helpful Hand (TP)</name>
+    <name>Helpful Hand [TP]</name>
     <sortname>Hand, Helpful</sortname>
     <ancestry>Hand</ancestry>
     <size>T</size>
@@ -10248,7 +10248,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 192 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Speaking Skull (TP)</name>
+    <name>Speaking Skull [TP]</name>
     <sortname>Skull, Speaking</sortname>
     <ancestry>Skull</ancestry>
     <size>T</size>
@@ -10303,7 +10303,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 193 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Apex (TP)</name>
+    <name>Apex [TP]</name>
     <ancestry>Apex</ancestry>
     <size>L</size>
     <type>monstrosity</type>
@@ -10401,7 +10401,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 194 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Body Snatcher (TP)</name>
+    <name>Body Snatcher [TP]</name>
     <sortname>Snatcher, Body</sortname>
     <ancestry>Snatcher</ancestry>
     <size>L</size>
@@ -10469,7 +10469,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 196 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Cerebrograft (TP)</name>
+    <name>Cerebrograft [TP]</name>
     <ancestry>Cerebrograft</ancestry>
     <size>L</size>
     <type>aberration</type>
@@ -10545,7 +10545,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 197 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Chemystral (TP)</name>
+    <name>Chemystral [TP]</name>
     <ancestry>Chemystral</ancestry>
     <size>L</size>
     <type>ooze</type>
@@ -10632,7 +10632,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 198 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Disembodied Psyche (TP)</name>
+    <name>Disembodied Psyche [TP]</name>
     <sortname>Psyche, Disembodied</sortname>
     <ancestry>Psyche</ancestry>
     <size>M</size>
@@ -10707,7 +10707,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 199 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Injector (TP)</name>
+    <name>Injector [TP]</name>
     <ancestry>Injector</ancestry>
     <size>M</size>
     <type>construct</type>
@@ -10785,7 +10785,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 200 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Innocent Harvester (TP)</name>
+    <name>Innocent Harvester [TP]</name>
     <sortname>Harvester, Innocent</sortname>
     <ancestry>Harvester</ancestry>
     <size>S</size>
@@ -10862,7 +10862,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 201 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Kingkiller Hydra (Epic) (TP)</name>
+    <name>Kingkiller Hydra (Epic) [TP]</name>
     <sortname>Hydra (Epic), Kingkiller</sortname>
     <ancestry>Hydra</ancestry>
     <size>G</size>
@@ -10971,7 +10971,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 202 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Blood Leech (TP)</name>
+    <name>Blood Leech [TP]</name>
     <sortname>Leech, Blood</sortname>
     <ancestry>Leech</ancestry>
     <size>T</size>
@@ -11044,7 +11044,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 204 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Mind Leech (TP)</name>
+    <name>Mind Leech [TP]</name>
     <sortname>Leech, Mind</sortname>
     <ancestry>Leech</ancestry>
     <size>T</size>
@@ -11115,7 +11115,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 204 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Spell Leech (TP)</name>
+    <name>Spell Leech [TP]</name>
     <sortname>Leech, Spell</sortname>
     <ancestry>Leech</ancestry>
     <size>T</size>
@@ -11186,7 +11186,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 204 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Living Biohazard (TP)</name>
+    <name>Living Biohazard [TP]</name>
     <sortname>Biohazard, Living</sortname>
     <ancestry>Biohazard</ancestry>
     <size>L</size>
@@ -11252,7 +11252,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 206 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Plague Carrier (TP)</name>
+    <name>Plague Carrier [TP]</name>
     <sortname>Carrier, Plague</sortname>
     <ancestry>Carrier</ancestry>
     <size>M</size>
@@ -11314,7 +11314,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 207 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Reautomata (TP)</name>
+    <name>Reautomata [TP]</name>
     <ancestry>Reautomata</ancestry>
     <size>M</size>
     <type>construct</type>
@@ -11390,7 +11390,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 208 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Scrap Reautomata (TP)</name>
+    <name>Scrap Reautomata [TP]</name>
     <sortname>Reautomata, Scrap</sortname>
     <ancestry>Reautomata</ancestry>
     <size>M</size>
@@ -11443,7 +11443,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 210 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Reautomata Wrecker (TP)</name>
+    <name>Reautomata Wrecker [TP]</name>
     <sortname>Wrecker, Reautomata</sortname>
     <ancestry>Reautomata</ancestry>
     <size>L</size>
@@ -11509,7 +11509,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 211 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Ravenous Flora (Epic) (TP)</name>
+    <name>Ravenous Flora (Epic) [TP]</name>
     <sortname>Flora (Epic), Ravenous</sortname>
     <ancestry>Flora</ancestry>
     <size>L</size>
@@ -11599,7 +11599,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 212 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Ripper (TP)</name>
+    <name>Ripper [TP]</name>
     <ancestry>Ripper</ancestry>
     <size>L</size>
     <type>construct</type>
@@ -11675,7 +11675,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 213 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Skinwing (TP)</name>
+    <name>Skinwing [TP]</name>
     <ancestry>Skinwing</ancestry>
     <size>M</size>
     <type>monstrosity</type>
@@ -11741,7 +11741,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 214 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Aberrant Host (TP)</name>
+    <name>Aberrant Host [TP]</name>
     <sortname>Host, Aberrant</sortname>
     <ancestry>Soulbound Host</ancestry>
     <size>M</size>
@@ -11827,7 +11827,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 215 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Faerie Host (TP)</name>
+    <name>Faerie Host [TP]</name>
     <sortname>Host, Faerie</sortname>
     <ancestry>Soulbound Host</ancestry>
     <size>M</size>
@@ -11918,7 +11918,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 215 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Fiendish Host (TP)</name>
+    <name>Fiendish Host [TP]</name>
     <sortname>Host, Fiendish</sortname>
     <ancestry>Soulbound Host</ancestry>
     <size>M</size>
@@ -12009,7 +12009,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 215 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Stitcher (TP)</name>
+    <name>Stitcher [TP]</name>
     <ancestry>Stitcher</ancestry>
     <size>L</size>
     <type>construct</type>
@@ -12088,7 +12088,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 218 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Tanker (TP)</name>
+    <name>Tanker [TP]</name>
     <ancestry>Tanker</ancestry>
     <size>L</size>
     <type>construct</type>
@@ -12161,7 +12161,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 220 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Uncontained Growth (TP)</name>
+    <name>Uncontained Growth [TP]</name>
     <sortname>Growth, Uncontained</sortname>
     <ancestry>Growth</ancestry>
     <size>M</size>
@@ -12224,7 +12224,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 221 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Wretched Patient (TP)</name>
+    <name>Wretched Patient [TP]</name>
     <sortname>Patient, Wretched</sortname>
     <ancestry>Patient</ancestry>
     <size>M</size>
@@ -12306,7 +12306,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 222 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Crimson Knight (TP)</name>
+    <name>Crimson Knight [TP]</name>
     <sortname>Knight, Crimson</sortname>
     <ancestry>Knight</ancestry>
     <size>M</size>
@@ -12414,7 +12414,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 238 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Dark Confessor (TP)</name>
+    <name>Dark Confessor [TP]</name>
     <sortname>Confessor, Dark</sortname>
     <ancestry>Confessor</ancestry>
     <size>M</size>
@@ -12533,7 +12533,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 240 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Druid of the Sanguine Rites (TP)</name>
+    <name>Druid of the Sanguine Rites [TP]</name>
     <sortname>of the Sanguine Rites, Druid</sortname>
     <ancestry>of the Sanguine Rites</ancestry>
     <size>M</size>
@@ -12632,7 +12632,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 242 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Ghoul Priest (TP)</name>
+    <name>Ghoul Priest [TP]</name>
     <sortname>Priest, Ghoul</sortname>
     <ancestry>Ghoul</ancestry>
     <size>M</size>
@@ -12694,7 +12694,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 244 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Ravenous Ghoul (TP)</name>
+    <name>Ravenous Ghoul [TP]</name>
     <sortname>Ghoul, Ravenous</sortname>
     <ancestry>Ghoul</ancestry>
     <size>M</size>
@@ -12759,7 +12759,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 244 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Ghoul Lord (TP)</name>
+    <name>Ghoul Lord [TP]</name>
     <sortname>Lord, Ghoul</sortname>
     <ancestry>Ghoul</ancestry>
     <size>M</size>
@@ -12836,7 +12836,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 246 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Grim Custodian (TP)</name>
+    <name>Grim Custodian [TP]</name>
     <sortname>Custodian, Grim</sortname>
     <ancestry>Custodian</ancestry>
     <size>M</size>
@@ -12933,7 +12933,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 247 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Hazeblood Vampire (TP)</name>
+    <name>Hazeblood Vampire [TP]</name>
     <sortname>Vampire, Hazeblood</sortname>
     <ancestry>Vampire</ancestry>
     <size>M</size>
@@ -13029,7 +13029,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 248 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Night Blade (TP)</name>
+    <name>Night Blade [TP]</name>
     <sortname>Blade, Night</sortname>
     <ancestry>Vampire</ancestry>
     <size>M</size>
@@ -13137,7 +13137,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 250 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Sanguine Witch (TP)</name>
+    <name>Sanguine Witch [TP]</name>
     <sortname>Witch, Sanguine</sortname>
     <ancestry>Witch</ancestry>
     <size>M</size>
@@ -13243,7 +13243,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 252 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Skeleton Archer (TP)</name>
+    <name>Skeleton Archer [TP]</name>
     <sortname>Archer, Skeleton</sortname>
     <ancestry>Skeleton</ancestry>
     <size>M</size>
@@ -13310,7 +13310,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 254 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Skeleton Mage (TP)</name>
+    <name>Skeleton Mage [TP]</name>
     <sortname>Mage, Skeleton</sortname>
     <ancestry>Mage</ancestry>
     <size>M</size>
@@ -13379,7 +13379,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 254 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Skeleton Soldier (TP)</name>
+    <name>Skeleton Soldier [TP]</name>
     <sortname>Soldier, Skeleton</sortname>
     <ancestry>Skeleton</ancestry>
     <size>M</size>
@@ -13440,7 +13440,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 254 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Striga (Epic) (TP)</name>
+    <name>Striga (Epic) [TP]</name>
     <sortname>(Epic), Striga</sortname>
     <ancestry>Striga</ancestry>
     <size>L</size>
@@ -13566,7 +13566,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 256 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Zealot of Morrigan (TP)</name>
+    <name>Zealot of Morrigan [TP]</name>
     <sortname>of Morrigan, Zealot</sortname>
     <ancestry>of Morrigan</ancestry>
     <size>M</size>
@@ -13663,7 +13663,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 258 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Crypt-Starved Vladimir von Drakken (Epic) (TP)</name>
+    <name>Crypt-Starved Vladimir von Drakken (Epic) [TP]</name>
     <sortname>Vladimir von Drakken (Epic), Crypt-Starved</sortname>
     <ancestry>Vladimir von Drakken</ancestry>
     <npc>YES</npc>
@@ -13799,7 +13799,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 260 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Reborn Vladimir von Drakken (Epic) (TP)</name>
+    <name>Reborn Vladimir von Drakken (Epic) [TP]</name>
     <sortname>Vladimir von Drakken (Epic), Reborn</sortname>
     <ancestry>Vladimir von Drakken</ancestry>
     <npc>YES</npc>
@@ -13942,7 +13942,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 262 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Ascendant Vladimir von Drakken (Epic) (TP)</name>
+    <name>Ascendant Vladimir von Drakken (Epic) [TP]</name>
     <sortname>Vladimir von Drakken (Epic), Ascendant</sortname>
     <ancestry>Vladimir von Drakken</ancestry>
     <npc>YES</npc>
@@ -14085,7 +14085,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 264 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Storm Troll (TP)</name>
+    <name>Storm Troll [TP]</name>
     <sortname>Troll, Storm</sortname>
     <ancestry>Troll</ancestry>
     <size>L</size>
@@ -14160,7 +14160,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 273 (Third Party)</descriptio
     <environment>mountain, coastal, hill, swamp, forest</environment>
   </monster>
   <monster>
-    <name>Winter Troll (TP)</name>
+    <name>Winter Troll [TP]</name>
     <sortname>Troll, Winter</sortname>
     <ancestry>Troll</ancestry>
     <size>L</size>
@@ -14234,7 +14234,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 274 (Third Party)</descriptio
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Magma Troll (TP)</name>
+    <name>Magma Troll [TP]</name>
     <sortname>Magma, Troll</sortname>
     <ancestry>Troll</ancestry>
     <size>L</size>
@@ -14306,7 +14306,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 275 (Third Party)</descriptio
     <environment>mountain, underdark, desert</environment>
   </monster>
   <monster>
-    <name>Eldritch Troll (TP)</name>
+    <name>Eldritch Troll [TP]</name>
     <sortname>Troll, Eldritch</sortname>
     <ancestry>Troll</ancestry>
     <size>L</size>
@@ -14425,7 +14425,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 276 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Troll Hag (TP)</name>
+    <name>Troll Hag [TP]</name>
     <sortname>Hag, Troll</sortname>
     <ancestry>Hag</ancestry>
     <size>L</size>
@@ -14519,7 +14519,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 278 (Third Party)</descriptio
     <environment>swamp, forest</environment>
   </monster>
   <monster>
-    <name>Troll Hag (Coven) (TP)</name>
+    <name>Troll Hag (Coven) [TP]</name>
     <sortname>Hag (Coven), Troll</sortname>
     <ancestry>Hag</ancestry>
     <size>L</size>
@@ -14650,7 +14650,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 278 (Third Party)</descriptio
     <environment>swamp, forest</environment>
   </monster>
   <monster>
-    <name>Humongous Fungus Troll (Epic) (TP)</name>
+    <name>Humongous Fungus Troll (Epic) [TP]</name>
     <sortname>Fungus Troll (Epic), Humongous</sortname>
     <ancestry>Troll</ancestry>
     <size>H</size>
@@ -14742,7 +14742,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 280 (Third Party)</descriptio
     <environment>swamp, forest</environment>
   </monster>
   <monster>
-    <name>Fungal Trolling (TP)</name>
+    <name>Fungal Trolling [TP]</name>
     <sortname>Trolling, Fungal</sortname>
     <ancestry>Trolling</ancestry>
     <size>M</size>
@@ -14801,7 +14801,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 282 (Third Party)</descriptio
     <environment>swamp, forest</environment>
   </monster>
   <monster>
-    <name>Oak Troll (TP)</name>
+    <name>Oak Troll [TP]</name>
     <sortname>Troll, Oak</sortname>
     <ancestry>Troll</ancestry>
     <size>H</size>
@@ -14883,7 +14883,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 283 (Third Party)</descriptio
     <environment>forest, swamp</environment>
   </monster>
   <monster>
-    <name>Agog (TP)</name>
+    <name>Agog [TP]</name>
     <ancestry>Agog</ancestry>
     <size>M</size>
     <type>aberration</type>
@@ -14960,7 +14960,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 292 (Third Party),
     <environment>swamp, grassland, forest, planar</environment>
   </monster>
   <monster>
-    <name>Allopine (TP)</name>
+    <name>Allopine [TP]</name>
     <ancestry>Allopine</ancestry>
     <size>S</size>
     <type>aberration</type>
@@ -15032,7 +15032,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 293 (Third Party),
     <environment>swamp, grassland, forest, planar</environment>
   </monster>
   <monster>
-    <name>Adult Delerium Dragon (Epic) (TP)</name>
+    <name>Adult Delerium Dragon (Epic) [TP]</name>
     <sortname>Delerium Dragon (Epic), Adult</sortname>
     <ancestry>Delerium Dragon</ancestry>
     <size>H</size>
@@ -15171,7 +15171,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 294 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Ancient Delerium Dragon (Epic) (TP)</name>
+    <name>Ancient Delerium Dragon (Epic) [TP]</name>
     <sortname>Delerium Dragon (Epic), Ancient</sortname>
     <ancestry>Delerium Dragon</ancestry>
     <size>G</size>
@@ -15322,7 +15322,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 294 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Delerium Dragon Wyrmling (TP)</name>
+    <name>Delerium Dragon Wyrmling [TP]</name>
     <sortname>Dragon Wyrmling, Delerium</sortname>
     <ancestry>Dragon Wyrmling</ancestry>
     <size>M</size>
@@ -15414,7 +15414,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 294 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Young Delerium Dragon (Epic) (TP)</name>
+    <name>Young Delerium Dragon (Epic) [TP]</name>
     <sortname>Delerium Dragon (Epic), Young</sortname>
     <ancestry>Delerium Dragon</ancestry>
     <size>L</size>
@@ -15530,7 +15530,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 294 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Far Dweller (TP)</name>
+    <name>Far Dweller [TP]</name>
     <sortname>Dweller, Far</sortname>
     <ancestry>Dweller</ancestry>
     <size>M</size>
@@ -15633,7 +15633,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 298 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Far Dweller Mastermind (Epic) (TP)</name>
+    <name>Far Dweller Mastermind (Epic) [TP]</name>
     <sortname>Far Dweller, Mastermind</sortname>
     <ancestry>Far Dweller</ancestry>
     <size>M</size>
@@ -15768,7 +15768,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 299 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Far Dweller Abductor (TP)</name>
+    <name>Far Dweller Abductor [TP]</name>
     <sortname>Far Dweller, Abductor</sortname>
     <ancestry>Far Dweller</ancestry>
     <size>M</size>
@@ -15865,7 +15865,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 300 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Entropic Watcher (Epic) (TP)</name>
+    <name>Entropic Watcher (Epic) [TP]</name>
     <sortname>Watcher (Epic), Entropic</sortname>
     <ancestry>Watcher</ancestry>
     <size>L</size>
@@ -15986,7 +15986,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 302 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Fractal Lepidoptera (TP)</name>
+    <name>Fractal Lepidoptera [TP]</name>
     <sortname>Lepidoptera, Fractal</sortname>
     <ancestry>Lepidoptera</ancestry>
     <size>H</size>
@@ -16109,7 +16109,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 304 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Interloper (TP)</name>
+    <name>Interloper [TP]</name>
     <size>S</size>
     <type>aberration</type>
     <ac>15 (natural armor)</ac>
@@ -16206,7 +16206,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 306 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Liminal Herald (TP)</name>
+    <name>Liminal Herald [TP]</name>
     <sortname>Herald, Liminal</sortname>
     <ancestry>Herald</ancestry>
     <size>M</size>
@@ -16302,7 +16302,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 308 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Lurker on the Threshold (TP)</name>
+    <name>Lurker on the Threshold [TP]</name>
     <sortname>on the Threshold, Lurker</sortname>
     <ancestry>on the Threshold</ancestry>
     <size>L</size>
@@ -16393,7 +16393,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 309 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Eldritch Crawler (TP)</name>
+    <name>Eldritch Crawler [TP]</name>
     <sortname>Crawler, Eldritch</sortname>
     <ancestry>Crawler</ancestry>
     <size>M</size>
@@ -16474,7 +16474,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 310 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Phage (TP)</name>
+    <name>Phage [TP]</name>
     <ancestry>Phage</ancestry>
     <size>M</size>
     <type>aberration</type>
@@ -16559,7 +16559,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 311 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Psychophant (TP)</name>
+    <name>Psychophant [TP]</name>
     <ancestry>Psychophant</ancestry>
     <size>M</size>
     <type>aberration</type>
@@ -16647,7 +16647,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 312 (Third Party)</descriptio
     <environment>planar, urban</environment>
   </monster>
   <monster>
-    <name>Warp Marauder (TP)</name>
+    <name>Warp Marauder [TP]</name>
     <sortname>Marauder, Warp</sortname>
     <ancestry>Marauder</ancestry>
     <size>M</size>
@@ -16752,7 +16752,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 314 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Void Pirate Captain (TP)</name>
+    <name>Void Pirate Captain [TP]</name>
     <sortname>Captain, Void Pirate</sortname>
     <ancestry>Void Pirate</ancestry>
     <size>M</size>
@@ -16848,7 +16848,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 316 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Void Pirate Herald (TP)</name>
+    <name>Void Pirate Herald [TP]</name>
     <sortname>Herald, Void Pirate</sortname>
     <ancestry>Void Pirate</ancestry>
     <size>M</size>
@@ -16941,7 +16941,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 316 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Void Pirate Quartermaster (TP)</name>
+    <name>Void Pirate Quartermaster [TP]</name>
     <sortname>Quartermaster, Void Pirate</sortname>
     <ancestry>Void Pirate</ancestry>
     <size>M</size>
@@ -17036,7 +17036,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 316 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Void Pirate Squib (TP)</name>
+    <name>Void Pirate Squib [TP]</name>
     <sortname>Squib, Void Pirate</sortname>
     <ancestry>Void Pirate</ancestry>
     <size>M</size>
@@ -17126,7 +17126,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 316 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Star Warden (TP)</name>
+    <name>Star Warden [TP]</name>
     <sortname>Warden, Star</sortname>
     <ancestry>Warden</ancestry>
     <size>H</size>
@@ -17225,7 +17225,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 320 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Sentient Planetoid (TP)</name>
+    <name>Sentient Planetoid [TP]</name>
     <sortname>Planetoid, Sentient</sortname>
     <ancestry>Planetoid</ancestry>
     <size>G</size>
@@ -17321,7 +17321,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 323 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>He Who Laughs Last (Epic) (TP)</name>
+    <name>He Who Laughs Last (Epic) [TP]</name>
     <sortname>He Who Laughs Last (Epic)</sortname>
     <ancestry>He Who Laughs Last (Epic)</ancestry>
     <npc>YES</npc>
@@ -17437,7 +17437,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 326 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>The Thing With The Writhing Tail (Epic) (TP)</name>
+    <name>The Thing With The Writhing Tail (Epic) [TP]</name>
     <sortname>The Thing With The Writhing Tail (Epic)</sortname>
     <ancestry>The Thing With The Writhing Tail (Epic)</ancestry>
     <npc>YES</npc>
@@ -17562,7 +17562,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 328 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>The Whispered Promise (Epic) (TP)</name>
+    <name>The Whispered Promise (Epic) [TP]</name>
     <sortname>The Whispered Promise (Epic)</sortname>
     <ancestry>The Whispered Promise (Epic)</ancestry>
     <npc>YES</npc>
@@ -17684,7 +17684,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 330 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Rat God (Epic) (TP)</name>
+    <name>Rat God (Epic) [TP]</name>
     <sortname>Rat God (Epic)</sortname>
     <ancestry>Rat God (Epic)</ancestry>
     <npc>YES</npc>
@@ -17788,7 +17788,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 332 (Third Party)</descriptio
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>The Algorithm (Epic) (TP)</name>
+    <name>The Algorithm (Epic) [TP]</name>
     <sortname>The Algorithm (Epic)</sortname>
     <ancestry>The Algorithm (Epic)</ancestry>
     <npc>YES</npc>
@@ -17908,7 +17908,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 334 (Third Party)</descriptio
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Academy Apprentice (TP)</name>
+    <name>Academy Apprentice [TP]</name>
     <sortname>Apprentice, Academy</sortname>
     <ancestry>Apprentice</ancestry>
     <size>M</size>
@@ -17960,7 +17960,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 336 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Academy Grandmaster (TP)</name>
+    <name>Academy Grandmaster [TP]</name>
     <sortname>Grandmaster, Academy</sortname>
     <ancestry>Grandmaster</ancestry>
     <size>M</size>
@@ -18035,7 +18035,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 336 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Academy Mage (TP)</name>
+    <name>Academy Mage [TP]</name>
     <sortname>Mage, Academy</sortname>
     <ancestry>Mage</ancestry>
     <size>M</size>
@@ -18102,7 +18102,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 336 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Academy Outcast (TP)</name>
+    <name>Academy Outcast [TP]</name>
     <sortname>Outcast, Academy</sortname>
     <ancestry>Outcast</ancestry>
     <size>M</size>
@@ -18164,7 +18164,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 336 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Master Mage (TP)</name>
+    <name>Master Mage [TP]</name>
     <sortname>Mage, Master</sortname>
     <ancestry>Mage</ancestry>
     <size>M</size>
@@ -18230,7 +18230,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 336 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>River (TP)</name>
+    <name>River [TP]</name>
     <ancestry>River</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -18302,7 +18302,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 340 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Eldrick Runeweaver (Epic) (TP)</name>
+    <name>Eldrick Runeweaver (Epic) [TP]</name>
     <sortname>Eldrick Runeweaver (Epic)</sortname>
     <ancestry>Eldrick Runeweaver (Epic)</ancestry>
     <npc>YES</npc>
@@ -18413,7 +18413,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 341 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Congregation (TP)</name>
+    <name>Congregation [TP]</name>
     <ancestry>Congregation</ancestry>
     <size>G</size>
     <type>swarm of medium humanoids</type>
@@ -18477,7 +18477,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 342 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Missionary (TP)</name>
+    <name>Missionary [TP]</name>
     <ancestry>Missionary</ancestry>
     <size>M</size>
     <type>humanoid</type>
@@ -18548,7 +18548,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 342 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Pilgrim (TP)</name>
+    <name>Pilgrim [TP]</name>
     <ancestry>Pilgrim</ancestry>
     <size>M</size>
     <type>humanoid</type>
@@ -18600,7 +18600,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 342 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Sanctified Knight (TP)</name>
+    <name>Sanctified Knight [TP]</name>
     <sortname>Knight, Sanctified</sortname>
     <ancestry>Knight</ancestry>
     <size>M</size>
@@ -18669,7 +18669,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 342 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Sanctified Monk (TP)</name>
+    <name>Sanctified Monk [TP]</name>
     <sortname>Monk, Sanctified</sortname>
     <ancestry>Monk</ancestry>
     <size>M</size>
@@ -18732,7 +18732,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 342 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Sanctified Soul (TP)</name>
+    <name>Sanctified Soul [TP]</name>
     <sortname>Sanctified Soul</sortname>
     <ancestry>Sanctified Soul</ancestry>
     <size>M</size>
@@ -18801,7 +18801,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 342 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Zealot (TP)</name>
+    <name>Zealot [TP]</name>
     <ancestry>Zealot</ancestry>
     <size>M</size>
     <type>humanoid</type>
@@ -18862,7 +18862,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 342 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Nathaniel Flint, Pilgrimage Leader (TP)</name>
+    <name>Nathaniel Flint, Pilgrimage Leader [TP]</name>
     <sortname>Nathaniel Flint, Pilgrimage Leader</sortname>
     <ancestry>Nathaniel Flint</ancestry>
     <npc>YES</npc>
@@ -18930,7 +18930,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 347 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Lucretia Mathias (Epic) (TP)</name>
+    <name>Lucretia Mathias (Epic) [TP]</name>
     <sortname>Mathias (Epic), Lucretia</sortname>
     <ancestry>Lucretia Mathias (Epic)</ancestry>
     <npc>YES</npc>
@@ -19041,7 +19041,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 348 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Eldritch Trickster (TP)</name>
+    <name>Eldritch Trickster [TP]</name>
     <sortname>Trickster, Eldritch</sortname>
     <ancestry>Trickster</ancestry>
     <size>M</size>
@@ -19101,7 +19101,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 349 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Royal Assassin (TP)</name>
+    <name>Royal Assassin [TP]</name>
     <sortname>Assassin, Royal</sortname>
     <ancestry>Assassin</ancestry>
     <size>M</size>
@@ -19167,7 +19167,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 349 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Blackjack Mel (TP)</name>
+    <name>Blackjack Mel [TP]</name>
     <sortname>Mel, Blackjack</sortname>
     <ancestry>Mel</ancestry>
     <npc>YES</npc>
@@ -19230,7 +19230,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 351 (Third Party)</descriptio
     <environment/>
   </monster>
   <monster>
-    <name>Queen of Thieves (Epic) (TP)</name>
+    <name>Queen of Thieves (Epic) [TP]</name>
     <sortname>Queen of Thieves (Epic)</sortname>
     <ancestry>Queen of Thieves (Epic)</ancestry>
     <npc>YES</npc>
@@ -19339,7 +19339,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 352 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Flamekeeper (TP)</name>
+    <name>Flamekeeper [TP]</name>
     <ancestry>Flamekeeper</ancestry>
     <size>M</size>
     <type>humanoid</type>
@@ -19408,7 +19408,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 353 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Silver Order Cavalier (TP)</name>
+    <name>Silver Order Cavalier [TP]</name>
     <sortname>Order Cavalier, Silver</sortname>
     <ancestry>Cavalier</ancestry>
     <size>M</size>
@@ -19484,7 +19484,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 353 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Silver Order Paladin (TP)</name>
+    <name>Silver Order Paladin [TP]</name>
     <sortname>Order Paladin, Silver</sortname>
     <ancestry>Paladin</ancestry>
     <size>M</size>
@@ -19564,7 +19564,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 353 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Silver Order Recruit (TP)</name>
+    <name>Silver Order Recruit [TP]</name>
     <sortname>Order Recruit, Silver</sortname>
     <ancestry>Recruit</ancestry>
     <size>M</size>
@@ -19636,7 +19636,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 353 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Silver Order Squire (TP)</name>
+    <name>Silver Order Squire [TP]</name>
     <sortname>Order Squire, Silver</sortname>
     <ancestry>Squire</ancestry>
     <size>M</size>
@@ -19707,7 +19707,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 353 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>High Flamekeeper Ophelia Reed (TP)</name>
+    <name>High Flamekeeper Ophelia Reed [TP]</name>
     <sortname>Ophelia Reed, High Flamekeeper</sortname>
     <ancestry>Ophelia Reed</ancestry>
     <npc>YES</npc>
@@ -19779,7 +19779,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 357 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Knight-Captain Theodore Marshal (Epic) (TP)</name>
+    <name>Knight-Captain Theodore Marshal (Epic) [TP]</name>
     <sortname>Theodore Marshal (Epic), Knight-Captain</sortname>
     <ancestry>Knight-Captain Theodore Marshal (Epic)</ancestry>
     <npc>YES</npc>
@@ -19870,7 +19870,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 358 (Third Party)</descriptio
     <environment/>
   </monster>
   <monster>
-    <name>Hooded Lantern Apothecary (TP)</name>
+    <name>Hooded Lantern Apothecary [TP]</name>
     <sortname>Hooded Lantern Apothecary</sortname>
     <ancestry>Apothecary</ancestry>
     <size>M</size>
@@ -19941,7 +19941,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 359 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Hooded Lantern Scout (TP)</name>
+    <name>Hooded Lantern Scout [TP]</name>
     <sortname>Hooded Lantern Scout</sortname>
     <ancestry>Scout</ancestry>
     <size>M</size>
@@ -20001,7 +20001,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 359 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Hooded Lantern Trapper (TP)</name>
+    <name>Hooded Lantern Trapper [TP]</name>
     <sortname>Hooded Lantern Trapper</sortname>
     <ancestry>Trapper</ancestry>
     <size>M</size>
@@ -20075,7 +20075,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 359 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Hooded Lantern Veteran (TP)</name>
+    <name>Hooded Lantern Veteran [TP]</name>
     <sortname>Hooded Lantern Veteran</sortname>
     <ancestry>Veteran</ancestry>
     <size>M</size>
@@ -20146,7 +20146,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 359 (Third Party)</descriptio
     <environment/>
   </monster>
   <monster>
-    <name>Captain Ansom Lang (TP)</name>
+    <name>Captain Ansom Lang [TP]</name>
     <sortname>Ansom Lang, Captain</sortname>
     <ancestry>Ansom Lang</ancestry>
     <npc>YES</npc>
@@ -20209,7 +20209,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 359 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Lieutenant Petra (TP)</name>
+    <name>Lieutenant Petra [TP]</name>
     <sortname>Petra, Lieutenant</sortname>
     <ancestry>Petra</ancestry>
     <npc>YES</npc>
@@ -20279,7 +20279,7 @@ Source:	Pluto Jackson's Monsters of Drakkenheim p. 363 (Third Party)</descriptio
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Lord Commander Elias Drexel (Epic) (TP)</name>
+    <name>Lord Commander Elias Drexel (Epic) [TP]</name>
     <sortname>Elias Drexel (Epic), Lord Commander</sortname>
     <ancestry>Elias Drexel (Epic)</ancestry>
     <npc>YES</npc>

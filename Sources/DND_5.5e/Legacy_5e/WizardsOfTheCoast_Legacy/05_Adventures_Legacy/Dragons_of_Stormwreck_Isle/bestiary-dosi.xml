@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Fume Drake</name>
+    <name>Fume Drake [Legacy]</name>
     <sortname>Drake, Fume</sortname>
     <ancestry>Drake</ancestry>
     <size>S</size>
@@ -52,7 +52,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Kobold Tinkerer</name>
+    <name>Kobold Tinkerer [Legacy]</name>
     <sortname>Kobold, Tinkerer</sortname>
     <ancestry>Kobold</ancestry>
     <size>S</size>
@@ -108,7 +108,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Myla</name>
+    <name>Myla [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid</type>
@@ -163,7 +163,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Runara</name>
+    <name>Runara [Legacy]</name>
     <size>H</size>
     <type>dragon</type>
     <alignment>Lawful Good</alignment>
@@ -237,7 +237,7 @@ Runara exhales repulsion energy in a 30-foot cone. Each creature in that area mu
     <environment/>
   </monster>
   <monster>
-    <name>Sinensa</name>
+    <name>Sinensa [Legacy]</name>
     <size>L</size>
     <type>plant</type>
     <alignment>Lawful Neutral</alignment>
@@ -293,7 +293,7 @@ Runara exhales repulsion energy in a 30-foot cone. Each creature in that area mu
     <environment/>
   </monster>
   <monster>
-    <name>Spore Servant Octopus</name>
+    <name>Spore Servant Octopus [Legacy]</name>
     <sortname>Octopus, Spore Servant</sortname>
     <ancestry>Octopus</ancestry>
     <size>L</size>
@@ -339,7 +339,7 @@ Runara exhales repulsion energy in a 30-foot cone. Each creature in that area mu
     <environment/>
   </monster>
   <monster>
-    <name>Tarak</name>
+    <name>Tarak [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -380,7 +380,7 @@ Runara exhales repulsion energy in a 30-foot cone. Each creature in that area mu
     <environment/>
   </monster>
   <monster>
-    <name>Varnoth</name>
+    <name>Varnoth [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -421,7 +421,7 @@ Runara exhales repulsion energy in a 30-foot cone. Each creature in that area mu
     <environment/>
   </monster>
   <monster>
-    <name>Violet Fungus</name>
+    <name>Violet Fungus [Legacy]</name>
     <sortname>Fungus, Violet</sortname>
     <ancestry>Fungus</ancestry>
     <size>M</size>

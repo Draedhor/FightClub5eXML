@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Draakhorn</name>
+    <name>Draakhorn [Legacy]</name>
     <detail>artifact</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -16,7 +16,7 @@ Source:	Rise of Tiamat p. 93</text>
     <roll description="Thunder Damage">6d8</roll>
   </item>
   <item>
-    <name>Dragontooth Dagger</name>
+    <name>Dragontooth Dagger [Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -47,7 +47,7 @@ Source:	Rise of Tiamat p. 94,
     <roll description="Acid Damage">2d6</roll>
   </item>
   <item>
-    <name>Mask of the Dragon Queen</name>
+    <name>Mask of the Dragon Queen [Legacy]</name>
     <detail>artifact (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>

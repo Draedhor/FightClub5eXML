@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Aarakocra Spelljammer</name>
+    <name>Aarakocra Spelljammer [Legacy]</name>
     <ancestry>Mage</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -52,7 +52,7 @@ Source:	Spelljammer: Adventures in Space - Light of Xaryxis p. 43</description>
     <spells>fire bolt, light, mage hand, prestidigitation, detect magic, mage armor, magic missile, shield, misty step, suggestion, counterspell, fireball, fly, greater invisibility, ice storm, cone of cold</spells>
   </monster>
   <monster>
-    <name>Aartuk Elder</name>
+    <name>Aartuk Elder [Legacy]</name>
     <size>L</size>
     <type>plant</type>
     <alignment>typically lawful evil</alignment>
@@ -129,7 +129,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 8</descript
     <spells>calm emotions, detect magic, sending</spells>
   </monster>
   <monster>
-    <name>Aartuk Priest</name>
+    <name>Aartuk Priest [Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment>typically lawful evil</alignment>
@@ -211,7 +211,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 9</descript
     <spells>revivify, tongues</spells>
   </monster>
   <monster>
-    <name>Aartuk Warrior</name>
+    <name>Aartuk Warrior [Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment>typically lawful evil</alignment>
@@ -280,7 +280,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 9</descript
     </action>
   </monster>
   <monster>
-    <name>Adult Lunar Dragon</name>
+    <name>Adult Lunar Dragon [Legacy]</name>
     <sortname>Lunar Dragon, Adult</sortname>
     <ancestry>Lunar Dragon</ancestry>
     <size>H</size>
@@ -387,7 +387,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 34</descrip
     </legendary>
   </monster>
   <monster>
-    <name>Adult Solar Dragon</name>
+    <name>Adult Solar Dragon [Legacy]</name>
     <sortname>Solar Dragon, Adult</sortname>
     <ancestry>Solar Dragon</ancestry>
     <size>H</size>
@@ -486,7 +486,7 @@ A solar dragon customarily lairs in a star's radiant core or nests in a gigantic
     </legendary>
   </monster>
   <monster>
-    <name>Agony</name>
+    <name>Agony [Legacy]</name>
     <ancestry>Ghost</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -555,7 +555,7 @@ The possession lasts until the body drops to 0 hit points, Agony ends it as a bo
     </action>
   </monster>
   <monster>
-    <name>Ancient Lunar Dragon</name>
+    <name>Ancient Lunar Dragon [Legacy]</name>
     <sortname>Lunar Dragon, Ancient</sortname>
     <ancestry>Lunar Dragon</ancestry>
     <size>G</size>
@@ -666,7 +666,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 32</descrip
     </legendary>
   </monster>
   <monster>
-    <name>Ancient Solar Dragon</name>
+    <name>Ancient Solar Dragon [Legacy]</name>
     <sortname>Solar Dragon, Ancient</sortname>
     <ancestry>Solar Dragon</ancestry>
     <size>G</size>
@@ -765,7 +765,7 @@ A solar dragon customarily lairs in a star's radiant core or nests in a gigantic
     </legendary>
   </monster>
   <monster>
-    <name>Astral Blight</name>
+    <name>Astral Blight [Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -814,7 +814,7 @@ Until this grapple ends, the target takes 3 (1d6) cold damage at the start of ea
     </action>
   </monster>
   <monster>
-    <name>Astral Elf Aristocrat</name>
+    <name>Astral Elf Aristocrat [Legacy]</name>
     <size>M</size>
     <type>humanoid (wizard)</type>
     <alignment>any alignment</alignment>
@@ -900,7 +900,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 11</descrip
     <spells>fly, mislead, sending</spells>
   </monster>
   <monster>
-    <name>Astral Elf Commander</name>
+    <name>Astral Elf Commander [Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -973,7 +973,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 12</descrip
     <spells>teleport</spells>
   </monster>
   <monster>
-    <name>Astral Elf Honor Guard</name>
+    <name>Astral Elf Honor Guard [Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -1038,7 +1038,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 12</descrip
     </action>
   </monster>
   <monster>
-    <name>Astral Elf Star Priest</name>
+    <name>Astral Elf Star Priest [Legacy]</name>
     <size>M</size>
     <type>humanoid (cleric)</type>
     <alignment>any alignment</alignment>
@@ -1115,7 +1115,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 13</descrip
     <spells>cure wounds, hold person, divination, sending, word of recall</spells>
   </monster>
   <monster>
-    <name>Astral Elf Warrior</name>
+    <name>Astral Elf Warrior [Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -1180,7 +1180,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 13</descrip
     </action>
   </monster>
   <monster>
-    <name>Autognome</name>
+    <name>Autognome [Legacy]</name>
     <size>S</size>
     <type>construct</type>
     <alignment>any alignment</alignment>
@@ -1239,7 +1239,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 13</descrip
     </action>
   </monster>
   <monster>
-    <name>B'rohg</name>
+    <name>B'rohg [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>any alignment</alignment>
@@ -1294,7 +1294,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 16</descrip
     </action>
   </monster>
   <monster>
-    <name>Big Momma</name>
+    <name>Big Momma [Legacy]</name>
     <ancestry>Void Scavver</ancestry>
     <size>H</size>
     <type>monstrosity</type>
@@ -1352,7 +1352,7 @@ If Big Momma takes 25 damage or more on a single turn from a creature inside it,
     </action>
   </monster>
   <monster>
-    <name>Braxat</name>
+    <name>Braxat [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>typically neutral evil</alignment>
@@ -1419,7 +1419,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 15</descrip
     <spells>compulsion, fear</spells>
   </monster>
   <monster>
-    <name>Brown Scavver</name>
+    <name>Brown Scavver [Legacy]</name>
     <sortname>Scavver, Brown</sortname>
     <size>L</size>
     <type>monstrosity</type>
@@ -1471,7 +1471,7 @@ If the scavver takes 15 damage or more on a single turn from a creature inside i
     </action>
   </monster>
   <monster>
-    <name>Chwinga Astronaut</name>
+    <name>Chwinga Astronaut [Legacy]</name>
     <size>T</size>
     <type>elemental</type>
     <alignment>typically neutral</alignment>
@@ -1541,7 +1541,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 17</descrip
     <spells>druidcraft, guidance, pass without trace, resistance</spells>
   </monster>
   <monster>
-    <name>Commodore Krux</name>
+    <name>Commodore Krux [Legacy]</name>
     <ancestry>Giff Shipmate</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -1613,7 +1613,7 @@ Source:	Spelljammer: Adventures in Space - Light of Xaryxis p. 22</description>
     </action>
   </monster>
   <monster>
-    <name>Cosmic Horror</name>
+    <name>Cosmic Horror [Legacy]</name>
     <size>G</size>
     <type>aberration</type>
     <alignment>typically neutral evil</alignment>
@@ -1694,7 +1694,7 @@ Until this grapple ends, the horror can't use this tentacle against other target
     </legendary>
   </monster>
   <monster>
-    <name>Dohwar</name>
+    <name>Dohwar [Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>any alignment</alignment>
@@ -1749,7 +1749,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 19</descrip
     <spells>detect thoughts</spells>
   </monster>
   <monster>
-    <name>Elaina Sartell</name>
+    <name>Elaina Sartell [Legacy]</name>
     <ancestry>Bandit Captain</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -1802,7 +1802,7 @@ Source:	Spelljammer: Adventures in Space - Light of Xaryxis p. 11</description>
     </reaction>
   </monster>
   <monster>
-    <name>Esthetic</name>
+    <name>Esthetic [Legacy]</name>
     <size>G</size>
     <type>aberration</type>
     <alignment>Unaligned</alignment>
@@ -1870,7 +1870,7 @@ Until this grapple ends, the creature takes 18 (4d8) acid damage at the start of
     </action>
   </monster>
   <monster>
-    <name>Eye Monger</name>
+    <name>Eye Monger [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>typically lawful evil</alignment>
@@ -1927,7 +1927,7 @@ If the eye monger takes 25 damage or more on a single turn from a creature insid
     </action>
   </monster>
   <monster>
-    <name>Fel Ardra</name>
+    <name>Fel Ardra [Legacy]</name>
     <ancestry>Cult Fanatic</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -1985,7 +1985,7 @@ Source:	Spelljammer: Adventures in Space - Light of Xaryxis p. 23</description>
     <spells>light, sacred flame, thaumaturgy, command, inflict wounds, shield of faith, hold person, spiritual weapon, darkness, hellish rebuke</spells>
   </monster>
   <monster>
-    <name>Feyr</name>
+    <name>Feyr [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>typically chaotic evil</alignment>
@@ -2048,7 +2048,7 @@ Until this grapple ends, the feyr can't use this tentacle against other targets.
     </action>
   </monster>
   <monster>
-    <name>Flapjack</name>
+    <name>Flapjack [Legacy]</name>
     <ancestry>Flumph</ancestry>
     <npc>YES</npc>
     <size>S</size>
@@ -2114,7 +2114,7 @@ Source:	Spelljammer: Adventures in Space - Light of Xaryxis p. 13</description>
     <spells>mage hand, minor illusion, magic missile, unseen servant</spells>
   </monster>
   <monster>
-    <name>Gaj</name>
+    <name>Gaj [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>typically neutral evil</alignment>
@@ -2168,7 +2168,7 @@ Until the grapple ends, the target takes 10 (2d6 + 3) slashing damage at the sta
     </action>
   </monster>
   <monster>
-    <name>Giant Space Hamster</name>
+    <name>Giant Space Hamster [Legacy]</name>
     <sortname>Space Hamster, Giant</sortname>
     <size>L</size>
     <type>beast</type>
@@ -2208,7 +2208,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 56</descrip
     </action>
   </monster>
   <monster>
-    <name>Giff Shipmate</name>
+    <name>Giff Shipmate [Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -2273,7 +2273,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 24</descrip
     </action>
   </monster>
   <monster>
-    <name>Giff Shock Trooper</name>
+    <name>Giff Shock Trooper [Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -2341,7 +2341,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 25</descrip
     </action>
   </monster>
   <monster>
-    <name>Giff Warlord</name>
+    <name>Giff Warlord [Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -2421,7 +2421,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 25</descrip
     </legendary>
   </monster>
   <monster>
-    <name>Githyanki Buccaneer</name>
+    <name>Githyanki Buccaneer [Legacy]</name>
     <size>M</size>
     <type>humanoid (gith)</type>
     <alignment>any alignment</alignment>
@@ -2485,7 +2485,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 27</descrip
     <spells>light, mage hand, plane shift, telekinesis</spells>
   </monster>
   <monster>
-    <name>Githyanki Star Seer</name>
+    <name>Githyanki Star Seer [Legacy]</name>
     <size>M</size>
     <type>humanoid (gith, warlock)</type>
     <alignment>any alignment</alignment>
@@ -2547,7 +2547,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 27</descrip
     <spells>light, mage hand, detect magic, invisibility, mage armor, tongues, contact other plane, plane shift, telekinesis</spells>
   </monster>
   <monster>
-    <name>Githyanki Xenomancer</name>
+    <name>Githyanki Xenomancer [Legacy]</name>
     <size>M</size>
     <type>humanoid (druid, gith)</type>
     <alignment>any alignment</alignment>
@@ -2615,7 +2615,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 27</descrip
     <spells>druidcraft, light, mage hand, invisibility, pass without trace, dominate monster, forcecage, plane shift, telekinesis</spells>
   </monster>
   <monster>
-    <name>Gray Scavver</name>
+    <name>Gray Scavver [Legacy]</name>
     <sortname>Scavver, Gray</sortname>
     <size>M</size>
     <type>monstrosity</type>
@@ -2661,7 +2661,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 49</descrip
     </action>
   </monster>
   <monster>
-    <name>Grimzod Gargenhale</name>
+    <name>Grimzod Gargenhale [Legacy]</name>
     <ancestry>Vampirate Captain</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -2727,7 +2727,7 @@ Source:	Spelljammer: Adventures in Space - Light of Xaryxis p. 30</description>
     </reaction>
   </monster>
   <monster>
-    <name>Hadozee Explorer</name>
+    <name>Hadozee Explorer [Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -2790,7 +2790,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 28</descrip
     </reaction>
   </monster>
   <monster>
-    <name>Hadozee Shipmate</name>
+    <name>Hadozee Shipmate [Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -2840,7 +2840,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 29</descrip
     </reaction>
   </monster>
   <monster>
-    <name>Hadozee Warrior</name>
+    <name>Hadozee Warrior [Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -2903,7 +2903,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 29</descrip
     </reaction>
   </monster>
   <monster>
-    <name>Hastain</name>
+    <name>Hastain [Legacy]</name>
     <ancestry>Reigar</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -2980,7 +2980,7 @@ Source:	Spelljammer: Adventures in Space - Light of Xaryxis p. 25</description>
     <spells>light, mage hand, prestidigitation, dimension door, phantasmal force, mass suggestion, sending</spells>
   </monster>
   <monster>
-    <name>Jammer Leech</name>
+    <name>Jammer Leech [Legacy]</name>
     <size>T</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -3038,7 +3038,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 30</descrip
     </reaction>
   </monster>
   <monster>
-    <name>Kindori</name>
+    <name>Kindori [Legacy]</name>
     <size>G</size>
     <type>celestial</type>
     <alignment>Unaligned</alignment>
@@ -3093,7 +3093,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 31</descrip
     </action>
   </monster>
   <monster>
-    <name>Lunar Dragon Wyrmling</name>
+    <name>Lunar Dragon Wyrmling [Legacy]</name>
     <ancestry>Lunar Dragon</ancestry>
     <size>M</size>
     <type>dragon</type>
@@ -3167,7 +3167,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 35</descrip
     </action>
   </monster>
   <monster>
-    <name>Megapede</name>
+    <name>Megapede [Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -3220,7 +3220,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 36</descrip
     </action>
   </monster>
   <monster>
-    <name>Mercane</name>
+    <name>Mercane [Legacy]</name>
     <size>L</size>
     <type>giant</type>
     <alignment>typically lawful neutral</alignment>
@@ -3276,7 +3276,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 37</descrip
     <spells>detect magic, light, dimension door, invisibility, mage armor</spells>
   </monster>
   <monster>
-    <name>Murder Comet</name>
+    <name>Murder Comet [Legacy]</name>
     <size>M</size>
     <type>elemental</type>
     <alignment>typically neutral evil</alignment>
@@ -3348,7 +3348,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 38</descrip
     </action>
   </monster>
   <monster>
-    <name>Neh-thalggu</name>
+    <name>Neh-thalggu [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>typically chaotic neutral</alignment>
@@ -3426,7 +3426,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 39</descrip
     <spells>arms of hadar, detect magic, magic missile, tenser's floating disk, darkness, hold person, invisibility, spider climb, fear, hypnotic pattern, major image, stinking cloud</spells>
   </monster>
   <monster>
-    <name>Neogi Hatchling Swarm</name>
+    <name>Neogi Hatchling Swarm [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>typically lawful evil</alignment>
@@ -3476,7 +3476,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 40</descrip
     </action>
   </monster>
   <monster>
-    <name>Neogi Pirate</name>
+    <name>Neogi Pirate [Legacy]</name>
     <size>S</size>
     <type>aberration</type>
     <alignment>typically lawful evil</alignment>
@@ -3540,7 +3540,7 @@ A target can repeat the saving throw at the end of each of its turns, ending the
     </action>
   </monster>
   <monster>
-    <name>Neogi Void Hunter</name>
+    <name>Neogi Void Hunter [Legacy]</name>
     <size>M</size>
     <type>aberration (warlock)</type>
     <alignment>typically lawful evil</alignment>
@@ -3622,7 +3622,7 @@ A target can repeat the saving throw at the end of each of its turns, ending the
     <spells>dimension door, invisibility</spells>
   </monster>
   <monster>
-    <name>Night Scavver</name>
+    <name>Night Scavver [Legacy]</name>
     <sortname>Scavver, Night</sortname>
     <size>H</size>
     <type>monstrosity</type>
@@ -3670,7 +3670,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 49</descrip
     </action>
   </monster>
   <monster>
-    <name>Plasmoid Boss</name>
+    <name>Plasmoid Boss [Legacy]</name>
     <size>L</size>
     <type>ooze</type>
     <alignment>any alignment</alignment>
@@ -3729,7 +3729,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 42</descrip
     </reaction>
   </monster>
   <monster>
-    <name>Plasmoid Explorer</name>
+    <name>Plasmoid Explorer [Legacy]</name>
     <size>M</size>
     <type>ooze</type>
     <alignment>any alignment</alignment>
@@ -3789,7 +3789,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 43</descrip
     </action>
   </monster>
   <monster>
-    <name>Plasmoid Warrior</name>
+    <name>Plasmoid Warrior [Legacy]</name>
     <size>M</size>
     <type>ooze</type>
     <alignment>any alignment</alignment>
@@ -3854,7 +3854,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 43</descrip
     </action>
   </monster>
   <monster>
-    <name>Prince Xeleth</name>
+    <name>Prince Xeleth [Legacy]</name>
     <ancestry>Astral Elf Aristocrat</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -3943,7 +3943,7 @@ Source:	Spelljammer: Adventures in Space - Light of Xaryxis p. 48</description>
     <spells>fly, mislead, sending</spells>
   </monster>
   <monster>
-    <name>Princess Xedalli</name>
+    <name>Princess Xedalli [Legacy]</name>
     <ancestry>Astral Elf Aristocrat</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -4032,7 +4032,7 @@ Source:	Spelljammer: Adventures in Space - Light of Xaryxis p. 37</description>
     <spells>fly, mislead, sending</spells>
   </monster>
   <monster>
-    <name>Psurlon</name>
+    <name>Psurlon [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>typically lawful evil</alignment>
@@ -4102,7 +4102,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 44</descrip
     <spells>suggestion, disguise self, mage armor</spells>
   </monster>
   <monster>
-    <name>Psurlon Leader</name>
+    <name>Psurlon Leader [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>typically lawful evil</alignment>
@@ -4183,7 +4183,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 45</descrip
     <spells>disguise self, mage armor, dimension door, suggestion</spells>
   </monster>
   <monster>
-    <name>Psurlon Ringer</name>
+    <name>Psurlon Ringer [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>typically lawful evil</alignment>
@@ -4246,7 +4246,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 45</descrip
     <spells>suggestion, mage armor</spells>
   </monster>
   <monster>
-    <name>Reigar</name>
+    <name>Reigar [Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>typically chaotic neutral</alignment>
@@ -4330,7 +4330,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 47</descrip
     <spells>light, mage hand, prestidigitation, dimension door, phantasmal force, mass suggestion, sending</spells>
   </monster>
   <monster>
-    <name>Solar Dragon Wyrmling</name>
+    <name>Solar Dragon Wyrmling [Legacy]</name>
     <ancestry>Solar Dragon</ancestry>
     <size>M</size>
     <type>dragon</type>
@@ -4402,7 +4402,7 @@ A solar dragon customarily lairs in a star's radiant core or nests in a gigantic
     </action>
   </monster>
   <monster>
-    <name>Space Clown</name>
+    <name>Space Clown [Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>typically chaotic evil</alignment>
@@ -4470,7 +4470,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 54</descrip
     <spells>friends, mage hand, prestidigitation, mirror image, spider climb</spells>
   </monster>
   <monster>
-    <name>Space Eel</name>
+    <name>Space Eel [Legacy]</name>
     <size>S</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -4524,7 +4524,7 @@ Until this poison ends, the target is paralyzed. The target can repeat the savin
     </action>
   </monster>
   <monster>
-    <name>Space Guppy</name>
+    <name>Space Guppy [Legacy]</name>
     <size>S</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -4569,7 +4569,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 55</descrip
     </action>
   </monster>
   <monster>
-    <name>Space Hamster</name>
+    <name>Space Hamster [Legacy]</name>
     <size>T</size>
     <type>monstrosity</type>
     <alignment>typically neutral good</alignment>
@@ -4620,7 +4620,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 56</descrip
     </action>
   </monster>
   <monster>
-    <name>Space Mollymawk</name>
+    <name>Space Mollymawk [Legacy]</name>
     <size>S</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -4667,7 +4667,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 57</descrip
     </action>
   </monster>
   <monster>
-    <name>Space Swine</name>
+    <name>Space Swine [Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -4706,7 +4706,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 57</descrip
     </action>
   </monster>
   <monster>
-    <name>Ssurran Defiler</name>
+    <name>Ssurran Defiler [Legacy]</name>
     <size>M</size>
     <type>monstrosity (lizardfolk)</type>
     <alignment>any alignment</alignment>
@@ -4770,7 +4770,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 58</descrip
     <spells>mage hand, invisibility</spells>
   </monster>
   <monster>
-    <name>Ssurran Poisoner</name>
+    <name>Ssurran Poisoner [Legacy]</name>
     <size>M</size>
     <type>monstrosity (lizardfolk)</type>
     <alignment>any alignment</alignment>
@@ -4826,7 +4826,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 58</descrip
     </action>
   </monster>
   <monster>
-    <name>Starlight Apparition</name>
+    <name>Starlight Apparition [Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>typically neutral good</alignment>
@@ -4890,7 +4890,7 @@ The possession lasts until the body drops to 0 hit points, the apparition ends i
     </action>
   </monster>
   <monster>
-    <name>Thri-kreen Gladiator</name>
+    <name>Thri-kreen Gladiator [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>any alignment</alignment>
@@ -4952,7 +4952,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 60</descrip
     </reaction>
   </monster>
   <monster>
-    <name>Thri-kreen Hunter</name>
+    <name>Thri-kreen Hunter [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>any alignment</alignment>
@@ -5018,7 +5018,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 61</descrip
     </reaction>
   </monster>
   <monster>
-    <name>Thri-kreen Mystic</name>
+    <name>Thri-kreen Mystic [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>any alignment</alignment>
@@ -5090,7 +5090,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 61</descrip
     <spells>levitate, mage hand, freedom of movement, invisibility</spells>
   </monster>
   <monster>
-    <name>Topolah</name>
+    <name>Topolah [Legacy]</name>
     <ancestry>Mage</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -5145,7 +5145,7 @@ Source:	Spelljammer: Adventures in Space - Light of Xaryxis p. 27</description>
     <spells>fire bolt, light, mage hand, prestidigitation, detect magic, mage armor, magic missile, shield, misty step, suggestion, counterspell, fireball, fly, greater invisibility, ice storm, cone of cold</spells>
   </monster>
   <monster>
-    <name>Vampirate</name>
+    <name>Vampirate [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>typically lawful evil</alignment>
@@ -5205,7 +5205,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 62</descrip
     </action>
   </monster>
   <monster>
-    <name>Vampirate Captain</name>
+    <name>Vampirate Captain [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>typically lawful evil</alignment>
@@ -5278,7 +5278,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 63</descrip
     </reaction>
   </monster>
   <monster>
-    <name>Vampirate Mage</name>
+    <name>Vampirate Mage [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>typically lawful evil</alignment>
@@ -5353,7 +5353,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 63</descrip
     <spells>mage hand, message, darkness, dimension door, fly, hypnotic pattern</spells>
   </monster>
   <monster>
-    <name>Vocath</name>
+    <name>Vocath [Legacy]</name>
     <ancestry>Mercane</ancestry>
     <npc>YES</npc>
     <size>L</size>
@@ -5416,7 +5416,7 @@ Source:	Spelljammer: Adventures in Space - Light of Xaryxis p. 46</description>
     <spells>detect magic, light, dimension door, invisibility, mage armor</spells>
   </monster>
   <monster>
-    <name>Void Scavver</name>
+    <name>Void Scavver [Legacy]</name>
     <sortname>Scavver, Void</sortname>
     <size>H</size>
     <type>monstrosity</type>
@@ -5473,7 +5473,7 @@ If the scavver takes 25 damage or more on a single turn from a creature inside i
     </action>
   </monster>
   <monster>
-    <name>Warwyck Blastimoff</name>
+    <name>Warwyck Blastimoff [Legacy]</name>
     <ancestry>Giff Shipmate</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -5541,7 +5541,7 @@ Source:	Spelljammer: Adventures in Space - Light of Xaryxis p. 39</description>
     </action>
   </monster>
   <monster>
-    <name>Young Lunar Dragon</name>
+    <name>Young Lunar Dragon [Legacy]</name>
     <sortname>Lunar Dragon, Young</sortname>
     <ancestry>Lunar Dragon</ancestry>
     <size>L</size>
@@ -5625,7 +5625,7 @@ Source:	Spelljammer: Adventures in Space - Boo's Astral Menagerie p. 35</descrip
     </action>
   </monster>
   <monster>
-    <name>Young Solar Dragon</name>
+    <name>Young Solar Dragon [Legacy]</name>
     <sortname>Solar Dragon, Young</sortname>
     <ancestry>Solar Dragon</ancestry>
     <size>L</size>
@@ -5698,7 +5698,7 @@ A solar dragon customarily lairs in a star's radiant core or nests in a gigantic
     </action>
   </monster>
   <monster>
-    <name>Zodar</name>
+    <name>Zodar [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>typically neutral</alignment>

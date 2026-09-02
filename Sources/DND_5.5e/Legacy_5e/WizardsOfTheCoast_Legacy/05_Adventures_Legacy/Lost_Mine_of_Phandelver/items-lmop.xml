@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Dragonguard (Legacy)</name>
+    <name>Dragonguard [Legacy]</name>
     <detail>rare</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -14,7 +14,7 @@ Source:	Lost Mine of Phandelver p. 48</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Hew (Legacy)</name>
+    <name>Hew [Legacy]</name>
     <detail>battleaxe, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -33,7 +33,7 @@ Source:	Lost Mine of Phandelver p. 33</text>
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Lightbringer (Legacy)</name>
+    <name>Lightbringer [Legacy]</name>
     <detail>mace, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -49,7 +49,7 @@ Source:	Lost Mine of Phandelver p. 48</text>
     <roll description="Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Spider Staff (Legacy)</name>
+    <name>Spider Staff [Legacy]</name>
     <detail>spellcasting focus (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -73,7 +73,7 @@ Source:	Lost Mine of Phandelver p. 53</text>
     <roll description="Staff Destruction">1d20</roll>
   </item>
   <item>
-    <name>Staff of Defense (Legacy)</name>
+    <name>Staff of Defense [Legacy]</name>
     <detail>spellcasting focus (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -96,7 +96,7 @@ Source:	Lost Mine of Phandelver p. 53</text>
     <roll description="Staff Destruction">1d20</roll>
   </item>
   <item>
-    <name>Talon (Legacy)</name>
+    <name>Talon [Legacy]</name>
     <detail>longsword, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>

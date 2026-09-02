@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Peacekeeper Bad News (TP)</name>
+    <name>Peacekeeper Bad News [TP]</name>
     <detail>firearm, modern, sniper rifle, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -41,7 +41,7 @@ Source:	Valda's Spire of Secrets p. 314 (Homebrew),
     <roll>1d6</roll>
   </item>
   <item>
-    <name>Peacekeeper Blunderbuss (Matthew Mercer) (TP)</name>
+    <name>Peacekeeper Blunderbuss (Matthew Mercer) [TP]</name>
     <detail>firearm, modern, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -79,7 +79,7 @@ Source:	Valda's Spire of Secrets p. 314 (Homebrew),
     <roll>1d6</roll>
   </item>
   <item>
-    <name>Peacekeeper Hand Mortar (TP)</name>
+    <name>Peacekeeper Hand Mortar [TP]</name>
     <detail>firearm, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -114,7 +114,7 @@ Source:	Valda's Spire of Secrets p. 314 (Homebrew),
     <roll>1d6</roll>
   </item>
   <item>
-    <name>Peacekeeper Musket (Matthew Mercer) (TP)</name>
+    <name>Peacekeeper Musket (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -154,7 +154,7 @@ Source:	Valda's Spire of Secrets p. 314 (Homebrew),
     <roll>1d6</roll>
   </item>
   <item>
-    <name>Peacekeeper Palm Pistol (TP)</name>
+    <name>Peacekeeper Palm Pistol [TP]</name>
     <detail>firearm, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -196,7 +196,7 @@ Source:	Valda's Spire of Secrets p. 314 (Homebrew),
     <roll>1d6</roll>
   </item>
   <item>
-    <name>Peacekeeper Pistol (Matthew Mercer) (TP)</name>
+    <name>Peacekeeper Pistol (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -234,7 +234,7 @@ Source:	Valda's Spire of Secrets p. 314 (Homebrew),
     <roll>1d6</roll>
   </item>
   <item>
-    <name>Peacekeeper Pepperbox (TP)</name>
+    <name>Peacekeeper Pepperbox [TP]</name>
     <detail>firearm, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -272,7 +272,7 @@ Source:	Valda's Spire of Secrets p. 314 (Homebrew),
     <roll>1d6</roll>
   </item>
   <item>
-    <name>Bad News For Dummies (TP)</name>
+    <name>Bad News For Dummies [TP]</name>
     <detail>firearm, modern, sniper rifle, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -306,7 +306,7 @@ Source:	Valda's Spire of Secrets p. 318 (Homebrew),
 		Matthew Mercer - Gunslinger 1.3 p. 3</text>
   </item>
   <item>
-    <name>Blunderbuss For Dummies (Matthew Mercer) (TP)</name>
+    <name>Blunderbuss For Dummies (Matthew Mercer) [TP]</name>
     <detail>firearm, modern, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -338,7 +338,7 @@ Source:	Valda's Spire of Secrets p. 318 (Homebrew),
 		Matthew Mercer - Gunslinger 1.3 p. 3</text>
   </item>
   <item>
-    <name>Hand Mortar For Dummies (TP)</name>
+    <name>Hand Mortar For Dummies [TP]</name>
     <detail>firearm, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -367,7 +367,7 @@ Source:	Valda's Spire of Secrets p. 318 (Homebrew),
     <roll description="Fire Damage">1d8</roll>
   </item>
   <item>
-    <name>Musket For Dummies (Matthew Mercer) (TP)</name>
+    <name>Musket For Dummies (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -401,7 +401,7 @@ Source:	Valda's Spire of Secrets p. 318 (Homebrew),
 		Matthew Mercer - Gunslinger 1.3 p. 3</text>
   </item>
   <item>
-    <name>Palm Pistol For Dummies (TP)</name>
+    <name>Palm Pistol For Dummies [TP]</name>
     <detail>firearm, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -437,7 +437,7 @@ Source:	Valda's Spire of Secrets p. 318 (Homebrew),
 		Matthew Mercer - Gunslinger 1.3 p. 3</text>
   </item>
   <item>
-    <name>Pepperbox For Dummies (TP)</name>
+    <name>Pepperbox For Dummies [TP]</name>
     <detail>firearm, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Armblade Hooked Shortspear</name>
+    <name>Armblade Hooked Shortspear [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -23,7 +23,7 @@ Source:	Eberron: Rising from the Last War p. 276,
     <roll description="DC">8+%1+%8</roll>
   </item>
   <item>
-    <name>Armblade Hoopak</name>
+    <name>Armblade Hoopak [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -54,7 +54,7 @@ Source:	Eberron: Rising from the Last War p. 276,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Armblade Yklwa</name>
+    <name>Armblade Yklwa [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -78,7 +78,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Tomb of Annihilation p. 32</text>
   </item>
   <item>
-    <name>Armblade Battleaxe</name>
+    <name>Armblade Battleaxe [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -98,7 +98,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Armblade Club</name>
+    <name>Armblade Club [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -117,7 +117,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Armblade Dagger</name>
+    <name>Armblade Dagger [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -143,7 +143,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Armblade Flail</name>
+    <name>Armblade Flail [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -160,7 +160,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Armblade Handaxe</name>
+    <name>Armblade Handaxe [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -184,7 +184,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Armblade Javelin</name>
+    <name>Armblade Javelin [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -206,7 +206,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Armblade Lance</name>
+    <name>Armblade Lance [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -227,7 +227,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Armblade Light Hammer</name>
+    <name>Armblade Light Hammer [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -251,7 +251,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Armblade Longsword</name>
+    <name>Armblade Longsword [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -271,7 +271,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Armblade Mace</name>
+    <name>Armblade Mace [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -288,7 +288,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Armblade Morningstar</name>
+    <name>Armblade Morningstar [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -305,7 +305,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Armblade Quarterstaff</name>
+    <name>Armblade Quarterstaff [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -325,7 +325,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Armblade Rapier</name>
+    <name>Armblade Rapier [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -344,7 +344,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Armblade Scimitar</name>
+    <name>Armblade Scimitar [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -365,7 +365,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Armblade Shortsword</name>
+    <name>Armblade Shortsword [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -386,7 +386,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Armblade Sickle</name>
+    <name>Armblade Sickle [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -405,7 +405,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Armblade Spear</name>
+    <name>Armblade Spear [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -430,7 +430,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Armblade Trident</name>
+    <name>Armblade Trident [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -455,7 +455,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Armblade War Pick</name>
+    <name>Armblade War Pick [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -472,7 +472,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Armblade Warhammer</name>
+    <name>Armblade Warhammer [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -492,7 +492,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Armblade Whip</name>
+    <name>Armblade Whip [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -513,7 +513,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Armblade Hooked Shortspear +1</name>
+    <name>Armblade Hooked Shortspear +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -540,7 +540,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <roll description="DC">8+%1+%8</roll>
   </item>
   <item>
-    <name>Armblade Hoopak +1</name>
+    <name>Armblade Hoopak +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -576,7 +576,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Armblade Yklwa +1</name>
+    <name>Armblade Yklwa +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -605,7 +605,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Battleaxe +1</name>
+    <name>Armblade Battleaxe +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -630,7 +630,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Club +1</name>
+    <name>Armblade Club +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -654,7 +654,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Dagger +1</name>
+    <name>Armblade Dagger +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -685,7 +685,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Flail +1</name>
+    <name>Armblade Flail +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -707,7 +707,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Handaxe +1</name>
+    <name>Armblade Handaxe +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -736,7 +736,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Javelin +1</name>
+    <name>Armblade Javelin +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -763,7 +763,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Lance +1</name>
+    <name>Armblade Lance +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -789,7 +789,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Light Hammer +1</name>
+    <name>Armblade Light Hammer +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -818,7 +818,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Longsword +1</name>
+    <name>Armblade Longsword +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -843,7 +843,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Mace +1</name>
+    <name>Armblade Mace +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -865,7 +865,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Morningstar +1</name>
+    <name>Armblade Morningstar +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -887,7 +887,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Quarterstaff +1</name>
+    <name>Armblade Quarterstaff +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -912,7 +912,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Rapier +1</name>
+    <name>Armblade Rapier +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -936,7 +936,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Scimitar +1</name>
+    <name>Armblade Scimitar +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -962,7 +962,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Shortsword +1</name>
+    <name>Armblade Shortsword +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -988,7 +988,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Sickle +1</name>
+    <name>Armblade Sickle +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1012,7 +1012,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Spear +1</name>
+    <name>Armblade Spear +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1042,7 +1042,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Trident +1</name>
+    <name>Armblade Trident +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1072,7 +1072,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade War Pick +1</name>
+    <name>Armblade War Pick +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1094,7 +1094,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Warhammer +1</name>
+    <name>Armblade Warhammer +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1119,7 +1119,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Whip +1</name>
+    <name>Armblade Whip +1 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1145,7 +1145,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Hooked Shortspear +2</name>
+    <name>Armblade Hooked Shortspear +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1172,7 +1172,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <roll description="DC">8+%1+%8</roll>
   </item>
   <item>
-    <name>Armblade Hoopak +2</name>
+    <name>Armblade Hoopak +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1208,7 +1208,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Armblade Yklwa +2</name>
+    <name>Armblade Yklwa +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1237,7 +1237,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Battleaxe +2</name>
+    <name>Armblade Battleaxe +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1262,7 +1262,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Club +2</name>
+    <name>Armblade Club +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1286,7 +1286,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Dagger +2</name>
+    <name>Armblade Dagger +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1317,7 +1317,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Flail +2</name>
+    <name>Armblade Flail +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1339,7 +1339,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Handaxe +2</name>
+    <name>Armblade Handaxe +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1368,7 +1368,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Javelin +2</name>
+    <name>Armblade Javelin +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1395,7 +1395,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Lance +2</name>
+    <name>Armblade Lance +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1421,7 +1421,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Light Hammer +2</name>
+    <name>Armblade Light Hammer +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1450,7 +1450,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Longsword +2</name>
+    <name>Armblade Longsword +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1475,7 +1475,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Mace +2</name>
+    <name>Armblade Mace +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1497,7 +1497,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Morningstar +2</name>
+    <name>Armblade Morningstar +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1519,7 +1519,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Quarterstaff +2</name>
+    <name>Armblade Quarterstaff +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1544,7 +1544,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Rapier +2</name>
+    <name>Armblade Rapier +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1568,7 +1568,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Scimitar +2</name>
+    <name>Armblade Scimitar +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1594,7 +1594,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Shortsword +2</name>
+    <name>Armblade Shortsword +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1620,7 +1620,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Sickle +2</name>
+    <name>Armblade Sickle +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1644,7 +1644,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Spear +2</name>
+    <name>Armblade Spear +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1674,7 +1674,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Trident +2</name>
+    <name>Armblade Trident +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1704,7 +1704,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade War Pick +2</name>
+    <name>Armblade War Pick +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1726,7 +1726,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Warhammer +2</name>
+    <name>Armblade Warhammer +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1751,7 +1751,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Whip +2</name>
+    <name>Armblade Whip +2 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1777,7 +1777,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Hooked Shortspear +3</name>
+    <name>Armblade Hooked Shortspear +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1804,7 +1804,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <roll description="DC">8+%1+%8</roll>
   </item>
   <item>
-    <name>Armblade Hoopak +3</name>
+    <name>Armblade Hoopak +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1840,7 +1840,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Armblade Yklwa +3</name>
+    <name>Armblade Yklwa +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1869,7 +1869,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Battleaxe +3</name>
+    <name>Armblade Battleaxe +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1894,7 +1894,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Club +3</name>
+    <name>Armblade Club +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1918,7 +1918,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Dagger +3</name>
+    <name>Armblade Dagger +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1949,7 +1949,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Flail +3</name>
+    <name>Armblade Flail +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1971,7 +1971,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Handaxe +3</name>
+    <name>Armblade Handaxe +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2000,7 +2000,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Javelin +3</name>
+    <name>Armblade Javelin +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2027,7 +2027,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Lance +3</name>
+    <name>Armblade Lance +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2053,7 +2053,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Light Hammer +3</name>
+    <name>Armblade Light Hammer +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2082,7 +2082,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Longsword +3</name>
+    <name>Armblade Longsword +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2107,7 +2107,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Mace +3</name>
+    <name>Armblade Mace +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2129,7 +2129,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Morningstar +3</name>
+    <name>Armblade Morningstar +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2151,7 +2151,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Quarterstaff +3</name>
+    <name>Armblade Quarterstaff +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2176,7 +2176,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Rapier +3</name>
+    <name>Armblade Rapier +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2200,7 +2200,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Scimitar +3</name>
+    <name>Armblade Scimitar +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2226,7 +2226,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Shortsword +3</name>
+    <name>Armblade Shortsword +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2252,7 +2252,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Sickle +3</name>
+    <name>Armblade Sickle +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2276,7 +2276,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Spear +3</name>
+    <name>Armblade Spear +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2306,7 +2306,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Trident +3</name>
+    <name>Armblade Trident +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2336,7 +2336,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade War Pick +3</name>
+    <name>Armblade War Pick +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2358,7 +2358,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Warhammer +3</name>
+    <name>Armblade Warhammer +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2383,7 +2383,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Whip +3</name>
+    <name>Armblade Whip +3 [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2409,7 +2409,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Fernian Ash Rod</name>
+    <name>Fernian Ash Rod [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -2425,7 +2425,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Fernian Ash Staff</name>
+    <name>Fernian Ash Staff [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -2447,7 +2447,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Fernian Ash Wooden Staff</name>
+    <name>Fernian Ash Wooden Staff [Legacy]</name>
     <detail>druidic focus, common (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -2471,7 +2471,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Irian Rosewood Rod</name>
+    <name>Irian Rosewood Rod [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -2487,7 +2487,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Irian Rosewood Staff</name>
+    <name>Irian Rosewood Staff [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -2509,7 +2509,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Irian Rosewood Wooden Staff</name>
+    <name>Irian Rosewood Wooden Staff [Legacy]</name>
     <detail>druidic focus, common (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -2533,7 +2533,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Kythrian Manchineel Rod</name>
+    <name>Kythrian Manchineel Rod [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -2549,7 +2549,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Kythrian Manchineel Staff</name>
+    <name>Kythrian Manchineel Staff [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -2571,7 +2571,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Kythrian Manchineel Wooden Staff</name>
+    <name>Kythrian Manchineel Wooden Staff [Legacy]</name>
     <detail>druidic focus, common (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -2595,7 +2595,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Lamannian Oak Rod</name>
+    <name>Lamannian Oak Rod [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -2611,7 +2611,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Lamannian Oak Staff</name>
+    <name>Lamannian Oak Staff [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -2633,7 +2633,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Lamannian Oak Wooden Staff</name>
+    <name>Lamannian Oak Wooden Staff [Legacy]</name>
     <detail>druidic focus, common (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -2657,7 +2657,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Mabaran Ebony Rod</name>
+    <name>Mabaran Ebony Rod [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -2673,7 +2673,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Mabaran Ebony Staff</name>
+    <name>Mabaran Ebony Staff [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -2695,7 +2695,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Mabaran Ebony Wooden Staff</name>
+    <name>Mabaran Ebony Wooden Staff [Legacy]</name>
     <detail>druidic focus, common (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -2719,7 +2719,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Quori Beech Rod</name>
+    <name>Quori Beech Rod [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -2735,7 +2735,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Quori Beech Staff</name>
+    <name>Quori Beech Staff [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -2757,7 +2757,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Quori Beech Wooden Staff</name>
+    <name>Quori Beech Wooden Staff [Legacy]</name>
     <detail>druidic focus, common (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -2781,7 +2781,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Risian Pine Rod</name>
+    <name>Risian Pine Rod [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -2797,7 +2797,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Risian Pine Staff</name>
+    <name>Risian Pine Staff [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -2819,7 +2819,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Risian Pine Wooden Staff</name>
+    <name>Risian Pine Wooden Staff [Legacy]</name>
     <detail>druidic focus, common (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -2843,7 +2843,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Shavarran Birch Rod</name>
+    <name>Shavarran Birch Rod [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -2859,7 +2859,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Shavarran Birch Staff</name>
+    <name>Shavarran Birch Staff [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -2881,7 +2881,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Shavarran Birch Wooden Staff</name>
+    <name>Shavarran Birch Wooden Staff [Legacy]</name>
     <detail>druidic focus, common (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -2905,7 +2905,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Xorian Wenge Rod</name>
+    <name>Xorian Wenge Rod [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -2921,7 +2921,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Xorian Wenge Staff</name>
+    <name>Xorian Wenge Staff [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -2943,7 +2943,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Xorian Wenge Wooden Staff</name>
+    <name>Xorian Wenge Wooden Staff [Legacy]</name>
     <detail>druidic focus, common (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -2967,7 +2967,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Player's Handbook (2014) p. 151</text>
   </item>
   <item>
-    <name>Living Spiked Armor</name>
+    <name>Living Spiked Armor [Legacy]</name>
     <detail>rare</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2990,7 +2990,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Living Breastplate</name>
+    <name>Living Breastplate [Legacy]</name>
     <detail>rare</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -3010,7 +3010,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Living Chain Mail</name>
+    <name>Living Chain Mail [Legacy]</name>
     <detail>rare</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -3036,7 +3036,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Living Chain Shirt</name>
+    <name>Living Chain Shirt [Legacy]</name>
     <detail>rare</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -3056,7 +3056,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Living Half Plate Armor</name>
+    <name>Living Half Plate Armor [Legacy]</name>
     <detail>rare</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -3079,7 +3079,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Living Hide Armor</name>
+    <name>Living Hide Armor [Legacy]</name>
     <detail>rare</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -3099,7 +3099,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Living Leather Armor</name>
+    <name>Living Leather Armor [Legacy]</name>
     <detail>rare</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -3119,7 +3119,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Living Padded Armor</name>
+    <name>Living Padded Armor [Legacy]</name>
     <detail>rare</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -3142,7 +3142,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Living Plate Armor</name>
+    <name>Living Plate Armor [Legacy]</name>
     <detail>rare</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -3168,7 +3168,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Living Ring Mail</name>
+    <name>Living Ring Mail [Legacy]</name>
     <detail>rare</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -3191,7 +3191,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Living Scale Mail</name>
+    <name>Living Scale Mail [Legacy]</name>
     <detail>rare</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -3214,7 +3214,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Living Splint Armor</name>
+    <name>Living Splint Armor [Legacy]</name>
     <detail>rare</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -3240,7 +3240,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Living Studded Leather Armor</name>
+    <name>Living Studded Leather Armor [Legacy]</name>
     <detail>rare</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -3260,7 +3260,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Fernian Basalt Crystal of Shielding</name>
+    <name>Fernian Basalt Crystal of Shielding [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -3277,7 +3277,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Fernian Basalt Orb of Shielding</name>
+    <name>Fernian Basalt Orb of Shielding [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -3294,7 +3294,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Irian Quartz Crystal of Shielding</name>
+    <name>Irian Quartz Crystal of Shielding [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -3311,7 +3311,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Irian Quartz Orb of Shielding</name>
+    <name>Irian Quartz Orb of Shielding [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -3328,7 +3328,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Kythrian Skarn Crystal of Shielding</name>
+    <name>Kythrian Skarn Crystal of Shielding [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -3345,7 +3345,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Kythrian Skarn Orb of Shielding</name>
+    <name>Kythrian Skarn Orb of Shielding [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -3362,7 +3362,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Lamannian Flint Crystal of Shielding</name>
+    <name>Lamannian Flint Crystal of Shielding [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -3379,7 +3379,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Lamannian Flint Orb of Shielding</name>
+    <name>Lamannian Flint Orb of Shielding [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -3396,7 +3396,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Mabaran Obsidian Crystal of Shielding</name>
+    <name>Mabaran Obsidian Crystal of Shielding [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -3413,7 +3413,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Mabaran Obsidian Orb of Shielding</name>
+    <name>Mabaran Obsidian Orb of Shielding [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -3430,7 +3430,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Risian Shale Crystal of Shielding</name>
+    <name>Risian Shale Crystal of Shielding [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -3447,7 +3447,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Risian Shale Orb of Shielding</name>
+    <name>Risian Shale Orb of Shielding [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -3464,7 +3464,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Shavarran Chert Crystal of Shielding</name>
+    <name>Shavarran Chert Crystal of Shielding [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -3481,7 +3481,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Shavarran Chert Orb of Shielding</name>
+    <name>Shavarran Chert Orb of Shielding [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -3498,7 +3498,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Xorian Marble Crystal of Shielding</name>
+    <name>Xorian Marble Crystal of Shielding [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -3515,7 +3515,7 @@ Source:	Eberron: Rising from the Last War p. 278,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Xorian Marble Orb of Shielding</name>
+    <name>Xorian Marble Orb of Shielding [Legacy]</name>
     <detail>spellcasting focus, common (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>

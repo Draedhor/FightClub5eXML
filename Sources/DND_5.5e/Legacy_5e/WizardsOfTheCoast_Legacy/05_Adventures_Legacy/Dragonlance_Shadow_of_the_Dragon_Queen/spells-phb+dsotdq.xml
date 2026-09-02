@@ -1,63 +1,63 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Shield</name>
+    <name>Shield [Legacy]</name>
     <classes>Sorcerer (Lunar Magic)</classes>
   </spell>
   <spell>
-    <name>Ray of Sickness</name>
+    <name>Ray of Sickness [Legacy]</name>
     <classes>Sorcerer (Lunar Magic)</classes>
   </spell>
   <spell>
-    <name>Color Spray</name>
+    <name>Color Spray [Legacy]</name>
     <classes>Sorcerer (Lunar Magic)</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration</name>
+    <name>Lesser Restoration [Legacy]</name>
     <classes>Sorcerer (Lunar Magic)</classes>
   </spell>
   <spell>
-    <name>Blindness/Deafness</name>
+    <name>Blindness/Deafness [Legacy]</name>
     <classes>Sorcerer (Lunar Magic)</classes>
   </spell>
   <spell>
-    <name>Alter Self</name>
+    <name>Alter Self [Legacy]</name>
     <classes>Sorcerer (Lunar Magic)</classes>
   </spell>
   <spell>
-    <name>Dispel Magic</name>
+    <name>Dispel Magic [Legacy]</name>
     <classes>Sorcerer (Lunar Magic)</classes>
   </spell>
   <spell>
-    <name>Vampiric Touch</name>
+    <name>Vampiric Touch [Legacy]</name>
     <classes>Sorcerer (Lunar Magic)</classes>
   </spell>
   <spell>
-    <name>Phantom Steed</name>
+    <name>Phantom Steed [Legacy]</name>
     <classes>Sorcerer (Lunar Magic)</classes>
   </spell>
   <spell>
-    <name>Death Ward</name>
+    <name>Death Ward [Legacy]</name>
     <classes>Sorcerer (Lunar Magic)</classes>
   </spell>
   <spell>
-    <name>Confusion</name>
+    <name>Confusion [Legacy]</name>
     <classes>Sorcerer (Lunar Magic)</classes>
   </spell>
   <spell>
-    <name>Hallucinatory Terrain</name>
+    <name>Hallucinatory Terrain [Legacy]</name>
     <classes>Sorcerer (Lunar Magic)</classes>
   </spell>
   <spell>
-    <name>Rary's Telepathic Bond</name>
+    <name>Rary's Telepathic Bond [Legacy]</name>
     <classes>Sorcerer (Lunar Magic)</classes>
   </spell>
   <spell>
-    <name>Hold Monster</name>
+    <name>Hold Monster [Legacy]</name>
     <classes>Sorcerer (Lunar Magic)</classes>
   </spell>
   <spell>
-    <name>Mislead</name>
+    <name>Mislead [Legacy]</name>
     <classes>Sorcerer (Lunar Magic)</classes>
   </spell>
 </compendium>

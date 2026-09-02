@@ -88,23 +88,23 @@ Source:	The Griffon's Saddlebag: Book Two p. 223 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Feather Fall</name>
+    <name>Feather Fall [TP Legacy]</name>
     <classes>Ranger (Rocborne (Third Party))</classes>
   </spell>
   <spell>
-    <name>Gust of Wind</name>
+    <name>Gust of Wind [TP Legacy]</name>
     <classes>Ranger (Rocborne (Third Party))</classes>
   </spell>
   <spell>
-    <name>Lightning Bolt</name>
+    <name>Lightning Bolt [TP Legacy]</name>
     <classes>Ranger (Rocborne (Third Party))</classes>
   </spell>
   <spell>
-    <name>Ice Storm</name>
+    <name>Ice Storm [TP Legacy]</name>
     <classes>Ranger (Rocborne (Third Party))</classes>
   </spell>
   <spell>
-    <name>Legend Lore</name>
+    <name>Legend Lore [TP Legacy]</name>
     <classes>Ranger (Rocborne (Third Party))</classes>
   </spell>
 </compendium>

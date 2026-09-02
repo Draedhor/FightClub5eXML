@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Aeorian Absorber</name>
+    <name>Aeorian Absorber [TP Legacy]</name>
     <sortname>Aeorian, Absorber</sortname>
     <ancestry>Aeorian</ancestry>
     <size>L</size>
@@ -78,7 +78,7 @@ Source:	Explorer's Guide to Wildemount p. 283 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Aeorian Nullifier</name>
+    <name>Aeorian Nullifier [TP Legacy]</name>
     <sortname>Aeorian, Nullifier</sortname>
     <ancestry>Aeorian</ancestry>
     <size>L</size>
@@ -160,7 +160,7 @@ Source:	Explorer's Guide to Wildemount p. 283 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Aeorian Reverser</name>
+    <name>Aeorian Reverser [TP Legacy]</name>
     <sortname>Aeorian, Reverser</sortname>
     <ancestry>Aeorian</ancestry>
     <size>L</size>
@@ -224,7 +224,7 @@ Source:	Explorer's Guide to Wildemount p. 284 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Allowak Abominable Yeti</name>
+    <name>Allowak Abominable Yeti [TP Legacy]</name>
     <sortname>Yeti, Abominable Allowak</sortname>
     <ancestry>Yeti</ancestry>
     <size>H</size>
@@ -285,7 +285,7 @@ Source:	Explorer's Guide to Wildemount p. 284 (Third Party)</description>
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Allowak Yeti</name>
+    <name>Allowak Yeti [TP Legacy]</name>
     <sortname>Yeti, Allowak</sortname>
     <ancestry>Yeti</ancestry>
     <size>L</size>
@@ -340,7 +340,7 @@ Source:	Explorer's Guide to Wildemount p. 284 (Third Party)</description>
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Animated Knife</name>
+    <name>Animated Knife [TP Legacy]</name>
     <ancestry>Animated Object</ancestry>
     <size>T</size>
     <type>construct</type>
@@ -381,7 +381,7 @@ Source:	Explorer's Guide to Wildemount p. 284 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Animated Tree</name>
+    <name>Animated Tree [TP Legacy]</name>
     <ancestry>Animated Plant</ancestry>
     <size>H</size>
     <type>plant</type>
@@ -437,7 +437,7 @@ Source:	Explorer's Guide to Wildemount p. 284 (Third Party)</description>
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Blood Hunter</name>
+    <name>Blood Hunter [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -504,7 +504,7 @@ Source:	Explorer's Guide to Wildemount p. 284 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bol'bara</name>
+    <name>Bol'bara [TP Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (goblinoid)</type>
@@ -575,7 +575,7 @@ Source:	Explorer's Guide to Wildemount p. 284 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bristled Moorbounder</name>
+    <name>Bristled Moorbounder [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -629,7 +629,7 @@ Source:	Explorer's Guide to Wildemount p. 295 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Core Spawn Crawler</name>
+    <name>Core Spawn Crawler [TP Legacy]</name>
     <sortname>Core Spawn, Crawler</sortname>
     <ancestry>Core Spawn</ancestry>
     <size>S</size>
@@ -686,7 +686,7 @@ Source:	Explorer's Guide to Wildemount p. 286 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Core Spawn Emissary</name>
+    <name>Core Spawn Emissary [TP Legacy]</name>
     <sortname>Core Spawn, Emissary</sortname>
     <ancestry>Core Spawn</ancestry>
     <size>M</size>
@@ -745,7 +745,7 @@ Source:	Explorer's Guide to Wildemount p. 286 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Core Spawn Seer</name>
+    <name>Core Spawn Seer [TP Legacy]</name>
     <sortname>Core Spawn, Seer</sortname>
     <ancestry>Core Spawn</ancestry>
     <size>M</size>
@@ -805,7 +805,7 @@ Source:	Explorer's Guide to Wildemount p. 286 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Core Spawn Worm</name>
+    <name>Core Spawn Worm [TP Legacy]</name>
     <sortname>Core Spawn, Worm</sortname>
     <ancestry>Core Spawn</ancestry>
     <size>G</size>
@@ -869,7 +869,7 @@ Source:	Explorer's Guide to Wildemount p. 287 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Damaged Flesh Golem</name>
+    <name>Damaged Flesh Golem [TP Legacy]</name>
     <sortname>Golem, Flesh Damaged</sortname>
     <ancestry>Golem</ancestry>
     <size>M</size>
@@ -929,7 +929,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
     <environment/>
   </monster>
   <monster>
-    <name>Ferol Sal</name>
+    <name>Ferol Sal [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -980,7 +980,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
     <environment>underdark, swamp, urban, desert</environment>
   </monster>
   <monster>
-    <name>Frost Giant Zombie</name>
+    <name>Frost Giant Zombie [TP Legacy]</name>
     <sortname>Zombie, Giant Frost</sortname>
     <ancestry>Zombie</ancestry>
     <size>H</size>
@@ -1040,7 +1040,7 @@ Source:	Explorer's Guide to Wildemount p. 288 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Frost Worm</name>
+    <name>Frost Worm [TP Legacy]</name>
     <sortname>Worm, Frost</sortname>
     <ancestry>Worm</ancestry>
     <size>G</size>
@@ -1100,7 +1100,7 @@ Source:	Explorer's Guide to Wildemount p. 289 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gearkeeper Construct</name>
+    <name>Gearkeeper Construct [TP Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -1159,7 +1159,7 @@ Source:	Explorer's Guide to Wildemount p. 289 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gloomstalker</name>
+    <name>Gloomstalker [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -1222,7 +1222,7 @@ Source:	Explorer's Guide to Wildemount p. 291 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Guardian Wolf</name>
+    <name>Guardian Wolf [TP Legacy]</name>
     <sortname>Wolf, Guardian</sortname>
     <ancestry>Wolf</ancestry>
     <size>H</size>
@@ -1273,7 +1273,7 @@ Source:	Explorer's Guide to Wildemount p. 291 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Horizonback Tortoise</name>
+    <name>Horizonback Tortoise [TP Legacy]</name>
     <sortname>Tortoise, Horizonback</sortname>
     <ancestry>Tortoise</ancestry>
     <size>G</size>
@@ -1324,7 +1324,7 @@ Source:	Explorer's Guide to Wildemount p. 292 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hulil Lutan</name>
+    <name>Hulil Lutan [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (dwarf)</type>
     <alignment>Any Non-Good Alignment</alignment>
@@ -1378,7 +1378,7 @@ Source:	Explorer's Guide to Wildemount p. 292 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Husk Zombie</name>
+    <name>Husk Zombie [TP Legacy]</name>
     <sortname>Zombie, Husk</sortname>
     <ancestry>Zombie</ancestry>
     <size>M</size>
@@ -1432,7 +1432,7 @@ Source:	Explorer's Guide to Wildemount p. 293 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ishel</name>
+    <name>Ishel [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf)</type>
@@ -1494,7 +1494,7 @@ A drow wearing a +1 chain shirt and carrying a +1 shortsword has AC 16 and a +1 
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Karkethzerethzerus, the Sable Despoiler</name>
+    <name>Karkethzerethzerus, the Sable Despoiler [TP Legacy]</name>
     <size>G</size>
     <type>dragon</type>
     <alignment>Lawful Good</alignment>
@@ -1611,7 +1611,7 @@ If the dragon dies, changed weather reverts to normal, as described in the spell
     <environment>mountain, urban</environment>
   </monster>
   <monster>
-    <name>Kobold Underling</name>
+    <name>Kobold Underling [TP Legacy]</name>
     <sortname>Kobold, Underling</sortname>
     <ancestry>Kobold</ancestry>
     <size>S</size>
@@ -1664,7 +1664,7 @@ Source:	Explorer's Guide to Wildemount p. 221 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Merrow Shallowpriest</name>
+    <name>Merrow Shallowpriest [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -1722,7 +1722,7 @@ Source:	Explorer's Guide to Wildemount p. 294 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Moorbounder</name>
+    <name>Moorbounder [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -1761,7 +1761,7 @@ Source:	Explorer's Guide to Wildemount p. 295 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mossback Steward</name>
+    <name>Mossback Steward [TP Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -1808,7 +1808,7 @@ Any creature under Mossback Steward when it falls prone is grappled (escape DC 1
     <environment/>
   </monster>
   <monster>
-    <name>Nergaliid</name>
+    <name>Nergaliid [TP Legacy]</name>
     <size>L</size>
     <type>fiend (devil)</type>
     <alignment>Lawful Evil</alignment>
@@ -1867,7 +1867,7 @@ Source:	Explorer's Guide to Wildemount p. 296 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ogre Lord Buhfal II</name>
+    <name>Ogre Lord Buhfal II [TP Legacy]</name>
     <sortname>Ogre, Lord Buhfal II</sortname>
     <ancestry>Ogre</ancestry>
     <size>L</size>
@@ -1906,7 +1906,7 @@ Source:	Explorer's Guide to Wildemount p. 296 (Third Party)</description>
     <environment>grassland, forest, swamp, hill, desert, coastal, arctic, underdark, mountain</environment>
   </monster>
   <monster>
-    <name>Old Croaker</name>
+    <name>Old Croaker [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -1954,7 +1954,7 @@ If Old Croaker dies, a swallowed creature is no longer restrained by it and can 
     <environment>underdark, forest, swamp, desert, coastal</environment>
   </monster>
   <monster>
-    <name>Oracs the Enduring</name>
+    <name>Oracs the Enduring [TP Legacy]</name>
     <size>G</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -2056,7 +2056,7 @@ If the dragon dies, vegetation remains as it has grown, but other effects fade o
     <environment>swamp</environment>
   </monster>
   <monster>
-    <name>Parson Pellinost</name>
+    <name>Parson Pellinost [TP Legacy]</name>
     <sortname>Pellinost, Parson</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2105,7 +2105,7 @@ If the dragon dies, vegetation remains as it has grown, but other effects fade o
     <environment/>
   </monster>
   <monster>
-    <name>Raegrin Mau</name>
+    <name>Raegrin Mau [TP Legacy]</name>
     <sortname>Mau, Raegrin</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2151,7 +2151,7 @@ If the dragon dies, vegetation remains as it has grown, but other effects fade o
     <environment/>
   </monster>
   <monster>
-    <name>Sahuagin Warlock of Uk'otoa</name>
+    <name>Sahuagin Warlock of Uk'otoa [TP Legacy]</name>
     <ancestry>Warlock</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -2230,7 +2230,7 @@ Source:	Explorer's Guide to Wildemount p. 297 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sea Fury</name>
+    <name>Sea Fury [TP Legacy]</name>
     <sortname>Fury, Sea</sortname>
     <ancestry>Fury</ancestry>
     <size>M</size>
@@ -2336,7 +2336,7 @@ Source:	Explorer's Guide to Wildemount p. 299 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Shadowghast</name>
+    <name>Shadowghast [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -2387,7 +2387,7 @@ Source:	Explorer's Guide to Wildemount p. 299 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sharkbody Abomination</name>
+    <name>Sharkbody Abomination [TP Legacy]</name>
     <sortname>Abomination, Sharkbody</sortname>
     <ancestry>Abomination</ancestry>
     <size>L</size>
@@ -2433,7 +2433,7 @@ Source:	Explorer's Guide to Wildemount p. 299 (Third Party)</description>
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Sken Zabriss</name>
+    <name>Sken Zabriss [TP Legacy]</name>
     <sortname>Zabriss, Sken</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2480,7 +2480,7 @@ Source:	Explorer's Guide to Wildemount p. 299 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Skr'a S'orsk</name>
+    <name>Skr'a S'orsk [TP Legacy]</name>
     <sortname>S'orsk, Skr'a</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2543,7 +2543,7 @@ Source:	Explorer's Guide to Wildemount p. 299 (Third Party)</description>
     <environment>forest, swamp</environment>
   </monster>
   <monster>
-    <name>Swarm of Undead Snakes</name>
+    <name>Swarm of Undead Snakes [TP Legacy]</name>
     <sortname>Snake, Undead Swarm</sortname>
     <ancestry>Snake</ancestry>
     <size>M</size>
@@ -2582,7 +2582,7 @@ Source:	Explorer's Guide to Wildemount p. 299 (Third Party)</description>
     <environment>forest, swamp</environment>
   </monster>
   <monster>
-    <name>Swavain Basilisk</name>
+    <name>Swavain Basilisk [TP Legacy]</name>
     <sortname>Basilisk, Swavain</sortname>
     <ancestry>Basilisk</ancestry>
     <size>H</size>
@@ -2635,7 +2635,7 @@ Source:	Explorer's Guide to Wildemount p. 300 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Three Earrings</name>
+    <name>Three Earrings [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (tabaxi)</type>
@@ -2690,7 +2690,7 @@ Source:	Explorer's Guide to Wildemount p. 300 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Udaak</name>
+    <name>Udaak [TP Legacy]</name>
     <size>G</size>
     <type>fiend</type>
     <alignment>Neutral Evil</alignment>
@@ -2752,7 +2752,7 @@ Source:	Explorer's Guide to Wildemount p. 301 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Vox Seeker</name>
+    <name>Vox Seeker [TP Legacy]</name>
     <size>T</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -2792,7 +2792,7 @@ Source:	Explorer's Guide to Wildemount p. 301 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Yinra Emberwind</name>
+    <name>Yinra Emberwind [TP Legacy]</name>
     <sortname>Emberwind, Yinra</sortname>
     <npc>YES</npc>
     <size>M</size>

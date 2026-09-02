@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <feat>
-    <name>Artificer Initiate</name>
+    <name>Artificer Initiate [Legacy]</name>
     <prerequisite />
     <text>You've learned some of an artificer's inventiveness:
 
@@ -14,7 +14,7 @@
 Source:	Tasha's Cauldron of Everything p. 79</text>
   </feat>
   <feat>
-    <name>Eldritch Adept</name>
+    <name>Eldritch Adept [Legacy]</name>
     <prerequisite>Spellcasting or Pact Magic feature</prerequisite>
     <text>Studying occult lore, you have unlocked eldritch power within yourself: you learn one Eldritch Invocation option of your choice from the warlock class. Your spellcasting ability for the invocation is Intelligence, Wisdom, or Charisma (choose when you select this feat). If the invocation has a prerequisite of any kind, you can choose that invocation only if you're a warlock who meets the prerequisite.
 
@@ -23,7 +23,7 @@ Whenever you gain a level, you can replace the invocation with another one from 
 Source:	Tasha's Cauldron of Everything p. 79</text>
   </feat>
   <feat>
-    <name>Fighting Initiate</name>
+    <name>Fighting Initiate [Legacy]</name>
     <prerequisite>Proficiency with a martial weapon</prerequisite>
     <text>Your martial training has helped you develop a particular style of fighting. As a result, you learn one Fighting Style option of your choice from the fighter class. If you already have a style, the one you choose must be different.
 
@@ -32,7 +32,7 @@ Whenever you reach a level that grants the Ability Score Improvement feature, yo
 Source:	Tasha's Cauldron of Everything p. 80</text>
   </feat>
   <feat>
-    <name>Gunner</name>
+    <name>Gunner [Legacy]</name>
     <prerequisite />
     <text>You have a quick hand and keen eye when employing firearms, granting you the following benefits:
 
@@ -48,7 +48,7 @@ Source:	Tasha's Cauldron of Everything p. 80</text>
     <modifier category="ability score">dexterity +1</modifier>
   </feat>
   <feat>
-    <name>Metamagic Adept</name>
+    <name>Metamagic Adept [Legacy]</name>
     <prerequisite />
     <text>You've learned how to exert your will on your spells to alter how they function:
 

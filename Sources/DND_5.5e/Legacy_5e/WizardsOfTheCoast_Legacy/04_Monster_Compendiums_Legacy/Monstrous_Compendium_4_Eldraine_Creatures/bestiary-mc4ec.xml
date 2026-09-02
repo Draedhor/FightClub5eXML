@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Archon of Boundaries</name>
+    <name>Archon of Boundaries [Legacy]</name>
     <size>H</size>
     <type>celestial</type>
     <alignment>Lawful Good</alignment>
@@ -88,7 +88,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>Beanstalk Wurm</name>
+    <name>Beanstalk Wurm [Legacy]</name>
     <sortname>Wurm, Beanstalk</sortname>
     <ancestry>Wurm</ancestry>
     <size>G</size>
@@ -154,7 +154,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>Deathless Rider</name>
+    <name>Deathless Rider [Legacy]</name>
     <sortname>Rider, Deathless</sortname>
     <ancestry>Rider</ancestry>
     <size>M</size>
@@ -216,7 +216,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dunbarrow Witch</name>
+    <name>Dunbarrow Witch [Legacy]</name>
     <sortname>Witch, Dunbarrow</sortname>
     <ancestry>Witch</ancestry>
     <size>M</size>
@@ -291,7 +291,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>Faerie Borrower</name>
+    <name>Faerie Borrower [Legacy]</name>
     <sortname>Faerie, Borrower</sortname>
     <ancestry>Faerie</ancestry>
     <size>T</size>
@@ -363,7 +363,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>Faerie Pathlighter</name>
+    <name>Faerie Pathlighter [Legacy]</name>
     <sortname>Faerie, Pathlighter</sortname>
     <ancestry>Faerie</ancestry>
     <size>M</size>
@@ -430,7 +430,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>Faerie Pest</name>
+    <name>Faerie Pest [Legacy]</name>
     <sortname>Faerie, Pest</sortname>
     <ancestry>Faerie</ancestry>
     <size>S</size>
@@ -504,7 +504,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gingerbrute</name>
+    <name>Gingerbrute [Legacy]</name>
     <size>T</size>
     <type>construct</type>
     <alignment>Chaotic Neutral</alignment>
@@ -564,7 +564,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>Goose Mother</name>
+    <name>Goose Mother [Legacy]</name>
     <size>H</size>
     <type>fey</type>
     <alignment>Unaligned</alignment>
@@ -646,7 +646,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>High Fae Impostor</name>
+    <name>High Fae Impostor [Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Any Alignment</alignment>
@@ -716,7 +716,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>High Fae Kindguard</name>
+    <name>High Fae Kindguard [Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Any Alignment</alignment>
@@ -787,7 +787,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>High Fae Mage</name>
+    <name>High Fae Mage [Legacy]</name>
     <size>M</size>
     <type>fey (sorcerer)</type>
     <alignment>Any Alignment</alignment>
@@ -861,7 +861,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>High Fae Noble</name>
+    <name>High Fae Noble [Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Any Alignment</alignment>
@@ -947,7 +947,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>Knight of Eldraine</name>
+    <name>Knight of Eldraine [Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>Any Alignment</alignment>
@@ -1026,7 +1026,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nightmare Haunt</name>
+    <name>Nightmare Haunt [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -1094,7 +1094,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ogre Chitterlord</name>
+    <name>Ogre Chitterlord [Legacy]</name>
     <sortname>Ogre, Chitterlord</sortname>
     <ancestry>Ogre</ancestry>
     <size>L</size>
@@ -1157,7 +1157,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>Redtooth Werefox</name>
+    <name>Redtooth Werefox [Legacy]</name>
     <sortname>Werefox, Redtooth</sortname>
     <ancestry>Werefox</ancestry>
     <size>M</size>
@@ -1223,7 +1223,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sewer King</name>
+    <name>Sewer King [Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>Lawful Evil</alignment>
@@ -1282,7 +1282,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>Snapping Hydra</name>
+    <name>Snapping Hydra [Legacy]</name>
     <sortname>Hydra, Snapping</sortname>
     <ancestry>Hydra</ancestry>
     <size>H</size>
@@ -1348,7 +1348,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>Specter of Night</name>
+    <name>Specter of Night [Legacy]</name>
     <size>H</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -1414,7 +1414,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sweettooth Horror</name>
+    <name>Sweettooth Horror [Legacy]</name>
     <sortname>Horror, Sweettooth</sortname>
     <ancestry>Horror</ancestry>
     <size>L</size>
@@ -1478,7 +1478,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tempest Hart</name>
+    <name>Tempest Hart [Legacy]</name>
     <size>H</size>
     <type>elemental</type>
     <alignment>Unaligned</alignment>
@@ -1541,7 +1541,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>Treefolk</name>
+    <name>Treefolk [Legacy]</name>
     <size>L</size>
     <type>plant (druid)</type>
     <alignment>Any Alignment</alignment>
@@ -1613,7 +1613,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>Witchkite</name>
+    <name>Witchkite [Legacy]</name>
     <size>H</size>
     <type>dragon (warlock)</type>
     <alignment>Chaotic Evil</alignment>
@@ -1692,7 +1692,7 @@ Source:	Monstrous Compendium Vol. 4 - Eldraine Creatures</description>
     <environment/>
   </monster>
   <monster>
-    <name>Witchstalker</name>
+    <name>Witchstalker [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>

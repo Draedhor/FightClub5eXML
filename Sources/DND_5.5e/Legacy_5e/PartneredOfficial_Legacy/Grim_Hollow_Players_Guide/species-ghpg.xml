@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Wechselkind (TP)</name>
+    <name>Wechselkind [TP Legacy]</name>
     <size>S</size>
     <speed>25</speed>
     <ability>Con +2, Cha +1</ability>
@@ -56,7 +56,7 @@ Source:	Grim Hollow: Player's Guide p. 9 (Third Party)</text>
 
 Source:	Grim Hollow: Player's Guide p. 10 (Third Party)</text></trait><trait><name>Age</name><text>Laneshi mature quickly, reaching adulthood at around 14, and live up to 150 years old.</text></trait><trait><name>Alignment</name><text>Laneshi have a strong tendency towards law, as is reflected in the regimented society and caste system. They don't show any particular leaning in regards to good and evil, however, with both showing up among their ranks in equal numbers.</text></trait><trait><name>Size</name><text>Laneshi are about the same size and build as humans. Your size is Medium.</text></trait><trait><name>Speed</name><text>Your base walking speed is 30 feet. You have a base swimming speed of 30 feet.</text></trait><trait category="species"><name>Darkvision</name><text>Born in the depths of the ocean where little light penetrates, the laneshi are at home in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of grey.</text></trait><trait category="species"><name>Amphibious</name><text>You can breathe both air and water.</text></trait><trait category="species"><name>Beast Whisperers</name><text>You know the speak with animals spell. You can cast it once per day with this trait, regaining the ability to do so upon the completion of a long rest.</text></trait><trait><name>Languages</name><text>You can speak, read, and write Laneshi and one other language of your choice.</text></trait></race> -->
   <race>
-    <name>Laneshi Warrior (TP)</name>
+    <name>Laneshi Warrior [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +2, Wis +1</ability>
@@ -117,7 +117,7 @@ Source:	Grim Hollow: Player's Guide p. 11 (Third Party)</text>
     </trait>
   </race>
   <race>
-    <name>Laneshi Mystic (TP)</name>
+    <name>Laneshi Mystic [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +1, Wis +2</ability>
@@ -177,7 +177,7 @@ Source:	Grim Hollow: Player's Guide p. 11 (Third Party)</text>
     </trait>
   </race>
   <race>
-    <name>Ogresh (TP)</name>
+    <name>Ogresh [TP Legacy]</name>
     <size>M</size>
     <ability>Cha +2, Con +1, Wis +1</ability>
     <trait category="description">
@@ -272,7 +272,7 @@ Source:	Grim Hollow: Player's Guide p. 12 (Third Party)</text>
     </trait>
   </race> -->
   <race>
-    <name>Downcast: Aurelian (TP)</name>
+    <name>Downcast: Aurelian [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Wis +2, Cha +1</ability>
@@ -326,7 +326,7 @@ Source:	Grim Hollow: Player's Guide p. 13 (Third Party)</text>
     </trait>
   </race>
   <race>
-    <name>Downcast: Ulmyrite (TP)</name>
+    <name>Downcast: Ulmyrite [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Wis +2, Int +1</ability>
@@ -379,7 +379,7 @@ Source:	Grim Hollow: Player's Guide p. 13 (Third Party)</text>
     </trait>
   </race>
   <race>
-    <name>Downcast: Maliganti (TP)</name>
+    <name>Downcast: Maliganti [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Wis +2, Str +1</ability>
@@ -432,7 +432,7 @@ Source:	Grim Hollow: Player's Guide p. 13 (Third Party)</text>
     </trait>
   </race>
   <race>
-    <name>Downcast: Galtian (TP)</name>
+    <name>Downcast: Galtian [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Wis +2, Con +1</ability>
@@ -485,7 +485,7 @@ Source:	Grim Hollow: Player's Guide p. 13 (Third Party)</text>
     </trait>
   </race>
   <race>
-    <name>Dreamers (TP)</name>
+    <name>Dreamers [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Int +2, Int +1</ability>
@@ -537,7 +537,7 @@ Source:	Grim Hollow: Player's Guide p. 14 (Third Party)</text>
     </trait>
   </race>
   <race>
-    <name>Disembodied (TP)</name>
+    <name>Disembodied [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Int +2, Dex +1</ability>

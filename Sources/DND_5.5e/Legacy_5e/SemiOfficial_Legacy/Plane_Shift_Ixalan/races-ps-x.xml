@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Goblin (Ixalan)</name>
+    <name>Goblin (Ixalan) [TP Legacy]</name>
     <size>S</size>
     <speed>25</speed>
     <ability>Dex +2</ability>
@@ -45,7 +45,7 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
   </race>
   <race>
-    <name>Human (Ixalan)</name>
+    <name>Human (Ixalan) [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +1, Dex +1, Con +1, Int +1, Wis +1, Cha +1</ability>
@@ -79,7 +79,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Merfolk, Blue (Ixalan)</name>
+    <name>Merfolk, Blue (Ixalan) [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +1, Int +2</ability>
@@ -127,7 +127,7 @@ Source:	Plane Shift: Ixalan p. 12</text>
     </trait>
   </race>
   <race>
-    <name>Merfolk, Green (Ixalan)</name>
+    <name>Merfolk, Green (Ixalan) [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +1, Wis +2</ability>
@@ -174,7 +174,7 @@ Source:	Plane Shift: Ixalan p. 12</text>
     </trait>
   </race>
   <race>
-    <name>Orc (Ixalan)</name>
+    <name>Orc (Ixalan) [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +2, Con +1</ability>
@@ -228,7 +228,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Siren</name>
+    <name>Siren [TP Legacy]</name>
     <size>M</size>
     <speed>25</speed>
     <ability>Cha +2</ability>
@@ -269,7 +269,7 @@ Source:	Plane Shift: Ixalan p. 17</text>
     </trait>
   </race>
   <race>
-    <name>Vampire (Ixalan)</name>
+    <name>Vampire (Ixalan) [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +2, Wis +1</ability>

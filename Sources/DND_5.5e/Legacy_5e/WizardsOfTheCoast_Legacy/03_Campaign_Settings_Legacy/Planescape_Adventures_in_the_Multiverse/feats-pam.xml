@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <feat>
-    <name>Agent of Order (Strength)</name>
+    <name>Agent of Order (Strength) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Lawful Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of order to gain these benefits:
 
@@ -13,7 +13,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Agent of Order (Dexterity)</name>
+    <name>Agent of Order (Dexterity) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Lawful Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of order to gain these benefits:
 
@@ -25,7 +25,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">dexterity +1</modifier>
   </feat>
   <feat>
-    <name>Agent of Order (Wisdom)</name>
+    <name>Agent of Order (Wisdom) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Lawful Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of order to gain these benefits:
 
@@ -37,7 +37,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">wisdom +1</modifier>
   </feat>
   <feat>
-    <name>Agent of Order (Intelligence)</name>
+    <name>Agent of Order (Intelligence) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Lawful Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of order to gain these benefits:
 
@@ -49,7 +49,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">intelligence +1</modifier>
   </feat>
   <feat>
-    <name>Agent of Order (Constitution)</name>
+    <name>Agent of Order (Constitution) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Lawful Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of order to gain these benefits:
 
@@ -61,7 +61,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">constitution +1</modifier>
   </feat>
   <feat>
-    <name>Agent of Order (Charisma)</name>
+    <name>Agent of Order (Charisma) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Lawful Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of order to gain these benefits:
 
@@ -73,7 +73,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">charisma +1</modifier>
   </feat>
   <feat>
-    <name>Baleful Scion (Strength)</name>
+    <name>Baleful Scion (Strength) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Evil Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of evil to gain these benefits:
 
@@ -85,7 +85,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Baleful Scion (Dexterity)</name>
+    <name>Baleful Scion (Dexterity) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Evil Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of evil to gain these benefits:
 
@@ -97,7 +97,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">dexterity +1</modifier>
   </feat>
   <feat>
-    <name>Baleful Scion (Wisdom)</name>
+    <name>Baleful Scion (Wisdom) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Evil Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of evil to gain these benefits:
 
@@ -109,7 +109,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">wisdom +1</modifier>
   </feat>
   <feat>
-    <name>Baleful Scion (Intelligence)</name>
+    <name>Baleful Scion (Intelligence) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Evil Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of evil to gain these benefits:
 
@@ -121,7 +121,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">intelligence +1</modifier>
   </feat>
   <feat>
-    <name>Baleful Scion (Constitution)</name>
+    <name>Baleful Scion (Constitution) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Evil Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of evil to gain these benefits:
 
@@ -133,7 +133,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">constitution +1</modifier>
   </feat>
   <feat>
-    <name>Baleful Scion (Charisma)</name>
+    <name>Baleful Scion (Charisma) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Evil Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of evil to gain these benefits:
 
@@ -145,7 +145,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">charisma +1</modifier>
   </feat>
   <feat>
-    <name>Cohort of Chaos (Strength)</name>
+    <name>Cohort of Chaos (Strength) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Chaotic Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of chaos to gain these benefits:
 
@@ -164,7 +164,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Cohort of Chaos (Dexterity)</name>
+    <name>Cohort of Chaos (Dexterity) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Chaotic Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of chaos to gain these benefits:
 
@@ -183,7 +183,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">dexterity +1</modifier>
   </feat>
   <feat>
-    <name>Cohort of Chaos (Wisdom)</name>
+    <name>Cohort of Chaos (Wisdom) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Chaotic Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of chaos to gain these benefits:
 
@@ -202,7 +202,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">wisdom +1</modifier>
   </feat>
   <feat>
-    <name>Cohort of Chaos (Intelligence)</name>
+    <name>Cohort of Chaos (Intelligence) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Chaotic Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of chaos to gain these benefits:
 
@@ -221,7 +221,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">intelligence +1</modifier>
   </feat>
   <feat>
-    <name>Cohort of Chaos (Constitution)</name>
+    <name>Cohort of Chaos (Constitution) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Chaotic Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of chaos to gain these benefits:
 
@@ -240,7 +240,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">constitution +1</modifier>
   </feat>
   <feat>
-    <name>Cohort of Chaos (Charisma)</name>
+    <name>Cohort of Chaos (Charisma) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Chaotic Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of chaos to gain these benefits:
 
@@ -259,7 +259,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">charisma +1</modifier>
   </feat>
   <feat>
-    <name>Outlands Envoy (Strength)</name>
+    <name>Outlands Envoy (Strength) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (The Outlands) Feat</prerequisite>
     <text>You have spent significant time in Sigil or the Outlands, the crossroads of the multiverse. Being steeped in converging planar energies grants you these benefits:
 
@@ -271,7 +271,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Outlands Envoy (Dexterity)</name>
+    <name>Outlands Envoy (Dexterity) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (The Outlands) Feat</prerequisite>
     <text>You have spent significant time in Sigil or the Outlands, the crossroads of the multiverse. Being steeped in converging planar energies grants you these benefits:
 
@@ -283,7 +283,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">dexterity +1</modifier>
   </feat>
   <feat>
-    <name>Outlands Envoy (Wisdom)</name>
+    <name>Outlands Envoy (Wisdom) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (The Outlands) Feat</prerequisite>
     <text>You have spent significant time in Sigil or the Outlands, the crossroads of the multiverse. Being steeped in converging planar energies grants you these benefits:
 
@@ -295,7 +295,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">wisdom +1</modifier>
   </feat>
   <feat>
-    <name>Outlands Envoy (Intelligence)</name>
+    <name>Outlands Envoy (Intelligence) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (The Outlands) Feat</prerequisite>
     <text>You have spent significant time in Sigil or the Outlands, the crossroads of the multiverse. Being steeped in converging planar energies grants you these benefits:
 
@@ -307,7 +307,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">intelligence +1</modifier>
   </feat>
   <feat>
-    <name>Outlands Envoy (Constitution)</name>
+    <name>Outlands Envoy (Constitution) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (The Outlands) Feat</prerequisite>
     <text>You have spent significant time in Sigil or the Outlands, the crossroads of the multiverse. Being steeped in converging planar energies grants you these benefits:
 
@@ -319,7 +319,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">constitution +1</modifier>
   </feat>
   <feat>
-    <name>Outlands Envoy (Charisma)</name>
+    <name>Outlands Envoy (Charisma) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (The Outlands) Feat</prerequisite>
     <text>You have spent significant time in Sigil or the Outlands, the crossroads of the multiverse. Being steeped in converging planar energies grants you these benefits:
 
@@ -331,7 +331,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
     <modifier category="ability score">charisma +1</modifier>
   </feat>
   <feat>
-    <name>Planar Wanderer</name>
+    <name>Planar Wanderer [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes Feat</prerequisite>
     <text>You can draw on the forces of the multiverse to survive cosmic extremes and to traverse its infinite realms, granting you these benefits:
 
@@ -344,7 +344,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 10<
 Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 11</text>
   </feat>
   <feat>
-    <name>Righteous Heritor (Strength)</name>
+    <name>Righteous Heritor (Strength) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Good Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of good to gain these benefits:
 
@@ -356,7 +356,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 11<
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Righteous Heritor (Dexterity)</name>
+    <name>Righteous Heritor (Dexterity) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Good Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of good to gain these benefits:
 
@@ -368,7 +368,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 11<
     <modifier category="ability score">dexterity +1</modifier>
   </feat>
   <feat>
-    <name>Righteous Heritor (Wisdom)</name>
+    <name>Righteous Heritor (Wisdom) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Good Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of good to gain these benefits:
 
@@ -380,7 +380,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 11<
     <modifier category="ability score">wisdom +1</modifier>
   </feat>
   <feat>
-    <name>Righteous Heritor (Intelligence)</name>
+    <name>Righteous Heritor (Intelligence) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Good Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of good to gain these benefits:
 
@@ -392,7 +392,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 11<
     <modifier category="ability score">intelligence +1</modifier>
   </feat>
   <feat>
-    <name>Righteous Heritor (Constitution)</name>
+    <name>Righteous Heritor (Constitution) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Good Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of good to gain these benefits:
 
@@ -404,7 +404,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 11<
     <modifier category="ability score">constitution +1</modifier>
   </feat>
   <feat>
-    <name>Righteous Heritor (Charisma)</name>
+    <name>Righteous Heritor (Charisma) [Legacy]</name>
     <prerequisite>4th level, Scion of the Outer Planes (Good Outer Plane) Feat</prerequisite>
     <text>You can channel cosmic forces of good to gain these benefits:
 
@@ -416,7 +416,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 11<
     <modifier category="ability score">charisma +1</modifier>
   </feat>
   <feat>
-    <name>Scion of the Outer Planes</name>
+    <name>Scion of the Outer Planes [Legacy]</name>
     <prerequisite>Planescape Campaign</prerequisite>
     <text>Your connection to an Outer Plane infuses you with the energy there. Choose a type of plane listed in the Planar Infusion table. Your choice gives you resistance to a damage type and the ability to cast a cantrip, as specified in the table. You can cast this cantrip without material components, and your spellcasting ability for it is Intelligence, Wisdom, or Charisma (choose when you select this feat).
 

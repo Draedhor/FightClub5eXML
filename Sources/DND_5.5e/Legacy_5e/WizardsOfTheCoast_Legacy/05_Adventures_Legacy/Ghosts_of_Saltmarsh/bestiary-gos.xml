@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Amphisbaena (monstrosity)</name>
+    <name>Amphisbaena (monstrosity) [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -43,7 +43,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Barnacle Bess</name>
+    <name>Barnacle Bess [Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -81,7 +81,7 @@ Bess has two claws, each of which can grapple only one target.</text>
     <environment>coastal</environment>
   </monster>
   <monster>
-    <name>Bullywug Croaker</name>
+    <name>Bullywug Croaker [Legacy]</name>
     <sortname>Bullywug, Croaker</sortname>
     <ancestry>Bullywug</ancestry>
     <npc>YES</npc>
@@ -150,7 +150,7 @@ Source:	Ghosts of Saltmarsh p. 232</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bullywug Royal</name>
+    <name>Bullywug Royal [Legacy]</name>
     <sortname>Bullywug, Royal</sortname>
     <ancestry>Bullywug</ancestry>
     <npc>YES</npc>
@@ -225,7 +225,7 @@ Source:	Ghosts of Saltmarsh p. 232</description>
     <environment/>
   </monster>
   <monster>
-    <name>Captain Xendros</name>
+    <name>Captain Xendros [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (tiefling)</type>
@@ -280,7 +280,7 @@ Source:	Ghosts of Saltmarsh p. 232</description>
     <environment/>
   </monster>
   <monster>
-    <name>Drowned Ascetic</name>
+    <name>Drowned Ascetic [Legacy]</name>
     <sortname>Drowned, Ascetic</sortname>
     <ancestry>Drowned</ancestry>
     <size>M</size>
@@ -342,7 +342,7 @@ Source:	Ghosts of Saltmarsh p. 233,
     <environment/>
   </monster>
   <monster>
-    <name>Drowned Assassin</name>
+    <name>Drowned Assassin [Legacy]</name>
     <sortname>Assassin, Drowned</sortname>
     <ancestry>Drowned, Assassin</ancestry>
     <size>M</size>
@@ -410,7 +410,7 @@ Source:	Ghosts of Saltmarsh p. 234,
     <environment/>
   </monster>
   <monster>
-    <name>Drowned Blade</name>
+    <name>Drowned Blade [Legacy]</name>
     <sortname>Drowned, Blade</sortname>
     <ancestry>Drowned</ancestry>
     <size>M</size>
@@ -468,7 +468,7 @@ Source:	Ghosts of Saltmarsh p. 235,
     <environment/>
   </monster>
   <monster>
-    <name>Drowned Master</name>
+    <name>Drowned Master [Legacy]</name>
     <sortname>Drowned, Master</sortname>
     <ancestry>Drowned</ancestry>
     <size>M</size>
@@ -537,7 +537,7 @@ Source:	Ghosts of Saltmarsh p. 235,
     <environment/>
   </monster>
   <monster>
-    <name>Fish</name>
+    <name>Fish [Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -572,7 +572,7 @@ Source:	Ghosts of Saltmarsh p. 235,
     <environment>underwater</environment>
   </monster>
   <monster>
-    <name>Giant Coral Snake</name>
+    <name>Giant Coral Snake [Legacy]</name>
     <sortname>Snake, Giant Coral</sortname>
     <ancestry>Snake</ancestry>
     <size>L</size>
@@ -608,7 +608,7 @@ Source:	Ghosts of Saltmarsh p. 236</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Sea Eel</name>
+    <name>Giant Sea Eel [Legacy]</name>
     <sortname>Eel, Giant Sea</sortname>
     <ancestry>Eel</ancestry>
     <size>L</size>
@@ -648,7 +648,7 @@ Source:	Ghosts of Saltmarsh p. 237</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant White Moray Eel</name>
+    <name>Giant White Moray Eel [Legacy]</name>
     <sortname>Eel, Giant White Moray</sortname>
     <ancestry>Eel</ancestry>
     <size>H</size>
@@ -686,7 +686,7 @@ Source:	Ghosts of Saltmarsh p. 237</description>
     <environment>underwater, underdark, forest, swamp, desert</environment>
   </monster>
   <monster>
-    <name>Harpy Matriarch</name>
+    <name>Harpy Matriarch [Legacy]</name>
     <sortname>Harpy, Matriarch</sortname>
     <ancestry>Harpy</ancestry>
     <size>M</size>
@@ -751,7 +751,7 @@ Source:	Ghosts of Saltmarsh p. 237</description>
     <environment/>
   </monster>
   <monster>
-    <name>Juvenile Kraken</name>
+    <name>Juvenile Kraken [Legacy]</name>
     <sortname>Kraken, Juvenile</sortname>
     <ancestry>Kraken</ancestry>
     <size>H</size>
@@ -833,7 +833,7 @@ Source:	Ghosts of Saltmarsh p. 238</description>
     <environment/>
   </monster>
   <monster>
-    <name>Koalinth</name>
+    <name>Koalinth [Legacy]</name>
     <ancestry>Koalinth</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -877,7 +877,7 @@ Source:	Ghosts of Saltmarsh p. 239</description>
     <environment/>
   </monster>
   <monster>
-    <name>Koalinth Sergeant</name>
+    <name>Koalinth Sergeant [Legacy]</name>
     <sortname>Koalinth, Sergeant</sortname>
     <ancestry>Koalinth</ancestry>
     <npc>YES</npc>
@@ -938,7 +938,7 @@ Source:	Ghosts of Saltmarsh p. 239</description>
     <environment/>
   </monster>
   <monster>
-    <name>Krell Grohlg</name>
+    <name>Krell Grohlg [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (half-orc)</type>
@@ -989,7 +989,7 @@ Source:	Ghosts of Saltmarsh p. 239</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kysh</name>
+    <name>Kysh [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (triton)</type>
@@ -1042,7 +1042,7 @@ Source:	Ghosts of Saltmarsh p. 240</description>
     <environment/>
   </monster>
   <monster>
-    <name>Living Iron Statue</name>
+    <name>Living Iron Statue [Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -1095,7 +1095,7 @@ Source:	Ghosts of Saltmarsh p. 241</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lizardfolk Commoner</name>
+    <name>Lizardfolk Commoner [Legacy]</name>
     <sortname>Commoner, Lizardfolk</sortname>
     <ancestry>Commoner, Lizardfolk</ancestry>
     <npc>YES</npc>
@@ -1136,7 +1136,7 @@ Source:	Ghosts of Saltmarsh p. 241</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lizardfolk Render</name>
+    <name>Lizardfolk Render [Legacy]</name>
     <sortname>Lizardfolk, Render</sortname>
     <ancestry>Lizardfolk</ancestry>
     <npc>YES</npc>
@@ -1197,7 +1197,7 @@ Source:	Ghosts of Saltmarsh p. 241,
     <environment/>
   </monster>
   <monster>
-    <name>Lizardfolk Scaleshield</name>
+    <name>Lizardfolk Scaleshield [Legacy]</name>
     <sortname>Lizardfolk, Scaleshield</sortname>
     <ancestry>Lizardfolk</ancestry>
     <npc>YES</npc>
@@ -1256,7 +1256,7 @@ Source:	Ghosts of Saltmarsh p. 242</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lizardfolk Subchief</name>
+    <name>Lizardfolk Subchief [Legacy]</name>
     <sortname>Lizardfolk, Subchief</sortname>
     <ancestry>Lizardfolk</ancestry>
     <npc>YES</npc>
@@ -1315,7 +1315,7 @@ Source:	Ghosts of Saltmarsh p. 242,
     <environment/>
   </monster>
   <monster>
-    <name>Locathah</name>
+    <name>Locathah [Legacy]</name>
     <ancestry>Locathah</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -1364,7 +1364,7 @@ Source:	Ghosts of Saltmarsh p. 243,
     <environment/>
   </monster>
   <monster>
-    <name>Locathah Hunter</name>
+    <name>Locathah Hunter [Legacy]</name>
     <sortname>Locathah, Hunter</sortname>
     <ancestry>Locathah</ancestry>
     <npc>YES</npc>
@@ -1418,7 +1418,7 @@ Source:	Ghosts of Saltmarsh p. 243</description>
     <environment/>
   </monster>
   <monster>
-    <name>Master Refrum</name>
+    <name>Master Refrum [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -1466,7 +1466,7 @@ Source:	Ghosts of Saltmarsh p. 243</description>
     <environment/>
   </monster>
   <monster>
-    <name>Maw of Sekolah</name>
+    <name>Maw of Sekolah [Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -1535,7 +1535,7 @@ Source:	Ghosts of Saltmarsh p. 244</description>
     <environment/>
   </monster>
   <monster>
-    <name>Merfolk Salvager</name>
+    <name>Merfolk Salvager [Legacy]</name>
     <sortname>Merfolk, Salvager</sortname>
     <ancestry>Merfolk</ancestry>
     <npc>YES</npc>
@@ -1586,7 +1586,7 @@ Source:	Ghosts of Saltmarsh p. 244</description>
     <environment/>
   </monster>
   <monster>
-    <name>Merfolk Scout</name>
+    <name>Merfolk Scout [Legacy]</name>
     <sortname>Merfolk, Scout</sortname>
     <ancestry>Merfolk</ancestry>
     <npc>YES</npc>
@@ -1633,7 +1633,7 @@ Source:	Ghosts of Saltmarsh p. 244</description>
     <environment/>
   </monster>
   <monster>
-    <name>Minotaur Living Crystal Statue</name>
+    <name>Minotaur Living Crystal Statue [Legacy]</name>
     <sortname>Minotaur, Living Crystal Statue</sortname>
     <ancestry>Minotaur</ancestry>
     <size>L</size>
@@ -1686,7 +1686,7 @@ Source:	Ghosts of Saltmarsh p. 245</description>
     <environment/>
   </monster>
   <monster>
-    <name>Monstrous Peryton</name>
+    <name>Monstrous Peryton [Legacy]</name>
     <sortname>Peryton, Monstrous</sortname>
     <ancestry>Peryton</ancestry>
     <size>L</size>
@@ -1765,7 +1765,7 @@ Source:	Ghosts of Saltmarsh p. 245</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mr. Dory</name>
+    <name>Mr. Dory [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>aberration</type>
@@ -1827,7 +1827,7 @@ Source:	Ghosts of Saltmarsh p. 246</description>
     <environment/>
   </monster>
   <monster>
-    <name>Oceanus</name>
+    <name>Oceanus [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf)</type>
@@ -1875,7 +1875,7 @@ Source:	Ghosts of Saltmarsh p. 246</description>
     <environment/>
   </monster>
   <monster>
-    <name>Othokent</name>
+    <name>Othokent [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (lizardfolk)</type>
@@ -1930,7 +1930,7 @@ Source:	Ghosts of Saltmarsh p. 246</description>
     <environment>forest, swamp</environment>
   </monster>
   <monster>
-    <name>Pirate Bosun</name>
+    <name>Pirate Bosun [Legacy]</name>
     <sortname>Pirate, Bosun</sortname>
     <ancestry>Pirate</ancestry>
     <npc>YES</npc>
@@ -1980,7 +1980,7 @@ Source:	Ghosts of Saltmarsh p. 247</description>
     <environment/>
   </monster>
   <monster>
-    <name>Pirate Captain</name>
+    <name>Pirate Captain [Legacy]</name>
     <sortname>Pirate, Captain</sortname>
     <ancestry>Pirate</ancestry>
     <npc>YES</npc>
@@ -2039,7 +2039,7 @@ Source:	Ghosts of Saltmarsh p. 247</description>
     <environment/>
   </monster>
   <monster>
-    <name>Pirate Deck Wizard</name>
+    <name>Pirate Deck Wizard [Legacy]</name>
     <sortname>Pirate, Deck Wizard</sortname>
     <ancestry>Pirate</ancestry>
     <npc>YES</npc>
@@ -2090,7 +2090,7 @@ Source:	Ghosts of Saltmarsh p. 248</description>
     <environment/>
   </monster>
   <monster>
-    <name>Pirate First Mate</name>
+    <name>Pirate First Mate [Legacy]</name>
     <sortname>Pirate, First Mate</sortname>
     <ancestry>Pirate</ancestry>
     <npc>YES</npc>
@@ -2135,7 +2135,7 @@ Source:	Ghosts of Saltmarsh p. 248</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rip Tide Priest</name>
+    <name>Rip Tide Priest [Legacy]</name>
     <sortname>Priest, Rip Tide</sortname>
     <ancestry>Priest</ancestry>
     <npc>YES</npc>
@@ -2183,7 +2183,7 @@ Source:	Ghosts of Saltmarsh p. 248</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sahuagin Blademaster</name>
+    <name>Sahuagin Blademaster [Legacy]</name>
     <sortname>Sahuagin, Blademaster</sortname>
     <ancestry>Sahuagin</ancestry>
     <npc>YES</npc>
@@ -2248,7 +2248,7 @@ Source:	Ghosts of Saltmarsh p. 249,
     <environment/>
   </monster>
   <monster>
-    <name>Sahuagin Champion</name>
+    <name>Sahuagin Champion [Legacy]</name>
     <sortname>Sahuagin, Champion</sortname>
     <ancestry>Sahuagin</ancestry>
     <npc>YES</npc>
@@ -2311,7 +2311,7 @@ Source:	Ghosts of Saltmarsh p. 249</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sahuagin Coral Smasher</name>
+    <name>Sahuagin Coral Smasher [Legacy]</name>
     <sortname>Sahuagin, Coral Smasher</sortname>
     <ancestry>Sahuagin</ancestry>
     <npc>YES</npc>
@@ -2378,7 +2378,7 @@ Source:	Ghosts of Saltmarsh p. 249</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sahuagin Deep Diver</name>
+    <name>Sahuagin Deep Diver [Legacy]</name>
     <sortname>Sahuagin, Deep Diver</sortname>
     <ancestry>Sahuagin</ancestry>
     <npc>YES</npc>
@@ -2454,7 +2454,7 @@ Source:	Ghosts of Saltmarsh p. 250,
     <environment/>
   </monster>
   <monster>
-    <name>Sahuagin Hatchling Swarm</name>
+    <name>Sahuagin Hatchling Swarm [Legacy]</name>
     <sortname>Sahuagin, Hatchling Swarm</sortname>
     <ancestry>Sahuagin</ancestry>
     <size>L</size>
@@ -2507,7 +2507,7 @@ Source:	Ghosts of Saltmarsh p. 250,
     <environment/>
   </monster>
   <monster>
-    <name>Sahuagin High Priestess</name>
+    <name>Sahuagin High Priestess [Legacy]</name>
     <sortname>Sahuagin, High Priestess</sortname>
     <ancestry>Sahuagin</ancestry>
     <npc>YES</npc>
@@ -2583,7 +2583,7 @@ Source:	Ghosts of Saltmarsh p. 251,
     <environment/>
   </monster>
   <monster>
-    <name>Sahuagin Wave Shaper</name>
+    <name>Sahuagin Wave Shaper [Legacy]</name>
     <sortname>Sahuagin, Wave Shaper</sortname>
     <ancestry>Sahuagin</ancestry>
     <npc>YES</npc>
@@ -2659,7 +2659,7 @@ Source:	Ghosts of Saltmarsh p. 251</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sanbalet</name>
+    <name>Sanbalet [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -2704,7 +2704,7 @@ Source:	Ghosts of Saltmarsh p. 252</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sauriv</name>
+    <name>Sauriv [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (lizardfolk)</type>
@@ -2745,7 +2745,7 @@ Source:	Ghosts of Saltmarsh p. 252</description>
     <environment/>
   </monster>
   <monster>
-    <name>Shell Shark</name>
+    <name>Shell Shark [Legacy]</name>
     <sortname>Shark, Shell</sortname>
     <ancestry>Shark</ancestry>
     <size>M</size>
@@ -2797,7 +2797,7 @@ Source:	Ghosts of Saltmarsh p. 252</description>
     <environment/>
   </monster>
   <monster>
-    <name>Skeletal Alchemist</name>
+    <name>Skeletal Alchemist [Legacy]</name>
     <sortname>Skeletal, Alchemist</sortname>
     <ancestry>Skeletal</ancestry>
     <size>M</size>
@@ -2846,7 +2846,7 @@ Source:	Ghosts of Saltmarsh p. 253</description>
     <environment/>
   </monster>
   <monster>
-    <name>Skeletal Juggernaut</name>
+    <name>Skeletal Juggernaut [Legacy]</name>
     <sortname>Skeletal, Juggernaut</sortname>
     <ancestry>Skeletal</ancestry>
     <size>L</size>
@@ -2901,7 +2901,7 @@ Source:	Ghosts of Saltmarsh p. 253,
     <environment/>
   </monster>
   <monster>
-    <name>Skeletal Swarm</name>
+    <name>Skeletal Swarm [Legacy]</name>
     <sortname>Skeletal, Swarm</sortname>
     <ancestry>Skeletal</ancestry>
     <size>L</size>
@@ -2947,7 +2947,7 @@ Source:	Ghosts of Saltmarsh p. 254,
     <environment/>
   </monster>
   <monster>
-    <name>Skum</name>
+    <name>Skum [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Lawful Evil</alignment>
@@ -3006,7 +3006,7 @@ Source:	Ghosts of Saltmarsh p. 254</description>
     <environment/>
   </monster>
   <monster>
-    <name>Thousand Teeth</name>
+    <name>Thousand Teeth [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -3075,7 +3075,7 @@ Source:	Ghosts of Saltmarsh p. 256</description>
     <environment/>
   </monster>
   <monster>
-    <name>Vampiric Jade Statue</name>
+    <name>Vampiric Jade Statue [Legacy]</name>
     <sortname>Vampiric, Jade Statue</sortname>
     <ancestry>Vampiric</ancestry>
     <size>L</size>
@@ -3146,7 +3146,7 @@ Source:	Ghosts of Saltmarsh p. 256</description>
     <environment/>
   </monster>
   <monster>
-    <name>Yalaga Maladwyn</name>
+    <name>Yalaga Maladwyn [Legacy]</name>
     <sortname>Maladwyn, Yalaga</sortname>
     <npc>YES</npc>
     <size>M</size>

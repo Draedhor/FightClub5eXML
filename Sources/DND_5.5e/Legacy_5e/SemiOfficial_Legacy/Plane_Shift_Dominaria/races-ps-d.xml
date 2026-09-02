@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Aven</name>
+    <name>Aven [TP Legacy]</name>
     <size>M</size>
     <speed>25</speed>
     <ability>Dex +2, Wis +2</ability>
@@ -40,7 +40,7 @@ Source:	Plane Shift: Dominaria p. 6</text>
     </trait>
   </race>
   <race>
-    <name>Keldon</name>
+    <name>Keldon [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +2, Con +1</ability>

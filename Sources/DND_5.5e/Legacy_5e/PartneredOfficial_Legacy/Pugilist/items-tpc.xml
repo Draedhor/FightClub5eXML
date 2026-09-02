@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Bonebreakers (TP)</name>
+    <name>Bonebreakers [TP Legacy]</name>
     <detail>knuckles, legendary (requires attunement by a pugilist)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -29,7 +29,7 @@ Source:	Ben Huffman - Pugilist</text>
     <modifier category="bonus">melee damage +3</modifier>
   </item>
   <item>
-    <name>Bottle of Brew Tasting (TP)</name>
+    <name>Bottle of Brew Tasting [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -40,7 +40,7 @@ Source:	Ben Huffman - Pugilist</text>
 Source:	Ben Huffman - Pugilist</text>
   </item>
   <item>
-    <name>Brass Knuckles (TP)</name>
+    <name>Brass Knuckles [TP Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>1</weight>
@@ -54,7 +54,7 @@ Proficiency: simple, knuckles
 Source:	Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Club of Unconsciousness (TP)</name>
+    <name>Club of Unconsciousness [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -78,7 +78,7 @@ Source:	Ben Huffman - Pugilist</text>
     <roll>1d3+1</roll>
   </item>
   <item>
-    <name>Coin of Easy Living (TP)</name>
+    <name>Coin of Easy Living [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -88,7 +88,7 @@ Source:	Ben Huffman - Pugilist</text>
 Source:	Ben Huffman - Pugilist</text>
   </item>
   <item>
-    <name>Enchanted Inks (TP)</name>
+    <name>Enchanted Inks [TP Legacy]</name>
     <detail>legendary</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -107,7 +107,7 @@ legendary | 5th
 Source:	Ben Huffman - Pugilist</text>
   </item>
   <item>
-    <name>Enchanted Ink (Common) (TP)</name>
+    <name>Enchanted Ink (Common) [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -118,7 +118,7 @@ Source:	Ben Huffman - Pugilist</text>
 Source:	Ben Huffman - Pugilist</text>
   </item>
   <item>
-    <name>Enchanted Ink (Uncommon) (TP)</name>
+    <name>Enchanted Ink (Uncommon) [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -129,7 +129,7 @@ Source:	Ben Huffman - Pugilist</text>
 Source:	Ben Huffman - Pugilist</text>
   </item>
   <item>
-    <name>Enchanted Ink (Rare) (TP)</name>
+    <name>Enchanted Ink (Rare) [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -140,7 +140,7 @@ Source:	Ben Huffman - Pugilist</text>
 Source:	Ben Huffman - Pugilist</text>
   </item>
   <item>
-    <name>Enchanted Ink (Very Rare) (TP)</name>
+    <name>Enchanted Ink (Very Rare) [TP Legacy]</name>
     <detail>very rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -151,7 +151,7 @@ Source:	Ben Huffman - Pugilist</text>
 Source:	Ben Huffman - Pugilist</text>
   </item>
   <item>
-    <name>Enchanted Ink (Legendary) (TP)</name>
+    <name>Enchanted Ink (Legendary) [TP Legacy]</name>
     <detail>legendary</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -162,7 +162,7 @@ Source:	Ben Huffman - Pugilist</text>
 Source:	Ben Huffman - Pugilist</text>
   </item>
   <item>
-    <name>Everful Stein (TP)</name>
+    <name>Everful Stein [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -172,7 +172,7 @@ Source:	Ben Huffman - Pugilist</text>
 Source:	Ben Huffman - Pugilist</text>
   </item>
   <item>
-    <name>Leather Jerkin +1 (TP)</name>
+    <name>Leather Jerkin +1 [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -183,7 +183,7 @@ Source:	Ben Huffman - Pugilist</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Leather Jerkin +2 (TP)</name>
+    <name>Leather Jerkin +2 [TP Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -194,7 +194,7 @@ Source:	Ben Huffman - Pugilist</text>
     <modifier category="bonus">ac +2</modifier>
   </item>
   <item>
-    <name>Leather Jerkin +3 (TP)</name>
+    <name>Leather Jerkin +3 [TP Legacy]</name>
     <detail>legendary</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -205,7 +205,7 @@ Source:	Ben Huffman - Pugilist</text>
     <modifier category="bonus">ac +3</modifier>
   </item>
   <item>
-    <name>Loaded Dice (TP)</name>
+    <name>Loaded Dice [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -217,7 +217,7 @@ Source:	Ben Huffman - Pugilist</text>
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>Mage Mashers (TP)</name>
+    <name>Mage Mashers [TP Legacy]</name>
     <detail>knuckles, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -238,7 +238,7 @@ Source:	Ben Huffman - Pugilist</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Medallion of Mettle (TP)</name>
+    <name>Medallion of Mettle [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -249,7 +249,7 @@ Source:	Ben Huffman - Pugilist</text>
     <roll description="Temporary Hit Points">1d6</roll>
   </item>
   <item>
-    <name>Mugfist Knuckles (TP)</name>
+    <name>Mugfist Knuckles [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -271,7 +271,7 @@ Source:	Ben Huffman - Pugilist</text>
     <roll description="Gold Pieces">1d6</roll>
   </item>
   <item>
-    <name>Penitent Pummelers (TP)</name>
+    <name>Penitent Pummelers [TP Legacy]</name>
     <detail>knuckles, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -293,7 +293,7 @@ Source:	Ben Huffman - Pugilist</text>
     <roll description="Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Poundwise Porter (TP)</name>
+    <name>Poundwise Porter [TP Legacy]</name>
     <detail>very rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -303,7 +303,7 @@ Source:	Ben Huffman - Pugilist</text>
 Source:	Ben Huffman - Pugilist</text>
   </item>
   <item>
-    <name>Prehensile Whip (TP)</name>
+    <name>Prehensile Whip [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -325,7 +325,7 @@ Source:	Ben Huffman - Pugilist</text>
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Punchdrunk Punters (TP)</name>
+    <name>Punchdrunk Punters [TP Legacy]</name>
     <detail>knuckles, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -347,7 +347,7 @@ Source:	Ben Huffman - Pugilist</text>
     <roll description="Poison Damage">1d8</roll>
   </item>
   <item>
-    <name>Ramuh's Katar (TP)</name>
+    <name>Ramuh's Katar [TP Legacy]</name>
     <detail>knuckles, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -368,7 +368,7 @@ Source:	Ben Huffman - Pugilist</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Ratbite (TP)</name>
+    <name>Ratbite [TP Legacy]</name>
     <detail>knuckles, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -389,7 +389,7 @@ Source:	Ben Huffman - Pugilist</text>
     <modifier category="bonus">melee damage +3</modifier>
   </item>
   <item>
-    <name>Salamander Sauce (TP)</name>
+    <name>Salamander Sauce [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -400,7 +400,7 @@ Source:	Ben Huffman - Pugilist</text>
 Source:	Ben Huffman - Pugilist</text>
   </item>
   <item>
-    <name>Scyboo Snack (TP)</name>
+    <name>Scyboo Snack [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -411,7 +411,7 @@ Source:	Ben Huffman - Pugilist</text>
     <roll description="Extra Damage">1d4</roll>
   </item>
   <item>
-    <name>Spiked Collar +1 (TP)</name>
+    <name>Spiked Collar +1 [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -423,7 +423,7 @@ Source:	Ben Huffman - Pugilist</text>
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Spiked Collar +2 (TP)</name>
+    <name>Spiked Collar +2 [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -435,7 +435,7 @@ Source:	Ben Huffman - Pugilist</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Spiked Collar +3 (TP)</name>
+    <name>Spiked Collar +3 [TP Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -447,7 +447,7 @@ Source:	Ben Huffman - Pugilist</text>
     <modifier category="bonus">melee damage +3</modifier>
   </item>
   <item>
-    <name>Studded Collar +1 (TP)</name>
+    <name>Studded Collar +1 [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -459,7 +459,7 @@ Source:	Ben Huffman - Pugilist</text>
     <modifier category="bonus">saving throws +1</modifier>
   </item>
   <item>
-    <name>Studded Collar +2 (TP)</name>
+    <name>Studded Collar +2 [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -471,7 +471,7 @@ Source:	Ben Huffman - Pugilist</text>
     <modifier category="bonus">saving throws +2</modifier>
   </item>
   <item>
-    <name>Studded Collar +3 (TP)</name>
+    <name>Studded Collar +3 [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -483,7 +483,7 @@ Source:	Ben Huffman - Pugilist</text>
     <modifier category="bonus">saving throws +3</modifier>
   </item>
   <item>
-    <name>Thunder Knuckles (TP)</name>
+    <name>Thunder Knuckles [TP Legacy]</name>
     <detail>knuckles, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -504,7 +504,7 @@ Source:	Ben Huffman - Pugilist</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Whistle of Dog Calling (TP)</name>
+    <name>Whistle of Dog Calling [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -514,7 +514,7 @@ Source:	Ben Huffman - Pugilist</text>
 Source:	Ben Huffman - Pugilist</text>
   </item>
   <item>
-    <name>Winter's Bite (TP)</name>
+    <name>Winter's Bite [TP Legacy]</name>
     <detail>knuckles, uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>

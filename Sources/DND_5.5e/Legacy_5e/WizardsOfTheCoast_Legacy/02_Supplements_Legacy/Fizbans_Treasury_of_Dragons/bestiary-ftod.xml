@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Adult Amethyst Dragon</name>
+    <name>Adult Amethyst Dragon [Legacy]</name>
     <sortname>Amethyst Dragon, Adult</sortname>
     <ancestry>Amethyst Dragon</ancestry>
     <size>H</size>
@@ -211,7 +211,7 @@ Source:	Fizban's Treasury of Dragons p. 161</description>
     <environment/>
   </monster>
   <monster>
-    <name>Adult Crystal Dragon</name>
+    <name>Adult Crystal Dragon [Legacy]</name>
     <sortname>Crystal Dragon, Adult</sortname>
     <ancestry>Crystal Dragon</ancestry>
     <size>H</size>
@@ -426,7 +426,7 @@ Source:	Fizban's Treasury of Dragons p. 171</description>
     <environment/>
   </monster>
   <monster>
-    <name>Adult Deep Dragon</name>
+    <name>Adult Deep Dragon [Legacy]</name>
     <sortname>Deep Dragon, Adult</sortname>
     <ancestry>Deep Dragon</ancestry>
     <size>H</size>
@@ -621,7 +621,7 @@ Source:	Fizban's Treasury of Dragons p. 174</description>
     <environment/>
   </monster>
   <monster>
-    <name>Adult Emerald Dragon</name>
+    <name>Adult Emerald Dragon [Legacy]</name>
     <sortname>Emerald Dragon, Adult</sortname>
     <ancestry>Emerald Dragon</ancestry>
     <size>H</size>
@@ -844,7 +844,7 @@ Source:	Fizban's Treasury of Dragons p. 196</description>
     <environment/>
   </monster>
   <monster>
-    <name>Adult Moonstone Dragon</name>
+    <name>Adult Moonstone Dragon [Legacy]</name>
     <sortname>Moonstone Dragon, Adult</sortname>
     <ancestry>Moonstone Dragon</ancestry>
     <size>H</size>
@@ -1035,7 +1035,7 @@ Source:	Fizban's Treasury of Dragons p. 212</description>
     <environment/>
   </monster>
   <monster>
-    <name>Adult Sapphire Dragon</name>
+    <name>Adult Sapphire Dragon [Legacy]</name>
     <sortname>Sapphire Dragon, Adult</sortname>
     <ancestry>Sapphire Dragon</ancestry>
     <size>H</size>
@@ -1248,7 +1248,7 @@ Source:	Fizban's Treasury of Dragons p. 215</description>
     <environment/>
   </monster>
   <monster>
-    <name>Adult Topaz Dragon</name>
+    <name>Adult Topaz Dragon [Legacy]</name>
     <sortname>Topaz Dragon, Adult</sortname>
     <ancestry>Topaz Dragon</ancestry>
     <size>H</size>
@@ -1465,7 +1465,7 @@ Source:	Fizban's Treasury of Dragons p. 221</description>
     <environment/>
   </monster>
   <monster>
-    <name>Amethyst Dragon Wyrmling</name>
+    <name>Amethyst Dragon Wyrmling [Legacy]</name>
     <sortname>Amethyst Dragon, Wyrmling</sortname>
     <ancestry>Dragon Wyrmling</ancestry>
     <size>M</size>
@@ -1583,7 +1583,7 @@ Source:	Fizban's Treasury of Dragons p. 160</description>
     <environment/>
   </monster>
   <monster>
-    <name>Amethyst Greatwyrm</name>
+    <name>Amethyst Greatwyrm [Legacy]</name>
     <sortname>Greatwyrm, Amethyst</sortname>
     <ancestry>Greatwyrm</ancestry>
     <size>G</size>
@@ -1695,7 +1695,7 @@ Source:	Fizban's Treasury of Dragons p. 201</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ancient Amethyst Dragon</name>
+    <name>Ancient Amethyst Dragon [Legacy]</name>
     <sortname>Amethyst Dragon, Ancient</sortname>
     <ancestry>Amethyst Dragon</ancestry>
     <size>G</size>
@@ -1906,7 +1906,7 @@ Source:	Fizban's Treasury of Dragons p. 160</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ancient Crystal Dragon</name>
+    <name>Ancient Crystal Dragon [Legacy]</name>
     <sortname>Crystal Dragon, Ancient</sortname>
     <ancestry>Crystal Dragon</ancestry>
     <size>G</size>
@@ -2121,7 +2121,7 @@ Source:	Fizban's Treasury of Dragons p. 170</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ancient Deep Dragon</name>
+    <name>Ancient Deep Dragon [Legacy]</name>
     <sortname>Deep Dragon, Ancient</sortname>
     <ancestry>Deep Dragon</ancestry>
     <size>G</size>
@@ -2317,7 +2317,7 @@ Source:	Fizban's Treasury of Dragons p. 173</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ancient Dragon Turtle</name>
+    <name>Ancient Dragon Turtle [Legacy]</name>
     <sortname>Dragon Turtle, Ancient</sortname>
     <ancestry>Dragon Turtle</ancestry>
     <size>G</size>
@@ -2477,7 +2477,7 @@ Source:	Fizban's Treasury of Dragons p. 191</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ancient Emerald Dragon</name>
+    <name>Ancient Emerald Dragon [Legacy]</name>
     <sortname>Emerald Dragon, Ancient</sortname>
     <ancestry>Emerald Dragon</ancestry>
     <size>G</size>
@@ -2700,7 +2700,7 @@ Source:	Fizban's Treasury of Dragons p. 195</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ancient Moonstone Dragon</name>
+    <name>Ancient Moonstone Dragon [Legacy]</name>
     <sortname>Moonstone Dragon, Ancient</sortname>
     <ancestry>Moonstone Dragon</ancestry>
     <size>G</size>
@@ -2891,7 +2891,7 @@ Source:	Fizban's Treasury of Dragons p. 211</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ancient Sapphire Dragon</name>
+    <name>Ancient Sapphire Dragon [Legacy]</name>
     <sortname>Sapphire Dragon, Ancient</sortname>
     <ancestry>Sapphire Dragon</ancestry>
     <size>G</size>
@@ -3105,7 +3105,7 @@ Source:	Fizban's Treasury of Dragons p. 214</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ancient Sea Serpent</name>
+    <name>Ancient Sea Serpent [Legacy]</name>
     <sortname>Sea Serpent, Ancient</sortname>
     <ancestry>Sea Serpent</ancestry>
     <size>G</size>
@@ -3194,7 +3194,7 @@ Source:	Fizban's Treasury of Dragons p. 219</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ancient Topaz Dragon</name>
+    <name>Ancient Topaz Dragon [Legacy]</name>
     <sortname>Topaz Dragon, Ancient</sortname>
     <ancestry>Topaz Dragon</ancestry>
     <size>G</size>
@@ -3374,7 +3374,7 @@ Source:	Fizban's Treasury of Dragons p. 220</description>
     <environment/>
   </monster>
   <monster>
-    <name>Animated Breath</name>
+    <name>Animated Breath [Legacy]</name>
     <sortname>Animated Object, Breath</sortname>
     <ancestry>Animated Object</ancestry>
     <size>L</size>
@@ -3438,7 +3438,7 @@ Source:	Fizban's Treasury of Dragons p. 163</description>
     <environment/>
   </monster>
   <monster>
-    <name>Aspect of Bahamut</name>
+    <name>Aspect of Bahamut [Legacy]</name>
     <sortname>Bahamut, Aspect</sortname>
     <ancestry>Bahamut</ancestry>
     <size>G</size>
@@ -3547,7 +3547,7 @@ Source:	Fizban's Treasury of Dragons p. 165</description>
     <environment/>
   </monster>
   <monster>
-    <name>Aspect of Tiamat</name>
+    <name>Aspect of Tiamat [Legacy]</name>
     <sortname>Tiamat, Aspect</sortname>
     <ancestry>Tiamat</ancestry>
     <size>G</size>
@@ -3648,7 +3648,7 @@ Source:	Fizban's Treasury of Dragons p. 166</description>
     <environment/>
   </monster>
   <monster>
-    <name>Black Greatwyrm</name>
+    <name>Black Greatwyrm [Legacy]</name>
     <sortname>Greatwyrm, Black</sortname>
     <ancestry>Greatwyrm</ancestry>
     <size>G</size>
@@ -3753,7 +3753,7 @@ Source:	Fizban's Treasury of Dragons p. 168</description>
     <environment/>
   </monster>
   <monster>
-    <name>Blue Greatwyrm</name>
+    <name>Blue Greatwyrm [Legacy]</name>
     <sortname>Greatwyrm, Blue</sortname>
     <ancestry>Greatwyrm</ancestry>
     <size>G</size>
@@ -3862,7 +3862,7 @@ Source:	Fizban's Treasury of Dragons p. 168</description>
     <environment/>
   </monster>
   <monster>
-    <name>Brass Greatwyrm</name>
+    <name>Brass Greatwyrm [Legacy]</name>
     <sortname>Greatwyrm, Brass</sortname>
     <ancestry>Greatwyrm</ancestry>
     <size>G</size>
@@ -3974,7 +3974,7 @@ Source:	Fizban's Treasury of Dragons p. 208</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bronze Greatwyrm</name>
+    <name>Bronze Greatwyrm [Legacy]</name>
     <sortname>Greatwyrm, Bronze</sortname>
     <ancestry>Greatwyrm</ancestry>
     <size>G</size>
@@ -4086,7 +4086,7 @@ Source:	Fizban's Treasury of Dragons p. 208</description>
     <environment/>
   </monster>
   <monster>
-    <name>Copper Greatwyrm</name>
+    <name>Copper Greatwyrm [Legacy]</name>
     <sortname>Greatwyrm, Copper</sortname>
     <ancestry>Greatwyrm</ancestry>
     <size>G</size>
@@ -4198,7 +4198,7 @@ Source:	Fizban's Treasury of Dragons p. 208</description>
     <environment/>
   </monster>
   <monster>
-    <name>Crystal Dragon Wyrmling</name>
+    <name>Crystal Dragon Wyrmling [Legacy]</name>
     <sortname>Crystal Dragon, Wyrmling</sortname>
     <ancestry>Crystal Dragon</ancestry>
     <size>M</size>
@@ -4313,7 +4313,7 @@ Source:	Fizban's Treasury of Dragons p. 172</description>
     <environment/>
   </monster>
   <monster>
-    <name>Crystal Greatwyrm</name>
+    <name>Crystal Greatwyrm [Legacy]</name>
     <sortname>Greatwyrm, Crystal</sortname>
     <ancestry>Greatwyrm</ancestry>
     <size>G</size>
@@ -4425,7 +4425,7 @@ Source:	Fizban's Treasury of Dragons p. 201</description>
     <environment/>
   </monster>
   <monster>
-    <name>Deep Dragon Wyrmling</name>
+    <name>Deep Dragon Wyrmling [Legacy]</name>
     <sortname>Deep Dragon, Wyrmling</sortname>
     <ancestry>Deep Dragon</ancestry>
     <size>M</size>
@@ -4477,7 +4477,7 @@ Source:	Fizban's Treasury of Dragons p. 175</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dracohydra</name>
+    <name>Dracohydra [Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>typically chaotic evil</alignment>
@@ -4540,7 +4540,7 @@ Source:	Fizban's Treasury of Dragons p. 176</description>
     <environment/>
   </monster>
   <monster>
-    <name>Draconian Dreadnought</name>
+    <name>Draconian Dreadnought [Legacy]</name>
     <sortname>Draconian, Dreadnought</sortname>
     <size>L</size>
     <type>monstrosity</type>
@@ -4601,7 +4601,7 @@ Source:	Fizban's Treasury of Dragons p. 177</description>
     <environment/>
   </monster>
   <monster>
-    <name>Draconian Foot Soldier</name>
+    <name>Draconian Foot Soldier [Legacy]</name>
     <sortname>Draconian, Foot Soldier</sortname>
     <size>M</size>
     <type>monstrosity</type>
@@ -4655,7 +4655,7 @@ Source:	Fizban's Treasury of Dragons p. 178</description>
     <environment/>
   </monster>
   <monster>
-    <name>Draconian Infiltrator</name>
+    <name>Draconian Infiltrator [Legacy]</name>
     <sortname>Draconian, Infiltrator</sortname>
     <size>M</size>
     <type>monstrosity</type>
@@ -4714,7 +4714,7 @@ Source:	Fizban's Treasury of Dragons p. 178</description>
     <environment/>
   </monster>
   <monster>
-    <name>Draconian Mage</name>
+    <name>Draconian Mage [Legacy]</name>
     <sortname>Draconian, Mage</sortname>
     <size>M</size>
     <type>monstrosity</type>
@@ -4784,7 +4784,7 @@ Source:	Fizban's Treasury of Dragons p. 179</description>
     <environment/>
   </monster>
   <monster>
-    <name>Draconian Mastermind</name>
+    <name>Draconian Mastermind [Legacy]</name>
     <sortname>Draconian, Mastermind</sortname>
     <size>M</size>
     <type>monstrosity</type>
@@ -4862,7 +4862,7 @@ Source:	Fizban's Treasury of Dragons p. 180</description>
     <environment/>
   </monster>
   <monster>
-    <name>Draconic Shard</name>
+    <name>Draconic Shard [Legacy]</name>
     <size>H</size>
     <type>undead</type>
     <alignment>typically neutral</alignment>
@@ -4970,7 +4970,7 @@ Source:	Fizban's Treasury of Dragons p. 181</description>
     <environment/>
   </monster>
   <monster>
-    <name>Draconic Spirit</name>
+    <name>Draconic Spirit [Legacy]</name>
     <size>L</size>
     <type>dragon</type>
     <alignment>Neutral</alignment>
@@ -5025,7 +5025,7 @@ Source:	Fizban's Treasury of Dragons p. 181</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dragon Blessed</name>
+    <name>Dragon Blessed [Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -5087,7 +5087,7 @@ Source:	Fizban's Treasury of Dragons p. 188</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dragon Chosen</name>
+    <name>Dragon Chosen [Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -5142,7 +5142,7 @@ Source:	Fizban's Treasury of Dragons p. 189</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dragon Speaker</name>
+    <name>Dragon Speaker [Legacy]</name>
     <size>S</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -5201,7 +5201,7 @@ Source:	Fizban's Treasury of Dragons p. 189</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dragon Turtle Wyrmling</name>
+    <name>Dragon Turtle Wyrmling [Legacy]</name>
     <sortname>Dragon Turtle, Wyrmling</sortname>
     <ancestry>Dragon Turtle</ancestry>
     <size>L</size>
@@ -5300,7 +5300,7 @@ Source:	Fizban's Treasury of Dragons p. 192</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dragonblood Ooze</name>
+    <name>Dragonblood Ooze [Legacy]</name>
     <sortname>Ooze, Dragonblood</sortname>
     <ancestry>Ooze</ancestry>
     <size>L</size>
@@ -5361,7 +5361,7 @@ Source:	Fizban's Treasury of Dragons p. 182</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dragonbone Golem</name>
+    <name>Dragonbone Golem [Legacy]</name>
     <sortname>Golem, Dragonbone</sortname>
     <ancestry>Golem</ancestry>
     <size>L</size>
@@ -5429,7 +5429,7 @@ Source:	Fizban's Treasury of Dragons p. 183</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dragonborn of Bahamut</name>
+    <name>Dragonborn of Bahamut [Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>typically lawful good</alignment>
@@ -5495,7 +5495,7 @@ Source:	Fizban's Treasury of Dragons p. 184</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dragonborn of Sardior</name>
+    <name>Dragonborn of Sardior [Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>typically neutral</alignment>
@@ -5567,7 +5567,7 @@ Source:	Fizban's Treasury of Dragons p. 185</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dragonborn of Tiamat</name>
+    <name>Dragonborn of Tiamat [Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>typically chaotic evil</alignment>
@@ -5625,7 +5625,7 @@ Source:	Fizban's Treasury of Dragons p. 185</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dragonflesh Abomination</name>
+    <name>Dragonflesh Abomination [Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>typically neutral evil</alignment>
@@ -5697,7 +5697,7 @@ Source:	Fizban's Treasury of Dragons p. 187</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dragonflesh Grafter</name>
+    <name>Dragonflesh Grafter [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>typically neutral evil</alignment>
@@ -5754,7 +5754,7 @@ Source:	Fizban's Treasury of Dragons p. 186</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dragonnel</name>
+    <name>Dragonnel [Legacy]</name>
     <size>L</size>
     <type>dragon</type>
     <alignment>typically neutral</alignment>
@@ -5804,7 +5804,7 @@ Source:	Fizban's Treasury of Dragons p. 190</description>
     <environment/>
   </monster>
   <monster>
-    <name>Drake Companion</name>
+    <name>Drake Companion [Legacy]</name>
     <size>S</size>
     <type>dragon</type>
     <alignment>Unaligned</alignment>
@@ -5860,7 +5860,7 @@ Source:	Fizban's Treasury of Dragons p. 190</description>
     <environment/>
   </monster>
   <monster>
-    <name>Egg Hunter Adult</name>
+    <name>Egg Hunter Adult [Legacy]</name>
     <sortname>Egg Hunter, Adult</sortname>
     <ancestry>Egg Hunter</ancestry>
     <size>S</size>
@@ -5926,7 +5926,7 @@ Source:	Fizban's Treasury of Dragons p. 193</description>
     <environment/>
   </monster>
   <monster>
-    <name>Egg Hunter Hatchling</name>
+    <name>Egg Hunter Hatchling [Legacy]</name>
     <sortname>Egg Hunter, Hatchling</sortname>
     <ancestry>Egg Hunter</ancestry>
     <size>T</size>
@@ -5982,7 +5982,7 @@ Source:	Fizban's Treasury of Dragons p. 193</description>
     <environment/>
   </monster>
   <monster>
-    <name>Elder Brain Dragon</name>
+    <name>Elder Brain Dragon [Legacy]</name>
     <sortname>Elder Brain, Dragon</sortname>
     <ancestry>Elder Brain</ancestry>
     <size>G</size>
@@ -6075,7 +6075,7 @@ Source:	Fizban's Treasury of Dragons p. 194</description>
     <environment/>
   </monster>
   <monster>
-    <name>Emerald Dragon Wyrmling</name>
+    <name>Emerald Dragon Wyrmling [Legacy]</name>
     <sortname>Emerald Dragon, Wyrmling</sortname>
     <ancestry>Emerald Dragon</ancestry>
     <size>M</size>
@@ -6195,7 +6195,7 @@ Source:	Fizban's Treasury of Dragons p. 197</description>
     <environment/>
   </monster>
   <monster>
-    <name>Emerald Greatwyrm</name>
+    <name>Emerald Greatwyrm [Legacy]</name>
     <sortname>Greatwyrm, Emerald</sortname>
     <ancestry>Greatwyrm</ancestry>
     <size>G</size>
@@ -6307,7 +6307,7 @@ Source:	Fizban's Treasury of Dragons p. 201</description>
     <environment/>
   </monster>
   <monster>
-    <name>Eyedrake</name>
+    <name>Eyedrake [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>typically lawful evil</alignment>
@@ -6378,7 +6378,7 @@ Source:	Fizban's Treasury of Dragons p. 199</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gem Stalker</name>
+    <name>Gem Stalker [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>typically neutral</alignment>
@@ -6450,7 +6450,7 @@ Source:	Fizban's Treasury of Dragons p. 202</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ghost Dragon</name>
+    <name>Ghost Dragon [Legacy]</name>
     <sortname>Dragon, Ghost</sortname>
     <ancestry>Dragon</ancestry>
     <size>H</size>
@@ -6522,7 +6522,7 @@ Source:	Fizban's Treasury of Dragons p. 203</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Canary</name>
+    <name>Giant Canary [Legacy]</name>
     <sortname>Canary, Giant</sortname>
     <ancestry>Giant Animal, Canary</ancestry>
     <size>L</size>
@@ -6558,7 +6558,7 @@ Source:	Fizban's Treasury of Dragons p. 203</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gold Greatwyrm</name>
+    <name>Gold Greatwyrm [Legacy]</name>
     <sortname>Greatwyrm, Gold</sortname>
     <ancestry>Greatwyrm</ancestry>
     <size>G</size>
@@ -6671,7 +6671,7 @@ Source:	Fizban's Treasury of Dragons p. 208</description>
     <environment/>
   </monster>
   <monster>
-    <name>Green Greatwyrm</name>
+    <name>Green Greatwyrm [Legacy]</name>
     <sortname>Greatwyrm, Green</sortname>
     <ancestry>Greatwyrm</ancestry>
     <size>G</size>
@@ -6777,7 +6777,7 @@ Source:	Fizban's Treasury of Dragons p. 168</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hoard Mimic</name>
+    <name>Hoard Mimic [Legacy]</name>
     <sortname>Mimic, Hoard</sortname>
     <ancestry>Mimic</ancestry>
     <size>H</size>
@@ -6845,7 +6845,7 @@ Source:	Fizban's Treasury of Dragons p. 204</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hoard Scarab</name>
+    <name>Hoard Scarab [Legacy]</name>
     <sortname>Scarab, Hoard</sortname>
     <ancestry>Scarab</ancestry>
     <size>T</size>
@@ -6893,7 +6893,7 @@ Source:	Fizban's Treasury of Dragons p. 205</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hollow Dragon</name>
+    <name>Hollow Dragon [Legacy]</name>
     <sortname>Dragon, Hollow</sortname>
     <ancestry>Dragon</ancestry>
     <size>H</size>
@@ -6985,7 +6985,7 @@ Source:	Fizban's Treasury of Dragons p. 206</description>
     <environment/>
   </monster>
   <monster>
-    <name>Liondrake</name>
+    <name>Liondrake [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>typically neutral</alignment>
@@ -7037,7 +7037,7 @@ Source:	Fizban's Treasury of Dragons p. 207</description>
     <environment/>
   </monster>
   <monster>
-    <name>Metallic Peacekeeper</name>
+    <name>Metallic Peacekeeper [Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>typically neutral good</alignment>
@@ -7093,7 +7093,7 @@ Source:	Fizban's Treasury of Dragons p. 210</description>
     <environment/>
   </monster>
   <monster>
-    <name>Metallic Warbler</name>
+    <name>Metallic Warbler [Legacy]</name>
     <size>T</size>
     <type>construct</type>
     <alignment>typically neutral good</alignment>
@@ -7146,7 +7146,7 @@ Source:	Fizban's Treasury of Dragons p. 210</description>
     <environment/>
   </monster>
   <monster>
-    <name>Moonstone Dragon Wyrmling</name>
+    <name>Moonstone Dragon Wyrmling [Legacy]</name>
     <sortname>Moonstone Dragon, Wyrmling</sortname>
     <ancestry>Moonstone Dragon</ancestry>
     <size>M</size>
@@ -7250,7 +7250,7 @@ Source:	Fizban's Treasury of Dragons p. 213</description>
     <environment/>
   </monster>
   <monster>
-    <name>Red Greatwyrm</name>
+    <name>Red Greatwyrm [Legacy]</name>
     <sortname>Greatwyrm, Red</sortname>
     <ancestry>Greatwyrm</ancestry>
     <size>G</size>
@@ -7356,7 +7356,7 @@ Source:	Fizban's Treasury of Dragons p. 168</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sapphire Dragon Wyrmling</name>
+    <name>Sapphire Dragon Wyrmling [Legacy]</name>
     <sortname>Sapphire Dragon, Wyrmling</sortname>
     <ancestry>Sapphire Dragon</ancestry>
     <size>M</size>
@@ -7479,7 +7479,7 @@ Source:	Fizban's Treasury of Dragons p. 216</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sapphire Greatwyrm</name>
+    <name>Sapphire Greatwyrm [Legacy]</name>
     <sortname>Greatwyrm, Sapphire</sortname>
     <ancestry>Greatwyrm</ancestry>
     <size>G</size>
@@ -7591,7 +7591,7 @@ Source:	Fizban's Treasury of Dragons p. 201</description>
     <environment/>
   </monster>
   <monster>
-    <name>Silver Greatwyrm</name>
+    <name>Silver Greatwyrm [Legacy]</name>
     <sortname>Greatwyrm, Silver</sortname>
     <ancestry>Greatwyrm</ancestry>
     <size>G</size>
@@ -7704,7 +7704,7 @@ Source:	Fizban's Treasury of Dragons p. 208</description>
     <environment/>
   </monster>
   <monster>
-    <name>Swarm of Hoard Scarabs</name>
+    <name>Swarm of Hoard Scarabs [Legacy]</name>
     <sortname>Hoard Scarab, Swarm</sortname>
     <ancestry>Scarab</ancestry>
     <size>T</size>
@@ -7757,7 +7757,7 @@ Source:	Fizban's Treasury of Dragons p. 205</description>
     <environment/>
   </monster>
   <monster>
-    <name>Topaz Dragon Wyrmling</name>
+    <name>Topaz Dragon Wyrmling [Legacy]</name>
     <sortname>Topaz Dragon, Wyrmling</sortname>
     <ancestry>Topaz Dragon</ancestry>
     <size>M</size>
@@ -7876,7 +7876,7 @@ Source:	Fizban's Treasury of Dragons p. 223</description>
     <environment/>
   </monster>
   <monster>
-    <name>Topaz Greatwyrm</name>
+    <name>Topaz Greatwyrm [Legacy]</name>
     <sortname>Greatwyrm, Topaz</sortname>
     <ancestry>Greatwyrm</ancestry>
     <size>G</size>
@@ -7987,7 +7987,7 @@ Source:	Fizban's Treasury of Dragons p. 201</description>
     <environment/>
   </monster>
   <monster>
-    <name>White Greatwyrm</name>
+    <name>White Greatwyrm [Legacy]</name>
     <sortname>Greatwyrm, White</sortname>
     <ancestry>Greatwyrm</ancestry>
     <size>G</size>
@@ -8093,7 +8093,7 @@ Source:	Fizban's Treasury of Dragons p. 168</description>
     <environment/>
   </monster>
   <monster>
-    <name>Young Amethyst Dragon</name>
+    <name>Young Amethyst Dragon [Legacy]</name>
     <sortname>Amethyst Dragon, Young</sortname>
     <ancestry>Amethyst Dragon</ancestry>
     <size>L</size>
@@ -8219,7 +8219,7 @@ Source:	Fizban's Treasury of Dragons p. 161</description>
     <environment/>
   </monster>
   <monster>
-    <name>Young Crystal Dragon</name>
+    <name>Young Crystal Dragon [Legacy]</name>
     <sortname>Crystal Dragon, Young</sortname>
     <ancestry>Crystal Dragon</ancestry>
     <size>L</size>
@@ -8342,7 +8342,7 @@ Source:	Fizban's Treasury of Dragons p. 172</description>
     <environment/>
   </monster>
   <monster>
-    <name>Young Deep Dragon</name>
+    <name>Young Deep Dragon [Legacy]</name>
     <sortname>Deep Dragon, Young</sortname>
     <ancestry>Deep Dragon</ancestry>
     <size>L</size>
@@ -8447,7 +8447,7 @@ Source:	Fizban's Treasury of Dragons p. 175</description>
     <environment/>
   </monster>
   <monster>
-    <name>Young Dragon Turtle</name>
+    <name>Young Dragon Turtle [Legacy]</name>
     <sortname>Dragon Turtle, Young</sortname>
     <ancestry>Dragon Turtle</ancestry>
     <size>H</size>
@@ -8506,7 +8506,7 @@ Source:	Fizban's Treasury of Dragons p. 192</description>
     <environment/>
   </monster>
   <monster>
-    <name>Young Emerald Dragon</name>
+    <name>Young Emerald Dragon [Legacy]</name>
     <sortname>Emerald Dragon, Young</sortname>
     <ancestry>Emerald Dragon</ancestry>
     <size>L</size>
@@ -8633,7 +8633,7 @@ Source:	Fizban's Treasury of Dragons p. 197</description>
     <environment/>
   </monster>
   <monster>
-    <name>Young Moonstone Dragon</name>
+    <name>Young Moonstone Dragon [Legacy]</name>
     <sortname>Moonstone Dragon, Young</sortname>
     <ancestry>Moonstone Dragon</ancestry>
     <size>L</size>
@@ -8751,7 +8751,7 @@ Source:	Fizban's Treasury of Dragons p. 213</description>
     <environment/>
   </monster>
   <monster>
-    <name>Young Sapphire Dragon</name>
+    <name>Young Sapphire Dragon [Legacy]</name>
     <sortname>Sapphire Dragon, Young</sortname>
     <ancestry>Sapphire Dragon</ancestry>
     <size>L</size>
@@ -8881,7 +8881,7 @@ Source:	Fizban's Treasury of Dragons p. 216</description>
     <environment/>
   </monster>
   <monster>
-    <name>Young Sea Serpent</name>
+    <name>Young Sea Serpent [Legacy]</name>
     <sortname>Sea Serpent, Young</sortname>
     <ancestry>Sea Serpent</ancestry>
     <size>H</size>
@@ -8943,7 +8943,7 @@ Source:	Fizban's Treasury of Dragons p. 216</description>
     <environment/>
   </monster>
   <monster>
-    <name>Young Topaz Dragon</name>
+    <name>Young Topaz Dragon [Legacy]</name>
     <sortname>Topaz Dragon, Young</sortname>
     <ancestry>Topaz Dragon</ancestry>
     <size>L</size>

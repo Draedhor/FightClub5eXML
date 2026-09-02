@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Aerisi Kalinoth</name>
+    <name>Aerisi Kalinoth [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf)</type>
@@ -78,7 +78,7 @@ Source:	Princes of the Apocalypse p. 192</description>
     <environment/>
   </monster>
   <monster>
-    <name>Aquatic Ghoul</name>
+    <name>Aquatic Ghoul [Legacy]</name>
     <sortname>Ghoul, Aquatic</sortname>
     <ancestry>Ghoul</ancestry>
     <size>M</size>
@@ -117,7 +117,7 @@ Source:	Princes of the Apocalypse p. 192</description>
     <environment>underdark, swamp, urban</environment>
   </monster>
   <monster>
-    <name>Bastian Thermandar</name>
+    <name>Bastian Thermandar [Legacy]</name>
     <sortname>Thermandar, Bastian</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -175,7 +175,7 @@ Source:	Princes of the Apocalypse p. 201</description>
     <environment/>
   </monster>
   <monster>
-    <name>Black Earth Guard</name>
+    <name>Black Earth Guard [Legacy]</name>
     <sortname>Guard, Black Earth</sortname>
     <ancestry>Guard</ancestry>
     <size>M</size>
@@ -221,7 +221,7 @@ Source:	Princes of the Apocalypse p. 195</description>
     <environment/>
   </monster>
   <monster>
-    <name>Black Earth Priest</name>
+    <name>Black Earth Priest [Legacy]</name>
     <sortname>Priest, Black Earth</sortname>
     <ancestry>Priest</ancestry>
     <size>M</size>
@@ -276,7 +276,7 @@ Source:	Princes of the Apocalypse p. 195</description>
     <environment/>
   </monster>
   <monster>
-    <name>Braelen Hatherhand</name>
+    <name>Braelen Hatherhand [Legacy]</name>
     <sortname>Hatherhand, Braelen</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -310,7 +310,7 @@ Source:	Princes of the Apocalypse p. 195</description>
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Bronzefume</name>
+    <name>Bronzefume [Legacy]</name>
     <size>G</size>
     <type>dragon</type>
     <alignment>Neutral</alignment>
@@ -366,7 +366,7 @@ Source:	Princes of the Apocalypse p. 195</description>
     <environment>underwater, coastal</environment>
   </monster>
   <monster>
-    <name>Burrowshark</name>
+    <name>Burrowshark [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -415,7 +415,7 @@ Source:	Princes of the Apocalypse p. 196</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cavil Zaltobar</name>
+    <name>Cavil Zaltobar [Legacy]</name>
     <sortname>Zaltobar, Cavil</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -466,7 +466,7 @@ Source:	Princes of the Apocalypse p. 196</description>
     <environment/>
   </monster>
   <monster>
-    <name>Crushing Wave Priest</name>
+    <name>Crushing Wave Priest [Legacy]</name>
     <sortname>Priest, Crushing Wave</sortname>
     <ancestry>Priest</ancestry>
     <npc>YES</npc>
@@ -514,7 +514,7 @@ Source:	Princes of the Apocalypse p. 205</description>
     <environment/>
   </monster>
   <monster>
-    <name>Crushing Wave Reaver</name>
+    <name>Crushing Wave Reaver [Legacy]</name>
     <sortname>Reaver, Crushing Wave</sortname>
     <ancestry>Reaver</ancestry>
     <npc>YES</npc>
@@ -558,7 +558,7 @@ Source:	Princes of the Apocalypse p. 205</description>
     <environment/>
   </monster>
   <monster>
-    <name>Darathra Shendrel</name>
+    <name>Darathra Shendrel [Legacy]</name>
     <sortname>Shendrel, Darathra</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -614,7 +614,7 @@ Source:	Princes of the Apocalypse p. 205</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dark Tide Knight</name>
+    <name>Dark Tide Knight [Legacy]</name>
     <sortname>Knight, Dark Tide</sortname>
     <ancestry>Knight</ancestry>
     <npc>YES</npc>
@@ -675,7 +675,7 @@ Source:	Princes of the Apocalypse p. 205,
     <environment/>
   </monster>
   <monster>
-    <name>Deseyna Majarra</name>
+    <name>Deseyna Majarra [Legacy]</name>
     <sortname>Majarra, Deseyna</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -713,7 +713,7 @@ Source:	Princes of the Apocalypse p. 205,
     <environment/>
   </monster>
   <monster>
-    <name>Drannin Splithelm</name>
+    <name>Drannin Splithelm [Legacy]</name>
     <sortname>Splithelm, Drannin</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -782,7 +782,7 @@ Source:	Princes of the Apocalypse p. 210</description>
     <environment/>
   </monster>
   <monster>
-    <name>Elizar Dryflagon</name>
+    <name>Elizar Dryflagon [Legacy]</name>
     <sortname>Dryflagon, Elizar</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -835,7 +835,7 @@ Source:	Princes of the Apocalypse p. 202</description>
     <environment/>
   </monster>
   <monster>
-    <name>Emberhorn Minotaur</name>
+    <name>Emberhorn Minotaur [Legacy]</name>
     <sortname>Minotaur, Emberhorn</sortname>
     <ancestry>Minotaur</ancestry>
     <size>L</size>
@@ -892,7 +892,7 @@ Source:	Princes of the Apocalypse p. 202</description>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Eternal Flame Guardian</name>
+    <name>Eternal Flame Guardian [Legacy]</name>
     <sortname>Flame Guardian, Eternal</sortname>
     <ancestry>Flame Guardian</ancestry>
     <npc>YES</npc>
@@ -943,7 +943,7 @@ Source:	Princes of the Apocalypse p. 200</description>
     <environment/>
   </monster>
   <monster>
-    <name>Eternal Flame Priest</name>
+    <name>Eternal Flame Priest [Legacy]</name>
     <sortname>Priest, Flame Guardian</sortname>
     <ancestry>Priest, Flame Guardian</ancestry>
     <npc>YES</npc>
@@ -991,7 +991,7 @@ Source:	Princes of the Apocalypse p. 200</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fathomer</name>
+    <name>Fathomer [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -1054,7 +1054,7 @@ Source:	Princes of the Apocalypse p. 207,
     <environment/>
   </monster>
   <monster>
-    <name>Feathergale Knight</name>
+    <name>Feathergale Knight [Legacy]</name>
     <sortname>Knight, Feathergale</sortname>
     <ancestry>Knight</ancestry>
     <npc>YES</npc>
@@ -1113,7 +1113,7 @@ Source:	Princes of the Apocalypse p. 189</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fennor</name>
+    <name>Fennor [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -1150,7 +1150,7 @@ Source:	Princes of the Apocalypse p. 189</description>
     <environment/>
   </monster>
   <monster>
-    <name>Flamewrath</name>
+    <name>Flamewrath [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -1201,7 +1201,7 @@ Source:	Princes of the Apocalypse p. 201</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gar Shatterkeel</name>
+    <name>Gar Shatterkeel [Legacy]</name>
     <sortname>Shatterkeel, Gar</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1301,7 +1301,7 @@ Source:	Princes of the Apocalypse p. 208</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ghald</name>
+    <name>Ghald [Legacy]</name>
     <npc>YES</npc>
     <size>L</size>
     <type>humanoid (sahuagin)</type>
@@ -1370,7 +1370,7 @@ Source:	Princes of the Apocalypse p. 210</description>
     <environment/>
   </monster>
   <monster>
-    <name>Grumink the Renegade</name>
+    <name>Grumink the Renegade [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -1427,7 +1427,7 @@ Source:	Princes of the Apocalypse p. 210</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hellenrae</name>
+    <name>Hellenrae [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -1489,7 +1489,7 @@ Source:	Princes of the Apocalypse p. 198</description>
     <environment/>
   </monster>
   <monster>
-    <name>Howling Hatred Initiate</name>
+    <name>Howling Hatred Initiate [Legacy]</name>
     <sortname>Initiate, Howling Hated</sortname>
     <ancestry>Initiate</ancestry>
     <npc>YES</npc>
@@ -1537,7 +1537,7 @@ Source:	Princes of the Apocalypse p. 190</description>
     <environment/>
   </monster>
   <monster>
-    <name>Howling Hatred Priest</name>
+    <name>Howling Hatred Priest [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -1600,7 +1600,7 @@ Source:	Princes of the Apocalypse p. 190</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hurricane</name>
+    <name>Hurricane [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -1663,7 +1663,7 @@ Source:	Princes of the Apocalypse p. 191</description>
     <environment/>
   </monster>
   <monster>
-    <name>Imix</name>
+    <name>Imix [Legacy]</name>
     <size>H</size>
     <type>elemental</type>
     <alignment>Neutral Evil</alignment>
@@ -1789,7 +1789,7 @@ Source:	Princes of the Apocalypse p. 214</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lyzandra "Lyzzie" Calderos</name>
+    <name>Lyzandra "Lyzzie" Calderos [Legacy]</name>
     <sortname>Calderos, Lyzandra "Lyzzie"</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1840,7 +1840,7 @@ Source:	Princes of the Apocalypse p. 214</description>
     <environment/>
   </monster>
   <monster>
-    <name>Maegla Tarnlar</name>
+    <name>Maegla Tarnlar [Legacy]</name>
     <sortname>Tarnlar, Maegla</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1874,7 +1874,7 @@ Source:	Princes of the Apocalypse p. 214</description>
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Marlos Urnrayle</name>
+    <name>Marlos Urnrayle [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -1949,7 +1949,7 @@ Source:	Princes of the Apocalypse p. 199</description>
     <environment/>
   </monster>
   <monster>
-    <name>Miraj Vizann</name>
+    <name>Miraj Vizann [Legacy]</name>
     <sortname>Vizann, Miraj</sortname>
     <size>M</size>
     <type>humanoid (earth genasi)</type>
@@ -2008,7 +2008,7 @@ Source:	Princes of the Apocalypse p. 198</description>
     <environment/>
   </monster>
   <monster>
-    <name>Molten Magma Roper</name>
+    <name>Molten Magma Roper [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -2065,7 +2065,7 @@ Source:	Princes of the Apocalypse p. 198</description>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Nurvureem, The Dark Lady</name>
+    <name>Nurvureem, The Dark Lady [Legacy]</name>
     <size>H</size>
     <type>dragon</type>
     <alignment>Chaotic Evil</alignment>
@@ -2179,7 +2179,7 @@ If the dragon dies, vegetation remains as it has grown, but other effects fade o
     <environment>swamp</environment>
   </monster>
   <monster>
-    <name>Ogrémoch</name>
+    <name>Ogrémoch [Legacy]</name>
     <size>G</size>
     <type>elemental</type>
     <alignment>Neutral Evil</alignment>
@@ -2296,7 +2296,7 @@ Source:	Princes of the Apocalypse p. 216</description>
     <environment/>
   </monster>
   <monster>
-    <name>Olhydra</name>
+    <name>Olhydra [Legacy]</name>
     <size>H</size>
     <type>elemental</type>
     <alignment>Neutral Evil</alignment>
@@ -2419,7 +2419,7 @@ Source:	Princes of the Apocalypse p. 218</description>
     <environment/>
   </monster>
   <monster>
-    <name>One-Eyed Shiver</name>
+    <name>One-Eyed Shiver [Legacy]</name>
     <sortname>Shiver, One-Eyed</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2472,7 +2472,7 @@ Source:	Princes of the Apocalypse p. 218</description>
     <environment/>
   </monster>
   <monster>
-    <name>Oreioth</name>
+    <name>Oreioth [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -2531,7 +2531,7 @@ Source:	Princes of the Apocalypse p. 212</description>
     <environment/>
   </monster>
   <monster>
-    <name>Padraich</name>
+    <name>Padraich [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -2568,7 +2568,7 @@ Source:	Princes of the Apocalypse p. 212</description>
     <environment/>
   </monster>
   <monster>
-    <name>Razerblast</name>
+    <name>Razerblast [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -2617,7 +2617,7 @@ Source:	Princes of the Apocalypse p. 201</description>
     <environment/>
   </monster>
   <monster>
-    <name>Renwick</name>
+    <name>Renwick [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Any Evil Alignment</alignment>
@@ -2710,7 +2710,7 @@ Source:	Princes of the Apocalypse p. 201</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rhundorth</name>
+    <name>Rhundorth [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -2743,7 +2743,7 @@ Source:	Princes of the Apocalypse p. 201</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sacred Stone Monk</name>
+    <name>Sacred Stone Monk [Legacy]</name>
     <sortname>Monk, Sacred Stone</sortname>
     <ancestry>Monk</ancestry>
     <npc>YES</npc>
@@ -2796,7 +2796,7 @@ Source:	Princes of the Apocalypse p. 196</description>
     <environment/>
   </monster>
   <monster>
-    <name>Shoalar Quanderil</name>
+    <name>Shoalar Quanderil [Legacy]</name>
     <sortname>Quanderil, Shoalar</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2854,7 +2854,7 @@ Source:	Princes of the Apocalypse p. 208</description>
     <environment/>
   </monster>
   <monster>
-    <name>Skyweaver</name>
+    <name>Skyweaver [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -2900,7 +2900,7 @@ Source:	Princes of the Apocalypse p. 191</description>
     <environment/>
   </monster>
   <monster>
-    <name>Stone Warrior</name>
+    <name>Stone Warrior [Legacy]</name>
     <sortname>Warrior, Stone</sortname>
     <ancestry>Warrior</ancestry>
     <size>L</size>
@@ -2951,7 +2951,7 @@ Source:	Princes of the Apocalypse p. 191</description>
     <environment/>
   </monster>
   <monster>
-    <name>Stonemelder</name>
+    <name>Stonemelder [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -3004,7 +3004,7 @@ Source:	Princes of the Apocalypse p. 197</description>
     <environment/>
   </monster>
   <monster>
-    <name>Thurl Merosska</name>
+    <name>Thurl Merosska [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -3067,7 +3067,7 @@ Source:	Princes of the Apocalypse p. 192</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tornscale</name>
+    <name>Tornscale [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (lizardfolk)</type>
@@ -3123,7 +3123,7 @@ Source:	Princes of the Apocalypse p. 192</description>
     <environment>forest, swamp</environment>
   </monster>
   <monster>
-    <name>Vanifer</name>
+    <name>Vanifer [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (tiefling)</type>
@@ -3194,7 +3194,7 @@ Source:	Princes of the Apocalypse p. 203</description>
     <environment/>
   </monster>
   <monster>
-    <name>Wiggan Nettlebee</name>
+    <name>Wiggan Nettlebee [Legacy]</name>
     <sortname>Nettlebee, Wiggan</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -3250,7 +3250,7 @@ Source:	Princes of the Apocalypse p. 212</description>
     <environment/>
   </monster>
   <monster>
-    <name>Windharrow</name>
+    <name>Windharrow [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (half-elf)</type>
@@ -3309,7 +3309,7 @@ Source:	Princes of the Apocalypse p. 192</description>
     <environment/>
   </monster>
   <monster>
-    <name>Yan-C-Bin</name>
+    <name>Yan-C-Bin [Legacy]</name>
     <size>H</size>
     <type>elemental</type>
     <alignment>Neutral Evil</alignment>
@@ -3434,7 +3434,7 @@ Source:	Princes of the Apocalypse p. 221</description>
     <environment/>
   </monster>
   <monster>
-    <name>Young Bulette</name>
+    <name>Young Bulette [Legacy]</name>
     <sortname>Bulette, Young</sortname>
     <ancestry>Bulette</ancestry>
     <size>L</size>
@@ -3472,7 +3472,7 @@ Source:	Princes of the Apocalypse p. 221</description>
     <environment>grassland</environment>
   </monster>
   <monster>
-    <name>Young Purple Worm</name>
+    <name>Young Purple Worm [Legacy]</name>
     <sortname>Purple Worm, Young</sortname>
     <ancestry>Purple Worm</ancestry>
     <size>G</size>
@@ -3522,7 +3522,7 @@ Source:	Princes of the Apocalypse p. 221</description>
     <environment>underdark, desert</environment>
   </monster>
   <monster>
-    <name>Zegdar</name>
+    <name>Zegdar [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>

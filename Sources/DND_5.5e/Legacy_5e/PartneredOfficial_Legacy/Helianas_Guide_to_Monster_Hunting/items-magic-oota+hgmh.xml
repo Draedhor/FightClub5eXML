@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Sunwing Light Repeating Crossbow (Uncommon) (TP)</name>
+    <name>Sunwing Light Repeating Crossbow (Uncommon) [TP Legacy]</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -36,7 +36,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 448,
     <roll description="Radiant Damage">3d8</roll>
   </item>
   <item>
-    <name>Sunwing Light Repeating Crossbow (Rare) (TP)</name>
+    <name>Sunwing Light Repeating Crossbow (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement by a spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -75,7 +75,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 448,
     <roll description="Radiant Damage">3d8</roll>
   </item>
   <item>
-    <name>Sunwing Light Repeating Crossbow (Very Rare) (TP)</name>
+    <name>Sunwing Light Repeating Crossbow (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement by a spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -116,7 +116,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 448,
     <roll description="Radiant Damage">6d8</roll>
   </item>
   <item>
-    <name>Gunnspier Hooked Shortspear (Rare) (TP)</name>
+    <name>Gunnspier Hooked Shortspear (Rare) [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -143,7 +143,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 484,
     <roll description="Piercing Damage">4d6</roll>
   </item>
   <item>
-    <name>Gunnspier Hooked Shortspear (Very Rare) (TP)</name>
+    <name>Gunnspier Hooked Shortspear (Very Rare) [TP Legacy]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -171,7 +171,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 484,
     <roll description="Piercing Damage">1d10</roll>
   </item>
   <item>
-    <name>Jaw Breakers Hooked Shortspears (Rare) (TP)</name>
+    <name>Jaw Breakers Hooked Shortspears (Rare) [TP Legacy]</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -201,7 +201,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <roll description="DC">8+%1+%8</roll>
   </item>
   <item>
-    <name>Jaw Breakers Hooked Shortspears (Very Rare) (TP)</name>
+    <name>Jaw Breakers Hooked Shortspears (Very Rare) [TP Legacy]</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>

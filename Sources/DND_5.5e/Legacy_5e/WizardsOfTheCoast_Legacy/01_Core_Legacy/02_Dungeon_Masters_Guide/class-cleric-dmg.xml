@@ -59,43 +59,43 @@ Source:	Dungeon Master's Guide (2014) p. 97</text>
     </autolevel>
   </class>
   <spell>
-    <name>False Life</name>
+    <name>False Life [Legacy]</name>
     <classes>Cleric (Death Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Ray of Sickness</name>
+    <name>Ray of Sickness [Legacy]</name>
     <classes>Cleric (Death Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Blindness/Deafness</name>
+    <name>Blindness/Deafness [Legacy]</name>
     <classes>Cleric (Death Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Ray of Enfeeblement</name>
+    <name>Ray of Enfeeblement [Legacy]</name>
     <classes>Cleric (Death Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Animate Dead</name>
+    <name>Animate Dead [Legacy]</name>
     <classes>Cleric (Death Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Vampiric Touch</name>
+    <name>Vampiric Touch [Legacy]</name>
     <classes>Cleric (Death Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Blight</name>
+    <name>Blight [Legacy]</name>
     <classes>Cleric (Death Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Death Ward</name>
+    <name>Death Ward [Legacy]</name>
     <classes>Cleric (Death Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Antilife Shell</name>
+    <name>Antilife Shell [Legacy]</name>
     <classes>Cleric (Death Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Cloudkill</name>
+    <name>Cloudkill [Legacy]</name>
     <classes>Cleric (Death Domain (Legacy))</classes>
   </spell>
 </compendium>

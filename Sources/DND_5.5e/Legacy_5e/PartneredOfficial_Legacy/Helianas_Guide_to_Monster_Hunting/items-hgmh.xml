@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Polyhedrooze (TP)</name>
+    <name>Polyhedrooze [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -28,7 +28,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 437</text>
     <roll>1d10</roll>
   </item>
   <item>
-    <name>Polyhedrooze (Very Rare) (TP)</name>
+    <name>Polyhedrooze (Very Rare) [TP Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -63,7 +63,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 437</text>
     <roll description="Acid Damage">2d6</roll>
   </item>
   <item>
-    <name>Caltrooze (TP)</name>
+    <name>Caltrooze [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -86,7 +86,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 438</text>
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Flooze (TP)</name>
+    <name>Flooze [TP Legacy]</name>
     <detail>flail, uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -106,7 +106,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 439,
     <roll description="Acid Damage">1d6</roll>
   </item>
   <item>
-    <name>Flooze (Very Rare) (TP)</name>
+    <name>Flooze (Very Rare) [TP Legacy]</name>
     <detail>flail, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -129,7 +129,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 439,
     <roll description="Acid Damage">1d4</roll>
   </item>
   <item>
-    <name>Oozemat Coat (TP)</name>
+    <name>Oozemat Coat [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -142,7 +142,7 @@ Occupational Hazards: While you wear this item, you take half of any damage you 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 440</text>
   </item>
   <item>
-    <name>Goo Luck Dice (TP)</name>
+    <name>Goo Luck Dice [TP Legacy]</name>
     <detail>common (socketable)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -157,7 +157,7 @@ Pimp My Ride: When hung from a Small or larger object (or willing, non-humanoid 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 440</text>
   </item>
   <item>
-    <name>Slime-in-a-Skull (TP)</name>
+    <name>Slime-in-a-Skull [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -169,7 +169,7 @@ Summon Ooze: While holding the skull, you can use an action to expend 1 charge a
 Source:	Heliana's Guide to Monster Hunting - Part One p. 441</text>
   </item>
   <item>
-    <name>Slime-in-a-Skull (Very Rare) (TP)</name>
+    <name>Slime-in-a-Skull (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -182,7 +182,7 @@ Summon Ooze: While holding the skull, you can use an action to expend 1 charge a
 Source:	Heliana's Guide to Monster Hunting - Part One p. 441</text>
   </item>
   <item>
-    <name>Ventilation Unit D-20 (TP)</name>
+    <name>Ventilation Unit D-20 [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -195,7 +195,7 @@ Biomantic Overload: While wearing this helmet, you can use a bonus action to ing
 Source:	Heliana's Guide to Monster Hunting - Part One p. 442</text>
   </item>
   <item>
-    <name>Ring of Birdseye Maple (TP)</name>
+    <name>Ring of Birdseye Maple [TP Legacy]</name>
     <detail>uncommon (optional attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -211,7 +211,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443</text>
     <roll description="Recharge">1d4+1</roll>
   </item>
   <item>
-    <name>Suneater Featherfrond (TP)</name>
+    <name>Suneater Featherfrond [TP Legacy]</name>
     <detail>common (socketable, requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -222,7 +222,7 @@ Sun Torch: As a bonus action, you can light or snuff out the featherfrond. While
 Source:	Heliana's Guide to Monster Hunting - Part One p. 443</text>
   </item>
   <item>
-    <name>Sunfeather Shroud (Uncommon) (TP)</name>
+    <name>Sunfeather Shroud (Uncommon) [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -234,7 +234,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443</text>
     <roll description="Sunstep">1d6</roll>
   </item>
   <item>
-    <name>Sunfeather Shroud (Rare) (TP)</name>
+    <name>Sunfeather Shroud (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -249,7 +249,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443</text>
     <roll description="Sunstep">1d6</roll>
   </item>
   <item>
-    <name>Sunfeather Shroud (Very Rare) (TP)</name>
+    <name>Sunfeather Shroud (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -264,7 +264,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443</text>
     <roll description="Sunstep">1d6</roll>
   </item>
   <item>
-    <name>Mimickey (TP)</name>
+    <name>Mimickey [TP Legacy]</name>
     <detail>common (socketable)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -273,7 +273,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 443</text>
 Source:	Heliana's Guide to Monster Hunting - Part One p. 452</text>
   </item>
   <item>
-    <name>Spelleater Tome (Uncommon) (TP)</name>
+    <name>Spelleater Tome (Uncommon) [TP Legacy]</name>
     <detail>common (socketable)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -286,7 +286,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 452</text>
     <roll description="Recharge">1d4+4</roll>
   </item>
   <item>
-    <name>Spelleater Tome (Rare) (TP)</name>
+    <name>Spelleater Tome (Rare) [TP Legacy]</name>
     <detail>rare (socketable)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -302,7 +302,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 452</text>
     <roll description="Recharge">1d4+4</roll>
   </item>
   <item>
-    <name>Magnetite Horn (TP)</name>
+    <name>Magnetite Horn [TP Legacy]</name>
     <detail>uncommon (socketable)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -315,7 +315,7 @@ Ferrous Worn Item: While you wear the socketed item, when a creature within 5 fe
 Source:	Heliana's Guide to Monster Hunting - Part One p. 455</text>
   </item>
   <item>
-    <name>Shard Crown (Rare) (TP)</name>
+    <name>Shard Crown (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -335,7 +335,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 456</text>
     <roll description="Recharge">1d4+1</roll>
   </item>
   <item>
-    <name>Shard Crown (Very Rare) (TP)</name>
+    <name>Shard Crown (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -358,7 +358,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 456</text>
     <roll description="Recharge">1d4+4</roll>
   </item>
   <item>
-    <name>Shard Crown (Legendary) (TP)</name>
+    <name>Shard Crown (Legendary) [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -383,7 +383,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 456</text>
     <roll description="Recharge">1d4+4</roll>
   </item>
   <item>
-    <name>Snow Wolf Cowl (Uncommon) (TP)</name>
+    <name>Snow Wolf Cowl (Uncommon) [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -400,7 +400,7 @@ You can end this spell early as a bonus action. Once this property of the cowl h
 Source:	Heliana's Guide to Monster Hunting - Part One p. 457</text>
   </item>
   <item>
-    <name>Snow Wolf Cowl (Rare) (TP)</name>
+    <name>Snow Wolf Cowl (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -417,7 +417,7 @@ You can end this spell early as a bonus action. Once this property of the cowl h
 Source:	Heliana's Guide to Monster Hunting - Part One p. 457</text>
   </item>
   <item>
-    <name>Snow Wolf Cowl (Very Rare) (TP)</name>
+    <name>Snow Wolf Cowl (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -437,7 +437,7 @@ You can end this spell early as a bonus action. Once this property of the cowl h
 Source:	Heliana's Guide to Monster Hunting - Part One p. 457</text>
   </item>
   <item>
-    <name>Wyrm's Breath Grenade (TP)</name>
+    <name>Wyrm's Breath Grenade [TP Legacy]</name>
     <detail>rarity varies</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -460,7 +460,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 458</text>
     <roll description="Bludgeoning Damage">4d6</roll>
   </item>
   <item>
-    <name>Infested Cultist's Skull (Uncommon) (TP)</name>
+    <name>Infested Cultist's Skull (Uncommon) [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -477,7 +477,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 459</text>
     <roll description="Necrotic Damage">2d6</roll>
   </item>
   <item>
-    <name>Infested Cultist's Skull (Very Rare) (TP)</name>
+    <name>Infested Cultist's Skull (Very Rare) [TP Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -494,7 +494,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 459</text>
     <roll description="Necrotic Damage">2d6</roll>
   </item>
   <item>
-    <name>Lady's Veil (TP)</name>
+    <name>Lady's Veil [TP Legacy]</name>
     <detail>common (socketable, requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -504,7 +504,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 459</text>
 Source:	Heliana's Guide to Monster Hunting - Part One p. 459</text>
   </item>
   <item>
-    <name>Longspike (Uncommon) (TP)</name>
+    <name>Longspike (Uncommon) [TP Legacy]</name>
     <detail>rapier, uncommon (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -528,7 +528,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 460,
     <roll description="Hyphal Grasp">1d6</roll>
   </item>
   <item>
-    <name>Longspike (Very Rare) (TP)</name>
+    <name>Longspike (Very Rare) [TP Legacy]</name>
     <detail>rapier, very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -557,7 +557,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 460,
     <roll description="Hyphal Grasp">1d6</roll>
   </item>
   <item>
-    <name>Mycelial Cloak (TP)</name>
+    <name>Mycelial Cloak [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -571,7 +571,7 @@ Mycelial Deconstruction: As an action, you can wrap the cloak around yourself, c
 Source:	Heliana's Guide to Monster Hunting - Part One p. 461</text>
   </item>
   <item>
-    <name>Overgrown Barkshield (Uncommon) (TP)</name>
+    <name>Overgrown Barkshield (Uncommon) [TP Legacy]</name>
     <detail>shield, uncommon (requires attunement)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -596,7 +596,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 462,
     <roll description="Piercing Damage">2d8</roll>
   </item>
   <item>
-    <name>Overgrown Barkshield (Rare) (TP)</name>
+    <name>Overgrown Barkshield (Rare) [TP Legacy]</name>
     <detail>shield, rare (requires attunement)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -621,7 +621,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 462,
     <roll description="Piercing Damage">3d8</roll>
   </item>
   <item>
-    <name>Overgrown Barkshield (Very Rare) (TP)</name>
+    <name>Overgrown Barkshield (Very Rare) [TP Legacy]</name>
     <detail>shield, rare (requires attunement)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -646,7 +646,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 462,
     <roll description="Piercing Damage">4d8</roll>
   </item>
   <item>
-    <name>Ring of Fungal Symbiosis (Uncommon) (TP)</name>
+    <name>Ring of Fungal Symbiosis (Uncommon) [TP Legacy]</name>
     <detail>uncommon (optional attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -671,7 +671,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 464</text>
     <roll description="Heal">2d4+2</roll>
   </item>
   <item>
-    <name>Ring of Fungal Symbiosis (Very Rare) (TP)</name>
+    <name>Ring of Fungal Symbiosis (Very Rare) [TP Legacy]</name>
     <detail>uncommon (optional attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -703,7 +703,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 464</text>
     <roll description="Lethargy">1d6</roll>
   </item>
   <item>
-    <name>Broodmother's Embrace (Rare) (TP)</name>
+    <name>Broodmother's Embrace (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -719,7 +719,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 466</text>
     <roll description="Heal">2d6</roll>
   </item>
   <item>
-    <name>Broodmother's Embrace (Very Rare) (TP)</name>
+    <name>Broodmother's Embrace (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -735,7 +735,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 466</text>
     <roll description="Heal">4d6</roll>
   </item>
   <item>
-    <name>Broodmother's Embrace (Legendary) (TP)</name>
+    <name>Broodmother's Embrace (Legendary) [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -752,7 +752,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 466</text>
     <roll description="Heal">4d6</roll>
   </item>
   <item>
-    <name>Broodmother's Eye (TP)</name>
+    <name>Broodmother's Eye [TP Legacy]</name>
     <detail>common (socketable, requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -764,7 +764,7 @@ Intense Stare: The socketed aboleth's eye fixes on a humanoid that you can see w
 Source:	Heliana's Guide to Monster Hunting - Part One p. 468</text>
   </item>
   <item>
-    <name>Broodslinger (Uncommon) (TP)</name>
+    <name>Broodslinger (Uncommon) [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -785,7 +785,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 468</text>
     <roll description="Acid Damage">1d4</roll>
   </item>
   <item>
-    <name>Broodslinger (Rare) (TP)</name>
+    <name>Broodslinger (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -811,7 +811,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 468</text>
     <roll description="Acid Damage">2d4</roll>
   </item>
   <item>
-    <name>Broodslinger (Very Rare) (TP)</name>
+    <name>Broodslinger (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -840,7 +840,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 468</text>
     <roll description="Contagion's Disease">1d6</roll>
   </item>
   <item>
-    <name>Tome of Living Memories (Uncommon) (TP)</name>
+    <name>Tome of Living Memories (Uncommon) [TP Legacy]</name>
     <detail>uncommon (optional attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -861,7 +861,7 @@ OA: Knowing Tome: You can use this tome as a spellbook and an arcane focus. Whil
 Source:	Heliana's Guide to Monster Hunting - Part One p. 470</text>
   </item>
   <item>
-    <name>Tome of Living Memories (Rare) (TP)</name>
+    <name>Tome of Living Memories (Rare) [TP Legacy]</name>
     <detail>rare (optional attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -884,7 +884,7 @@ OA: Knowing Tome: When you cast spells from the Shrouded Spells property using t
 Source:	Heliana's Guide to Monster Hunting - Part One p. 470</text>
   </item>
   <item>
-    <name>Tome of Living Memories (Very Rare) (TP)</name>
+    <name>Tome of Living Memories (Very Rare) [TP Legacy]</name>
     <detail>very rare (optional attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -909,7 +909,7 @@ OA: Knowing Tome: When you cast spells from the Shrouded Spells property using t
 Source:	Heliana's Guide to Monster Hunting - Part One p. 470</text>
   </item>
   <item>
-    <name>Astral Luggage (Uncommon) (TP)</name>
+    <name>Astral Luggage (Uncommon) [TP Legacy]</name>
     <detail>uncommon (optional attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -926,7 +926,7 @@ Special Fastenings: On the luggage are several special buckles, zips, or clips, 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 473</text>
   </item>
   <item>
-    <name>Astral Luggage (Very Rare) (TP)</name>
+    <name>Astral Luggage (Very Rare) [TP Legacy]</name>
     <detail>very rare (optional attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -947,7 +947,7 @@ Special Fastenings: On the luggage are several special buckles, zips, or clips, 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 473</text>
   </item>
   <item>
-    <name>Dreamy the Lucid (TP)</name>
+    <name>Dreamy the Lucid [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -957,7 +957,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 473</text>
 Source:	Heliana's Guide to Monster Hunting - Part One p. 473</text>
   </item>
   <item>
-    <name>Robes of Beaurêve (Rare) (TP)</name>
+    <name>Robes of Beaurêve (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -979,7 +979,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 474</text>
     <roll description="Force Damage">1d10</roll>
   </item>
   <item>
-    <name>Robes of Beaurêve (Legendary) (TP)</name>
+    <name>Robes of Beaurêve (Legendary) [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1006,7 +1006,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 474</text>
     <roll description="Force Damage">1d10</roll>
   </item>
   <item>
-    <name>Second Chance (TP)</name>
+    <name>Second Chance [TP Legacy]</name>
     <detail>uncommon (socketable)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1016,7 +1016,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 474</text>
 Source:	Heliana's Guide to Monster Hunting - Part One p. 475</text>
   </item>
   <item>
-    <name>Claws of Corruption (Uncommon) (TP)</name>
+    <name>Claws of Corruption (Uncommon) [TP Legacy]</name>
     <detail>claw, uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1042,7 +1042,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 476</text>
     <roll description="Necrotic Damage">1d6</roll>
   </item>
   <item>
-    <name>Claws of Corruption (Very Rare) (TP)</name>
+    <name>Claws of Corruption (Very Rare) [TP Legacy]</name>
     <detail>claw, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1071,7 +1071,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 476</text>
     <roll description="Necrotic Damage">2d6</roll>
   </item>
   <item>
-    <name>Collar of the Cat (TP)</name>
+    <name>Collar of the Cat [TP Legacy]</name>
     <detail>common (socketable, requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1080,7 +1080,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 476</text>
 Source:	Heliana's Guide to Monster Hunting - Part One p. 476</text>
   </item>
   <item>
-    <name>Eye of the Tiger (Uncommon) (TP)</name>
+    <name>Eye of the Tiger (Uncommon) [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -1102,7 +1102,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 477</text>
     <roll description="Temporary Hit Points">1d6</roll>
   </item>
   <item>
-    <name>Eye of the Tiger (Very Rare) (TP)</name>
+    <name>Eye of the Tiger (Very Rare) [TP Legacy]</name>
     <detail>very rare</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -1124,7 +1124,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 477</text>
     <roll description="Temporary Hit Points">1d6</roll>
   </item>
   <item>
-    <name>Felinobelix (Rare) (TP)</name>
+    <name>Felinobelix (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1144,7 +1144,7 @@ The devil is always the same individual, who has progressed further in the infer
 Source:	Heliana's Guide to Monster Hunting - Part One p. 478</text>
   </item>
   <item>
-    <name>Felinobelix (Legendary) (TP)</name>
+    <name>Felinobelix (Legendary) [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1165,7 +1165,7 @@ The devil is always the same individual, who has progressed further in the infer
 Source:	Heliana's Guide to Monster Hunting - Part One p. 478</text>
   </item>
   <item>
-    <name>Rolly Turrit (Rare) (TP)</name>
+    <name>Rolly Turrit (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1180,7 +1180,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 481</text>
     <roll description="Heal">2d6</roll>
   </item>
   <item>
-    <name>Crawly Turrit (Very Rare) (TP)</name>
+    <name>Crawly Turrit (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1195,7 +1195,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 481</text>
     <roll description="Heal">2d6</roll>
   </item>
   <item>
-    <name>Dimensional Doorknob (TP)</name>
+    <name>Dimensional Doorknob [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1208,7 +1208,7 @@ Dortal: As an action while holding the doorknob, you can cast the dimension door
 Source:	Heliana's Guide to Monster Hunting - Part One p. 483</text>
   </item>
   <item>
-    <name>Dragonmaw Shield (TP)</name>
+    <name>Dragonmaw Shield [TP Legacy]</name>
     <detail>shield, rare (requires attunement)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -1226,7 +1226,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 483,
     <roll description="Fire Damage">1d10</roll>
   </item>
   <item>
-    <name>Kobbold Flaymefrower (Uncommon) (TP)</name>
+    <name>Kobbold Flaymefrower (Uncommon) [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1249,7 +1249,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 485</text>
     <roll description="Fire Damage">4d6</roll>
   </item>
   <item>
-    <name>Kobbold Flaymefrower (Very Rare) (TP)</name>
+    <name>Kobbold Flaymefrower (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1272,7 +1272,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 485</text>
     <roll description="Fire Damage">4d6</roll>
   </item>
   <item>
-    <name>Kobold Wristbow (TP)</name>
+    <name>Kobold Wristbow [TP Legacy]</name>
     <detail>hand crossbow, common (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1305,7 +1305,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 486,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Magik Oil (TP)</name>
+    <name>Magik Oil [TP Legacy]</name>
     <detail>common (socketable)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1314,7 +1314,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 486,
 Source:	Heliana's Guide to Monster Hunting - Part One p. 486</text>
   </item>
   <item>
-    <name>Tarrobe (Rare) (TP)</name>
+    <name>Tarrobe (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1333,7 +1333,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 489</text>
     <roll description="Spell Reflection">1d8</roll>
   </item>
   <item>
-    <name>Tarrobe (Legendary) (TP)</name>
+    <name>Tarrobe (Legendary) [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1355,7 +1355,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 489</text>
     <roll description="Spell Reflection">1d8</roll>
   </item>
   <item>
-    <name>Tinytar (TP)</name>
+    <name>Tinytar [TP Legacy]</name>
     <detail>common (socketable)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1366,7 +1366,7 @@ Grippy: This small, magical phial contains an animate and excitable tar. When ap
 Source:	Heliana's Guide to Monster Hunting - Part One p. 490</text>
   </item>
   <item>
-    <name>Viscous Symbiote (Rare) (TP)</name>
+    <name>Viscous Symbiote (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1379,7 +1379,7 @@ Malleable Skin: When you make a melee attack on your turn, your reach for it is 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 491</text>
   </item>
   <item>
-    <name>Viscous Symbiote (Very Rare) (TP)</name>
+    <name>Viscous Symbiote (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1395,7 +1395,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 491</text>
     <roll description="Slashing Damage">2d4+%1</roll>
   </item>
   <item>
-    <name>Viscous Symbiote (Legendary) (TP)</name>
+    <name>Viscous Symbiote (Legendary) [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1416,7 +1416,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 491</text>
     <roll description="Piercing Damage">2d8</roll>
   </item>
   <item>
-    <name>Eyes of Googly (TP)</name>
+    <name>Eyes of Googly [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1425,7 +1425,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 491</text>
 Source:	Heliana's Guide to Monster Hunting - Part One p. 492</text>
   </item>
   <item>
-    <name>Grill of Barbecuing (TP)</name>
+    <name>Grill of Barbecuing [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1440,7 +1440,7 @@ Tools for the Job: The grill of barbecuing comes with all the paraphernalia need
 Source:	Heliana's Guide to Monster Hunting - Part One p. 492</text>
   </item>
   <item>
-    <name>Heliana's Guide to Monster Hunting (Uncommon) (TP)</name>
+    <name>Heliana's Guide to Monster Hunting (Uncommon) [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1456,7 +1456,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 492</text>
     <roll description="Bludgeoning Damage">1d6</roll>
   </item>
   <item>
-    <name>Heliana's Guide to Monster Hunting (Very Rare) (TP)</name>
+    <name>Heliana's Guide to Monster Hunting (Very Rare) [TP Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1475,7 +1475,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 492</text>
     <roll description="Bludgeoning Damage">1d6</roll>
   </item>
   <item>
-    <name>L'Arsène's Quadnoculars (TP)</name>
+    <name>L'Arsène's Quadnoculars [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Ambush Drake</name>
+    <name>Ambush Drake [Legacy]</name>
     <sortname>Drake, Ambush</sortname>
     <ancestry>Drake</ancestry>
     <size>M</size>
@@ -44,7 +44,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Azbara Jos</name>
+    <name>Azbara Jos [Legacy]</name>
     <sortname>Jos, Azbara</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -102,7 +102,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Blagothkus</name>
+    <name>Blagothkus [Legacy]</name>
     <size>H</size>
     <type>giant (cloud giant)</type>
     <alignment>Neutral Evil</alignment>
@@ -159,7 +159,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Captain Othelstan</name>
+    <name>Captain Othelstan [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -210,7 +210,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Dragonclaw</name>
+    <name>Dragonclaw [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -261,7 +261,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Dragonwing</name>
+    <name>Dragonwing [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -316,7 +316,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Dralmorrer Borngray</name>
+    <name>Dralmorrer Borngray [Legacy]</name>
     <sortname>Borngray, Dralmorrer</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -382,7 +382,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Frulam Mondath</name>
+    <name>Frulam Mondath [Legacy]</name>
     <sortname>Mondath, Frulam</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -432,7 +432,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Golden Stag</name>
+    <name>Golden Stag [Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -473,7 +473,7 @@
     <environment>grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Guard Drake</name>
+    <name>Guard Drake [Legacy]</name>
     <sortname>Drake, Guard</sortname>
     <ancestry>Drake</ancestry>
     <size>M</size>
@@ -518,7 +518,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Jamna Gleamsilver</name>
+    <name>Jamna Gleamsilver [Legacy]</name>
     <sortname>Gleamsilver, Jamna</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -574,7 +574,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Langdedrosa Cyanwrath</name>
+    <name>Langdedrosa Cyanwrath [Legacy]</name>
     <sortname>Cyanwrath, Langdedrosa</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -632,7 +632,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Leosin Erlanthar</name>
+    <name>Leosin Erlanthar [Legacy]</name>
     <sortname>Erlanthar, Leosin</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -692,7 +692,7 @@
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Linan Swift</name>
+    <name>Linan Swift [Legacy]</name>
     <sortname>Swift, Linan</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -726,7 +726,7 @@
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Ontharr Frume</name>
+    <name>Ontharr Frume [Legacy]</name>
     <sortname>Frume, Ontharr</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -786,7 +786,7 @@
     <environment>desert, urban</environment>
   </monster>
   <monster>
-    <name>Pharblex Spattergoo</name>
+    <name>Pharblex Spattergoo [Legacy]</name>
     <sortname>Spattergoo, Pharblex</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -858,7 +858,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Raggnar Redtooth</name>
+    <name>Raggnar Redtooth [Legacy]</name>
     <sortname>Redtooth, Raggnar</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -906,7 +906,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Rath Modar</name>
+    <name>Rath Modar [Legacy]</name>
     <sortname>Modar, Rath</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -964,7 +964,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Rezmir</name>
+    <name>Rezmir [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (half-black dragon)</type>
@@ -1054,7 +1054,7 @@ A 15-foot radius of magical darkness extends from a point Rezmir can see within 
     <environment/>
   </monster>
   <monster>
-    <name>Sandesyl Morgia</name>
+    <name>Sandesyl Morgia [Legacy]</name>
     <sortname>Morgia, Sandesyl</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1178,7 +1178,7 @@ If the vampire is destroyed, these effects end after 2d6 days.</text>
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Talis the White</name>
+    <name>Talis the White [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (half-elf)</type>
@@ -1238,7 +1238,7 @@ If the vampire is destroyed, these effects end after 2d6 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Trepsin</name>
+    <name>Trepsin [Legacy]</name>
     <size>L</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>

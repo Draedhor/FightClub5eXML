@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Shadow Steel Claymore (TP)</name>
+    <name>Shadow Steel Claymore [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -23,7 +23,7 @@ Source:	Source:	Grim Hollow: Campaign Guide p. 216 (Third Party),
 		Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Shadow Steel Elite Rapier (TP)</name>
+    <name>Shadow Steel Elite Rapier [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -43,7 +43,7 @@ Source:	Source:	Grim Hollow: Campaign Guide p. 216 (Third Party),
 		Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Shadow Steel Knightly Sword (TP)</name>
+    <name>Shadow Steel Knightly Sword [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -69,7 +69,7 @@ Source:	Source:	Grim Hollow: Campaign Guide p. 216 (Third Party),
     <roll description="Increase AC">1d4</roll>
   </item>
   <item>
-    <name>Shadow Steel Sabre (TP)</name>
+    <name>Shadow Steel Sabre [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>

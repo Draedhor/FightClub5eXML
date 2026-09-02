@@ -64,23 +64,23 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 167 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Feather Fall (TP)</name>
+    <name>Feather Fall [TP]</name>
     <classes>Ranger (Urban Ranger (HB))</classes>
   </spell>
   <spell>
-    <name>Invisibility (TP)</name>
+    <name>Invisibility [TP]</name>
     <classes>Ranger (Urban Ranger (HB))</classes>
   </spell>
   <spell>
-    <name>Haste (TP)</name>
+    <name>Haste [TP]</name>
     <classes>Ranger (Urban Ranger (HB))</classes>
   </spell>
   <spell>
-    <name>Dimension Door (TP)</name>
+    <name>Dimension Door [TP]</name>
     <classes>Ranger (Urban Ranger (HB))</classes>
   </spell>
   <spell>
-    <name>Animate Objects (TP)</name>
+    <name>Animate Objects [TP]</name>
     <classes>Ranger (Urban Ranger (HB))</classes>
   </spell>
 </compendium>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Ancestral Guidance (TP)</name>
+    <name>Ancestral Guidance [TP]</name>
     <level>1</level>
     <school>D</school>
     <time>Action</time>
@@ -15,7 +15,7 @@
 Source:	Zamanora: Ballad of the Witch - Core Book v0.9 p. 131 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Begraced Armaments (TP)</name>
+    <name>Begraced Armaments [TP]</name>
     <level>2</level>
     <school>EN</school>
     <time>Action</time>
@@ -28,7 +28,7 @@ Source:	Zamanora: Ballad of the Witch - Core Book v0.9 p. 131 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 131 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bestow Grace (TP)</name>
+    <name>Bestow Grace [TP]</name>
     <level>3</level>
     <school>EN</school>
     <time>Action</time>
@@ -54,7 +54,7 @@ Source:	Zamanora: Ballad of the Witch p. 131 (Homebrew)</text>
     <roll description="Radiant Damage">1d8</roll>
   </spell>
   <spell>
-    <name>Conspiracy of Ravens (TP)</name>
+    <name>Conspiracy of Ravens [TP]</name>
     <level>2</level>
     <school>C</school>
     <time>Action</time>
@@ -70,7 +70,7 @@ Using a Higher-Level Spell Slot: When you cast this spell using a spell slot of 
 Source:	Zamanora: Ballad of the Witch p. 132 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Darkplume Shot (TP)</name>
+    <name>Darkplume Shot [TP]</name>
     <level>1</level>
     <school>C</school>
     <time>Bonus Action</time>
@@ -94,7 +94,7 @@ Source:	Zamanora: Ballad of the Witch p. 132 (Homebrew)</text>
     <roll description="Necrotic Damage" level="9">9d8</roll>
   </spell>
   <spell>
-    <name>Daybreak (TP)</name>
+    <name>Daybreak [TP]</name>
     <level>8</level>
     <school>EV</school>
     <time>Action</time>
@@ -114,7 +114,7 @@ Source:	Zamanora: Ballad of the Witch p. 132 (Homebrew)</text>
     <roll description="Heal">2d10</roll>
   </spell>
   <spell>
-    <name>Deepening Gloom (TP)</name>
+    <name>Deepening Gloom [TP]</name>
     <level>5</level>
     <school>EV</school>
     <time>Action</time>
@@ -128,7 +128,7 @@ Source:	Zamanora: Ballad of the Witch p. 132 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 133 (Homebrew)</text>
   </spell>
   <spell>
-    <name>False Visage (TP)</name>
+    <name>False Visage [TP]</name>
     <level>2</level>
     <school>I</school>
     <time>Reaction, which you take in response to taking damage from a creature that you can see within 60 feet of yourself</time>
@@ -142,7 +142,7 @@ Source:	Zamanora: Ballad of the Witch p. 133 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 133 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Frostwave (TP)</name>
+    <name>Frostwave [TP]</name>
     <level>3</level>
     <school>EV</school>
     <time>Action</time>
@@ -164,7 +164,7 @@ Source:	Zamanora: Ballad of the Witch p. 133 (Homebrew)</text>
     <roll description="Cold Damage" level="9">10d8</roll>
   </spell>
   <spell>
-    <name>Hearthfire Warmth (TP)</name>
+    <name>Hearthfire Warmth [TP]</name>
     <level>3</level>
     <school>EV</school>
     <time>Action</time>
@@ -186,7 +186,7 @@ Source:	Zamanora: Ballad of the Witch p. 134 (Homebrew)</text>
     <roll description="Heal" level="9">8d8+SPELL</roll>
   </spell>
   <spell>
-    <name>Mantle of Dreams (TP)</name>
+    <name>Mantle of Dreams [TP]</name>
     <level>3</level>
     <school>EN</school>
     <time>Action</time>
@@ -202,7 +202,7 @@ Using a Higher-Level Spell Slot: The range increases by 5 feet for each spell sl
 Source:	Zamanora: Ballad of the Witch p. 134 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Moonveil (TP)</name>
+    <name>Moonveil [TP]</name>
     <level>2</level>
     <school>I</school>
     <time>Reaction, which you take in response to seeing a creature within range being targeted by an attack</time>
@@ -216,7 +216,7 @@ Source:	Zamanora: Ballad of the Witch p. 134 (Homebrew)</text>
     <roll description="Radiant Damage">1d10</roll>
   </spell>
   <spell>
-    <name>Outward Gale (TP)</name>
+    <name>Outward Gale [TP]</name>
     <level>4</level>
     <school>EV</school>
     <time>Action</time>
@@ -231,7 +231,7 @@ Source:	Zamanora: Ballad of the Witch p. 134 (Homebrew)</text>
     <roll description="Bludgeoning Damage">4d8</roll>
   </spell>
   <spell>
-    <name>Patchwork Restoration (TP)</name>
+    <name>Patchwork Restoration [TP]</name>
     <level>4</level>
     <school>T</school>
     <time>10 minutes</time>
@@ -244,7 +244,7 @@ Source:	Zamanora: Ballad of the Witch p. 134 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 135 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Pas Seul (TP)</name>
+    <name>Pas Seul [TP]</name>
     <level>1</level>
     <school>EN</school>
     <time>Reaction, which you take when you are hit by an attack roll</time>
@@ -257,7 +257,7 @@ Source:	Zamanora: Ballad of the Witch p. 135 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 136 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Peddler's Bargain (TP)</name>
+    <name>Peddler's Bargain [TP]</name>
     <level>1</level>
     <school>T</school>
     <time>Action</time>
@@ -285,7 +285,7 @@ Source:	Zamanora: Ballad of the Witch p. 136 (Homebrew)</text>
     <roll description="Piercing Damage">1d12+SPELL</roll>
   </spell>
   <spell>
-    <name>Reveal the Trail (TP)</name>
+    <name>Reveal the Trail [TP]</name>
     <level>1</level>
     <school>D</school>
     <time>Action or Ritual</time>
@@ -298,7 +298,7 @@ Source:	Zamanora: Ballad of the Witch p. 136 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 136 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Roaming Embers (TP)</name>
+    <name>Roaming Embers [TP]</name>
     <level>1</level>
     <school>EV</school>
     <time>Action</time>
@@ -322,7 +322,7 @@ Source:	Zamanora: Ballad of the Witch p. 137 (Homebrew)</text>
     <roll description="Fire Damage">1d12</roll>
   </spell>
   <spell>
-    <name>Shield Wall (TP)</name>
+    <name>Shield Wall [TP]</name>
     <level>3</level>
     <school>A</school>
     <time>Reaction, which you take when you or an ally within 5 feet of you are hit by an attack roll or targeted by the Magic Missile spell</time>
@@ -336,7 +336,7 @@ Source:	Zamanora: Ballad of the Witch p. 137 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 137 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Spirit Sense (TP)</name>
+    <name>Spirit Sense [TP]</name>
     <level>4</level>
     <school>D</school>
     <time>Action or Ritual</time>
@@ -349,7 +349,7 @@ Source:	Zamanora: Ballad of the Witch p. 137 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 137 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Summon Oh's Companion (TP)</name>
+    <name>Summon Oh's Companion [TP]</name>
     <level>2</level>
     <school>C</school>
     <time>1 minute</time>
@@ -366,7 +366,7 @@ While Exploring Outdoors. You summon a Poputnik with 5 berries in its pockets in
 Source:	Zamanora: Ballad of the Witch p. 137 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Suncloak (TP)</name>
+    <name>Suncloak [TP]</name>
     <level>2</level>
     <school>EV</school>
     <time>Action</time>
@@ -381,7 +381,7 @@ Source:	Zamanora: Ballad of the Witch p. 138 (Homebrew)</text>
     <roll description="Radiant Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Yorveth's Beacon (TP)</name>
+    <name>Yorveth's Beacon [TP]</name>
     <level>2</level>
     <school>T</school>
     <time>Action or Ritual</time>
@@ -396,7 +396,7 @@ Source:	Zamanora: Ballad of the Witch p. 138 (Homebrew)</text>
 Source:	Zamanora: Ballad of the Witch p. 138 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Warding Cornerstone (TP)</name>
+    <name>Warding Cornerstone [TP]</name>
     <level>1</level>
     <school>A</school>
     <time>Action or Ritual</time>
@@ -416,7 +416,7 @@ Source:	Zamanora: Ballad of the Witch p. 138 (Homebrew)</text>
     <roll description="Psychic Damage">1d8</roll>
   </spell>
   <spell>
-    <name>Woodland Awakening (TP)</name>
+    <name>Woodland Awakening [TP]</name>
     <level>4</level>
     <school>T</school>
     <time>Action</time>

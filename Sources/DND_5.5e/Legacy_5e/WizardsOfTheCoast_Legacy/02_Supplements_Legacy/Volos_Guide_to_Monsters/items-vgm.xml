@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Flensing Claws (Huge)</name>
+    <name>Flensing Claws (Huge) [Legacy]</name>
     <detail>other</detail>
     <type>M</type>
     <dmg1>2d8</dmg1>
@@ -12,7 +12,7 @@
 Source:	Volo's Guide to Monsters p. 81</text>
   </item>
   <item>
-    <name>Flensing Claws (Large)</name>
+    <name>Flensing Claws (Large) [Legacy]</name>
     <detail>other</detail>
     <type>M</type>
     <dmg1>1d12</dmg1>
@@ -23,7 +23,7 @@ Source:	Volo's Guide to Monsters p. 81</text>
 Source:	Volo's Guide to Monsters p. 81</text>
   </item>
   <item>
-    <name>Flensing Claws (Medium)</name>
+    <name>Flensing Claws (Medium) [Legacy]</name>
     <detail>other</detail>
     <type>M</type>
     <dmg1>1d10</dmg1>
@@ -34,7 +34,7 @@ Source:	Volo's Guide to Monsters p. 81</text>
 Source:	Volo's Guide to Monsters p. 81</text>
   </item>
   <item>
-    <name>Flensing Claws (Small)</name>
+    <name>Flensing Claws (Small) [Legacy]</name>
     <detail>other</detail>
     <type>M</type>
     <dmg1>1d8</dmg1>
@@ -45,7 +45,7 @@ Source:	Volo's Guide to Monsters p. 81</text>
 Source:	Volo's Guide to Monsters p. 81</text>
   </item>
   <item>
-    <name>Mind Lash</name>
+    <name>Mind Lash [Legacy]</name>
     <detail>whip, rare (requires attunement by a mind flayer)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -64,7 +64,7 @@ Source:	Volo's Guide to Monsters p. 81</text>
     <roll>2d4</roll>
   </item>
   <item>
-    <name>Shield of Far Sight</name>
+    <name>Shield of Far Sight [Legacy]</name>
     <detail>rare</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -78,7 +78,7 @@ Source:	Volo's Guide to Monsters p. 81</text>
     <roll description="Hours">2d12</roll>
   </item>
   <item>
-    <name>Survival Mantle</name>
+    <name>Survival Mantle [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <weight>40</weight>
@@ -93,7 +93,7 @@ The wearer has disadvantage on Stealth (Dexterity) checks.
 Source:	Volo's Guide to Monsters p. 81</text>
   </item>
   <item>
-    <name>Flensing Claws</name>
+    <name>Flensing Claws [Legacy]</name>
     <detail>other</detail>
     <type>G</type>
     <text>Mind flayer don't always provide their thralls with normal weapons, such as swords and axes. Sometimes they improve the natural capabilities of thralls by giving them new anatomy. Flensing claws take the form of articulated digits that extend into long metal blades. The claws are knitted into the flesh and bones of a creature's arms and can't be removed without surgical amputation.

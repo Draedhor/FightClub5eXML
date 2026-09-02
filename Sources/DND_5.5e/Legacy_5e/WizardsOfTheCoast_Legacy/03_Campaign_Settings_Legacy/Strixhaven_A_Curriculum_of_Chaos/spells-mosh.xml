@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Borrowed Knowledge</name>
+    <name>Borrowed Knowledge [Legacy]</name>
     <level>2</level>
     <school>D</school>
     <time>1 action</time>
@@ -14,7 +14,7 @@
 Source:	Strixhaven: A Curriculum of Chaos p. 37</text>
   </spell>
   <spell>
-    <name>Kinetic Jaunt</name>
+    <name>Kinetic Jaunt [Legacy]</name>
     <level>2</level>
     <school>T</school>
     <time>1 bonus action</time>
@@ -32,7 +32,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 37</text>
     <roll>1d8</roll>
   </spell>
   <spell>
-    <name>Silvery Barbs</name>
+    <name>Silvery Barbs [Legacy]</name>
     <level>1</level>
     <school>EN</school>
     <time>1 reaction, which you take when a creature you can see within 60 feet of yourself succeeds on an attack roll, an ability check, or a saving throw</time>
@@ -46,7 +46,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 37</text>
 Source:	Strixhaven: A Curriculum of Chaos p. 38</text>
   </spell>
   <spell>
-    <name>Vortex Warp</name>
+    <name>Vortex Warp [Legacy]</name>
     <level>2</level>
     <school>C</school>
     <time>1 action</time>
@@ -61,7 +61,7 @@ At Higher Levels: When you cast this spell using a spell slot of 3rd level or hi
 Source:	Strixhaven: A Curriculum of Chaos p. 38</text>
   </spell>
   <spell>
-    <name>Wither and Bloom</name>
+    <name>Wither and Bloom [Legacy]</name>
     <level>2</level>
     <school>N</school>
     <time>1 action</time>

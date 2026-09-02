@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Ranger Trap: Bear Trap</name>
+    <name>Ranger Trap: Bear Trap [TP Legacy]</name>
     <level>0</level>
     <components>M (4 gp of trap-making materials)</components>
     <classes>Ranger (Trapper (Legacy)): Traps</classes>
@@ -13,7 +13,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 188</text>
     <roll description="Piercing Damage">2d8</roll>
   </spell>
   <spell>
-    <name>Ranger Trap: Tanglevine</name>
+    <name>Ranger Trap: Tanglevine [TP Legacy]</name>
     <level>0</level>
     <components>M (1st-level spell slot)</components>
     <duration>1 minute</duration>
@@ -25,7 +25,7 @@ When activated, twisted, knotting roots burst through the ground, creating an ef
 Source:	Heliana's Guide to Monster Hunting - Part One p. 188</text>
   </spell>
   <spell>
-    <name>Ranger Trap: Snare Trap</name>
+    <name>Ranger Trap: Snare Trap [TP Legacy]</name>
     <level>0</level>
     <components>M (2 gp of trap-making materials)</components>
     <classes>Ranger (Trapper (Legacy)): Traps</classes>
@@ -36,7 +36,7 @@ The bear trap's non-lethal cousin, the snare trap, tangles a creature's feet, ca
 Source:	Heliana's Guide to Monster Hunting - Part One p. 188</text>
   </spell>
   <spell>
-    <name>Ranger Trap: Solestriker</name>
+    <name>Ranger Trap: Solestriker [TP Legacy]</name>
     <level>0</level>
     <components>M (1st-level spell slot)</components>
     <duration>1 minute</duration>
@@ -48,7 +48,7 @@ When activated, hard spikes and thorns sprout in a 20-foot-radius circle centere
 Source:	Heliana's Guide to Monster Hunting - Part One p. 188</text>
   </spell>
   <spell>
-    <name>Ranger Trap: Immolation</name>
+    <name>Ranger Trap: Immolation [TP Legacy]</name>
     <level>0</level>
     <components>M (2nd-level spell slot)</components>
     <classes>Ranger (Trapper (Legacy)): Traps</classes>
@@ -60,7 +60,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 188</text>
     <roll description="Fire Damage">6d6</roll>
   </spell>
   <spell>
-    <name>Ranger Trap: Miasma</name>
+    <name>Ranger Trap: Miasma [TP Legacy]</name>
     <level>0</level>
     <components>M (2nd-level spell slot)</components>
     <duration>1 minute</duration>
@@ -73,7 +73,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 188</text>
     <roll description="Poison Damage">3d6</roll>
   </spell>
   <spell>
-    <name>Ranger Trap: Soul Bind</name>
+    <name>Ranger Trap: Soul Bind [TP Legacy]</name>
     <level>0</level>
     <components>M (2nd-level spell slot)</components>
     <classes>Ranger (Trapper (Legacy)): Traps</classes>
@@ -85,7 +85,7 @@ When activated, there is a flare of brilliant octarine light, and each creature 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 188</text>
   </spell>
   <spell>
-    <name>Ranger Trap: Pit Trap</name>
+    <name>Ranger Trap: Pit Trap [TP Legacy]</name>
     <level>0</level>
     <components>M (2 gp of trap-making materials)</components>
     <classes>Ranger (Trapper (Legacy)): Traps</classes>
@@ -99,7 +99,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 189</text>
     <roll description="Piercing Damage">4d8</roll>
   </spell>
   <spell>
-    <name>Ranger Trap: Bewilderment</name>
+    <name>Ranger Trap: Bewilderment [TP Legacy]</name>
     <level>0</level>
     <components>M (3rd-level spell slot)</components>
     <classes>Ranger (Trapper (Legacy)): Traps</classes>
@@ -111,7 +111,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 189</text>
     <roll description="Psychic Damage">3d10</roll>
   </spell>
   <spell>
-    <name>Ranger Trap: Net Trap</name>
+    <name>Ranger Trap: Net Trap [TP Legacy]</name>
     <level>0</level>
     <components>M (10 gp of trap-making materials)</components>
     <classes>Ranger (Trapper (Legacy)): Traps</classes>
@@ -126,7 +126,7 @@ If there is a Huge or larger creature in the trapped area when it triggers, the 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 189</text>
   </spell>
   <spell>
-    <name>Ranger Trap: Thunder Charge</name>
+    <name>Ranger Trap: Thunder Charge [TP Legacy]</name>
     <level>0</level>
     <components>M (3rd-level spell slot)</components>
     <classes>Ranger (Trapper (Legacy)): Traps</classes>
@@ -138,7 +138,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 190</text>
     <roll description="Thunder Damage">8d6</roll>
   </spell>
   <spell>
-    <name>Ranger Trap: Catapult Trap</name>
+    <name>Ranger Trap: Catapult Trap [TP Legacy]</name>
     <level>0</level>
     <components>M (15 gp of trap-making materials)</components>
     <classes>Ranger (Trapper (Legacy)): Traps</classes>
@@ -152,7 +152,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 190</text>
     <roll description="Bludgeoning Damage">6d10</roll>
   </spell>
   <spell>
-    <name>Ranger Trap: Infection</name>
+    <name>Ranger Trap: Infection [TP Legacy]</name>
     <level>0</level>
     <components>M (4th-level spell slot)</components>
     <classes>Ranger (Trapper (Legacy)): Traps</classes>
@@ -163,7 +163,7 @@ When you create this trap, choose one of the diseases from the contagion spell. 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 190</text>
   </spell>
   <spell>
-    <name>Ranger Trap: Snapfrost</name>
+    <name>Ranger Trap: Snapfrost [TP Legacy]</name>
     <level>0</level>
     <components>M (4th-level spell slot)</components>
     <duration>1 minute</duration>
@@ -176,7 +176,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 190</text>
     <roll description="Cold Damage">6d6</roll>
   </spell>
   <spell>
-    <name>Ranger Trap: Banisher</name>
+    <name>Ranger Trap: Banisher [TP Legacy]</name>
     <level>0</level>
     <components>M (5th-level spell slot)</components>
     <duration>1 minute</duration>
@@ -188,7 +188,7 @@ When activated, a 10-foot-radius sphere centered on the trap flares into life, a
 Source:	Heliana's Guide to Monster Hunting - Part One p. 190</text>
   </spell>
   <spell>
-    <name>Ranger Trap: Gravity Well</name>
+    <name>Ranger Trap: Gravity Well [TP Legacy]</name>
     <level>0</level>
     <components>M (5th-level spell slot)</components>
     <duration>1 minute</duration>
@@ -204,191 +204,191 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 190</text>
     <roll description="Force Damage">6d8</roll>
   </spell>
   <spell>
-    <name>Splicer Augment: Water Breathing</name>
+    <name>Splicer Augment: Water Breathing [TP Legacy]</name>
     <level>0</level>
     <school>T</school>
     <components>M (0 Splicer Point)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature can breathe only underwater.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 211</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Amphibious</name>
+    <name>Splicer Augment: Amphibious [TP Legacy]</name>
     <level>0</level>
     <school>T</school>
     <components>M (1 Splicer Point)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature can breathe air and water.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 211</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Darkvision</name>
+    <name>Splicer Augment: Darkvision [TP Legacy]</name>
     <level>0</level>
     <school>T</school>
     <components>M (1 Splicer Point)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature gains darkvision out to 60 feet. If it already has darkvision, the range is increased by 60 feet up to a maximum of 120 feet
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 211</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Extra Limb</name>
+    <name>Splicer Augment: Extra Limb [TP Legacy]</name>
     <level>0</level>
     <school>T</school>
     <components>M (1 Splicer Point per limb)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature gains an additional limb, allowing it to have one additional target grappled. A creature can gain a total of four extra limbs from this augment.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 211</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Fins &amp; Webbing</name>
+    <name>Splicer Augment: Fins &amp; Webbing [TP Legacy]</name>
     <level>0</level>
     <school>T</school>
     <components>M (1 Splicer Point)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature gains a swimming speed of 30 feet. If it already has a slower swimming speed, this speed is increased to 30 feet.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 211</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Illumination</name>
+    <name>Splicer Augment: Illumination [TP Legacy]</name>
     <level>0</level>
     <school>T</school>
     <components>M (1 Splicer Point)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 211</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Keen Hearing</name>
+    <name>Splicer Augment: Keen Hearing [TP Legacy]</name>
     <level>0</level>
     <school>T</school>
     <components>M (1 Splicer Point)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature has advantage on Wisdom (Perception) checks that rely on hearing.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 211</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Keen Sight</name>
+    <name>Splicer Augment: Keen Sight [TP Legacy]</name>
     <level>0</level>
     <school>T</school>
     <components>M (1 Splicer Point)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature has advantage on Wisdom (Perception) checks that rely on sight.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 211</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Keen Smell</name>
+    <name>Splicer Augment: Keen Smell [TP Legacy]</name>
     <level>0</level>
     <school>T</school>
     <components>M (1 Splicer Point)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature has advantage on Wisdom (Perception) checks that rely on smell.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 211</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Powerful Build</name>
+    <name>Splicer Augment: Powerful Build [TP Legacy]</name>
     <level>0</level>
     <school>T</school>
     <components>M (1 Splicer Point)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature counts as one size larger when determining its carrying capacity and the weight it can push, drag, or lift.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 211</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Prehensile Tail</name>
+    <name>Splicer Augment: Prehensile Tail [TP Legacy]</name>
     <level>0</level>
     <school>T</school>
     <components>M (1 Splicer Point)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature gains a climbing speed of 30 feet. If it already has a slower climbing speed, this speed is increased to 30 feet.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 211</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Slippery</name>
+    <name>Splicer Augment: Slippery [TP Legacy]</name>
     <level>0</level>
     <school>T</school>
     <components>M (1 Splicer Point)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature has advantage on ability checks and saving throws made to escape a grapple.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 211</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Sure-Footed</name>
+    <name>Splicer Augment: Sure-Footed [TP Legacy]</name>
     <level>0</level>
     <school>T</school>
     <components>M (1 Splicer Point)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 211</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Web Sense + Web Walk</name>
+    <name>Splicer Augment: Web Sense + Web Walk [TP Legacy]</name>
     <level>0</level>
     <school>T</school>
     <components>M (1 Splicer Point)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>While in contact with a web, the creature knows the exact location of any other creature in contact with the same web. The creature ignores movement restrictions caused by webbing.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 211</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Burrowing Claws</name>
+    <name>Splicer Augment: Burrowing Claws [TP Legacy]</name>
     <level>0</level>
     <school>T</school>
     <components>M (2 Splicer Points)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature gains a burrowing speed of 15 feet. If it already has a slower burrowing speed, this speed is increased to 15 feet. It does not leave an opening behind it while burrowing.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 211</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Long Limbed</name>
+    <name>Splicer Augment: Long Limbed [TP Legacy]</name>
     <level>0</level>
     <school>T</school>
     <components>M (2 Splicer Points)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>When the creature makes a melee attack on its turn, its reach for it is 5 feet greater than normal.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 211</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Mimicry</name>
+    <name>Splicer Augment: Mimicry [TP Legacy]</name>
     <level>0</level>
     <school>T</school>
     <components>M (2 Splicer Points)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful Wisdom (Insight) check. The DC equals 8 plus your proficiency bonus.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 211</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Natural Armor</name>
+    <name>Splicer Augment: Natural Armor [TP Legacy]</name>
     <level>0</level>
     <school>T</school>
     <components>M (2 Splicer Points per 1 AC)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature gains a +1 bonus to its AC. It can take this augment a maximum of 3 times, gaining an additional +1 bonus each time.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 211</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Poisonous Touch</name>
+    <name>Splicer Augment: Poisonous Touch [TP Legacy]</name>
     <level>0</level>
     <school>T</school>
     <components>M (2 Splicer Points)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The first time the creature hits with a weapon attack on its turn, it deals an additional 1d4 poison damage. A creature can take this augment again at 9th level, increasing the bonus to 2d4 poison damage.
 	While a creature has this augment, it can't take the Corrosive Touch or Decaying Touch augments.
 
@@ -397,29 +397,29 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 211</text>
     <roll description="Poison Damage">2d4</roll>
   </spell>
   <spell>
-    <name>Splicer Augment: Spider Climb</name>
+    <name>Splicer Augment: Spider Climb [TP Legacy]</name>
     <level>0</level>
     <school>T</school>
     <components>M (2 Splicer Points)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 211</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Camouflage</name>
+    <name>Splicer Augment: Camouflage [TP Legacy]</name>
     <level>0</level>
     <components>M (3 Splicer Points)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature has advantage on Dexterity (Stealth) checks made while not moving.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 212</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Corrosive Touch</name>
+    <name>Splicer Augment: Corrosive Touch [TP Legacy]</name>
     <level>0</level>
     <components>M (3 Splicer Points)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The first time the creature hits with a weapon attack on its turn, it deals an additional 1d6 acid damage. A creature can take this augment again at 13th level, increasing the bonus to 2d6 acid damage.
 	While a creature has this augment, it can't take the Poisonous Touch or Decaying Touch augments.
 
@@ -428,37 +428,37 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 212</text>
     <roll description="Acid Damage">2d6</roll>
   </spell>
   <spell>
-    <name>Splicer Augment: Tremorsense</name>
+    <name>Splicer Augment: Tremorsense [TP Legacy]</name>
     <level>0</level>
     <components>M (3 Splicer Points pr 15 ft.)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature gains tremorsense out to 15 feet. If it already has tremorsense, the range is increased by 15 feet up to a maximum of 30 feet. A creature with tremorsense can detect and pinpoint the origin of vibrations within a specific radius, provided that the monster and the source of the vibrations are in contact with the same ground or substance. Tremorsense can't be used to detect flying or incorporeal creatures.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 212</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Wings</name>
+    <name>Splicer Augment: Wings [TP Legacy]</name>
     <level>0</level>
     <components>M (3 Splicer Points)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature gains a flying speed of 30 feet. If it already has a slower flying speed, this speed is increased to 30 feet.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 212</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Blindsight + Echolocation</name>
+    <name>Splicer Augment: Blindsight + Echolocation [TP Legacy]</name>
     <level>0</level>
     <components>M (4 Splicer Points per 15 ft.)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature gains blindsight out to 15 feet. If it already has blindsight, the range is increased by 15 feet up to a maximum of 30 feet. A creature with blindsight can perceive its surroundings without relying on sight, within a specific radius. The creature can't use its blindsight while deafened.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 212</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Decaying Touch</name>
+    <name>Splicer Augment: Decaying Touch [TP Legacy]</name>
     <level>0</level>
     <components>M (4 Splicer Points)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The first time the creature hits with a weapon attack on its turn, it deals an additional 1d8 necrotic damage. A creature can take this augment again at 17th level, increasing the bonus to 2d8 necrotic damage.
 	While a creature has this augment, it can't take the Poisonous Touch or Corrosive Touch augments.
 
@@ -467,19 +467,19 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 212</text>
     <roll description="Necrotic Damage">2d8</roll>
   </spell>
   <spell>
-    <name>Splicer Augment: Flyby</name>
+    <name>Splicer Augment: Flyby [TP Legacy]</name>
     <level>0</level>
     <components>M (4 Splicer Points)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 212</text>
   </spell>
   <spell>
-    <name>Splicer Augment: Growth Hormone</name>
+    <name>Splicer Augment: Growth Hormone [TP Legacy]</name>
     <level>0</level>
     <components>M (4 Splicer Points)</components>
-    <classes>Tamer: Splicer Augments</classes>
+    <classes>Tamer [TP Legacy]: Splicer Augments</classes>
     <text>The creature's size is increased by one category. In addition, the size of its Hit Die is increased by 1; add 1 to the creature's maximum hit points for each Hit Die it has when it gains this augment.
 
 Note, this augment can be taken multiple times but can't increase a companion's size beyond that permitted by your tamer level.
@@ -487,7 +487,7 @@ Note, this augment can be taken multiple times but can't increase a companion's 
 Source:	Heliana's Guide to Monster Hunting - Part One p. 212</text>
   </spell>
   <spell>
-    <name>Invocation: Parasitic Leech</name>
+    <name>Invocation: Parasitic Leech [TP Legacy]</name>
     <level>0</level>
     <classes>Eldritch Invocations</classes>
     <text>Prerequisite: Parasite patron

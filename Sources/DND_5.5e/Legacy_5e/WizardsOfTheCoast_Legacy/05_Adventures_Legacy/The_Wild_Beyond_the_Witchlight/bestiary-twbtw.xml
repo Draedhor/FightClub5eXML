@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Agdon Longscarf</name>
+    <name>Agdon Longscarf [Legacy]</name>
     <sortname>Longscarf, Agdon</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -66,7 +66,7 @@ Agdon is invisible to creatures branded in this way. The brand disappears after 
     <environment/>
   </monster>
   <monster>
-    <name>Alagarthas</name>
+    <name>Alagarthas [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf)</type>
@@ -120,7 +120,7 @@ Agdon is invisible to creatures branded in this way. The brand disappears after 
     <environment/>
   </monster>
   <monster>
-    <name>Amidor the Dandelion</name>
+    <name>Amidor the Dandelion [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>plant</type>
@@ -170,7 +170,7 @@ Agdon is invisible to creatures branded in this way. The brand disappears after 
     <environment/>
   </monster>
   <monster>
-    <name>Bavlorna Blightstraw</name>
+    <name>Bavlorna Blightstraw [Legacy]</name>
     <sortname>Blightstraw, Bavlorna</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -259,7 +259,7 @@ Bavlorna can have only one creature swallowed at a time. If Bavlorna dies, a swa
     <environment/>
   </monster>
   <monster>
-    <name>Boggle</name>
+    <name>Boggle [Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>typically chaotic neutral</alignment>
@@ -320,7 +320,7 @@ If the oil is sticky, any creature that enters the puddle's area or starts its t
     <environment>forest, hill, underdark, urban</environment>
   </monster>
   <monster>
-    <name>Brigganock</name>
+    <name>Brigganock [Legacy]</name>
     <size>T</size>
     <type>fey</type>
     <alignment>typically neutral good</alignment>
@@ -384,7 +384,7 @@ If the oil is sticky, any creature that enters the puddle's area or starts its t
     <environment/>
   </monster>
   <monster>
-    <name>Bullywug Knight</name>
+    <name>Bullywug Knight [Legacy]</name>
     <sortname>Bullywug, Knight</sortname>
     <ancestry>Bullywug</ancestry>
     <npc>YES</npc>
@@ -444,7 +444,7 @@ If the oil is sticky, any creature that enters the puddle's area or starts its t
     <environment/>
   </monster>
   <monster>
-    <name>Bullywug Royal</name>
+    <name>Bullywug Royal [Legacy]</name>
     <sortname>Bullywug, Royal</sortname>
     <ancestry>Bullywug</ancestry>
     <npc>YES</npc>
@@ -514,7 +514,7 @@ If the oil is sticky, any creature that enters the puddle's area or starts its t
     <environment>swamp</environment>
   </monster>
   <monster>
-    <name>Campestri</name>
+    <name>Campestri [Legacy]</name>
     <size>T</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -559,7 +559,7 @@ If the oil is sticky, any creature that enters the puddle's area or starts its t
     <environment/>
   </monster>
   <monster>
-    <name>Clapperclaw the Scarecrow</name>
+    <name>Clapperclaw the Scarecrow [Legacy]</name>
     <size>S</size>
     <type>construct</type>
     <alignment>Lawful Neutral</alignment>
@@ -608,7 +608,7 @@ If the oil is sticky, any creature that enters the puddle's area or starts its t
     <environment/>
   </monster>
   <monster>
-    <name>Darkling Elder</name>
+    <name>Darkling Elder [Legacy]</name>
     <sortname>Darkling, Elder</sortname>
     <ancestry>Darkling</ancestry>
     <size>M</size>
@@ -662,7 +662,7 @@ If the oil is sticky, any creature that enters the puddle's area or starts its t
     <environment>forest, swamp, underdark, urban</environment>
   </monster>
   <monster>
-    <name>Darkling</name>
+    <name>Darkling [Legacy]</name>
     <ancestry>Darkling</ancestry>
     <size>S</size>
     <type>fey</type>
@@ -708,7 +708,7 @@ If the oil is sticky, any creature that enters the puddle's area or starts its t
     <environment>forest, swamp, underdark, urban</environment>
   </monster>
   <monster>
-    <name>Displacer Beast Kitten</name>
+    <name>Displacer Beast Kitten [Legacy]</name>
     <sortname>Displacer Beast, Kitten</sortname>
     <ancestry>Displacer Beast</ancestry>
     <size>S</size>
@@ -750,7 +750,7 @@ If the oil is sticky, any creature that enters the puddle's area or starts its t
     <environment/>
   </monster>
   <monster>
-    <name>Elkhorn</name>
+    <name>Elkhorn [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (dwarf)</type>
@@ -811,7 +811,7 @@ If the oil is sticky, any creature that enters the puddle's area or starts its t
     <environment/>
   </monster>
   <monster>
-    <name>Endelyn Moongrave</name>
+    <name>Endelyn Moongrave [Legacy]</name>
     <sortname>Moongrave, Endelyn</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -882,7 +882,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Envy</name>
+    <name>Envy [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -932,7 +932,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Flying Rocking Horse</name>
+    <name>Flying Rocking Horse [Legacy]</name>
     <sortname>Animated Object, Flying Rocking Horse</sortname>
     <ancestry>Animated Object</ancestry>
     <size>M</size>
@@ -982,7 +982,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Giant Dragonfly</name>
+    <name>Giant Dragonfly [Legacy]</name>
     <sortname>Dragonfly, Giant</sortname>
     <ancestry>Dragonfly</ancestry>
     <size>L</size>
@@ -1028,7 +1028,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Giant Snail</name>
+    <name>Giant Snail [Legacy]</name>
     <sortname>Snail, Giant</sortname>
     <ancestry>Snail</ancestry>
     <size>L</size>
@@ -1074,7 +1074,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Giant Swan</name>
+    <name>Giant Swan [Legacy]</name>
     <sortname>Swan, Giant</sortname>
     <ancestry>Swan</ancestry>
     <size>L</size>
@@ -1120,7 +1120,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Glass Pegasus</name>
+    <name>Glass Pegasus [Legacy]</name>
     <sortname>Pegasus, Glass</sortname>
     <ancestry>Pegasus</ancestry>
     <size>L</size>
@@ -1158,7 +1158,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Glasswork Golem</name>
+    <name>Glasswork Golem [Legacy]</name>
     <sortname>Golem, Glasswork</sortname>
     <ancestry>Golem</ancestry>
     <size>M</size>
@@ -1220,7 +1220,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Gloam</name>
+    <name>Gloam [Legacy]</name>
     <size>T</size>
     <type>undead</type>
     <alignment>Unaligned</alignment>
@@ -1264,7 +1264,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Harengon Brigand</name>
+    <name>Harengon Brigand [Legacy]</name>
     <sortname>Harengon, Brigand</sortname>
     <ancestry>Harengon</ancestry>
     <npc>YES</npc>
@@ -1316,7 +1316,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Harengon Sniper</name>
+    <name>Harengon Sniper [Legacy]</name>
     <sortname>Harengon, Sniper</sortname>
     <ancestry>Harengon</ancestry>
     <npc>YES</npc>
@@ -1364,7 +1364,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Iggwilv the Witch Queen</name>
+    <name>Iggwilv the Witch Queen [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>fey (wizard)</type>
@@ -1464,7 +1464,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Jabberwock</name>
+    <name>Jabberwock [Legacy]</name>
     <size>H</size>
     <type>dragon</type>
     <alignment>typically chaotic evil</alignment>
@@ -1554,7 +1554,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Jingle Jangle</name>
+    <name>Jingle Jangle [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (goblinoid)</type>
@@ -1595,7 +1595,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Kelek</name>
+    <name>Kelek [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human, sorcerer)</type>
@@ -1665,7 +1665,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Kettlesteam the Kenku</name>
+    <name>Kettlesteam the Kenku [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (kenku, warlock)</type>
@@ -1723,7 +1723,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Korred</name>
+    <name>Korred [Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>typically chaotic neutral</alignment>
@@ -1787,7 +1787,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Living Doll</name>
+    <name>Living Doll [Legacy]</name>
     <size>T</size>
     <type>construct</type>
     <alignment>typically neutral evil</alignment>
@@ -1841,7 +1841,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Mercion</name>
+    <name>Mercion [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (cleric, human)</type>
@@ -1907,7 +1907,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Mister Light</name>
+    <name>Mister Light [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf, shadar-kai)</type>
@@ -1968,7 +1968,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Mister Witch</name>
+    <name>Mister Witch [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf, shadar-kai)</type>
@@ -2029,7 +2029,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Molliver</name>
+    <name>Molliver [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -2094,7 +2094,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Paper Bird</name>
+    <name>Paper Bird [Legacy]</name>
     <size>T</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -2134,7 +2134,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Pollenella the Honeybee</name>
+    <name>Pollenella the Honeybee [Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -2170,7 +2170,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Quickling</name>
+    <name>Quickling [Legacy]</name>
     <size>T</size>
     <type>fey</type>
     <alignment>typically chaotic evil</alignment>
@@ -2220,7 +2220,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Raezil</name>
+    <name>Raezil [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf)</type>
@@ -2279,7 +2279,7 @@ detect thoughts, dispel magic, finger of death, glibness, locate creature, mass 
     <environment/>
   </monster>
   <monster>
-    <name>Redcap</name>
+    <name>Redcap [Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>typically chaotic evil</alignment>
@@ -2340,7 +2340,7 @@ Source:	Volo's Guide to Monsters p. 188,
     <environment>forest, hill, swamp</environment>
   </monster>
   <monster>
-    <name>Ringlerun</name>
+    <name>Ringlerun [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human, wizard)</type>
@@ -2404,7 +2404,7 @@ Source:	Volo's Guide to Monsters p. 188,
     <environment/>
   </monster>
   <monster>
-    <name>Selenelion Twin</name>
+    <name>Selenelion Twin [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf)</type>
@@ -2474,7 +2474,7 @@ The target can repeat the saving throw at the end of each of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Shadow (Variant)</name>
+    <name>Shadow (Variant) [Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Chaotic Evil</alignment>
@@ -2524,7 +2524,7 @@ The target falls unconscious if this reduces its Strength to 0. Otherwise, the r
     <environment/>
   </monster>
   <monster>
-    <name>Sir Talavar</name>
+    <name>Sir Talavar [Legacy]</name>
     <size>T</size>
     <type>dragon</type>
     <alignment>Lawful Good</alignment>
@@ -2594,7 +2594,7 @@ Violet, 1/Day: polymorph</text>
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Skabatha Nightshade</name>
+    <name>Skabatha Nightshade [Legacy]</name>
     <sortname>Nightshade, Skabatha</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2667,7 +2667,7 @@ As a Tiny creature, Skabatha deals 2 (1d4) poison damage when she hits with a Cl
     <environment/>
   </monster>
   <monster>
-    <name>Skylla</name>
+    <name>Skylla [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human, warlock)</type>
@@ -2724,7 +2724,7 @@ As a Tiny creature, Skabatha deals 2 (1d4) poison damage when she hits with a Cl
     <environment/>
   </monster>
   <monster>
-    <name>Squirt the Oilcan</name>
+    <name>Squirt the Oilcan [Legacy]</name>
     <npc>YES</npc>
     <size>T</size>
     <type>construct</type>
@@ -2773,7 +2773,7 @@ As a Tiny creature, Skabatha deals 2 (1d4) poison damage when she hits with a Cl
     <environment/>
   </monster>
   <monster>
-    <name>Strongheart</name>
+    <name>Strongheart [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human, paladin)</type>
@@ -2835,7 +2835,7 @@ As a Tiny creature, Skabatha deals 2 (1d4) poison damage when she hits with a Cl
     <environment/>
   </monster>
   <monster>
-    <name>Swarm of Campestris</name>
+    <name>Swarm of Campestris [Legacy]</name>
     <sortname>Campestris, Swarm</sortname>
     <ancestry>Campestris</ancestry>
     <size>M</size>
@@ -2887,7 +2887,7 @@ As a Tiny creature, Skabatha deals 2 (1d4) poison damage when she hits with a Cl
     <environment/>
   </monster>
   <monster>
-    <name>Tin Soldier</name>
+    <name>Tin Soldier [Legacy]</name>
     <size>S</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -2935,7 +2935,7 @@ As a Tiny creature, Skabatha deals 2 (1d4) poison damage when she hits with a Cl
     <environment/>
   </monster>
   <monster>
-    <name>Treant Sapling</name>
+    <name>Treant Sapling [Legacy]</name>
     <sortname>Treant, Sapling</sortname>
     <ancestry>Treant</ancestry>
     <size>L</size>
@@ -2991,7 +2991,7 @@ As a Tiny creature, Skabatha deals 2 (1d4) poison damage when she hits with a Cl
     <environment/>
   </monster>
   <monster>
-    <name>Tree Blight</name>
+    <name>Tree Blight [Legacy]</name>
     <sortname>Blight, Tree</sortname>
     <ancestry>Blight</ancestry>
     <size>H</size>
@@ -3052,7 +3052,7 @@ As a Tiny creature, Skabatha deals 2 (1d4) poison damage when she hits with a Cl
     <environment/>
   </monster>
   <monster>
-    <name>Warduke</name>
+    <name>Warduke [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -3112,7 +3112,7 @@ As a Tiny creature, Skabatha deals 2 (1d4) poison damage when she hits with a Cl
     <environment/>
   </monster>
   <monster>
-    <name>Will-o'-Wisp (Variant)</name>
+    <name>Will-o'-Wisp (Variant) [Legacy]</name>
     <size>T</size>
     <type>undead</type>
     <alignment>chaotic good</alignment>
@@ -3173,7 +3173,7 @@ As a Tiny creature, Skabatha deals 2 (1d4) poison damage when she hits with a Cl
     <environment/>
   </monster>
   <monster>
-    <name>Witchlight Hand (Small)</name>
+    <name>Witchlight Hand (Small) [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid</type>
@@ -3226,7 +3226,7 @@ As a Tiny creature, Skabatha deals 2 (1d4) poison damage when she hits with a Cl
     <environment/>
   </monster>
   <monster>
-    <name>Witchlight Hand</name>
+    <name>Witchlight Hand [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -3279,7 +3279,7 @@ As a Tiny creature, Skabatha deals 2 (1d4) poison damage when she hits with a Cl
     <environment/>
   </monster>
   <monster>
-    <name>Zarak</name>
+    <name>Zarak [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (orc)</type>
@@ -3340,7 +3340,7 @@ Until this grapple ends, the target takes 8 (2d4 + 3) slashing damage at the sta
     <environment/>
   </monster>
   <monster>
-    <name>Zargash</name>
+    <name>Zargash [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (cleric, human)</type>

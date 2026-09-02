@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Andir Valmakos</name>
+    <name>Andir Valmakos [Legacy]</name>
     <sortname>Valmakos, Andir</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -58,7 +58,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Anhkolox</name>
+    <name>Anhkolox [Legacy]</name>
     <size>H</size>
     <type>undead</type>
     <alignment>typically neutral evil</alignment>
@@ -109,7 +109,7 @@ Until this grapple ends, the target is restrained, and the anhkolox can't use En
     <environment/>
   </monster>
   <monster>
-    <name>Aurak Draconian</name>
+    <name>Aurak Draconian [Legacy]</name>
     <sortname>Draconian, Aurak</sortname>
     <ancestry>Draconian</ancestry>
     <size>M</size>
@@ -178,7 +178,7 @@ Until this grapple ends, the target is restrained, and the anhkolox can't use En
     <environment/>
   </monster>
   <monster>
-    <name>Ayik Ur</name>
+    <name>Ayik Ur [Legacy]</name>
     <sortname>Ur, Ayik</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -229,7 +229,7 @@ Until this grapple ends, the target is restrained, and the anhkolox can't use En
     <environment/>
   </monster>
   <monster>
-    <name>Baaz Draconian</name>
+    <name>Baaz Draconian [Legacy]</name>
     <sortname>Draconian, Baaz</sortname>
     <ancestry>Draconian</ancestry>
     <size>M</size>
@@ -283,7 +283,7 @@ Until this grapple ends, the target is restrained, and the anhkolox can't use En
     <environment/>
   </monster>
   <monster>
-    <name>Bozak Draconian</name>
+    <name>Bozak Draconian [Legacy]</name>
     <sortname>Draconian, Bozak</sortname>
     <ancestry>Draconian</ancestry>
     <size>M</size>
@@ -346,7 +346,7 @@ Until this grapple ends, the target is restrained, and the anhkolox can't use En
     <environment/>
   </monster>
   <monster>
-    <name>Caradoc</name>
+    <name>Caradoc [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>neutral evil</alignment>
@@ -413,7 +413,7 @@ The possession lasts until the body drops to 0 hit points, Caradoc ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Dracophage Subject</name>
+    <name>Dracophage Subject [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>typically lawful evil</alignment>
@@ -459,7 +459,7 @@ The possession lasts until the body drops to 0 hit points, Caradoc ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Dragon Army Dragonnel</name>
+    <name>Dragon Army Dragonnel [Legacy]</name>
     <sortname>Dragon Army, Dragonnel</sortname>
     <ancestry>Dragon Army, Dragonnel</ancestry>
     <size>L</size>
@@ -505,7 +505,7 @@ The possession lasts until the body drops to 0 hit points, Caradoc ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Dragon Army Officer</name>
+    <name>Dragon Army Officer [Legacy]</name>
     <sortname>Dragon Army, Officer</sortname>
     <ancestry>Dragon Army</ancestry>
     <size>M</size>
@@ -561,7 +561,7 @@ The possession lasts until the body drops to 0 hit points, Caradoc ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Dragon Army Soldier</name>
+    <name>Dragon Army Soldier [Legacy]</name>
     <sortname>Dragon Army, Soldier</sortname>
     <ancestry>Dragon Army</ancestry>
     <size>M</size>
@@ -613,7 +613,7 @@ The possession lasts until the body drops to 0 hit points, Caradoc ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Fewmaster Gholcag</name>
+    <name>Fewmaster Gholcag [Legacy]</name>
     <size>L</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -654,7 +654,7 @@ The possession lasts until the body drops to 0 hit points, Caradoc ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Greater Death Dragon</name>
+    <name>Greater Death Dragon [Legacy]</name>
     <size>H</size>
     <type>undead</type>
     <alignment>typically chaotic evil</alignment>
@@ -726,7 +726,7 @@ The possession lasts until the body drops to 0 hit points, Caradoc ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Hrigg Roundrook</name>
+    <name>Hrigg Roundrook [Legacy]</name>
     <sortname>Roundrook, Hrigg</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -781,7 +781,7 @@ The possession lasts until the body drops to 0 hit points, Caradoc ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Incomplete Dragon Skeleton</name>
+    <name>Incomplete Dragon Skeleton [Legacy]</name>
     <sortname>Dragon Skeleton, Incomplete</sortname>
     <ancestry>Dragon Skeleton</ancestry>
     <size>L</size>
@@ -819,7 +819,7 @@ The possession lasts until the body drops to 0 hit points, Caradoc ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Iriad</name>
+    <name>Iriad [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf)</type>
@@ -868,7 +868,7 @@ The possession lasts until the body drops to 0 hit points, Caradoc ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Istarian Drone</name>
+    <name>Istarian Drone [Legacy]</name>
     <sortname>Drone, Istarian</sortname>
     <ancestry>Drone</ancestry>
     <size>M</size>
@@ -923,7 +923,7 @@ The possession lasts until the body drops to 0 hit points, Caradoc ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Kalaman Soldier</name>
+    <name>Kalaman Soldier [Legacy]</name>
     <sortname>Kalaman, Soldier</sortname>
     <ancestry>Kalaman</ancestry>
     <npc>YES</npc>
@@ -970,7 +970,7 @@ The possession lasts until the body drops to 0 hit points, Caradoc ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Kansaldi Fire-Eyes</name>
+    <name>Kansaldi Fire-Eyes [Legacy]</name>
     <sortname>Fire-Eyes, Kansaldi</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1032,7 +1032,7 @@ The possession lasts until the body drops to 0 hit points, Caradoc ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Kapak Draconian</name>
+    <name>Kapak Draconian [Legacy]</name>
     <sortname>Draconian, Kapak</sortname>
     <ancestry>Draconian</ancestry>
     <size>M</size>
@@ -1082,7 +1082,7 @@ The possession lasts until the body drops to 0 hit points, Caradoc ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Kender Skirmisher</name>
+    <name>Kender Skirmisher [Legacy]</name>
     <sortname>Kender, Skirmisher</sortname>
     <ancestry>Kender</ancestry>
     <npc>YES</npc>
@@ -1130,7 +1130,7 @@ The possession lasts until the body drops to 0 hit points, Caradoc ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Leedara</name>
+    <name>Leedara [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>undead (elf)</type>
@@ -1194,7 +1194,7 @@ The possession lasts until the body drops to 0 hit points, Leedara ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Lesser Death Dragon</name>
+    <name>Lesser Death Dragon [Legacy]</name>
     <sortname>Death Dragon, Lesser</sortname>
     <ancestry>Death Dragon</ancestry>
     <size>L</size>
@@ -1250,7 +1250,7 @@ The possession lasts until the body drops to 0 hit points, Leedara ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Levna Drakehorn</name>
+    <name>Levna Drakehorn [Legacy]</name>
     <sortname>Drakehorn, Levna</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1300,7 +1300,7 @@ The possession lasts until the body drops to 0 hit points, Leedara ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Lohezet</name>
+    <name>Lohezet [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human, wizard)</type>
@@ -1364,7 +1364,7 @@ The possession lasts until the body drops to 0 hit points, Leedara ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Lord Soth</name>
+    <name>Lord Soth [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>undead (paladin)</type>
@@ -1459,7 +1459,7 @@ The possession lasts until the body drops to 0 hit points, Leedara ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Red Ruin</name>
+    <name>Red Ruin [Legacy]</name>
     <sortname>Ruin, Red</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1518,7 +1518,7 @@ The possession lasts until the body drops to 0 hit points, Leedara ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Sea Elf Scout</name>
+    <name>Sea Elf Scout [Legacy]</name>
     <sortname>Elf Scout, Sea</sortname>
     <ancestry>Elf, Scout</ancestry>
     <npc>YES</npc>
@@ -1578,7 +1578,7 @@ The possession lasts until the body drops to 0 hit points, Leedara ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Sivak Draconian</name>
+    <name>Sivak Draconian [Legacy]</name>
     <sortname>Draconian, Sivak</sortname>
     <ancestry>Draconian</ancestry>
     <size>L</size>
@@ -1633,7 +1633,7 @@ The possession lasts until the body drops to 0 hit points, Leedara ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Skeletal Knight</name>
+    <name>Skeletal Knight [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>typically lawful evil</alignment>
@@ -1686,7 +1686,7 @@ The possession lasts until the body drops to 0 hit points, Leedara ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Tem Temble</name>
+    <name>Tem Temble [Legacy]</name>
     <sortname>Temble, Tem</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -1746,7 +1746,7 @@ The possession lasts until the body drops to 0 hit points, Leedara ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Virruza</name>
+    <name>Virruza [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Chaotic Neutral</alignment>
@@ -1822,7 +1822,7 @@ The possession lasts until the body drops to 0 hit points, Leedara ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Wasteland Dragonnel</name>
+    <name>Wasteland Dragonnel [Legacy]</name>
     <sortname>Dragonnel, Wasteland</sortname>
     <ancestry>Dragonnel</ancestry>
     <size>L</size>
@@ -1873,7 +1873,7 @@ The possession lasts until the body drops to 0 hit points, Leedara ends it as a 
     <environment/>
   </monster>
   <monster>
-    <name>Wersten Kern</name>
+    <name>Wersten Kern [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Lawful Evil</alignment>

@@ -295,139 +295,139 @@ Source:	Old World's Might - Subclasses from Old Europe p. 40 (Homebrew)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Shield of Faith (TP)</name>
+    <name>Shield of Faith [TP]</name>
     <classes>Paladin (Oath of the Templar (HB)), Paladin (Oath of the Varangian Guard (HB))</classes>
   </spell>
   <spell>
-    <name>Compelled Duel (TP)</name>
+    <name>Compelled Duel [TP]</name>
     <classes>Paladin (Oath of the Templar (HB))</classes>
   </spell>
   <spell>
-    <name>Zone of Truth (TP)</name>
+    <name>Zone of Truth [TP]</name>
     <classes>Paladin (Oath of the Templar (HB))</classes>
   </spell>
   <spell>
-    <name>Spiritual Weapon (TP)</name>
+    <name>Spiritual Weapon [TP]</name>
     <classes>Paladin (Oath of the Templar (HB))</classes>
   </spell>
   <spell>
-    <name>Crusader's Mantle (TP)</name>
+    <name>Crusader's Mantle [TP]</name>
     <classes>Paladin (Oath of the Templar (HB)), Paladin (Oath of the Varangian Guard (HB))</classes>
   </spell>
   <spell>
-    <name>Spirit Guardians (TP)</name>
+    <name>Spirit Guardians [TP]</name>
     <classes>Paladin (Oath of the Templar (HB))</classes>
   </spell>
   <spell>
-    <name>Guardian of Faith (TP)</name>
+    <name>Guardian of Faith [TP]</name>
     <classes>Paladin (Oath of the Templar (HB)), Paladin (Oath of the Hospitaller (HB))</classes>
   </spell>
   <spell>
-    <name>Death Ward (TP)</name>
+    <name>Death Ward [TP]</name>
     <classes>Paladin (Oath of the Templar (HB))</classes>
   </spell>
   <spell>
-    <name>Holy Weapon (TP)</name>
+    <name>Holy Weapon [TP]</name>
     <classes>Paladin (Oath of the Templar (HB))</classes>
   </spell>
   <spell>
-    <name>Dispel Evil and Good (TP)</name>
+    <name>Dispel Evil and Good [TP]</name>
     <classes>Paladin (Oath of the Templar (HB))</classes>
   </spell>
   <spell>
-    <name>Command (TP)</name>
+    <name>Command [TP]</name>
     <classes>Paladin (Oath of the Varangian Guard (HB))</classes>
   </spell>
   <spell>
-    <name>Misty Step (TP)</name>
+    <name>Misty Step [TP]</name>
     <classes>Paladin (Oath of the Varangian Guard (HB))</classes>
   </spell>
   <spell>
-    <name>Branding Smite (TP)</name>
+    <name>Branding Smite [TP]</name>
     <classes>Paladin (Oath of the Varangian Guard (HB))</classes>
   </spell>
   <spell>
-    <name>Aura of Vitality (TP)</name>
+    <name>Aura of Vitality [TP]</name>
     <classes>Paladin (Oath of the Varangian Guard (HB)), Paladin (Oath of the Hospitaller (HB))</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement (TP)</name>
+    <name>Freedom of Movement [TP]</name>
     <classes>Paladin (Oath of the Varangian Guard (HB)), Paladin (Oath of the Round Table (HB))</classes>
   </spell>
   <spell>
-    <name>Stoneskin (TP)</name>
+    <name>Stoneskin [TP]</name>
     <classes>Paladin (Oath of the Varangian Guard (HB))</classes>
   </spell>
   <spell>
-    <name>Banishing Smite (TP)</name>
+    <name>Banishing Smite [TP]</name>
     <classes>Paladin (Oath of the Varangian Guard (HB)), Paladin (Oath of the Round Table (HB))</classes>
   </spell>
   <spell>
-    <name>Wall of Force (TP)</name>
+    <name>Wall of Force [TP]</name>
     <classes>Paladin (Oath of the Varangian Guard (HB))</classes>
   </spell>
   <spell>
-    <name>Cure Wounds (TP)</name>
+    <name>Cure Wounds [TP]</name>
     <classes>Paladin (Oath of the Hospitaller (HB))</classes>
   </spell>
   <spell>
-    <name>Bless (TP)</name>
+    <name>Bless [TP]</name>
     <classes>Paladin (Oath of the Hospitaller (HB))</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration (TP)</name>
+    <name>Lesser Restoration [TP]</name>
     <classes>Paladin (Oath of the Hospitaller (HB))</classes>
   </spell>
   <spell>
-    <name>Prayer of Healing (TP)</name>
+    <name>Prayer of Healing [TP]</name>
     <classes>Paladin (Oath of the Hospitaller (HB))</classes>
   </spell>
   <spell>
-    <name>Revivify (TP)</name>
+    <name>Revivify [TP]</name>
     <classes>Paladin (Oath of the Hospitaller (HB))</classes>
   </spell>
   <spell>
-    <name>Aura of Life (TP)</name>
+    <name>Aura of Life [TP]</name>
     <classes>Paladin (Oath of the Hospitaller (HB))</classes>
   </spell>
   <spell>
-    <name>Mass Cure Wounds (TP)</name>
+    <name>Mass Cure Wounds [TP]</name>
     <classes>Paladin (Oath of the Hospitaller (HB))</classes>
   </spell>
   <spell>
-    <name>Raise Dead (TP)</name>
+    <name>Raise Dead [TP]</name>
     <classes>Paladin (Oath of the Hospitaller (HB))</classes>
   </spell>
   <spell>
-    <name>Heroism (TP)</name>
+    <name>Heroism [TP]</name>
     <classes>Paladin (Oath of the Round Table (HB))</classes>
   </spell>
   <spell>
-    <name>Sanctuary (TP)</name>
+    <name>Sanctuary [TP]</name>
     <classes>Paladin (Oath of the Round Table (HB))</classes>
   </spell>
   <spell>
-    <name>Enhance Ability (TP)</name>
+    <name>Enhance Ability [TP]</name>
     <classes>Paladin (Oath of the Round Table (HB))</classes>
   </spell>
   <spell>
-    <name>Warding Bond (TP)</name>
+    <name>Warding Bond [TP]</name>
     <classes>Paladin (Oath of the Round Table (HB))</classes>
   </spell>
   <spell>
-    <name>Beacon of Hope (TP)</name>
+    <name>Beacon of Hope [TP]</name>
     <classes>Paladin (Oath of the Round Table (HB))</classes>
   </spell>
   <spell>
-    <name>Daylight (TP)</name>
+    <name>Daylight [TP]</name>
     <classes>Paladin (Oath of the Round Table (HB))</classes>
   </spell>
   <spell>
-    <name>Aura of Purity (TP)</name>
+    <name>Aura of Purity [TP]</name>
     <classes>Paladin (Oath of the Round Table (HB))</classes>
   </spell>
   <spell>
-    <name>Greater Restoration (TP)</name>
+    <name>Greater Restoration [TP]</name>
     <classes>Paladin (Oath of the Round Table (HB))</classes>
   </spell>
 </compendium>

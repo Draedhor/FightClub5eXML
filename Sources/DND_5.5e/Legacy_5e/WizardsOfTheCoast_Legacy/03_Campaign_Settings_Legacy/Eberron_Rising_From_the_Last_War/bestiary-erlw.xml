@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Belashyrra</name>
+    <name>Belashyrra [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Chaotic Evil</alignment>
@@ -143,7 +143,7 @@ Source:	Eberron: Rising from the Last War p. 286</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bone Knight</name>
+    <name>Bone Knight [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -210,7 +210,7 @@ Source:	Eberron: Rising from the Last War p. 316</description>
     <environment/>
   </monster>
   <monster>
-    <name>Changeling</name>
+    <name>Changeling [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (changeling, shapechanger)</type>
@@ -258,7 +258,7 @@ Source:	Eberron: Rising from the Last War p. 317</description>
     <environment/>
   </monster>
   <monster>
-    <name>Clawfoot</name>
+    <name>Clawfoot [Legacy]</name>
     <sortname>Dinosaur, Clawfoot</sortname>
     <ancestry>Dinosaur</ancestry>
     <size>M</size>
@@ -316,7 +316,7 @@ Source:	Eberron: Rising from the Last War p. 289,
     <environment/>
   </monster>
   <monster>
-    <name>Corrin Delmaco</name>
+    <name>Corrin Delmaco [Legacy]</name>
     <sortname>Delmaco, Corrin</sortname>
     <ancestry>Spy</ancestry>
     <npc>YES</npc>
@@ -379,7 +379,7 @@ Source:	Eberron: Rising from the Last War p. 271</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dolgaunt</name>
+    <name>Dolgaunt [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Lawful Evil</alignment>
@@ -438,7 +438,7 @@ Source:	Eberron: Rising from the Last War p. 290</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dolgrim</name>
+    <name>Dolgrim [Legacy]</name>
     <size>S</size>
     <type>aberration</type>
     <alignment>Chaotic Evil</alignment>
@@ -492,7 +492,7 @@ Source:	Eberron: Rising from the Last War p. 291</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dusk Hag</name>
+    <name>Dusk Hag [Legacy]</name>
     <sortname>Hag, Dusk</sortname>
     <ancestry>Hag</ancestry>
     <size>M</size>
@@ -572,7 +572,7 @@ Source:	Eberron: Rising from the Last War p. 292</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dyrrn</name>
+    <name>Dyrrn [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Chaotic Evil</alignment>
@@ -707,7 +707,7 @@ Source:	Eberron: Rising from the Last War p. 288</description>
     <environment/>
   </monster>
   <monster>
-    <name>Expeditious Messenger</name>
+    <name>Expeditious Messenger [Legacy]</name>
     <sortname>Homunculus, Expeditious Messenger</sortname>
     <ancestry>Homunculus</ancestry>
     <size>T</size>
@@ -758,7 +758,7 @@ Source:	Eberron: Rising from the Last War p. 293</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fastieth</name>
+    <name>Fastieth [Legacy]</name>
     <sortname>Dinosaur, Fastieth</sortname>
     <ancestry>Dinosaur</ancestry>
     <size>M</size>
@@ -803,7 +803,7 @@ Source:	Eberron: Rising from the Last War p. 289</description>
     <environment/>
   </monster>
   <monster>
-    <name>Garra</name>
+    <name>Garra [Legacy]</name>
     <npc>YES</npc>
     <size>L</size>
     <type>giant</type>
@@ -842,7 +842,7 @@ Source:	Eberron: Rising from the Last War p. 289</description>
     <environment>underdark, mountain, forest, hill, urban, desert, arctic</environment>
   </monster>
   <monster>
-    <name>Hashalaq Quori</name>
+    <name>Hashalaq Quori [Legacy]</name>
     <sortname>Quori, Hashalaq</sortname>
     <ancestry>Quori</ancestry>
     <size>M</size>
@@ -914,7 +914,7 @@ Source:	Eberron: Rising from the Last War p. 305</description>
     <environment/>
   </monster>
   <monster>
-    <name>Homunculus Servant</name>
+    <name>Homunculus Servant [Legacy]</name>
     <sortname>Homunculus, Servant</sortname>
     <ancestry>Homunculus</ancestry>
     <size>T</size>
@@ -981,7 +981,7 @@ Source:	Eberron: Rising from the Last War p. 305</description>
     <environment/>
   </monster>
   <monster>
-    <name>Inspired</name>
+    <name>Inspired [Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>Lawful Evil</alignment>
@@ -1054,7 +1054,7 @@ Source:	Eberron: Rising from the Last War p. 294</description>
     <environment/>
   </monster>
   <monster>
-    <name>Iron Defender</name>
+    <name>Iron Defender [Legacy]</name>
     <sortname>Homunculus, Iron Defender</sortname>
     <ancestry>Homunculus</ancestry>
     <size>M</size>
@@ -1102,7 +1102,7 @@ Source:	Eberron: Rising from the Last War p. 293</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kalaraq Quori</name>
+    <name>Kalaraq Quori [Legacy]</name>
     <sortname>Quori, Kalaraq</sortname>
     <ancestry>Quori</ancestry>
     <size>M</size>
@@ -1187,7 +1187,7 @@ Source:	Eberron: Rising from the Last War p. 306</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kalashtar</name>
+    <name>Kalashtar [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (kalashtar)</type>
@@ -1231,7 +1231,7 @@ Source:	Eberron: Rising from the Last War p. 317</description>
     <environment/>
   </monster>
   <monster>
-    <name>Karrnathi Undead Soldier</name>
+    <name>Karrnathi Undead Soldier [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Lawful Evil</alignment>
@@ -1297,7 +1297,7 @@ Source:	Eberron: Rising from the Last War p. 295</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lady Illmarrow</name>
+    <name>Lady Illmarrow [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -1413,7 +1413,7 @@ Source:	Eberron: Rising from the Last War p. 296</description>
     <environment/>
   </monster>
   <monster>
-    <name>Living Burning Hands</name>
+    <name>Living Burning Hands [Legacy]</name>
     <sortname>Living Spell, Burning Hands</sortname>
     <ancestry>Living Spell</ancestry>
     <size>M</size>
@@ -1485,7 +1485,7 @@ Source:	Eberron: Rising from the Last War p. 298</description>
     <environment/>
   </monster>
   <monster>
-    <name>Living Cloudkill</name>
+    <name>Living Cloudkill [Legacy]</name>
     <sortname>Living Spell, Cloudkill</sortname>
     <ancestry>Living Spell</ancestry>
     <size>L</size>
@@ -1562,7 +1562,7 @@ Source:	Eberron: Rising from the Last War p. 299</description>
     <environment/>
   </monster>
   <monster>
-    <name>Living Lightning Bolt</name>
+    <name>Living Lightning Bolt [Legacy]</name>
     <sortname>Living Spell, Lightning Bolt</sortname>
     <ancestry>Living Spell</ancestry>
     <size>L</size>
@@ -1638,7 +1638,7 @@ Source:	Eberron: Rising from the Last War p. 299</description>
     <environment/>
   </monster>
   <monster>
-    <name>Magewright</name>
+    <name>Magewright [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -1693,7 +1693,7 @@ Source:	Eberron: Rising from the Last War p. 318</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mordakhesh</name>
+    <name>Mordakhesh [Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>Lawful Evil</alignment>
@@ -1770,7 +1770,7 @@ Source:	Eberron: Rising from the Last War p. 301</description>
     <environment/>
   </monster>
   <monster>
-    <name>Radiant Idol</name>
+    <name>Radiant Idol [Legacy]</name>
     <size>L</size>
     <type>celestial</type>
     <alignment>Lawful Evil</alignment>
@@ -1838,7 +1838,7 @@ Source:	Eberron: Rising from the Last War p. 308</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rak Tulkhesh</name>
+    <name>Rak Tulkhesh [Legacy]</name>
     <sortname>Overlord, Rak Tulkhesh</sortname>
     <ancestry>Overlord</ancestry>
     <size>H</size>
@@ -1944,7 +1944,7 @@ Source:	Eberron: Rising from the Last War p. 303</description>
     <environment/>
   </monster>
   <monster>
-    <name>Shifter</name>
+    <name>Shifter [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (shifter)</type>
@@ -1988,7 +1988,7 @@ Source:	Eberron: Rising from the Last War p. 319</description>
     <environment/>
   </monster>
   <monster>
-    <name>Steel Defender</name>
+    <name>Steel Defender [Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Any alignment</alignment>
@@ -2055,7 +2055,7 @@ Source:	Eberron: Rising from the Last War p. 319</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sul Khatesh</name>
+    <name>Sul Khatesh [Legacy]</name>
     <sortname>Overlord, Sul Khatesh</sortname>
     <ancestry>Overlord</ancestry>
     <size>L</size>
@@ -2166,7 +2166,7 @@ Source:	Eberron: Rising from the Last War p. 304</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tarkanan Assassin</name>
+    <name>Tarkanan Assassin [Legacy]</name>
     <sortname>Assassin, Tarkanan</sortname>
     <ancestry>Assassin</ancestry>
     <npc>YES</npc>
@@ -2245,7 +2245,7 @@ Source:	Eberron: Rising from the Last War p. 320</description>
     <environment/>
   </monster>
   <monster>
-    <name>The Lord of Blades</name>
+    <name>The Lord of Blades [Legacy]</name>
     <sortname>Lord of Blades, The</sortname>
     <size>M</size>
     <type>humanoid (warforged)</type>
@@ -2353,7 +2353,7 @@ Source:	Eberron: Rising from the Last War p. 300</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tsucora Quori</name>
+    <name>Tsucora Quori [Legacy]</name>
     <sortname>Quori, Tsucora</sortname>
     <ancestry>Quori</ancestry>
     <size>M</size>
@@ -2426,7 +2426,7 @@ Source:	Eberron: Rising from the Last War p. 307</description>
     <environment/>
   </monster>
   <monster>
-    <name>Undying Councilor</name>
+    <name>Undying Councilor [Legacy]</name>
     <sortname>Undying, Councilor</sortname>
     <ancestry>Undying</ancestry>
     <size>M</size>
@@ -2530,7 +2530,7 @@ Source:	Eberron: Rising from the Last War p. 311</description>
     <environment/>
   </monster>
   <monster>
-    <name>Undying Soldier</name>
+    <name>Undying Soldier [Legacy]</name>
     <sortname>Undying, Soldier</sortname>
     <ancestry>Undying</ancestry>
     <size>M</size>
@@ -2595,7 +2595,7 @@ Source:	Eberron: Rising from the Last War p. 311</description>
     <environment/>
   </monster>
   <monster>
-    <name>Valenar Hawk</name>
+    <name>Valenar Hawk [Legacy]</name>
     <sortname>Hawk, Valenar</sortname>
     <ancestry>Hawk</ancestry>
     <size>T</size>
@@ -2654,7 +2654,7 @@ Source:	Eberron: Rising from the Last War p. 312</description>
     <environment/>
   </monster>
   <monster>
-    <name>Valenar Hound</name>
+    <name>Valenar Hound [Legacy]</name>
     <sortname>Hound, Valenar</sortname>
     <ancestry>Hound</ancestry>
     <size>M</size>
@@ -2713,7 +2713,7 @@ Source:	Eberron: Rising from the Last War p. 312</description>
     <environment/>
   </monster>
   <monster>
-    <name>Valenar Steed</name>
+    <name>Valenar Steed [Legacy]</name>
     <sortname>Horse, Valenar</sortname>
     <ancestry>Horse</ancestry>
     <size>L</size>
@@ -2768,7 +2768,7 @@ Source:	Eberron: Rising from the Last War p. 313</description>
     <environment/>
   </monster>
   <monster>
-    <name>Warforged Colossus</name>
+    <name>Warforged Colossus [Legacy]</name>
     <sortname>Warforged, Colossus</sortname>
     <ancestry>Warforged</ancestry>
     <size>G</size>
@@ -2858,7 +2858,7 @@ Source:	Eberron: Rising from the Last War p. 314</description>
     <environment/>
   </monster>
   <monster>
-    <name>Warforged Soldier</name>
+    <name>Warforged Soldier [Legacy]</name>
     <sortname>Warforged, Soldier</sortname>
     <ancestry>Warforged</ancestry>
     <npc>YES</npc>
@@ -2912,7 +2912,7 @@ Source:	Eberron: Rising from the Last War p. 320</description>
     <environment/>
   </monster>
   <monster>
-    <name>Warforged Titan</name>
+    <name>Warforged Titan [Legacy]</name>
     <sortname>Warforged, Titan</sortname>
     <ancestry>Warforged</ancestry>
     <size>H</size>
@@ -2974,7 +2974,7 @@ Source:	Eberron: Rising from the Last War p. 315</description>
     <environment/>
   </monster>
   <monster>
-    <name>Zakya Rakshasa</name>
+    <name>Zakya Rakshasa [Legacy]</name>
     <sortname>Rakshasa, Zakya</sortname>
     <size>M</size>
     <type>fiend</type>

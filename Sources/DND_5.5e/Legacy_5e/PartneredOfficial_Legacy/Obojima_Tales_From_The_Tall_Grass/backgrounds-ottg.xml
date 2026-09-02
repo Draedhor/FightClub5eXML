@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Apprentice of AHA (TP)</name>
+    <name>Apprentice of AHA [TP Legacy]</name>
     <proficiency>History, Investigation</proficiency>
     <trait>
       <name>Description</name>
@@ -22,7 +22,7 @@ Source:	Obojima: Tales from the Tall Grass p. 154 (Third Party)</text>
     </trait>
   </background>
   <background>
-    <name>Apprentice Diver (TP)</name>
+    <name>Apprentice Diver [TP Legacy]</name>
     <proficiency>Athletics, Nature</proficiency>
     <trait>
       <name>Description</name>
@@ -43,7 +43,7 @@ Source:	Obojima: Tales from the Tall Grass p. 154 (Third Party)</text>
     </trait>
   </background>
   <background>
-    <name>Apprentice Witch (TP)</name>
+    <name>Apprentice Witch [TP Legacy]</name>
     <proficiency>Arcana, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -64,7 +64,7 @@ Source:	Obojima: Tales from the Tall Grass p. 154 (Third Party)</text>
     </trait>
   </background>
   <background>
-    <name>Courier Brigade Cadet (TP)</name>
+    <name>Courier Brigade Cadet [TP Legacy]</name>
     <proficiency>Stealth, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -82,7 +82,7 @@ Source:	Obojima: Tales from the Tall Grass p. 155 (Third Party)</text>
     </trait>
   </background>
   <background>
-    <name>Mechanic (TP)</name>
+    <name>Mechanic [TP Legacy]</name>
     <proficiency/>
     <trait>
       <name>Description</name>
@@ -100,7 +100,7 @@ Source:	Obojima: Tales from the Tall Grass p. 155 (Third Party)</text>
     </trait>
   </background>
   <background>
-    <name>Spirit Kin (TP)</name>
+    <name>Spirit Kin [TP Legacy]</name>
     <proficiency>Persuasion</proficiency>
     <trait>
       <name>Description</name>

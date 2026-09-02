@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <feat>
-    <name>Aberrant Dragonmark</name>
+    <name>Aberrant Dragonmark [Legacy]</name>
     <prerequisite>No other dragonmark</prerequisite>
     <text>You have manifested an aberrant dragonmark. Determine its appearance and the flaw associated with it. You gain the following benefits:
 
@@ -28,7 +28,7 @@ Source:	Eberron: Rising from the Last War p. 52</text>
     <modifier category="ability score">constitution +1</modifier>
   </feat>
   <feat>
-    <name>Aberrant Dragonmark (WGE)</name>
+    <name>Aberrant Dragonmark (WGE) [Legacy]</name>
     <prerequisite>No other dragonmark</prerequisite>
     <text>You have manifested an aberrant dragonmark. Determine its appearance and the flaw associated with it. You gain the following benefits:
 
@@ -55,7 +55,7 @@ Source:	Wayfinder's Guide to Eberron p. 112</text>
     <modifier category="ability score">constitution +1</modifier>
   </feat>
   <feat>
-    <name>Revenant Blade (Strength)</name>
+    <name>Revenant Blade (Strength) [Legacy]</name>
     <prerequisite>Elf</prerequisite>
     <text>You are descended from a master of the double-bladed scimitar, and some of that mastery has passed on to you. You gain the following benefits:
 
@@ -70,7 +70,7 @@ Source:	Eberron: Rising from the Last War p. 22,
     <modifier category="ability score">strength +1</modifier>
   </feat>
   <feat>
-    <name>Revenant Blade (Dexterity)</name>
+    <name>Revenant Blade (Dexterity) [Legacy]</name>
     <prerequisite>Elf</prerequisite>
     <text>You are descended from a master of the double-bladed scimitar, and some of that mastery has passed on to you. You gain the following benefits:
 

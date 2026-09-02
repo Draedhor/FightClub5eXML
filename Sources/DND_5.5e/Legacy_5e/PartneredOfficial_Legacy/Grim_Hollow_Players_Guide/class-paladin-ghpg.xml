@@ -163,79 +163,79 @@ Source:	Grim Hollow: Player's Guide p. 58 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Bane</name>
+    <name>Bane [TP Legacy]</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
   </spell>
   <spell>
-    <name>Inflict Wounds</name>
+    <name>Inflict Wounds [TP Legacy]</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
   </spell>
   <spell>
-    <name>Acid Arrow</name>
+    <name>Acid Arrow [TP Legacy]</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
   </spell>
   <spell>
-    <name>Ray of Enfeeblement</name>
+    <name>Ray of Enfeeblement [TP Legacy]</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
   </spell>
   <spell>
-    <name>Flash Fever</name>
+    <name>Flash Fever [TP Legacy]</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
   </spell>
   <spell>
-    <name>Stinking Cloud</name>
+    <name>Stinking Cloud [TP Legacy]</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
   </spell>
   <spell>
-    <name>Blight</name>
+    <name>Blight [TP Legacy]</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
   </spell>
   <spell>
-    <name>Confusion</name>
+    <name>Confusion [TP Legacy]</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
   </spell>
   <spell>
-    <name>Contagion</name>
+    <name>Contagion [TP Legacy]</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow))</classes>
   </spell>
   <spell>
-    <name>Insect Plague</name>
+    <name>Insect Plague [TP Legacy]</name>
     <classes>Paladin (Oath of Pestilence (Grim Hollow)), Paladin (Oath of Zeal)</classes>
   </spell>
   <spell>
-    <name>Detect Evil and Good</name>
+    <name>Detect Evil and Good [TP Legacy]</name>
     <classes>Paladin (Oath of Zeal)</classes>
   </spell>
   <spell>
-    <name>Hunter's Mark</name>
+    <name>Hunter's Mark [TP Legacy]</name>
     <classes>Paladin (Oath of Zeal)</classes>
   </spell>
   <spell>
-    <name>Detect Thoughts</name>
+    <name>Detect Thoughts [TP Legacy]</name>
     <classes>Paladin (Oath of Zeal)</classes>
   </spell>
   <spell>
-    <name>Knock</name>
+    <name>Knock [TP Legacy]</name>
     <classes>Paladin (Oath of Zeal)</classes>
   </spell>
   <spell>
-    <name>Fear</name>
+    <name>Fear [TP Legacy]</name>
     <classes>Paladin (Oath of Zeal)</classes>
   </spell>
   <spell>
-    <name>Tongues</name>
+    <name>Tongues [TP Legacy]</name>
     <classes>Paladin (Oath of Zeal)</classes>
   </spell>
   <spell>
-    <name>Divination</name>
+    <name>Divination [TP Legacy]</name>
     <classes>Paladin (Oath of Zeal)</classes>
   </spell>
   <spell>
-    <name>Locate Creature</name>
+    <name>Locate Creature [TP Legacy]</name>
     <classes>Paladin (Oath of Zeal)</classes>
   </spell>
   <spell>
-    <name>Scrying</name>
+    <name>Scrying [TP Legacy]</name>
     <classes>Paladin (Oath of Zeal)</classes>
   </spell>
 </compendium>

@@ -104,43 +104,43 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 166 (Homebrew)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Feather Fall (TP)</name>
+    <name>Feather Fall [TP]</name>
     <classes>Warlock (The Void (HB))</classes>
   </spell>
   <spell>
-    <name>Gravity Leap (TP)</name>
+    <name>Gravity Leap [TP]</name>
     <classes>Warlock (The Void (HB))</classes>
   </spell>
   <spell>
-    <name>Levitate (TP)</name>
+    <name>Levitate [TP]</name>
     <classes>Warlock (The Void (HB))</classes>
   </spell>
   <spell>
-    <name>Otherworldly Gaze (TP)</name>
+    <name>Otherworldly Gaze [TP]</name>
     <classes>Warlock (The Void (HB))</classes>
   </spell>
   <spell>
-    <name>Astral Barrage (TP)</name>
+    <name>Astral Barrage [TP]</name>
     <classes>Warlock (The Void (HB))</classes>
   </spell>
   <spell>
-    <name>Blink (TP)</name>
+    <name>Blink [TP]</name>
     <classes>Warlock (The Void (HB))</classes>
   </spell>
   <spell>
-    <name>Evard's Black Tentacles (TP)</name>
+    <name>Evard's Black Tentacles [TP]</name>
     <classes>Warlock (The Void (HB))</classes>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere (TP)</name>
+    <name>Otiluke's Resilient Sphere [TP]</name>
     <classes>Warlock (The Void (HB))</classes>
   </spell>
   <spell>
-    <name>Telekinesis (TP)</name>
+    <name>Telekinesis [TP]</name>
     <classes>Warlock (The Void (HB))</classes>
   </spell>
   <spell>
-    <name>Starfall (TP)</name>
+    <name>Starfall [TP]</name>
     <classes>Warlock (The Void (HB))</classes>
   </spell>
 </compendium>

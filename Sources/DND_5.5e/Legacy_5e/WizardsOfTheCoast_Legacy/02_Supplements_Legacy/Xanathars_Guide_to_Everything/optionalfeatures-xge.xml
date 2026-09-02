@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Invocation: Aspect of the Moon</name>
+    <name>Invocation: Aspect of the Moon [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -16,7 +16,7 @@ You no longer need to sleep and can't be forced to sleep by any means. To gain t
 Source:	Xanathar's Guide to Everything p. 56</text>
   </spell>
   <spell>
-    <name>Invocation: Cloak of Flies</name>
+    <name>Invocation: Cloak of Flies [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -50,7 +50,7 @@ Once per turn when you hit a creature with your pact weapon, you can expend a wa
 Source:	Xanathar's Guide to Everything p. 56</text>
   </spell> -->
   <spell>
-    <name>Invocation: Ghostly Gaze</name>
+    <name>Invocation: Ghostly Gaze [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -84,7 +84,7 @@ You can also cast waterbreathing once without expending a spell slot. You regain
 Source:	Xanathar's Guide to Everything p. 57</text>
   </spell> -->
   <spell>
-    <name>Invocation: Gift of the Ever-Living Ones</name>
+    <name>Invocation: Gift of the Ever-Living Ones [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -99,7 +99,7 @@ Whenever you regain hit points while your familiar is within 100 feet of you, tr
 Source:	Xanathar's Guide to Everything p. 57</text>
   </spell>
   <spell>
-    <name>Invocation: Grasp of Hadar</name>
+    <name>Invocation: Grasp of Hadar [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -114,7 +114,7 @@ Once during your turn when you hit a creature with your eldritch blast cantrip, 
 Source:	Xanathar's Guide to Everything p. 57</text>
   </spell>
   <spell>
-    <name>Invocation: Improved Pact Weapon</name>
+    <name>Invocation: Improved Pact Weapon [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -133,7 +133,7 @@ Finally, the weapon you conjure can be a shortbow, longbow, light crossbow, or h
 Source:	Xanathar's Guide to Everything p. 57</text>
   </spell>
   <spell>
-    <name>Invocation: Lance of Lethargy</name>
+    <name>Invocation: Lance of Lethargy [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -148,7 +148,7 @@ Once on each of your turns when you hit a creature with your eldritch blast, you
 Source:	Xanathar's Guide to Everything p. 57</text>
   </spell>
   <spell>
-    <name>Invocation: Maddening Hex</name>
+    <name>Invocation: Maddening Hex [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -163,7 +163,7 @@ As a bonus action, you cause a psychic disturbance around the target cursed by y
 Source:	Xanathar's Guide to Everything p. 57</text>
   </spell>
   <spell>
-    <name>Invocation: Relentless Hex</name>
+    <name>Invocation: Relentless Hex [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -178,7 +178,7 @@ Your curse creates a temporary bond between you and your target. As a bonus acti
 Source:	Xanathar's Guide to Everything p. 57</text>
   </spell>
   <spell>
-    <name>Invocation: Shroud of Shadow</name>
+    <name>Invocation: Shroud of Shadow [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -193,7 +193,7 @@ You can cast invisibility at will, without expending a spell slot.
 Source:	Xanathar's Guide to Everything p. 57</text>
   </spell>
   <spell>
-    <name>Invocation: Tomb of Levistus</name>
+    <name>Invocation: Tomb of Levistus [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -210,7 +210,7 @@ Once you use this invocation, you can't use it again until you finish a short or
 Source:	Xanathar's Guide to Everything p. 57</text>
   </spell>
   <spell>
-    <name>Invocation: Trickster's Escape</name>
+    <name>Invocation: Trickster's Escape [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -226,7 +226,7 @@ Source:	Xanathar's Guide to Everything p. 57</text>
   </spell>
 
   <spell>
-    <name>Arcane Shot: Banishing Arrow</name>
+    <name>Arcane Shot: Banishing Arrow [Legacy]</name>
     <level>0</level>
     <school>A</school>
     <ritual>NO</ritual>
@@ -244,7 +244,7 @@ Source:	Xanathar's Guide to Everything p. 29</text>
     <roll>2d6</roll>
   </spell>
   <spell>
-    <name>Arcane Shot: Beguiling Arrow</name>
+    <name>Arcane Shot: Beguiling Arrow [Legacy]</name>
     <level>0</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -262,7 +262,7 @@ Source:	Xanathar's Guide to Everything p. 29</text>
     <roll>4d6</roll>
   </spell>
   <spell>
-    <name>Arcane Shot: Bursting Arrow</name>
+    <name>Arcane Shot: Bursting Arrow [Legacy]</name>
     <level>0</level>
     <school>EV</school>
     <ritual>NO</ritual>
@@ -280,7 +280,7 @@ Source:	Xanathar's Guide to Everything p. 29</text>
     <roll>4d6</roll>
   </spell>
   <spell>
-    <name>Arcane Shot: Enfeebling Arrow</name>
+    <name>Arcane Shot: Enfeebling Arrow [Legacy]</name>
     <level>0</level>
     <school>N</school>
     <ritual>NO</ritual>
@@ -298,7 +298,7 @@ Source:	Xanathar's Guide to Everything p. 29</text>
     <roll>4d6</roll>
   </spell>
   <spell>
-    <name>Arcane Shot: Grasping Arrow</name>
+    <name>Arcane Shot: Grasping Arrow [Legacy]</name>
     <level>0</level>
     <school>C</school>
     <ritual>NO</ritual>
@@ -316,7 +316,7 @@ Source:	Xanathar's Guide to Everything p. 29</text>
     <roll>4d6</roll>
   </spell>
   <spell>
-    <name>Arcane Shot: Piercing Arrow</name>
+    <name>Arcane Shot: Piercing Arrow [Legacy]</name>
     <level>0</level>
     <school>T</school>
     <ritual>NO</ritual>
@@ -334,7 +334,7 @@ Source:	Xanathar's Guide to Everything p. 29</text>
     <roll>2d6</roll>
   </spell>
   <spell>
-    <name>Arcane Shot: Seeking Arrow</name>
+    <name>Arcane Shot: Seeking Arrow [Legacy]</name>
     <level>0</level>
     <school>D</school>
     <ritual>NO</ritual>
@@ -352,7 +352,7 @@ Source:	Xanathar's Guide to Everything p. 29</text>
     <roll>2d6</roll>
   </spell>
   <spell>
-    <name>Arcane Shot: Shadow Arrow</name>
+    <name>Arcane Shot: Shadow Arrow [Legacy]</name>
     <level>0</level>
     <school>I</school>
     <ritual>NO</ritual>

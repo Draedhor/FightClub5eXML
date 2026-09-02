@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Arcane Oil (TP)</name>
+    <name>Arcane Oil [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <text>This substance is created by distilling the jelly that encases the brain of a xakalonus. As an action, you can coat one weapon or 20 pieces of ammunition with the substance.
@@ -11,7 +11,7 @@
 Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party)</text>
   </item>
   <item>
-    <name>Brazen Armor (TP)</name>
+    <name>Brazen Armor [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -31,7 +31,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party)</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Coat of Lies (TP)</name>
+    <name>Coat of Lies [TP Legacy]</name>
     <detail>rare (requires attunement by a spellcaster)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -42,7 +42,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party)</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Glass-Studded Armor (TP)</name>
+    <name>Glass-Studded Armor [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -55,7 +55,7 @@ Made from tough but flexible leather, studded leather is reinforced with close-s
 Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party)</text>
   </item>
   <item>
-    <name>Knifewing Cape (TP)</name>
+    <name>Knifewing Cape [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -65,7 +65,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party)</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Lindwyrm Venom (TP)</name>
+    <name>Lindwyrm Venom [TP Legacy]</name>
     <detail>very rare</detail>
     <type>P</type>
     <text>This terrible venom is extracted and distilled from the deadly lindwyrm. It can be delivered via ingestion or a wound. A creature exposed to the venom must succeed on a DC 18 Constitution saving throw or take 36 (8d8) poison damage and be poisoned for 1 minute. While poisoned, the creature has disadvantage on Strength and Dexterity skill checks and saving throws.
@@ -74,7 +74,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party)</text>
     <roll>8d8</roll>
   </item>
   <item>
-    <name>Lycanthropy Antidote (TP)</name>
+    <name>Lycanthropy Antidote [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -83,7 +83,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party)</text>
 Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party)</text>
   </item>
   <item>
-    <name>Ready Gunk (TP)</name>
+    <name>Ready Gunk [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -92,7 +92,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party)</text>
 Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party)</text>
   </item>
   <item>
-    <name>Wand of Silence (TP)</name>
+    <name>Wand of Silence [TP Legacy]</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -102,7 +102,7 @@ Source:	Grim Hollow: Lairs of Etharis p. 111 (Third Party)</text>
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>Lycan Weapons (Generic Variant) (TP)</name>
+    <name>Lycan Weapons (Generic Variant) [TP Legacy]</name>
     <detail>weapon (any), generic variant, rare</detail>
     <type>G</type>
     <magic>YES</magic>

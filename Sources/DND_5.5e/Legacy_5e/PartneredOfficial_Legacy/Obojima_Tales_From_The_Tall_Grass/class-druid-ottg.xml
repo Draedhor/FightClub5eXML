@@ -103,7 +103,7 @@ Source:	Obojima: Tales from the Tall Grass p. 137 (Third Party)</text>
     </autolevel>
   </class>
   <monster>
-    <name>Bestial Spirit</name>
+    <name>Bestial Spirit [TP Legacy]</name>
     <sortname>Spirit, Bestial</sortname>
     <ancestry>Spirit</ancestry>
     <size>M</size>

@@ -100,43 +100,43 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 155 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>False Life (TP)</name>
+    <name>False Life [TP]</name>
     <classes>Cleric (Shadow Domain (Drakkenheim) (HB))</classes>
   </spell>
   <spell>
-    <name>Sleep (TP)</name>
+    <name>Sleep [TP]</name>
     <classes>Cleric (Shadow Domain (Drakkenheim) (HB))</classes>
   </spell>
   <spell>
-    <name>Darkness (TP)</name>
+    <name>Darkness [TP]</name>
     <classes>Cleric (Shadow Domain (Drakkenheim) (HB))</classes>
   </spell>
   <spell>
-    <name>Pass without Trace (TP)</name>
+    <name>Pass without Trace [TP]</name>
     <classes>Cleric (Shadow Domain (Drakkenheim) (HB))</classes>
   </spell>
   <spell>
-    <name>Hypnotic Pattern (TP)</name>
+    <name>Hypnotic Pattern [TP]</name>
     <classes>Cleric (Shadow Domain (Drakkenheim) (HB))</classes>
   </spell>
   <spell>
-    <name>Nondetection (TP)</name>
+    <name>Nondetection [TP]</name>
     <classes>Cleric (Shadow Domain (Drakkenheim) (HB))</classes>
   </spell>
   <spell>
-    <name>Evard's Black Tentacles (TP)</name>
+    <name>Evard's Black Tentacles [TP]</name>
     <classes>Cleric (Shadow Domain (Drakkenheim) (HB))</classes>
   </spell>
   <spell>
-    <name>Greater Invisibility (TP)</name>
+    <name>Greater Invisibility [TP]</name>
     <classes>Cleric (Shadow Domain (Drakkenheim) (HB))</classes>
   </spell>
   <spell>
-    <name>Cone of Cold (TP)</name>
+    <name>Cone of Cold [TP]</name>
     <classes>Cleric (Shadow Domain (Drakkenheim) (HB))</classes>
   </spell>
   <spell>
-    <name>Dream (TP)</name>
+    <name>Dream [TP]</name>
     <classes>Cleric (Shadow Domain (Drakkenheim) (HB))</classes>
   </spell>
 </compendium>

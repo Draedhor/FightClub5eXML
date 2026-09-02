@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Guardian Angel (TP)</name>
+    <name>Guardian Angel [TP]</name>
     <sortname>Angel, Guardian</sortname>
     <ancestry>Angel</ancestry>
     <size>M</size>
@@ -57,7 +57,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Parasitic Geist (TP)</name>
+    <name>Parasitic Geist [TP]</name>
     <sortname>Geist, Parasitic</sortname>
     <ancestry>Geist</ancestry>
     <size>S</size>
@@ -103,7 +103,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 310 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fallen Luyarnhian (TP)</name>
+    <name>Fallen Luyarnhian [TP]</name>
     <size>M</size>
     <type>beast &amp; humanoid (any race)</type>
     <alignment>Chaotic Evil</alignment>
@@ -153,7 +153,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 311 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fallen Luyarnhian, Bloated Nightmare (TP)</name>
+    <name>Fallen Luyarnhian, Bloated Nightmare [TP]</name>
     <sortname>Fallen Luyarnhian, Bloated Nightmare</sortname>
     <ancestry>Fallen Luyarnhian</ancestry>
     <size>M</size>
@@ -211,7 +211,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 311 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Corvian Dweller (TP)</name>
+    <name>Corvian Dweller [TP]</name>
     <sortname>Corvian, Dweller</sortname>
     <ancestry>Corvian</ancestry>
     <size>M</size>
@@ -271,7 +271,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 312 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Geist (TP)</name>
+    <name>Geist [TP]</name>
     <ancestry>Geist</ancestry>
     <size>M</size>
     <type>undead</type>
@@ -330,7 +330,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 313 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Enhanced Patient (TP)</name>
+    <name>Enhanced Patient [TP]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Any Chaotic Alignment</alignment>
@@ -390,7 +390,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 314 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Zealot (TP)</name>
+    <name>Zealot [TP]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -447,7 +447,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 315 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Butcher (TP)</name>
+    <name>Butcher [TP]</name>
     <size>L</size>
     <type>humanoid &amp; monstrosity</type>
     <alignment>Lawful Neutral</alignment>
@@ -511,7 +511,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 316 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Scourge Lycan (TP)</name>
+    <name>Scourge Lycan [TP]</name>
     <sortname>Lycan, Scourge</sortname>
     <ancestry>Lycan</ancestry>
     <size>M</size>
@@ -569,7 +569,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 317 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Guardian Gargoyle (TP)</name>
+    <name>Guardian Gargoyle [TP]</name>
     <sortname>Gargoyle, Guardian</sortname>
     <ancestry>Gargoyle</ancestry>
     <size>M</size>
@@ -635,7 +635,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 318 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hunter (TP)</name>
+    <name>Hunter [TP]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -694,7 +694,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 319 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Razorblade Bitzer (TP)</name>
+    <name>Razorblade Bitzer [TP]</name>
     <sortname>Bitzer, Razorblade</sortname>
     <ancestry>Bitzer</ancestry>
     <size>M</size>
@@ -774,7 +774,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 320 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Screechwing (TP)</name>
+    <name>Screechwing [TP]</name>
     <size>M</size>
     <type>beast &amp; humanoid</type>
     <alignment>chaotic evil</alignment>
@@ -831,7 +831,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 321 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Abductor (TP)</name>
+    <name>Abductor [TP]</name>
     <size>M</size>
     <type>aberration &amp; humanoid</type>
     <alignment>Lawful Evil</alignment>
@@ -891,7 +891,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 322 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Revenant Bear (TP)</name>
+    <name>Revenant Bear [TP]</name>
     <sortname>Bear, Revenant</sortname>
     <ancestry>Bear</ancestry>
     <size>L</size>
@@ -955,7 +955,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 323 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Wisp Liege (TP)</name>
+    <name>Wisp Liege [TP]</name>
     <sortname>Wisp, Liege</sortname>
     <ancestry>Wisp</ancestry>
     <size>L</size>
@@ -1013,7 +1013,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 324 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Reviled Hound (TP)</name>
+    <name>Reviled Hound [TP]</name>
     <sortname>Hound, Reviled</sortname>
     <ancestry>Hound</ancestry>
     <size>M</size>
@@ -1077,7 +1077,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 325 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Scorched Adjudicator (TP)</name>
+    <name>Scorched Adjudicator [TP]</name>
     <sortname>Adjudicator, Scorched</sortname>
     <ancestry>Adjudicator</ancestry>
     <size>M</size>
@@ -1153,7 +1153,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 328 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ales Nebulae (TP)</name>
+    <name>Ales Nebulae [TP]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Lawful Neutral</alignment>
@@ -1231,7 +1231,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 330 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dullahan (TP)</name>
+    <name>Dullahan [TP]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>Lawful Evil</alignment>
@@ -1307,7 +1307,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 331 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Living Artillery (TP)</name>
+    <name>Living Artillery [TP]</name>
     <ancestry>Living Artillery</ancestry>
     <size>L</size>
     <type>aberration &amp; humanoid</type>
@@ -1374,7 +1374,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 332 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Living Artillery, Gatling Gun (TP)</name>
+    <name>Living Artillery, Gatling Gun [TP]</name>
     <ancestry>Living Artillery</ancestry>
     <size>L</size>
     <type>aberration &amp; humanoid</type>
@@ -1447,7 +1447,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 332 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nightmare Centipede (TP)</name>
+    <name>Nightmare Centipede [TP]</name>
     <sortname>Centipede, Nightmare</sortname>
     <ancestry>Centipede</ancestry>
     <size>L</size>
@@ -1530,7 +1530,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 335 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Skulking Shade (TP)</name>
+    <name>Skulking Shade [TP]</name>
     <sortname>Shade, Skulking</sortname>
     <ancestry>Shade</ancestry>
     <size>H</size>
@@ -1605,7 +1605,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 337 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dreadcrow (TP)</name>
+    <name>Dreadcrow [TP]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Chaotic Evil</alignment>
@@ -1693,7 +1693,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 338 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nightgaunt (TP)</name>
+    <name>Nightgaunt [TP]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Neutral</alignment>
@@ -1775,7 +1775,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 340 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cloistered Maiden (TP)</name>
+    <name>Cloistered Maiden [TP]</name>
     <sortname>Maiden, Cloistered</sortname>
     <ancestry>Maiden</ancestry>
     <npc>YES</npc>
@@ -1866,7 +1866,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 341 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Chained Giant (TP)</name>
+    <name>Chained Giant [TP]</name>
     <sortname>Giant, Chained</sortname>
     <ancestry>Giant</ancestry>
     <size>H</size>
@@ -1939,7 +1939,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 343 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hollow Sentinel (TP)</name>
+    <name>Hollow Sentinel [TP]</name>
     <sortname>Sentinel, Hollow</sortname>
     <ancestry>Sentinel</ancestry>
     <npc>YES</npc>
@@ -2034,7 +2034,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 345 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jaeger (TP)</name>
+    <name>Jaeger [TP]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -2139,7 +2139,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 347 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lieutenant Captain Adelle Roux (TP)</name>
+    <name>Lieutenant Captain Adelle Roux [TP]</name>
     <sortname>Roux, Adelle</sortname>
     <ancestry>Knight</ancestry>
     <npc>YES</npc>
@@ -2216,7 +2216,7 @@ Source:	Monster Manual (2014) p. 347,
     <environment/>
   </monster>
   <monster>
-    <name>Lunar Revenant (TP)</name>
+    <name>Lunar Revenant [TP]</name>
     <sortname>Revenant, Lunar</sortname>
     <ancestry>Revenant</ancestry>
     <size>H</size>
@@ -2302,7 +2302,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 349 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Roaring Mane (TP)</name>
+    <name>Roaring Mane [TP]</name>
     <sortname>Mane, Roaring</sortname>
     <ancestry>Mane</ancestry>
     <size>L</size>
@@ -2377,7 +2377,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 351 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Blue-Flame Custodian (TP)</name>
+    <name>Blue-Flame Custodian [TP]</name>
     <sortname>Custodian, Blue-Flame</sortname>
     <ancestry>Custodian</ancestry>
     <size>L</size>
@@ -2469,7 +2469,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 352 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cervus Tenebris (TP)</name>
+    <name>Cervus Tenebris [TP]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -2543,7 +2543,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 353 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Devouring Belua (TP)</name>
+    <name>Devouring Belua [TP]</name>
     <sortname>Belua, Devouring</sortname>
     <ancestry>Belua</ancestry>
     <size>L</size>
@@ -2642,7 +2642,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 355 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Devouring Belua, Revelations (TP)</name>
+    <name>Devouring Belua, Revelations [TP]</name>
     <sortname>Belua, Devouring Revelations</sortname>
     <ancestry>Belua</ancestry>
     <size>L</size>
@@ -2745,7 +2745,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 355 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Owlbear (TP)</name>
+    <name>Owlbear [TP]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -2814,7 +2814,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 357 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Penitent (TP)</name>
+    <name>Penitent [TP]</name>
     <size>L</size>
     <type>humanoid &amp; monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -2902,7 +2902,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 360 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Galvanized Prowler (TP)</name>
+    <name>Galvanized Prowler [TP]</name>
     <sortname>Prowler, Galvanized</sortname>
     <ancestry>Prowler</ancestry>
     <size>L</size>
@@ -3001,7 +3001,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 362 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Death (TP)</name>
+    <name>Death [TP]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>undead</type>
@@ -3096,7 +3096,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 363 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dreamer's Minor Avatar (TP)</name>
+    <name>Dreamer's Minor Avatar [TP]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Any Evil Alignment</alignment>
@@ -3180,7 +3180,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 365 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Soul-Snatching Aranea (TP)</name>
+    <name>Soul-Snatching Aranea [TP]</name>
     <sortname>Aranea, Soul-Snatching</sortname>
     <ancestry>Aranea</ancestry>
     <size>L</size>
@@ -3290,7 +3290,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 367 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ectellax the Flayed (TP)</name>
+    <name>Ectellax the Flayed [TP]</name>
     <sortname>Dragon, Adult Eldritch, Ectellax the Flayed</sortname>
     <ancestry>Dragon</ancestry>
     <size>H</size>
@@ -3416,7 +3416,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 370 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Orr, The Grieving Rebirth (First Form) (TP)</name>
+    <name>Orr, The Grieving Rebirth (First Form) [TP]</name>
     <size>H</size>
     <type>aberration (god)</type>
     <alignment>Chaotic Evil</alignment>
@@ -3555,7 +3555,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 370 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Orr, The Grieving Rebirth (Second Form) (TP)</name>
+    <name>Orr, The Grieving Rebirth (Second Form) [TP]</name>
     <size>H</size>
     <type>aberration (god)</type>
     <alignment>Chaotic Evil</alignment>
@@ -3688,7 +3688,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 370 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Goat Mother's Avatar (TP)</name>
+    <name>Goat Mother's Avatar [TP]</name>
     <size>H</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -3862,7 +3862,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 376 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Veiled Hunters (TP)</name>
+    <name>Veiled Hunters [TP]</name>
     <sortname>Hunters, Veiled</sortname>
     <ancestry>Fallen Hunters</ancestry>
     <npc>YES</npc>
@@ -3961,7 +3961,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 380 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>The Veiled Hunter (TP)</name>
+    <name>The Veiled Hunter [TP]</name>
     <sortname>Hunters, Veiled</sortname>
     <ancestry>Fallen Hunters</ancestry>
     <npc>YES</npc>
@@ -4064,7 +4064,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 380 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>The Deviled Librarian (TP)</name>
+    <name>The Deviled Librarian [TP]</name>
     <sortname>Librarian, The Deviled</sortname>
     <ancestry>Librarian</ancestry>
     <size>M</size>
@@ -4162,7 +4162,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 381 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tisiphone - The Primal Chaos (TP)</name>
+    <name>Tisiphone - The Primal Chaos [TP]</name>
     <sortname>Tisiphone - The Primal Chaos</sortname>
     <ancestry>Tisiphone</ancestry>
     <size>M</size>
@@ -4274,7 +4274,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 383 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Malach - The Angel of Flesh (TP)</name>
+    <name>Malach - The Angel of Flesh [TP]</name>
     <sortname>Malach - The Angel of Flesh</sortname>
     <ancestry>Malach</ancestry>
     <size>M</size>
@@ -4417,7 +4417,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 385 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Vicar Priscilla (TP)</name>
+    <name>Vicar Priscilla [TP]</name>
     <sortname>Vicar, Priscilla</sortname>
     <ancestry>Vicar</ancestry>
     <npc>YES</npc>
@@ -4535,7 +4535,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 387 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Abaddon, Failed Sentintel (TP)</name>
+    <name>Abaddon, Failed Sentintel [TP]</name>
     <size>L</size>
     <type>celestial</type>
     <alignment>Chaotic Evil</alignment>
@@ -4650,7 +4650,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 389 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>The Radiant Watcher (TP)</name>
+    <name>The Radiant Watcher [TP]</name>
     <sortname>Radiant Watcher, The</sortname>
     <ancestry>Radiant Watcher</ancestry>
     <size>L</size>
@@ -4769,7 +4769,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 391 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gerhard - The Accursed Knight (TP)</name>
+    <name>Gerhard - The Accursed Knight [TP]</name>
     <npc>YES</npc>
     <size>L</size>
     <type>celestial &amp; humanoid</type>
@@ -4912,7 +4912,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 393 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>The King of the Hunt (TP)</name>
+    <name>The King of the Hunt [TP]</name>
     <sortname>King of the Hunt, The</sortname>
     <ancestry>King of the Hunt</ancestry>
     <size>H</size>
@@ -5046,7 +5046,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 393 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gwena (TP)</name>
+    <name>Gwena [TP]</name>
     <sortname>Lycan, Scourge Gwena</sortname>
     <ancestry>Lycan</ancestry>
     <npc>YES</npc>
@@ -5105,7 +5105,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 404 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kaspar (TP)</name>
+    <name>Kaspar [TP]</name>
     <sortname>Hunter, Kaspar</sortname>
     <ancestry>Hunter</ancestry>
     <npc>YES</npc>
@@ -5169,7 +5169,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 404 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Geraldine (TP)</name>
+    <name>Geraldine [TP]</name>
     <sortname>Hunter, Geraldine</sortname>
     <ancestry>Hunter</ancestry>
     <npc>YES</npc>
@@ -5233,7 +5233,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 409 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Father Hauke (TP)</name>
+    <name>Father Hauke [TP]</name>
     <sortname>Zealot, Father Hauke</sortname>
     <ancestry>Zealot</ancestry>
     <npc>YES</npc>
@@ -5295,7 +5295,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 409 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Maddon Gillet (TP)</name>
+    <name>Maddon Gillet [TP]</name>
     <sortname>Gillet, Maddon</sortname>
     <ancestry>spy</ancestry>
     <npc>YES</npc>
@@ -5355,7 +5355,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 415 (Homebrew),
     <environment/>
   </monster>
   <monster>
-    <name>Lord Rehwoldt (TP)</name>
+    <name>Lord Rehwoldt [TP]</name>
     <sortname>Rehwoldt, Lord</sortname>
     <ancestry>Noble</ancestry>
     <npc>YES</npc>
@@ -5400,7 +5400,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 418 (Homebrew),
     <environment/>
   </monster>
   <monster>
-    <name>Borast Deepreaver (TP)</name>
+    <name>Borast Deepreaver [TP]</name>
     <sortname>Deepreaver, Borast</sortname>
     <ancestry>Jaeger</ancestry>
     <npc>YES</npc>
@@ -5510,7 +5510,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 419 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Vicar Henri Inonder (TP)</name>
+    <name>Vicar Henri Inonder [TP]</name>
     <sortname>Inonder, Henri (Vicar)</sortname>
     <ancestry>Priest</ancestry>
     <npc>YES</npc>
@@ -5569,7 +5569,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 421 (Homebrew),
     <environment/>
   </monster>
   <monster>
-    <name>Vargas the Scorched (TP)</name>
+    <name>Vargas the Scorched [TP]</name>
     <sortname>Adjudicator, Scorched Vargas</sortname>
     <ancestry>Adjudicator</ancestry>
     <size>M</size>
@@ -5658,7 +5658,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 425 (Homebrew)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lord Jasper Roth (TP)</name>
+    <name>Lord Jasper Roth [TP]</name>
     <sortname>Roth, Jasper</sortname>
     <ancestry>Noble</ancestry>
     <npc>YES</npc>
@@ -5703,7 +5703,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 430 (Homebrew),
     <environment/>
   </monster>
   <monster>
-    <name>Bram LeGrand The Acolyte (TP)</name>
+    <name>Bram LeGrand The Acolyte [TP]</name>
     <sortname>LeGrand, Bram</sortname>
     <ancestry>Priest</ancestry>
     <npc>YES</npc>
@@ -5762,7 +5762,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 432 (Homebrew),
     <environment/>
   </monster>
   <monster>
-    <name>Cerwyn Raolet, The Mad Mage (TP)</name>
+    <name>Cerwyn Raolet, The Mad Mage [TP]</name>
     <sortname>Raolet, Cerwyn, The Mad Mage</sortname>
     <ancestry>Mage</ancestry>
     <npc>YES</npc>
@@ -5821,7 +5821,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 439 (Homebrew),
     <environment/>
   </monster>
   <monster>
-    <name>Percival Stanway (TP)</name>
+    <name>Percival Stanway [TP]</name>
     <sortname>Stanway, Percival</sortname>
     <ancestry>Mage</ancestry>
     <npc>YES</npc>
@@ -5886,7 +5886,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 456 (Homebrew),
     <environment/>
   </monster>
   <monster>
-    <name>Lost Ones (TP)</name>
+    <name>Lost Ones [TP]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>

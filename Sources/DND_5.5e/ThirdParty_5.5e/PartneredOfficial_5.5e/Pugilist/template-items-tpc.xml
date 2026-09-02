@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <itemtemplate>
-    <name>Punchdrunk Punters %name% (TP)</name>
+    <name>Punchdrunk Punters %name% [TP]</name>
     <detail>rare</detail>
     <match>Brass Knuckles,Hand Claws,Punch Knife</match>
     <text>These beat up and well worn weapons smell as if they've spent a week at the bottom of a forgotten cask in a busy tavern.

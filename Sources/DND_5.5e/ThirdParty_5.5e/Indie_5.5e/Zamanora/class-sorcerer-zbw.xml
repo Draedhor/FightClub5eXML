@@ -275,75 +275,75 @@ Source:	Zamanora: Ballad of the Witch p. 104 (Homebrew)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Bane (TP)</name>
+    <name>Bane [TP]</name>
     <classes>Sorcerer (Crimson Tide (HB)), Sorcerer (Curse Weaver (HB))</classes>
   </spell>
   <spell>
-    <name>Charm Person (TP)</name>
+    <name>Charm Person [TP]</name>
     <classes>Sorcerer (Crimson Tide (HB))</classes>
   </spell>
   <spell>
-    <name>Enthrall (TP)</name>
+    <name>Enthrall [TP]</name>
     <classes>Sorcerer (Crimson Tide (HB)), Sorcerer (Curse Weaver (HB))</classes>
   </spell>
   <spell>
-    <name>Hold Person (TP)</name>
+    <name>Hold Person [TP]</name>
     <classes>Sorcerer (Crimson Tide (HB))</classes>
   </spell>
   <spell>
-    <name>Fear (TP)</name>
+    <name>Fear [TP]</name>
     <classes>Sorcerer (Crimson Tide (HB))</classes>
   </spell>
   <spell>
-    <name>Vampiric Touch (TP)</name>
+    <name>Vampiric Touch [TP]</name>
     <classes>Sorcerer (Crimson Tide (HB))</classes>
   </spell>
   <spell>
-    <name>Compulsion (TP)</name>
+    <name>Compulsion [TP]</name>
     <classes>Sorcerer (Crimson Tide (HB))</classes>
   </spell>
   <spell>
-    <name>Dominate Beast (TP)</name>
+    <name>Dominate Beast [TP]</name>
     <classes>Sorcerer (Crimson Tide (HB))</classes>
   </spell>
   <spell>
-    <name>Dominate Person (TP)</name>
+    <name>Dominate Person [TP]</name>
     <classes>Sorcerer (Crimson Tide (HB))</classes>
   </spell>
   <spell>
-    <name>Hold Monster (TP)</name>
+    <name>Hold Monster [TP]</name>
     <classes>Sorcerer (Crimson Tide (HB))</classes>
   </spell>
   <spell>
-    <name>Blindness/Deafness (TP)</name>
+    <name>Blindness/Deafness [TP]</name>
     <classes>Sorcerer (Curse Weaver (HB))</classes>
   </spell>
   <spell>
-    <name>Hex (TP)</name>
+    <name>Hex [TP]</name>
     <classes>Sorcerer (Curse Weaver (HB))</classes>
   </spell>
   <spell>
-    <name>Bestow Curse (TP)</name>
+    <name>Bestow Curse [TP]</name>
     <classes>Sorcerer (Curse Weaver (HB))</classes>
   </spell>
   <spell>
-    <name>Remove Curse (TP)</name>
+    <name>Remove Curse [TP]</name>
     <classes>Sorcerer (Curse Weaver (HB))</classes>
   </spell>
   <spell>
-    <name>Locate Creature (TP)</name>
+    <name>Locate Creature [TP]</name>
     <classes>Sorcerer (Curse Weaver (HB))</classes>
   </spell>
   <spell>
-    <name>Phantasmal Killer (TP)</name>
+    <name>Phantasmal Killer [TP]</name>
     <classes>Sorcerer (Curse Weaver (HB))</classes>
   </spell>
   <spell>
-    <name>Geas (TP)</name>
+    <name>Geas [TP]</name>
     <classes>Sorcerer (Curse Weaver (HB))</classes>
   </spell>
   <spell>
-    <name>Scrying (TP)</name>
+    <name>Scrying [TP]</name>
     <classes>Sorcerer (Curse Weaver (HB))</classes>
   </spell>
 </compendium>

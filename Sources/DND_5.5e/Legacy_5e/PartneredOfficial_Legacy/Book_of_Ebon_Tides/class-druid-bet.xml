@@ -89,43 +89,43 @@ Source:	Book of Ebon Tides p. 42 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Bane</name>
+    <name>Bane [TP Legacy]</name>
     <classes>Druid (Circle of Shadows (Third Party))</classes>
   </spell>
   <spell>
-    <name>False Life</name>
+    <name>False Life [TP Legacy]</name>
     <classes>Druid (Circle of Shadows (Third Party))</classes>
   </spell>
   <spell>
-    <name>Darkness</name>
+    <name>Darkness [TP Legacy]</name>
     <classes>Druid (Circle of Shadows (Third Party))</classes>
   </spell>
   <spell>
-    <name>Darkvision</name>
+    <name>Darkvision [TP Legacy]</name>
     <classes>Druid (Circle of Shadows (Third Party))</classes>
   </spell>
   <spell>
-    <name>Blink</name>
+    <name>Blink [TP Legacy]</name>
     <classes>Druid (Circle of Shadows (Third Party))</classes>
   </spell>
   <spell>
-    <name>Fear</name>
+    <name>Fear [TP Legacy]</name>
     <classes>Druid (Circle of Shadows (Third Party))</classes>
   </spell>
   <spell>
-    <name>Evard's Black Tentacles</name>
+    <name>Evard's Black Tentacles [TP Legacy]</name>
     <classes>Druid (Circle of Shadows (Third Party))</classes>
   </spell>
   <spell>
-    <name>Greater Invisibility</name>
+    <name>Greater Invisibility [TP Legacy]</name>
     <classes>Druid (Circle of Shadows (Third Party))</classes>
   </spell>
   <spell>
-    <name>Cone of Cold</name>
+    <name>Cone of Cold [TP Legacy]</name>
     <classes>Druid (Circle of Shadows (Third Party))</classes>
   </spell>
   <spell>
-    <name>Dream</name>
+    <name>Dream [TP Legacy]</name>
     <classes>Druid (Circle of Shadows (Third Party))</classes>
   </spell>
 </compendium>

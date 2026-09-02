@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Archon of Redemption</name>
+    <name>Archon of Redemption [TP Legacy]</name>
     <size>L</size>
     <type>celestial</type>
     <alignment>Lawful Neutral</alignment>
@@ -66,7 +66,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Felidar (Plane Shift: Zendikar)</name>
+    <name>Felidar (Plane Shift: Zendikar) [TP Legacy]</name>
     <size>L</size>
     <type>celestial</type>
     <alignment>Lawful Good</alignment>
@@ -154,7 +154,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Kraken (Plane Shift: Zendikar)</name>
+    <name>Kraken (Plane Shift: Zendikar) [TP Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>

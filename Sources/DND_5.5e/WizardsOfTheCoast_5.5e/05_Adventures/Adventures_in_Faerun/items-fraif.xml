@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Deathdance [5.5e]</name>
+    <name>Deathdance</name>
     <detail>poison (injury)</detail>
     <type>G</type>
     <value>200</value>
@@ -14,7 +14,7 @@ Injury: Injury poison can be applied to weapons, ammunition, trap components, an
 Source:	Forgotten Realms: Adventures in Faerûn p. 237</text>
   </item>
   <item>
-    <name>Prespra [5.5e]</name>
+    <name>Prespra</name>
     <detail>poison (ingested)</detail>
     <type>G</type>
     <value>300</value>
@@ -28,7 +28,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 237</text>
     <roll description="Poison Damage">1d6</roll>
   </item>
   <item>
-    <name>Ulcrun [5.5e]</name>
+    <name>Ulcrun</name>
     <detail>poison (injury)</detail>
     <type>G</type>
     <value>1000</value>
@@ -42,7 +42,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 237</text>
     <roll description="Poison Damage">6d6</roll>
   </item>
   <item>
-    <name>Yellow Death [5.5e]</name>
+    <name>Yellow Death</name>
     <detail>poison (ingested)</detail>
     <type>G</type>
     <value>150</value>
@@ -52,7 +52,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 237</text>
     <roll description="Poison Damage">4d6</roll>
   </item>
   <item>
-    <name>Calimemnon Crystal [5.5e]</name>
+    <name>Calimemnon Crystal</name>
     <detail>artifact (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -88,7 +88,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 243</text>
     <roll>2d6+2</roll>
   </item>
   <item>
-    <name>Crown of Horns [5.5e]</name>
+    <name>Crown of Horns</name>
     <detail>cursed, artifact (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -137,7 +137,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 243</text>
 
 Source:	Forgotten Realms: Adventures in Faerûn</text></item>-->
   <item>
-    <name>Golden Harper Pin [5.5e]</name>
+    <name>Golden Harper Pin</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -147,7 +147,7 @@ Source:	Forgotten Realms: Adventures in Faerûn</text></item>-->
 Source:	Forgotten Realms: Adventures in Faerûn p. 244</text>
   </item>
   <item>
-    <name>Silver Harper Pin [5.5e]</name>
+    <name>Silver Harper Pin</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -157,7 +157,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 244</text>
 Source:	Forgotten Realms: Adventures in Faerûn p. 244</text>
   </item>
   <item>
-    <name>Mechanical Wonder (Generic Version) [5.5e]</name>
+    <name>Mechanical Wonder (Generic Version)</name>
     <type>W</type>
     <magic>YES</magic>
     <weight>500</weight>
@@ -175,7 +175,7 @@ Multiple variations of this item exist, as listed below:
 Source:	Forgotten Realms: Adventures in Faerûn</text>
   </item>
   <item>
-    <name>Domestic Wonder [5.5e]</name>
+    <name>Domestic Wonder</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -190,7 +190,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 245,
 		Forgotten Realms: Heroes of Faerûn p. 134</text>
   </item>
   <item>
-    <name>Flying Wonder [5.5e]</name>
+    <name>Flying Wonder</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -204,7 +204,7 @@ An activated flying wonder uses the Flying Wonder stat block. The wonder is an a
 Source:	Forgotten Realms: Adventures in Faerûn p. 245</text>
   </item>
   <item>
-    <name>Gyrocopter Wonder [5.5e]</name>
+    <name>Gyrocopter Wonder</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -221,7 +221,7 @@ The gyrocopter wonder is a Huge object that weighs 500 pounds and has the follow
 Source:	Forgotten Realms: Adventures in Faerûn p. 245</text>
   </item>
   <item>
-    <name>Mobility Wonder [5.5e]</name>
+    <name>Mobility Wonder</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -235,7 +235,7 @@ While inactive, the mobility wonder resembles a metal turtle shell with straps. 
 Source:	Forgotten Realms: Adventures in Faerûn p. 246</text>
   </item>
   <item>
-    <name>Orb of Damara [5.5e]</name>
+    <name>Orb of Damara</name>
     <detail>artifact (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -274,7 +274,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 246</text>
     <roll description="Recharge">1d4+2</roll>
   </item>
   <item>
-    <name>Tome of the Dragon [5.5e]</name>
+    <name>Tome of the Dragon</name>
     <detail>legendary</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -288,7 +288,7 @@ Source:	Forgotten Realms: Adventures in Faerûn p. 247</text>
     <roll>12d6</roll>
   </item>
   <item>
-    <name>Windskiff [5.5e]</name>
+    <name>Windskiff</name>
     <detail>vehicle (land), rare</detail>
     <type>W</type>
     <magic>YES</magic>

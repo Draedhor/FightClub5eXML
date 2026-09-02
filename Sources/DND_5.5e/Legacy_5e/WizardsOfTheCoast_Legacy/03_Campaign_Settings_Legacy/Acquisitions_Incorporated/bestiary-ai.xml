@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Ancient Deep Crow</name>
+    <name>Ancient Deep Crow [Legacy]</name>
     <sortname>Deep Crow, Ancient</sortname>
     <ancestry>Deep Crow</ancestry>
     <size>H</size>
@@ -105,7 +105,7 @@ Source:	Acquisitions Incorporated p. 211</description>
     <environment/>
   </monster>
   <monster>
-    <name>Auspicia Dran</name>
+    <name>Auspicia Dran [Legacy]</name>
     <sortname>Dran, Auspicia</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -160,7 +160,7 @@ Source:	Acquisitions Incorporated p. 208</description>
     <environment/>
   </monster>
   <monster>
-    <name>Brahma Lutier</name>
+    <name>Brahma Lutier [Legacy]</name>
     <sortname>Lutier, Brahma</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -222,7 +222,7 @@ Source:	Acquisitions Incorporated p. 205</description>
     <environment/>
   </monster>
   <monster>
-    <name>Chaos Quadrapod</name>
+    <name>Chaos Quadrapod [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Chaotic Evil</alignment>
@@ -269,7 +269,7 @@ Source:	Acquisitions Incorporated p. 209</description>
     <environment/>
   </monster>
   <monster>
-    <name>Clockwork Dragon</name>
+    <name>Clockwork Dragon [Legacy]</name>
     <sortname>Dragon, Clockwork</sortname>
     <ancestry>Dragon</ancestry>
     <size>M</size>
@@ -316,7 +316,7 @@ Source:	Acquisitions Incorporated p. 209</description>
     <environment/>
   </monster>
   <monster>
-    <name>Deep Crow</name>
+    <name>Deep Crow [Legacy]</name>
     <sortname>Deep Crow</sortname>
     <ancestry>Deep Crow</ancestry>
     <size>L</size>
@@ -382,7 +382,7 @@ Source:	Acquisitions Incorporated p. 210</description>
     <environment/>
   </monster>
   <monster>
-    <name>Donaar Blit'zen</name>
+    <name>Donaar Blit'zen [Legacy]</name>
     <sortname>Blit'zen, Donaar</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -452,7 +452,7 @@ Source:	Acquisitions Incorporated p. 201</description>
     <environment/>
   </monster>
   <monster>
-    <name>Flabbergast</name>
+    <name>Flabbergast [Legacy]</name>
     <sortname>Flabbergast</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -506,7 +506,7 @@ Source:	Acquisitions Incorporated p. 200</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jim Darkmagic</name>
+    <name>Jim Darkmagic [Legacy]</name>
     <sortname>Darkmagic, Jim</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -573,7 +573,7 @@ Source:	Acquisitions Incorporated p. 197</description>
     <environment/>
   </monster>
   <monster>
-    <name>K'thriss Drow'b</name>
+    <name>K'thriss Drow'b [Legacy]</name>
     <sortname>Drow'b, K'thriss</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -652,7 +652,7 @@ Source:	Acquisitions Incorporated p. 202</description>
     <environment/>
   </monster>
   <monster>
-    <name>Keg Robot</name>
+    <name>Keg Robot [Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -712,7 +712,7 @@ Source:	Acquisitions Incorporated p. 212</description>
     <environment/>
   </monster>
   <monster>
-    <name>Môrgæn</name>
+    <name>Môrgæn [Legacy]</name>
     <sortname>Môrgæn</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -781,7 +781,7 @@ Source:	Acquisitions Incorporated p. 199</description>
     <environment/>
   </monster>
   <monster>
-    <name>Oak Truestrike</name>
+    <name>Oak Truestrike [Legacy]</name>
     <sortname>Truestrike, Oak</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -840,7 +840,7 @@ Source:	Acquisitions Incorporated p. 205</description>
     <environment/>
   </monster>
   <monster>
-    <name>Omin Dran</name>
+    <name>Omin Dran [Legacy]</name>
     <sortname>Dran, Omin</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -910,7 +910,7 @@ Source:	Acquisitions Incorporated p. 196</description>
     <environment/>
   </monster>
   <monster>
-    <name>Pendragon Beestinger</name>
+    <name>Pendragon Beestinger [Legacy]</name>
     <sortname>Beestinger, Pendragon</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -963,7 +963,7 @@ Source:	Acquisitions Incorporated p. 206</description>
     <environment/>
   </monster>
   <monster>
-    <name>Phoenix Anvil</name>
+    <name>Phoenix Anvil [Legacy]</name>
     <sortname>Anvil, Phoenix</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1020,7 +1020,7 @@ Source:	Acquisitions Incorporated p. 206</description>
     <environment/>
   </monster>
   <monster>
-    <name>Portentia Dran</name>
+    <name>Portentia Dran [Legacy]</name>
     <sortname>Dran, Portentia</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1072,7 +1072,7 @@ Source:	Acquisitions Incorporated p. 208</description>
     <environment/>
   </monster>
   <monster>
-    <name>Prophetess Dran</name>
+    <name>Prophetess Dran [Legacy]</name>
     <sortname>Dran, Prophetess</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1132,7 +1132,7 @@ Source:	Acquisitions Incorporated p. 208</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rosie Beestinger</name>
+    <name>Rosie Beestinger [Legacy]</name>
     <sortname>Beestinger, Rosie</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -1210,7 +1210,7 @@ Source:	Acquisitions Incorporated p. 203</description>
     <environment/>
   </monster>
   <monster>
-    <name>Splugoth the Returned</name>
+    <name>Splugoth the Returned [Legacy]</name>
     <sortname>Returned, Splugoth the</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -1275,7 +1275,7 @@ Source:	Acquisitions Incorporated p. 213</description>
     <environment/>
   </monster>
   <monster>
-    <name>Viari</name>
+    <name>Viari [Legacy]</name>
     <sortname>Viari</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1346,7 +1346,7 @@ Source:	Acquisitions Incorporated p. 198</description>
     <environment/>
   </monster>
   <monster>
-    <name>Walnut Dankgrass</name>
+    <name>Walnut Dankgrass [Legacy]</name>
     <sortname>Dankgrass, Walnut</sortname>
     <npc>YES</npc>
     <size>M</size>

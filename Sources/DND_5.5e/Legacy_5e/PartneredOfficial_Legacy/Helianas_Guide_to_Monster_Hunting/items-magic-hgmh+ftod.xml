@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Dragon Wing Hand Tommybow (TP)</name>
+    <name>Dragon Wing Hand Tommybow [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -33,7 +33,7 @@ Source:	Fizban's Treasury of Dragons p. 23,
     <roll description="Acid Damage">1d6</roll>
   </item>
   <item>
-    <name>Dragon Wing Light Tommybow (TP)</name>
+    <name>Dragon Wing Light Tommybow [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -63,7 +63,7 @@ Source:	Fizban's Treasury of Dragons p. 23,
     <roll description="Acid Damage">1d6</roll>
   </item>
   <item>
-    <name>Dragon Wing Heavy Tommybow (TP)</name>
+    <name>Dragon Wing Heavy Tommybow [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -95,7 +95,7 @@ Source:	Fizban's Treasury of Dragons p. 23,
     <roll description="Acid Damage">1d6</roll>
   </item>
   <item>
-    <name>Dragon's Wrath Claw (TP)</name>
+    <name>Dragon's Wrath Claw [TP Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -126,7 +126,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Dragon's Wrath Haladie (TP)</name>
+    <name>Dragon's Wrath Haladie [TP Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -159,7 +159,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Dragon's Wrath Magitech Firearm (TP)</name>
+    <name>Dragon's Wrath Magitech Firearm [TP Legacy]</name>
     <detail>firearm, varies (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -199,7 +199,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Dragon's Wrath Nunchuck (TP)</name>
+    <name>Dragon's Wrath Nunchuck [TP Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -233,7 +233,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Dragon's Wrath Tetherhook (TP)</name>
+    <name>Dragon's Wrath Tetherhook [TP Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -267,7 +267,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Dragon's Wrath Hand Tommybow (TP)</name>
+    <name>Dragon's Wrath Hand Tommybow [TP Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -307,7 +307,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Dragon's Wrath Light Tommybow (TP)</name>
+    <name>Dragon's Wrath Light Tommybow [TP Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -345,7 +345,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Dragon's Wrath Heavy Tommybow (TP)</name>
+    <name>Dragon's Wrath Heavy Tommybow [TP Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -385,7 +385,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Slumbering Dragon's Wrath Claw (TP)</name>
+    <name>Slumbering Dragon's Wrath Claw [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -407,7 +407,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Slumbering Dragon's Wrath Haladie (TP)</name>
+    <name>Slumbering Dragon's Wrath Haladie [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -431,7 +431,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Slumbering Dragon's Wrath Magitech Firearm (TP)</name>
+    <name>Slumbering Dragon's Wrath Magitech Firearm [TP Legacy]</name>
     <detail>firearm, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -462,7 +462,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Heliana's Guide to Monster Hunting - Part One p. 122</text>
   </item>
   <item>
-    <name>Slumbering Dragon's Wrath Nunchuck (TP)</name>
+    <name>Slumbering Dragon's Wrath Nunchuck [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -487,7 +487,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Slumbering Dragon's Wrath Tetherhook (TP)</name>
+    <name>Slumbering Dragon's Wrath Tetherhook [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -512,7 +512,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Slumbering Dragon's Wrath Hand Tommybow (TP)</name>
+    <name>Slumbering Dragon's Wrath Hand Tommybow [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -543,7 +543,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Slumbering Dragon's Wrath Light Tommybow (TP)</name>
+    <name>Slumbering Dragon's Wrath Light Tommybow [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -572,7 +572,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Slumbering Dragon's Wrath Heavy Tommybow (TP)</name>
+    <name>Slumbering Dragon's Wrath Heavy Tommybow [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -603,7 +603,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Heliana's Guide to Monster Hunting - Part One</text>
   </item>
   <item>
-    <name>Stirring Dragon's Wrath Claw (TP)</name>
+    <name>Stirring Dragon's Wrath Claw [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -629,7 +629,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">1d6</roll>
   </item>
   <item>
-    <name>Stirring Dragon's Wrath Haladie (TP)</name>
+    <name>Stirring Dragon's Wrath Haladie [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -657,7 +657,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">1d6</roll>
   </item>
   <item>
-    <name>Stirring Dragon's Wrath Magitech Firearm (TP)</name>
+    <name>Stirring Dragon's Wrath Magitech Firearm [TP Legacy]</name>
     <detail>firearm, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -692,7 +692,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">1d6</roll>
   </item>
   <item>
-    <name>Stirring Dragon's Wrath Nunchuck (TP)</name>
+    <name>Stirring Dragon's Wrath Nunchuck [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -721,7 +721,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">1d6</roll>
   </item>
   <item>
-    <name>Stirring Dragon's Wrath Tetherhook (TP)</name>
+    <name>Stirring Dragon's Wrath Tetherhook [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -750,7 +750,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">1d6</roll>
   </item>
   <item>
-    <name>Stirring Dragon's Wrath Hand Tommybow (TP)</name>
+    <name>Stirring Dragon's Wrath Hand Tommybow [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -785,7 +785,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">1d6</roll>
   </item>
   <item>
-    <name>Stirring Dragon's Wrath Light Tommybow (TP)</name>
+    <name>Stirring Dragon's Wrath Light Tommybow [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -818,7 +818,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">1d6</roll>
   </item>
   <item>
-    <name>Stirring Dragon's Wrath Heavy Tommybow (TP)</name>
+    <name>Stirring Dragon's Wrath Heavy Tommybow [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -853,7 +853,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">1d6</roll>
   </item>
   <item>
-    <name>Wakened Dragon's Wrath Claw (TP)</name>
+    <name>Wakened Dragon's Wrath Claw [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -881,7 +881,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">8d6</roll>
   </item>
   <item>
-    <name>Wakened Dragon's Wrath Haladie (TP)</name>
+    <name>Wakened Dragon's Wrath Haladie [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -911,7 +911,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">8d6</roll>
   </item>
   <item>
-    <name>Wakened Dragon's Wrath Magitech Firearm (TP)</name>
+    <name>Wakened Dragon's Wrath Magitech Firearm [TP Legacy]</name>
     <detail>firearm, very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -948,7 +948,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">8d6</roll>
   </item>
   <item>
-    <name>Wakened Dragon's Wrath Nunchuck (TP)</name>
+    <name>Wakened Dragon's Wrath Nunchuck [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -979,7 +979,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">8d6</roll>
   </item>
   <item>
-    <name>Wakened Dragon's Wrath Tetherhook (TP)</name>
+    <name>Wakened Dragon's Wrath Tetherhook [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1010,7 +1010,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">8d6</roll>
   </item>
   <item>
-    <name>Wakened Dragon's Wrath Hand Tommybow (TP)</name>
+    <name>Wakened Dragon's Wrath Hand Tommybow [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1047,7 +1047,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">8d6</roll>
   </item>
   <item>
-    <name>Wakened Dragon's Wrath Light Tommybow (TP)</name>
+    <name>Wakened Dragon's Wrath Light Tommybow [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1082,7 +1082,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">8d6</roll>
   </item>
   <item>
-    <name>Wakened Dragon's Wrath Heavy Tommybow (TP)</name>
+    <name>Wakened Dragon's Wrath Heavy Tommybow [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1119,7 +1119,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">8d6</roll>
   </item>
   <item>
-    <name>Ascendant Dragon's Wrath Claw (TP)</name>
+    <name>Ascendant Dragon's Wrath Claw [TP Legacy]</name>
     <detail>Legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1147,7 +1147,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">12d6</roll>
   </item>
   <item>
-    <name>Ascendant Dragon's Wrath Haladie (TP)</name>
+    <name>Ascendant Dragon's Wrath Haladie [TP Legacy]</name>
     <detail>Legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1177,7 +1177,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">12d6</roll>
   </item>
   <item>
-    <name>Ascendant Dragon's Wrath Magitech Firearm (TP)</name>
+    <name>Ascendant Dragon's Wrath Magitech Firearm [TP Legacy]</name>
     <detail>firearm, Legendary (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1214,7 +1214,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">12d6</roll>
   </item>
   <item>
-    <name>Ascendant Dragon's Wrath Nunchuck (TP)</name>
+    <name>Ascendant Dragon's Wrath Nunchuck [TP Legacy]</name>
     <detail>Legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1245,7 +1245,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">12d6</roll>
   </item>
   <item>
-    <name>Ascendant Dragon's Wrath Tetherhook (TP)</name>
+    <name>Ascendant Dragon's Wrath Tetherhook [TP Legacy]</name>
     <detail>Legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1276,7 +1276,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">12d6</roll>
   </item>
   <item>
-    <name>Ascendant Dragon's Wrath Hand Tommybow (TP)</name>
+    <name>Ascendant Dragon's Wrath Hand Tommybow [TP Legacy]</name>
     <detail>Legendary (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1313,7 +1313,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">12d6</roll>
   </item>
   <item>
-    <name>Ascendant Dragon's Wrath Light Tommybow (TP)</name>
+    <name>Ascendant Dragon's Wrath Light Tommybow [TP Legacy]</name>
     <detail>Legendary (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1348,7 +1348,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">12d6</roll>
   </item>
   <item>
-    <name>Ascendant Dragon's Wrath Heavy Tommybow (TP)</name>
+    <name>Ascendant Dragon's Wrath Heavy Tommybow [TP Legacy]</name>
     <detail>Legendary (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>

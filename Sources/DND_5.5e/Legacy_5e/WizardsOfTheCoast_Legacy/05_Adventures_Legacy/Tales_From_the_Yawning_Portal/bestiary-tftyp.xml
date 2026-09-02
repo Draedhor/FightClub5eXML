@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Amphisbaena</name>
+    <name>Amphisbaena [Legacy]</name>
     <size>H</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -44,7 +44,7 @@ Until this grapple ends, the creature is restrained, and the snake can't constri
     <environment>underwater, underdark, forest, swamp, desert</environment>
   </monster>
   <monster>
-    <name>Animated Table</name>
+    <name>Animated Table [Legacy]</name>
     <sortname>Animated Object, Table</sortname>
     <ancestry>Animated Object</ancestry>
     <size>L</size>
@@ -96,7 +96,7 @@ Source:	Tales from the Yawning Portal p. 230</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ashdra</name>
+    <name>Ashdra [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf)</type>
@@ -145,7 +145,7 @@ Source:	Tales from the Yawning Portal p. 230</description>
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Bandagh</name>
+    <name>Bandagh [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (orc)</type>
@@ -187,7 +187,7 @@ Source:	Tales from the Yawning Portal p. 230</description>
     <environment>underdark, mountain, grassland, forest, swamp, hill, arctic</environment>
   </monster>
   <monster>
-    <name>Belak the Outcast</name>
+    <name>Belak the Outcast [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -230,7 +230,7 @@ Source:	Tales from the Yawning Portal p. 230</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bugbear Gardener</name>
+    <name>Bugbear Gardener [Legacy]</name>
     <sortname>Bugbear, Gardener</sortname>
     <ancestry>Bugbear</ancestry>
     <npc>YES</npc>
@@ -278,7 +278,7 @@ Source:	Tales from the Yawning Portal p. 230</description>
     <environment>underdark, grassland, forest</environment>
   </monster>
   <monster>
-    <name>Bugbear Lieutenant</name>
+    <name>Bugbear Lieutenant [Legacy]</name>
     <sortname>Bugbear, Lieutenant</sortname>
     <ancestry>Bugbear</ancestry>
     <npc>YES</npc>
@@ -326,7 +326,7 @@ Source:	Tales from the Yawning Portal p. 230</description>
     <environment>underdark, grassland, forest</environment>
   </monster>
   <monster>
-    <name>Calcryx</name>
+    <name>Calcryx [Legacy]</name>
     <size>M</size>
     <type>dragon</type>
     <alignment>Chaotic Evil</alignment>
@@ -426,7 +426,7 @@ Source:	Tales from the Yawning Portal p. 23</description>
     <environment/>
   </monster>
   <monster>
-    <name>Centaur Mummy</name>
+    <name>Centaur Mummy [Legacy]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>Lawful Evil</alignment>
@@ -477,7 +477,7 @@ Source:	Tales from the Yawning Portal p. 231</description>
     <environment/>
   </monster>
   <monster>
-    <name>Chief Nosnra</name>
+    <name>Chief Nosnra [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Neutral Evil</alignment>
@@ -524,7 +524,7 @@ Weighted Net: Ranged Weapon Attack: +5 to hit, ranged 20/60 ft., one Small, Medi
     <environment>mountain, arctic</environment>
   </monster>
   <monster>
-    <name>Cloud Giant Noble</name>
+    <name>Cloud Giant Noble [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Neutral Good (50%) Neutral Evil (50%)</alignment>
@@ -586,7 +586,7 @@ Wind Aura: A magical aura of wind surrounds the giant. The aura is a 10-foot-rad
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Curran Corvalin</name>
+    <name>Curran Corvalin [Legacy]</name>
     <sortname>Corvalin, Curran</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -628,7 +628,7 @@ Wind Aura: A magical aura of wind surrounds the giant. The aura is a 10-foot-rad
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Dragonpriest</name>
+    <name>Dragonpriest [Legacy]</name>
     <size>L</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -694,7 +694,7 @@ The dragonpriest's speed is halved if it's missing a leg. If it loses both legs,
     <environment>underdark, mountain, forest, swamp, hill, arctic</environment>
   </monster>
   <monster>
-    <name>Dread Warrior</name>
+    <name>Dread Warrior [Legacy]</name>
     <sortname>Warrior, Dread</sortname>
     <ancestry>Warrior</ancestry>
     <size>M</size>
@@ -746,7 +746,7 @@ Source:	Tales from the Yawning Portal p. 233</description>
     <environment/>
   </monster>
   <monster>
-    <name>Drevin</name>
+    <name>Drevin [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (halfling)</type>
@@ -805,7 +805,7 @@ Source:	Tales from the Yawning Portal p. 233</description>
     <environment/>
   </monster>
   <monster>
-    <name>Drow Commander</name>
+    <name>Drow Commander [Legacy]</name>
     <sortname>Drow, Commander</sortname>
     <ancestry>Drow</ancestry>
     <npc>YES</npc>
@@ -889,7 +889,7 @@ A drow elite warrior wearing +2 Studded Leather Armor and carrying a +2 shortswo
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Duergar Spy</name>
+    <name>Duergar Spy [Legacy]</name>
     <sortname>Spy, Duergar</sortname>
     <ancestry>Spy, Duergar</ancestry>
     <npc>YES</npc>
@@ -977,7 +977,7 @@ Source:	Tales from the Yawning Portal p. 234</description>
     <environment/>
   </monster>
   <monster>
-    <name>Durnn</name>
+    <name>Durnn [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (goblinoid)</type>
@@ -1054,7 +1054,7 @@ Source:	Tales from the Yawning Portal p. 25</description>
     <environment/>
   </monster>
   <monster>
-    <name>Eira</name>
+    <name>Eira [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf)</type>
@@ -1105,7 +1105,7 @@ Source:	Tales from the Yawning Portal p. 25</description>
     <environment/>
   </monster>
   <monster>
-    <name>Elder Black Pudding</name>
+    <name>Elder Black Pudding [Legacy]</name>
     <sortname>Black Pudding, Elder</sortname>
     <ancestry>Black Pudding</ancestry>
     <size>H</size>
@@ -1155,7 +1155,7 @@ Source:	Tales from the Yawning Portal p. 25</description>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Elder Giant Lizard</name>
+    <name>Elder Giant Lizard [Legacy]</name>
     <sortname>Giant Lizard, Elder</sortname>
     <ancestry>Giant Lizard</ancestry>
     <size>H</size>
@@ -1204,7 +1204,7 @@ Until this grapple ends, the target is restrained, and the lizard can't bite ano
     <environment>swamp</environment>
   </monster>
   <monster>
-    <name>Erky Timbers</name>
+    <name>Erky Timbers [Legacy]</name>
     <sortname>Timbers, Erky</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1253,7 +1253,7 @@ Source:	Tales from the Yawning Portal p. 22</description>
     <environment/>
   </monster>
   <monster>
-    <name>Estia</name>
+    <name>Estia [Legacy]</name>
     <npc>YES</npc>
     <size>H</size>
     <type>giant</type>
@@ -1316,7 +1316,7 @@ Wind Aura: A magical aura of wind surrounds Estia. The aura is a 10-foot-radius 
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Fire Giant Royal Headsman</name>
+    <name>Fire Giant Royal Headsman [Legacy]</name>
     <sortname>Fire Giant, Royal Headsman</sortname>
     <size>H</size>
     <type>giant</type>
@@ -1366,7 +1366,7 @@ Tackle: When the giant enters any enemy's space for the first time on a turn, th
     <environment>underdark, mountain</environment>
   </monster>
   <monster>
-    <name>Fire Giant Servant</name>
+    <name>Fire Giant Servant [Legacy]</name>
     <sortname>Fire Giant, Servant</sortname>
     <ancestry>Giant Servant</ancestry>
     <size>H</size>
@@ -1415,7 +1415,7 @@ Squash: Melee Weapon Attack: +8 to hit, reach 5 ft., one Medium or Smaller creat
     <environment>hill</environment>
   </monster>
   <monster>
-    <name>Flying Shield</name>
+    <name>Flying Shield [Legacy]</name>
     <sortname>Animated Object, Shield</sortname>
     <ancestry>Animated Object</ancestry>
     <size>S</size>
@@ -1457,7 +1457,7 @@ Squash: Melee Weapon Attack: +8 to hit, reach 5 ft., one Medium or Smaller creat
     <environment/>
   </monster>
   <monster>
-    <name>Four-Armed Gargoyle</name>
+    <name>Four-Armed Gargoyle [Legacy]</name>
     <size>M</size>
     <type>elemental</type>
     <alignment>Chaotic Evil</alignment>
@@ -1502,7 +1502,7 @@ Squash: Melee Weapon Attack: +8 to hit, reach 5 ft., one Medium or Smaller creat
     <environment/>
   </monster>
   <monster>
-    <name>Frost Giant Servant</name>
+    <name>Frost Giant Servant [Legacy]</name>
     <sortname>Frost Giant, Servant</sortname>
     <ancestry>Frost Giant</ancestry>
     <size>H</size>
@@ -1551,7 +1551,7 @@ Squash: Melee Weapon Attack: +8 to hit, reach 5 ft., one Medium or Smaller creat
     <environment>hill</environment>
   </monster>
   <monster>
-    <name>Gargantuan Rug of Smothering</name>
+    <name>Gargantuan Rug of Smothering [Legacy]</name>
     <sortname>Animated Object, Rug of Smothering Gargantuan</sortname>
     <ancestry>Animated Object</ancestry>
     <size>G</size>
@@ -1597,7 +1597,7 @@ Squash: Melee Weapon Attack: +8 to hit, reach 5 ft., one Medium or Smaller creat
     <environment/>
   </monster>
   <monster>
-    <name>Giant Crayfish</name>
+    <name>Giant Crayfish [Legacy]</name>
     <sortname>Crayfish, Giant</sortname>
     <ancestry>Crayfish</ancestry>
     <size>L</size>
@@ -1641,7 +1641,7 @@ The crayfish has two claws, each of which can grapple only one target.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Ice Toad</name>
+    <name>Giant Ice Toad [Legacy]</name>
     <sortname>Toad, Giant Ice</sortname>
     <ancestry>Toad</ancestry>
     <size>L</size>
@@ -1697,7 +1697,7 @@ Source:	Tales from the Yawning Portal p. 235</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Lightning Eel</name>
+    <name>Giant Lightning Eel [Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -1743,7 +1743,7 @@ Source:	Tales from the Yawning Portal p. 235</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Skeleton</name>
+    <name>Giant Skeleton [Legacy]</name>
     <sortname>Skeleton, Giant</sortname>
     <ancestry>Skeleton</ancestry>
     <size>H</size>
@@ -1800,7 +1800,7 @@ Source:	Tales from the Yawning Portal p. 236,
     <environment/>
   </monster>
   <monster>
-    <name>Giant Subterranaean Lizard</name>
+    <name>Giant Subterranaean Lizard [Legacy]</name>
     <sortname>Lizard, Giant Subterranaean</sortname>
     <ancestry>Lizard</ancestry>
     <size>H</size>
@@ -1849,7 +1849,7 @@ Source:	Tales from the Yawning Portal p. 236,
     <environment/>
   </monster>
   <monster>
-    <name>Goblin Commoner</name>
+    <name>Goblin Commoner [Legacy]</name>
     <sortname>Commoner, Goblin</sortname>
     <ancestry>Commoner, Goblin</ancestry>
     <npc>YES</npc>
@@ -1888,7 +1888,7 @@ Source:	Tales from the Yawning Portal p. 236,
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Gorvan Ironheart</name>
+    <name>Gorvan Ironheart [Legacy]</name>
     <sortname>Ironheart, Gorvan</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1941,7 +1941,7 @@ Source:	Tales from the Yawning Portal p. 236,
     <environment/>
   </monster>
   <monster>
-    <name>Great Ulfe</name>
+    <name>Great Ulfe [Legacy]</name>
     <size>L</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -1978,7 +1978,7 @@ Source:	Tales from the Yawning Portal p. 236,
     <environment>grassland, forest, swamp, hill, desert, coastal, arctic, underdark, mountain</environment>
   </monster>
   <monster>
-    <name>Greater Zombie</name>
+    <name>Greater Zombie [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -2030,7 +2030,7 @@ Source:	Tales from the Yawning Portal p. 237,
     <environment/>
   </monster>
   <monster>
-    <name>Grenl</name>
+    <name>Grenl [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (goblinoid)</type>
@@ -2096,7 +2096,7 @@ Source:	Tales from the Yawning Portal p. 25</description>
     <environment/>
   </monster>
   <monster>
-    <name>Grutha</name>
+    <name>Grutha [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -2143,7 +2143,7 @@ Squash: Melee Weapon Attack: +8 to hit, reach 5 ft., one Medium or Smaller creat
     <environment>hill</environment>
   </monster>
   <monster>
-    <name>Guthash</name>
+    <name>Guthash [Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -2177,7 +2177,7 @@ Source:	Tales from the Yawning Portal p. 21</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hedrun Arnsfirth</name>
+    <name>Hedrun Arnsfirth [Legacy]</name>
     <sortname>Arnsfirth, Hedrun</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2233,7 +2233,7 @@ Source:	Tales from the Yawning Portal p. 21</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hill Giant Sergeant</name>
+    <name>Hill Giant Sergeant [Legacy]</name>
     <sortname>Hill Giant, Sergeant</sortname>
     <size>H</size>
     <type>giant</type>
@@ -2281,7 +2281,7 @@ Squash: Melee Weapon Attack: +8 to hit, reach 5 ft., one Medium or Smaller creat
     <environment>hill</environment>
   </monster>
   <monster>
-    <name>Hill Giant Servant</name>
+    <name>Hill Giant Servant [Legacy]</name>
     <sortname>Hill Giant, Servant</sortname>
     <size>L</size>
     <type>giant</type>
@@ -2319,7 +2319,7 @@ Squash: Melee Weapon Attack: +8 to hit, reach 5 ft., one Medium or Smaller creat
     <environment>grassland, forest, swamp, hill, desert, coastal, arctic, underdark, mountain</environment>
   </monster>
   <monster>
-    <name>Hill Giant Subchief</name>
+    <name>Hill Giant Subchief [Legacy]</name>
     <sortname>Hill Giant, Subchief</sortname>
     <size>H</size>
     <type>giant</type>
@@ -2377,7 +2377,7 @@ Rolling Rock: The giant sends a rock tumbling along the ground in a 30-foot line
     <environment>underdark, mountain, hill</environment>
   </monster>
   <monster>
-    <name>Huge Giant Crab</name>
+    <name>Huge Giant Crab [Legacy]</name>
     <sortname>Crab, Giant Huge</sortname>
     <ancestry>Crab</ancestry>
     <size>H</size>
@@ -2422,7 +2422,7 @@ The crab has two claws, each of which can grapple only one target.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Huge Ochre Jelly</name>
+    <name>Huge Ochre Jelly [Legacy]</name>
     <sortname>Jelly, Ochre Huge</sortname>
     <ancestry>Jelly</ancestry>
     <size>H</size>
@@ -2468,7 +2468,7 @@ The crab has two claws, each of which can grapple only one target.</text>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Huge Polar Bear</name>
+    <name>Huge Polar Bear [Legacy]</name>
     <sortname>Bear, Polar Huge</sortname>
     <ancestry>Bear</ancestry>
     <size>H</size>
@@ -2515,7 +2515,7 @@ The crab has two claws, each of which can grapple only one target.</text>
     <environment>underdark, arctic</environment>
   </monster>
   <monster>
-    <name>Irisoth</name>
+    <name>Irisoth [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (half-elf)</type>
@@ -2552,7 +2552,7 @@ The crab has two claws, each of which can grapple only one target.</text>
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Jarl Grugnur</name>
+    <name>Jarl Grugnur [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Neutral Good (50%) Neutral Evil (50%)</alignment>
@@ -2614,7 +2614,7 @@ Wind Aura: A magical aura of wind surrounds Grugnur. The aura is a 10-foot-radiu
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Jot</name>
+    <name>Jot [Legacy]</name>
     <size>T</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -2672,7 +2672,7 @@ Familiar: Jot can serve another creature as a familiar, forming a telepathic bon
     <environment/>
   </monster>
   <monster>
-    <name>Kaarghaz</name>
+    <name>Kaarghaz [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (troglodyte)</type>
@@ -2748,7 +2748,7 @@ Source:	Tales from the Yawning Portal p. 45</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kalka-Kylla</name>
+    <name>Kalka-Kylla [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral</alignment>
@@ -2798,7 +2798,7 @@ Until this grapple ends, the target is restrained. Kalka-Kylla has two claws, ea
     <environment/>
   </monster>
   <monster>
-    <name>Keeper</name>
+    <name>Keeper [Legacy]</name>
     <size>H</size>
     <type>keeper</type>
     <alignment>Neutral</alignment>
@@ -2855,7 +2855,7 @@ Rolling Rock: The Keeper sends a rock tumbling along the ground in a 30-foot lin
     <environment>underdark, mountain, hill</environment>
   </monster>
   <monster>
-    <name>Kelpie</name>
+    <name>Kelpie [Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment>Neutral Evil</alignment>
@@ -2911,7 +2911,7 @@ A target that successfully saves is immune to this kelpie's hypnosis for the nex
     <environment/>
   </monster>
   <monster>
-    <name>Kelson Darktreader</name>
+    <name>Kelson Darktreader [Legacy]</name>
     <sortname>Darktreader, Kelson</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2949,7 +2949,7 @@ A target that successfully saves is immune to this kelpie's hypnosis for the nex
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Kieren</name>
+    <name>Kieren [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -2982,7 +2982,7 @@ A target that successfully saves is immune to this kelpie's hypnosis for the nex
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>King Snurre</name>
+    <name>King Snurre [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Lawful Evil</alignment>
@@ -3031,7 +3031,7 @@ Tackle: When Snurre enters any enemy's space for the first time on a turn, the e
     <environment>underdark, mountain</environment>
   </monster>
   <monster>
-    <name>Kobold Commoner</name>
+    <name>Kobold Commoner [Legacy]</name>
     <sortname>Commoner, Kobold</sortname>
     <ancestry>Commoner, Kobold</ancestry>
     <npc>YES</npc>
@@ -3074,7 +3074,7 @@ Tackle: When Snurre enters any enemy's space for the first time on a turn, the e
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Kobold Elite</name>
+    <name>Kobold Elite [Legacy]</name>
     <sortname>Kobold, Elite</sortname>
     <ancestry>Kobold</ancestry>
     <npc>YES</npc>
@@ -3122,7 +3122,7 @@ Tackle: When Snurre enters any enemy's space for the first time on a turn, the e
     <environment>forest, swamp, hill, urban, desert, coastal, arctic, mountain, underdark</environment>
   </monster>
   <monster>
-    <name>Lacedon</name>
+    <name>Lacedon [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -3160,7 +3160,7 @@ Tackle: When Snurre enters any enemy's space for the first time on a turn, the e
     <environment>underdark, swamp, urban</environment>
   </monster>
   <monster>
-    <name>Lahnis</name>
+    <name>Lahnis [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -3213,7 +3213,7 @@ Tackle: When Snurre enters any enemy's space for the first time on a turn, the e
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Lesser Mummy Lord</name>
+    <name>Lesser Mummy Lord [Legacy]</name>
     <sortname>Mummy Lord, Lesser</sortname>
     <ancestry>Mummy Lord</ancestry>
     <size>M</size>
@@ -3326,7 +3326,7 @@ If the mummy lord is destroyed, these regional effects end immediately.</text>
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Lumalia</name>
+    <name>Lumalia [Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>Lawful Good</alignment>
@@ -3389,7 +3389,7 @@ In a new form, Lumalia retains its game statistics and ability to speak, but its
     <environment/>
   </monster>
   <monster>
-    <name>Malformed Kraken</name>
+    <name>Malformed Kraken [Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -3451,7 +3451,7 @@ Source:	Tales from the Yawning Portal p. 239</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mennek Ariz</name>
+    <name>Mennek Ariz [Legacy]</name>
     <sortname>Ariz, Mennek</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3506,7 +3506,7 @@ The attacker must make a DC 14 Wisdom saving throw. On a failed save, the attack
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Nahual</name>
+    <name>Nahual [Legacy]</name>
     <size>M</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -3558,7 +3558,7 @@ The attacker must make a DC 14 Wisdom saving throw. On a failed save, the attack
     <environment/>
   </monster>
   <monster>
-    <name>Nedylene</name>
+    <name>Nedylene [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf)</type>
@@ -3638,7 +3638,7 @@ A drow priestess of lolth wearing +3 scale mail has AC 19.</text>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Nereid</name>
+    <name>Nereid [Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Any Chaotic Alignment</alignment>
@@ -3703,7 +3703,7 @@ Source:	Tales from the Yawning Portal p. 240</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nimira</name>
+    <name>Nimira [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (dwarf)</type>
@@ -3768,7 +3768,7 @@ Source:	Tales from the Yawning Portal p. 240</description>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Obmi</name>
+    <name>Obmi [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (dwarf)</type>
@@ -3829,7 +3829,7 @@ Source:	Tales from the Yawning Portal p. 240</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ogre Skeleton</name>
+    <name>Ogre Skeleton [Legacy]</name>
     <sortname>Skeleton, Ogre</sortname>
     <ancestry>Skeleton, Ogre</ancestry>
     <npc>YES</npc>
@@ -3869,7 +3869,7 @@ Source:	Tales from the Yawning Portal p. 240</description>
     <environment>grassland, forest, swamp, hill, desert, coastal, arctic, underdark, mountain</environment>
   </monster>
   <monster>
-    <name>Ooze Master</name>
+    <name>Ooze Master [Legacy]</name>
     <sortname>Ooze, Master</sortname>
     <ancestry>Ooze</ancestry>
     <size>H</size>
@@ -3932,7 +3932,7 @@ Source:	Tales from the Yawning Portal p. 240</description>
     <environment/>
   </monster>
   <monster>
-    <name>Orc Commoner</name>
+    <name>Orc Commoner [Legacy]</name>
     <sortname>Orc, Commoner</sortname>
     <ancestry>Orc</ancestry>
     <npc>YES</npc>
@@ -3971,7 +3971,7 @@ Source:	Tales from the Yawning Portal p. 240</description>
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Oussa</name>
+    <name>Oussa [Legacy]</name>
     <size>M</size>
     <type>monstrosity (shapechanger, yuan-ti)</type>
     <alignment>Neutral Evil</alignment>
@@ -4050,7 +4050,7 @@ Until this grapple ends, the target is restrained, and Oussa can't constrict ano
     <environment>forest, swamp, desert</environment>
   </monster>
   <monster>
-    <name>Phaia</name>
+    <name>Phaia [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -4104,7 +4104,7 @@ Until this grapple ends, the target is restrained, and Oussa can't constrict ano
     <environment>desert, urban</environment>
   </monster>
   <monster>
-    <name>Reduced-Threat Aboleth</name>
+    <name>Reduced-Threat Aboleth [Legacy]</name>
     <sortname>Aboleth, Reduced-Threat</sortname>
     <ancestry>Aboleth</ancestry>
     <size>L</size>
@@ -4206,7 +4206,7 @@ If the aboleth dies, the first two effects fade over the course of 3d10 days.</t
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Reduced-Threat Basilisk</name>
+    <name>Reduced-Threat Basilisk [Legacy]</name>
     <sortname>Basilisk, Reduced-Threat</sortname>
     <ancestry>Basilisk</ancestry>
     <size>M</size>
@@ -4253,7 +4253,7 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Reduced-Threat Behir</name>
+    <name>Reduced-Threat Behir [Legacy]</name>
     <sortname>Behir, Reduced-Threat</sortname>
     <ancestry>Behir</ancestry>
     <size>L</size>
@@ -4302,7 +4302,7 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Reduced-Threat Beholder</name>
+    <name>Reduced-Threat Beholder [Legacy]</name>
     <sortname>Beholder, Reduced-Threat</sortname>
     <ancestry>Beholder</ancestry>
     <size>L</size>
@@ -4400,7 +4400,7 @@ If the beholder dies, these effects fade over the course of 1d10 days.</text>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Reduced-Threat Black Pudding</name>
+    <name>Reduced-Threat Black Pudding [Legacy]</name>
     <sortname>Black Pudding, Reduced-Threat</sortname>
     <ancestry>Black Pudding</ancestry>
     <size>L</size>
@@ -4455,7 +4455,7 @@ If the beholder dies, these effects fade over the course of 1d10 days.</text>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Reduced-Threat Carrion Crawler</name>
+    <name>Reduced-Threat Carrion Crawler [Legacy]</name>
     <sortname>Carrion Crawler, Reduced-Threat</sortname>
     <ancestry>Carrion Crawler</ancestry>
     <size>L</size>
@@ -4513,7 +4513,7 @@ Until this poison ends, the target is paralyzed. The target can repeat the savin
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Reduced-Threat Clay Golem</name>
+    <name>Reduced-Threat Clay Golem [Legacy]</name>
     <sortname>Clay Golem, Reduced-Threat</sortname>
     <ancestry>Clay Golem</ancestry>
     <size>L</size>
@@ -4581,7 +4581,7 @@ Until this poison ends, the target is paralyzed. The target can repeat the savin
     <environment/>
   </monster>
   <monster>
-    <name>Reduced-Threat Darkmantle</name>
+    <name>Reduced-Threat Darkmantle [Legacy]</name>
     <sortname>Darkmantle, Reduced-Threat</sortname>
     <ancestry>Darkmantle</ancestry>
     <size>S</size>
@@ -4638,7 +4638,7 @@ A creature can detach the darkmantle by making a successful DC 11 Strength check
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Reduced-Threat Displacer Beast</name>
+    <name>Reduced-Threat Displacer Beast [Legacy]</name>
     <sortname>Displacer Beast, Reduced-Threat</sortname>
     <ancestry>Displacer Beast</ancestry>
     <size>L</size>
@@ -4689,7 +4689,7 @@ A creature can detach the darkmantle by making a successful DC 11 Strength check
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Reduced-Threat Dragon Turtle</name>
+    <name>Reduced-Threat Dragon Turtle [Legacy]</name>
     <sortname>Dragon Turtle, Reduced-Threat</sortname>
     <ancestry>Dragon Turtle</ancestry>
     <size>L</size>
@@ -4747,7 +4747,7 @@ A creature can detach the darkmantle by making a successful DC 11 Strength check
     <environment>underwater, coastal</environment>
   </monster>
   <monster>
-    <name>Reduced-Threat Ettercap</name>
+    <name>Reduced-Threat Ettercap [Legacy]</name>
     <sortname>Ettercap, Reduced-Threat</sortname>
     <ancestry>Ettercap</ancestry>
     <size>M</size>
@@ -4818,7 +4818,7 @@ Until this grapple ends, the target can't breathe, and the ettercap has advantag
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Reduced-Threat Flesh Golem</name>
+    <name>Reduced-Threat Flesh Golem [Legacy]</name>
     <sortname>Flesh Golem, Reduced-Threat</sortname>
     <ancestry>Flesh Golem</ancestry>
     <size>M</size>
@@ -4887,7 +4887,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
     <environment/>
   </monster>
   <monster>
-    <name>Reduced-Threat Glabrezu</name>
+    <name>Reduced-Threat Glabrezu [Legacy]</name>
     <sortname>Glabrezu, Reduced-Threat</sortname>
     <ancestry>Glabrezu</ancestry>
     <size>L</size>
@@ -4956,7 +4956,7 @@ A summoned demon appears in an unoccupied space within 60 feet of its summoner, 
     <environment/>
   </monster>
   <monster>
-    <name>Reduced-Threat Gray Ooze</name>
+    <name>Reduced-Threat Gray Ooze [Legacy]</name>
     <sortname>Gray Ooze, Reduced-Threat</sortname>
     <ancestry>Gray Ooze</ancestry>
     <size>M</size>
@@ -5017,7 +5017,7 @@ Psychic Crush (Recharge 5-6). The ooze targets one creature that it can sense wi
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Reduced-Threat Helmed Horror</name>
+    <name>Reduced-Threat Helmed Horror [Legacy]</name>
     <sortname>Helmed Horror, Reduced-Threat</sortname>
     <ancestry>Helmed Horror</ancestry>
     <size>M</size>
@@ -5068,7 +5068,7 @@ Psychic Crush (Recharge 5-6). The ooze targets one creature that it can sense wi
     <environment/>
   </monster>
   <monster>
-    <name>Reduced-Threat Hezrou</name>
+    <name>Reduced-Threat Hezrou [Legacy]</name>
     <sortname>Hezrou, Reduced-Threat</sortname>
     <ancestry>Hezrou</ancestry>
     <size>L</size>
@@ -5133,7 +5133,7 @@ A summoned demon appears in an unoccupied space within 60 feet of its summoner, 
     <environment/>
   </monster>
   <monster>
-    <name>Reduced-Threat Hook Horror</name>
+    <name>Reduced-Threat Hook Horror [Legacy]</name>
     <sortname>Hook Horror, Reduced-Threat</sortname>
     <ancestry>Hook Horror</ancestry>
     <size>L</size>
@@ -5184,7 +5184,7 @@ A summoned demon appears in an unoccupied space within 60 feet of its summoner, 
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Reduced-Threat Ochre Jelly</name>
+    <name>Reduced-Threat Ochre Jelly [Legacy]</name>
     <sortname>Ochre Jelly, Reduced-Threat</sortname>
     <ancestry>Ochre Jelly</ancestry>
     <size>L</size>
@@ -5235,7 +5235,7 @@ A summoned demon appears in an unoccupied space within 60 feet of its summoner, 
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Reduced-Threat Otyugh</name>
+    <name>Reduced-Threat Otyugh [Legacy]</name>
     <sortname>Otyugh, Reduced-Threat</sortname>
     <ancestry>Otyugh</ancestry>
     <size>L</size>
@@ -5287,7 +5287,7 @@ A summoned demon appears in an unoccupied space within 60 feet of its summoner, 
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Reduced-Threat Owlbear</name>
+    <name>Reduced-Threat Owlbear [Legacy]</name>
     <sortname>Owlbear, Reduced-Threat</sortname>
     <ancestry>Owlbear</ancestry>
     <size>L</size>
@@ -5339,7 +5339,7 @@ A summoned demon appears in an unoccupied space within 60 feet of its summoner, 
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Reduced-Threat Peryton</name>
+    <name>Reduced-Threat Peryton [Legacy]</name>
     <sortname>Peryton, Reduced-Threat</sortname>
     <ancestry>Peryton</ancestry>
     <size>M</size>
@@ -5399,7 +5399,7 @@ A summoned demon appears in an unoccupied space within 60 feet of its summoner, 
     <environment>mountain, hill</environment>
   </monster>
   <monster>
-    <name>Reduced-Threat Remorhaz</name>
+    <name>Reduced-Threat Remorhaz [Legacy]</name>
     <sortname>Remorhaz, Reduced-Threat</sortname>
     <ancestry>Remorhaz</ancestry>
     <size>L</size>
@@ -5448,7 +5448,7 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Reduced-Threat Stone Golem</name>
+    <name>Reduced-Threat Stone Golem [Legacy]</name>
     <sortname>Stone Golem, Reduced-Threat</sortname>
     <ancestry>Stone Golem</ancestry>
     <size>L</size>
@@ -5508,7 +5508,7 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
     <environment/>
   </monster>
   <monster>
-    <name>Reduced-Threat Vrock</name>
+    <name>Reduced-Threat Vrock [Legacy]</name>
     <sortname>Vrock, Reduced-Threat</sortname>
     <ancestry>Vrock</ancestry>
     <size>L</size>
@@ -5580,7 +5580,7 @@ A summoned demon appears in an unoccupied space within 60 feet of its summoner, 
     <environment/>
   </monster>
   <monster>
-    <name>Reduced-Threat Wight</name>
+    <name>Reduced-Threat Wight [Legacy]</name>
     <sortname>Wight, Reduced-Threat</sortname>
     <ancestry>Wight</ancestry>
     <size>M</size>
@@ -5638,7 +5638,7 @@ A summoned demon appears in an unoccupied space within 60 feet of its summoner, 
     <environment>underdark, swamp, urban, desert</environment>
   </monster>
   <monster>
-    <name>Reduced-Threat Wyvern</name>
+    <name>Reduced-Threat Wyvern [Legacy]</name>
     <sortname>Wyvern, Reduced-Threat</sortname>
     <ancestry>Wyvern</ancestry>
     <size>L</size>
@@ -5692,7 +5692,7 @@ A summoned demon appears in an unoccupied space within 60 feet of its summoner, 
     <environment>mountain, hill</environment>
   </monster>
   <monster>
-    <name>Scrag</name>
+    <name>Scrag [Legacy]</name>
     <npc>YES</npc>
     <size>L</size>
     <type>giant</type>
@@ -5764,7 +5764,7 @@ The troll's speed is halved if it's missing a leg. If it loses both legs, it fal
     <environment>underdark, mountain, forest, swamp, hill, arctic</environment>
   </monster>
   <monster>
-    <name>Sea Lion</name>
+    <name>Sea Lion [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -5825,7 +5825,7 @@ Source:	Tales from the Yawning Portal p. 242,
     <environment/>
   </monster>
   <monster>
-    <name>Sentient Gray Ooze</name>
+    <name>Sentient Gray Ooze [Legacy]</name>
     <sortname>Ooze, Gray Sentient</sortname>
     <ancestry>Ooze</ancestry>
     <size>M</size>
@@ -5881,7 +5881,7 @@ Psychic Crush (Recharge 5-6). The ooze targets one creature that it can sense wi
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Sentient Ochre Jelly</name>
+    <name>Sentient Ochre Jelly [Legacy]</name>
     <sortname>Jelly, Ochre Sentient</sortname>
     <ancestry>Jelly</ancestry>
     <size>L</size>
@@ -5927,7 +5927,7 @@ Psychic Crush (Recharge 5-6). The ooze targets one creature that it can sense wi
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Shalendra Floshin</name>
+    <name>Shalendra Floshin [Legacy]</name>
     <sortname>Floshin, Shalendra</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -5987,7 +5987,7 @@ Psychic Crush (Recharge 5-6). The ooze targets one creature that it can sense wi
     <environment/>
   </monster>
   <monster>
-    <name>Sharwyn Hucrele</name>
+    <name>Sharwyn Hucrele [Legacy]</name>
     <sortname>Hucrele, Sharwyn</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -6041,7 +6041,7 @@ Psychic Crush (Recharge 5-6). The ooze targets one creature that it can sense wi
     <environment/>
   </monster>
   <monster>
-    <name>Sir Braford</name>
+    <name>Sir Braford [Legacy]</name>
     <sortname>Braford, Sir</sortname>
     <ancestry>Braford</ancestry>
     <npc>YES</npc>
@@ -6092,7 +6092,7 @@ Psychic Crush (Recharge 5-6). The ooze targets one creature that it can sense wi
     <environment/>
   </monster>
   <monster>
-    <name>Siren</name>
+    <name>Siren [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>fey</type>
@@ -6145,7 +6145,7 @@ Psychic Crush (Recharge 5-6). The ooze targets one creature that it can sense wi
     <environment/>
   </monster>
   <monster>
-    <name>Snarla</name>
+    <name>Snarla [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human, shapechanger)</type>
@@ -6256,7 +6256,7 @@ Source:	Tales from the Yawning Portal p. 102</description>
     <environment/>
   </monster>
   <monster>
-    <name>Snow Leopard</name>
+    <name>Snow Leopard [Legacy]</name>
     <sortname>Leopard, Snow</sortname>
     <ancestry>Leopard</ancestry>
     <size>L</size>
@@ -6303,7 +6303,7 @@ Source:	Tales from the Yawning Portal p. 102</description>
     <environment>grassland, forest</environment>
   </monster>
   <monster>
-    <name>Snurrevin</name>
+    <name>Snurrevin [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (dwarf)</type>
@@ -6387,7 +6387,7 @@ Source:	Tales from the Yawning Portal p. 53</description>
     <environment/>
   </monster>
   <monster>
-    <name>Stone Dragon Statue</name>
+    <name>Stone Dragon Statue [Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -6440,7 +6440,7 @@ Source:	Tales from the Yawning Portal p. 53</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tarul Var</name>
+    <name>Tarul Var [Legacy]</name>
     <sortname>Var, Tarul</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -6533,7 +6533,7 @@ Source:	Tales from the Yawning Portal p. 244</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tecuziztecatl</name>
+    <name>Tecuziztecatl [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral</alignment>
@@ -6593,7 +6593,7 @@ Source:	Tales from the Yawning Portal p. 245</description>
     <environment/>
   </monster>
   <monster>
-    <name>Thayan Apprentice</name>
+    <name>Thayan Apprentice [Legacy]</name>
     <sortname>Apprentice, Thayan</sortname>
     <ancestry>Apprentice</ancestry>
     <npc>YES</npc>
@@ -6642,7 +6642,7 @@ Source:	Tales from the Yawning Portal p. 245</description>
     <environment/>
   </monster>
   <monster>
-    <name>Thayan Warrior</name>
+    <name>Thayan Warrior [Legacy]</name>
     <sortname>Warrior, Thayan</sortname>
     <ancestry>Warrior</ancestry>
     <npc>YES</npc>
@@ -6694,7 +6694,7 @@ Source:	Tales from the Yawning Portal p. 245</description>
     <environment/>
   </monster>
   <monster>
-    <name>Therzt</name>
+    <name>Therzt [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf)</type>
@@ -6743,7 +6743,7 @@ Source:	Tales from the Yawning Portal p. 245</description>
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Thorn Slinger</name>
+    <name>Thorn Slinger [Legacy]</name>
     <size>L</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -6785,7 +6785,7 @@ At the end of each of the thorn slinger's turns, anything grappled by it takes 3
     <environment/>
   </monster>
   <monster>
-    <name>Tloques-Popolocas</name>
+    <name>Tloques-Popolocas [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -6898,7 +6898,7 @@ Source:	Tales from the Yawning Portal p. 68</description>
     <environment/>
   </monster>
   <monster>
-    <name>Torlin Silvershield</name>
+    <name>Torlin Silvershield [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -6949,7 +6949,7 @@ Source:	Tales from the Yawning Portal p. 68</description>
     <environment>underdark, swamp, urban, desert</environment>
   </monster>
   <monster>
-    <name>Werejaguar</name>
+    <name>Werejaguar [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human, shapechanger)</type>
@@ -7017,7 +7017,7 @@ Source:	Tales from the Yawning Portal p. 68</description>
     <environment>grassland, forest, desert</environment>
   </monster>
   <monster>
-    <name>White Maw</name>
+    <name>White Maw [Legacy]</name>
     <size>G</size>
     <type>ooze</type>
     <alignment>Chaotic Neutral</alignment>
@@ -7065,7 +7065,7 @@ Source:	Tales from the Yawning Portal p. 68</description>
     <environment/>
   </monster>
   <monster>
-    <name>Xilonen</name>
+    <name>Xilonen [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -7121,7 +7121,7 @@ Source:	Tales from the Yawning Portal p. 68</description>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Yeti Leader</name>
+    <name>Yeti Leader [Legacy]</name>
     <sortname>Yeti, Leader</sortname>
     <ancestry>Yeti</ancestry>
     <size>L</size>
@@ -7176,7 +7176,7 @@ Source:	Tales from the Yawning Portal p. 68</description>
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Young Fire Giant</name>
+    <name>Young Fire Giant [Legacy]</name>
     <sortname>Fire Giant, Young</sortname>
     <ancestry>Fire Giant</ancestry>
     <size>L</size>
@@ -7215,7 +7215,7 @@ Source:	Tales from the Yawning Portal p. 68</description>
     <environment>grassland, forest, swamp, hill, desert, coastal, arctic, underdark, mountain</environment>
   </monster>
   <monster>
-    <name>Young Frost Giant</name>
+    <name>Young Frost Giant [Legacy]</name>
     <sortname>Frost Giant, Young</sortname>
     <ancestry>Frost Giant</ancestry>
     <size>L</size>
@@ -7254,7 +7254,7 @@ Source:	Tales from the Yawning Portal p. 68</description>
     <environment>grassland, forest, swamp, hill, desert, coastal, arctic, underdark, mountain</environment>
   </monster>
   <monster>
-    <name>Young Hill Giant</name>
+    <name>Young Hill Giant [Legacy]</name>
     <sortname>Hill Giant, Young</sortname>
     <ancestry>Hill Giant</ancestry>
     <size>M</size>
@@ -7297,7 +7297,7 @@ Source:	Tales from the Yawning Portal p. 68</description>
     <environment>underdark, mountain, grassland, forest, swamp, hill, arctic</environment>
   </monster>
   <monster>
-    <name>Young Ogre Servant</name>
+    <name>Young Ogre Servant [Legacy]</name>
     <sortname>Ogre Servant, Young</sortname>
     <ancestry>Ogre Servant</ancestry>
     <size>M</size>
@@ -7340,7 +7340,7 @@ Source:	Tales from the Yawning Portal p. 68</description>
     <environment>underdark, mountain, grassland, forest, swamp, hill, arctic</environment>
   </monster>
   <monster>
-    <name>Young Troglodyte</name>
+    <name>Young Troglodyte [Legacy]</name>
     <sortname>Troglodyte, Young</sortname>
     <ancestry>Troglodyte</ancestry>
     <size>S</size>
@@ -7387,7 +7387,7 @@ Source:	Tales from the Yawning Portal p. 68</description>
     <environment>forest, swamp, hill, urban, desert, coastal, arctic, mountain, underdark</environment>
   </monster>
   <monster>
-    <name>Young Winter Wolf</name>
+    <name>Young Winter Wolf [Legacy]</name>
     <sortname>Winter Wolf, Young</sortname>
     <ancestry>Winter Wolf</ancestry>
     <size>L</size>
@@ -7429,7 +7429,7 @@ Source:	Tales from the Yawning Portal p. 68</description>
     <environment>forest, hill</environment>
   </monster>
   <monster>
-    <name>Yusdrayl</name>
+    <name>Yusdrayl [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (kobold)</type>

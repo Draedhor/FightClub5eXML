@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Oceanic Bad News (TP)</name>
+    <name>Oceanic Bad News [TP]</name>
     <detail>firearm, modern, sniper rifle, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -38,7 +38,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Blunderbuss (Matthew Mercer) (TP)</name>
+    <name>Oceanic Blunderbuss (Matthew Mercer) [TP]</name>
     <detail>firearm, modern, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -73,7 +73,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Hand Mortar (TP)</name>
+    <name>Oceanic Hand Mortar [TP]</name>
     <detail>firearm, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -105,7 +105,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199,
     <roll description="Fire Damage">1d8</roll>
   </item>
   <item>
-    <name>Oceanic Musket (Matthew Mercer) (TP)</name>
+    <name>Oceanic Musket (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -142,7 +142,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Palm Pistol (TP)</name>
+    <name>Oceanic Palm Pistol [TP]</name>
     <detail>firearm, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -181,7 +181,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Pistol (Matthew Mercer) (TP)</name>
+    <name>Oceanic Pistol (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -216,7 +216,7 @@ Source:	Tal'Dorei Campaign Setting: Reborn p. 199,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Oceanic Pepperbox (TP)</name>
+    <name>Oceanic Pepperbox [TP]</name>
     <detail>firearm, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>

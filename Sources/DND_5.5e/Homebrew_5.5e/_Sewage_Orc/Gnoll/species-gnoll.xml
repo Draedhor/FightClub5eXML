@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Gnoll (TP)</name>
+    <name>Gnoll [TP]</name>
     <displayname>Gnoll  (HB)</displayname>
     <ancestry>Gnoll  (HB)</ancestry>
     <size>M</size>
@@ -68,7 +68,7 @@ Packbuilder | You wish to prove that gnolls can create, not just destroy, by for
     </trait>
   </race>
   <race>
-    <name>Gnoll, Repentant (TP)</name>
+    <name>Gnoll, Repentant [TP]</name>
     <displayname>Gnoll Repentant</displayname>
     <ancestry>Gnoll</ancestry>
     <size>M</size>

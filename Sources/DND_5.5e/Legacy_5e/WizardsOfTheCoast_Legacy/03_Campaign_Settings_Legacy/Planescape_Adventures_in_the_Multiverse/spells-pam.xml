@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Warp Sense</name>
+    <name>Warp Sense [Legacy]</name>
     <level>2</level>
     <school>D</school>
     <time>1 action</time>
@@ -16,7 +16,7 @@
 Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 12</text>
   </spell>
   <spell>
-    <name>Gate Seal</name>
+    <name>Gate Seal [Legacy]</name>
     <level>4</level>
     <school>A</school>
     <time>1 action</time>

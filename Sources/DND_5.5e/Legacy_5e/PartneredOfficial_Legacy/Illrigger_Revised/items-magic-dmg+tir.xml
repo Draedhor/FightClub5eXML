@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>True Name Antimatter Rifle (Rare) (TP)</name>
+    <name>True Name Antimatter Rifle (Rare) [TP Legacy]</name>
     <detail>firearm, futuristic, rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -39,7 +39,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Automatic Pistol (Rare) (TP)</name>
+    <name>True Name Automatic Pistol (Rare) [TP Legacy]</name>
     <detail>firearm, modern, rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -76,7 +76,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Automatic Rifle (Rare) (TP)</name>
+    <name>True Name Automatic Rifle (Rare) [TP Legacy]</name>
     <detail>firearm, modern, burst, rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -117,7 +117,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Hunting Rifle (Rare) (TP)</name>
+    <name>True Name Hunting Rifle (Rare) [TP Legacy]</name>
     <detail>firearm, modern, rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -158,7 +158,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Laser Rifle (Rare) (TP)</name>
+    <name>True Name Laser Rifle (Rare) [TP Legacy]</name>
     <detail>firearm, futuristic, rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -198,7 +198,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Pistol (Rare) (TP)</name>
+    <name>True Name Pistol (Rare) [TP Legacy]</name>
     <detail>firearm, renaissance, rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -240,7 +240,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Revolver (Rare) (TP)</name>
+    <name>True Name Revolver (Rare) [TP Legacy]</name>
     <detail>firearm, modern, rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -280,7 +280,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Shotgun (Rare) (TP)</name>
+    <name>True Name Shotgun (Rare) [TP Legacy]</name>
     <detail>firearm, modern, rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -324,7 +324,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Antimatter Rifle (Very Rare) (TP)</name>
+    <name>True Name Antimatter Rifle (Very Rare) [TP Legacy]</name>
     <detail>firearm, futuristic, very rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -362,7 +362,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Automatic Pistol (Very Rare) (TP)</name>
+    <name>True Name Automatic Pistol (Very Rare) [TP Legacy]</name>
     <detail>firearm, modern, very rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -399,7 +399,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Automatic Rifle (Very Rare) (TP)</name>
+    <name>True Name Automatic Rifle (Very Rare) [TP Legacy]</name>
     <detail>firearm, modern, burst, very rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -440,7 +440,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Hunting Rifle (Very Rare) (TP)</name>
+    <name>True Name Hunting Rifle (Very Rare) [TP Legacy]</name>
     <detail>firearm, modern, very rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -481,7 +481,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Laser Rifle (Very Rare) (TP)</name>
+    <name>True Name Laser Rifle (Very Rare) [TP Legacy]</name>
     <detail>firearm, futuristic, very rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -521,7 +521,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Pistol (Very Rare) (TP)</name>
+    <name>True Name Pistol (Very Rare) [TP Legacy]</name>
     <detail>firearm, renaissance, very rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -563,7 +563,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Revolver (Very Rare) (TP)</name>
+    <name>True Name Revolver (Very Rare) [TP Legacy]</name>
     <detail>firearm, modern, very rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -603,7 +603,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Shotgun (Very Rare) (TP)</name>
+    <name>True Name Shotgun (Very Rare) [TP Legacy]</name>
     <detail>firearm, modern, very rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -647,7 +647,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Antimatter Rifle (Legendary) (TP)</name>
+    <name>True Name Antimatter Rifle (Legendary) [TP Legacy]</name>
     <detail>firearm, futuristic, legendary (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -685,7 +685,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">3d6</roll>
   </item>
   <item>
-    <name>True Name Automatic Pistol (Legendary) (TP)</name>
+    <name>True Name Automatic Pistol (Legendary) [TP Legacy]</name>
     <detail>firearm, modern, legendary (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -722,7 +722,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">3d6</roll>
   </item>
   <item>
-    <name>True Name Automatic Rifle (Legendary) (TP)</name>
+    <name>True Name Automatic Rifle (Legendary) [TP Legacy]</name>
     <detail>firearm, modern, burst, legendary (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -763,7 +763,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">3d6</roll>
   </item>
   <item>
-    <name>True Name Hunting Rifle (Legendary) (TP)</name>
+    <name>True Name Hunting Rifle (Legendary) [TP Legacy]</name>
     <detail>firearm, modern, legendary (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -804,7 +804,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">3d6</roll>
   </item>
   <item>
-    <name>True Name Laser Rifle (Legendary) (TP)</name>
+    <name>True Name Laser Rifle (Legendary) [TP Legacy]</name>
     <detail>firearm, futuristic, legendary (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -844,7 +844,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">3d6</roll>
   </item>
   <item>
-    <name>True Name Pistol (Legendary) (TP)</name>
+    <name>True Name Pistol (Legendary) [TP Legacy]</name>
     <detail>firearm, renaissance, legendary (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -886,7 +886,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">3d6</roll>
   </item>
   <item>
-    <name>True Name Revolver (Legendary) (TP)</name>
+    <name>True Name Revolver (Legendary) [TP Legacy]</name>
     <detail>firearm, modern, legendary (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -926,7 +926,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">3d6</roll>
   </item>
   <item>
-    <name>True Name Shotgun (Legendary) (TP)</name>
+    <name>True Name Shotgun (Legendary) [TP Legacy]</name>
     <detail>firearm, modern, legendary (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>

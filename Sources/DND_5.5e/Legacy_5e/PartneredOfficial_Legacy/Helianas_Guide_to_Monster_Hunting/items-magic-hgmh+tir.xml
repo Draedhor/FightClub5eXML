@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>True Name Claw (Rare) (TP)</name>
+    <name>True Name Claw (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement by an illrigger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -32,7 +32,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Haladie (Rare) (TP)</name>
+    <name>True Name Haladie (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement by an illrigger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -65,7 +65,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Magitech Firearm (Rare) (TP)</name>
+    <name>True Name Magitech Firearm (Rare) [TP Legacy]</name>
     <detail>firearm, rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -105,7 +105,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Nunchuck (Rare) (TP)</name>
+    <name>True Name Nunchuck (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement by an illrigger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -139,7 +139,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Tetherhook (Rare) (TP)</name>
+    <name>True Name Tetherhook (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement by an illrigger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -173,7 +173,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Hand Tommybow (Rare) (TP)</name>
+    <name>True Name Hand Tommybow (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -213,7 +213,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Light Tommybow (Rare) (TP)</name>
+    <name>True Name Light Tommybow (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -251,7 +251,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Heavy Tommybow (Rare) (TP)</name>
+    <name>True Name Heavy Tommybow (Rare) [TP Legacy]</name>
     <detail>rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -291,7 +291,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>True Name Claw (Very Rare) (TP)</name>
+    <name>True Name Claw (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement by an illrigger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -322,7 +322,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Haladie (Very Rare) (TP)</name>
+    <name>True Name Haladie (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement by an illrigger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -355,7 +355,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Magitech Firearm (Very Rare) (TP)</name>
+    <name>True Name Magitech Firearm (Very Rare) [TP Legacy]</name>
     <detail>firearm, very rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -395,7 +395,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Nunchuck (Very Rare) (TP)</name>
+    <name>True Name Nunchuck (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement by an illrigger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -429,7 +429,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Tetherhook (Very Rare) (TP)</name>
+    <name>True Name Tetherhook (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement by an illrigger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -463,7 +463,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Hand Tommybow (Very Rare) (TP)</name>
+    <name>True Name Hand Tommybow (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -503,7 +503,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Light Tommybow (Very Rare) (TP)</name>
+    <name>True Name Light Tommybow (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -541,7 +541,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Heavy Tommybow (Very Rare) (TP)</name>
+    <name>True Name Heavy Tommybow (Very Rare) [TP Legacy]</name>
     <detail>very rare (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -581,7 +581,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">2d6</roll>
   </item>
   <item>
-    <name>True Name Claw (Legendary) (TP)</name>
+    <name>True Name Claw (Legendary) [TP Legacy]</name>
     <detail>legendary (requires attunement by an illrigger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -612,7 +612,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">3d6</roll>
   </item>
   <item>
-    <name>True Name Haladie (Legendary) (TP)</name>
+    <name>True Name Haladie (Legendary) [TP Legacy]</name>
     <detail>legendary (requires attunement by an illrigger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -645,7 +645,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">3d6</roll>
   </item>
   <item>
-    <name>True Name Magitech Firearm (Legendary) (TP)</name>
+    <name>True Name Magitech Firearm (Legendary) [TP Legacy]</name>
     <detail>firearm, legendary (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -685,7 +685,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">3d6</roll>
   </item>
   <item>
-    <name>True Name Nunchuck (Legendary) (TP)</name>
+    <name>True Name Nunchuck (Legendary) [TP Legacy]</name>
     <detail>legendary (requires attunement by an illrigger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -719,7 +719,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">3d6</roll>
   </item>
   <item>
-    <name>True Name Tetherhook (Legendary) (TP)</name>
+    <name>True Name Tetherhook (Legendary) [TP Legacy]</name>
     <detail>legendary (requires attunement by an illrigger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -753,7 +753,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">3d6</roll>
   </item>
   <item>
-    <name>True Name Hand Tommybow (Legendary) (TP)</name>
+    <name>True Name Hand Tommybow (Legendary) [TP Legacy]</name>
     <detail>legendary (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -793,7 +793,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">3d6</roll>
   </item>
   <item>
-    <name>True Name Light Tommybow (Legendary) (TP)</name>
+    <name>True Name Light Tommybow (Legendary) [TP Legacy]</name>
     <detail>legendary (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -831,7 +831,7 @@ Source:	The Illrigger Revised p. 38 (Third Party),
     <roll description="Extra Damage">3d6</roll>
   </item>
   <item>
-    <name>True Name Heavy Tommybow (Legendary) (TP)</name>
+    <name>True Name Heavy Tommybow (Legendary) [TP Legacy]</name>
     <detail>legendary (requires attunement by an illrigger)</detail>
     <type>R</type>
     <magic>YES</magic>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Blood of the Lycanthrope</name>
+    <name>Blood of the Lycanthrope [Legacy]</name>
     <detail>poison (injury)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -22,7 +22,7 @@ Source:	Infernal Machine Rebuild p. 93</text>
     <roll description="Lycanthropy">1d6</roll>
   </item>
   <item>
-    <name>Blood of the Lycanthrope Antidote</name>
+    <name>Blood of the Lycanthrope Antidote [Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -31,7 +31,7 @@ Source:	Infernal Machine Rebuild p. 93</text>
 Source:	Infernal Machine Rebuild p. 94</text>
   </item>
   <item>
-    <name>Bridle of Capturing</name>
+    <name>Bridle of Capturing [Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -41,7 +41,7 @@ Source:	Infernal Machine Rebuild p. 94</text>
 Source:	Infernal Machine Rebuild p. 94</text>
   </item>
   <item>
-    <name>Crown of the Forest</name>
+    <name>Crown of the Forest [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -51,7 +51,7 @@ Source:	Infernal Machine Rebuild p. 94</text>
 Source:	Infernal Machine Rebuild p. 7</text>
   </item>
   <item>
-    <name>Dust of the Mummy</name>
+    <name>Dust of the Mummy [Legacy]</name>
     <detail>poison (inhaled)</detail>
     <type>G</type>
     <text>This poison is created during a mummy's embalming process, distilled from the dead creature's removed organs. A creature subjected to this poison must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed creature can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the creature's hit point maximum to 0, the creature dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or similar magic.
@@ -64,7 +64,7 @@ Source:	Infernal Machine Rebuild p. 93</text>
     <roll description="Hit Point Max Decrease">3d6</roll>
   </item>
   <item>
-    <name>Ioun Stone, Vitality</name>
+    <name>Ioun Stone, Vitality [Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -77,7 +77,7 @@ Source:	Infernal Machine Rebuild p. 94</text>
     <roll description="Feet">1d3</roll>
   </item>
   <item>
-    <name>Mummy Rot Antidote</name>
+    <name>Mummy Rot Antidote [Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <text>White dust swirls constantly within this pale gray potion. When you drink the potion, it cures you of mummy rot.
@@ -85,7 +85,7 @@ Source:	Infernal Machine Rebuild p. 94</text>
 Source:	Infernal Machine Rebuild p. 94</text>
   </item>
   <item>
-    <name>Ruinblade</name>
+    <name>Ruinblade [Legacy]</name>
     <detail>greatsword, legendary, cursed (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -122,7 +122,7 @@ Source:	Infernal Machine Rebuild p. 95</text>
     <roll description="Force Damage">1d8</roll>
   </item>
   <item>
-    <name>The Infernal Machine of Lum the Mad</name>
+    <name>The Infernal Machine of Lum the Mad [Legacy]</name>
     <detail>artifact (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -257,7 +257,7 @@ Source:	Infernal Machine Rebuild p. 96</text>
     <roll description="Infernal Machine Properties">1d100</roll>
   </item>
   <item>
-    <name>Thessaltoxin</name>
+    <name>Thessaltoxin [Legacy]</name>
     <detail>poison (ingested or injury)</detail>
     <type>G</type>
     <text>This poison was first created using blood harvested from the artificer Thessalar. A creature subjected to the poison must succeed on a DC 15 Constitution saving throw or take on a new form as if affected by the polymorph spell. The creature's new form is a random beast or a creature it has seen within the last 24 hours (as chosen by the DM). This transformation lasts until the end of the target's next long rest. This effect is not subject to dispel magic or remove curse, but a greater restoration spell restores the creature to its original form.
@@ -271,7 +271,7 @@ Injury: Injury poison can be applied to weapons, ammunition, trap components, an
 Source:	Infernal Machine Rebuild p. 93</text>
   </item>
   <item>
-    <name>Thessaltoxin Antidote</name>
+    <name>Thessaltoxin Antidote [Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <text>This potion appears to change color and texture each time you look at it. When you drink the potion, it ends the polymorph effect imposed by thessaltoxin.

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Elf: Astral (Legacy)</name>
+    <name>Elf: Astral [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <proficiency>Perception</proficiency>
@@ -67,7 +67,7 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Autognome (Legacy)</name>
+    <name>Autognome [Legacy]</name>
     <size>S</size>
     <speed>30</speed>
     <trait category="description">
@@ -143,7 +143,7 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
   </race>
   <race>
-    <name>Giff (Legacy)</name>
+    <name>Giff [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <trait category="description">
@@ -195,7 +195,7 @@ Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 12</text
     </trait>
   </race>
   <race>
-    <name>Hadozee (Legacy)</name>
+    <name>Hadozee [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <trait category="description">
@@ -247,7 +247,7 @@ Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 13</text
     </trait>
   </race>
   <race>
-    <name>Plasmoid (Legacy)</name>
+    <name>Plasmoid [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <trait category="description">
@@ -301,7 +301,7 @@ Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 14</text
     </trait>
   </race>
   <race>
-    <name>Thri-kreen (Legacy)</name>
+    <name>Thri-kreen [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <trait category="description">

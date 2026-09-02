@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Corpse Slayer Brass Knuckles (TP)</name>
+    <name>Corpse Slayer Brass Knuckles [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -22,7 +22,7 @@ Source:	Explorer's Guide to Wildemount p. 266,
     <roll>1d8</roll>
   </item>
   <item>
-    <name>Brass Knuckles of Certain Death (TP)</name>
+    <name>Brass Knuckles of Certain Death [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>

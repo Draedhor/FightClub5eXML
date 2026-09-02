@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Blunderbuss (SGEH) (TP)</name>
+    <name>Blunderbuss (SGEH) [TP]</name>
     <detail>firearm, common</detail>
     <type>R</type>
     <weight>10</weight>
@@ -32,7 +32,7 @@ Proficiency: firearms, blunderbuss
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 207 (Homebrew)</text>
   </item>
   <item>
-    <name>Flintlock (TP)</name>
+    <name>Flintlock [TP]</name>
     <detail>firearm, common</detail>
     <type>R</type>
     <weight>3</weight>
@@ -59,7 +59,7 @@ Proficiency: firearms, flintlock
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 207 (Homebrew)</text>
   </item>
   <item>
-    <name>Cannon (TP)</name>
+    <name>Cannon [TP]</name>
     <detail>firearm, common</detail>
     <type>R</type>
     <weight>90</weight>
@@ -80,7 +80,7 @@ Proficiency: firearms, cannon
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 207 (Homebrew)</text>
   </item>
   <item>
-    <name>Rifle (TP)</name>
+    <name>Rifle [TP]</name>
     <detail>firearm, common</detail>
     <type>R</type>
     <weight>8</weight>
@@ -111,7 +111,7 @@ Proficiency: firearms, rifle
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 207 (Homebrew)</text>
   </item>
   <item>
-    <name>Pistol (SGEH) (TP)</name>
+    <name>Pistol (SGEH) [TP]</name>
     <detail>firearm, common</detail>
     <type>R</type>
     <weight>3</weight>
@@ -139,7 +139,7 @@ Proficiency: firearms, pistol
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 207 (Homebrew)</text>
   </item>
   <item>
-    <name>Lead Bullet (TP)</name>
+    <name>Lead Bullet [TP]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>0.1</weight>
@@ -149,7 +149,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 207 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 210 (Homebrew)</text>
   </item>
   <item>
-    <name>Cannonball (TP)</name>
+    <name>Cannonball [TP]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>9</weight>
@@ -159,7 +159,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 210 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 210 (Homebrew)</text>
   </item>
   <item>
-    <name>Explosive Bullet (TP)</name>
+    <name>Explosive Bullet [TP]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>0.1</weight>
@@ -172,7 +172,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 210 (Homebrew)</text>
     <roll description="Fire Damage">1d8</roll>
   </item>
   <item>
-    <name>Scatter Bullet (TP)</name>
+    <name>Scatter Bullet [TP]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>0.1</weight>
@@ -184,7 +184,7 @@ This bullet ignores the spread fire property and is fired like a standard bullet
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 210 (Homebrew)</text>
   </item>
   <item>
-    <name>Scythe (TP)</name>
+    <name>Scythe [TP]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>6</weight>
@@ -204,7 +204,7 @@ Proficiency: martial, scythe
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 214 (Homebrew)</text>
   </item>
   <item>
-    <name>Cleaver (TP)</name>
+    <name>Cleaver [TP]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>4</weight>

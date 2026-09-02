@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Adranach</name>
+    <name>Adranach [TP Legacy]</name>
     <size>H</size>
     <type>construct</type>
     <alignment/>
@@ -67,7 +67,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Ashari Firetamer</name>
+    <name>Ashari Firetamer [TP Legacy]</name>
     <sortname>Ashari, Firetamer</sortname>
     <ancestry>Ashari</ancestry>
     <size>M</size>
@@ -132,7 +132,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Ashari Skydancer</name>
+    <name>Ashari Skydancer [TP Legacy]</name>
     <sortname>Ashari, Skydancer</sortname>
     <ancestry>Ashari</ancestry>
     <size>M</size>
@@ -205,7 +205,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Ashari Stoneguard</name>
+    <name>Ashari Stoneguard [TP Legacy]</name>
     <sortname>Ashari, Stoneguard</sortname>
     <ancestry>Ashari</ancestry>
     <size>M</size>
@@ -265,7 +265,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Ashari Waverider</name>
+    <name>Ashari Waverider [TP Legacy]</name>
     <sortname>Ashari, Waverider</sortname>
     <ancestry>Ashari</ancestry>
     <size>M</size>
@@ -328,7 +328,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Blighted Sapling</name>
+    <name>Blighted Sapling [TP Legacy]</name>
     <sortname>Sapling, Blighted</sortname>
     <ancestry>Sapling</ancestry>
     <size>M</size>
@@ -377,7 +377,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Centaur Skeleton</name>
+    <name>Centaur Skeleton [TP Legacy]</name>
     <sortname>Skeleton, Centaur</sortname>
     <ancestry>Skeleton</ancestry>
     <size>L</size>
@@ -433,7 +433,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Champion of Ravens</name>
+    <name>Champion of Ravens [TP Legacy]</name>
     <sortname>Raven, Champion</sortname>
     <ancestry>Raven</ancestry>
     <size>M</size>
@@ -535,7 +535,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Cinderslag Elemental</name>
+    <name>Cinderslag Elemental [TP Legacy]</name>
     <sortname>Elemental, Cinderslag</sortname>
     <ancestry>Elemental</ancestry>
     <size>L</size>
@@ -594,7 +594,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Clasp Cutthroat</name>
+    <name>Clasp Cutthroat [TP Legacy]</name>
     <sortname>Clasp, Cutthroat</sortname>
     <ancestry>Clasp</ancestry>
     <size>M</size>
@@ -654,7 +654,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Clasp Enforcer</name>
+    <name>Clasp Enforcer [TP Legacy]</name>
     <sortname>Clasp, Enforcer</sortname>
     <ancestry>Clasp</ancestry>
     <size>M</size>
@@ -710,7 +710,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Cobalt Golem</name>
+    <name>Cobalt Golem [TP Legacy]</name>
     <sortname>Golem, Cobalt</sortname>
     <ancestry>Golem</ancestry>
     <size>H</size>
@@ -782,7 +782,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Cold Snap Spirit</name>
+    <name>Cold Snap Spirit [TP Legacy]</name>
     <sortname>Spirit, Cold Snap</sortname>
     <ancestry>Spirit</ancestry>
     <size>M</size>
@@ -837,7 +837,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Cyclops Stormcaller</name>
+    <name>Cyclops Stormcaller [TP Legacy]</name>
     <sortname>Cyclops, Stormcaller</sortname>
     <ancestry>Cyclops</ancestry>
     <size>L</size>
@@ -900,7 +900,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Demonfeed Spider</name>
+    <name>Demonfeed Spider [TP Legacy]</name>
     <sortname>Spider, Demonfeed</sortname>
     <ancestry>Spider, Demonfeed</ancestry>
     <size>L</size>
@@ -965,7 +965,7 @@ The target can repeat the saving throw at the end of each of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Demonfeed Spiderling</name>
+    <name>Demonfeed Spiderling [TP Legacy]</name>
     <sortname>Spiderling, Demonfeed</sortname>
     <ancestry>Demonfeed</ancestry>
     <size>M</size>
@@ -1011,7 +1011,7 @@ The target can repeat the saving throw at the end of each of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Doty X</name>
+    <name>Doty X [TP Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment/>
@@ -1073,7 +1073,7 @@ The target can repeat the saving throw at the end of each of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Ember Roc</name>
+    <name>Ember Roc [TP Legacy]</name>
     <sortname>Roc, Ember</sortname>
     <ancestry>Roc</ancestry>
     <size>G</size>
@@ -1137,7 +1137,7 @@ The target can repeat the saving throw at the end of each of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Flaming Skeleton</name>
+    <name>Flaming Skeleton [TP Legacy]</name>
     <sortname>Skeleton, Flaming</sortname>
     <ancestry>Skeleton</ancestry>
     <size>M</size>
@@ -1187,7 +1187,7 @@ The target can repeat the saving throw at the end of each of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Forge Guardian</name>
+    <name>Forge Guardian [TP Legacy]</name>
     <sortname>Guardian, Forge</sortname>
     <ancestry>Guardian</ancestry>
     <size>G</size>
@@ -1272,7 +1272,7 @@ The target can repeat the saving throw at the end of each of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Grog Strongjaw</name>
+    <name>Grog Strongjaw [TP Legacy]</name>
     <sortname>Strongjaw, Grog</sortname>
     <size>M</size>
     <type>humanoid (half-giant)</type>
@@ -1380,7 +1380,7 @@ He has advantage on Strength checks and Strength saving throws.
     <environment/>
   </monster>
   <monster>
-    <name>Jourrael, The Caedogeist</name>
+    <name>Jourrael, The Caedogeist [TP Legacy]</name>
     <size>M</size>
     <type>fiend (drow)</type>
     <alignment/>
@@ -1461,7 +1461,7 @@ If the saving throw fails by 5 or more, the target is also unconscious while poi
     <environment/>
   </monster>
   <monster>
-    <name>Keyleth, Voice of The Tempest</name>
+    <name>Keyleth, Voice of The Tempest [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (half-elf)</type>
@@ -1542,7 +1542,7 @@ If the saving throw fails by 5 or more, the target is also unconscious while poi
     <environment/>
   </monster>
   <monster>
-    <name>Kraghammer Goat-knight</name>
+    <name>Kraghammer Goat-knight [TP Legacy]</name>
     <sortname>Goat-knight, Kraghammer</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1606,7 +1606,7 @@ If the saving throw fails by 5 or more, the target is also unconscious while poi
     <environment/>
   </monster>
   <monster>
-    <name>Mage Hunter Golem</name>
+    <name>Mage Hunter Golem [TP Legacy]</name>
     <sortname>Golem, Mage Hunter</sortname>
     <ancestry>Golem</ancestry>
     <size>L</size>
@@ -1680,7 +1680,7 @@ While the target wears the collar, it is magically prevented from speaking and c
     <environment/>
   </monster>
   <monster>
-    <name>Magma Landshark</name>
+    <name>Magma Landshark [TP Legacy]</name>
     <sortname>Landshark, Magma</sortname>
     <ancestry>Landshark</ancestry>
     <size>H</size>
@@ -1741,7 +1741,7 @@ If the landshark takes 30 damage or more on a single turn from a creature inside
     <environment/>
   </monster>
   <monster>
-    <name>Master Adranach</name>
+    <name>Master Adranach [TP Legacy]</name>
     <sortname>Adranach, Master</sortname>
     <ancestry>Adranach</ancestry>
     <size>G</size>
@@ -1839,7 +1839,7 @@ If the landshark takes 30 damage or more on a single turn from a creature inside
     <environment/>
   </monster>
   <monster>
-    <name>Percival De Rolo</name>
+    <name>Percival De Rolo [TP Legacy]</name>
     <sortname>De Rolo, Percival</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1931,7 +1931,7 @@ Disarm: The target must make a DC 20 Strength saving throw. On a failure, the ta
     <environment/>
   </monster>
   <monster>
-    <name>Pike Trickfoot</name>
+    <name>Pike Trickfoot [TP Legacy]</name>
     <sortname>Trickfoot, Pike</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -2020,7 +2020,7 @@ Disarm: The target must make a DC 20 Strength saving throw. On a failure, the ta
     <environment/>
   </monster>
   <monster>
-    <name>Plainscow</name>
+    <name>Plainscow [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment/>
@@ -2060,7 +2060,7 @@ Disarm: The target must make a DC 20 Strength saving throw. On a failure, the ta
     <environment/>
   </monster>
   <monster>
-    <name>Platinum Golem</name>
+    <name>Platinum Golem [TP Legacy]</name>
     <sortname>Golem, Platinum</sortname>
     <ancestry>Golem</ancestry>
     <size>L</size>
@@ -2132,7 +2132,7 @@ Disarm: The target must make a DC 20 Strength saving throw. On a failure, the ta
     <environment/>
   </monster>
   <monster>
-    <name>Ravager Slaughter Lord</name>
+    <name>Ravager Slaughter Lord [TP Legacy]</name>
     <sortname>Ravager, Slaughter Lord</sortname>
     <ancestry>Ravager</ancestry>
     <size>L</size>
@@ -2219,7 +2219,7 @@ Disarm: The target must make a DC 20 Strength saving throw. On a failure, the ta
     <environment/>
   </monster>
   <monster>
-    <name>Ravager Stabby-Stabber</name>
+    <name>Ravager Stabby-Stabber [TP Legacy]</name>
     <sortname>Ravager, Stabby-Stabber</sortname>
     <ancestry>Ravager</ancestry>
     <size>S</size>
@@ -2270,7 +2270,7 @@ Disarm: The target must make a DC 20 Strength saving throw. On a failure, the ta
     <environment/>
   </monster>
   <monster>
-    <name>Remnant Chosen</name>
+    <name>Remnant Chosen [TP Legacy]</name>
     <sortname>Remnant, Chosen</sortname>
     <ancestry>Remnant</ancestry>
     <size>M</size>
@@ -2337,7 +2337,7 @@ Disarm: The target must make a DC 20 Strength saving throw. On a failure, the ta
     <environment/>
   </monster>
   <monster>
-    <name>Remnant Cultist</name>
+    <name>Remnant Cultist [TP Legacy]</name>
     <sortname>Remnant, Cultist</sortname>
     <ancestry>Remnant</ancestry>
     <size>M</size>
@@ -2403,7 +2403,7 @@ Once per turn when the cultist hits a creature with an attack using this weapon,
     <environment/>
   </monster>
   <monster>
-    <name>Rivermaw Brawler</name>
+    <name>Rivermaw Brawler [TP Legacy]</name>
     <sortname>Rivermaw, Brawler</sortname>
     <ancestry>Rivermaw</ancestry>
     <size>M</size>
@@ -2464,7 +2464,7 @@ Once per turn when the cultist hits a creature with an attack using this weapon,
     <environment/>
   </monster>
   <monster>
-    <name>Rivermaw Stormborn</name>
+    <name>Rivermaw Stormborn [TP Legacy]</name>
     <sortname>Rivermaw, Stormborn</sortname>
     <ancestry>Rivermaw</ancestry>
     <size>M</size>
@@ -2523,7 +2523,7 @@ Once per turn when the cultist hits a creature with an attack using this weapon,
     <environment/>
   </monster>
   <monster>
-    <name>Scanlan Shorthalt</name>
+    <name>Scanlan Shorthalt [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (gnome)</type>
     <alignment/>
@@ -2610,7 +2610,7 @@ Once per turn when the cultist hits a creature with an attack using this weapon,
     <environment/>
   </monster>
   <monster>
-    <name>Taryon Darrington</name>
+    <name>Taryon Darrington [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment/>
@@ -2690,7 +2690,7 @@ Once per turn when the cultist hits a creature with an attack using this weapon,
     <environment/>
   </monster>
   <monster>
-    <name>Trinket</name>
+    <name>Trinket [TP Legacy]</name>
     <size>L</size>
     <type>beast (brownbear)</type>
     <alignment/>
@@ -2751,7 +2751,7 @@ Once per turn when the cultist hits a creature with an attack using this weapon,
     <environment/>
   </monster>
   <monster>
-    <name>Vex'ahlia</name>
+    <name>Vex'ahlia [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (half-elf)</type>
@@ -2848,7 +2848,7 @@ The target can repeat the saving throw at the end of each of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Vos'skyriss Serpentfolk Ghost</name>
+    <name>Vos'skyriss Serpentfolk Ghost [TP Legacy]</name>
     <sortname>Vos'skyriss, Serpentfolk Ghost</sortname>
     <ancestry>Ghost, Vos'skyriss</ancestry>
     <size>L</size>
@@ -2906,7 +2906,7 @@ The target can repeat the saving throw at the end of each of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Vos'skyriss Serpentfolk</name>
+    <name>Vos'skyriss Serpentfolk [TP Legacy]</name>
     <sortname>Vos'skyriss, Serpentfolk</sortname>
     <ancestry>Vos'skyriss</ancestry>
     <size>L</size>
@@ -2969,7 +2969,7 @@ Until this grapple ends, the creature is restrained, and the serpentfolk can't c
     <environment/>
   </monster>
   <monster>
-    <name>Wraithroot Tree</name>
+    <name>Wraithroot Tree [TP Legacy]</name>
     <sortname>Tree, Wraithroot</sortname>
     <ancestry>Tree</ancestry>
     <size>H</size>
@@ -3029,7 +3029,7 @@ Until this grapple ends, the creature is restrained, and the serpentfolk can't c
     <environment/>
   </monster>
   <monster>
-    <name>Young Magma Landshark</name>
+    <name>Young Magma Landshark [TP Legacy]</name>
     <sortname>Landshark, Magma Young</sortname>
     <ancestry>Landshark</ancestry>
     <size>L</size>

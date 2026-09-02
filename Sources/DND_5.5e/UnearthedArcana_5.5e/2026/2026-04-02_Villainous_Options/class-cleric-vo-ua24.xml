@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Cleric (UA)</name>
+    <name>Cleric</name>
     <!-- Cleric Subclass: Pestilence Domain (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -104,43 +104,43 @@ Source:	Villainous Options p. 2 (Unearthed Arcana)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Detect Poison and Disease (UA)</name>
+    <name>Detect Poison and Disease [UA]</name>
     <classes>Cleric (Pestilence Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Protection from Poison (UA)</name>
+    <name>Protection from Poison [UA]</name>
     <classes>Cleric (Pestilence Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Ray of Enfeeblement (UA)</name>
+    <name>Ray of Enfeeblement [UA]</name>
     <classes>Cleric (Pestilence Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Ray of Sickness (UA)</name>
+    <name>Ray of Sickness [UA]</name>
     <classes>Cleric (Pestilence Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Stinking Cloud (UA)</name>
+    <name>Stinking Cloud [UA]</name>
     <classes>Cleric (Pestilence Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Vampiric Touch (UA)</name>
+    <name>Vampiric Touch [UA]</name>
     <classes>Cleric (Pestilence Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Blight (UA)</name>
+    <name>Blight [UA]</name>
     <classes>Cleric (Pestilence Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Giant Insect (UA)</name>
+    <name>Giant Insect [UA]</name>
     <classes>Cleric (Pestilence Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Contagion (UA)</name>
+    <name>Contagion [UA]</name>
     <classes>Cleric (Pestilence Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Insect Plague (UA)</name>
+    <name>Insect Plague [UA]</name>
     <classes>Cleric (Pestilence Domain (UA))</classes>
   </spell>
 </compendium>

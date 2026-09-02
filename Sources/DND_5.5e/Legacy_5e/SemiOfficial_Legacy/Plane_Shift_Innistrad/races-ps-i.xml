@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Human (Innistrad, Gavony)</name>
+    <name>Human (Innistrad, Gavony) [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +1, Dex +1, Con +1, Int +1, Wis +1, Cha +1</ability>
@@ -43,7 +43,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Human (Innistrad, Kessig)</name>
+    <name>Human (Innistrad, Kessig) [TP Legacy]</name>
     <size>M</size>
     <speed>40</speed>
     <ability>Dex +1, Wis +1</ability>
@@ -96,7 +96,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Human (Innistrad, Nephalia)</name>
+    <name>Human (Innistrad, Nephalia) [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Int +1, Cha +1</ability>
@@ -136,7 +136,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Human (Innistrad, Stensia)</name>
+    <name>Human (Innistrad, Stensia) [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +1, Con +1</ability>

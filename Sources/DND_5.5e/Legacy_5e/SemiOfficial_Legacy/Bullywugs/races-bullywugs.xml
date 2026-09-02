@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Bullywug, Cave (HB)</name>
+    <name>Bullywug, Cave [HB Legacy]</name>
     <size>M</size>
     <speed>20</speed>
     <ability>Dex +2, Wis +1</ability>
@@ -94,7 +94,7 @@ Examples of bullywug names: Kek'kek, Jrr'mya, Krr'mit, Budd, Wyyze, Err, and Rrr
     </trait>
   </race>
   <race>
-    <name>Bullywug, Horned (HB)</name>
+    <name>Bullywug, Horned [HB Legacy]</name>
     <size>M</size>
     <speed>20</speed>
     <ability>Dex +2, Str +1</ability>
@@ -183,7 +183,7 @@ Examples of bullywug names: Kek'kek, Jrr'mya, Krr'mit, Budd, Wyyze, Err, and Rrr
     </trait>
   </race>
   <race>
-    <name>Bullywug, Poisondart (HB)</name>
+    <name>Bullywug, Poisondart [HB Legacy]</name>
     <size>M</size>
     <speed>20</speed>
     <ability>Cha +1, Dex +2</ability>
@@ -275,7 +275,7 @@ Examples of bullywug names: Kek'kek, Jrr'mya, Krr'mit, Budd, Wyyze, Err, and Rrr
     </trait>
   </race>
   <race>
-    <name>Bullywug, Toad (HB)</name>
+    <name>Bullywug, Toad [HB Legacy]</name>
     <size>M</size>
     <speed>20</speed>
     <ability>Con +1, Dex +2</ability>
@@ -363,7 +363,7 @@ Examples of bullywug names: Kek'kek, Jrr'mya, Krr'mit, Budd, Wyyze, Err, and Rrr
     </trait>
   </race>
   <race>
-    <name>Bullywug, Tree (HB)</name>
+    <name>Bullywug, Tree [HB Legacy]</name>
     <size>M</size>
     <speed>20</speed>
     <ability>Dex +3</ability>

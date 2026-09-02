@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Homarid</name>
+    <name>Homarid [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -43,7 +43,7 @@ The homarid has two claws, each of which can grapple only one target.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Kavu Predator</name>
+    <name>Kavu Predator [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -88,7 +88,7 @@ The homarid has two claws, each of which can grapple only one target.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Steel Leaf Kavu</name>
+    <name>Steel Leaf Kavu [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -129,7 +129,7 @@ The homarid has two claws, each of which can grapple only one target.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Zombie Horse</name>
+    <name>Zombie Horse [TP Legacy]</name>
     <sortname>Zombie, Horse</sortname>
     <ancestry>Zombie, Horse</ancestry>
     <size>L</size>

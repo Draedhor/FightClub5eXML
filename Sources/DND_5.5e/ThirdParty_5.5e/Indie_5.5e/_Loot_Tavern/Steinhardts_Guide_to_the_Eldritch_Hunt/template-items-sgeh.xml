@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <itemtemplate>
-    <name>Moongold %name% (TP)</name>
+    <name>Moongold %name% [TP]</name>
     <detail>uncommon</detail>
     <type>M,A</type>
     <text>Some monsters that have immunity or resistance to nonmagical or magical weapons are susceptible to moongilded weapons, so cautious adventurers invest extra coin to plate their weapons, magical or not, with moongold.
@@ -11,7 +11,7 @@
     <roll description="Bonus To Damage">1d4</roll>
   </itemtemplate>
   <itemtemplate>
-    <name>Scionic %name% (TP)</name>
+    <name>Scionic %name% [TP]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <text>The Scions' weapons-whether dead or alive-are constructed from the bones of formidable monsters which are then tortured with strong lightning, granting twisted appearance and savage fury to the armament. The weapon's osseous component grants it ancient strength, and the electricity that dances across its body brutalizes all who come in contact with it.
@@ -29,7 +29,7 @@ Explosive Retreat: When you hit a creature with this weapon, you can choose to d
     <roll description="Lightning Damage">3d8</roll>
   </itemtemplate>
   <itemtemplate>
-    <name>Scionic %name% (TP)</name>
+    <name>Scionic %name% [TP]</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <text>The Scions' weapons-whether dead or alive-are constructed from the bones of formidable monsters which are then tortured with strong lightning, granting twisted appearance and savage fury to the armament. The weapon's osseous component grants it ancient strength, and the electricity that dances across its body brutalizes all who come in contact with it.
@@ -45,7 +45,7 @@ Guiding Fury: While holding this weapon, you can unleash the rage held within it
     <roll description="Lightning Damage">2d8</roll>
   </itemtemplate>
   <itemtemplate>
-    <name>Scionic %name% (TP)</name>
+    <name>Scionic %name% [TP]</name>
     <detail>rare (requires attunement)</detail>
     <match>crystal,orb,staff,wand</match>
     <text>The Scions' weapons-whether dead or alive-are constructed from the bones of formidable monsters which are then tortured with strong lightning, granting twisted appearance and savage fury to the armament. The weapon's osseous component grants it ancient strength, and the electricity that dances across its body brutalizes all who come in contact with it.
@@ -62,7 +62,7 @@ Ionized Conduit: As a bonus action, you can increase the polarity of the focus. 
 
 
   <itemtemplate>
-    <name>Roaring Scionic %name% (TP)</name>
+    <name>Roaring Scionic %name% [TP]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <text>Roaring scionic weapons are the pinnacle of scionic technology, requiring hefty resources to produce even one of them. They all require attunement. When attuning to such a weapon, a creature takes 5d8 lightning damage.
@@ -80,7 +80,7 @@ Galvanic Engage: On your first turn in combat, you can use your bonus action to 
     <roll description="Lightning Damage">5d8</roll>
   </itemtemplate>
   <itemtemplate>
-    <name>Roaring Scionic %name% (TP)</name>
+    <name>Roaring Scionic %name% [TP]</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <text>Roaring scionic weapons are the pinnacle of scionic technology, requiring hefty resources to produce even one of them. They all require attunement. When attuning to such a weapon, a creature takes 5d8 lightning damage.
@@ -95,7 +95,7 @@ Lightning Surge: When you hit a creature with this weapon, your speed increases 
     <modifier category="bonus">weapon damage +2</modifier>
   </itemtemplate>
   <itemtemplate>
-    <name>Roaring Scionic %name% (TP)</name>
+    <name>Roaring Scionic %name% [TP]</name>
     <detail>rare (requires attunement)</detail>
     <match>crystal,orb,staff,wand</match>
     <text>Roaring scionic weapons are the pinnacle of scionic technology, requiring hefty resources to produce even one of them. They all require attunement. When attuning to such a weapon, a creature takes 5d8 lightning damage.

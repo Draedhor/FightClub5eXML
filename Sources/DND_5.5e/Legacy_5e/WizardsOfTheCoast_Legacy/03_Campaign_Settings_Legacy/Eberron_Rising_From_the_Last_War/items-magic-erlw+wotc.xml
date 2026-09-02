@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Double-Bladed Scimitar of the Medusa</name>
+    <name>Double-Bladed Scimitar of the Medusa [Legacy]</name>
     <detail>very rare, cursed (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -27,7 +27,7 @@ Source:	Lost Laboratory of Kwalish p. 53,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Gambler's Double-Bladed Scimitar</name>
+    <name>Gambler's Double-Bladed Scimitar [Legacy]</name>
     <detail>rare, cursed (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -52,7 +52,7 @@ Source:	Lost Laboratory of Kwalish p. 55,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Polymorph Double-Bladed Scimitar</name>
+    <name>Polymorph Double-Bladed Scimitar [Legacy]</name>
     <detail>very rare, cursed (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -103,7 +103,7 @@ Source:	Lost Laboratory of Kwalish p. 56,
     <roll description="Polymorph">1d20</roll>
   </item>
   <item>
-    <name>Hellfire Double-Bladed Scimitar</name>
+    <name>Hellfire Double-Bladed Scimitar [Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -127,7 +127,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 223,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Adamantine Double-Bladed Scimitar</name>
+    <name>Adamantine Double-Bladed Scimitar [Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -150,7 +150,7 @@ Source:	Xanathar's Guide to Everything p. 78,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Moon-Touched Double-Bladed Scimitar</name>
+    <name>Moon-Touched Double-Bladed Scimitar [Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -173,7 +173,7 @@ Source:	Xanathar's Guide to Everything p. 138,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Double-Bladed Scimitar of Throne's Command</name>
+    <name>Double-Bladed Scimitar of Throne's Command [Legacy]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -202,7 +202,7 @@ Source:	The Book of Many Things p. 39,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Double-Bladed Scimitar of the Planes</name>
+    <name>Double-Bladed Scimitar of the Planes [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -231,7 +231,7 @@ Source:	The Book of Many Things p. 68,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Fool's Double-Bladed Scimitar</name>
+    <name>Fool's Double-Bladed Scimitar [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -261,7 +261,7 @@ Source:	The Book of Many Things p. 36,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Bloodshed Double-Bladed Scimitar</name>
+    <name>Bloodshed Double-Bladed Scimitar [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -292,7 +292,7 @@ Source:	Bigby Presents: Glory of the Giants p. 111,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Mind Double-Bladed Scimitar</name>
+    <name>Mind Double-Bladed Scimitar [Legacy]</name>
     <detail>rare (requires attunement by a specific individual)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -316,7 +316,7 @@ Source:	Volo's Guide to Monsters p. 81,
     <roll>2d6</roll>
   </item>
   <item>
-    <name>Crystal Double-Bladed Scimitar</name>
+    <name>Crystal Double-Bladed Scimitar [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -343,7 +343,7 @@ Source:	Fizban's Treasury of Dragons p. 22,
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Dragon's Wrath Double-Bladed Scimitar</name>
+    <name>Dragon's Wrath Double-Bladed Scimitar [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -376,7 +376,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Slumbering Dragon's Wrath Double-Bladed Scimitar</name>
+    <name>Slumbering Dragon's Wrath Double-Bladed Scimitar [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -400,7 +400,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Stirring Dragon's Wrath Double-Bladed Scimitar</name>
+    <name>Stirring Dragon's Wrath Double-Bladed Scimitar [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -428,7 +428,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">1d6</roll>
   </item>
   <item>
-    <name>Wakened Dragon's Wrath Double-Bladed Scimitar</name>
+    <name>Wakened Dragon's Wrath Double-Bladed Scimitar [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -458,7 +458,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">8d6</roll>
   </item>
   <item>
-    <name>Ascendant Dragon's Wrath Double-Bladed Scimitar</name>
+    <name>Ascendant Dragon's Wrath Double-Bladed Scimitar [Legacy]</name>
     <detail>Legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -488,7 +488,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">12d6</roll>
   </item>
   <item>
-    <name>Vicious Double-Bladed Scimitar +1</name>
+    <name>Vicious Double-Bladed Scimitar +1 [Legacy]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -514,7 +514,7 @@ Source:	Acquisitions Incorporated p. 149,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Ruidium Double-Bladed Scimitar</name>
+    <name>Ruidium Double-Bladed Scimitar [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -547,7 +547,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216,
     <roll description="Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Silvered Double-Bladed Scimitar</name>
+    <name>Silvered Double-Bladed Scimitar [Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>NO</magic>
@@ -570,7 +570,7 @@ Source:	Player's Handbook (2014) p. 148,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Double-Bladed Scimitar +1</name>
+    <name>Double-Bladed Scimitar +1 [Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -595,7 +595,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Double-Bladed Scimitar +2</name>
+    <name>Double-Bladed Scimitar +2 [Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -620,7 +620,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Double-Bladed Scimitar +3</name>
+    <name>Double-Bladed Scimitar +3 [Legacy]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -645,7 +645,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Dancing Double-Bladed Scimitar</name>
+    <name>Dancing Double-Bladed Scimitar [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -670,7 +670,7 @@ Source:	Dungeon Master's Guide (2014) p. 161,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Defender Double-Bladed Scimitar</name>
+    <name>Defender Double-Bladed Scimitar [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -697,7 +697,7 @@ Source:	Dungeon Master's Guide (2014) p. 164,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Dragon Slayer Double-Bladed Scimitar</name>
+    <name>Dragon Slayer Double-Bladed Scimitar [Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -725,7 +725,7 @@ Source:	Dungeon Master's Guide (2014) p. 166,
     <roll description="Extra Damage">3d6</roll>
   </item>
   <item>
-    <name>Flame Tongue Double-Bladed Scimitar</name>
+    <name>Flame Tongue Double-Bladed Scimitar [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -749,7 +749,7 @@ Source:	Dungeon Master's Guide (2014) p. 170,
     <roll>2d6</roll>
   </item>
   <item>
-    <name>Frost Brand Double-Bladed Scimitar</name>
+    <name>Frost Brand Double-Bladed Scimitar [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -775,7 +775,7 @@ Source:	Dungeon Master's Guide (2014) p. 171,
     <roll>1d6</roll>
   </item>
   <item>
-    <name>Giant Slayer Double-Bladed Scimitar</name>
+    <name>Giant Slayer Double-Bladed Scimitar [Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -803,7 +803,7 @@ Source:	Dungeon Master's Guide (2014) p. 172,
     <roll>2d6</roll>
   </item>
   <item>
-    <name>Holy Avenger Double-Bladed Scimitar</name>
+    <name>Holy Avenger Double-Bladed Scimitar [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -831,7 +831,7 @@ Source:	Dungeon Master's Guide (2014) p. 174,
     <roll>2d10</roll>
   </item>
   <item>
-    <name>Luck Double-Bladed Scimitar</name>
+    <name>Luck Double-Bladed Scimitar [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -862,7 +862,7 @@ Source:	Dungeon Master's Guide (2014) p. 179,
     <roll>1d4-1</roll>
   </item>
   <item>
-    <name>Nine Lives Stealer Double-Bladed Scimitar</name>
+    <name>Nine Lives Stealer Double-Bladed Scimitar [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -890,7 +890,7 @@ Source:	Dungeon Master's Guide (2014) p. 183,
     <roll>1d8+1</roll>
   </item>
   <item>
-    <name>Double-Bladed Scimitar of Life Stealing</name>
+    <name>Double-Bladed Scimitar of Life Stealing [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -913,7 +913,7 @@ Source:	Dungeon Master's Guide (2014) p. 206,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Double-Bladed Scimitar of Sharpness</name>
+    <name>Double-Bladed Scimitar of Sharpness [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -940,7 +940,7 @@ Source:	Dungeon Master's Guide (2014) p. 206,
     <roll>1d20</roll>
   </item>
   <item>
-    <name>Double-Bladed Scimitar of Vengeance</name>
+    <name>Double-Bladed Scimitar of Vengeance [Legacy]</name>
     <detail>uncommon, cursed (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -969,7 +969,7 @@ Source:	Dungeon Master's Guide (2014) p. 206,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Double-Bladed Scimitar of Wounding</name>
+    <name>Double-Bladed Scimitar of Wounding [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -994,7 +994,7 @@ Source:	Dungeon Master's Guide (2014) p. 207,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Vicious Double-Bladed Scimitar</name>
+    <name>Vicious Double-Bladed Scimitar [Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1017,7 +1017,7 @@ Source:	Dungeon Master's Guide (2014) p. 209,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Vorpal Double-Bladed Scimitar</name>
+    <name>Vorpal Double-Bladed Scimitar [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1043,7 +1043,7 @@ Source:	Dungeon Master's Guide (2014) p. 209,
     <roll>6d8</roll>
   </item>
   <item>
-    <name>Double-Bladed Scimitar of Warning</name>
+    <name>Double-Bladed Scimitar of Warning [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1066,7 +1066,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <roll description="Slashing Damage">1d4</roll>
   </item>
   <item>
-    <name>Drow Double-Bladed Scimitar +1</name>
+    <name>Drow Double-Bladed Scimitar +1 [Legacy]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>

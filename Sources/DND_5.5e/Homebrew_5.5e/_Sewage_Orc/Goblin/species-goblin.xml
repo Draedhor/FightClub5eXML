@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Goblin (TP)</name>
+    <name>Goblin [TP]</name>
     <displayname>Goblin  (HB)</displayname>
     <ancestry>Goblin  (HB)</ancestry>
     <size>S</size>
@@ -51,7 +51,7 @@ Source:	Sewage Orc</text>
     </trait>
   </race>
   <race>
-    <name>Goblin, Cragmaw (TP)</name>
+    <name>Goblin, Cragmaw [TP]</name>
     <displayname>Cragmaw Goblin</displayname>
     <ancestry>Goblin</ancestry>
     <size>S</size>

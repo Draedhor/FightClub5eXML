@@ -539,211 +539,211 @@ Source:	Old World's Might - Subclasses from Old Europe p. 21 (Homebrew)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Sanctuary (TP)</name>
+    <name>Sanctuary [TP]</name>
     <classes>Cleric (Hearth Domain (OWM) (HB)), Cleric (Cathedral Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Beacon of Hope (TP)</name>
+    <name>Beacon of Hope [TP]</name>
     <classes>Cleric (Hearth Domain (OWM) (HB)), Cleric (Cathedral Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Aura of Purity (TP)</name>
+    <name>Aura of Purity [TP]</name>
     <classes>Cleric (Hearth Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Hallow (TP)</name>
+    <name>Hallow [TP]</name>
     <classes>Cleric (Hearth Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Cure Wounds (TP)</name>
+    <name>Cure Wounds [TP]</name>
     <classes>Cleric (Hearth Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Shield of Faith (TP)</name>
+    <name>Shield of Faith [TP]</name>
     <classes>Cleric (Hearth Domain (OWM) (HB)), Cleric (Cathedral Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Calm Emotions (TP)</name>
+    <name>Calm Emotions [TP]</name>
     <classes>Cleric (Hearth Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Leomund's Tiny Hut (TP)</name>
+    <name>Leomund's Tiny Hut [TP]</name>
     <classes>Cleric (Hearth Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Guardian of Faith (TP)</name>
+    <name>Guardian of Faith [TP]</name>
     <classes>Cleric (Hearth Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Mass Cure Wounds (TP)</name>
+    <name>Mass Cure Wounds [TP]</name>
     <classes>Cleric (Hearth Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Detect Magic (TP)</name>
+    <name>Detect Magic [TP]</name>
     <classes>Cleric (Mysteries Domain (HB)), Cleric (Heresy Domain (HB)), Cleric (Inquisition Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Identify (TP)</name>
+    <name>Identify [TP]</name>
     <classes>Cleric (Mysteries Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Augury (TP)</name>
+    <name>Augury [TP]</name>
     <classes>Cleric (Mysteries Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Mirror Image (TP)</name>
+    <name>Mirror Image [TP]</name>
     <classes>Cleric (Mysteries Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Clairvoyance (TP)</name>
+    <name>Clairvoyance [TP]</name>
     <classes>Cleric (Mysteries Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Dispel Magic (TP)</name>
+    <name>Dispel Magic [TP]</name>
     <classes>Cleric (Mysteries Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Arcane Eye (TP)</name>
+    <name>Arcane Eye [TP]</name>
     <classes>Cleric (Mysteries Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Divination (TP)</name>
+    <name>Divination [TP]</name>
     <classes>Cleric (Mysteries Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Scrying (TP)</name>
+    <name>Scrying [TP]</name>
     <classes>Cleric (Mysteries Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Modify Memory (TP)</name>
+    <name>Modify Memory [TP]</name>
     <classes>Cleric (Mysteries Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Minor Illusion (TP)</name>
+    <name>Minor Illusion [TP]</name>
     <classes>Cleric (Mysteries Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Ray of Sickness (TP)</name>
+    <name>Ray of Sickness [TP]</name>
     <classes>Cleric (Black Death Domain (HB))</classes>
   </spell>
   <spell>
-    <name>False Life (TP)</name>
+    <name>False Life [TP]</name>
     <classes>Cleric (Black Death Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Protection from Poison (TP)</name>
+    <name>Protection from Poison [TP]</name>
     <classes>Cleric (Black Death Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Animate Dead (TP)</name>
+    <name>Animate Dead [TP]</name>
     <classes>Cleric (Black Death Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Stinking Cloud (TP)</name>
+    <name>Stinking Cloud [TP]</name>
     <classes>Cleric (Black Death Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Blight (TP)</name>
+    <name>Blight [TP]</name>
     <classes>Cleric (Black Death Domain (HB)), Cleric (Heresy Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Death Ward (TP)</name>
+    <name>Death Ward [TP]</name>
     <classes>Cleric (Black Death Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Cloudkill (TP)</name>
+    <name>Cloudkill [TP]</name>
     <classes>Cleric (Black Death Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Contagion (TP)</name>
+    <name>Contagion [TP]</name>
     <classes>Cleric (Black Death Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Bless (TP)</name>
+    <name>Bless [TP]</name>
     <classes>Cleric (Cathedral Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Command (TP)</name>
+    <name>Command [TP]</name>
     <classes>Cleric (Cathedral Domain (HB)), Cleric (Inquisition Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Spirit Guardians (TP)</name>
+    <name>Spirit Guardians [TP]</name>
     <classes>Cleric (Cathedral Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Aura of Life (TP)</name>
+    <name>Aura of Life [TP]</name>
     <classes>Cleric (Cathedral Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Stone Shape (TP)</name>
+    <name>Stone Shape [TP]</name>
     <classes>Cleric (Cathedral Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Greater Restoration (TP)</name>
+    <name>Greater Restoration [TP]</name>
     <classes>Cleric (Cathedral Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Wall of Stone (TP)</name>
+    <name>Wall of Stone [TP]</name>
     <classes>Cleric (Cathedral Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Cause Fear (TP)</name>
+    <name>Cause Fear [TP]</name>
     <classes>Cleric (Heresy Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Disguise Self (TP)</name>
+    <name>Disguise Self [TP]</name>
     <classes>Cleric (Heresy Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Hellish Rebuke (TP)</name>
+    <name>Hellish Rebuke [TP]</name>
     <classes>Cleric (Heresy Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Suggestion (TP)</name>
+    <name>Suggestion [TP]</name>
     <classes>Cleric (Heresy Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Silence (TP)</name>
+    <name>Silence [TP]</name>
     <classes>Cleric (Heresy Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Counterspell (TP)</name>
+    <name>Counterspell [TP]</name>
     <classes>Cleric (Heresy Domain (HB)), Cleric (Inquisition Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Dispel Evil and Good (TP)</name>
+    <name>Dispel Evil and Good [TP]</name>
     <classes>Cleric (Heresy Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Greater Invisibility (TP)</name>
+    <name>Greater Invisibility [TP]</name>
     <classes>Cleric (Heresy Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Hunter's Mark (TP)</name>
+    <name>Hunter's Mark [TP]</name>
     <classes>Cleric (Inquisition Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Zone of Truth (TP)</name>
+    <name>Zone of Truth [TP]</name>
     <classes>Cleric (Inquisition Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Hold Person (TP)</name>
+    <name>Hold Person [TP]</name>
     <classes>Cleric (Inquisition Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>See Invisibility (TP)</name>
+    <name>See Invisibility [TP]</name>
     <classes>Cleric (Inquisition Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Locate Creature (TP)</name>
+    <name>Locate Creature [TP]</name>
     <classes>Cleric (Inquisition Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Banishment (TP)</name>
+    <name>Banishment [TP]</name>
     <classes>Cleric (Inquisition Domain (OWM) (HB))</classes>
   </spell>
   <spell>
-    <name>Dominate Person (TP)</name>
+    <name>Dominate Person [TP]</name>
     <classes>Cleric (Inquisition Domain (OWM) (HB))</classes>
   </spell>
 </compendium>

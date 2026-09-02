@@ -185,83 +185,83 @@ Source:	Tome of Heroes p. 71 (Homebrew)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Command</name>
+    <name>Command [TP Legacy]</name>
     <classes>Cleric (Keeper Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Hunter's Mark</name>
+    <name>Hunter's Mark [TP Legacy]</name>
     <classes>Cleric (Keeper Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Calm Emotions</name>
+    <name>Calm Emotions [TP Legacy]</name>
     <classes>Cleric (Keeper Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Warding Bond</name>
+    <name>Warding Bond [TP Legacy]</name>
     <classes>Cleric (Keeper Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Beacon of Hope</name>
+    <name>Beacon of Hope [TP Legacy]</name>
     <classes>Cleric (Keeper Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Spirit Guardians</name>
+    <name>Spirit Guardians [TP Legacy]</name>
     <classes>Cleric (Keeper Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Death Ward</name>
+    <name>Death Ward [TP Legacy]</name>
     <classes>Cleric (Keeper Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Guardian of Faith</name>
+    <name>Guardian of Faith [TP Legacy]</name>
     <classes>Cleric (Keeper Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Hallow</name>
+    <name>Hallow [TP Legacy]</name>
     <classes>Cleric (Keeper Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Telepathic Bond</name>
+    <name>Telepathic Bond [TP Legacy]</name>
     <classes>Cleric (Keeper Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Bane</name>
+    <name>Bane [TP Legacy]</name>
     <classes>Cleric (Shadow Domain (Book of Ebon Tides) (Third Party))</classes>
   </spell>
   <spell>
-    <name>False Life</name>
+    <name>False Life [TP Legacy]</name>
     <classes>Cleric (Shadow Domain (Book of Ebon Tides) (Third Party))</classes>
   </spell>
   <spell>
-    <name>Blindness/Deafness</name>
+    <name>Blindness/Deafness [TP Legacy]</name>
     <classes>Cleric (Shadow Domain (Book of Ebon Tides) (Third Party))</classes>
   </spell>
   <spell>
-    <name>Darkness</name>
+    <name>Darkness [TP Legacy]</name>
     <classes>Cleric (Shadow Domain (Book of Ebon Tides) (Third Party))</classes>
   </spell>
   <spell>
-    <name>Blink</name>
+    <name>Blink [TP Legacy]</name>
     <classes>Cleric (Shadow Domain (Book of Ebon Tides) (Third Party))</classes>
   </spell>
   <spell>
-    <name>Fear</name>
+    <name>Fear [TP Legacy]</name>
     <classes>Cleric (Shadow Domain (Book of Ebon Tides) (Third Party))</classes>
   </spell>
   <spell>
-    <name>Evard's Black Tentacles</name>
+    <name>Evard's Black Tentacles [TP Legacy]</name>
     <classes>Cleric (Shadow Domain (Book of Ebon Tides) (Third Party))</classes>
   </spell>
   <spell>
-    <name>Greater Invisibility</name>
+    <name>Greater Invisibility [TP Legacy]</name>
     <classes>Cleric (Shadow Domain (Book of Ebon Tides) (Third Party))</classes>
   </spell>
   <spell>
-    <name>Cone of Cold</name>
+    <name>Cone of Cold [TP Legacy]</name>
     <classes>Cleric (Shadow Domain (Book of Ebon Tides) (Third Party))</classes>
   </spell>
   <spell>
-    <name>Dream</name>
+    <name>Dream [TP Legacy]</name>
     <classes>Cleric (Shadow Domain (Book of Ebon Tides) (Third Party))</classes>
   </spell>
 </compendium>

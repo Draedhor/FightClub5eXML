@@ -72,43 +72,43 @@ Source:	Dungeon Master's Guide (2014) p. 97</text>
     </autolevel>
   </class>
   <spell>
-    <name>Hellish Rebuke</name>
+    <name>Hellish Rebuke [Legacy]</name>
     <classes>Paladin (Oathbreaker (Legacy))</classes>
   </spell>
   <spell>
-    <name>Inflict Wounds</name>
+    <name>Inflict Wounds [Legacy]</name>
     <classes>Paladin (Oathbreaker (Legacy))</classes>
   </spell>
   <spell>
-    <name>Crown of Madness</name>
+    <name>Crown of Madness [Legacy]</name>
     <classes>Paladin (Oathbreaker (Legacy))</classes>
   </spell>
   <spell>
-    <name>Darkness</name>
+    <name>Darkness [Legacy]</name>
     <classes>Paladin (Oathbreaker (Legacy))</classes>
   </spell>
   <spell>
-    <name>Animate Dead</name>
+    <name>Animate Dead [Legacy]</name>
     <classes>Paladin (Oathbreaker (Legacy))</classes>
   </spell>
   <spell>
-    <name>Bestow Curse</name>
+    <name>Bestow Curse [Legacy]</name>
     <classes>Paladin (Oathbreaker (Legacy))</classes>
   </spell>
   <spell>
-    <name>Blight</name>
+    <name>Blight [Legacy]</name>
     <classes>Paladin (Oathbreaker (Legacy))</classes>
   </spell>
   <spell>
-    <name>Confusion</name>
+    <name>Confusion [Legacy]</name>
     <classes>Paladin (Oathbreaker (Legacy))</classes>
   </spell>
   <spell>
-    <name>Contagion</name>
+    <name>Contagion [Legacy]</name>
     <classes>Paladin (Oathbreaker (Legacy))</classes>
   </spell>
   <spell>
-    <name>Dominate Person</name>
+    <name>Dominate Person [Legacy]</name>
     <classes>Paladin (Oathbreaker (Legacy))</classes>
   </spell>
 </compendium>

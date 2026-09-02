@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Feylost (Legacy)</name>
+    <name>Feylost [Legacy]</name>
     <proficiency>Deception, Survival</proficiency>
     <trait>
       <name>Description</name>
@@ -101,7 +101,7 @@ d8 | Flaw
     </trait>
   </background>
   <background>
-    <name>Witchlight Hand (Legacy)</name>
+    <name>Witchlight Hand [Legacy]</name>
     <proficiency>Performance, Sleight of Hand</proficiency>
     <trait>
       <name>Description</name>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Freedom of the Waves</name>
+    <name>Freedom of the Waves [TP Legacy]</name>
     <level>3</level>
     <school>EV</school>
     <time>1 action</time>
@@ -15,7 +15,7 @@
 Source:	Tal'Dorei Campaign Setting: Reborn p. 176 (Third Party)</text>
   </spell>
   <spell>
-    <name>Freedom of the Winds</name>
+    <name>Freedom of the Winds [TP Legacy]</name>
     <level>5</level>
     <school>A</school>
     <time>1 action</time>

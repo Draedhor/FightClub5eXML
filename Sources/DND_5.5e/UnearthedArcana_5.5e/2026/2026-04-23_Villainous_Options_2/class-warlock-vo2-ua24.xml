@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Warlock (UA)</name>
+    <name>Warlock</name>
     <!-- Warlock Subclass: Primordial Patron (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -91,107 +91,107 @@ Source:	Villainous Options 2 p. 5 (Unearthed Arcana)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Chromatic Orb (UA)</name>
+    <name>Chromatic Orb [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Darkvision (UA)</name>
+    <name>Darkvision [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Feather Fall (UA)</name>
+    <name>Feather Fall [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Shatter (UA)</name>
+    <name>Shatter [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Entangle (UA)</name>
+    <name>Entangle [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Knock (UA)</name>
+    <name>Knock [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Burning Hands (UA)</name>
+    <name>Burning Hands [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Heat Metal (UA)</name>
+    <name>Heat Metal [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Alter Self (UA)</name>
+    <name>Alter Self [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Ice Knife (UA)</name>
+    <name>Ice Knife [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Elemental Weapon (UA)</name>
+    <name>Elemental Weapon [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Fly (UA)</name>
+    <name>Fly [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Plant Growth (UA)</name>
+    <name>Plant Growth [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Fireball (UA)</name>
+    <name>Fireball [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Water Walk (UA)</name>
+    <name>Water Walk [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Summon Elemental (UA)</name>
+    <name>Summon Elemental [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement (UA)</name>
+    <name>Freedom of Movement [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Vitriolic Sphere (UA)</name>
+    <name>Vitriolic Sphere [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Wall of Fire (UA)</name>
+    <name>Wall of Fire [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Control Water (UA)</name>
+    <name>Control Water [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Commune with Nature (UA)</name>
+    <name>Commune with Nature [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Steel Wind Strike (UA)</name>
+    <name>Steel Wind Strike [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Wall of Stone (UA)</name>
+    <name>Wall of Stone [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Flame Strike (UA)</name>
+    <name>Flame Strike [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Cone of Cold (UA)</name>
+    <name>Cone of Cold [UA]</name>
     <classes>Warlock (Primordial Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Invocation: Elemental Overflow (UA)</name>
+    <name>Invocation: Elemental Overflow [UA]</name>
     <level>0</level>
     <classes>Eldritch Invocations</classes>
     <text>Prerequisite: Level 5+ Warlock
@@ -204,7 +204,7 @@ Source:	Villainous Options 2 p. 5 (Unearthed Arcana)</text>
     <roll description="Elemental Damage">1d4</roll>
   </spell>
   <spell>
-    <name>Invocation: Elemental Transmutation (UA)</name>
+    <name>Invocation: Elemental Transmutation [UA]</name>
     <level>0</level>
     <classes>Eldritch Invocations</classes>
     <text>Prerequisite: Level 2+ Warlock

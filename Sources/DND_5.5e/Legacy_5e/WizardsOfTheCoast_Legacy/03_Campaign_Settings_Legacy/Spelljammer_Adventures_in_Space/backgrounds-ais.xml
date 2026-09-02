@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Astral Drifter (Legacy)</name>
+    <name>Astral Drifter [Legacy]</name>
     <proficiency>Insight, Religion</proficiency>
     <trait>
       <name>Description</name>
@@ -41,7 +41,7 @@ d10 | Wandering Deity
     </trait>
   </background>
   <background>
-    <name>Wildspacer (Legacy)</name>
+    <name>Wildspacer [Legacy]</name>
     <proficiency>Athletics, Survival</proficiency>
     <trait>
       <name>Description</name>

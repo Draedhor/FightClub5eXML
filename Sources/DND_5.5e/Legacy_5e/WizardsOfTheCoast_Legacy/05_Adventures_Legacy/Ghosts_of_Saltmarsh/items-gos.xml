@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Charm of Plant Command</name>
+    <name>Charm of Plant Command [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -11,7 +11,7 @@
 Source:	Ghosts of Saltmarsh p. 229</text>
   </item>
   <item>
-    <name>Cursed Luckstone</name>
+    <name>Cursed Luckstone [Legacy]</name>
     <detail>uncommon, cursed (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -22,7 +22,7 @@ Curse: This item is cursed. Attuning to it curses you until you are targeted by 
 Source:	Ghosts of Saltmarsh p. 229</text>
   </item>
   <item>
-    <name>Helm of Underwater Action</name>
+    <name>Helm of Underwater Action [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -32,7 +32,7 @@ Source:	Ghosts of Saltmarsh p. 229,
 		Infernal Machine Rebuild p. 94</text>
   </item>
   <item>
-    <name>Pipe of Remembrance</name>
+    <name>Pipe of Remembrance [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -41,7 +41,7 @@ Source:	Ghosts of Saltmarsh p. 229,
 Source:	Ghosts of Saltmarsh p. 229</text>
   </item>
   <item>
-    <name>Pressure Capsule</name>
+    <name>Pressure Capsule [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -50,7 +50,7 @@ Source:	Ghosts of Saltmarsh p. 229</text>
 Source:	Ghosts of Saltmarsh p. 229</text>
   </item>
   <item>
-    <name>Sekolahian Worshiping Statuette</name>
+    <name>Sekolahian Worshiping Statuette [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>

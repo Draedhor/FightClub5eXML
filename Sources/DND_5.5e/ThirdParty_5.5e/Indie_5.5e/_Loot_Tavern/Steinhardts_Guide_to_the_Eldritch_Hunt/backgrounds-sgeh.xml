@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Amnesiac (TP)</name>
+    <name>Amnesiac [TP]</name>
     <proficiency>Insight, Investigation</proficiency>
     <trait>
       <name>Description (TP)</name>
@@ -63,7 +63,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Beat Hunter (TP)</name>
+    <name>Beat Hunter [TP]</name>
     <proficiency/>
     <trait>
       <name>Description (TP)</name>
@@ -123,7 +123,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Cultist (TP)</name>
+    <name>Cultist [TP]</name>
     <proficiency/>
     <trait>
       <name>Description (TP)</name>
@@ -184,7 +184,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Disciple (TP)</name>
+    <name>Disciple [TP]</name>
     <proficiency>Persuasion, Religion</proficiency>
     <trait>
       <name>Description (TP)</name>
@@ -258,7 +258,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Inquisitor (TP)</name>
+    <name>Inquisitor [TP]</name>
     <proficiency>Intimidation, Religion</proficiency>
     <trait>
       <name>Description (TP)</name>
@@ -321,7 +321,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Investigator (TP)</name>
+    <name>Investigator [TP]</name>
     <proficiency>Insight, Investigation</proficiency>
     <trait>
       <name>Description (TP)</name>
@@ -382,7 +382,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Marked for Death (TP)</name>
+    <name>Marked for Death [TP]</name>
     <proficiency>Arcana, Survival</proficiency>
     <trait>
       <name>Description (TP)</name>
@@ -442,7 +442,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Scion (TP)</name>
+    <name>Scion [TP]</name>
     <proficiency>Arcana, Investigation</proficiency>
     <trait>
       <name>Description (TP)</name>
@@ -503,7 +503,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Worthless Husk (TP)</name>
+    <name>Worthless Husk [TP]</name>
     <proficiency>Stealth, Survival</proficiency>
     <trait>
       <name>Description (TP)</name>

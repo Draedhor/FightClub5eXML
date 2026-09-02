@@ -115,43 +115,43 @@ Source:	Obojima: Tales from the Tall Grass p. 151 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Faerie Fire</name>
-    <classes>Warlock [5.5e] (The Lantern (TP))</classes>
+    <name>Faerie Fire [TP Legacy]</name>
+    <classes>Warlock (The Lantern (TP))</classes>
   </spell>
   <spell>
-    <name>Identify</name>
-    <classes>Warlock [5.5e] (The Lantern (TP))</classes>
+    <name>Identify [TP Legacy]</name>
+    <classes>Warlock (The Lantern (TP))</classes>
   </spell>
   <spell>
-    <name>Locate Object</name>
-    <classes>Warlock [5.5e] (The Lantern (TP))</classes>
+    <name>Locate Object [TP Legacy]</name>
+    <classes>Warlock (The Lantern (TP))</classes>
   </spell>
   <spell>
-    <name>Swallow Magic (TP)</name>
-    <classes>Warlock [5.5e] (The Lantern (TP))</classes>
+    <name>Swallow Magic [TP Legacy]</name>
+    <classes>Warlock (The Lantern (TP))</classes>
   </spell>
   <spell>
-    <name>Daylight</name>
-    <classes>Warlock [5.5e] (The Lantern (TP))</classes>
+    <name>Daylight [TP Legacy]</name>
+    <classes>Warlock (The Lantern (TP))</classes>
   </spell>
   <spell>
-    <name>Nondetection</name>
-    <classes>Warlock [5.5e] (The Lantern (TP))</classes>
+    <name>Nondetection [TP Legacy]</name>
+    <classes>Warlock (The Lantern (TP))</classes>
   </spell>
   <spell>
-    <name>Guardian of Faith</name>
-    <classes>Warlock [5.5e] (The Lantern (TP))</classes>
+    <name>Guardian of Faith [TP Legacy]</name>
+    <classes>Warlock (The Lantern (TP))</classes>
   </spell>
   <spell>
-    <name>Locate Creature</name>
-    <classes>Warlock [5.5e] (The Lantern (TP))</classes>
+    <name>Locate Creature [TP Legacy]</name>
+    <classes>Warlock (The Lantern (TP))</classes>
   </spell>
   <spell>
-    <name>Create Spirit Train Stop (TP)</name>
-    <classes>Warlock [5.5e] (The Lantern (TP))</classes>
+    <name>Create Spirit Train Stop [TP Legacy]</name>
+    <classes>Warlock (The Lantern (TP))</classes>
   </spell>
   <spell>
-    <name>Tamh Gon's Fiery Festival Feast (TP)</name>
-    <classes>Warlock [5.5e] (The Lantern (TP))</classes>
+    <name>Tamh Gon's Fiery Festival Feast [TP Legacy]</name>
+    <classes>Warlock (The Lantern (TP))</classes>
   </spell>
 </compendium>

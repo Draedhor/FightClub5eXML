@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Bloodseeker Bad News (TP)</name>
+    <name>Bloodseeker Bad News [TP]</name>
     <detail>firearm, modern, sniper rifle, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -38,7 +38,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 1 p. 67 (Homebrew),
     <roll description="Temporary Hit Points">1d8</roll>
   </item>
   <item>
-    <name>Bloodseeker Blunderbuss (Matthew Mercer) (TP)</name>
+    <name>Bloodseeker Blunderbuss (Matthew Mercer) [TP]</name>
     <detail>firearm, modern, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -73,7 +73,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 1 p. 67 (Homebrew),
     <roll description="Temporary Hit Points">1d8</roll>
   </item>
   <item>
-    <name>Bloodseeker Hand Mortar (TP)</name>
+    <name>Bloodseeker Hand Mortar [TP]</name>
     <detail>firearm, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -105,7 +105,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 1 p. 67 (Homebrew),
     <roll description="Temporary Hit Points">1d8</roll>
   </item>
   <item>
-    <name>Bloodseeker Musket (Matthew Mercer) (TP)</name>
+    <name>Bloodseeker Musket (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -142,7 +142,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 1 p. 67 (Homebrew),
     <roll description="Temporary Hit Points">1d8</roll>
   </item>
   <item>
-    <name>Bloodseeker Palm Pistol (TP)</name>
+    <name>Bloodseeker Palm Pistol [TP]</name>
     <detail>firearm, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -181,7 +181,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 1 p. 67 (Homebrew),
     <roll description="Temporary Hit Points">1d8</roll>
   </item>
   <item>
-    <name>Bloodseeker Pistol (Matthew Mercer) (TP)</name>
+    <name>Bloodseeker Pistol (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -216,7 +216,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 1 p. 67 (Homebrew),
     <roll description="Temporary Hit Points">1d8</roll>
   </item>
   <item>
-    <name>Bloodseeker Pepperbox (TP)</name>
+    <name>Bloodseeker Pepperbox [TP]</name>
     <detail>firearm, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -251,7 +251,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 1 p. 67 (Homebrew),
     <roll description="Temporary Hit Points">1d8</roll>
   </item>
   <item>
-    <name>Cold Iron Bad News (TP)</name>
+    <name>Cold Iron Bad News [TP]</name>
     <detail>firearm, modern, sniper rifle, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -286,7 +286,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 1 p. 67 (Homebrew),
     <roll description="Force Damage">1d6</roll>
   </item>
   <item>
-    <name>Cold Iron Blunderbuss (Matthew Mercer) (TP)</name>
+    <name>Cold Iron Blunderbuss (Matthew Mercer) [TP]</name>
     <detail>firearm, modern, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -319,7 +319,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 1 p. 67 (Homebrew),
     <roll description="Force Damage">1d6</roll>
   </item>
   <item>
-    <name>Cold Iron Hand Mortar (TP)</name>
+    <name>Cold Iron Hand Mortar [TP]</name>
     <detail>firearm, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -349,7 +349,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 1 p. 67 (Homebrew),
     <roll description="Force Damage">1d6</roll>
   </item>
   <item>
-    <name>Cold Iron Musket (Matthew Mercer) (TP)</name>
+    <name>Cold Iron Musket (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -384,7 +384,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 1 p. 67 (Homebrew),
     <roll description="Force Damage">1d6</roll>
   </item>
   <item>
-    <name>Cold Iron Palm Pistol (TP)</name>
+    <name>Cold Iron Palm Pistol [TP]</name>
     <detail>firearm, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -421,7 +421,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 1 p. 67 (Homebrew),
     <roll description="Force Damage">1d6</roll>
   </item>
   <item>
-    <name>Cold Iron Pistol (Matthew Mercer) (TP)</name>
+    <name>Cold Iron Pistol (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -454,7 +454,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 1 p. 67 (Homebrew),
     <roll description="Force Damage">1d6</roll>
   </item>
   <item>
-    <name>Cold Iron Pepperbox (TP)</name>
+    <name>Cold Iron Pepperbox [TP]</name>
     <detail>firearm, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -487,7 +487,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 1 p. 67 (Homebrew),
     <roll description="Force Damage">1d6</roll>
   </item>
   <item>
-    <name>Mithral Bad News (TP)</name>
+    <name>Mithral Bad News [TP]</name>
     <detail>firearm, modern, sniper rifle, uncommon</detail>
     <type>R</type>
     <weight>25</weight>
@@ -520,7 +520,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 1 p. 67 (Homebrew),
 		Matthew Mercer - Gunslinger 1.3 p. 3</text>
   </item>
   <item>
-    <name>Mithral Blunderbuss (Matthew Mercer) (TP)</name>
+    <name>Mithral Blunderbuss (Matthew Mercer) [TP]</name>
     <detail>firearm, modern, uncommon</detail>
     <type>R</type>
     <weight>10</weight>
@@ -551,7 +551,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 1 p. 67 (Homebrew),
 		Matthew Mercer - Gunslinger 1.3 p. 3</text>
   </item>
   <item>
-    <name>Mithral Hand Mortar (TP)</name>
+    <name>Mithral Hand Mortar [TP]</name>
     <detail>firearm, uncommon</detail>
     <type>R</type>
     <weight>10</weight>
@@ -579,7 +579,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 1 p. 67 (Homebrew),
     <roll description="Fire Damage">1d8</roll>
   </item>
   <item>
-    <name>Mithral Musket (Matthew Mercer) (TP)</name>
+    <name>Mithral Musket (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, uncommon</detail>
     <type>R</type>
     <weight>10</weight>
@@ -612,7 +612,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 1 p. 67 (Homebrew),
 		Matthew Mercer - Gunslinger 1.3 p. 3</text>
   </item>
   <item>
-    <name>Mithral Palm Pistol (TP)</name>
+    <name>Mithral Palm Pistol [TP]</name>
     <detail>firearm, uncommon</detail>
     <type>R</type>
     <weight>1</weight>
@@ -647,7 +647,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 1 p. 67 (Homebrew),
 		Matthew Mercer - Gunslinger 1.3 p. 3</text>
   </item>
   <item>
-    <name>Mithral Pistol (Matthew Mercer) (TP)</name>
+    <name>Mithral Pistol (Matthew Mercer) [TP]</name>
     <detail>firearm, renaissance, uncommon</detail>
     <type>R</type>
     <weight>3</weight>
@@ -678,7 +678,7 @@ Source:	Tasha's Crucible of Everything Else - Volume 1 p. 67 (Homebrew),
 		Matthew Mercer - Gunslinger 1.3 p. 3</text>
   </item>
   <item>
-    <name>Mithral Pepperbox (TP)</name>
+    <name>Mithral Pepperbox [TP]</name>
     <detail>firearm, uncommon</detail>
     <type>R</type>
     <weight>5</weight>

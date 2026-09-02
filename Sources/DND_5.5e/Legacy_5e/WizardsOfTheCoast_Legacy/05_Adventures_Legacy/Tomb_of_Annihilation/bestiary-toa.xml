@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Acererak</name>
+    <name>Acererak [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -116,7 +116,7 @@ Source:	Tomb of Annihilation p. 209</description>
     <environment/>
   </monster>
   <monster>
-    <name>Albino Dwarf Spirit Warrior</name>
+    <name>Albino Dwarf Spirit Warrior [Legacy]</name>
     <sortname>Albino Dwarf, Spirit Warrior</sortname>
     <ancestry>Albino Dwarf</ancestry>
     <npc>YES</npc>
@@ -166,7 +166,7 @@ Source:	Tomb of Annihilation p. 210</description>
     <environment/>
   </monster>
   <monster>
-    <name>Albino Dwarf Warrior</name>
+    <name>Albino Dwarf Warrior [Legacy]</name>
     <sortname>Albino Dwarf, Warrior</sortname>
     <ancestry>Albino Dwarf</ancestry>
     <npc>YES</npc>
@@ -207,7 +207,7 @@ Source:	Tomb of Annihilation p. 210</description>
     <environment/>
   </monster>
   <monster>
-    <name>Aldani (Lobsterfolk)</name>
+    <name>Aldani (Lobsterfolk) [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Lawful Neutral</alignment>
@@ -259,7 +259,7 @@ Source:	Tomb of Annihilation p. 210</description>
     <environment/>
   </monster>
   <monster>
-    <name>Almiraj</name>
+    <name>Almiraj [Legacy]</name>
     <size>S</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -303,7 +303,7 @@ Source:	Tomb of Annihilation p. 211</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ankylosaurus Zombie</name>
+    <name>Ankylosaurus Zombie [Legacy]</name>
     <size>H</size>
     <type>undead</type>
     <alignment>Unaligned</alignment>
@@ -350,7 +350,7 @@ Source:	Tomb of Annihilation p. 240</description>
     <environment/>
   </monster>
   <monster>
-    <name>Artus Cimber</name>
+    <name>Artus Cimber [Legacy]</name>
     <sortname>Cimber, Artus</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -433,7 +433,7 @@ Source:	Tomb of Annihilation p. 212</description>
     <environment/>
   </monster>
   <monster>
-    <name>Asharra</name>
+    <name>Asharra [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (aarakocra)</type>
@@ -501,7 +501,7 @@ Source:	Tomb of Annihilation p. 69</description>
     <environment/>
   </monster>
   <monster>
-    <name>Assassin Vine</name>
+    <name>Assassin Vine [Legacy]</name>
     <sortname>Vine, Assassin</sortname>
     <ancestry>Vine</ancestry>
     <size>L</size>
@@ -551,7 +551,7 @@ Source:	Tomb of Annihilation p. 213,
     <environment/>
   </monster>
   <monster>
-    <name>Atropal</name>
+    <name>Atropal [Legacy]</name>
     <size>H</size>
     <type>undead (titan)</type>
     <alignment>Neutral Evil</alignment>
@@ -639,7 +639,7 @@ Source:	Tomb of Annihilation p. 214</description>
     <environment/>
   </monster>
   <monster>
-    <name>Azaka Stormfang</name>
+    <name>Azaka Stormfang [Legacy]</name>
     <sortname>Stormfang, Azaka</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -708,7 +708,7 @@ Source:	Tomb of Annihilation p. 214</description>
     <environment>grassland, forest, desert</environment>
   </monster>
   <monster>
-    <name>Bag of Nails</name>
+    <name>Bag of Nails [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (tabaxi)</type>
@@ -778,7 +778,7 @@ Source:	Tomb of Annihilation p. 102</description>
     <environment/>
   </monster>
   <monster>
-    <name>Blind Artist</name>
+    <name>Blind Artist [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -814,7 +814,7 @@ Source:	Tomb of Annihilation p. 102</description>
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Bosco Daggerhand</name>
+    <name>Bosco Daggerhand [Legacy]</name>
     <sortname>Daggerhand, Bosco</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -865,7 +865,7 @@ Source:	Tomb of Annihilation p. 102</description>
     <environment/>
   </monster>
   <monster>
-    <name>Chwinga</name>
+    <name>Chwinga [Legacy]</name>
     <size>T</size>
     <type>elemental</type>
     <alignment>Neutral</alignment>
@@ -926,7 +926,7 @@ Source:	Tomb of Annihilation p. 216</description>
     <environment/>
   </monster>
   <monster>
-    <name>Clay Gladiator</name>
+    <name>Clay Gladiator [Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -985,7 +985,7 @@ Source:	Tomb of Annihilation p. 100</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dragonbait</name>
+    <name>Dragonbait [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (saurial)</type>
@@ -1051,7 +1051,7 @@ Source:	Tomb of Annihilation p. 218</description>
     <environment/>
   </monster>
   <monster>
-    <name>Drufi</name>
+    <name>Drufi [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Neutral Evil</alignment>
@@ -1098,7 +1098,7 @@ Weighted Net: Ranged Weapon Attack: +5 to hit, ranged 20/60 ft., one Small, Medi
     <environment>mountain, arctic</environment>
   </monster>
   <monster>
-    <name>Eblis</name>
+    <name>Eblis [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -1144,7 +1144,7 @@ Source:	Tomb of Annihilation p. 219</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ekene-Afa</name>
+    <name>Ekene-Afa [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -1198,7 +1198,7 @@ Source:	Tomb of Annihilation p. 219</description>
     <environment/>
   </monster>
   <monster>
-    <name>Eku</name>
+    <name>Eku [Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>Lawful Good</alignment>
@@ -1262,7 +1262,7 @@ In a new form, Eku retains its game statistics and ability to speak, but its AC,
     <environment>grassland, forest, urban, desert</environment>
   </monster>
   <monster>
-    <name>Elok Jaharwon</name>
+    <name>Elok Jaharwon [Legacy]</name>
     <sortname>Jaharwon, Elok</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1322,7 +1322,7 @@ In a new form, Eku retains its game statistics and ability to speak, but its AC,
     <environment>grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Faroul</name>
+    <name>Faroul [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -1368,7 +1368,7 @@ In a new form, Eku retains its game statistics and ability to speak, but its AC,
     <environment/>
   </monster>
   <monster>
-    <name>Fenthaza</name>
+    <name>Fenthaza [Legacy]</name>
     <size>M</size>
     <type>monstrosity (shapechanger, yuan-ti)</type>
     <alignment>Neutral Evil</alignment>
@@ -1455,7 +1455,7 @@ Until this grapple ends, the target is restrained, and Fenthaza can't constrict 
     <environment>underdark, forest, desert</environment>
   </monster>
   <monster>
-    <name>Flask of Wine</name>
+    <name>Flask of Wine [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (tabaxi)</type>
@@ -1506,7 +1506,7 @@ Until this grapple ends, the target is restrained, and Fenthaza can't constrict 
     <environment/>
   </monster>
   <monster>
-    <name>Flying Monkey</name>
+    <name>Flying Monkey [Legacy]</name>
     <size>S</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -1548,7 +1548,7 @@ Source:	Tomb of Annihilation p. 220</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Four-Armed Gargoyle</name>
+    <name>Giant Four-Armed Gargoyle [Legacy]</name>
     <size>L</size>
     <type>elemental</type>
     <alignment>Chaotic Evil</alignment>
@@ -1595,7 +1595,7 @@ Source:	Tomb of Annihilation p. 221</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Snapping Turtle</name>
+    <name>Giant Snapping Turtle [Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -1637,7 +1637,7 @@ Source:	Tomb of Annihilation p. 222</description>
     <environment/>
   </monster>
   <monster>
-    <name>Girallon Zombie</name>
+    <name>Girallon Zombie [Legacy]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -1697,7 +1697,7 @@ Source:	Tomb of Annihilation p. 240</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gondolo</name>
+    <name>Gondolo [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (halfling)</type>
@@ -1751,7 +1751,7 @@ Source:	Tomb of Annihilation p. 240</description>
     <environment/>
   </monster>
   <monster>
-    <name>Grabstab</name>
+    <name>Grabstab [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (goblinoid)</type>
@@ -1801,7 +1801,7 @@ Source:	Tomb of Annihilation p. 240</description>
     <environment>underdark, grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Grandfather Zitembe</name>
+    <name>Grandfather Zitembe [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -1849,7 +1849,7 @@ Source:	Tomb of Annihilation p. 240</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hew Hackinstone</name>
+    <name>Hew Hackinstone [Legacy]</name>
     <sortname>Hackinstone, Hew</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1896,7 +1896,7 @@ Source:	Tomb of Annihilation p. 33</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ifan Talro'a</name>
+    <name>Ifan Talro'a [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -1933,7 +1933,7 @@ Source:	Tomb of Annihilation p. 33</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jaculi</name>
+    <name>Jaculi [Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -1981,7 +1981,7 @@ Source:	Tomb of Annihilation p. 225</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jessamine</name>
+    <name>Jessamine [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -2038,7 +2038,7 @@ Source:	Tomb of Annihilation p. 225</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jobal</name>
+    <name>Jobal [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -2084,7 +2084,7 @@ Source:	Tomb of Annihilation p. 225</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kamadan</name>
+    <name>Kamadan [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -2148,7 +2148,7 @@ Source:	Tomb of Annihilation p. 225</description>
     <environment/>
   </monster>
   <monster>
-    <name>King of Feathers</name>
+    <name>King of Feathers [Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -2212,7 +2212,7 @@ Source:	Tomb of Annihilation p. 106</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kupalué</name>
+    <name>Kupalué [Legacy]</name>
     <size>S</size>
     <type>plant</type>
     <alignment>Neutral</alignment>
@@ -2257,7 +2257,7 @@ Source:	Tomb of Annihilation p. 106</description>
     <environment>forest, swamp</environment>
   </monster>
   <monster>
-    <name>Kwayothé</name>
+    <name>Kwayothé [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -2305,7 +2305,7 @@ Source:	Tomb of Annihilation p. 106</description>
     <environment/>
   </monster>
   <monster>
-    <name>Laskilar</name>
+    <name>Laskilar [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -2355,7 +2355,7 @@ Source:	Tomb of Annihilation p. 106</description>
     <environment/>
   </monster>
   <monster>
-    <name>Liara Portyr</name>
+    <name>Liara Portyr [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -2415,7 +2415,7 @@ Source:	Tomb of Annihilation p. 227,
     <environment/>
   </monster>
   <monster>
-    <name>Mantrap</name>
+    <name>Mantrap [Legacy]</name>
     <size>L</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -2458,7 +2458,7 @@ Source:	Tomb of Annihilation p. 227</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mister Threadneedle</name>
+    <name>Mister Threadneedle [Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Chaotic Evil</alignment>
@@ -2502,7 +2502,7 @@ Source:	Tomb of Annihilation p. 227</description>
     <environment>grassland</environment>
   </monster>
   <monster>
-    <name>Musharib</name>
+    <name>Musharib [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (dwarf)</type>
@@ -2545,7 +2545,7 @@ Source:	Tomb of Annihilation p. 227</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mwaxanaré</name>
+    <name>Mwaxanaré [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -2605,7 +2605,7 @@ Source:	Tomb of Annihilation p. 228</description>
     <environment/>
   </monster>
   <monster>
-    <name>Na</name>
+    <name>Na [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (human)</type>
@@ -2633,7 +2633,7 @@ Source:	Tomb of Annihilation p. 228</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nanny Pu'pu</name>
+    <name>Nanny Pu'pu [Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Neutral Evil</alignment>
@@ -2715,7 +2715,7 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
     <environment>forest, swamp, hill</environment>
   </monster>
   <monster>
-    <name>Nepartak</name>
+    <name>Nepartak [Legacy]</name>
     <size>T</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -2774,7 +2774,7 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Niles Breakbone</name>
+    <name>Niles Breakbone [Legacy]</name>
     <sortname>Breakbone, Niles</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2812,7 +2812,7 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
     <environment/>
   </monster>
   <monster>
-    <name>Ortimay Swift and Dark</name>
+    <name>Ortimay Swift and Dark [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (gnome)</type>
@@ -2862,7 +2862,7 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
     <environment/>
   </monster>
   <monster>
-    <name>Orvex Ocrammas</name>
+    <name>Orvex Ocrammas [Legacy]</name>
     <sortname>Ocrammas, Orvex</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2914,7 +2914,7 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
     <environment/>
   </monster>
   <monster>
-    <name>Pterafolk</name>
+    <name>Pterafolk [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -2968,7 +2968,7 @@ Source:	Tomb of Annihilation p. 229</description>
     <environment/>
   </monster>
   <monster>
-    <name>Qawasha</name>
+    <name>Qawasha [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -3011,7 +3011,7 @@ Source:	Tomb of Annihilation p. 229</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ras Nsi</name>
+    <name>Ras Nsi [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>monstrosity (shapechanger, yuan-ti)</type>
@@ -3114,7 +3114,7 @@ Source:	Tomb of Annihilation p. 230</description>
     <environment/>
   </monster>
   <monster>
-    <name>River Mist</name>
+    <name>River Mist [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (tabaxi)</type>
@@ -3165,7 +3165,7 @@ Source:	Tomb of Annihilation p. 230</description>
     <environment/>
   </monster>
   <monster>
-    <name>Salida</name>
+    <name>Salida [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (yuan-ti)</type>
@@ -3219,7 +3219,7 @@ Source:	Tomb of Annihilation p. 230</description>
     <environment>forest, swamp, urban, desert</environment>
   </monster>
   <monster>
-    <name>Sekelok</name>
+    <name>Sekelok [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -3275,7 +3275,7 @@ Source:	Tomb of Annihilation p. 230</description>
     <environment>desert, urban</environment>
   </monster>
   <monster>
-    <name>Shago</name>
+    <name>Shago [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -3329,7 +3329,7 @@ Source:	Tomb of Annihilation p. 230</description>
     <environment/>
   </monster>
   <monster>
-    <name>Skeleton Key</name>
+    <name>Skeleton Key [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Lawful Evil</alignment>
@@ -3370,7 +3370,7 @@ Source:	Tomb of Annihilation p. 230</description>
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Spiked Tomb Guardian</name>
+    <name>Spiked Tomb Guardian [Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Neutral</alignment>
@@ -3440,7 +3440,7 @@ Source:	Tomb of Annihilation p. 154</description>
     <environment/>
   </monster>
   <monster>
-    <name>Stone Juggernaut</name>
+    <name>Stone Juggernaut [Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -3492,7 +3492,7 @@ Source:	Tomb of Annihilation p. 231</description>
     <environment/>
   </monster>
   <monster>
-    <name>Su-monster</name>
+    <name>Su-monster [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -3545,7 +3545,7 @@ Source:	Tomb of Annihilation p. 232</description>
     <environment/>
   </monster>
   <monster>
-    <name>Syndra Silvane</name>
+    <name>Syndra Silvane [Legacy]</name>
     <sortname>Silvane, Syndra</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3608,7 +3608,7 @@ Source:	Tomb of Annihilation p. 232</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tabaxi Hunter</name>
+    <name>Tabaxi Hunter [Legacy]</name>
     <sortname>Tabaxi, Hunter</sortname>
     <ancestry>Tabaxi</ancestry>
     <npc>YES</npc>
@@ -3668,7 +3668,7 @@ Source:	Tomb of Annihilation p. 232</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tabaxi Minstrel</name>
+    <name>Tabaxi Minstrel [Legacy]</name>
     <sortname>Tabaxi, Minstrel</sortname>
     <ancestry>Tabaxi</ancestry>
     <size>M</size>
@@ -3727,7 +3727,7 @@ Source:	Tomb of Annihilation p. 233</description>
     <environment/>
   </monster>
   <monster>
-    <name>Terracotta Warrior</name>
+    <name>Terracotta Warrior [Legacy]</name>
     <sortname>Terracotta, Warrior</sortname>
     <ancestry>Terracotta</ancestry>
     <size>M</size>
@@ -3777,7 +3777,7 @@ Source:	Tomb of Annihilation p. 233</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tomb Dwarf</name>
+    <name>Tomb Dwarf [Legacy]</name>
     <sortname>Dwarf, Tomb</sortname>
     <ancestry>Dwarf</ancestry>
     <size>M</size>
@@ -3831,7 +3831,7 @@ Source:	Tomb of Annihilation p. 135</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tomb Guardian</name>
+    <name>Tomb Guardian [Legacy]</name>
     <sortname>Guardian, Tomb</sortname>
     <ancestry>Guardian</ancestry>
     <size>M</size>
@@ -3897,7 +3897,7 @@ Source:	Tomb of Annihilation p. 127</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tri-flower Frond</name>
+    <name>Tri-flower Frond [Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -3945,7 +3945,7 @@ Source:	Tomb of Annihilation p. 234</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tyrannosaurus Zombie</name>
+    <name>Tyrannosaurus Zombie [Legacy]</name>
     <sortname>Dinosaur, Tyrannosaurus Zombie</sortname>
     <ancestry>Zombie, Dinosaur</ancestry>
     <size>H</size>
@@ -4007,7 +4007,7 @@ Source:	Tomb of Annihilation p. 241</description>
     <environment/>
   </monster>
   <monster>
-    <name>Valindra Shadowmantle</name>
+    <name>Valindra Shadowmantle [Legacy]</name>
     <sortname>Shadowmantle, Valindra</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4111,7 +4111,7 @@ Source:	Tomb of Annihilation p. 58</description>
     <environment/>
   </monster>
   <monster>
-    <name>Volothamp "Volo" Geddarm</name>
+    <name>Volothamp "Volo" Geddarm [Legacy]</name>
     <sortname>Geddarm, Volothamp "Volo"</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4164,7 +4164,7 @@ Source:	Tomb of Annihilation p. 235,
     <environment/>
   </monster>
   <monster>
-    <name>Wakanga O'tamu</name>
+    <name>Wakanga O'tamu [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -4214,7 +4214,7 @@ Source:	Tomb of Annihilation p. 235,
     <environment/>
   </monster>
   <monster>
-    <name>Wild Dog</name>
+    <name>Wild Dog [Legacy]</name>
     <sortname>Dog, Wild</sortname>
     <ancestry>Dog</ancestry>
     <size>S</size>
@@ -4256,7 +4256,7 @@ Source:	Tomb of Annihilation p. 235,
     <environment>grassland, desert</environment>
   </monster>
   <monster>
-    <name>Wine Weird</name>
+    <name>Wine Weird [Legacy]</name>
     <sortname>Weird, Wine</sortname>
     <ancestry>Weird</ancestry>
     <size>L</size>
@@ -4298,7 +4298,7 @@ Source:	Tomb of Annihilation p. 235,
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Withers</name>
+    <name>Withers [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -4363,7 +4363,7 @@ Source:	Tomb of Annihilation p. 145</description>
     <environment/>
   </monster>
   <monster>
-    <name>Xandala</name>
+    <name>Xandala [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (half-elf)</type>
@@ -4423,7 +4423,7 @@ Source:	Tomb of Annihilation p. 236</description>
     <environment/>
   </monster>
   <monster>
-    <name>Yellow Musk Creeper</name>
+    <name>Yellow Musk Creeper [Legacy]</name>
     <sortname>Yellow Musk, Creeper</sortname>
     <ancestry>Yellow Musk</ancestry>
     <size>M</size>
@@ -4478,7 +4478,7 @@ Source:	Tomb of Annihilation p. 237</description>
     <environment/>
   </monster>
   <monster>
-    <name>Yellow Musk Zombie</name>
+    <name>Yellow Musk Zombie [Legacy]</name>
     <sortname>Yellow Musk, Zombie</sortname>
     <ancestry>Yellow Musk, Zombie</ancestry>
     <size>M</size>
@@ -4524,7 +4524,7 @@ Source:	Tomb of Annihilation p. 237</description>
     <environment/>
   </monster>
   <monster>
-    <name>Yorb</name>
+    <name>Yorb [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (grung)</type>
@@ -4597,7 +4597,7 @@ Gold: The poisoned creature is charmed and can speak Grung.</text>
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Yuan-ti Priest</name>
+    <name>Yuan-ti Priest [Legacy]</name>
     <sortname>Priest, Yuan-ti</sortname>
     <ancestry>Priest</ancestry>
     <npc>YES</npc>
@@ -4674,7 +4674,7 @@ Until this grapple ends, the target is restrained, and the yuan-ti can't constri
     <environment>forest, swamp, desert</environment>
   </monster>
   <monster>
-    <name>Zalkoré</name>
+    <name>Zalkoré [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Lawful Evil</alignment>
@@ -4728,7 +4728,7 @@ If Zalkoré sees itself reflected on a polished surface within 30 feet of it and
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Zaroum Al-Saryak</name>
+    <name>Zaroum Al-Saryak [Legacy]</name>
     <sortname>Al-Saryak, Zaroum</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4775,7 +4775,7 @@ If Zalkoré sees itself reflected on a polished surface within 30 feet of it and
     <environment/>
   </monster>
   <monster>
-    <name>Zebra</name>
+    <name>Zebra [Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -4807,7 +4807,7 @@ If Zalkoré sees itself reflected on a polished surface within 30 feet of it and
     <environment>grassland, urban</environment>
   </monster>
   <monster>
-    <name>Zhanthi</name>
+    <name>Zhanthi [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -4844,7 +4844,7 @@ If Zalkoré sees itself reflected on a polished surface within 30 feet of it and
     <environment/>
   </monster>
   <monster>
-    <name>Zindar</name>
+    <name>Zindar [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (half-dragon)</type>
@@ -4919,7 +4919,7 @@ Source:	Tomb of Annihilation p. 239</description>
     <environment/>
   </monster>
   <monster>
-    <name>Zorbo</name>
+    <name>Zorbo [Legacy]</name>
     <size>S</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Longbow of the Cobra (TP)</name>
+    <name>Longbow of the Cobra [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -31,7 +31,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 50 (Third Party),
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Shortbow of the Cobra (TP)</name>
+    <name>Shortbow of the Cobra [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -59,7 +59,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 50 (Third Party),
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Longbow of the Spelldrinker (TP)</name>
+    <name>Longbow of the Spelldrinker [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -88,7 +88,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 50 (Third Party),
     <roll description="Force Damage">1d4</roll>
   </item>
   <item>
-    <name>Shortbow of the Spelldrinker (TP)</name>
+    <name>Shortbow of the Spelldrinker [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -115,7 +115,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 50 (Third Party),
     <roll description="Force Damage">1d4</roll>
   </item>
   <item>
-    <name>Longbow of the Twilight Valkyrie (TP)</name>
+    <name>Longbow of the Twilight Valkyrie [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -145,7 +145,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 50 (Third Party),
     <roll description="Necrotic Damage">2d6</roll>
   </item>
   <item>
-    <name>Shortbow of the Twilight Valkyrie (TP)</name>
+    <name>Shortbow of the Twilight Valkyrie [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -173,7 +173,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 50 (Third Party),
     <roll description="Necrotic Damage">2d6</roll>
   </item>
   <item>
-    <name>Candleflame Hand Crossbow (TP)</name>
+    <name>Candleflame Hand Crossbow [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -202,7 +202,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 55 (Third Party),
     <roll description="Fire Damage">4d6</roll>
   </item>
   <item>
-    <name>Candleflame Heavy Crossbow (TP)</name>
+    <name>Candleflame Heavy Crossbow [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -233,7 +233,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 55 (Third Party),
     <roll description="Fire Damage">4d6</roll>
   </item>
   <item>
-    <name>Candleflame Light Crossbow (TP)</name>
+    <name>Candleflame Light Crossbow [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -262,7 +262,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 55 (Third Party),
     <roll description="Fire Damage">4d6</roll>
   </item>
   <item>
-    <name>Candleflame Longbow (TP)</name>
+    <name>Candleflame Longbow [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -291,7 +291,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 55 (Third Party),
     <roll description="Fire Damage">4d6</roll>
   </item>
   <item>
-    <name>Candleflame Shortbow (TP)</name>
+    <name>Candleflame Shortbow [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -318,7 +318,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 55 (Third Party),
     <roll description="Fire Damage">4d6</roll>
   </item>
   <item>
-    <name>Dragon Turtle Chain Mail (TP)</name>
+    <name>Dragon Turtle Chain Mail [TP Legacy]</name>
     <detail>very rare</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -344,7 +344,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 73 (Third Party),
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Dragon Turtle Plate Armor (TP)</name>
+    <name>Dragon Turtle Plate Armor [TP Legacy]</name>
     <detail>very rare</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -370,7 +370,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 73 (Third Party),
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Dragon Turtle Ring Mail (TP)</name>
+    <name>Dragon Turtle Ring Mail [TP Legacy]</name>
     <detail>very rare</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -393,7 +393,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 73 (Third Party),
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Dragon Turtle Splint Armor (TP)</name>
+    <name>Dragon Turtle Splint Armor [TP Legacy]</name>
     <detail>very rare</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -419,7 +419,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 73 (Third Party),
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Eternal Slayer Greatsword (TP)</name>
+    <name>Eternal Slayer Greatsword [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -443,7 +443,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 78 (Third Party),
     <roll description="Slashing Damage">1d6</roll>
   </item>
   <item>
-    <name>Eternal Slayer Longsword (TP)</name>
+    <name>Eternal Slayer Longsword [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -466,7 +466,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 78 (Third Party),
     <roll description="Slashing Damage">1d6</roll>
   </item>
   <item>
-    <name>Eternal Slayer Rapier (TP)</name>
+    <name>Eternal Slayer Rapier [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -488,7 +488,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 78 (Third Party),
     <roll description="Slashing Damage">1d6</roll>
   </item>
   <item>
-    <name>Eternal Slayer Scimitar (TP)</name>
+    <name>Eternal Slayer Scimitar [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -512,7 +512,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 78 (Third Party),
     <roll description="Slashing Damage">1d6</roll>
   </item>
   <item>
-    <name>Eternal Slayer Shortsword (TP)</name>
+    <name>Eternal Slayer Shortsword [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -536,7 +536,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 78 (Third Party),
     <roll description="Slashing Damage">1d6</roll>
   </item>
   <item>
-    <name>Freerunner's Leather Armor (TP)</name>
+    <name>Freerunner's Leather Armor [TP Legacy]</name>
     <detail>common</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -551,7 +551,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 85 (Third Party),
 		Player's Handbook (2014) p. 144</text>
   </item>
   <item>
-    <name>Freerunner's Padded Armor (TP)</name>
+    <name>Freerunner's Padded Armor [TP Legacy]</name>
     <detail>common</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -569,7 +569,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 85 (Third Party),
 		Player's Handbook (2014) p. 144</text>
   </item>
   <item>
-    <name>Freerunner's Studded Leather Armor (TP)</name>
+    <name>Freerunner's Studded Leather Armor [TP Legacy]</name>
     <detail>common</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -584,7 +584,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 85 (Third Party),
 		Player's Handbook (2014) p. 144</text>
   </item>
   <item>
-    <name>Gentleman's Longsword (TP)</name>
+    <name>Gentleman's Longsword [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -608,7 +608,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 87 (Third Party),
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Gentleman's Scimitar (TP)</name>
+    <name>Gentleman's Scimitar [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -633,7 +633,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 87 (Third Party),
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Godsteel Worldcarver Greatsword (TP)</name>
+    <name>Godsteel Worldcarver Greatsword [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -658,7 +658,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 92 (Third Party),
     <roll description="Radiant Damage">3d8</roll>
   </item>
   <item>
-    <name>Godsteel Worldcarver Longsword (TP)</name>
+    <name>Godsteel Worldcarver Longsword [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -682,7 +682,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 92 (Third Party),
     <roll description="Radiant Damage">3d8</roll>
   </item>
   <item>
-    <name>Monster Tamer's Greatsword (TP)</name>
+    <name>Monster Tamer's Greatsword [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -705,7 +705,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 124 (Third Party),
     <roll description="Recharge">1d4+2</roll>
   </item>
   <item>
-    <name>Monster Tamer's Longsword (TP)</name>
+    <name>Monster Tamer's Longsword [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -727,7 +727,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 124 (Third Party),
     <roll description="Recharge">1d4+2</roll>
   </item>
   <item>
-    <name>Monster Tamer's Rapier (TP)</name>
+    <name>Monster Tamer's Rapier [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -748,7 +748,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 124 (Third Party),
     <roll description="Recharge">1d4+2</roll>
   </item>
   <item>
-    <name>Monster Tamer's Scimitar (TP)</name>
+    <name>Monster Tamer's Scimitar [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -771,7 +771,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 124 (Third Party),
     <roll description="Recharge">1d4+2</roll>
   </item>
   <item>
-    <name>Monster Tamer's Shortsword (TP)</name>
+    <name>Monster Tamer's Shortsword [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -794,7 +794,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 124 (Third Party),
     <roll description="Recharge">1d4+2</roll>
   </item>
   <item>
-    <name>Myceliaweave Hide Armor (TP)</name>
+    <name>Myceliaweave Hide Armor [TP Legacy]</name>
     <detail/>
     <type>MA</type>
     <magic>YES</magic>
@@ -813,7 +813,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 128 (Third Party),
     <roll description="Days">2d6+6</roll>
   </item>
   <item>
-    <name>Myceliaweave Leather Armor (TP)</name>
+    <name>Myceliaweave Leather Armor [TP Legacy]</name>
     <detail/>
     <type>LA</type>
     <magic>YES</magic>
@@ -832,7 +832,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 128 (Third Party),
     <roll description="Days">2d6+6</roll>
   </item>
   <item>
-    <name>Myceliaweave Studded Leather Armor (TP)</name>
+    <name>Myceliaweave Studded Leather Armor [TP Legacy]</name>
     <detail/>
     <type>LA</type>
     <magic>YES</magic>
@@ -851,7 +851,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 128 (Third Party),
     <roll description="Days">2d6+6</roll>
   </item>
   <item>
-    <name>Novanite Breastplate (TP)</name>
+    <name>Novanite Breastplate [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -871,7 +871,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 130 (Third Party),
     <roll description="Force Damage">3d6</roll>
   </item>
   <item>
-    <name>Novanite Chain Mail (TP)</name>
+    <name>Novanite Chain Mail [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -897,7 +897,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 130 (Third Party),
     <roll description="Force Damage">3d6</roll>
   </item>
   <item>
-    <name>Novanite Chain Shirt (TP)</name>
+    <name>Novanite Chain Shirt [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -917,7 +917,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 130 (Third Party),
     <roll description="Force Damage">3d6</roll>
   </item>
   <item>
-    <name>Novanite Half Plate Armor (TP)</name>
+    <name>Novanite Half Plate Armor [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -940,7 +940,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 130 (Third Party),
     <roll description="Force Damage">3d6</roll>
   </item>
   <item>
-    <name>Novanite Plate Armor (TP)</name>
+    <name>Novanite Plate Armor [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -966,7 +966,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 130 (Third Party),
     <roll description="Force Damage">3d6</roll>
   </item>
   <item>
-    <name>Novanite Ring Mail (TP)</name>
+    <name>Novanite Ring Mail [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -989,7 +989,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 130 (Third Party),
     <roll description="Force Damage">3d6</roll>
   </item>
   <item>
-    <name>Novanite Scale Mail (TP)</name>
+    <name>Novanite Scale Mail [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -1012,7 +1012,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 130 (Third Party),
     <roll description="Force Damage">3d6</roll>
   </item>
   <item>
-    <name>Novanite Splint Armor (TP)</name>
+    <name>Novanite Splint Armor [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -1038,7 +1038,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 130 (Third Party),
     <roll description="Force Damage">3d6</roll>
   </item>
   <item>
-    <name>Phasing Longbow (TP)</name>
+    <name>Phasing Longbow [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1069,7 +1069,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 135 (Third Party),
     <roll description="Force Damage">3d4</roll>
   </item>
   <item>
-    <name>Phasing Shortbow (TP)</name>
+    <name>Phasing Shortbow [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1098,7 +1098,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 135 (Third Party),
     <roll description="Force Damage">3d4</roll>
   </item>
   <item>
-    <name>Poison Leather Armor of Amphibios (TP)</name>
+    <name>Poison Leather Armor of Amphibios [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -1114,7 +1114,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 137 (Third Party),
     <roll description="Poison Damage">2d6</roll>
   </item>
   <item>
-    <name>Poison Padded Armor of Amphibios (TP)</name>
+    <name>Poison Padded Armor of Amphibios [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -1133,7 +1133,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 137 (Third Party),
     <roll description="Poison Damage">2d6</roll>
   </item>
   <item>
-    <name>Poison Studded Leather Armor of Amphibios (TP)</name>
+    <name>Poison Studded Leather Armor of Amphibios [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -1149,7 +1149,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 137 (Third Party),
     <roll description="Poison Damage">2d6</roll>
   </item>
   <item>
-    <name>Pollinator Carapace Hide Armor (TP)</name>
+    <name>Pollinator Carapace Hide Armor [TP Legacy]</name>
     <detail>uncommon (requires attunement by a druid or ranger)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -1170,7 +1170,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 138 (Third Party),
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Pollinator Carapace Leather Armor (TP)</name>
+    <name>Pollinator Carapace Leather Armor [TP Legacy]</name>
     <detail>uncommon (requires attunement by a druid or ranger)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -1191,7 +1191,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 138 (Third Party),
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Pollinator Carapace Studded Leather Armor (TP)</name>
+    <name>Pollinator Carapace Studded Leather Armor [TP Legacy]</name>
     <detail>uncommon (requires attunement by a druid or ranger)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -1212,7 +1212,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 138 (Third Party),
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Sagittarian Vestments Breastplate (TP)</name>
+    <name>Sagittarian Vestments Breastplate [TP Legacy]</name>
     <detail>uncommon (requires attunement by a cleric or paladin)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -1232,7 +1232,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 153 (Third Party),
     <roll description="Stabilize">1d20</roll>
   </item>
   <item>
-    <name>Sagittarian Vestments Chain Mail (TP)</name>
+    <name>Sagittarian Vestments Chain Mail [TP Legacy]</name>
     <detail>uncommon (requires attunement by a cleric or paladin)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -1258,7 +1258,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 153 (Third Party),
     <roll description="Stabilize">1d20</roll>
   </item>
   <item>
-    <name>Sagittarian Vestments Chain Shirt (TP)</name>
+    <name>Sagittarian Vestments Chain Shirt [TP Legacy]</name>
     <detail>uncommon (requires attunement by a cleric or paladin)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -1278,7 +1278,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 153 (Third Party),
     <roll description="Stabilize">1d20</roll>
   </item>
   <item>
-    <name>Sagittarian Vestments Half Plate Armor (TP)</name>
+    <name>Sagittarian Vestments Half Plate Armor [TP Legacy]</name>
     <detail>uncommon (requires attunement by a cleric or paladin)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -1301,7 +1301,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 153 (Third Party),
     <roll description="Stabilize">1d20</roll>
   </item>
   <item>
-    <name>Sagittarian Vestments Hide Armor (TP)</name>
+    <name>Sagittarian Vestments Hide Armor [TP Legacy]</name>
     <detail>uncommon (requires attunement by a cleric or paladin)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -1321,7 +1321,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 153 (Third Party),
     <roll description="Stabilize">1d20</roll>
   </item>
   <item>
-    <name>Sagittarian Vestments Leather Armor (TP)</name>
+    <name>Sagittarian Vestments Leather Armor [TP Legacy]</name>
     <detail>uncommon (requires attunement by a cleric or paladin)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -1341,7 +1341,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 153 (Third Party),
     <roll description="Stabilize">1d20</roll>
   </item>
   <item>
-    <name>Sagittarian Vestments Padded Armor (TP)</name>
+    <name>Sagittarian Vestments Padded Armor [TP Legacy]</name>
     <detail>uncommon (requires attunement by a cleric or paladin)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -1364,7 +1364,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 153 (Third Party),
     <roll description="Stabilize">1d20</roll>
   </item>
   <item>
-    <name>Sagittarian Vestments Plate Armor (TP)</name>
+    <name>Sagittarian Vestments Plate Armor [TP Legacy]</name>
     <detail>uncommon (requires attunement by a cleric or paladin)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -1390,7 +1390,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 153 (Third Party),
     <roll description="Stabilize">1d20</roll>
   </item>
   <item>
-    <name>Sagittarian Vestments Ring Mail (TP)</name>
+    <name>Sagittarian Vestments Ring Mail [TP Legacy]</name>
     <detail>uncommon (requires attunement by a cleric or paladin)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -1413,7 +1413,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 153 (Third Party),
     <roll description="Stabilize">1d20</roll>
   </item>
   <item>
-    <name>Sagittarian Vestments Scale Mail (TP)</name>
+    <name>Sagittarian Vestments Scale Mail [TP Legacy]</name>
     <detail>uncommon (requires attunement by a cleric or paladin)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -1436,7 +1436,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 153 (Third Party),
     <roll description="Stabilize">1d20</roll>
   </item>
   <item>
-    <name>Sagittarian Vestments Splint Armor (TP)</name>
+    <name>Sagittarian Vestments Splint Armor [TP Legacy]</name>
     <detail>uncommon (requires attunement by a cleric or paladin)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -1462,7 +1462,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 153 (Third Party),
     <roll description="Stabilize">1d20</roll>
   </item>
   <item>
-    <name>Sagittarian Vestments Studded Leather Armor (TP)</name>
+    <name>Sagittarian Vestments Studded Leather Armor [TP Legacy]</name>
     <detail>uncommon (requires attunement by a cleric or paladin)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -1482,7 +1482,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 153 (Third Party),
     <roll description="Stabilize">1d20</roll>
   </item>
   <item>
-    <name>Verax Battleaxe (TP)</name>
+    <name>Verax Battleaxe [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -1517,7 +1517,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Dagger (TP)</name>
+    <name>Verax Dagger [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -1558,7 +1558,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Flail (TP)</name>
+    <name>Verax Flail [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -1590,7 +1590,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Glaive (TP)</name>
+    <name>Verax Glaive [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -1628,7 +1628,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Greataxe (TP)</name>
+    <name>Verax Greataxe [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -1664,7 +1664,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Greatclub (TP)</name>
+    <name>Verax Greatclub [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -1698,7 +1698,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Greatsword (TP)</name>
+    <name>Verax Greatsword [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -1734,7 +1734,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Halberd (TP)</name>
+    <name>Verax Halberd [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -1772,7 +1772,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Handaxe (TP)</name>
+    <name>Verax Handaxe [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -1811,7 +1811,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Javelin (TP)</name>
+    <name>Verax Javelin [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -1848,7 +1848,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Lance (TP)</name>
+    <name>Verax Lance [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -1884,7 +1884,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Light Hammer (TP)</name>
+    <name>Verax Light Hammer [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -1923,7 +1923,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Longsword (TP)</name>
+    <name>Verax Longsword [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -1958,7 +1958,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Mace (TP)</name>
+    <name>Verax Mace [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -1990,7 +1990,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Maul (TP)</name>
+    <name>Verax Maul [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -2026,7 +2026,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Morningstar (TP)</name>
+    <name>Verax Morningstar [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -2058,7 +2058,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Pike (TP)</name>
+    <name>Verax Pike [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -2096,7 +2096,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Rapier (TP)</name>
+    <name>Verax Rapier [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -2130,7 +2130,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Scimitar (TP)</name>
+    <name>Verax Scimitar [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -2166,7 +2166,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Shortsword (TP)</name>
+    <name>Verax Shortsword [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -2202,7 +2202,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Sickle (TP)</name>
+    <name>Verax Sickle [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -2236,7 +2236,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Spear (TP)</name>
+    <name>Verax Spear [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -2276,7 +2276,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Trident (TP)</name>
+    <name>Verax Trident [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -2316,7 +2316,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax War Pick (TP)</name>
+    <name>Verax War Pick [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -2348,7 +2348,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Verax Warhammer (TP)</name>
+    <name>Verax Warhammer [TP Legacy]</name>
     <detail/>
     <type>M</type>
     <magic>YES</magic>
@@ -2383,7 +2383,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party),
     <roll description="Creature">1d10</roll>
   </item>
   <item>
-    <name>Wavecutter Battleaxe (TP)</name>
+    <name>Wavecutter Battleaxe [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2404,7 +2404,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 186 (Third Party),
     <roll description="Bludgeoning Damage">4d8</roll>
   </item>
   <item>
-    <name>Wavecutter Greataxe (TP)</name>
+    <name>Wavecutter Greataxe [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2426,7 +2426,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 186 (Third Party),
     <roll description="Bludgeoning Damage">4d8</roll>
   </item>
   <item>
-    <name>Wavecutter Handaxe (TP)</name>
+    <name>Wavecutter Handaxe [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2451,7 +2451,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 186 (Third Party),
     <roll description="Bludgeoning Damage">4d8</roll>
   </item>
   <item>
-    <name>Battleaxe of Verdict (TP)</name>
+    <name>Battleaxe of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2476,7 +2476,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Club of Verdict (TP)</name>
+    <name>Club of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2500,7 +2500,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Dagger of Verdict (TP)</name>
+    <name>Dagger of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2531,7 +2531,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Flail of Verdict (TP)</name>
+    <name>Flail of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2553,7 +2553,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Glaive of Verdict (TP)</name>
+    <name>Glaive of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2581,7 +2581,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Greataxe of Verdict (TP)</name>
+    <name>Greataxe of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2607,7 +2607,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Greatclub of Verdict (TP)</name>
+    <name>Greatclub of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2631,7 +2631,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Greatsword of Verdict (TP)</name>
+    <name>Greatsword of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2657,7 +2657,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Halberd of Verdict (TP)</name>
+    <name>Halberd of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2685,7 +2685,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Handaxe of Verdict (TP)</name>
+    <name>Handaxe of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2714,7 +2714,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Javelin of Verdict (TP)</name>
+    <name>Javelin of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2741,7 +2741,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Lance of Verdict (TP)</name>
+    <name>Lance of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2767,7 +2767,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Light Hammer of Verdict (TP)</name>
+    <name>Light Hammer of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2796,7 +2796,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Longsword of Verdict (TP)</name>
+    <name>Longsword of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2821,7 +2821,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Mace of Verdict (TP)</name>
+    <name>Mace of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2843,7 +2843,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Maul of Verdict (TP)</name>
+    <name>Maul of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2869,7 +2869,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Morningstar of Verdict (TP)</name>
+    <name>Morningstar of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2891,7 +2891,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Pike of Verdict (TP)</name>
+    <name>Pike of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2919,7 +2919,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Quarterstaff of Verdict (TP)</name>
+    <name>Quarterstaff of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2944,7 +2944,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Rapier of Verdict (TP)</name>
+    <name>Rapier of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2968,7 +2968,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Scimitar of Verdict (TP)</name>
+    <name>Scimitar of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2994,7 +2994,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Shortsword of Verdict (TP)</name>
+    <name>Shortsword of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3020,7 +3020,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Sickle of Verdict (TP)</name>
+    <name>Sickle of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3044,7 +3044,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Spear of Verdict (TP)</name>
+    <name>Spear of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3074,7 +3074,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Trident of Verdict (TP)</name>
+    <name>Trident of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3104,7 +3104,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>War Pick of Verdict (TP)</name>
+    <name>War Pick of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3126,7 +3126,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Warhammer of Verdict (TP)</name>
+    <name>Warhammer of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3151,7 +3151,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Whip of Verdict (TP)</name>
+    <name>Whip of Verdict [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3177,7 +3177,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party),
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Webgrip Hand Crossbow (TP)</name>
+    <name>Webgrip Hand Crossbow [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -3206,7 +3206,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Webgrip Heavy Crossbow (TP)</name>
+    <name>Webgrip Heavy Crossbow [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -3237,7 +3237,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Webgrip Light Crossbow (TP)</name>
+    <name>Webgrip Light Crossbow [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -3266,7 +3266,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Webgrip Longbow (TP)</name>
+    <name>Webgrip Longbow [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -3295,7 +3295,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Webgrip Shortbow (TP)</name>
+    <name>Webgrip Shortbow [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -3322,7 +3322,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Whirling Club (TP)</name>
+    <name>Whirling Club [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3340,7 +3340,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Whirling Dagger (TP)</name>
+    <name>Whirling Dagger [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3365,7 +3365,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Whirling Flail (TP)</name>
+    <name>Whirling Flail [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3381,7 +3381,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Whirling Greatclub (TP)</name>
+    <name>Whirling Greatclub [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3399,7 +3399,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Whirling Handaxe (TP)</name>
+    <name>Whirling Handaxe [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3422,7 +3422,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Whirling Javelin (TP)</name>
+    <name>Whirling Javelin [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3443,7 +3443,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Whirling Light Hammer (TP)</name>
+    <name>Whirling Light Hammer [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3466,7 +3466,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Whirling Longsword (TP)</name>
+    <name>Whirling Longsword [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3485,7 +3485,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Whirling Mace (TP)</name>
+    <name>Whirling Mace [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3501,7 +3501,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Whirling Morningstar (TP)</name>
+    <name>Whirling Morningstar [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3517,7 +3517,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Whirling Rapier (TP)</name>
+    <name>Whirling Rapier [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3535,7 +3535,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Whirling Scimitar (TP)</name>
+    <name>Whirling Scimitar [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3555,7 +3555,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Whirling Shortsword (TP)</name>
+    <name>Whirling Shortsword [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3575,7 +3575,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Whirling Sickle (TP)</name>
+    <name>Whirling Sickle [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3593,7 +3593,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Whirling Trident (TP)</name>
+    <name>Whirling Trident [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3617,7 +3617,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Whirling War Pick (TP)</name>
+    <name>Whirling War Pick [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3633,7 +3633,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Whirling Whip (TP)</name>
+    <name>Whirling Whip [TP Legacy]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3653,7 +3653,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Yellow Harbinger's Path Breastplate (TP)</name>
+    <name>Yellow Harbinger's Path Breastplate [TP Legacy]</name>
     <detail>very rare (requires attunement by a creature with a dexterity score of 17 or higher)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -3679,7 +3679,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 194 (Third Party),
 		Player's Handbook (2014) p. 145</text>
   </item>
   <item>
-    <name>Yellow Harbinger's Path Chain Shirt (TP)</name>
+    <name>Yellow Harbinger's Path Chain Shirt [TP Legacy]</name>
     <detail>very rare (requires attunement by a creature with a dexterity score of 17 or higher)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -3705,7 +3705,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 194 (Third Party),
 		Player's Handbook (2014) p. 144</text>
   </item>
   <item>
-    <name>Yellow Harbinger's Path Half Plate Armor (TP)</name>
+    <name>Yellow Harbinger's Path Half Plate Armor [TP Legacy]</name>
     <detail>very rare (requires attunement by a creature with a dexterity score of 17 or higher)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -3734,7 +3734,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 194 (Third Party),
 		Player's Handbook (2014) p. 145</text>
   </item>
   <item>
-    <name>Yellow Harbinger's Path Hide Armor (TP)</name>
+    <name>Yellow Harbinger's Path Hide Armor [TP Legacy]</name>
     <detail>very rare (requires attunement by a creature with a dexterity score of 17 or higher)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -3760,7 +3760,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 194 (Third Party),
 		Player's Handbook (2014) p. 144</text>
   </item>
   <item>
-    <name>Yellow Harbinger's Path Leather Armor (TP)</name>
+    <name>Yellow Harbinger's Path Leather Armor [TP Legacy]</name>
     <detail>very rare (requires attunement by a creature with a dexterity score of 17 or higher)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -3786,7 +3786,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 194 (Third Party),
 		Player's Handbook (2014) p. 144</text>
   </item>
   <item>
-    <name>Yellow Harbinger's Path Padded Armor (TP)</name>
+    <name>Yellow Harbinger's Path Padded Armor [TP Legacy]</name>
     <detail>very rare (requires attunement by a creature with a dexterity score of 17 or higher)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -3815,7 +3815,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 194 (Third Party),
 		Player's Handbook (2014) p. 144</text>
   </item>
   <item>
-    <name>Yellow Harbinger's Path Scale Mail (TP)</name>
+    <name>Yellow Harbinger's Path Scale Mail [TP Legacy]</name>
     <detail>very rare (requires attunement by a creature with a dexterity score of 17 or higher)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -3844,7 +3844,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 194 (Third Party),
 		Player's Handbook (2014) p. 144</text>
   </item>
   <item>
-    <name>Yellow Harbinger's Path Studded Leather Armor (TP)</name>
+    <name>Yellow Harbinger's Path Studded Leather Armor [TP Legacy]</name>
     <detail>very rare (requires attunement by a creature with a dexterity score of 17 or higher)</detail>
     <type>LA</type>
     <magic>YES</magic>

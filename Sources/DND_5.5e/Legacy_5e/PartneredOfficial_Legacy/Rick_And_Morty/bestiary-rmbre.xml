@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Billy Beaver</name>
+    <name>Billy Beaver [TP Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -37,7 +37,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Buster the Bear</name>
+    <name>Buster the Bear [TP Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Chaotic Evil</alignment>
@@ -77,7 +77,7 @@ Source:	The Lost Dungeon of Rickedness: Big Rick Energy p. 27 (Third Party)</des
     <environment/>
   </monster>
   <monster>
-    <name>Large Mimic (Multiattack)</name>
+    <name>Large Mimic (Multiattack) [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity (shapechanger)</type>
     <alignment>Neutral</alignment>
@@ -134,7 +134,7 @@ Source:	The Lost Dungeon of Rickedness: Big Rick Energy p. 27 (Third Party)</des
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Layla the Lizard</name>
+    <name>Layla the Lizard [TP Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Chaotic Evil</alignment>
@@ -171,7 +171,7 @@ Source:	The Lost Dungeon of Rickedness: Big Rick Energy p. 27 (Third Party)</des
     <environment/>
   </monster>
   <monster>
-    <name>Lycanthropickle</name>
+    <name>Lycanthropickle [TP Legacy]</name>
     <size>S</size>
     <type>plant</type>
     <alignment>Neutral Evil</alignment>
@@ -221,7 +221,7 @@ Source:	The Lost Dungeon of Rickedness: Big Rick Energy p. 11 (Third Party)</des
     <environment/>
   </monster>
   <monster>
-    <name>Meeseeks</name>
+    <name>Meeseeks [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>Any alignment</alignment>
@@ -257,7 +257,7 @@ Source:	The Lost Dungeon of Rickedness: Big Rick Energy p. 11 (Third Party)</des
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Piggy Wiggle Butt</name>
+    <name>Piggy Wiggle Butt [TP Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Chaotic Evil</alignment>
@@ -293,7 +293,7 @@ Source:	The Lost Dungeon of Rickedness: Big Rick Energy p. 11 (Third Party)</des
     <environment/>
   </monster>
   <monster>
-    <name>Thomas T. Toad</name>
+    <name>Thomas T. Toad [TP Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Chaotic Evil</alignment>
@@ -325,7 +325,7 @@ Source:	The Lost Dungeon of Rickedness: Big Rick Energy p. 11 (Third Party)</des
     <environment/>
   </monster>
   <monster>
-    <name>Tommy Two-Butts</name>
+    <name>Tommy Two-Butts [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (goblinoid)</type>
     <alignment>Chaotic Evil</alignment>

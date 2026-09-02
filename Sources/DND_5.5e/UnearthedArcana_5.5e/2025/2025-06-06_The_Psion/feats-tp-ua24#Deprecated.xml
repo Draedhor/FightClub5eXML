@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <feat>
-    <name>Atmokinesis (UA)</name>
+    <name>Atmokinesis [UA]</name>
     <prerequisite>Wild Talent Feat; Can't Have Another Wild Talent Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -13,7 +13,7 @@
 Source:	UA2025-ThePsion p. 11</text>
   </feat>
   <feat>
-    <name>Biokinesis (UA)</name>
+    <name>Biokinesis [UA]</name>
     <prerequisite>Wild Talent Feat; Can't Have Another Wild Talent Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -25,7 +25,7 @@ Source:	UA2025-ThePsion p. 11</text>
 Source:	UA2025-ThePsion p. 12</text>
   </feat>
   <feat>
-    <name>Clairsentience (UA)</name>
+    <name>Clairsentience [UA]</name>
     <prerequisite>Wild Talent Feat; Can't Have Another Wild Talent Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -37,7 +37,7 @@ Source:	UA2025-ThePsion p. 12</text>
 Source:	UA2025-ThePsion p. 12</text>
   </feat>
   <feat>
-    <name>Cryokinesis (UA)</name>
+    <name>Cryokinesis [UA]</name>
     <prerequisite>Wild Talent Feat; Can't Have Another Wild Talent Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -49,7 +49,7 @@ Source:	UA2025-ThePsion p. 12</text>
 Source:	UA2025-ThePsion p. 12</text>
   </feat>
   <feat>
-    <name>Empath (UA)</name>
+    <name>Empath [UA]</name>
     <prerequisite>Wild Talent Feat; Can't Have Another Wild Talent Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -61,7 +61,7 @@ Source:	UA2025-ThePsion p. 12</text>
 Source:	UA2025-ThePsion p. 12</text>
   </feat>
   <feat>
-    <name>Flesh Morpher (UA)</name>
+    <name>Flesh Morpher [UA]</name>
     <prerequisite>Wild Talent Feat; Can't Have Another Wild Talent Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -73,7 +73,7 @@ Source:	UA2025-ThePsion p. 12</text>
 Source:	UA2025-ThePsion p. 13</text>
   </feat>
   <feat>
-    <name>Mind Whisperer (UA)</name>
+    <name>Mind Whisperer [UA]</name>
     <prerequisite>Wild Talent Feat; Can't Have Another Wild Talent Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -85,7 +85,7 @@ Source:	UA2025-ThePsion p. 13</text>
 Source:	UA2025-ThePsion p. 13</text>
   </feat>
   <feat>
-    <name>Psi Trickster (UA)</name>
+    <name>Psi Trickster [UA]</name>
     <prerequisite>Wild Talent Feat; Can't Have Another Wild Talent Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -96,7 +96,7 @@ Source:	UA2025-ThePsion p. 13</text>
 Source:	UA2025-ThePsion p. 13</text>
   </feat>
   <feat>
-    <name>Psikineticist (UA)</name>
+    <name>Psikineticist [UA]</name>
     <prerequisite>Wild Talent Feat; Can't Have Another Wild Talent Feat</prerequisite>
     <text>You gain the following benefits.
 
@@ -107,7 +107,7 @@ Source:	UA2025-ThePsion p. 13</text>
 Source:	UA2025-ThePsion p. 13</text>
   </feat>
   <feat>
-    <name>Pyrokinesis (UA)</name>
+    <name>Pyrokinesis [UA]</name>
     <prerequisite>Wild Talent Feat; Can't Have Another Wild Talent Feat</prerequisite>
     <text>You gain the following benefits.
 

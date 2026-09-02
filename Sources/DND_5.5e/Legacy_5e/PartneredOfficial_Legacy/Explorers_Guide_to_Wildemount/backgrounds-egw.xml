@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Augen Trust Spy (TP)</name>
+    <name>Augen Trust Spy [TP Legacy]</name>
     <ancestry>Criminal</ancestry>
     <proficiency>Deception, Stealth</proficiency>
     <trait>
@@ -82,7 +82,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Cobalt Scholar (TP)</name>
+    <name>Cobalt Scholar [TP Legacy]</name>
     <ancestry>Sage</ancestry>
     <proficiency>Arcana, History</proficiency>
     <trait>
@@ -160,7 +160,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Grinner (TP)</name>
+    <name>Grinner [TP Legacy]</name>
     <proficiency>Deception, Performance</proficiency>
     <trait>
       <name>Description</name>
@@ -237,7 +237,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Luxonborn (TP)</name>
+    <name>Luxonborn [TP Legacy]</name>
     <ancestry>Acolyte</ancestry>
     <proficiency>Insight, Religion</proficiency>
     <trait>
@@ -299,7 +299,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Myriad Operative (TP)</name>
+    <name>Myriad Operative [TP Legacy]</name>
     <ancestry>Criminal</ancestry>
     <proficiency>Deception, Stealth</proficiency>
     <trait>
@@ -376,7 +376,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Revelry Pirate (TP)</name>
+    <name>Revelry Pirate [TP Legacy]</name>
     <ancestry>Sailor</ancestry>
     <proficiency>Athletics, Perception</proficiency>
     <trait>
@@ -443,7 +443,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Volstrucker Agent (TP)</name>
+    <name>Volstrucker Agent [TP Legacy]</name>
     <proficiency>Deception, Stealth</proficiency>
     <trait>
       <name>Description</name>

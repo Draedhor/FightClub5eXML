@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Animated Object Spirit</name>
+    <name>Animated Object Spirit [TP Legacy]</name>
     <sortname>Spirit, Animated Object</sortname>
     <ancestry>Spirit</ancestry>
     <size>T</size>
@@ -76,7 +76,7 @@ Source:	Obojima: Tales from the Tall Grass p. 257 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Powerful Animated Object Spirit</name>
+    <name>Powerful Animated Object Spirit [TP Legacy]</name>
     <sortname>Spirit, Animated Object (Powerful)</sortname>
     <ancestry>Spirit</ancestry>
     <size>T</size>
@@ -151,7 +151,7 @@ Source:	Obojima: Tales from the Tall Grass p. 258 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Aquatic Beast Spirit</name>
+    <name>Aquatic Beast Spirit [TP Legacy]</name>
     <sortname>Spirit, Aquatic Beast</sortname>
     <ancestry>Spirit</ancestry>
     <size>T</size>
@@ -221,7 +221,7 @@ Source:	Obojima: Tales from the Tall Grass p. 258 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Powerful Aquatic Beast Spirit</name>
+    <name>Powerful Aquatic Beast Spirit [TP Legacy]</name>
     <sortname>Spirit, Aquatic Beast (Powerful)</sortname>
     <ancestry>Spirit</ancestry>
     <size>T</size>
@@ -295,7 +295,7 @@ Source:	Obojima: Tales from the Tall Grass p. 258 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Beast Spirit</name>
+    <name>Beast Spirit [TP Legacy]</name>
     <sortname>Spirit, Beast</sortname>
     <ancestry>Spirit</ancestry>
     <size>T</size>
@@ -376,7 +376,7 @@ Source:	Obojima: Tales from the Tall Grass p. 260 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Powerful Beast Spirit</name>
+    <name>Powerful Beast Spirit [TP Legacy]</name>
     <sortname>Spirit, Beast (Powerful)</sortname>
     <ancestry>Spirit</ancestry>
     <size>T</size>
@@ -457,7 +457,7 @@ Source:	Obojima: Tales from the Tall Grass p. 260 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Flying Beast Spirit</name>
+    <name>Flying Beast Spirit [TP Legacy]</name>
     <sortname>Spirit, Flying Beast</sortname>
     <ancestry>Spirit</ancestry>
     <size>T</size>
@@ -526,7 +526,7 @@ Source:	Obojima: Tales from the Tall Grass p. 261 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Powerful Flying Beast Spirit</name>
+    <name>Powerful Flying Beast Spirit [TP Legacy]</name>
     <sortname>Spirit, Flying Beast (Powerful)</sortname>
     <ancestry>Spirit</ancestry>
     <size>T</size>
@@ -599,7 +599,7 @@ Source:	Obojima: Tales from the Tall Grass p. 261 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Elemental Spirit</name>
+    <name>Elemental Spirit [TP Legacy]</name>
     <sortname>Spirit, Elemental</sortname>
     <ancestry>Spirit</ancestry>
     <size>T</size>
@@ -665,7 +665,7 @@ Source:	Obojima: Tales from the Tall Grass p. 262 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Powerful Elemental Spirit</name>
+    <name>Powerful Elemental Spirit [TP Legacy]</name>
     <sortname>Spirit, Elemental (Powerful)</sortname>
     <ancestry>Spirit</ancestry>
     <size>T</size>
@@ -735,7 +735,7 @@ Source:	Obojima: Tales from the Tall Grass p. 262 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Spectral Spirit</name>
+    <name>Spectral Spirit [TP Legacy]</name>
     <sortname>Spirit, Spectral</sortname>
     <ancestry>Spirit</ancestry>
     <size>T</size>
@@ -792,7 +792,7 @@ Source:	Obojima: Tales from the Tall Grass p. 263 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Powerful Spectral Spirit</name>
+    <name>Powerful Spectral Spirit [TP Legacy]</name>
     <sortname>Spirit, Spectral (Powerful)</sortname>
     <ancestry>Spirit</ancestry>
     <size>T</size>
@@ -860,7 +860,7 @@ Source:	Obojima: Tales from the Tall Grass p. 263 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Flora Spirit</name>
+    <name>Flora Spirit [TP Legacy]</name>
     <sortname>Spirit, Flora</sortname>
     <ancestry>Spirit</ancestry>
     <size>T</size>
@@ -943,7 +943,7 @@ Source:	Obojima: Tales from the Tall Grass p. 264 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Powerful Flora Spirit</name>
+    <name>Powerful Flora Spirit [TP Legacy]</name>
     <sortname>Spirit, Flora (Powerful)</sortname>
     <ancestry>Spirit</ancestry>
     <size>T</size>
@@ -1026,7 +1026,7 @@ Source:	Obojima: Tales from the Tall Grass p. 265 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Acorn Crab</name>
+    <name>Acorn Crab [TP Legacy]</name>
     <sortname>Crab, Acorn</sortname>
     <ancestry>Crab</ancestry>
     <size>M</size>
@@ -1079,7 +1079,7 @@ Source:	Obojima: Tales from the Tall Grass p. 269 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Akaobaba</name>
+    <name>Akaobaba [TP Legacy]</name>
     <ancestry>Spirit</ancestry>
     <size>M</size>
     <type>spirit</type>
@@ -1154,7 +1154,7 @@ Source:	Obojima: Tales from the Tall Grass p. 270 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bearracuda</name>
+    <name>Bearracuda [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -1203,7 +1203,7 @@ Source:	Obojima: Tales from the Tall Grass p. 271 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cat of Prodigious Size</name>
+    <name>Cat of Prodigious Size [TP Legacy]</name>
     <sortname>Cat, Prodigious Size</sortname>
     <ancestry>Cat</ancestry>
     <size>H</size>
@@ -1264,7 +1264,7 @@ Source:	Obojima: Tales from the Tall Grass p. 272 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Clone of Viota</name>
+    <name>Clone of Viota [TP Legacy]</name>
     <sortname>Viota, Clone</sortname>
     <ancestry>Viota</ancestry>
     <npc>YES</npc>
@@ -1334,7 +1334,7 @@ Source:	Obojima: Tales from the Tall Grass p. 273 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Corrupted Muk</name>
+    <name>Corrupted Muk [TP Legacy]</name>
     <sortname>Muk, Corrupted</sortname>
     <ancestry>Muk</ancestry>
     <size>M</size>
@@ -1383,7 +1383,7 @@ Source:	Obojima: Tales from the Tall Grass p. 274 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Crawler</name>
+    <name>Crawler [TP Legacy]</name>
     <size>L</size>
     <type>fiend (demon)</type>
     <alignment>Neutral</alignment>
@@ -1438,7 +1438,7 @@ Source:	Obojima: Tales from the Tall Grass p. 275 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cuddle Bug</name>
+    <name>Cuddle Bug [TP Legacy]</name>
     <sortname>Bug, Cuddle</sortname>
     <ancestry>Bug</ancestry>
     <size>T</size>
@@ -1491,7 +1491,7 @@ Source:	Obojima: Tales from the Tall Grass p. 276 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Deep Angler</name>
+    <name>Deep Angler [TP Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -1544,7 +1544,7 @@ Source:	Obojima: Tales from the Tall Grass p. 277 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Minor Demon</name>
+    <name>Minor Demon [TP Legacy]</name>
     <sortname>Demon, Minor</sortname>
     <ancestry>Demon</ancestry>
     <size>S</size>
@@ -1607,7 +1607,7 @@ Source:	Obojima: Tales from the Tall Grass p. 278 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dragon (Obojima)</name>
+    <name>Dragon (Obojima) [TP Legacy]</name>
     <size>L</size>
     <type>dragon</type>
     <alignment>Neutral</alignment>
@@ -1659,7 +1659,7 @@ Source:	Obojima: Tales from the Tall Grass p. 280 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dragon Frog</name>
+    <name>Dragon Frog [TP Legacy]</name>
     <sortname>Frog, Dragon</sortname>
     <ancestry>Frog</ancestry>
     <size>M</size>
@@ -1719,7 +1719,7 @@ Source:	Obojima: Tales from the Tall Grass p. 282 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Elder Dragon Frog</name>
+    <name>Elder Dragon Frog [TP Legacy]</name>
     <sortname>Frog, Dragon (Elder)</sortname>
     <ancestry>Frog, Dragon</ancestry>
     <size>G</size>
@@ -1804,7 +1804,7 @@ Source:	Obojima: Tales from the Tall Grass p. 282 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dustbunny</name>
+    <name>Dustbunny [TP Legacy]</name>
     <size>T</size>
     <type>elemental</type>
     <alignment>Unaligned</alignment>
@@ -1853,7 +1853,7 @@ Source:	Obojima: Tales from the Tall Grass p. 284 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Field Giant</name>
+    <name>Field Giant [TP Legacy]</name>
     <sortname>Giant, Field</sortname>
     <ancestry>Giant</ancestry>
     <size>G</size>
@@ -1903,7 +1903,7 @@ Source:	Obojima: Tales from the Tall Grass p. 285 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fish Folk</name>
+    <name>Fish Folk [TP Legacy]</name>
     <sortname>Fish, Folk</sortname>
     <ancestry>Fish Folk</ancestry>
     <npc>YES</npc>
@@ -1967,7 +1967,7 @@ Source:	Obojima: Tales from the Tall Grass p. 286 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lionfish King</name>
+    <name>Lionfish King [TP Legacy]</name>
     <sortname>Lionfish, King</sortname>
     <ancestry>Fish Folk</ancestry>
     <npc>YES</npc>
@@ -2035,7 +2035,7 @@ Source:	Obojima: Tales from the Tall Grass p. 287 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Jellyfish</name>
+    <name>Giant Jellyfish [TP Legacy]</name>
     <sortname>Jellyfish, Giant</sortname>
     <ancestry>Jellyfish</ancestry>
     <size>G</size>
@@ -2080,7 +2080,7 @@ Source:	Obojima: Tales from the Tall Grass p. 289 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Koi</name>
+    <name>Giant Koi [TP Legacy]</name>
     <sortname>Koi, Giant</sortname>
     <ancestry>Koi</ancestry>
     <size>G</size>
@@ -2132,7 +2132,7 @@ Source:	Obojima: Tales from the Tall Grass p. 290 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Goro Goro</name>
+    <name>Goro Goro [TP Legacy]</name>
     <size>L</size>
     <type>fiend (demon)</type>
     <alignment>Neutral Evil</alignment>
@@ -2200,7 +2200,7 @@ Source:	Obojima: Tales from the Tall Grass p. 292 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hammer Gull</name>
+    <name>Hammer Gull [TP Legacy]</name>
     <sortname>Gull, Hammer</sortname>
     <ancestry>Gull</ancestry>
     <size>L</size>
@@ -2253,7 +2253,7 @@ Source:	Obojima: Tales from the Tall Grass p. 293 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Harpy (Obojima)</name>
+    <name>Harpy (Obojima) [TP Legacy]</name>
     <sortname>Harpy (Obojima)</sortname>
     <ancestry>Harpy</ancestry>
     <size>M</size>
@@ -2310,7 +2310,7 @@ Source:	Obojima: Tales from the Tall Grass p. 294 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hill Dragon</name>
+    <name>Hill Dragon [TP Legacy]</name>
     <sortname>Dragon, Hill</sortname>
     <ancestry>Dragon</ancestry>
     <size>L</size>
@@ -2375,7 +2375,7 @@ Source:	Obojima: Tales from the Tall Grass p. 295 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Howler Yipper</name>
+    <name>Howler Yipper [TP Legacy]</name>
     <sortname>Howler, Yipper</sortname>
     <ancestry>Howler</ancestry>
     <size>M</size>
@@ -2448,7 +2448,7 @@ Source:	Obojima: Tales from the Tall Grass p. 297 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Howler Snarler</name>
+    <name>Howler Snarler [TP Legacy]</name>
     <sortname>Howler, Snarler</sortname>
     <ancestry>Howler</ancestry>
     <size>M</size>
@@ -2533,7 +2533,7 @@ Source:	Obojima: Tales from the Tall Grass p. 298 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Howler Stalker</name>
+    <name>Howler Stalker [TP Legacy]</name>
     <sortname>Howler, Stalker</sortname>
     <ancestry>Howler</ancestry>
     <size>M</size>
@@ -2620,7 +2620,7 @@ Source:	Obojima: Tales from the Tall Grass p. 299 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>The Hunter</name>
+    <name>The Hunter [TP Legacy]</name>
     <size>G</size>
     <type>beast</type>
     <alignment>Neutral Good</alignment>
@@ -2725,7 +2725,7 @@ Source:	Obojima: Tales from the Tall Grass p. 300 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kafuka</name>
+    <name>Kafuka [TP Legacy]</name>
     <size>S</size>
     <type>monstrosity</type>
     <alignment>Neutral</alignment>
@@ -2788,7 +2788,7 @@ Source:	Obojima: Tales from the Tall Grass p. 302 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lion's Blume</name>
+    <name>Lion's Blume [TP Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -2835,7 +2835,7 @@ Source:	Obojima: Tales from the Tall Grass p. 303 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mosslings</name>
+    <name>Mosslings [TP Legacy]</name>
     <size>T</size>
     <type>spirit</type>
     <alignment>Unaligned</alignment>
@@ -2871,7 +2871,7 @@ Source:	Obojima: Tales from the Tall Grass p. 304 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Pixie (Obojima)</name>
+    <name>Pixie (Obojima) [TP Legacy]</name>
     <sortname>Pixie, (Obojima)</sortname>
     <ancestry>Pixie</ancestry>
     <size>T</size>
@@ -2919,7 +2919,7 @@ Source:	Obojima: Tales from the Tall Grass p. 304 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Postal Knight</name>
+    <name>Postal Knight [TP Legacy]</name>
     <sortname>Knight, Postal</sortname>
     <ancestry>Knight</ancestry>
     <npc>YES</npc>
@@ -2985,7 +2985,7 @@ Source:	Obojima: Tales from the Tall Grass p. 305 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rubble Golem</name>
+    <name>Rubble Golem [TP Legacy]</name>
     <sortname>Golem, Rubble</sortname>
     <ancestry>Golem</ancestry>
     <size>L</size>
@@ -3047,7 +3047,7 @@ Source:	Obojima: Tales from the Tall Grass p. 306 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Seaweed Elemental</name>
+    <name>Seaweed Elemental [TP Legacy]</name>
     <sortname>Elemental, Seaweed</sortname>
     <ancestry>Elemental</ancestry>
     <size>L</size>
@@ -3104,7 +3104,7 @@ Source:	Obojima: Tales from the Tall Grass p. 307 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sheep Dragon</name>
+    <name>Sheep Dragon [TP Legacy]</name>
     <sortname>Dragon, Sheep</sortname>
     <ancestry>Dragon</ancestry>
     <size>L</size>
@@ -3164,7 +3164,7 @@ Source:	Obojima: Tales from the Tall Grass p. 308 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Skeletal Fish</name>
+    <name>Skeletal Fish [TP Legacy]</name>
     <sortname>Fish, Skeletal</sortname>
     <ancestry>Fish</ancestry>
     <size>M</size>
@@ -3215,7 +3215,7 @@ Source:	Obojima: Tales from the Tall Grass p. 309 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sky King</name>
+    <name>Sky King [TP Legacy]</name>
     <sortname>Sky King</sortname>
     <ancestry>Sky King</ancestry>
     <size>G</size>
@@ -3319,7 +3319,7 @@ Source:	Obojima: Tales from the Tall Grass p. 310 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jumaga the Sky Salamander</name>
+    <name>Jumaga the Sky Salamander [TP Legacy]</name>
     <sortname>Sky Salamander, Jumaga</sortname>
     <size>G</size>
     <type>beast</type>
@@ -3418,7 +3418,7 @@ Source:	Obojima: Tales from the Tall Grass p. 313 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Slagger</name>
+    <name>Slagger [TP Legacy]</name>
     <size>H</size>
     <type>spirit</type>
     <alignment>Neutral</alignment>
@@ -3479,7 +3479,7 @@ Source:	Obojima: Tales from the Tall Grass p. 315 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Green Slime</name>
+    <name>Green Slime [TP Legacy]</name>
     <sortname>Slime, Green</sortname>
     <ancestry>Slime</ancestry>
     <size>S</size>
@@ -3532,7 +3532,7 @@ Source:	Obojima: Tales from the Tall Grass p. 317 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Yellow Slime</name>
+    <name>Yellow Slime [TP Legacy]</name>
     <sortname>Slime, Yellow</sortname>
     <ancestry>Slime</ancestry>
     <size>M</size>
@@ -3600,7 +3600,7 @@ Source:	Obojima: Tales from the Tall Grass p. 317 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Orange Slime</name>
+    <name>Orange Slime [TP Legacy]</name>
     <sortname>Slime, Orange</sortname>
     <ancestry>Slime</ancestry>
     <size>L</size>
@@ -3672,7 +3672,7 @@ Source:	Obojima: Tales from the Tall Grass p. 318 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Corrupted Slime</name>
+    <name>Corrupted Slime [TP Legacy]</name>
     <sortname>Slime, Corrupted</sortname>
     <ancestry>Slime</ancestry>
     <size>S</size>
@@ -3732,7 +3732,7 @@ Source:	Obojima: Tales from the Tall Grass p. 318 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Snowball Spirits</name>
+    <name>Snowball Spirits [TP Legacy]</name>
     <sortname>Spirits, Snowball</sortname>
     <ancestry>Spirit</ancestry>
     <size>M</size>
@@ -3789,7 +3789,7 @@ Source:	Obojima: Tales from the Tall Grass p. 319 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Soda Slime</name>
+    <name>Soda Slime [TP Legacy]</name>
     <sortname>Slime, Soda</sortname>
     <ancestry>Slime</ancestry>
     <size>T</size>
@@ -3852,7 +3852,7 @@ Source:	Obojima: Tales from the Tall Grass p. 320 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Spirit (Obojima)</name>
+    <name>Spirit (Obojima) [TP Legacy]</name>
     <sortname>Spirit, (Obojima)</sortname>
     <ancestry>Spirit (Obojima)</ancestry>
     <size>M</size>
@@ -3914,7 +3914,7 @@ Source:	Obojima: Tales from the Tall Grass p. 320 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Animalistic Spirit</name>
+    <name>Animalistic Spirit [TP Legacy]</name>
     <sortname>Spirit, Animalistic (Obojima)</sortname>
     <ancestry>Spirit (Obojima)</ancestry>
     <size>M</size>
@@ -3987,7 +3987,7 @@ Source:	Obojima: Tales from the Tall Grass p. 323 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Pest Spirit</name>
+    <name>Pest Spirit [TP Legacy]</name>
     <sortname>Spirit, Pest (Obojima)</sortname>
     <ancestry>Spirit (Obojima)</ancestry>
     <size>T</size>
@@ -4057,7 +4057,7 @@ Source:	Obojima: Tales from the Tall Grass p. 323 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Stone Whale</name>
+    <name>Stone Whale [TP Legacy]</name>
     <sortname>Whale, Stone</sortname>
     <ancestry>Whale</ancestry>
     <size>H</size>
@@ -4116,7 +4116,7 @@ Source:	Obojima: Tales from the Tall Grass p. 324 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Stul</name>
+    <name>Stul [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -4169,7 +4169,7 @@ Source:	Obojima: Tales from the Tall Grass p. 326 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Urugama</name>
+    <name>Urugama [TP Legacy]</name>
     <size>M</size>
     <type>spirit</type>
     <alignment>Neutral Evil</alignment>
@@ -4221,7 +4221,7 @@ Source:	Obojima: Tales from the Tall Grass p. 327 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Vespoma</name>
+    <name>Vespoma [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Chaotic Neutral</alignment>
@@ -4272,7 +4272,7 @@ Source:	Obojima: Tales from the Tall Grass p. 328 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Vile Corruption</name>
+    <name>Vile Corruption [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity (shapechanger)</type>
     <alignment>Chaotic Neutral</alignment>
@@ -4337,7 +4337,7 @@ Source:	Obojima: Tales from the Tall Grass p. 329 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Wandering Door</name>
+    <name>Wandering Door [TP Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Lawful Neutral</alignment>
@@ -4415,7 +4415,7 @@ Source:	Obojima: Tales from the Tall Grass p. 330 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Watchwood Tree</name>
+    <name>Watchwood Tree [TP Legacy]</name>
     <sortname>Tree, Watchwood</sortname>
     <ancestry>Tree</ancestry>
     <size>L</size>
@@ -4468,7 +4468,7 @@ Source:	Obojima: Tales from the Tall Grass p. 331 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Witch (Obojima)</name>
+    <name>Witch (Obojima) [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -4527,7 +4527,7 @@ Source:	Obojima: Tales from the Tall Grass p. 332 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Yokario</name>
+    <name>Yokario [TP Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (yokario)</type>
@@ -4574,7 +4574,7 @@ Source:	Obojima: Tales from the Tall Grass p. 333 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Emerson, The Witch's Cat</name>
+    <name>Emerson, The Witch's Cat [TP Legacy]</name>
     <ancestry>Lion</ancestry>
     <size>L</size>
     <type>beast</type>
@@ -4628,7 +4628,7 @@ Source:	Obojima: Tales from the Tall Grass p. 333 (Third Party)</description>
     <environment>mountain, grassland, hill, desert</environment>
   </monster>
   <monster>
-    <name>Giant Bora Bug</name>
+    <name>Giant Bora Bug [TP Legacy]</name>
     <sortname>Bora Bug, Giant</sortname>
     <ancestry>Bora Bug</ancestry>
     <size>M</size>
@@ -4677,7 +4677,7 @@ Source:	Obojima: Tales from the Tall Grass p. 349 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Pixie</name>
+    <name>Giant Pixie [TP Legacy]</name>
     <sortname>Pixie, Giant</sortname>
     <ancestry>Pixie</ancestry>
     <size>L</size>
@@ -4728,7 +4728,7 @@ Source:	Obojima: Tales from the Tall Grass p. 349 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Venus Fly Rat</name>
+    <name>Giant Venus Fly Rat [TP Legacy]</name>
     <sortname>Venus Fly Rat, Giant</sortname>
     <size>L</size>
     <type>beast</type>
@@ -4776,7 +4776,7 @@ Source:	Obojima: Tales from the Tall Grass p. 350 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Blowbelly Pufferfish</name>
+    <name>Blowbelly Pufferfish [TP Legacy]</name>
     <sortname>Pufferfish, Blowbelly</sortname>
     <ancestry>Pufferfish</ancestry>
     <size>S</size>
@@ -4829,7 +4829,7 @@ Source:	Obojima: Tales from the Tall Grass p. 359 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Senmo</name>
+    <name>Senmo [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Thri-Kreen (TP)</name>
+    <name>Thri-Kreen [TP]</name>
     <size>S</size>
     <speed>30</speed>
     <proficiency>History</proficiency>
@@ -55,7 +55,7 @@ Source:	Sewage Orc</text>
     </trait>
   </race>
   <item>
-    <name>Grythka (TP)</name>
+    <name>Grythka [TP]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>3</weight>
@@ -74,7 +74,7 @@ Proficiency: martial, grythka
 Source:	Sewage Orc</text>
   </item>
   <item>
-    <name>Chatkcha (TP)</name>
+    <name>Chatkcha [TP]</name>
     <detail>common</detail>
     <type>R</type>
     <weight>1</weight>

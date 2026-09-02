@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Jaw Breakers Hoopaks (Rare) (TP)</name>
+    <name>Jaw Breakers Hoopaks (Rare) [TP Legacy]</name>
     <detail>rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -40,7 +40,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 488,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Jaw Breakers Hoopaks (Very Rare) (TP)</name>
+    <name>Jaw Breakers Hoopaks (Very Rare) [TP Legacy]</name>
     <detail>very rare (optional attunement)</detail>
     <type>M</type>
     <magic>YES</magic>

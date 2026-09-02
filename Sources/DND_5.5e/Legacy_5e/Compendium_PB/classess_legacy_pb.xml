@@ -3,7 +3,7 @@
 	<!-- Classes -->
 		<!-- Artificer -->
 			<class>
-			      <name>Artificer (Legacy)</name>
+			      <name>Artificer [Legacy]</name>
 			      <hd>8</hd>
 			      <proficiency>Constitution, Intelligence, Arcana, History, Investigation, Medicine, Nature, Perception, Sleight of Hand</proficiency>
 			      <spellAbility>Intelligence</spellAbility>
@@ -861,7 +861,7 @@
 			  </class>
 		<!-- Barbarian -->
 			<class>
-			  <name>Barbarian (Legacy)</name>
+			  <name>Barbarian [Legacy]</name>
 			  <hd>12</hd>
 			  <proficiency>Strength, Constitution, Animal Handling, Athletics, Intimidation, Nature, Perception, Survival</proficiency>
 			  <spellAbility/>
@@ -1609,7 +1609,7 @@
 			</class>
 		<!-- Bard -->
 			<class>
-			  <name>Bard (Legacy)</name>
+			  <name>Bard [Legacy]</name>
 			  <hd>8</hd>
 			  <proficiency>Dexterity, Charisma, Acrobatics, Animal Handling, Arcana, Athletics, Deception, History, Insight, Intimidation, Investigation, Medicine, Nature, Perception, Performance, Persuasion, Religion, Sleight of Hand, Stealth, Survival</proficiency>
 			  <spellAbility>Charisma</spellAbility>
@@ -2314,7 +2314,7 @@
 			</class>
 		<!-- Blood Hunter -->
 			<class>
-			    <name>Blood Hunter (Legacy)</name>
+			    <name>Blood Hunter [Legacy]</name>
 			    <hd>10</hd>
 			    <proficiency>Dexterity, Intelligence, Athletics, Acrobatics, Arcana, History, Insight, Investigation, Religion, Survival</proficiency>
 			    <numSkills>3</numSkills>
@@ -3880,7 +3880,7 @@
 			</class>
 		<!-- Cleric -->
 			<class>
-			  <name>Cleric (Legacy)</name>
+			  <name>Cleric [Legacy]</name>
 			  <hd>8</hd>
 			  <proficiency>Wisdom, Charisma, History, Insight, Medicine, Persuasion, Religion</proficiency>
 			  <spellAbility>Wisdom</spellAbility>
@@ -4997,7 +4997,7 @@
 			</class>
 		<!-- Druid -->
 			<class>
-				  <name>Druid (Legacy)</name>
+				  <name>Druid [Legacy]</name>
 				  <hd>8</hd>
 				  <proficiency>Intelligence, Wisdom, Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, Survival</proficiency>
 				  <spellAbility>Wisdom</spellAbility>
@@ -5736,7 +5736,7 @@
 				</class>
 		<!-- Fighter -->
 			<class>
-			  <name>Fighter (Legacy)</name>
+			  <name>Fighter [Legacy]</name>
 			  <hd>10</hd>
 			  <proficiency>Strength, Constitution, Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, Survival</proficiency>
 			  <spellAbility>Intelligence</spellAbility>
@@ -7411,7 +7411,7 @@
 			</class>
 		<!-- Monk -->
 			<class>
-			  <name>Monk (Legacy)</name>
+			  <name>Monk [Legacy]</name>
 			  <hd>8</hd>
 			  <proficiency>Strength, Dexterity, Acrobatics, Athletics, History, Insight, Religion, Stealth</proficiency>
 			  <spellAbility>Wisdom</spellAbility>
@@ -8455,7 +8455,7 @@
 			</class>
 		<!-- Paladin -->
 			<class>
-			  <name>Paladin (Legacy)</name>
+			  <name>Paladin [Legacy]</name>
 			  <hd>10</hd>
 			  <proficiency>Wisdom, Charisma, Athletics, Insight, Intimidation, Medicine, Persuasion, Religion</proficiency>
 			  <spellAbility>Charisma</spellAbility>
@@ -9354,7 +9354,7 @@
 			</class>
 		<!-- Ranger -->
 			<class>
-			  <name>Ranger (Legacy)</name>
+			  <name>Ranger [Legacy]</name>
 			  <hd>10</hd>
 			  <proficiency>Strength, Dexterity, Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, Survival</proficiency>
 			  <spellAbility>Wisdom</spellAbility>
@@ -10431,7 +10431,7 @@
 			</class>
 		<!-- Rogue -->
 			<class>
-			  <name>Rogue (Legacy)</name>
+			  <name>Rogue [Legacy]</name>
 			  <hd>8</hd>
 			  <proficiency>Dexterity, Intelligence, Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, Stealth</proficiency>
 			  <spellAbility>Intelligence</spellAbility>
@@ -11307,7 +11307,7 @@
 			</class>
 		<!-- Sorcerer -->
 			<class>
-			  <name>Sorcerer (Legacy)</name>
+			  <name>Sorcerer [Legacy]</name>
 			  <hd>6</hd>
 			  <proficiency>Constitution, Charisma, Arcana, Deception, Insight, Intimidation, Persuasion, Religion</proficiency>
 			  <spellAbility>Charisma</spellAbility>
@@ -12351,7 +12351,7 @@
 			</class>
 		<!-- Warlock -->
 			<class>
-			  <name>Warlock (Legacy)</name>
+			  <name>Warlock [Legacy]</name>
 			  <hd>8</hd>
 			  <proficiency>Wisdom, Charisma, Arcana, Deception, History, Intimidation, Investigation, Nature, Religion</proficiency>
 			  <spellAbility>Charisma</spellAbility>
@@ -14370,7 +14370,7 @@
 			</class>
 		<!-- Wizard -->
 			<class>
-			  <name>Wizard (Legacy)</name>
+			  <name>Wizard [Legacy]</name>
 			  <hd>6</hd>
 			  <proficiency>Intelligence, Wisdom, Arcana, History, Insight, Investigation, Medicine, Religion</proficiency>
 			  <spellAbility>Intelligence</spellAbility>
@@ -15218,7 +15218,7 @@
 			</class>
 		<!-- Psion -->
 			<class>
-			  <name>Psion (Legacy)</name>
+			  <name>Psion [Legacy]</name>
 			  <hd>6</hd>
 			  <proficiency>Intelligence, Wisdom, Arcana, Deception, History, Insight, Investigation, Persuasion, Perception</proficiency>
 			  <spellAbility>Intelligence</spellAbility>

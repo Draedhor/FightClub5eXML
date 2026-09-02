@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Sorcerer (UA)</name>
+    <name>Sorcerer</name>
     <!-- Sorcerer Subclass: Defiled Sorcery (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -81,43 +81,43 @@ Source:	UA25-ApocalypticSubclasses p. 4</text>
     </autolevel>
   </class>
   <spell>
-    <name>Blindness/Deafness (UA)</name>
+    <name>Blindness/Deafness [UA]</name>
     <classes>Sorcerer (Defiled Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Inflict Wounds (UA)</name>
+    <name>Inflict Wounds [UA]</name>
     <classes>Sorcerer (Defiled Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Ray of Enfeeblement (UA)</name>
+    <name>Ray of Enfeeblement [UA]</name>
     <classes>Sorcerer (Defiled Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Ray of Sickness (UA)</name>
+    <name>Ray of Sickness [UA]</name>
     <classes>Sorcerer (Defiled Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Bestow Curse (UA)</name>
+    <name>Bestow Curse [UA]</name>
     <classes>Sorcerer (Defiled Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Vampiric Touch (UA)</name>
+    <name>Vampiric Touch [UA]</name>
     <classes>Sorcerer (Defiled Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Blight (UA)</name>
+    <name>Blight [UA]</name>
     <classes>Sorcerer (Defiled Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Hallucinatory Terrain (UA)</name>
+    <name>Hallucinatory Terrain [UA]</name>
     <classes>Sorcerer (Defiled Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Antilife Shell (UA)</name>
+    <name>Antilife Shell [UA]</name>
     <classes>Sorcerer (Defiled Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Contagion (UA)</name>
+    <name>Contagion [UA]</name>
     <classes>Sorcerer (Defiled Sorcery (UA))</classes>
   </spell>
 </compendium>

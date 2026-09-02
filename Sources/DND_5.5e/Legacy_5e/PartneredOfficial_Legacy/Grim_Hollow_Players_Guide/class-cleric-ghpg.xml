@@ -160,79 +160,79 @@ Source:	Grim Hollow: Player's Guide p. 47 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Tasha's Hideous Laughter</name>
+    <name>Tasha's Hideous Laughter [TP Legacy]</name>
     <classes>Cleric (Eldritch Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Sleep</name>
+    <name>Sleep [TP Legacy]</name>
     <classes>Cleric (Eldritch Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Detect Thoughts</name>
+    <name>Detect Thoughts [TP Legacy]</name>
     <classes>Cleric (Eldritch Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>See Invisibility</name>
+    <name>See Invisibility [TP Legacy]</name>
     <classes>Cleric (Eldritch Domain (Third Party)), Cleric (Inquisition Domain (Grim Hollow) (Third Party))</classes>
   </spell>
   <spell>
-    <name>Fear</name>
+    <name>Fear [TP Legacy]</name>
     <classes>Cleric (Eldritch Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Tongues</name>
+    <name>Tongues [TP Legacy]</name>
     <classes>Cleric (Eldritch Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Confusion</name>
+    <name>Confusion [TP Legacy]</name>
     <classes>Cleric (Eldritch Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Phantasmal Killer</name>
+    <name>Phantasmal Killer [TP Legacy]</name>
     <classes>Cleric (Eldritch Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Contact Other Plane</name>
+    <name>Contact Other Plane [TP Legacy]</name>
     <classes>Cleric (Eldritch Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Dream</name>
+    <name>Dream [TP Legacy]</name>
     <classes>Cleric (Eldritch Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Detect Magic</name>
+    <name>Detect Magic [TP Legacy]</name>
     <classes>Cleric (Inquisition Domain (Grim Hollow) (Third Party))</classes>
   </spell>
   <spell>
-    <name>Identify</name>
+    <name>Identify [TP Legacy]</name>
     <classes>Cleric (Inquisition Domain (Grim Hollow) (Third Party))</classes>
   </spell>
   <spell>
-    <name>Silence</name>
+    <name>Silence [TP Legacy]</name>
     <classes>Cleric (Inquisition Domain (Grim Hollow) (Third Party))</classes>
   </spell>
   <spell>
-    <name>Dispel Magic</name>
+    <name>Dispel Magic [TP Legacy]</name>
     <classes>Cleric (Inquisition Domain (Grim Hollow) (Third Party))</classes>
   </spell>
   <spell>
-    <name>Remove Curse</name>
+    <name>Remove Curse [TP Legacy]</name>
     <classes>Cleric (Inquisition Domain (Grim Hollow) (Third Party))</classes>
   </spell>
   <spell>
-    <name>Arcane Eye</name>
+    <name>Arcane Eye [TP Legacy]</name>
     <classes>Cleric (Inquisition Domain (Grim Hollow) (Third Party))</classes>
   </spell>
   <spell>
-    <name>Locate Creature</name>
+    <name>Locate Creature [TP Legacy]</name>
     <classes>Cleric (Inquisition Domain (Grim Hollow) (Third Party))</classes>
   </spell>
   <spell>
-    <name>Creation</name>
+    <name>Creation [TP Legacy]</name>
     <classes>Cleric (Inquisition Domain (Grim Hollow) (Third Party))</classes>
   </spell>
   <spell>
-    <name>Hallow</name>
+    <name>Hallow [TP Legacy]</name>
     <classes>Cleric (Inquisition Domain (Grim Hollow) (Third Party))</classes>
   </spell>
 </compendium>

@@ -89,43 +89,43 @@ Source:	The Griffon's Saddlebag: Book Two p. 213 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Goodberry</name>
+    <name>Goodberry [TP Legacy]</name>
     <classes>Cleric (Festus Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Purify Food and Drink</name>
+    <name>Purify Food and Drink [TP Legacy]</name>
     <classes>Cleric (Festus Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Heat Metal</name>
+    <name>Heat Metal [TP Legacy]</name>
     <classes>Cleric (Festus Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Protection from Poison</name>
+    <name>Protection from Poison [TP Legacy]</name>
     <classes>Cleric (Festus Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Create Food and Water</name>
+    <name>Create Food and Water [TP Legacy]</name>
     <classes>Cleric (Festus Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Stinking Cloud</name>
+    <name>Stinking Cloud [TP Legacy]</name>
     <classes>Cleric (Festus Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Blight</name>
+    <name>Blight [TP Legacy]</name>
     <classes>Cleric (Festus Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Control Water</name>
+    <name>Control Water [TP Legacy]</name>
     <classes>Cleric (Festus Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Cloudkill</name>
+    <name>Cloudkill [TP Legacy]</name>
     <classes>Cleric (Festus Domain (Third Party))</classes>
   </spell>
   <spell>
-    <name>Contagion</name>
+    <name>Contagion [TP Legacy]</name>
     <classes>Cleric (Festus Domain (Third Party))</classes>
   </spell>
 </compendium>

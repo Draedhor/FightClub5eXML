@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Adult Time Dragon</name>
+    <name>Adult Time Dragon [Legacy]</name>
     <sortname>Time Dragon, Adult</sortname>
     <ancestry>Time Dragon</ancestry>
     <size>H</size>
@@ -70,7 +70,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Ancient Time Dragon</name>
+    <name>Ancient Time Dragon [Legacy]</name>
     <sortname>Time Dragon, Ancient</sortname>
     <ancestry>Time Dragon</ancestry>
     <size>G</size>
@@ -149,7 +149,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Athar Null</name>
+    <name>Athar Null [Legacy]</name>
     <size>S</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -204,7 +204,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Aurumach Rilmani</name>
+    <name>Aurumach Rilmani [Legacy]</name>
     <size>L</size>
     <type>celestial</type>
     <alignment>typically neutral</alignment>
@@ -266,7 +266,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Avoral Guardinal</name>
+    <name>Avoral Guardinal [Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>typically neutral good</alignment>
@@ -321,7 +321,7 @@
     <spells>command, hold person</spells>
   </monster>
   <monster>
-    <name>Baernaloth</name>
+    <name>Baernaloth [Legacy]</name>
     <size>L</size>
     <type>fiend (yugoloth)</type>
     <alignment>typically neutral evil</alignment>
@@ -411,7 +411,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Bariaur Wanderer</name>
+    <name>Bariaur Wanderer [Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>typically chaotic good</alignment>
@@ -479,7 +479,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Bleak Cabal Void Soother</name>
+    <name>Bleak Cabal Void Soother [Legacy]</name>
     <size>S</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -539,7 +539,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Cranium Rat Squeaker</name>
+    <name>Cranium Rat Squeaker [Legacy]</name>
     <sortname>Cranium Rat, Squeaker</sortname>
     <ancestry>Cranium Rat</ancestry>
     <size>T</size>
@@ -591,7 +591,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Cranium Rat Squeaker Swarm</name>
+    <name>Cranium Rat Squeaker Swarm [Legacy]</name>
     <sortname>Cranium Rat, Squeaker Swarm</sortname>
     <ancestry>Cranium Rat</ancestry>
     <size>M</size>
@@ -658,7 +658,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Cuprilach Rilmani</name>
+    <name>Cuprilach Rilmani [Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>typically neutral</alignment>
@@ -721,7 +721,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Dabus</name>
+    <name>Dabus [Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>typically lawful neutral</alignment>
@@ -776,7 +776,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Darkweaver</name>
+    <name>Darkweaver [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>typically chaotic evil</alignment>
@@ -839,7 +839,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Decaton Modron</name>
+    <name>Decaton Modron [Legacy]</name>
     <sortname>Modron, Decaton</sortname>
     <ancestry>Modron</ancestry>
     <size>L</size>
@@ -908,7 +908,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Doomguard Doom Lord</name>
+    <name>Doomguard Doom Lord [Legacy]</name>
     <sortname>Doomguard, Doom Lord</sortname>
     <ancestry>Doomguard</ancestry>
     <size>S</size>
@@ -964,7 +964,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Doomguard Rot Blade</name>
+    <name>Doomguard Rot Blade [Legacy]</name>
     <sortname>Doomguard, Rot Blade</sortname>
     <ancestry>Doomguard</ancestry>
     <size>S</size>
@@ -1013,7 +1013,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Eater of Knowledge</name>
+    <name>Eater of Knowledge [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>typically neutral evil</alignment>
@@ -1075,7 +1075,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Equinal Guardinal</name>
+    <name>Equinal Guardinal [Legacy]</name>
     <size>L</size>
     <type>celestial</type>
     <alignment>typically neutral good</alignment>
@@ -1131,7 +1131,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Eyestalk of Gzemnid</name>
+    <name>Eyestalk of Gzemnid [Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>unaligned</alignment>
@@ -1182,7 +1182,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Farastu Demodand</name>
+    <name>Farastu Demodand [Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>typically neutral evil</alignment>
@@ -1254,7 +1254,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Fated Shaker</name>
+    <name>Fated Shaker [Legacy]</name>
     <size>S</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -1316,7 +1316,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Ferrumach Rilmani</name>
+    <name>Ferrumach Rilmani [Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>typically neutral</alignment>
@@ -1378,7 +1378,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Fraternity of Order Law Bender</name>
+    <name>Fraternity of Order Law Bender [Legacy]</name>
     <size>S</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -1439,7 +1439,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Githzerai Futurist</name>
+    <name>Githzerai Futurist [Legacy]</name>
     <sortname>Githzerai, Futurist</sortname>
     <ancestry>Githzerai</ancestry>
     <size>M</size>
@@ -1505,7 +1505,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Githzerai Traveler</name>
+    <name>Githzerai Traveler [Legacy]</name>
     <sortname>Githzerai, Traveler</sortname>
     <ancestry>Githzerai</ancestry>
     <size>M</size>
@@ -1571,7 +1571,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Githzerai Uniter</name>
+    <name>Githzerai Uniter [Legacy]</name>
     <sortname>Githzerai, Uniter</sortname>
     <ancestry>Githzerai</ancestry>
     <size>M</size>
@@ -1636,7 +1636,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Hands of Havoc Fire Starter</name>
+    <name>Hands of Havoc Fire Starter [Legacy]</name>
     <size>S</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -1685,7 +1685,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Harmonium Captain</name>
+    <name>Harmonium Captain [Legacy]</name>
     <sortname>Harmonium, Captain</sortname>
     <ancestry>Harmonium</ancestry>
     <size>S</size>
@@ -1742,7 +1742,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Harmonium Peacekeeper</name>
+    <name>Harmonium Peacekeeper [Legacy]</name>
     <sortname>Harmonium, Peacekeeper</sortname>
     <ancestry>Harmonium</ancestry>
     <size>S</size>
@@ -1786,7 +1786,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Heralds of Dust Remnant</name>
+    <name>Heralds of Dust Remnant [Legacy]</name>
     <size>S</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -1842,7 +1842,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Hexton Modron</name>
+    <name>Hexton Modron [Legacy]</name>
     <sortname>Modron, Hexton</sortname>
     <ancestry>Modron</ancestry>
     <size>H</size>
@@ -1927,7 +1927,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Hound Archon</name>
+    <name>Hound Archon [Legacy]</name>
     <sortname>Hound, Archon</sortname>
     <ancestry>Hound</ancestry>
     <size>M</size>
@@ -1995,7 +1995,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Kelubar Demodand</name>
+    <name>Kelubar Demodand [Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>typically neutral evil</alignment>
@@ -2070,7 +2070,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Kolyarut</name>
+    <name>Kolyarut [Legacy]</name>
     <size>M</size>
     <type>construct (inevitable)</type>
     <alignment>typically lawful neutral</alignment>
@@ -2144,7 +2144,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Lantern Archon</name>
+    <name>Lantern Archon [Legacy]</name>
     <sortname>Archon, Lantern</sortname>
     <ancestry>Archon</ancestry>
     <size>S</size>
@@ -2216,7 +2216,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Maelephant</name>
+    <name>Maelephant [Legacy]</name>
     <size>L</size>
     <type>fiend</type>
     <alignment>typically lawful evil</alignment>
@@ -2272,7 +2272,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Mercykiller Bloodhound</name>
+    <name>Mercykiller Bloodhound [Legacy]</name>
     <size>S</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -2323,7 +2323,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Mind's Eye Matter Smith</name>
+    <name>Mind's Eye Matter Smith [Legacy]</name>
     <size>S</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -2383,7 +2383,7 @@ The matter smith conjures a floating, spectral shield that grants the matter smi
     <environment/>
   </monster>
   <monster>
-    <name>Morte</name>
+    <name>Morte [Legacy]</name>
     <size>T</size>
     <type>undead</type>
     <alignment>chaotic good</alignment>
@@ -2416,7 +2416,7 @@ The matter smith conjures a floating, spectral shield that grants the matter smi
     <environment/>
   </monster>
   <monster>
-    <name>Musteval Guardinal</name>
+    <name>Musteval Guardinal [Legacy]</name>
     <size>S</size>
     <type>celestial</type>
     <alignment>typically neutral good</alignment>
@@ -2470,7 +2470,7 @@ The matter smith conjures a floating, spectral shield that grants the matter smi
     <environment/>
   </monster>
   <monster>
-    <name>Nonaton Modron</name>
+    <name>Nonaton Modron [Legacy]</name>
     <sortname>Modron, Nonaton</sortname>
     <ancestry>Modron</ancestry>
     <size>L</size>
@@ -2538,7 +2538,7 @@ The matter smith conjures a floating, spectral shield that grants the matter smi
     <environment/>
   </monster>
   <monster>
-    <name>Octon Modron</name>
+    <name>Octon Modron [Legacy]</name>
     <sortname>Modron, Octon</sortname>
     <ancestry>Modron</ancestry>
     <size>L</size>
@@ -2606,7 +2606,7 @@ The matter smith conjures a floating, spectral shield that grants the matter smi
     <environment/>
   </monster>
   <monster>
-    <name>Planar Incarnate</name>
+    <name>Planar Incarnate [Legacy]</name>
     <size>G</size>
     <type>celestial</type>
     <alignment>any alignment</alignment>
@@ -2677,7 +2677,7 @@ Blinded:
     <environment/>
   </monster>
   <monster>
-    <name>Razorvine Blight</name>
+    <name>Razorvine Blight [Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment>typically neutral evil</alignment>
@@ -2731,7 +2731,7 @@ Blinded:
     <environment/>
   </monster>
   <monster>
-    <name>Septon Modron</name>
+    <name>Septon Modron [Legacy]</name>
     <sortname>Modron, Septon</sortname>
     <ancestry>Modron</ancestry>
     <size>L</size>
@@ -2799,7 +2799,7 @@ Blinded:
     <environment/>
   </monster>
   <monster>
-    <name>Shator Demodand</name>
+    <name>Shator Demodand [Legacy]</name>
     <size>L</size>
     <type>fiend</type>
     <alignment>typically neutral evil</alignment>
@@ -2884,7 +2884,7 @@ Blinded:
     <environment/>
   </monster>
   <monster>
-    <name>Shemeshka</name>
+    <name>Shemeshka [Legacy]</name>
     <size>M</size>
     <type>fiend (yugoloth)</type>
     <alignment>neutral evil</alignment>
@@ -2966,7 +2966,7 @@ Blinded:
     <environment/>
   </monster>
   <monster>
-    <name>Society of Sensation Muse</name>
+    <name>Society of Sensation Muse [Legacy]</name>
     <size>S</size>
     <type>humanoid</type>
     <alignment>any alignment</alignment>
@@ -3022,7 +3022,7 @@ Blinded:
     <environment/>
   </monster>
   <monster>
-    <name>Sunfly</name>
+    <name>Sunfly [Legacy]</name>
     <size>T</size>
     <type>celestial</type>
     <alignment>typically chaotic good</alignment>
@@ -3070,7 +3070,7 @@ Lower Plane. The target's speed is reduced by 5 feet until the end of its next t
     <environment/>
   </monster>
   <monster>
-    <name>Swarm of Sunflies</name>
+    <name>Swarm of Sunflies [Legacy]</name>
     <sortname>Sunflies, Swarm</sortname>
     <ancestry>Sunflies</ancestry>
     <size>M</size>
@@ -3128,7 +3128,7 @@ Lower Plane. The target's speed is reduced by 10 feet until the end of its next 
     <environment/>
   </monster>
   <monster>
-    <name>Time Dragon Wyrmling</name>
+    <name>Time Dragon Wyrmling [Legacy]</name>
     <sortname>Time Dragon, Wyrmling</sortname>
     <ancestry>Time Dragon</ancestry>
     <size>M</size>
@@ -3176,7 +3176,7 @@ Lower Plane. The target's speed is reduced by 10 feet until the end of its next 
     <environment/>
   </monster>
   <monster>
-    <name>Transcendent Order Conduit</name>
+    <name>Transcendent Order Conduit [Legacy]</name>
     <sortname>Transcendent Order, Conduit</sortname>
     <ancestry>Transcendent</ancestry>
     <size>S</size>
@@ -3243,7 +3243,7 @@ Push. The target is pushed up to 10 feet horizontally away from the conduit.</te
     <environment/>
   </monster>
   <monster>
-    <name>Transcendent Order Instinct</name>
+    <name>Transcendent Order Instinct [Legacy]</name>
     <sortname>Transcendent Order, Instinct</sortname>
     <ancestry>Transcendent Order</ancestry>
     <size>S</size>
@@ -3298,7 +3298,7 @@ Push. The target is pushed up to 10 feet horizontally away from the conduit.</te
     <environment/>
   </monster>
   <monster>
-    <name>Vargouille Reflection</name>
+    <name>Vargouille Reflection [Legacy]</name>
     <size>T</size>
     <type>fiend</type>
     <alignment>typically chaotic evil</alignment>
@@ -3349,7 +3349,7 @@ Push. The target is pushed up to 10 feet horizontally away from the conduit.</te
     <environment/>
   </monster>
   <monster>
-    <name>Warden Archon</name>
+    <name>Warden Archon [Legacy]</name>
     <sortname>Archon, Warden</sortname>
     <ancestry>Archon</ancestry>
     <size>L</size>
@@ -3418,7 +3418,7 @@ Push. The target is pushed up to 10 feet horizontally away from the conduit.</te
     <environment/>
   </monster>
   <monster>
-    <name>Young Time Dragon</name>
+    <name>Young Time Dragon [Legacy]</name>
     <sortname>Time Dragon, Young</sortname>
     <ancestry>Time Dragon</ancestry>
     <size>L</size>

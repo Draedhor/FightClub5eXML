@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Anchorite of Talos</name>
+    <name>Anchorite of Talos [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (half-orc, shapechanger)</type>
@@ -54,7 +54,7 @@ Source:	Essentials Kit: Dragon of Icespire Peak p. 51,
     <environment/>
   </monster>
   <monster>
-    <name>Don-Jon Raskin</name>
+    <name>Don-Jon Raskin [Legacy]</name>
     <sortname>Raskin, Don-Jon</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -108,7 +108,7 @@ Source:	Essentials Kit: Dragon of Icespire Peak p. 56</description>
     <environment/>
   </monster>
   <monster>
-    <name>Falcon the Hunter</name>
+    <name>Falcon the Hunter [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -160,7 +160,7 @@ Source:	Essentials Kit: Dragon of Icespire Peak p. 56</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gorthok the Thunder Boar</name>
+    <name>Gorthok the Thunder Boar [Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -214,7 +214,7 @@ Source:	Essentials Kit: Dragon of Icespire Peak p. 58</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rock Gnome Recluse</name>
+    <name>Rock Gnome Recluse [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (gnome)</type>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Galley</name>
+    <name>Galley [Legacy]</name>
     <size>G</size>
     <type>vehicle (130 ft. × 20 ft.)</type>
     <alignment>Unaligned</alignment>
@@ -114,7 +114,7 @@ Source:	Ghosts of Saltmarsh p. 187</description>
     <environment/>
   </monster>
   <monster>
-    <name>Keelboat</name>
+    <name>Keelboat [Legacy]</name>
     <size>G</size>
     <type>vehicle (60 ft. × 20 ft.)</type>
     <alignment>Unaligned</alignment>
@@ -200,7 +200,7 @@ Source:	Ghosts of Saltmarsh p. 188</description>
     <environment/>
   </monster>
   <monster>
-    <name>Longship</name>
+    <name>Longship [Legacy]</name>
     <size>G</size>
     <type>vehicle (70 ft. × 20 ft.)</type>
     <alignment>Unaligned</alignment>
@@ -272,7 +272,7 @@ Source:	Ghosts of Saltmarsh p. 190</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rowboat</name>
+    <name>Rowboat [Legacy]</name>
     <size>L</size>
     <type>vehicle (10 ft. × 5 ft.)</type>
     <alignment>Unaligned</alignment>
@@ -320,7 +320,7 @@ Source:	Ghosts of Saltmarsh p. 190</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sailing Ship</name>
+    <name>Sailing Ship [Legacy]</name>
     <size>G</size>
     <type>vehicle (100 ft. × 20 ft.)</type>
     <alignment>Unaligned</alignment>
@@ -450,7 +450,7 @@ Source:	Ghosts of Saltmarsh p. 192</description>
     <environment/>
   </monster>
   <monster>
-    <name>Warship</name>
+    <name>Warship [Legacy]</name>
     <size>G</size>
     <type>vehicle (100 ft. × 20 ft.)</type>
     <alignment>Unaligned</alignment>

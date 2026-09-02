@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Alchemist (TP)</name>
+    <name>Alchemist [TP]</name>
     <hd>8</hd>
     <proficiency>Constitution, Intelligence, Arcana, Investigation, Medicine, Nature, Perception, Sleight of Hand, Survival</proficiency>
     <numSkills>3</numSkills>

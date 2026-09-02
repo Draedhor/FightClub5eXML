@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Cleric (UA)</name>
+    <name>Cleric</name>
     <!-- Cleric Subclass: Grave Domain (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -89,47 +89,47 @@ Source:	UA2024-Horror Subclasses p. 5</text>
     </autolevel>
   </class>
   <spell>
-    <name>Bane (UA)</name>
+    <name>Bane [UA]</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Chill Touch (UA)</name>
+    <name>Chill Touch [UA]</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Detect Evil and Good (UA)</name>
+    <name>Detect Evil and Good [UA]</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Gentle Repose (UA)</name>
+    <name>Gentle Repose [UA]</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Ray of Enfeeblement (UA)</name>
+    <name>Ray of Enfeeblement [UA]</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Revivify (UA)</name>
+    <name>Revivify [UA]</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Vampiric Touch (UA)</name>
+    <name>Vampiric Touch [UA]</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Blight (UA)</name>
+    <name>Blight [UA]</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Dispel Evil and Good (UA)</name>
+    <name>Dispel Evil and Good [UA]</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Hold Monster (UA)</name>
+    <name>Hold Monster [UA]</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
   <spell>
-    <name>Raise Dead (UA)</name>
+    <name>Raise Dead [UA]</name>
     <classes>Cleric (Grave Domain (UA))</classes>
   </spell>
 </compendium>

@@ -91,39 +91,39 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 157 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Chill Touch (TP)</name>
+    <name>Chill Touch [TP]</name>
     <classes>Druid (Circle of Contamination (HB))</classes>
   </spell>
   <spell>
-    <name>Biohazard (TP)</name>
+    <name>Biohazard [TP]</name>
     <classes>Druid (Circle of Contamination (HB))</classes>
   </spell>
   <spell>
-    <name>Controlled Mutation (TP)</name>
+    <name>Controlled Mutation [TP]</name>
     <classes>Druid (Circle of Contamination (HB))</classes>
   </spell>
   <spell>
-    <name>Purge Contamination (TP)</name>
+    <name>Purge Contamination [TP]</name>
     <classes>Druid (Circle of Contamination (HB))</classes>
   </spell>
   <spell>
-    <name>Venomous Aura (TP)</name>
+    <name>Venomous Aura [TP]</name>
     <classes>Druid (Circle of Contamination (HB))</classes>
   </spell>
   <spell>
-    <name>Horrific Transformation (TP)</name>
+    <name>Horrific Transformation [TP]</name>
     <classes>Druid (Circle of Contamination (HB))</classes>
   </spell>
   <spell>
-    <name>Poison Wave (TP)</name>
+    <name>Poison Wave [TP]</name>
     <classes>Druid (Circle of Contamination (HB))</classes>
   </spell>
   <spell>
-    <name>Acid Rain (TP)</name>
+    <name>Acid Rain [TP]</name>
     <classes>Druid (Circle of Contamination (HB))</classes>
   </spell>
   <spell>
-    <name>Toxic Barrage (TP)</name>
+    <name>Toxic Barrage [TP]</name>
     <classes>Druid (Circle of Contamination (HB))</classes>
   </spell>
 </compendium>

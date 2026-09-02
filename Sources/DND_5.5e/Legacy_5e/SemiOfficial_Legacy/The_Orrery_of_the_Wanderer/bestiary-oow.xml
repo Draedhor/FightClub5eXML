@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Clockwork Behir</name>
+    <name>Clockwork Behir [TP Legacy]</name>
     <sortname>Clockwork, Behir</sortname>
     <ancestry>Clockwork</ancestry>
     <size>H</size>
@@ -56,7 +56,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Dagdra Deepforge</name>
+    <name>Dagdra Deepforge [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (dwarf)</type>
@@ -113,7 +113,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
     <environment/>
   </monster>
   <monster>
-    <name>Devil Dog</name>
+    <name>Devil Dog [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (tiefling)</type>
@@ -162,7 +162,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
     <environment/>
   </monster>
   <monster>
-    <name>Enormous Tentacle</name>
+    <name>Enormous Tentacle [TP Legacy]</name>
     <sortname>Enormous, Tentacle</sortname>
     <ancestry>Enormous</ancestry>
     <size>H</size>
@@ -203,7 +203,7 @@ Until this grapple ends, the creature is restrained, and the tentacle can't cons
     <environment>underwater, underdark, forest, swamp, desert</environment>
   </monster>
   <monster>
-    <name>Gildha Duhn</name>
+    <name>Gildha Duhn [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (half-orc)</type>
@@ -253,7 +253,7 @@ Until this grapple ends, the creature is restrained, and the tentacle can't cons
     <environment/>
   </monster>
   <monster>
-    <name>Grunka</name>
+    <name>Grunka [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (goblinoid)</type>
@@ -302,7 +302,7 @@ Until this grapple ends, the creature is restrained, and the tentacle can't cons
     <environment>underdark, grassland, forest, hill, desert</environment>
   </monster>
   <monster>
-    <name>Jelayne</name>
+    <name>Jelayne [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Lawful Evil</alignment>
@@ -339,7 +339,7 @@ Until this grapple ends, the creature is restrained, and the tentacle can't cons
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Mechachimera</name>
+    <name>Mechachimera [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -391,7 +391,7 @@ Until this grapple ends, the creature is restrained, and the tentacle can't cons
     <environment>underdark, mountain, grassland, hill</environment>
   </monster>
   <monster>
-    <name>Onyx</name>
+    <name>Onyx [TP Legacy]</name>
     <size>H</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -437,7 +437,7 @@ Source:	The Orrery of the Wanderer p. 186</description>
     <environment/>
   </monster>
   <monster>
-    <name>Replica Duodrone</name>
+    <name>Replica Duodrone [TP Legacy]</name>
     <sortname>Duodrone, Replica</sortname>
     <ancestry>Duodrone</ancestry>
     <size>M</size>
@@ -494,7 +494,7 @@ A rogue modron loses the Axiomatic Mind trait and can have any alignment other t
     <environment/>
   </monster>
   <monster>
-    <name>Replica Monodrone</name>
+    <name>Replica Monodrone [TP Legacy]</name>
     <sortname>Monodrone, Replica</sortname>
     <ancestry>Monodrone</ancestry>
     <size>M</size>
@@ -547,7 +547,7 @@ A rogue modron loses the Axiomatic Mind trait and can have any alignment other t
     <environment/>
   </monster>
   <monster>
-    <name>Replica Pentadrone</name>
+    <name>Replica Pentadrone [TP Legacy]</name>
     <sortname>Pentadrone, Replica</sortname>
     <ancestry>Pentadrone</ancestry>
     <size>L</size>
@@ -604,7 +604,7 @@ A rogue modron loses the Axiomatic Mind trait and can have any alignment other t
     <environment/>
   </monster>
   <monster>
-    <name>Replica Quadrone</name>
+    <name>Replica Quadrone [TP Legacy]</name>
     <sortname>Quadrone, Replica</sortname>
     <ancestry>Quadrone</ancestry>
     <size>M</size>
@@ -661,7 +661,7 @@ A rogue modron loses the Axiomatic Mind trait and can have any alignment other t
     <environment/>
   </monster>
   <monster>
-    <name>Replica Tridrone</name>
+    <name>Replica Tridrone [TP Legacy]</name>
     <sortname>Tridrone, Replica</sortname>
     <ancestry>Tridrone</ancestry>
     <size>M</size>
@@ -718,7 +718,7 @@ A rogue modron loses the Axiomatic Mind trait and can have any alignment other t
     <environment/>
   </monster>
   <monster>
-    <name>Stomping Foot</name>
+    <name>Stomping Foot [TP Legacy]</name>
     <size>T</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -754,7 +754,7 @@ A rogue modron loses the Axiomatic Mind trait and can have any alignment other t
     <environment/>
   </monster>
   <monster>
-    <name>Two Dry Cloaks</name>
+    <name>Two Dry Cloaks [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (tabaxi)</type>
     <alignment>Any alignment</alignment>
@@ -813,7 +813,7 @@ A rogue modron loses the Axiomatic Mind trait and can have any alignment other t
     <environment/>
   </monster>
   <monster>
-    <name>Undead Cockatrice</name>
+    <name>Undead Cockatrice [TP Legacy]</name>
     <sortname>Cockatrice, Undead</sortname>
     <ancestry>Cockatrice</ancestry>
     <size>S</size>

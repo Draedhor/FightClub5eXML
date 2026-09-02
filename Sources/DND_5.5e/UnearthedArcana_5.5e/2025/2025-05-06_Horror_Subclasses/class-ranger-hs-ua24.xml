@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Ranger (UA)</name>
+    <name>Ranger</name>
     <!-- Ranger Subclass: Hollow Warden (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -72,23 +72,23 @@ Source:	UA2024-Horror Subclasses p. 6</text>
     </autolevel>
   </class>
   <spell>
-    <name>Wrathful Smite (UA)</name>
+    <name>Wrathful Smite [UA]</name>
     <classes>Ranger (Hollow Warden (UA))</classes>
   </spell>
   <spell>
-    <name>Spike Growth (UA)</name>
+    <name>Spike Growth [UA]</name>
     <classes>Ranger (Hollow Warden (UA))</classes>
   </spell>
   <spell>
-    <name>Phantom Steed (UA)</name>
+    <name>Phantom Steed [UA]</name>
     <classes>Ranger (Hollow Warden (UA))</classes>
   </spell>
   <spell>
-    <name>Hallucinatory Terrain (UA)</name>
+    <name>Hallucinatory Terrain [UA]</name>
     <classes>Ranger (Hollow Warden (UA))</classes>
   </spell>
   <spell>
-    <name>Awaken (UA)</name>
+    <name>Awaken [UA]</name>
     <classes>Ranger (Hollow Warden (UA))</classes>
   </spell>
 </compendium>

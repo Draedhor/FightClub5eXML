@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Arboreal Curse</name>
+    <name>Arboreal Curse [TP Legacy]</name>
     <level>7</level>
     <school>T</school>
     <time>1 action</time>
@@ -30,7 +30,7 @@ Petrified:
 Source:	Grim Hollow: Lairs of Etharis</text>
   </spell>
   <spell>
-    <name>Consume Mind</name>
+    <name>Consume Mind [TP Legacy]</name>
     <level>4</level>
     <school>N</school>
     <time>1 action</time>
@@ -45,7 +45,7 @@ Source:	Grim Hollow: Lairs of Etharis</text>
 Source:	Grim Hollow: Lairs of Etharis</text>
   </spell>
   <spell>
-    <name>Heartseeker</name>
+    <name>Heartseeker [TP Legacy]</name>
     <level>6</level>
     <school>EV</school>
     <time>1 action</time>
@@ -60,7 +60,7 @@ Source:	Grim Hollow: Lairs of Etharis</text>
 Source:	Grim Hollow: Lairs of Etharis</text>
   </spell>
   <spell>
-    <name>Huntersense</name>
+    <name>Huntersense [TP Legacy]</name>
     <level>0</level>
     <school>D</school>
     <time>1 action</time>
@@ -73,7 +73,7 @@ Source:	Grim Hollow: Lairs of Etharis</text>
 Source:	Grim Hollow: Lairs of Etharis</text>
   </spell>
   <spell>
-    <name>Magic Mirror</name>
+    <name>Magic Mirror [TP Legacy]</name>
     <level>5</level>
     <school>A</school>
     <time>1 reaction, which you take when you are targeted by a spell</time>
@@ -86,7 +86,7 @@ Source:	Grim Hollow: Lairs of Etharis</text>
 Source:	Grim Hollow: Lairs of Etharis</text>
   </spell>
   <spell>
-    <name>Suffocate</name>
+    <name>Suffocate [TP Legacy]</name>
     <level>3</level>
     <school>C</school>
     <time>1 action</time>
@@ -101,7 +101,7 @@ Source:	Grim Hollow: Lairs of Etharis</text>
 Source:	Grim Hollow: Lairs of Etharis</text>
   </spell>
   <spell>
-    <name>Wrack</name>
+    <name>Wrack [TP Legacy]</name>
     <level>2</level>
     <school>N</school>
     <time>1 action</time>

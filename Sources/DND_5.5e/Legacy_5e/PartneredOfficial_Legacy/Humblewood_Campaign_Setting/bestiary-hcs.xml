@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Ardwyn, Elder of Meadowfen</name>
+    <name>Ardwyn, Elder of Meadowfen [TP Legacy]</name>
     <ancestry>Priest</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -71,7 +71,7 @@ Source:	Humblewood Campaign Setting p. 190 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ashsnake</name>
+    <name>Ashsnake [TP Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -146,7 +146,7 @@ Source:	Humblewood Campaign Setting p. 177 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Aspect of Fire</name>
+    <name>Aspect of Fire [TP Legacy]</name>
     <sortname>Aspect, of Fire</sortname>
     <ancestry>Aspect</ancestry>
     <size>G</size>
@@ -252,7 +252,7 @@ Source:	Humblewood Campaign Setting p. 179 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Birdfolk Skeleton</name>
+    <name>Birdfolk Skeleton [TP Legacy]</name>
     <sortname>Skeleton, Birdfolk</sortname>
     <ancestry>Skeleton</ancestry>
     <size>M</size>
@@ -304,7 +304,7 @@ Source:	Humblewood Campaign Setting p. 180 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cobblefright</name>
+    <name>Cobblefright [TP Legacy]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -367,7 +367,7 @@ Source:	Humblewood Campaign Setting p. 180 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Emberbat</name>
+    <name>Emberbat [TP Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -428,7 +428,7 @@ Source:	Humblewood Campaign Setting p. 182 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Swarm of Emberbats</name>
+    <name>Swarm of Emberbats [TP Legacy]</name>
     <sortname>Emberbat, Swarm</sortname>
     <ancestry>Emberbat</ancestry>
     <size>M</size>
@@ -494,7 +494,7 @@ Source:	Humblewood Campaign Setting p. 182 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Forest Prowler</name>
+    <name>Forest Prowler [TP Legacy]</name>
     <sortname>Prowler, Forest</sortname>
     <ancestry>Prowler</ancestry>
     <size>L</size>
@@ -558,7 +558,7 @@ Source:	Humblewood Campaign Setting p. 183 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lesser Demon</name>
+    <name>Lesser Demon [TP Legacy]</name>
     <sortname>Demon, Lesser</sortname>
     <ancestry>Demon</ancestry>
     <size>S</size>
@@ -611,7 +611,7 @@ Source:	Humblewood Campaign Setting p. 184 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mountain Lion</name>
+    <name>Mountain Lion [TP Legacy]</name>
     <sortname>Lion, Mountain</sortname>
     <ancestry>Lion</ancestry>
     <size>L</size>
@@ -678,7 +678,7 @@ Source:	Humblewood Campaign Setting p. 184 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Caustic Slime</name>
+    <name>Caustic Slime [TP Legacy]</name>
     <sortname>Slime, Caustic</sortname>
     <ancestry>Slime</ancestry>
     <size>M</size>
@@ -750,7 +750,7 @@ Source:	Humblewood Campaign Setting p. 186 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Shifting Slime</name>
+    <name>Shifting Slime [TP Legacy]</name>
     <sortname>Slime, Shifting</sortname>
     <ancestry>Slime</ancestry>
     <size>L</size>
@@ -843,7 +843,7 @@ Source:	Humblewood Campaign Setting p. 187 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sticky Slime</name>
+    <name>Sticky Slime [TP Legacy]</name>
     <sortname>Slime, Sticky</sortname>
     <ancestry>Slime</ancestry>
     <size>M</size>
@@ -908,7 +908,7 @@ Source:	Humblewood Campaign Setting p. 188 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Wakewyrm</name>
+    <name>Wakewyrm [TP Legacy]</name>
     <size>H</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -972,7 +972,7 @@ Source:	Humblewood Campaign Setting p. 187 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Birdfolk Dockmaster</name>
+    <name>Birdfolk Dockmaster [TP Legacy]</name>
     <sortname>Birdfolk, Dockmaster</sortname>
     <ancestry>Birdfolk</ancestry>
     <npc>YES</npc>
@@ -1035,7 +1035,7 @@ Source:	Humblewood Campaign Setting p. 190 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Birdfolk Farmer</name>
+    <name>Birdfolk Farmer [TP Legacy]</name>
     <sortname>Birdfolk, Farmer</sortname>
     <ancestry>Birdfolk</ancestry>
     <npc>YES</npc>
@@ -1080,7 +1080,7 @@ Source:	Humblewood Campaign Setting p. 190 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Birdfolk Guard</name>
+    <name>Birdfolk Guard [TP Legacy]</name>
     <sortname>Birdfolk, Guard</sortname>
     <ancestry>Birdfolk</ancestry>
     <npc>YES</npc>
@@ -1126,7 +1126,7 @@ Source:	Humblewood Campaign Setting p. 191 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Birdfolk Militia</name>
+    <name>Birdfolk Militia [TP Legacy]</name>
     <sortname>Birdfolk, Militia</sortname>
     <ancestry>Birdfolk</ancestry>
     <npc>YES</npc>
@@ -1171,7 +1171,7 @@ Source:	Humblewood Campaign Setting p. 191 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Birdfolk Sailor</name>
+    <name>Birdfolk Sailor [TP Legacy]</name>
     <sortname>Birdfolk, Sailor</sortname>
     <ancestry>Birdfolk</ancestry>
     <npc>YES</npc>
@@ -1224,7 +1224,7 @@ Source:	Humblewood Campaign Setting p. 191 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Birdfolk Skirmisher</name>
+    <name>Birdfolk Skirmisher [TP Legacy]</name>
     <sortname>Birdfolk, Skirmisher</sortname>
     <ancestry>Birdfolk</ancestry>
     <npc>YES</npc>
@@ -1275,7 +1275,7 @@ Source:	Humblewood Campaign Setting p. 191 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cevan Bandit General</name>
+    <name>Cevan Bandit General [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (cervan)</type>
@@ -1333,7 +1333,7 @@ Source:	Humblewood Campaign Setting p. 193 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Benna Seridan</name>
+    <name>Benna Seridan [TP Legacy]</name>
     <sortname>Seridan, Benna</sortname>
     <ancestry>Cevan Bandit General</ancestry>
     <npc>YES</npc>
@@ -1399,7 +1399,7 @@ Source:	Humblewood Campaign Setting p. 193 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bita, the Council Speaker</name>
+    <name>Bita, the Council Speaker [TP Legacy]</name>
     <ancestry>Noble</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -1457,7 +1457,7 @@ Source:	Humblewood Campaign Setting p. 193 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cara Stormsinger</name>
+    <name>Cara Stormsinger [TP Legacy]</name>
     <sortname>Stormsinger, Cara</sortname>
     <ancestry>Birdfolk Militia</ancestry>
     <npc>YES</npc>
@@ -1519,7 +1519,7 @@ Source:	Humblewood Campaign Setting p. 191 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cervan Bandit General</name>
+    <name>Cervan Bandit General [TP Legacy]</name>
     <sortname>Bandit General, Cervan</sortname>
     <ancestry>Bandit General</ancestry>
     <npc>YES</npc>
@@ -1583,7 +1583,7 @@ Source:	Humblewood Campaign Setting p. 193 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cervan Priest</name>
+    <name>Cervan Priest [TP Legacy]</name>
     <sortname>Priest, Cervan</sortname>
     <ancestry>Priest</ancestry>
     <npc>YES</npc>
@@ -1650,7 +1650,7 @@ Source:	Humblewood Campaign Setting p. 193 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Corvum Assassin</name>
+    <name>Corvum Assassin [TP Legacy]</name>
     <sortname>Assassin, Corvum</sortname>
     <ancestry>Assassin</ancestry>
     <npc>YES</npc>
@@ -1726,7 +1726,7 @@ Source:	Humblewood Campaign Setting p. 194 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Corvum Diviner</name>
+    <name>Corvum Diviner [TP Legacy]</name>
     <sortname>Diviner, Corvum</sortname>
     <ancestry>Diviner</ancestry>
     <npc>YES</npc>
@@ -1792,7 +1792,7 @@ Source:	Humblewood Campaign Setting p. 194 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Corvax Revayne</name>
+    <name>Corvax Revayne [TP Legacy]</name>
     <sortname>Revayne, Corvax</sortname>
     <ancestry>Corvum Diviner</ancestry>
     <npc>YES</npc>
@@ -1859,7 +1859,7 @@ Source:	Humblewood Campaign Setting p. 194 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Corvum Necromancer</name>
+    <name>Corvum Necromancer [TP Legacy]</name>
     <sortname>Necromancer, Corvum</sortname>
     <ancestry>Necromancer</ancestry>
     <npc>YES</npc>
@@ -1936,7 +1936,7 @@ Source:	Humblewood Campaign Setting p. 194 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Odwald Ebonhart</name>
+    <name>Odwald Ebonhart [TP Legacy]</name>
     <sortname>Ebonhart, Odwald</sortname>
     <ancestry>Corvum Necromancer</ancestry>
     <npc>YES</npc>
@@ -2016,7 +2016,7 @@ Source:	Humblewood Campaign Setting p. 194 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Eliza Pennygleam</name>
+    <name>Eliza Pennygleam [TP Legacy]</name>
     <sortname>Pennygleam, Eliza</sortname>
     <ancestry>Commoner</ancestry>
     <npc>YES</npc>
@@ -2058,7 +2058,7 @@ Source:	Humblewood Campaign Setting p. 196 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Figory Figgins</name>
+    <name>Figory Figgins [TP Legacy]</name>
     <sortname>Figgins, Figory</sortname>
     <ancestry>Commoner</ancestry>
     <npc>YES</npc>
@@ -2108,7 +2108,7 @@ Source:	Humblewood Campaign Setting p. 196 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gallus Druid</name>
+    <name>Gallus Druid [TP Legacy]</name>
     <sortname>Druid, Gallus</sortname>
     <ancestry>Druid</ancestry>
     <npc>YES</npc>
@@ -2187,7 +2187,7 @@ Source:	Humblewood Campaign Setting p. 196 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gallus Monk</name>
+    <name>Gallus Monk [TP Legacy]</name>
     <sortname>Monk, Gallus</sortname>
     <ancestry>Monk</ancestry>
     <npc>YES</npc>
@@ -2258,7 +2258,7 @@ Source:	Humblewood Campaign Setting p. 196 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gallus Necromancer</name>
+    <name>Gallus Necromancer [TP Legacy]</name>
     <sortname>Necromancer, Gallus</sortname>
     <ancestry>Necromancer</ancestry>
     <npc>YES</npc>
@@ -2325,7 +2325,7 @@ Source:	Humblewood Campaign Setting p. 198 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Glinda Nightseed</name>
+    <name>Glinda Nightseed [TP Legacy]</name>
     <sortname>Nightseed, Glinda</sortname>
     <ancestry>Gallus Necromancer</ancestry>
     <npc>YES</npc>
@@ -2392,7 +2392,7 @@ Source:	Humblewood Campaign Setting p. 198 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gregor Thornspur, Magistrate of Alderheart</name>
+    <name>Gregor Thornspur, Magistrate of Alderheart [TP Legacy]</name>
     <sortname>Thornspur, Gregor</sortname>
     <ancestry>Noble</ancestry>
     <npc>YES</npc>
@@ -2459,7 +2459,7 @@ Source:	Humblewood Campaign Setting p. 198 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hedge Bard</name>
+    <name>Hedge Bard [TP Legacy]</name>
     <sortname>Bard, Hedge</sortname>
     <ancestry>Bard</ancestry>
     <npc>YES</npc>
@@ -2529,7 +2529,7 @@ Source:	Humblewood Campaign Setting p. 198 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hedge Witch</name>
+    <name>Hedge Witch [TP Legacy]</name>
     <sortname>Witch, Hedge</sortname>
     <ancestry>Witch</ancestry>
     <npc>YES</npc>
@@ -2601,7 +2601,7 @@ Source:	Humblewood Campaign Setting p. 198 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Susan of the Swamp</name>
+    <name>Susan of the Swamp [TP Legacy]</name>
     <ancestry>Hedge Witch</ancestry>
     <npc>YES</npc>
     <size>S</size>
@@ -2673,7 +2673,7 @@ Source:	Humblewood Campaign Setting p. 198 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jerbeen Thief</name>
+    <name>Jerbeen Thief [TP Legacy]</name>
     <sortname>Thief, Jerbeen</sortname>
     <ancestry>Thief</ancestry>
     <npc>YES</npc>
@@ -2730,7 +2730,7 @@ Source:	Humblewood Campaign Setting p. 200 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jerbeen Swashbuckler</name>
+    <name>Jerbeen Swashbuckler [TP Legacy]</name>
     <sortname>Swashbuckler, Jerbeen</sortname>
     <ancestry>Swashbuckler</ancestry>
     <npc>YES</npc>
@@ -2797,7 +2797,7 @@ Source:	Humblewood Campaign Setting p. 200 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jell Platena</name>
+    <name>Jell Platena [TP Legacy]</name>
     <sortname>Platena, Jell</sortname>
     <ancestry>Commoner</ancestry>
     <npc>YES</npc>
@@ -2850,7 +2850,7 @@ Source:	Humblewood Campaign Setting p. 199 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kenna Brightspark</name>
+    <name>Kenna Brightspark [TP Legacy]</name>
     <sortname>Brightspark, Kenna</sortname>
     <ancestry>Commoner</ancestry>
     <npc>YES</npc>
@@ -2913,7 +2913,7 @@ Source:	Humblewood Campaign Setting p. 200 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Luma Cleric of Ardea</name>
+    <name>Luma Cleric of Ardea [TP Legacy]</name>
     <sortname>Cleric, Luma of Ardea</sortname>
     <ancestry>Cleric</ancestry>
     <npc>YES</npc>
@@ -2991,7 +2991,7 @@ Source:	Humblewood Campaign Setting p. 201 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Luma Wizard</name>
+    <name>Luma Wizard [TP Legacy]</name>
     <sortname>Wizard, Luma</sortname>
     <ancestry>Wizard</ancestry>
     <npc>YES</npc>
@@ -3069,7 +3069,7 @@ Source:	Humblewood Campaign Setting p. 202 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gabe Windsworth</name>
+    <name>Gabe Windsworth [TP Legacy]</name>
     <sortname>Windsworth, Gabe</sortname>
     <ancestry>Luma Wizard</ancestry>
     <npc>YES</npc>
@@ -3147,7 +3147,7 @@ Source:	Humblewood Campaign Setting p. 202 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mapach Bandit</name>
+    <name>Mapach Bandit [TP Legacy]</name>
     <sortname>Bandit, Mapach</sortname>
     <ancestry>Bandit</ancestry>
     <npc>YES</npc>
@@ -3201,7 +3201,7 @@ Source:	Humblewood Campaign Setting p. 202 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mapach Brute</name>
+    <name>Mapach Brute [TP Legacy]</name>
     <sortname>Brute, Mapach</sortname>
     <ancestry>Brute</ancestry>
     <npc>YES</npc>
@@ -3263,7 +3263,7 @@ Source:	Humblewood Campaign Setting p. 202 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Krall, the Scavenger King</name>
+    <name>Krall, the Scavenger King [TP Legacy]</name>
     <ancestry>Mapach Brute</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -3328,7 +3328,7 @@ Source:	Humblewood Campaign Setting p. 202 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mapach Tinkerer</name>
+    <name>Mapach Tinkerer [TP Legacy]</name>
     <sortname>Tinkerer, Mapach</sortname>
     <ancestry>Tinkerer</ancestry>
     <npc>YES</npc>
@@ -3391,7 +3391,7 @@ Source:	Humblewood Campaign Setting p. 203 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mordane Swiftgale</name>
+    <name>Mordane Swiftgale [TP Legacy]</name>
     <sortname>Swiftgale, Mordane</sortname>
     <ancestry>Commoner</ancestry>
     <npc>YES</npc>
@@ -3446,7 +3446,7 @@ Source:	Humblewood Campaign Setting p. 203 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Oakheart</name>
+    <name>Oakheart [TP Legacy]</name>
     <size>H</size>
     <type>plant</type>
     <alignment>Chaotic Good</alignment>
@@ -3506,7 +3506,7 @@ Source:	Humblewood Campaign Setting p. 203 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Raptor Explorer</name>
+    <name>Raptor Explorer [TP Legacy]</name>
     <sortname>Raptor, Explorer</sortname>
     <ancestry>Raptor</ancestry>
     <npc>YES</npc>
@@ -3581,7 +3581,7 @@ Source:	Humblewood Campaign Setting p. 203 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Raptor Ranger</name>
+    <name>Raptor Ranger [TP Legacy]</name>
     <sortname>Raptor, Ranger</sortname>
     <ancestry>Raptor</ancestry>
     <npc>YES</npc>
@@ -3673,7 +3673,7 @@ Source:	Humblewood Campaign Setting p. 203 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rhys Birchwalker</name>
+    <name>Rhys Birchwalker [TP Legacy]</name>
     <sortname>Birchwalker, Rhys</sortname>
     <ancestry>Commoner</ancestry>
     <npc>YES</npc>
@@ -3732,7 +3732,7 @@ Source:	Humblewood Campaign Setting p. 203 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Strig Knight</name>
+    <name>Strig Knight [TP Legacy]</name>
     <sortname>Knight, Strig</sortname>
     <ancestry>Knight</ancestry>
     <npc>YES</npc>
@@ -3801,7 +3801,7 @@ Source:	Humblewood Campaign Setting p. 204 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Riffin, the Ash-Knight</name>
+    <name>Riffin, the Ash-Knight [TP Legacy]</name>
     <ancestry>Strig Knight</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -3869,7 +3869,7 @@ Source:	Humblewood Campaign Setting p. 204 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Strig Tracker</name>
+    <name>Strig Tracker [TP Legacy]</name>
     <sortname>Strig, Tracker</sortname>
     <ancestry>Strig</ancestry>
     <npc>YES</npc>
@@ -3949,7 +3949,7 @@ Source:	Humblewood Campaign Setting p. 206 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Havel of the Autumn Moon</name>
+    <name>Havel of the Autumn Moon [TP Legacy]</name>
     <sortname>Autumn Moon, Havel of the</sortname>
     <ancestry>Noble</ancestry>
     <npc>YES</npc>
@@ -4008,7 +4008,7 @@ Source:	Humblewood Campaign Setting p. 207 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tevor of the Spring Path</name>
+    <name>Tevor of the Spring Path [TP Legacy]</name>
     <sortname>Spring Path, Tevor of the</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -4076,7 +4076,7 @@ Source:	Humblewood Campaign Setting p. 207 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Vulpin Captain</name>
+    <name>Vulpin Captain [TP Legacy]</name>
     <sortname>Captain, Vulpin</sortname>
     <ancestry>Captain</ancestry>
     <npc>YES</npc>
@@ -4139,7 +4139,7 @@ Source:	Humblewood Campaign Setting p. 207 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fray Merridan</name>
+    <name>Fray Merridan [TP Legacy]</name>
     <sortname>Merridan, Fray</sortname>
     <ancestry>Vulpin Captain</ancestry>
     <npc>YES</npc>
@@ -4203,7 +4203,7 @@ Source:	Humblewood Campaign Setting p. 207 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Vulpin Noble</name>
+    <name>Vulpin Noble [TP Legacy]</name>
     <sortname>Noble, Vulpin</sortname>
     <ancestry>Noble</ancestry>
     <npc>YES</npc>
@@ -4257,7 +4257,7 @@ Source:	Humblewood Campaign Setting p. 207 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Vulpin Priest of Kren</name>
+    <name>Vulpin Priest of Kren [TP Legacy]</name>
     <sortname>Priest of Kren, Vulpin</sortname>
     <ancestry>Priest</ancestry>
     <npc>YES</npc>
@@ -4326,7 +4326,7 @@ Source:	Humblewood Campaign Setting p. 207 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Shyla Denn</name>
+    <name>Shyla Denn [TP Legacy]</name>
     <sortname>Denn, Shyla</sortname>
     <ancestry>Vulpin Priest of Kren</ancestry>
     <npc>YES</npc>
@@ -4395,7 +4395,7 @@ Source:	Humblewood Campaign Setting p. 207 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Walden Krane, Magistrate of Winnowing Reach</name>
+    <name>Walden Krane, Magistrate of Winnowing Reach [TP Legacy]</name>
     <sortname>Krane, Walden</sortname>
     <ancestry>Noble</ancestry>
     <npc>YES</npc>

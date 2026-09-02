@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Adult Amonkhet Dragon</name>
+    <name>Adult Amonkhet Dragon [TP Legacy]</name>
     <sortname>Amonkhet Dragon, Adult</sortname>
     <ancestry>Amonkhet Dragon</ancestry>
     <size>H</size>
@@ -103,7 +103,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment>mountain, hill</environment>
   </monster>
   <monster>
-    <name>Ammit</name>
+    <name>Ammit [TP Legacy]</name>
     <size>H</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -150,7 +150,7 @@ Until this grapple ends, the target is restrained, and the ammit can't bite anot
     <environment>swamp</environment>
   </monster>
   <monster>
-    <name>Amonkhet Dragon Wyrmling</name>
+    <name>Amonkhet Dragon Wyrmling [TP Legacy]</name>
     <sortname>Amonkhet Dragon, Wyrmling</sortname>
     <ancestry>Amonkhet Dragon</ancestry>
     <size>M</size>
@@ -190,7 +190,7 @@ Until this grapple ends, the target is restrained, and the ammit can't bite anot
     <environment/>
   </monster>
   <monster>
-    <name>Amonkhet Hydra</name>
+    <name>Amonkhet Hydra [TP Legacy]</name>
     <sortname>Hydra, Amonkhet</sortname>
     <ancestry>Hydra</ancestry>
     <size>H</size>
@@ -249,7 +249,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
     <environment>swamp</environment>
   </monster>
   <monster>
-    <name>Amonkhet Sphinx</name>
+    <name>Amonkhet Sphinx [TP Legacy]</name>
     <sortname>Sphinx, Amonkhet</sortname>
     <ancestry>Sphinx</ancestry>
     <size>L</size>
@@ -350,7 +350,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Ancient Amonkhet Dragon</name>
+    <name>Ancient Amonkhet Dragon [TP Legacy]</name>
     <sortname>Amonkhet Dragon, Ancient</sortname>
     <ancestry>Amonkhet Dragon</ancestry>
     <size>G</size>
@@ -452,7 +452,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment>mountain, hill</environment>
   </monster>
   <monster>
-    <name>Angel of Amonkhet</name>
+    <name>Angel of Amonkhet [TP Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>Lawful Good</alignment>
@@ -517,7 +517,7 @@ In a new form, the angel retains its game statistics and ability to speak, but i
     <environment/>
   </monster>
   <monster>
-    <name>Anointed</name>
+    <name>Anointed [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -553,7 +553,7 @@ In a new form, the angel retains its game statistics and ability to speak, but i
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Archfiend of Ifnir</name>
+    <name>Archfiend of Ifnir [TP Legacy]</name>
     <size>L</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -607,7 +607,7 @@ In a new form, the angel retains its game statistics and ability to speak, but i
     <environment/>
   </monster>
   <monster>
-    <name>Cerodon</name>
+    <name>Cerodon [TP Legacy]</name>
     <size>H</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -652,7 +652,7 @@ In a new form, the angel retains its game statistics and ability to speak, but i
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Criosphinx</name>
+    <name>Criosphinx [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral</alignment>
@@ -714,7 +714,7 @@ In a new form, the angel retains its game statistics and ability to speak, but i
     <environment/>
   </monster>
   <monster>
-    <name>Eternal</name>
+    <name>Eternal [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -765,7 +765,7 @@ In a new form, the angel retains its game statistics and ability to speak, but i
     <environment>underdark, swamp, urban, desert</environment>
   </monster>
   <monster>
-    <name>Giant River Serpent</name>
+    <name>Giant River Serpent [TP Legacy]</name>
     <sortname>River Serpent, Giant</sortname>
     <ancestry>River Serpent</ancestry>
     <size>H</size>
@@ -814,7 +814,7 @@ If the serpent takes 30 damage or more on a single turn from the swallowed creat
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Hippopotamus</name>
+    <name>Hippopotamus [TP Legacy]</name>
     <size>H</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -859,7 +859,7 @@ If the serpent takes 30 damage or more on a single turn from the swallowed creat
     <environment>grassland</environment>
   </monster>
   <monster>
-    <name>Large Drake</name>
+    <name>Large Drake [TP Legacy]</name>
     <sortname>Drake, Large</sortname>
     <ancestry>Drake</ancestry>
     <size>L</size>
@@ -906,7 +906,7 @@ If the serpent takes 30 damage or more on a single turn from the swallowed creat
     <environment>mountain, grassland, hill, coastal</environment>
   </monster>
   <monster>
-    <name>Manticore, Heart-Piercer</name>
+    <name>Manticore, Heart-Piercer [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -953,7 +953,7 @@ If the serpent takes 30 damage or more on a single turn from the swallowed creat
     <environment/>
   </monster>
   <monster>
-    <name>Mindful Marauder</name>
+    <name>Mindful Marauder [TP Legacy]</name>
     <sortname>Marauder, Mindful</sortname>
     <ancestry>Marauder</ancestry>
     <size>M</size>
@@ -1066,7 +1066,7 @@ If the mummy lord is destroyed, these regional effects end immediately.</text>
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Mindless Marauder</name>
+    <name>Mindless Marauder [TP Legacy]</name>
     <sortname>Marauder, Mindless</sortname>
     <ancestry>Marauder</ancestry>
     <size>M</size>
@@ -1108,7 +1108,7 @@ If the mummy lord is destroyed, these regional effects end immediately.</text>
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>River Serpent</name>
+    <name>River Serpent [TP Legacy]</name>
     <size>H</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -1147,7 +1147,7 @@ Until this grapple ends, the creature is restrained, and the serpent can't const
     <environment>underwater, underdark, forest, swamp, desert</environment>
   </monster>
   <monster>
-    <name>Sandwurm</name>
+    <name>Sandwurm [TP Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -1195,7 +1195,7 @@ Until this grapple ends, the creature is restrained, and the serpent can't const
     <environment>underdark, desert</environment>
   </monster>
   <monster>
-    <name>Serpopard</name>
+    <name>Serpopard [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -1236,7 +1236,7 @@ Until this grapple ends, the creature is restrained, and the serpent can't const
     <environment/>
   </monster>
   <monster>
-    <name>Small Drake</name>
+    <name>Small Drake [TP Legacy]</name>
     <sortname>Drake, Small</sortname>
     <ancestry>Drake</ancestry>
     <size>M</size>
@@ -1274,7 +1274,7 @@ Until this grapple ends, the creature is restrained, and the serpent can't const
     <environment>mountain, grassland, coastal</environment>
   </monster>
   <monster>
-    <name>Soulstinger Demon</name>
+    <name>Soulstinger Demon [TP Legacy]</name>
     <sortname>Demon, Soulstinger</sortname>
     <ancestry>Demon</ancestry>
     <size>L</size>
@@ -1327,7 +1327,7 @@ The target can repeat the saving throw at the end of each of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Young Amonkhet Dragon</name>
+    <name>Young Amonkhet Dragon [TP Legacy]</name>
     <sortname>Amonkhet Dragon, Young</sortname>
     <ancestry>Amonkhet Dragon</ancestry>
     <size>L</size>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Animated Tile Chimera</name>
+    <name>Animated Tile Chimera [Legacy]</name>
     <ancestry>Chimera, Animated Object</ancestry>
     <size>L</size>
     <type>monstrosity</type>
@@ -62,7 +62,7 @@
     <environment>underdark, mountain, grassland, hill</environment>
   </monster>
   <monster>
-    <name>Aquatic Troll</name>
+    <name>Aquatic Troll [Legacy]</name>
     <sortname>Troll, Aquatic</sortname>
     <ancestry>Troll</ancestry>
     <size>L</size>
@@ -139,7 +139,7 @@ The troll's speed is halved if it's missing a leg. If it loses both legs, it fal
     <environment>underdark, mountain, forest, swamp, hill, arctic</environment>
   </monster>
   <monster>
-    <name>Carnivorous Flower</name>
+    <name>Carnivorous Flower [Legacy]</name>
     <sortname>Flower, Carnivorous</sortname>
     <ancestry>Flower</ancestry>
     <size>L</size>
@@ -191,7 +191,7 @@ The troll's speed is halved if it's missing a leg. If it loses both legs, it fal
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Diderius</name>
+    <name>Diderius [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>undead</type>
@@ -303,7 +303,7 @@ If the mummy lord is destroyed, these regional effects end immediately.</text>
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Dragonfang</name>
+    <name>Dragonfang [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -363,7 +363,7 @@ If the mummy lord is destroyed, these regional effects end immediately.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Dragonsoul</name>
+    <name>Dragonsoul [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -423,7 +423,7 @@ If the mummy lord is destroyed, these regional effects end immediately.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Galvan</name>
+    <name>Galvan [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -503,7 +503,7 @@ If the mummy lord is destroyed, these regional effects end immediately.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Half-Blue Dragon Gladiator</name>
+    <name>Half-Blue Dragon Gladiator [Legacy]</name>
     <sortname>Half-Blue Dragon, Gladiator</sortname>
     <ancestry>Half-Blue Dragon, Gladiator</ancestry>
     <size>M</size>
@@ -565,7 +565,7 @@ If the mummy lord is destroyed, these regional effects end immediately.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Half-Green Dragon Assassin</name>
+    <name>Half-Green Dragon Assassin [Legacy]</name>
     <sortname>Half-Green Dragon, Assassin</sortname>
     <ancestry>Half-Green Dragon, Assassin</ancestry>
     <size>M</size>
@@ -629,7 +629,7 @@ If the mummy lord is destroyed, these regional effects end immediately.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Half-Red Dragon Gladiator</name>
+    <name>Half-Red Dragon Gladiator [Legacy]</name>
     <sortname>Half-Red Dragon, Gladiator</sortname>
     <ancestry>Half-Red Dragon, Gladiator</ancestry>
     <npc>YES</npc>
@@ -691,7 +691,7 @@ If the mummy lord is destroyed, these regional effects end immediately.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Ice Toad</name>
+    <name>Ice Toad [Legacy]</name>
     <sortname>Toad, Ice</sortname>
     <ancestry>Toad</ancestry>
     <size>M</size>
@@ -744,7 +744,7 @@ Source:	Rise of Tiamat p. 90,
     <environment/>
   </monster>
   <monster>
-    <name>Ice Troll (Variant)</name>
+    <name>Ice Troll (Variant) [Legacy]</name>
     <sortname>Troll, Ice (Variant)</sortname>
     <ancestry>Troll</ancestry>
     <size>L</size>
@@ -816,7 +816,7 @@ The troll's speed is halved if it's missing a leg. If it loses both legs, it fal
     <environment>underdark, mountain, forest, swamp, hill, arctic</environment>
   </monster>
   <monster>
-    <name>Iskander</name>
+    <name>Iskander [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -870,7 +870,7 @@ The troll's speed is halved if it's missing a leg. If it loses both legs, it fal
     <environment/>
   </monster>
   <monster>
-    <name>Maccath the Crimson</name>
+    <name>Maccath the Crimson [Legacy]</name>
     <sortname>Crimson, Maccath the</sortname>
     <ancestry>Crimson</ancestry>
     <npc>YES</npc>
@@ -933,7 +933,7 @@ The troll's speed is halved if it's missing a leg. If it loses both legs, it fal
     <environment/>
   </monster>
   <monster>
-    <name>Marfulb</name>
+    <name>Marfulb [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Neutral</alignment>
@@ -977,7 +977,7 @@ The troll's speed is halved if it's missing a leg. If it loses both legs, it fal
     <environment/>
   </monster>
   <monster>
-    <name>Mend-nets</name>
+    <name>Mend-nets [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -1014,7 +1014,7 @@ The troll's speed is halved if it's missing a leg. If it loses both legs, it fal
     <environment/>
   </monster>
   <monster>
-    <name>Naergoth Bladelord</name>
+    <name>Naergoth Bladelord [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>undead</type>
@@ -1066,7 +1066,7 @@ The troll's speed is halved if it's missing a leg. If it loses both legs, it fal
     <environment/>
   </monster>
   <monster>
-    <name>Neronvain</name>
+    <name>Neronvain [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf)</type>
@@ -1122,7 +1122,7 @@ The troll's speed is halved if it's missing a leg. If it loses both legs, it fal
     <environment/>
   </monster>
   <monster>
-    <name>Paper Whirlwind</name>
+    <name>Paper Whirlwind [Legacy]</name>
     <size>M</size>
     <type>swarm of medium beasts</type>
     <alignment>Unaligned</alignment>
@@ -1158,7 +1158,7 @@ The troll's speed is halved if it's missing a leg. If it loses both legs, it fal
     <environment>forest, swamp, hill, urban</environment>
   </monster>
   <monster>
-    <name>Red Wizard</name>
+    <name>Red Wizard [Legacy]</name>
     <sortname>Wizard, Red</sortname>
     <ancestry>Wizard</ancestry>
     <npc>YES</npc>
@@ -1210,7 +1210,7 @@ The troll's speed is halved if it's missing a leg. If it loses both legs, it fal
     <environment/>
   </monster>
   <monster>
-    <name>Severin</name>
+    <name>Severin [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -1292,7 +1292,7 @@ The troll's speed is halved if it's missing a leg. If it loses both legs, it fal
     <environment/>
   </monster>
   <monster>
-    <name>Sled Dog</name>
+    <name>Sled Dog [Legacy]</name>
     <sortname>Dog, Sled</sortname>
     <ancestry>Dog</ancestry>
     <size>M</size>
@@ -1334,7 +1334,7 @@ The troll's speed is halved if it's missing a leg. If it loses both legs, it fal
     <environment>grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Snake Horror</name>
+    <name>Snake Horror [Legacy]</name>
     <sortname>Horror, Snake</sortname>
     <ancestry>Horror, Snake</ancestry>
     <size>M</size>
@@ -1381,7 +1381,7 @@ The troll's speed is halved if it's missing a leg. If it loses both legs, it fal
     <environment/>
   </monster>
   <monster>
-    <name>Tiamat</name>
+    <name>Tiamat [Legacy]</name>
     <size>G</size>
     <type>fiend</type>
     <alignment>Chaotic Evil</alignment>
@@ -1492,7 +1492,7 @@ The troll's speed is halved if it's missing a leg. If it loses both legs, it fal
     <environment/>
   </monster>
   <monster>
-    <name>Varram</name>
+    <name>Varram [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (dwarf)</type>

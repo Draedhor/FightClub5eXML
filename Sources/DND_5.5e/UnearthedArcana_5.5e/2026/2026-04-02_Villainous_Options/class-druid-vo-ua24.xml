@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Druid (UA)</name>
+    <name>Druid</name>
     <!-- Druid Subclass: Circle of the Titan (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -82,7 +82,7 @@ Source:	Villainous Options p. 3 (Unearthed Arcana)</text>
     </autolevel>
   </class>
   <monster>
-    <name>Behemoth (UA)</name>
+    <name>Behemoth [UA]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Your alignment doesn't change</alignment>
@@ -153,7 +153,7 @@ Source:	Villainous Options p. 3 (Unearthed Arcana)</text>
     <environment/>
   </monster>
   <monster>
-    <name>Leviathan (UA)</name>
+    <name>Leviathan [UA]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Your alignment doesn't change</alignment>
@@ -223,7 +223,7 @@ Source:	Villainous Options p. 3 (Unearthed Arcana)</text>
     <environment/>
   </monster>
   <monster>
-    <name>Insectoid (UA)</name>
+    <name>Insectoid [UA]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Your alignment doesn't change</alignment>
@@ -293,27 +293,27 @@ Source:	Villainous Options p. 3 (Unearthed Arcana)</text>
     <environment/>
   </monster>
   <spell>
-    <name>Cure Wounds (UA)</name>
+    <name>Cure Wounds [UA]</name>
     <classes>Druid (Circle of the Titan (UA))</classes>
   </spell>
   <spell>
-    <name>Longstrider (UA)</name>
+    <name>Longstrider [UA]</name>
     <classes>Druid (Circle of the Titan (UA))</classes>
   </spell>
   <spell>
-    <name>Thaumaturgy (UA)</name>
+    <name>Thaumaturgy [UA]</name>
     <classes>Druid (Circle of the Titan (UA))</classes>
   </spell>
   <spell>
-    <name>Fear (UA)</name>
+    <name>Fear [UA]</name>
     <classes>Druid (Circle of the Titan (UA))</classes>
   </spell>
   <spell>
-    <name>Stoneskin (UA)</name>
+    <name>Stoneskin [UA]</name>
     <classes>Druid (Circle of the Titan (UA))</classes>
   </spell>
   <spell>
-    <name>Destructive Wave (UA)</name>
+    <name>Destructive Wave [UA]</name>
     <classes>Druid (Circle of the Titan (UA))</classes>
   </spell>
 </compendium>

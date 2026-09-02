@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Android</name>
+    <name>Android [Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>typically lawful neutral</alignment>
@@ -60,7 +60,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Barkburr</name>
+    <name>Barkburr [Legacy]</name>
     <size>S</size>
     <type>plant</type>
     <alignment>unaligned</alignment>
@@ -115,7 +115,7 @@ An attached barkburr can detach itself by spending 5 feet of its movement on its
     <environment/>
   </monster>
   <monster>
-    <name>Champion of Gorm</name>
+    <name>Champion of Gorm [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -171,7 +171,7 @@ An attached barkburr can detach itself by spending 5 feet of its movement on its
     <environment/>
   </monster>
   <monster>
-    <name>Champion of Madarua</name>
+    <name>Champion of Madarua [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -222,7 +222,7 @@ An attached barkburr can detach itself by spending 5 feet of its movement on its
     <environment/>
   </monster>
   <monster>
-    <name>Champion of Usamigaras</name>
+    <name>Champion of Usamigaras [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -277,7 +277,7 @@ An attached barkburr can detach itself by spending 5 feet of its movement on its
     <environment/>
   </monster>
   <monster>
-    <name>Combat Robot</name>
+    <name>Combat Robot [Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>typically lawful neutral</alignment>
@@ -344,7 +344,7 @@ An attached barkburr can detach itself by spending 5 feet of its movement on its
     <environment/>
   </monster>
   <monster>
-    <name>Derro Apprentice</name>
+    <name>Derro Apprentice [Legacy]</name>
     <size>S</size>
     <type>aberration</type>
     <alignment>typically chaotic evil</alignment>
@@ -401,7 +401,7 @@ An attached barkburr can detach itself by spending 5 feet of its movement on its
     <environment/>
   </monster>
   <monster>
-    <name>Derro Raider</name>
+    <name>Derro Raider [Legacy]</name>
     <size>S</size>
     <type>aberration</type>
     <alignment>typically chaotic evil</alignment>
@@ -450,7 +450,7 @@ An attached barkburr can detach itself by spending 5 feet of its movement on its
     <environment/>
   </monster>
   <monster>
-    <name>Froghemoth Elder</name>
+    <name>Froghemoth Elder [Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>unaligned</alignment>
@@ -527,7 +527,7 @@ The froghemoth's gullet can hold up to three creatures at a time. If the froghem
     <environment/>
   </monster>
   <monster>
-    <name>Gibberling</name>
+    <name>Gibberling [Legacy]</name>
     <size>S</size>
     <type>fiend (demon)</type>
     <alignment>typically chaotic evil</alignment>
@@ -571,7 +571,7 @@ The froghemoth's gullet can hold up to three creatures at a time. If the froghem
     <environment/>
   </monster>
   <monster>
-    <name>Guardian of Gorm</name>
+    <name>Guardian of Gorm [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -618,7 +618,7 @@ The froghemoth's gullet can hold up to three creatures at a time. If the froghem
     <environment/>
   </monster>
   <monster>
-    <name>Horrid Plant</name>
+    <name>Horrid Plant [Legacy]</name>
     <size>L</size>
     <type>plant</type>
     <alignment>unaligned</alignment>
@@ -678,7 +678,7 @@ The froghemoth's gullet can hold up to three creatures at a time. If the froghem
     <environment/>
   </monster>
   <monster>
-    <name>Leprechaun</name>
+    <name>Leprechaun [Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>typically neutral</alignment>
@@ -749,7 +749,7 @@ The froghemoth's gullet can hold up to three creatures at a time. If the froghem
     <environment/>
   </monster>
   <monster>
-    <name>Mage of Usamigaras</name>
+    <name>Mage of Usamigaras [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -794,7 +794,7 @@ The froghemoth's gullet can hold up to three creatures at a time. If the froghem
     <environment/>
   </monster>
   <monster>
-    <name>Maschin-I-Bozorg</name>
+    <name>Maschin-I-Bozorg [Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>unaligned</alignment>
@@ -849,7 +849,7 @@ If the maschin-i-bozorg remains in the prone creature's space, the creature also
     <environment/>
   </monster>
   <monster>
-    <name>Memory Web</name>
+    <name>Memory Web [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>typically neutral evil</alignment>
@@ -903,7 +903,7 @@ While memory drained, the target must roll a d4 each time it makes an ability ch
     <environment/>
   </monster>
   <monster>
-    <name>Pech</name>
+    <name>Pech [Legacy]</name>
     <size>S</size>
     <type>elemental</type>
     <alignment>typically neutral good</alignment>
@@ -964,7 +964,7 @@ While memory drained, the target must roll a d4 each time it makes an ability ch
     <environment/>
   </monster>
   <monster>
-    <name>Swarm of Gibberlings</name>
+    <name>Swarm of Gibberlings [Legacy]</name>
     <size>L</size>
     <type>fiend</type>
     <alignment>typically chaotic evil</alignment>
@@ -1017,7 +1017,7 @@ While memory drained, the target must roll a d4 each time it makes an ability ch
     <environment/>
   </monster>
   <monster>
-    <name>Tower Hand</name>
+    <name>Tower Hand [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -1071,7 +1071,7 @@ While memory drained, the target must roll a d4 each time it makes an ability ch
     <environment/>
   </monster>
   <monster>
-    <name>Tower Sage</name>
+    <name>Tower Sage [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -1125,7 +1125,7 @@ While memory drained, the target must roll a d4 each time it makes an ability ch
     <environment/>
   </monster>
   <monster>
-    <name>Vegepygmy Moldmaker</name>
+    <name>Vegepygmy Moldmaker [Legacy]</name>
     <size>S</size>
     <type>plant</type>
     <alignment>typically neutral</alignment>
@@ -1180,7 +1180,7 @@ The target can repeat the saving throw at the end of each of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Vegepygmy Scavenger</name>
+    <name>Vegepygmy Scavenger [Legacy]</name>
     <size>S</size>
     <type>plant</type>
     <alignment>typically neutral</alignment>
@@ -1233,7 +1233,7 @@ The target can repeat the saving throw at the end of each of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Vegepygmy Thorny Hunter</name>
+    <name>Vegepygmy Thorny Hunter [Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment>unaligned</alignment>
@@ -1285,7 +1285,7 @@ The target can repeat the saving throw at the end of each of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Warrior of Madarua</name>
+    <name>Warrior of Madarua [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -1327,7 +1327,7 @@ The target can repeat the saving throw at the end of each of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Wolf-in-Sheep's-Clothing</name>
+    <name>Wolf-in-Sheep's-Clothing [Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment>unaligned</alignment>
@@ -1381,7 +1381,7 @@ The target can repeat the saving throw at the end of each of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Worker Robot</name>
+    <name>Worker Robot [Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>typically neutral</alignment>

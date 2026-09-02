@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Half-Elf: Aquatic Elf (Legacy)</name>
+    <name>Half-Elf: Aquatic Elf [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +2</ability>
@@ -61,7 +61,7 @@ A half-elf of aquatic elf ancestry can select this feature in place of Skill Ver
     </trait>
   </race>
   <race>
-    <name>Half-Elf: Drow Elf (Legacy)</name>
+    <name>Half-Elf: Drow Elf [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +2</ability>
@@ -121,7 +121,7 @@ A half-elf of dark elf ancestry can select this feature in place of Skill Versat
     </trait>
   </race>
   <race>
-    <name>Half-Elf: High Elf (Legacy)</name>
+    <name>Half-Elf: High Elf [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +2</ability>
@@ -189,7 +189,7 @@ A half-elf of high elf ancestry can select this feature in place of Skill Versat
     </trait>
   </race>
   <race>
-    <name>Half-Elf: Wood Elf (Legacy)</name>
+    <name>Half-Elf: Wood Elf [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +2</ability>
@@ -261,7 +261,7 @@ A half-elf of wood elf ancestry can select this feature in place of Skill Versat
     </trait>
   </race>
   <race>
-    <name>Halfling: Ghostwise (Legacy)</name>
+    <name>Halfling: Ghostwise [Legacy]</name>
     <size>S</size>
     <speed>25</speed>
     <ability>Dex +2, Wis +1</ability>
@@ -317,7 +317,7 @@ Weight in pounds = 35 + your size modifie</text>
     </trait>
   </race>
   <race>
-    <name>Tiefling Variants (Legacy)</name>
+    <name>Tiefling Variants [Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex +2, Int +1</ability>

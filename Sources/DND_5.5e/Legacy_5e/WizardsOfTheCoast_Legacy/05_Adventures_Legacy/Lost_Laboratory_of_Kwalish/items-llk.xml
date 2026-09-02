@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Trinket (Barrier Peaks)</name>
+    <name>Trinket (Barrier Peaks) [Legacy]</name>
     <type>G</type>
     <text>At any point while the characters are searching through unusual equipment or detritus in the Monastery of the Distressed Body or the city of Daoine Gloine, roll on the following table to determine what they find. Each character finds one Barrier Peaks trinket over the course of the adventure.
 
@@ -62,7 +62,7 @@ Source:	Lost Laboratory of Kwalish p. 7</text>
     <roll description="Trinket">1d100</roll>
   </item>
   <item>
-    <name>Deck of Several Things</name>
+    <name>Deck of Several Things [Legacy]</name>
     <detail>legendary</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -147,7 +147,7 @@ Source:	Lost Laboratory of Kwalish p. 53</text>
     <roll description="Moon">1d3</roll>
   </item>
   <item>
-    <name>Enchanted Three-Dragon Ante Set</name>
+    <name>Enchanted Three-Dragon Ante Set [Legacy]</name>
     <detail>gaming set</detail>
     <type>G</type>
     <value>1.0</value>
@@ -173,7 +173,7 @@ Gain insight into an opponnent's personality | 15
 Source:	Lost Laboratory of Kwalish p. 15</text>
   </item>
   <item>
-    <name>Galder's Bubble Pipe</name>
+    <name>Galder's Bubble Pipe [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -186,7 +186,7 @@ Source:	Lost Laboratory of Kwalish p. 15</text>
 Source:	Lost Laboratory of Kwalish p. 55</text>
   </item>
   <item>
-    <name>Heward's Hireling Armor</name>
+    <name>Heward's Hireling Armor [Legacy]</name>
     <detail>leather armor, very rare (requires attunement)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -200,7 +200,7 @@ Source:	Lost Laboratory of Kwalish p. 55</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Ioun Stone, Historical Knowledge</name>
+    <name>Ioun Stone, Historical Knowledge [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -214,7 +214,7 @@ Source:	Lost Laboratory of Kwalish p. 55</text>
     <roll description="Feet">1d3</roll>
   </item>
   <item>
-    <name>Ioun Stone, Language Knowledge</name>
+    <name>Ioun Stone, Language Knowledge [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -227,7 +227,7 @@ Source:	Lost Laboratory of Kwalish p. 55</text>
     <roll description="Feet">1d3</roll>
   </item>
   <item>
-    <name>Ioun Stone, Natural Knowledge</name>
+    <name>Ioun Stone, Natural Knowledge [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -241,7 +241,7 @@ Source:	Lost Laboratory of Kwalish p. 55</text>
     <roll description="Feet">1d3</roll>
   </item>
   <item>
-    <name>Ioun Stone, Religious Knowledge</name>
+    <name>Ioun Stone, Religious Knowledge [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -255,7 +255,7 @@ Source:	Lost Laboratory of Kwalish p. 55</text>
     <roll description="Feet">1d3</roll>
   </item>
   <item>
-    <name>Ioun Stone, Self-Preservation</name>
+    <name>Ioun Stone, Self-Preservation [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -269,7 +269,7 @@ Source:	Lost Laboratory of Kwalish p. 55</text>
     <roll description="Feet">1d3</roll>
   </item>
   <item>
-    <name>Ioun Stone, Supreme Intellect</name>
+    <name>Ioun Stone, Supreme Intellect [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -283,7 +283,7 @@ Source:	Lost Laboratory of Kwalish p. 55</text>
     <roll description="Feet">1d3</roll>
   </item>
   <item>
-    <name>Leather Golem Armor</name>
+    <name>Leather Golem Armor [Legacy]</name>
     <detail>rare, cursed (requires attunement)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -299,7 +299,7 @@ Source:	Lost Laboratory of Kwalish p. 55</text>
     <roll description="Berserk">1d6</roll>
   </item>
   <item>
-    <name>Powered Armor</name>
+    <name>Powered Armor [Legacy]</name>
     <detail>plate armor, legendary (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -332,7 +332,7 @@ Source:	Lost Laboratory of Kwalish p. 56</text>
     <roll description="Charges">2d10</roll>
   </item>
   <item>
-    <name>Ioun Stone (Generic Variant)</name>
+    <name>Ioun Stone (Generic Variant) [Legacy]</name>
     <detail>generic variant</detail>
     <type>W</type>
     <magic>YES</magic>

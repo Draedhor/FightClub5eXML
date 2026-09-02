@@ -2,7 +2,7 @@
 <compendium version="5" auto_indent="NO">
   <!-- Armor -->
   <item>
-    <name>Bark Armor</name>
+    <name>Bark Armor [TP Legacy]</name>
     <detail>common</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -15,7 +15,7 @@ Proficiency: light armor
 Source:	Obojima: Tales from the Tall Grass p. 157 (Third Party)</text>
   </item>
   <item>
-    <name>Divers Armor</name>
+    <name>Divers Armor [TP Legacy]</name>
     <detail>common</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -30,7 +30,7 @@ Proficiency: heavy armor
 Source:	Obojima: Tales from the Tall Grass p. 157 (Third Party)</text>
   </item>
   <item>
-    <name>Pot Lid</name>
+    <name>Pot Lid [TP Legacy]</name>
     <detail>common</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -46,7 +46,7 @@ Source:	Obojima: Tales from the Tall Grass p. 157 (Third Party)</text>
   <!-- Weapons -->
   <!-- Simple Melee Weapons -->
   <item>
-    <name>Boat Oar</name>
+    <name>Boat Oar [TP Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>8</weight>
@@ -60,7 +60,7 @@ Proficiency: simple, boat oar
 Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
   </item>
   <item>
-    <name>Boomerang</name>
+    <name>Boomerang [TP Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>1</weight>
@@ -81,7 +81,7 @@ Proficiency: simple, boomerang
 Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
   </item>
   <item>
-    <name>Butterfly Staff</name>
+    <name>Butterfly Staff [TP Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>1</weight>
@@ -101,7 +101,7 @@ Proficiency: simple, butterfly staff
 Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
   </item>
   <item>
-    <name>Fan</name>
+    <name>Fan [TP Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>0.25</weight>
@@ -119,7 +119,7 @@ Proficiency: simple, fan
 Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
   </item>
   <item>
-    <name>Frying Pan</name>
+    <name>Frying Pan [TP Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>6</weight>
@@ -136,7 +136,7 @@ Proficiency: simple, frying pan
 Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
   </item>
   <item>
-    <name>Iron Tea Ketle</name>
+    <name>Iron Tea Ketle [TP Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>2</weight>
@@ -146,7 +146,7 @@ Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
   </item>
   <item>
-    <name>Shovel</name>
+    <name>Shovel [TP Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>4</weight>
@@ -163,7 +163,7 @@ Proficiency: simple, shovel
 Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
   </item>
   <item>
-    <name>Umbrella</name>
+    <name>Umbrella [TP Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>2</weight>
@@ -180,7 +180,7 @@ Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
   </item>
   <!-- Martial Melee Weapons -->
   <item>
-    <name>Bellow Flute</name>
+    <name>Bellow Flute [TP Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>0.5</weight>
@@ -196,7 +196,7 @@ Proficiency: martial, bellow flute
 Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
   </item>
   <item>
-    <name>Candlemaker's Club</name>
+    <name>Candlemaker's Club [TP Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>10</weight>
@@ -215,7 +215,7 @@ Proficiency: martial, candlemaker's club
 Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
   </item>
   <item>
-    <name>Dandelion Spear</name>
+    <name>Dandelion Spear [TP Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>6</weight>
@@ -236,7 +236,7 @@ Proficiency: martial, dandelion spear
 Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
   </item>
   <item>
-    <name>Drive Shaft</name>
+    <name>Drive Shaft [TP Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>20</weight>
@@ -252,7 +252,7 @@ Proficiency: martial, drive shaft
 Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
   </item>
   <item>
-    <name>Lom Lom Dagger</name>
+    <name>Lom Lom Dagger [TP Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>1</weight>
@@ -275,7 +275,7 @@ Proficiency: martial, lom lom dagger
 Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
   </item>
   <item>
-    <name>Secret Stone Sword</name>
+    <name>Secret Stone Sword [TP Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>1</weight>
@@ -294,7 +294,7 @@ Proficiency: martial, secret stone sword
 Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
   </item>
   <item>
-    <name>Shepherd Crook</name>
+    <name>Shepherd Crook [TP Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>4</weight>
@@ -311,7 +311,7 @@ Proficiency: martial, shepherd crook
 Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
   </item>
   <item>
-    <name>Tapper Sack</name>
+    <name>Tapper Sack [TP Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>5</weight>
@@ -330,7 +330,7 @@ Proficiency: martial, tapper sack
 Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
   </item>
   <item>
-    <name>Vertebrae Sword</name>
+    <name>Vertebrae Sword [TP Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>1</weight>
@@ -346,7 +346,7 @@ Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
     <roll description="Piercing Damage">1d8</roll>
   </item>
   <item>
-    <name>Vaulter's Axe</name>
+    <name>Vaulter's Axe [TP Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>15</weight>
@@ -367,7 +367,7 @@ Proficiency: martial, vaulter's axe
 Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
   </item>
   <item>
-    <name>Field Spear</name>
+    <name>Field Spear [TP Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>1</weight>
@@ -392,7 +392,7 @@ Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
   </item>
   <!-- Martial Ranged Weapons -->
   <item>
-    <name>Nakudama Bubble Rod</name>
+    <name>Nakudama Bubble Rod [TP Legacy]</name>
     <detail>common</detail>
     <type>R</type>
     <weight>1</weight>
@@ -413,7 +413,7 @@ Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
   </item>
   <!-- Adventuring Gear -->
   <item>
-    <name>Arcane Detection Kit</name>
+    <name>Arcane Detection Kit [TP Legacy]</name>
     <detail>common</detail>
     <type>G</type>
     <text>Arcane Detection Kits (or ADKs) have been popularized by witches in the last two decades as the desire for potions from local islanders has gradually increased. Although the contents of these kits vary depending on the coven and individual using them, there are a few staples found in nearly every kit, such as spark powder and arcana oil. No matter the contents, a skilled potion brewer can use the kit to sniff out the latent magic found in objects all across the island.
@@ -421,7 +421,7 @@ Source:	Obojima: Tales from the Tall Grass p. 158 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 161 (Third Party)</text>
   </item>
   <item>
-    <name>Bicycle</name>
+    <name>Bicycle [TP Legacy]</name>
     <detail>common</detail>
     <type>G</type>
     <text>These First Age vehicles have become increasingly popular over the years as recreations started being crafted out of Yatamon. Both the recreations and the originals have a speed of 60 feet while being ridden.
@@ -429,7 +429,7 @@ Source:	Obojima: Tales from the Tall Grass p. 161 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 161 (Third Party)</text>
   </item>
   <item>
-    <name>Sea Sink Boots</name>
+    <name>Sea Sink Boots [TP Legacy]</name>
     <detail>common</detail>
     <type>G</type>
     <text>These weighted boots are used by the Mariners' Guild to quickly descend into the Shallows and explore the shallow beds. While wearing the boots, all nonmagical speeds you possess are reduced to 10 feet, you descend into water at a rate of 100 feet per round, and you can walk across the ocean floor as if you weren't buoyant.
@@ -437,7 +437,7 @@ Source:	Obojima: Tales from the Tall Grass p. 161 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 161 (Third Party)</text>
   </item>
   <item>
-    <name>Glider</name>
+    <name>Glider [TP Legacy]</name>
     <detail>common</detail>
     <type>G</type>
     <text>A creature holding onto a glider with both hands while falling, descends at a rate of 10 feet per round and can travel up to 50 feet horizontally. A creature can use its action to operate the glider, changing the direction they're moving and avoiding any obstacles in their path. If a creature is still in the air after 1 minute has passed, it must succeed on a DC 10 Strength saving throw or let go of the glider, falling as it normally would. This saving throw is repeated every minute, with the DC increasing by 2 every time the saving throw is made (to a maximum of DC 20).
@@ -445,7 +445,7 @@ Source:	Obojima: Tales from the Tall Grass p. 161 (Third Party)</text>
 Source:	Obojima: Tales from the Tall Grass p. 161 (Third Party)</text>
   </item>
   <item>
-    <name>Hook Sling</name>
+    <name>Hook Sling [TP Legacy]</name>
     <detail>common</detail>
     <type>G</type>
     <text>This heavy metal contraption can be used to hurl a barbed hook at the surface of a solid object within 20 feet of you, latching onto it and pulling you toward the target. The hook can be hurled using a bonus action, and it requires an action to wind it back in before you can use it again. You can hurl the hook using only one hand, but it requires two hands to wind the hook back in. If the targeted surface has no lip to grasp or is otherwise too difficult for the barb to hook onto, the hook fails to latch onto it and pull you.

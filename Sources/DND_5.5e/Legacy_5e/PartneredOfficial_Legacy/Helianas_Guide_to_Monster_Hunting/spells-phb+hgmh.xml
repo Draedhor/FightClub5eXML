@@ -1,783 +1,783 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Chameleon Skin</name>
+    <name>Chameleon Skin [TP Legacy]</name>
     <classes>Sorcerer (Skinshifter (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Inflict Wounds</name>
+    <name>Inflict Wounds [TP Legacy]</name>
     <classes>Sorcerer (Skinshifter (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Barkskin</name>
+    <name>Barkskin [TP Legacy]</name>
     <classes>Sorcerer (Skinshifter (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Protection from Poison</name>
+    <name>Protection from Poison [TP Legacy]</name>
     <classes>Sorcerer (Skinshifter (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Vampiric Touch</name>
+    <name>Vampiric Touch [TP Legacy]</name>
     <classes>Sorcerer (Skinshifter (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Zippit!</name>
+    <name>Zippit! [TP Legacy]</name>
     <classes>Sorcerer (Skinshifter (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement</name>
+    <name>Freedom of Movement [TP Legacy]</name>
     <classes>Sorcerer (Skinshifter (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Frogskin</name>
+    <name>Frogskin [TP Legacy]</name>
     <classes>Sorcerer (Skinshifter (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Feverskin</name>
+    <name>Feverskin [TP Legacy]</name>
     <classes>Sorcerer (Skinshifter (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Greater Restoration</name>
+    <name>Greater Restoration [TP Legacy]</name>
     <classes>Sorcerer (Skinshifter (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Heroism</name>
+    <name>Heroism [TP Legacy]</name>
     <classes>Paladin (Harvest (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Purify Food and Drink</name>
+    <name>Purify Food and Drink [TP Legacy]</name>
     <classes>Paladin (Harvest (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Prayer of Healing</name>
+    <name>Prayer of Healing [TP Legacy]</name>
     <classes>Paladin (Harvest (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Warding Bond</name>
+    <name>Warding Bond [TP Legacy]</name>
     <classes>Paladin (Harvest (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Beacon of Hope</name>
+    <name>Beacon of Hope [TP Legacy]</name>
     <classes>Paladin (Harvest (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Create Food and Water</name>
+    <name>Create Food and Water [TP Legacy]</name>
     <classes>Paladin (Harvest (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Death Ward</name>
+    <name>Death Ward [TP Legacy]</name>
     <classes>Paladin (Harvest (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere</name>
+    <name>Otiluke's Resilient Sphere [TP Legacy]</name>
     <classes>Paladin (Harvest (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Greater Restoration</name>
+    <name>Greater Restoration [TP Legacy]</name>
     <classes>Paladin (Harvest (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Mass Cure Wounds</name>
+    <name>Mass Cure Wounds [TP Legacy]</name>
     <classes>Paladin (Harvest (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Blur</name>
+    <name>Blur [TP Legacy]</name>
     <classes>Druid (The Hive (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Web</name>
+    <name>Web [TP Legacy]</name>
     <classes>Druid (The Hive (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Fly</name>
+    <name>Fly [TP Legacy]</name>
     <classes>Druid (The Hive (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Hypnotic Pattern</name>
+    <name>Hypnotic Pattern [TP Legacy]</name>
     <classes>Druid (The Hive (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Arcane Eye</name>
+    <name>Arcane Eye [TP Legacy]</name>
     <classes>Druid (The Hive (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Giant Insect</name>
+    <name>Giant Insect [TP Legacy]</name>
     <classes>Druid (The Hive (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Insect Plague</name>
+    <name>Insect Plague [TP Legacy]</name>
     <classes>Druid (The Hive (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Mislead</name>
+    <name>Mislead [TP Legacy]</name>
     <classes>Druid (The Hive (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Entangle</name>
+    <name>Entangle [TP Legacy]</name>
     <classes>Cleric (Hunt Domain (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Longstrider</name>
+    <name>Longstrider [TP Legacy]</name>
     <classes>Cleric (Hunt Domain (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Locate Animals or Plants</name>
+    <name>Locate Animals or Plants [TP Legacy]</name>
     <classes>Cleric (Hunt Domain (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Pass without Trace</name>
+    <name>Pass without Trace [TP Legacy]</name>
     <classes>Cleric (Hunt Domain (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Conjure Animals</name>
+    <name>Conjure Animals [TP Legacy]</name>
     <classes>Cleric (Hunt Domain (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Haste</name>
+    <name>Haste [TP Legacy]</name>
     <classes>Cleric (Hunt Domain (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement</name>
+    <name>Freedom of Movement [TP Legacy]</name>
     <classes>Cleric (Hunt Domain (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Locate Creature</name>
+    <name>Locate Creature [TP Legacy]</name>
     <classes>Cleric (Hunt Domain (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Commune with Nature</name>
+    <name>Commune with Nature [TP Legacy]</name>
     <classes>Cleric (Hunt Domain (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Hold Monster</name>
+    <name>Hold Monster [TP Legacy]</name>
     <classes>Cleric (Hunt Domain (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Guidance</name>
-    <classes>Tamer</classes>
+    <name>Guidance [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Light</name>
-    <classes>Tamer</classes>
+    <name>Light [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Resistance</name>
-    <classes>Tamer</classes>
+    <name>Resistance [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Spare the Dying</name>
-    <classes>Tamer</classes>
+    <name>Spare the Dying [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Vicious Mockery</name>
-    <classes>Tamer</classes>
+    <name>Vicious Mockery [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Cure Wounds</name>
-    <classes>Tamer</classes>
+    <name>Cure Wounds [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Detect Magic</name>
-    <classes>Tamer</classes>
+    <name>Detect Magic [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Expeditious Retreat</name>
-    <classes>Tamer</classes>
+    <name>Expeditious Retreat [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Faerie Fire</name>
-    <classes>Tamer</classes>
+    <name>Faerie Fire [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>False Life</name>
-    <classes>Tamer</classes>
+    <name>False Life [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Feather Fall</name>
-    <classes>Tamer</classes>
+    <name>Feather Fall [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Grease</name>
-    <classes>Tamer</classes>
+    <name>Grease [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Healing Word</name>
-    <classes>Tamer</classes>
+    <name>Healing Word [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Heroism</name>
-    <classes>Tamer</classes>
+    <name>Heroism [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Identify</name>
-    <classes>Tamer</classes>
+    <name>Identify [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Jump</name>
-    <classes>Tamer</classes>
+    <name>Jump [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Longstrider</name>
-    <classes>Tamer</classes>
+    <name>Longstrider [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Protection from Evil and Good</name>
-    <classes>Tamer</classes>
+    <name>Protection from Evil and Good [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Purify Food and Drink</name>
-    <classes>Tamer</classes>
+    <name>Purify Food and Drink [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Sanctuary</name>
-    <classes>Tamer</classes>
+    <name>Sanctuary [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Shield of Faith</name>
-    <classes>Tamer</classes>
+    <name>Shield of Faith [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Silent Image</name>
-    <classes>Tamer</classes>
+    <name>Silent Image [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Sleep</name>
-    <classes>Tamer</classes>
+    <name>Sleep [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Speak with Animals</name>
-    <classes>Tamer</classes>
+    <name>Speak with Animals [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Aid</name>
-    <classes>Tamer</classes>
+    <name>Aid [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Alter Self</name>
-    <classes>Tamer</classes>
+    <name>Alter Self [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Animal Messenger</name>
-    <classes>Tamer</classes>
+    <name>Animal Messenger [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Barkskin</name>
-    <classes>Tamer</classes>
+    <name>Barkskin [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Blur</name>
-    <classes>Tamer</classes>
+    <name>Blur [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Calm Emotions</name>
-    <classes>Tamer</classes>
+    <name>Calm Emotions [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Darkvision</name>
-    <classes>Tamer</classes>
+    <name>Darkvision [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Detect Thoughts</name>
-    <classes>Tamer</classes>
+    <name>Detect Thoughts [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Enhance Ability</name>
-    <classes>Tamer</classes>
+    <name>Enhance Ability [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Enlarge/Reduce</name>
-    <classes>Tamer</classes>
+    <name>Enlarge/Reduce [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Invisibility</name>
-    <classes>Tamer</classes>
+    <name>Invisibility [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration</name>
-    <classes>Tamer</classes>
+    <name>Lesser Restoration [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Levitate</name>
-    <classes>Tamer</classes>
+    <name>Levitate [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Locate Animals or Plants</name>
-    <classes>Tamer</classes>
+    <name>Locate Animals or Plants [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Locate Object</name>
-    <classes>Tamer</classes>
+    <name>Locate Object [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Mirror Image</name>
-    <classes>Tamer</classes>
+    <name>Mirror Image [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Pass without Trace</name>
-    <classes>Tamer</classes>
+    <name>Pass without Trace [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Protection from Poison</name>
-    <classes>Tamer</classes>
+    <name>Protection from Poison [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>See Invisibility</name>
-    <classes>Tamer</classes>
+    <name>See Invisibility [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Silence</name>
-    <classes>Tamer</classes>
+    <name>Silence [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Spider Climb</name>
-    <classes>Tamer</classes>
+    <name>Spider Climb [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Warding Bond</name>
-    <classes>Tamer</classes>
+    <name>Warding Bond [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Blink</name>
-    <classes>Tamer</classes>
+    <name>Blink [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Create Food and Water</name>
-    <classes>Tamer</classes>
+    <name>Create Food and Water [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Daylight</name>
-    <classes>Tamer</classes>
+    <name>Daylight [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Dispel Magic</name>
-    <classes>Tamer</classes>
+    <name>Dispel Magic [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Fear</name>
-    <classes>Tamer</classes>
+    <name>Fear [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Fly</name>
-    <classes>Tamer</classes>
+    <name>Fly [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Haste</name>
-    <classes>Tamer</classes>
+    <name>Haste [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Nondetection</name>
-    <classes>Tamer</classes>
+    <name>Nondetection [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Protection from Energy</name>
-    <classes>Tamer</classes>
+    <name>Protection from Energy [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Remove Curse</name>
-    <classes>Tamer</classes>
+    <name>Remove Curse [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Tongues</name>
-    <classes>Tamer</classes>
+    <name>Tongues [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Water Breathing</name>
-    <classes>Tamer</classes>
+    <name>Water Breathing [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Water Walk</name>
-    <classes>Tamer</classes>
+    <name>Water Walk [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Control Water</name>
-    <classes>Tamer</classes>
+    <name>Control Water [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Death Ward</name>
-    <classes>Tamer</classes>
+    <name>Death Ward [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Dimension Door</name>
-    <classes>Tamer</classes>
+    <name>Dimension Door [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Dominate Beast</name>
-    <classes>Tamer</classes>
+    <name>Dominate Beast [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Fire Shield</name>
-    <classes>Tamer</classes>
+    <name>Fire Shield [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement</name>
-    <classes>Tamer</classes>
+    <name>Freedom of Movement [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Greater Invisibility</name>
-    <classes>Tamer</classes>
+    <name>Greater Invisibility [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Locate Creature</name>
-    <classes>Tamer</classes>
+    <name>Locate Creature [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere</name>
-    <classes>Tamer</classes>
+    <name>Otiluke's Resilient Sphere [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Stoneskin</name>
-    <classes>Tamer</classes>
+    <name>Stoneskin [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Antilife Shell</name>
-    <classes>Tamer</classes>
+    <name>Antilife Shell [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Awaken</name>
-    <classes>Tamer</classes>
+    <name>Awaken [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Dispel Evil and Good</name>
-    <classes>Tamer</classes>
+    <name>Dispel Evil and Good [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Dominate Person</name>
-    <classes>Tamer</classes>
+    <name>Dominate Person [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Geas</name>
-    <classes>Tamer</classes>
+    <name>Geas [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Greater Restoration</name>
-    <classes>Tamer</classes>
+    <name>Greater Restoration [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Legend Lore</name>
-    <classes>Tamer</classes>
+    <name>Legend Lore [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Mislead</name>
-    <classes>Tamer</classes>
+    <name>Mislead [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Rary's Telepathic Bond</name>
-    <classes>Tamer</classes>
+    <name>Rary's Telepathic Bond [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Scrying</name>
-    <classes>Tamer</classes>
+    <name>Scrying [TP Legacy]</name>
+    <classes>Tamer [TP Legacy]</classes>
   </spell>
   <spell>
-    <name>Divine Favor</name>
-    <classes>Tamer (Leader)</classes>
+    <name>Divine Favor [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Leader)</classes>
   </spell>
   <spell>
-    <name>Protection from Evil and Good</name>
-    <classes>Tamer (Leader)</classes>
+    <name>Protection from Evil and Good [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Leader)</classes>
   </spell>
   <spell>
-    <name>Inequality (HB)</name>
-    <classes>Tamer (Leader)</classes>
+    <name>Inequality [HB Legacy]</name>
+    <classes>Tamer [TP Legacy] (Leader)</classes>
   </spell>
   <spell>
-    <name>Warding Bond</name>
-    <classes>Tamer (Leader)</classes>
+    <name>Warding Bond [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Leader)</classes>
   </spell>
   <spell>
-    <name>Beacon of Hope</name>
-    <classes>Tamer (Leader)</classes>
+    <name>Beacon of Hope [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Leader)</classes>
   </spell>
   <spell>
-    <name>Haste</name>
-    <classes>Tamer (Leader)</classes>
+    <name>Haste [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Leader)</classes>
   </spell>
   <spell>
-    <name>Death Ward</name>
-    <classes>Tamer (Leader)</classes>
+    <name>Death Ward [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Leader)</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement</name>
-    <classes>Tamer (Leader)</classes>
+    <name>Freedom of Movement [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Leader)</classes>
   </spell>
   <spell>
-    <name>Dispel Evil and Good</name>
-    <classes>Tamer (Leader)</classes>
+    <name>Dispel Evil and Good [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Leader)</classes>
   </spell>
   <spell>
-    <name>Endure</name>
-    <classes>Tamer (Leader)</classes>
+    <name>Endure [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Leader)</classes>
   </spell>
   <spell>
-    <name>Hellish Rebuke</name>
-    <classes>Tamer (Infuser)</classes>
+    <name>Hellish Rebuke [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Infuser)</classes>
   </spell>
   <spell>
-    <name>Peppermint Plate (HB)</name>
-    <classes>Tamer (Infuser)</classes>
+    <name>Peppermint Plate [HB Legacy]</name>
+    <classes>Tamer [TP Legacy] (Infuser)</classes>
   </spell>
   <spell>
-    <name>Eelskin</name>
-    <classes>Tamer (Infuser)</classes>
+    <name>Eelskin [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Infuser)</classes>
   </spell>
   <spell>
-    <name>Riptide (HB)</name>
-    <classes>Tamer (Infuser)</classes>
+    <name>Riptide [HB Legacy]</name>
+    <classes>Tamer [TP Legacy] (Infuser)</classes>
   </spell>
   <spell>
-    <name>Protection from Energy</name>
-    <classes>Tamer (Infuser)</classes>
+    <name>Protection from Energy [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Infuser)</classes>
   </spell>
   <spell>
-    <name>Wind Wall</name>
-    <classes>Tamer (Infuser)</classes>
+    <name>Wind Wall [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Infuser)</classes>
   </spell>
   <spell>
-    <name>Control Water</name>
-    <classes>Tamer (Infuser)</classes>
+    <name>Control Water [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Infuser)</classes>
   </spell>
   <spell>
-    <name>Fire Shield</name>
-    <classes>Tamer (Infuser)</classes>
+    <name>Fire Shield [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Infuser)</classes>
   </spell>
   <spell>
-    <name>Feverskin</name>
-    <classes>Tamer (Infuser)</classes>
+    <name>Feverskin [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Infuser)</classes>
   </spell>
   <spell>
-    <name>Wall of Stone</name>
-    <classes>Tamer (Infuser)</classes>
+    <name>Wall of Stone [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Infuser)</classes>
   </spell>
   <spell>
-    <name>False Life</name>
-    <classes>Tamer (Necromancer)</classes>
+    <name>False Life [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Necromancer)</classes>
   </spell>
   <spell>
-    <name>Inflict Wounds</name>
-    <classes>Tamer (Necromancer)</classes>
+    <name>Inflict Wounds [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Necromancer)</classes>
   </spell>
   <spell>
-    <name>Blindness/Deafness</name>
-    <classes>Tamer (Necromancer)</classes>
+    <name>Blindness/Deafness [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Necromancer)</classes>
   </spell>
   <spell>
-    <name>Ray of Enfeeblement</name>
-    <classes>Tamer (Necromancer)</classes>
+    <name>Ray of Enfeeblement [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Necromancer)</classes>
   </spell>
   <spell>
-    <name>Influenza (HB)</name>
-    <classes>Tamer (Necromancer)</classes>
+    <name>Influenza [HB Legacy]</name>
+    <classes>Tamer [TP Legacy] (Necromancer)</classes>
   </spell>
   <spell>
-    <name>Vampiric Touch</name>
-    <classes>Tamer (Necromancer)</classes>
+    <name>Vampiric Touch [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Necromancer)</classes>
   </spell>
   <spell>
-    <name>Confusion</name>
-    <classes>Tamer (Necromancer)</classes>
+    <name>Confusion [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Necromancer)</classes>
   </spell>
   <spell>
-    <name>Death Ward</name>
-    <classes>Tamer (Necromancer)</classes>
+    <name>Death Ward [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Necromancer)</classes>
   </spell>
   <spell>
-    <name>Bone Cage (HB)</name>
-    <classes>Tamer (Necromancer)</classes>
+    <name>Bone Cage [HB Legacy]</name>
+    <classes>Tamer [TP Legacy] (Necromancer)</classes>
   </spell>
   <spell>
-    <name>Endure</name>
-    <classes>Tamer (Necromancer)</classes>
+    <name>Endure [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Necromancer)</classes>
   </spell>
   <spell>
-    <name>Chameleon Skin</name>
-    <classes>Tamer (Splicer)</classes>
+    <name>Chameleon Skin [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Splicer)</classes>
   </spell>
   <spell>
-    <name>Disguise Self</name>
-    <classes>Tamer (Splicer)</classes>
+    <name>Disguise Self [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Splicer)</classes>
   </spell>
   <spell>
-    <name>Barkskin</name>
-    <classes>Tamer (Splicer)</classes>
+    <name>Barkskin [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Splicer)</classes>
   </spell>
   <spell>
-    <name>Eelskin</name>
-    <classes>Tamer (Splicer)</classes>
+    <name>Eelskin [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Splicer)</classes>
   </spell>
   <spell>
-    <name>Mass Leech (HB)</name>
-    <classes>Tamer (Splicer)</classes>
+    <name>Mass Leech [HB Legacy]</name>
+    <classes>Tamer [TP Legacy] (Splicer)</classes>
   </spell>
   <spell>
-    <name>Zippit!</name>
-    <classes>Tamer (Splicer)</classes>
+    <name>Zippit! [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Splicer)</classes>
   </spell>
   <spell>
-    <name>Frogskin</name>
-    <classes>Tamer (Splicer)</classes>
+    <name>Frogskin [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Splicer)</classes>
   </spell>
   <spell>
-    <name>Stoneskin</name>
-    <classes>Tamer (Splicer)</classes>
+    <name>Stoneskin [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Splicer)</classes>
   </spell>
   <spell>
-    <name>Contagion</name>
-    <classes>Tamer (Splicer)</classes>
+    <name>Contagion [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Splicer)</classes>
   </spell>
   <spell>
-    <name>Feverskin</name>
-    <classes>Tamer (Splicer)</classes>
+    <name>Feverskin [TP Legacy]</name>
+    <classes>Tamer [TP Legacy] (Splicer)</classes>
   </spell>
   <spell>
-    <name>Heroism</name>
+    <name>Heroism [TP Legacy]</name>
     <classes>Warlock (Parasite (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Sanctuary</name>
+    <name>Sanctuary [TP Legacy]</name>
     <classes>Warlock (Parasite (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Enhance Ability</name>
+    <name>Enhance Ability [TP Legacy]</name>
     <classes>Warlock (Parasite (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Enlarge/Reduce</name>
+    <name>Enlarge/Reduce [TP Legacy]</name>
     <classes>Warlock (Parasite (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Haste</name>
+    <name>Haste [TP Legacy]</name>
     <classes>Warlock (Parasite (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Spirit Guardians</name>
+    <name>Spirit Guardians [TP Legacy]</name>
     <classes>Warlock (Parasite (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Evard's Black Tentacles</name>
+    <name>Evard's Black Tentacles [TP Legacy]</name>
     <classes>Warlock (Parasite (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement</name>
+    <name>Freedom of Movement [TP Legacy]</name>
     <classes>Warlock (Parasite (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Contagion</name>
+    <name>Contagion [TP Legacy]</name>
     <classes>Warlock (Parasite (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Dominate Person</name>
+    <name>Dominate Person [TP Legacy]</name>
     <classes>Warlock (Parasite (HB) (Legacy))</classes>
   </spell>
   <spell>
-    <name>Cure Wounds</name>
+    <name>Cure Wounds [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>False Life</name>
+    <name>False Life [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Healing Word</name>
+    <name>Healing Word [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Jump</name>
+    <name>Jump [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Longstrider</name>
+    <name>Longstrider [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Aid</name>
+    <name>Aid [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Alter Self</name>
+    <name>Alter Self [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Barkskin</name>
+    <name>Barkskin [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Darkvision</name>
+    <name>Darkvision [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Enhance Ability</name>
+    <name>Enhance Ability [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Enlarge/Reduce</name>
+    <name>Enlarge/Reduce [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration</name>
+    <name>Lesser Restoration [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Protection from Poison</name>
+    <name>Protection from Poison [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Spider Climb</name>
+    <name>Spider Climb [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Haste</name>
+    <name>Haste [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Mass Healing Word</name>
+    <name>Mass Healing Word [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Revivify</name>
+    <name>Revivify [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Water Breathing</name>
+    <name>Water Breathing [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Stoneskin</name>
+    <name>Stoneskin [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Contagion</name>
+    <name>Contagion [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Greater Restoration</name>
+    <name>Greater Restoration [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Mass Cure Wounds</name>
+    <name>Mass Cure Wounds [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Flesh to Stone</name>
+    <name>Flesh to Stone [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Heal</name>
+    <name>Heal [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Regenerate</name>
+    <name>Regenerate [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Simulacrum</name>
+    <name>Simulacrum [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Mass Heal</name>
+    <name>Mass Heal [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
   <spell>
-    <name>Shapechange</name>
+    <name>Shapechange [TP Legacy]</name>
     <classes>School: Biomancy</classes>
   </spell>
 </compendium>

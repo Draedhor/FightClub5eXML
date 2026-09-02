@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Achaierai</name>
+    <name>Achaierai [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Lawful Evil</alignment>
@@ -54,7 +54,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Aribeth De Tylmarande</name>
+    <name>Aribeth De Tylmarande [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>neutral evil</alignment>
@@ -134,7 +134,7 @@
     <description>Source:	Minsc and Boo's Journal of Villainy p. 108</description>
   </monster>
   <monster>
-    <name>Baalzebul</name>
+    <name>Baalzebul [TP Legacy]</name>
     <size>H</size>
     <type>fiend (devil)</type>
     <alignment>Lawful Evil</alignment>
@@ -243,7 +243,7 @@
     <description>Source:	Minsc and Boo's Journal of Villainy p. 92</description>
   </monster>
   <monster>
-    <name>Bebilith</name>
+    <name>Bebilith [TP Legacy]</name>
     <size>H</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -305,7 +305,7 @@ While restrained, the target takes 9 (2d8) poison damage at the start of each of
     <description>Source:	Minsc and Boo's Journal of Villainy p. 133</description>
   </monster>
   <monster>
-    <name>Bhaal, Ravager</name>
+    <name>Bhaal, Ravager [TP Legacy]</name>
     <size>H</size>
     <type>beast</type>
     <alignment>Lawful Evil</alignment>
@@ -398,7 +398,7 @@ While restrained, the target takes 9 (2d8) poison damage at the start of each of
     <description>Source:	Minsc and Boo's Journal of Villainy p. 95</description>
   </monster>
   <monster>
-    <name>Bodhi Irenicus</name>
+    <name>Bodhi Irenicus [TP Legacy]</name>
     <size>M</size>
     <type>undead (shapechanger)</type>
     <alignment>Chaotic Evil</alignment>
@@ -494,7 +494,7 @@ While restrained, the target takes 9 (2d8) poison damage at the start of each of
     <description>Source:	Minsc and Boo's Journal of Villainy p. 77</description>
   </monster>
   <monster>
-    <name>Borivik Windheim</name>
+    <name>Borivik Windheim [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>neutral good</alignment>
@@ -552,7 +552,7 @@ While restrained, the target takes 9 (2d8) poison damage at the start of each of
     <description>Source:	Minsc and Boo's Journal of Villainy p. 56</description>
   </monster>
   <monster>
-    <name>Cornelius Watson</name>
+    <name>Cornelius Watson [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>neutral good</alignment>
@@ -610,7 +610,7 @@ While restrained, the target takes 9 (2d8) poison damage at the start of each of
     <description>Source:	Minsc and Boo's Journal of Villainy p. 30</description>
   </monster>
   <monster>
-    <name>Cryonax</name>
+    <name>Cryonax [TP Legacy]</name>
     <size>H</size>
     <type>elemental</type>
     <alignment>neutral evil</alignment>
@@ -704,7 +704,7 @@ Cryonax can grapple up to two targets but any tentacle that is grappling cannot 
     <description>Source:	Minsc and Boo's Journal of Villainy p. 98</description>
   </monster>
   <monster>
-    <name>Dagryn</name>
+    <name>Dagryn [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (dwarf)</type>
     <alignment>neutral evil</alignment>
@@ -763,7 +763,7 @@ Cryonax can grapple up to two targets but any tentacle that is grappling cannot 
     <description>Source:	Minsc and Boo's Journal of Villainy p. 110</description>
   </monster>
   <monster>
-    <name>Darien</name>
+    <name>Darien [TP Legacy]</name>
     <size>L</size>
     <type>giant (ogre)</type>
     <alignment>Chaotic Evil</alignment>
@@ -836,7 +836,7 @@ Cryonax can grapple up to two targets but any tentacle that is grappling cannot 
     <description>Source:	Minsc and Boo's Journal of Villainy p. 112</description>
   </monster>
   <monster>
-    <name>Deep Spider</name>
+    <name>Deep Spider [TP Legacy]</name>
     <size>H</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -890,7 +890,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <description>Source:	Minsc and Boo's Journal of Villainy p. 151</description>
   </monster>
   <monster>
-    <name>Demodand, Farastu</name>
+    <name>Demodand, Farastu [TP Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>neutral evil</alignment>
@@ -958,7 +958,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <description>Source:	Minsc and Boo's Journal of Villainy p. 135</description>
   </monster>
   <monster>
-    <name>Demodand, Kelubar</name>
+    <name>Demodand, Kelubar [TP Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>neutral evil</alignment>
@@ -1049,7 +1049,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <description>Source:	Minsc and Boo's Journal of Villainy p. 136</description>
   </monster>
   <monster>
-    <name>Demodand, Shator</name>
+    <name>Demodand, Shator [TP Legacy]</name>
     <size>L</size>
     <type>fiend</type>
     <alignment>neutral evil</alignment>
@@ -1129,7 +1129,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <description>Source:	Minsc and Boo's Journal of Villainy p. 137</description>
   </monster>
   <monster>
-    <name>Dread Doppelganger</name>
+    <name>Dread Doppelganger [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity (shapechanger)</type>
     <alignment>neutral evil</alignment>
@@ -1188,7 +1188,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <description>Source:	Minsc and Boo's Journal of Villainy p. 139</description>
   </monster>
   <monster>
-    <name>Edwin Odesseiron</name>
+    <name>Edwin Odesseiron [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>Lawful Evil</alignment>
@@ -1261,7 +1261,7 @@ While holding this staff, Edwin can use an action to expend 1 or more of its Cha
     <description>Source:	Minsc and Boo's Journal of Villainy p. 114</description>
   </monster>
   <monster>
-    <name>Eo Ashmajiir</name>
+    <name>Eo Ashmajiir [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (tiefling)</type>
     <alignment>Chaotic Neutral</alignment>
@@ -1321,7 +1321,7 @@ While holding this staff, Edwin can use an action to expend 1 or more of its Cha
     <description>Source:	Minsc and Boo's Journal of Villainy p. 116</description>
   </monster>
   <monster>
-    <name>Faldorn</name>
+    <name>Faldorn [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>neutral evil</alignment>
@@ -1385,7 +1385,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 50</description>
   </monster>
   <monster>
-    <name>Flimp Shagglecran</name>
+    <name>Flimp Shagglecran [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (gnome)</type>
     <alignment>Lawful Neutral</alignment>
@@ -1453,7 +1453,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 32</description>
   </monster>
   <monster>
-    <name>Gibberling</name>
+    <name>Gibberling [TP Legacy]</name>
     <size>S</size>
     <type>aberration</type>
     <alignment>Chaotic Neutral</alignment>
@@ -1500,7 +1500,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 141</description>
   </monster>
   <monster>
-    <name>Hamadryad</name>
+    <name>Hamadryad [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Chaotic Neutral</alignment>
@@ -1555,7 +1555,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 143</description>
   </monster>
   <monster>
-    <name>Imoen</name>
+    <name>Imoen [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>neutral good</alignment>
@@ -1607,7 +1607,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 88</description>
   </monster>
   <monster>
-    <name>Jaheira</name>
+    <name>Jaheira [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (half-elf)</type>
     <alignment>Neutral</alignment>
@@ -1669,7 +1669,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 60</description>
   </monster>
   <monster>
-    <name>Jon Irenicus</name>
+    <name>Jon Irenicus [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -1758,7 +1758,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 73</description>
   </monster>
   <monster>
-    <name>Kagain</name>
+    <name>Kagain [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (dwarf)</type>
     <alignment>neutral evil</alignment>
@@ -1815,7 +1815,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 118</description>
   </monster>
   <monster>
-    <name>Kivan</name>
+    <name>Kivan [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (elf)</type>
     <alignment>chaotic good</alignment>
@@ -1868,7 +1868,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 48</description>
   </monster>
   <monster>
-    <name>Lothar</name>
+    <name>Lothar [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>Lawful Neutral</alignment>
@@ -1936,7 +1936,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 80</description>
   </monster>
   <monster>
-    <name>Mephistopheles</name>
+    <name>Mephistopheles [TP Legacy]</name>
     <size>L</size>
     <type>fiend (devil)</type>
     <alignment>Lawful Evil</alignment>
@@ -2061,7 +2061,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 101</description>
   </monster>
   <monster>
-    <name>Minsc And Boo!</name>
+    <name>Minsc And Boo! [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>neutral good</alignment>
@@ -2126,7 +2126,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 68</description>
   </monster>
   <monster>
-    <name>Montaron And The Laughing Skull</name>
+    <name>Montaron And The Laughing Skull [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (halfling)</type>
     <alignment>neutral evil</alignment>
@@ -2191,7 +2191,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 86</description>
   </monster>
   <monster>
-    <name>Naes Inuus</name>
+    <name>Naes Inuus [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>Lawful Good</alignment>
@@ -2249,7 +2249,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 42</description>
   </monster>
   <monster>
-    <name>Nauk</name>
+    <name>Nauk [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (half-orc)</type>
     <alignment>Lawful Evil</alignment>
@@ -2320,7 +2320,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 54</description>
   </monster>
   <monster>
-    <name>Pazuzu</name>
+    <name>Pazuzu [TP Legacy]</name>
     <size>L</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -2413,7 +2413,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 104</description>
   </monster>
   <monster>
-    <name>Pelyious Avhoste</name>
+    <name>Pelyious Avhoste [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>neutral evil</alignment>
@@ -2479,7 +2479,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 120</description>
   </monster>
   <monster>
-    <name>Phaerimm</name>
+    <name>Phaerimm [TP Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>neutral evil</alignment>
@@ -2560,7 +2560,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 147</description>
   </monster>
   <monster>
-    <name>Saemon Havarian</name>
+    <name>Saemon Havarian [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>Chaotic Neutral</alignment>
@@ -2633,7 +2633,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 122</description>
   </monster>
   <monster>
-    <name>Sarevok</name>
+    <name>Sarevok [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>neutral evil</alignment>
@@ -2711,7 +2711,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 124</description>
   </monster>
   <monster>
-    <name>Sirene</name>
+    <name>Sirene [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Chaotic Neutral</alignment>
@@ -2766,7 +2766,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 145</description>
   </monster>
   <monster>
-    <name>Skeleton Lord</name>
+    <name>Skeleton Lord [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Lawful Evil</alignment>
@@ -2813,7 +2813,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 148</description>
   </monster>
   <monster>
-    <name>Skeleton Warrior</name>
+    <name>Skeleton Warrior [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Lawful Evil</alignment>
@@ -2856,7 +2856,7 @@ While in a new form, Faldorn retains her game statistics and ability to speak, b
     <description>Source:	Minsc and Boo's Journal of Villainy p. 149</description>
   </monster>
   <monster>
-    <name>Ssendam, Lord of Madness</name>
+    <name>Ssendam, Lord of Madness [TP Legacy]</name>
     <size>L</size>
     <type>aberration (shapechanger)</type>
     <alignment>Chaotic Evil</alignment>
@@ -2962,7 +2962,7 @@ While in her amoeba form, Ssendam has the same statistics with the following cha
     <description>Source:	Minsc and Boo's Journal of Villainy p. 107</description>
   </monster>
   <monster>
-    <name>Suldil Baldoriel</name>
+    <name>Suldil Baldoriel [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (half-elf)</type>
     <alignment>chaotic good</alignment>
@@ -3017,7 +3017,7 @@ While in her amoeba form, Ssendam has the same statistics with the following cha
     <description>Source:	Minsc and Boo's Journal of Villainy p. 66</description>
   </monster>
   <monster>
-    <name>Sword Spider</name>
+    <name>Sword Spider [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -3071,7 +3071,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <description>Source:	Minsc and Boo's Journal of Villainy p. 151</description>
   </monster>
   <monster>
-    <name>Tasloi Sniper</name>
+    <name>Tasloi Sniper [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (goblinoid)</type>
     <alignment>Chaotic Evil</alignment>
@@ -3120,7 +3120,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <description>Source:	Minsc and Boo's Journal of Villainy p. 153</description>
   </monster>
   <monster>
-    <name>Tasloi</name>
+    <name>Tasloi [TP Legacy]</name>
     <size>S</size>
     <type>humanoid</type>
     <alignment>Chaotic Evil</alignment>
@@ -3169,7 +3169,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <description>Source:	Minsc and Boo's Journal of Villainy p. 153</description>
   </monster>
   <monster>
-    <name>Tiberius Inuus</name>
+    <name>Tiberius Inuus [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>Lawful Good</alignment>
@@ -3221,7 +3221,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <description>Source:	Minsc and Boo's Journal of Villainy p. 44</description>
   </monster>
   <monster>
-    <name>Valygar</name>
+    <name>Valygar [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>neutral good</alignment>
@@ -3270,7 +3270,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <description>Source:	Minsc and Boo's Journal of Villainy p. 36</description>
   </monster>
   <monster>
-    <name>Vellin Farstride</name>
+    <name>Vellin Farstride [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (halfling)</type>
     <alignment>neutral good</alignment>
@@ -3330,7 +3330,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <description>Source:	Minsc and Boo's Journal of Villainy p. 62</description>
   </monster>
   <monster>
-    <name>Viconia DeVir</name>
+    <name>Viconia DeVir [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (drow)</type>
     <alignment>neutral evil</alignment>
@@ -3404,7 +3404,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <description>Source:	Minsc and Boo's Journal of Villainy p. 126</description>
   </monster>
   <monster>
-    <name>Viktor</name>
+    <name>Viktor [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>Lawful Neutral</alignment>
@@ -3468,7 +3468,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <description>Source:	Minsc and Boo's Journal of Villainy p. 82</description>
   </monster>
   <monster>
-    <name>Wolfwere Alpha</name>
+    <name>Wolfwere Alpha [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (beast, shapechanger)</type>
     <alignment>Chaotic Evil</alignment>
@@ -3535,7 +3535,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment/>
   </monster>
   <monster>
-    <name>Wolfwere</name>
+    <name>Wolfwere [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (beast, shapechanger)</type>
     <alignment>Chaotic Evil</alignment>
@@ -3602,7 +3602,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment/>
   </monster>
   <monster>
-    <name>Xan Moonblade</name>
+    <name>Xan Moonblade [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (elf)</type>
     <alignment>Lawful Neutral</alignment>
@@ -3663,7 +3663,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <description>Source:	Minsc and Boo's Journal of Villainy p. 38</description>
   </monster>
   <monster>
-    <name>Xzar The Chaos Clone</name>
+    <name>Xzar The Chaos Clone [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>Chaotic Evil</alignment>

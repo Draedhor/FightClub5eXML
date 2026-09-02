@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>All-Purpose Tool +1</name>
+    <name>All-Purpose Tool +1 [Legacy]</name>
     <detail>uncommon (requires attunement by an artificer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -18,7 +18,7 @@ Source:	Tasha's Cauldron of Everything p. 119</text>
     <modifier category="bonus">spell dc +1</modifier>
   </item>
   <item>
-    <name>Amulet of the Devout +1</name>
+    <name>Amulet of the Devout +1 [Legacy]</name>
     <detail>uncommon (requires attunement by a cleric or paladin)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -33,7 +33,7 @@ Source:	Tasha's Cauldron of Everything p. 119</text>
     <modifier category="bonus">spell dc +1</modifier>
   </item>
   <item>
-    <name>Arcane Grimoire +1</name>
+    <name>Arcane Grimoire +1 [Legacy]</name>
     <detail>uncommon (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -48,7 +48,7 @@ Source:	Tasha's Cauldron of Everything p. 120</text>
     <modifier category="bonus">spell dc +1</modifier>
   </item>
   <item>
-    <name>Bloodwell Vial +1</name>
+    <name>Bloodwell Vial +1 [Legacy]</name>
     <detail>uncommon (requires attunement by a sorcerer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -63,7 +63,7 @@ Source:	Tasha's Cauldron of Everything p. 122</text>
     <modifier category="bonus">spell dc +1</modifier>
   </item>
   <item>
-    <name>Moon Sickle +1</name>
+    <name>Moon Sickle +1 [Legacy]</name>
     <detail>uncommon (requires attunement by a druid or ranger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -85,7 +85,7 @@ Source:	Tasha's Cauldron of Everything p. 133</text>
     <modifier category="bonus">spell dc +1</modifier>
   </item>
   <item>
-    <name>Rhythm-Maker's Drum +1</name>
+    <name>Rhythm-Maker's Drum +1 [Legacy]</name>
     <detail>instrument, uncommon (requires attunement by a bard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -115,7 +115,7 @@ Source:	Tasha's Cauldron of Everything p. 134,
     <modifier category="bonus">spell dc +1</modifier>
   </item>
   <item>
-    <name>All-Purpose Tool +2</name>
+    <name>All-Purpose Tool +2 [Legacy]</name>
     <detail>rare (requires attunement by an artificer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -132,7 +132,7 @@ Source:	Tasha's Cauldron of Everything p. 119</text>
     <modifier category="bonus">spell dc +2</modifier>
   </item>
   <item>
-    <name>Amulet of the Devout +2</name>
+    <name>Amulet of the Devout +2 [Legacy]</name>
     <detail>rare (requires attunement by a cleric or paladin)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -147,7 +147,7 @@ Source:	Tasha's Cauldron of Everything p. 119</text>
     <modifier category="bonus">spell dc +2</modifier>
   </item>
   <item>
-    <name>Arcane Grimoire +2</name>
+    <name>Arcane Grimoire +2 [Legacy]</name>
     <detail>rare (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -162,7 +162,7 @@ Source:	Tasha's Cauldron of Everything p. 120</text>
     <modifier category="bonus">spell dc +2</modifier>
   </item>
   <item>
-    <name>Bloodwell Vial +2</name>
+    <name>Bloodwell Vial +2 [Legacy]</name>
     <detail>rare (requires attunement by a sorcerer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -177,7 +177,7 @@ Source:	Tasha's Cauldron of Everything p. 122</text>
     <modifier category="bonus">spell dc +2</modifier>
   </item>
   <item>
-    <name>Moon Sickle +2</name>
+    <name>Moon Sickle +2 [Legacy]</name>
     <detail>rare (requires attunement by a druid or ranger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -199,7 +199,7 @@ Source:	Tasha's Cauldron of Everything p. 133</text>
     <modifier category="bonus">spell dc +2</modifier>
   </item>
   <item>
-    <name>Rhythm-Maker's Drum +2</name>
+    <name>Rhythm-Maker's Drum +2 [Legacy]</name>
     <detail>instrument, rare (requires attunement by a bard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -229,7 +229,7 @@ Source:	Tasha's Cauldron of Everything p. 134,
     <modifier category="bonus">spell dc +2</modifier>
   </item>
   <item>
-    <name>All-Purpose Tool +3</name>
+    <name>All-Purpose Tool +3 [Legacy]</name>
     <detail>very rare (requires attunement by an artificer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -246,7 +246,7 @@ Source:	Tasha's Cauldron of Everything p. 119</text>
     <modifier category="bonus">spell dc +3</modifier>
   </item>
   <item>
-    <name>Amulet of the Devout +3</name>
+    <name>Amulet of the Devout +3 [Legacy]</name>
     <detail>very rare (requires attunement by a cleric or paladin)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -261,7 +261,7 @@ Source:	Tasha's Cauldron of Everything p. 119</text>
     <modifier category="bonus">spell dc +3</modifier>
   </item>
   <item>
-    <name>Arcane Grimoire +3</name>
+    <name>Arcane Grimoire +3 [Legacy]</name>
     <detail>very rare (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -276,7 +276,7 @@ Source:	Tasha's Cauldron of Everything p. 120</text>
     <modifier category="bonus">spell dc +3</modifier>
   </item>
   <item>
-    <name>Bloodwell Vial +3</name>
+    <name>Bloodwell Vial +3 [Legacy]</name>
     <detail>very rare (requires attunement by a sorcerer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -291,7 +291,7 @@ Source:	Tasha's Cauldron of Everything p. 122</text>
     <modifier category="bonus">spell dc +3</modifier>
   </item>
   <item>
-    <name>Moon Sickle +3</name>
+    <name>Moon Sickle +3 [Legacy]</name>
     <detail>very rare (requires attunement by a druid or ranger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -313,7 +313,7 @@ Source:	Tasha's Cauldron of Everything p. 133</text>
     <modifier category="bonus">spell dc +3</modifier>
   </item>
   <item>
-    <name>Rhythm-Maker's Drum +3</name>
+    <name>Rhythm-Maker's Drum +3 [Legacy]</name>
     <detail>instrument, very rare (requires attunement by a bard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -343,7 +343,7 @@ Source:	Tasha's Cauldron of Everything p. 134,
     <modifier category="bonus">spell dc +3</modifier>
   </item>
   <item>
-    <name>Absorbing Tattoo</name>
+    <name>Absorbing Tattoo [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -375,7 +375,7 @@ Damage Absorption: When you take damage of the chosen type, you can use your rea
 Source:	Tasha's Cauldron of Everything p. 119</text>
   </item>
   <item>
-    <name>Acid Absorbing Tattoo</name>
+    <name>Acid Absorbing Tattoo [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -393,7 +393,7 @@ Damage Absorption: When you take acid damage, you can use your reaction to gain 
 Source:	Tasha's Cauldron of Everything p. 119</text>
   </item>
   <item>
-    <name>Alchemical Compendium</name>
+    <name>Alchemical Compendium [Legacy]</name>
     <detail>rare (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -413,7 +413,7 @@ Source:	Tasha's Cauldron of Everything p. 119</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Astral Shard</name>
+    <name>Astral Shard [Legacy]</name>
     <detail>rare (requires attunement by a sorcerer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -426,7 +426,7 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 Source:	Tasha's Cauldron of Everything p. 120</text>
   </item>
   <item>
-    <name>Astromancy Archive</name>
+    <name>Astromancy Archive [Legacy]</name>
     <detail>rare (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -446,7 +446,7 @@ Source:	Tasha's Cauldron of Everything p. 120</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Atlas of Endless Horizons</name>
+    <name>Atlas of Endless Horizons [Legacy]</name>
     <detail>rare (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -466,7 +466,7 @@ Source:	Tasha's Cauldron of Everything p. 120</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Baba Yaga's Mortar and Pestle</name>
+    <name>Baba Yaga's Mortar and Pestle [Legacy]</name>
     <detail>artifact (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -513,7 +513,7 @@ Source:	Tasha's Cauldron of Everything p. 121</text>
     <roll>4d10</roll>
   </item>
   <item>
-    <name>Baba Yaga's Pestle</name>
+    <name>Baba Yaga's Pestle [Legacy]</name>
     <detail>quarterstaff, artifact (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -535,7 +535,7 @@ Source:	Tasha's Cauldron of Everything p. 121</text>
     <roll>1d8</roll>
   </item>
   <item>
-    <name>Barrier Tattoo (Large)</name>
+    <name>Barrier Tattoo (Large) [Legacy]</name>
     <detail>very rare (tattoo)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -552,7 +552,7 @@ Protection: While you aren't wearing armor, the tattoo grants you an Armor Class
 Source:	Tasha's Cauldron of Everything p. 122</text>
   </item>
   <item>
-    <name>Barrier Tattoo (Medium)</name>
+    <name>Barrier Tattoo (Medium) [Legacy]</name>
     <detail>rare (tattoo)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -569,7 +569,7 @@ Protection: While you aren't wearing armor, the tattoo grants you an Armor Class
 Source:	Tasha's Cauldron of Everything p. 122</text>
   </item>
   <item>
-    <name>Barrier Tattoo (Small)</name>
+    <name>Barrier Tattoo (Small) [Legacy]</name>
     <detail>uncommon (tattoo)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -586,7 +586,7 @@ Protection: While you aren't wearing armor, the tattoo grants you an Armor Class
 Source:	Tasha's Cauldron of Everything p. 122</text>
   </item>
   <item>
-    <name>Bell Branch</name>
+    <name>Bell Branch [Legacy]</name>
     <detail>rare (requires attunement by a druid or warlock)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -604,7 +604,7 @@ Source:	Tasha's Cauldron of Everything p. 122</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Blood Fury Tattoo</name>
+    <name>Blood Fury Tattoo [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -626,7 +626,7 @@ Source:	Tasha's Cauldron of Everything p. 122</text>
     <roll>4d6</roll>
   </item>
   <item>
-    <name>Coiling Grasp Tattoo</name>
+    <name>Coiling Grasp Tattoo [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -644,7 +644,7 @@ Source:	Tasha's Cauldron of Everything p. 123</text>
     <roll>3d6</roll>
   </item>
   <item>
-    <name>Cold Absorbing Tattoo</name>
+    <name>Cold Absorbing Tattoo [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -662,7 +662,7 @@ Damage Absorption: When you take cold damage, you can use your reaction to gain 
 Source:	Tasha's Cauldron of Everything p. 119</text>
   </item>
   <item>
-    <name>Crook of Rao</name>
+    <name>Crook of Rao [Legacy]</name>
     <detail>artifact (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -704,7 +704,7 @@ Source:	Tasha's Cauldron of Everything p. 123</text>
     <roll>1d10</roll>
   </item>
   <item>
-    <name>Crystalline Chronicle</name>
+    <name>Crystalline Chronicle [Legacy]</name>
     <detail>very rare (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -724,7 +724,7 @@ Source:	Tasha's Cauldron of Everything p. 124</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Devotee's Censer</name>
+    <name>Devotee's Censer [Legacy]</name>
     <detail>flail, rare (requires attunement by a cleric or paladin)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -742,7 +742,7 @@ Source:	Tasha's Cauldron of Everything p. 126</text>
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Duplicitous Manuscript</name>
+    <name>Duplicitous Manuscript [Legacy]</name>
     <detail>rare (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -764,7 +764,7 @@ Source:	Tasha's Cauldron of Everything p. 126</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Eldritch Claw Tattoo</name>
+    <name>Eldritch Claw Tattoo [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -784,7 +784,7 @@ Source:	Tasha's Cauldron of Everything p. 126</text>
     <roll>1d6</roll>
   </item>
   <item>
-    <name>Elemental Essence Shard</name>
+    <name>Elemental Essence Shard [Legacy]</name>
     <detail>rare (requires attunement by a sorcerer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -804,7 +804,7 @@ d4 | Element | Shard
 Source:	Tasha's Cauldron of Everything p. 127</text>
   </item>
   <item>
-    <name>Elemental Essence Shard (Air)</name>
+    <name>Elemental Essence Shard (Air) [Legacy]</name>
     <detail>rare (requires attunement by a sorcerer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -818,7 +818,7 @@ Property: You can immediately fly up to 60 feet without provoking opportunity at
 Source:	Tasha's Cauldron of Everything p. 127</text>
   </item>
   <item>
-    <name>Elemental Essence Shard (Earth)</name>
+    <name>Elemental Essence Shard (Earth) [Legacy]</name>
     <detail>rare (requires attunement by a sorcerer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -832,7 +832,7 @@ Property: You gain resistance to a damage type of your choice until the start of
 Source:	Tasha's Cauldron of Everything p. 127</text>
   </item>
   <item>
-    <name>Elemental Essence Shard (Fire)</name>
+    <name>Elemental Essence Shard (Fire) [Legacy]</name>
     <detail>rare (requires attunement by a sorcerer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -847,7 +847,7 @@ Source:	Tasha's Cauldron of Everything p. 127</text>
     <roll>2d10</roll>
   </item>
   <item>
-    <name>Elemental Essence Shard (Water)</name>
+    <name>Elemental Essence Shard (Water) [Legacy]</name>
     <detail>rare (requires attunement by a sorcerer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -862,7 +862,7 @@ Source:	Tasha's Cauldron of Everything p. 127</text>
     <roll>2d6</roll>
   </item>
   <item>
-    <name>Far Realm Shard</name>
+    <name>Far Realm Shard [Legacy]</name>
     <detail>rare (requires attunement by a sorcerer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -876,7 +876,7 @@ Source:	Tasha's Cauldron of Everything p. 127</text>
     <roll>3d6</roll>
   </item>
   <item>
-    <name>Feywild Shard</name>
+    <name>Feywild Shard [Legacy]</name>
     <detail>uncommon (requires attunement by a sorcerer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -891,7 +891,7 @@ If you don't have the Wild Magic Sorcerous Origin, once this property is used to
 Source:	Tasha's Cauldron of Everything p. 127</text>
   </item>
   <item>
-    <name>Fire Absorbing Tattoo</name>
+    <name>Fire Absorbing Tattoo [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -909,7 +909,7 @@ Damage Absorption: When you take fire damage, you can use your reaction to gain 
 Source:	Tasha's Cauldron of Everything p. 119</text>
   </item>
   <item>
-    <name>Force Absorbing Tattoo</name>
+    <name>Force Absorbing Tattoo [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -927,7 +927,7 @@ Damage Absorption: When you take force damage, you can use your reaction to gain
 Source:	Tasha's Cauldron of Everything p. 119</text>
   </item>
   <item>
-    <name>Fulminating Treatise</name>
+    <name>Fulminating Treatise [Legacy]</name>
     <detail>rare (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -948,7 +948,7 @@ Source:	Tasha's Cauldron of Everything p. 128</text>
     <roll>2d6</roll>
   </item>
   <item>
-    <name>Ghost Step Tattoo</name>
+    <name>Ghost Step Tattoo [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -970,7 +970,7 @@ Source:	Tasha's Cauldron of Everything p. 128</text>
     <roll>1d10</roll>
   </item>
   <item>
-    <name>Guardian Emblem</name>
+    <name>Guardian Emblem [Legacy]</name>
     <detail>uncommon (requires attunement by a cleric or paladin)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -985,7 +985,7 @@ The emblem regains all expended charges daily at dawn.
 Source:	Tasha's Cauldron of Everything p. 128</text>
   </item>
   <item>
-    <name>Heart Weaver's Primer</name>
+    <name>Heart Weaver's Primer [Legacy]</name>
     <detail>rare (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1005,7 +1005,7 @@ Source:	Tasha's Cauldron of Everything p. 128</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Illuminator's Tattoo</name>
+    <name>Illuminator's Tattoo [Legacy]</name>
     <detail>common (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1024,7 +1024,7 @@ As an action, you can touch a piece of writing up to one page in length and spea
 Source:	Tasha's Cauldron of Everything p. 129</text>
   </item>
   <item>
-    <name>Libram of Souls and Flesh</name>
+    <name>Libram of Souls and Flesh [Legacy]</name>
     <detail>rare (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1044,7 +1044,7 @@ Source:	Tasha's Cauldron of Everything p. 129</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Lifewell Tattoo</name>
+    <name>Lifewell Tattoo [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1063,7 +1063,7 @@ Life Ward: When you would be reduced to 0 hit points, you drop to 1 hit point in
 Source:	Tasha's Cauldron of Everything p. 129</text>
   </item>
   <item>
-    <name>Lightning Absorbing Tattoo</name>
+    <name>Lightning Absorbing Tattoo [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1081,7 +1081,7 @@ Damage Absorption: When you take lightning damage, you can use your reaction to 
 Source:	Tasha's Cauldron of Everything p. 119</text>
   </item>
   <item>
-    <name>Luba's Tarokka of Souls</name>
+    <name>Luba's Tarokka of Souls [Legacy]</name>
     <detail>artifact (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1138,7 +1138,7 @@ Source:	Tasha's Cauldron of Everything p. 129</text>
     <roll>10d10</roll>
   </item>
   <item>
-    <name>Lyre of Building</name>
+    <name>Lyre of Building [Legacy]</name>
     <detail>instrument, rare (requires attunement by a bard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1166,7 +1166,7 @@ Source:	Tasha's Cauldron of Everything p. 131,
 		Xanathar's Guide to Everything p. 83</text>
   </item>
   <item>
-    <name>Masquerade Tattoo</name>
+    <name>Masquerade Tattoo [Legacy]</name>
     <detail>common (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1185,7 +1185,7 @@ Disguise Self: As an action, you can use the tattoo to cast the disguise self sp
 Source:	Tasha's Cauldron of Everything p. 131</text>
   </item>
   <item>
-    <name>Mighty Servant of Leuk-o</name>
+    <name>Mighty Servant of Leuk-o [Legacy]</name>
     <detail>artifact (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1231,7 +1231,7 @@ Source:	Tasha's Cauldron of Everything p. 131</text>
     <roll>2d6</roll>
   </item>
   <item>
-    <name>Necrotic Absorbing Tattoo</name>
+    <name>Necrotic Absorbing Tattoo [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1249,7 +1249,7 @@ Damage Absorption: When you take necrotic damage, you can use your reaction to g
 Source:	Tasha's Cauldron of Everything p. 119</text>
   </item>
   <item>
-    <name>Outer Essence Shard</name>
+    <name>Outer Essence Shard [Legacy]</name>
     <detail>rare (requires attunement by a sorcerer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1269,7 +1269,7 @@ d4 | Property | Shard
 Source:	Tasha's Cauldron of Everything p. 133</text>
   </item>
   <item>
-    <name>Outer Essence Shard (Chaotic)</name>
+    <name>Outer Essence Shard (Chaotic) [Legacy]</name>
     <detail>rare (requires attunement by a sorcerer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1284,7 +1284,7 @@ Property: Choose one creature who takes damage from the spell. That target has d
 Source:	Tasha's Cauldron of Everything p. 133</text>
   </item>
   <item>
-    <name>Outer Essence Shard (Evil)</name>
+    <name>Outer Essence Shard (Evil) [Legacy]</name>
     <detail>rare (requires attunement by a sorcerer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1300,7 +1300,7 @@ Source:	Tasha's Cauldron of Everything p. 133</text>
     <roll>3d6</roll>
   </item>
   <item>
-    <name>Outer Essence Shard (Good)</name>
+    <name>Outer Essence Shard (Good) [Legacy]</name>
     <detail>rare (requires attunement by a sorcerer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1316,7 +1316,7 @@ Source:	Tasha's Cauldron of Everything p. 133</text>
     <roll>3d6</roll>
   </item>
   <item>
-    <name>Outer Essence Shard (Lawful)</name>
+    <name>Outer Essence Shard (Lawful) [Legacy]</name>
     <detail>rare (requires attunement by a sorcerer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1331,7 +1331,7 @@ Property: You can end one of the following conditions affecting yourself or one 
 Source:	Tasha's Cauldron of Everything p. 133</text>
   </item>
   <item>
-    <name>Planecaller's Codex</name>
+    <name>Planecaller's Codex [Legacy]</name>
     <detail>rare (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1351,7 +1351,7 @@ Source:	Tasha's Cauldron of Everything p. 134</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Poison Absorbing Tattoo</name>
+    <name>Poison Absorbing Tattoo [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1369,7 +1369,7 @@ Damage Absorption: When you take poison damage, you can use your reaction to gai
 Source:	Tasha's Cauldron of Everything p. 119</text>
   </item>
   <item>
-    <name>Protective Verses</name>
+    <name>Protective Verses [Legacy]</name>
     <detail>rare (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1390,7 +1390,7 @@ Source:	Tasha's Cauldron of Everything p. 134</text>
     <roll>2d10</roll>
   </item>
   <item>
-    <name>Psychic Absorbing Tattoo</name>
+    <name>Psychic Absorbing Tattoo [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1408,7 +1408,7 @@ Damage Absorption: When you take psychic damage, you can use your reaction to ga
 Source:	Tasha's Cauldron of Everything p. 119</text>
   </item>
   <item>
-    <name>Radiant Absorbing Tattoo</name>
+    <name>Radiant Absorbing Tattoo [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1426,7 +1426,7 @@ Damage Absorption: When you take radiant damage, you can use your reaction to ga
 Source:	Tasha's Cauldron of Everything p. 119</text>
   </item>
   <item>
-    <name>Reveler's Concertina</name>
+    <name>Reveler's Concertina [Legacy]</name>
     <detail>instrument, rare (requires attunement by a bard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1454,7 +1454,7 @@ Source:	Tasha's Cauldron of Everything p. 134,
 		Xanathar's Guide to Everything p. 83</text>
   </item>
   <item>
-    <name>Shadowfell Brand Tattoo</name>
+    <name>Shadowfell Brand Tattoo [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1473,7 +1473,7 @@ Shadowy Defense: When you take damage, you can use your reaction to become insub
 Source:	Tasha's Cauldron of Everything p. 134</text>
   </item>
   <item>
-    <name>Shadowfell Shard</name>
+    <name>Shadowfell Shard [Legacy]</name>
     <detail>rare (requires attunement by a sorcerer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1486,7 +1486,7 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 Source:	Tasha's Cauldron of Everything p. 135</text>
   </item>
   <item>
-    <name>Spellwrought Tattoo (1st Level)</name>
+    <name>Spellwrought Tattoo (1st Level) [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1499,7 +1499,7 @@ The Ability modifier for this spell is +3; the Save DC is 13 and the attack bonu
 Source:	Tasha's Cauldron of Everything p. 135</text>
   </item>
   <item>
-    <name>Spellwrought Tattoo (2nd Level)</name>
+    <name>Spellwrought Tattoo (2nd Level) [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1512,7 +1512,7 @@ The Ability modifier for this spell is +3; the Save DC is 13 and the attack bonu
 Source:	Tasha's Cauldron of Everything p. 135</text>
   </item>
   <item>
-    <name>Spellwrought Tattoo (3rd Level)</name>
+    <name>Spellwrought Tattoo (3rd Level) [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1525,7 +1525,7 @@ The Ability modifier for this spell is +4; the Save DC is 15 and the attack bonu
 Source:	Tasha's Cauldron of Everything p. 135</text>
   </item>
   <item>
-    <name>Spellwrought Tattoo (4th Level)</name>
+    <name>Spellwrought Tattoo (4th Level) [Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1538,7 +1538,7 @@ The Ability modifier for this spell is +4; the Save DC is 15 and the attack bonu
 Source:	Tasha's Cauldron of Everything p. 135</text>
   </item>
   <item>
-    <name>Spellwrought Tattoo (5th Level)</name>
+    <name>Spellwrought Tattoo (5th Level) [Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1551,7 +1551,7 @@ The Ability modifier for this spell is +5; the Save DC is 17 and the attack bonu
 Source:	Tasha's Cauldron of Everything p. 135</text>
   </item>
   <item>
-    <name>Spellwrought Tattoo (Cantrip)</name>
+    <name>Spellwrought Tattoo (Cantrip) [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1564,7 +1564,7 @@ The Ability modifier for this spell is +3; the Save DC is 13 and the attack bonu
 Source:	Tasha's Cauldron of Everything p. 135</text>
   </item>
   <item>
-    <name>Teeth of Dahlver-Nar</name>
+    <name>Teeth of Dahlver-Nar [Legacy]</name>
     <detail>artifact (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1619,7 +1619,7 @@ Source:	Tasha's Cauldron of Everything p. 135</text>
     <roll>26d6</roll>
   </item>
   <item>
-    <name>Thunder Absorbing Tattoo</name>
+    <name>Thunder Absorbing Tattoo [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1637,7 +1637,7 @@ Damage Absorption: When you take thunder damage, you can use your reaction to ga
 Source:	Tasha's Cauldron of Everything p. 119</text>
   </item>
   <item>
-    <name>Spellwrought Tattoo</name>
+    <name>Spellwrought Tattoo [Legacy]</name>
     <detail />
     <type>W</type>
     <magic>YES</magic>

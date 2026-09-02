@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Eldritch Invocation: Agonizing Shots (TP)</name>
+    <name>Eldritch Invocation: Agonizing Shots [TP]</name>
     <level>0</level>
     <classes>Eldritch Invocations</classes>
     <text>Prerequisite: Pact of the Trigger feature
@@ -11,7 +11,7 @@ When you cast a cantrip with your hex gun, add your Charisma modifier to the dam
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 169 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Eldritch Invocation: Bullet Hell (TP)</name>
+    <name>Eldritch Invocation: Bullet Hell [TP]</name>
     <level>0</level>
     <time>1 Bonus Action</time>
     <classes>Eldritch Invocations</classes>
@@ -27,7 +27,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 169 (Homebrew)</text>
     <roll description="Force Damage" level="17">4d10</roll>
   </spell>
   <spell>
-    <name>Eldritch Invocation: Crippling Shot (TP)</name>
+    <name>Eldritch Invocation: Crippling Shot [TP]</name>
     <level>0</level>
     <classes>Eldritch Invocations</classes>
     <text>Prerequisite: Pact of the Trigger feature (revolver form)
@@ -38,7 +38,7 @@ Once on each of your turns when you damage a creature with an attack made using 
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 169 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Eldritch Invocation: Dead Eye (TP)</name>
+    <name>Eldritch Invocation: Dead Eye [TP]</name>
     <level>0</level>
     <time>1 Bonus Action</time>
     <classes>Eldritch Invocations</classes>
@@ -49,7 +49,7 @@ If you haven't moved this turn, you can take aim as a bonus action, reducing you
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 169 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Eldritch Invocation: Headshots (TP)</name>
+    <name>Eldritch Invocation: Headshots [TP]</name>
     <level>0</level>
     <time>1 Bonus Action</time>
     <classes>Eldritch Invocations</classes>
@@ -60,7 +60,7 @@ As a bonus action, you can enhance your focus to see the weak spots of your foes
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 169 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Eldritch Invocation: Quick Step (TP)</name>
+    <name>Eldritch Invocation: Quick Step [TP]</name>
     <level>0</level>
     <time>1 Reaction</time>
     <classes>Eldritch Invocations</classes>
@@ -72,7 +72,7 @@ Your reflexes are honed. As a reaction, when an enemy makes a melee attack again
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 170 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Eldritch Invocation: Reckless Fire (TP)</name>
+    <name>Eldritch Invocation: Reckless Fire [TP]</name>
     <level>0</level>
     <classes>Eldritch Invocations</classes>
     <text>Prerequisite: Pact of the Trigger feature
@@ -82,7 +82,7 @@ Your shots are like a rain of lead. When you roll a 1 or 2 on a damage die for a
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 170 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Eldritch Invocation: Repeating Cantrips (TP)</name>
+    <name>Eldritch Invocation: Repeating Cantrips [TP]</name>
     <level>0</level>
     <classes>Eldritch Invocations</classes>
     <text>Prerequisite: 5th level, Pact of the Trigger feature
@@ -92,7 +92,7 @@ When you fire a cantrip through your hex gun, its non-damaging effects (such as 
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 170 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Eldritch Invocation: Ricochet (TP)</name>
+    <name>Eldritch Invocation: Ricochet [TP]</name>
     <level>0</level>
     <classes>Eldritch Invocations</classes>
     <text>Prerequisite: 7th level, Pact of the Trigger feature
@@ -103,7 +103,7 @@ Until the end of your turn, you enhance your hex gun. When you hit a creature wi
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 170 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Eldritch Invocation: Riposte (TP)</name>
+    <name>Eldritch Invocation: Riposte [TP]</name>
     <level>0</level>
     <time>1 Reaction</time>
     <classes>Eldritch Invocations</classes>
@@ -116,14 +116,14 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 170 (Homebrew)</text>
     <roll description="Force Damage">1d10</roll>
   </spell>
   <feat>
-    <name>Fighting Style: Flexible Fighting (TP)</name>
+    <name>Fighting Style: Flexible Fighting [TP]</name>
     <prerequisite>Fighting Style Feature, Jaeger class</prerequisite>
     <text>You can engage in two-weapon fighting with any weapons you can wield in one hand, including one-handed ranged weapons and weapons without the light property. When you do so, you gain a +1 bonus to the damage rolls of both weapons.
 
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 116 (Homebrew)</text>
   </feat>
   <feat>
-    <name>Fighting Style: Focused Fighting (TP)</name>
+    <name>Fighting Style: Focused Fighting [TP]</name>
     <prerequisite>Fighting Style Feature, Jaeger class</prerequisite>
     <text>You learn an additional Focus Art, and you gain 1 additional Focus Point.
 

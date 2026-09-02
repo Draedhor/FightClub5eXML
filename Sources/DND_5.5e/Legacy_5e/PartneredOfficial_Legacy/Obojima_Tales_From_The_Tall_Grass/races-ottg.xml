@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Dara (TP)</name>
+    <name>Dara [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <trait category="description">
@@ -71,7 +71,7 @@ The talisman lasts for 1 hour or until it is activated. Once you use this trait,
     </trait>
   </race>
   <race>
-    <name>Dara, Blue (TP)</name>
+    <name>Dara, Blue [TP Legacy]</name>
     <displayname>Blue Dara</displayname>
     <ancestry>Dara</ancestry>
     <size>M</size>
@@ -156,7 +156,7 @@ The talisman lasts for 1 hour or until it is activated. Once you use this trait,
     </trait>
   </race>
   <race>
-    <name>Dara, Red (TP)</name>
+    <name>Dara, Red [TP Legacy]</name>
     <displayname>Red Dara</displayname>
     <ancestry>Dara</ancestry>
     <size>S</size>
@@ -241,7 +241,7 @@ The talisman lasts for 1 hour or until it is activated. Once you use this trait,
     </trait>
   </race>
   <race>
-    <name>Elf, Obojima (TP)</name>
+    <name>Elf, Obojima [TP Legacy]</name>
     <displayname>Obojima Elf</displayname>
     <ancestry>Elf</ancestry>
     <size>M</size>
@@ -368,7 +368,7 @@ If you meditate during a long rest, you finish the rest after only 4 hours. You 
     </trait>
   </race>
   <race>
-    <name>Nakudama (TP)</name>
+    <name>Nakudama [TP Legacy]</name>
     <size>S</size>
     <speed>25</speed>
     <trait category="description">

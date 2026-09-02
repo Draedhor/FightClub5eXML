@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Abracadabrus</name>
+    <name>Abracadabrus [Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -14,7 +14,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 314</text>
     <roll description="Recharge">1d20</roll>
   </item>
   <item>
-    <name>Axe Beak</name>
+    <name>Axe Beak [Legacy]</name>
     <detail>mount</detail>
     <type>G</type>
     <value>50.0</value>
@@ -23,7 +23,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 314</text>
 Source:	Icewind Dale: Rime of the Frostmaiden p. 20</text>
   </item>
   <item>
-    <name>Cauldron of Plenty</name>
+    <name>Cauldron of Plenty [Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -35,7 +35,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 20</text>
 Source:	Icewind Dale: Rime of the Frostmaiden p. 314</text>
   </item>
   <item>
-    <name>Cold weather clothing</name>
+    <name>Cold weather clothing [Legacy]</name>
     <type>G</type>
     <weight>5</weight>
     <value>10.0</value>
@@ -45,7 +45,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 314</text>
 Source:	Icewind Dale: Rime of the Frostmaiden p. 20</text>
   </item>
   <item>
-    <name>Crampons</name>
+    <name>Crampons [Legacy]</name>
     <type>G</type>
     <weight>0.25</weight>
     <value>2.0</value>
@@ -54,7 +54,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 20</text>
 Source:	Icewind Dale: Rime of the Frostmaiden p. 20</text>
   </item>
   <item>
-    <name>Dogsled</name>
+    <name>Dogsled [Legacy]</name>
     <detail>vehicle (land)</detail>
     <type>G</type>
     <weight>300</weight>
@@ -65,7 +65,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 20</text>
 Source:	Icewind Dale: Rime of the Frostmaiden p. 20</text>
   </item>
   <item>
-    <name>Hook of Fisher's Delight</name>
+    <name>Hook of Fisher's Delight [Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -83,7 +83,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 314</text>
     <roll description="Hook of Fisher's Delight">1d20</roll>
   </item>
   <item>
-    <name>Trinket (Icewind Dale)</name>
+    <name>Trinket (Icewind Dale) [Legacy]</name>
     <type>G</type>
     <text>Icewind Dale Trinkets:
 d100 | Trinket
@@ -117,7 +117,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 263</text>
     <roll description="Trinket">1d100</roll>
   </item>
   <item>
-    <name>Lantern of Tracking</name>
+    <name>Lantern of Tracking [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -141,7 +141,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 314</text>
     <roll description="Creature Type">1d10</roll>
   </item>
   <item>
-    <name>Orc Stone</name>
+    <name>Orc Stone [Legacy]</name>
     <detail>uncommon (requires attunement by a recipient only)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -152,7 +152,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 314</text>
 Source:	Icewind Dale: Rime of the Frostmaiden p. 264</text>
   </item>
   <item>
-    <name>Professor Skant</name>
+    <name>Professor Skant [Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -166,7 +166,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 264</text>
 Source:	Icewind Dale: Rime of the Frostmaiden p. 315</text>
   </item>
   <item>
-    <name>Psi Crystal</name>
+    <name>Psi Crystal [Legacy]</name>
     <detail>uncommon (requires attunement by a creature with an intelligence score of 3 or higher)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -184,7 +184,7 @@ Intelligence Score | Range of Telepathy | Light Intensity
 Source:	Icewind Dale: Rime of the Frostmaiden p. 315</text>
   </item>
   <item>
-    <name>Scroll of Tarrasque Summoning</name>
+    <name>Scroll of Tarrasque Summoning [Legacy]</name>
     <detail>legendary</detail>
     <type>SC</type>
     <magic>YES</magic>
@@ -193,7 +193,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 315</text>
 Source:	Icewind Dale: Rime of the Frostmaiden p. 315</text>
   </item>
   <item>
-    <name>Scroll of the Comet</name>
+    <name>Scroll of the Comet [Legacy]</name>
     <detail>legendary</detail>
     <type>SC</type>
     <magic>YES</magic>
@@ -204,7 +204,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 315</text>
     <roll description="Force Damage">30d10</roll>
   </item>
   <item>
-    <name>Shield Guardian Amulet</name>
+    <name>Shield Guardian Amulet [Legacy]</name>
     <detail>rare (requires attunement by a humanoid)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -217,7 +217,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 315</text>
 Source:	Icewind Dale: Rime of the Frostmaiden p. 149</text>
   </item>
   <item>
-    <name>Sled Dog</name>
+    <name>Sled Dog [Legacy]</name>
     <detail>mount</detail>
     <type>G</type>
     <value>50.0</value>
@@ -227,7 +227,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 149</text>
 Source:	Icewind Dale: Rime of the Frostmaiden p. 20</text>
   </item>
   <item>
-    <name>Snowshoes</name>
+    <name>Snowshoes [Legacy]</name>
     <type>G</type>
     <weight>4</weight>
     <value>2.0</value>
@@ -236,7 +236,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 20</text>
 Source:	Icewind Dale: Rime of the Frostmaiden p. 20</text>
   </item>
   <item>
-    <name>The Codicil of White</name>
+    <name>The Codicil of White [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <text>The Codicil of White is a tall, thin volume bound in white ermine fur over seasoned boards of white pine and sealed with a clasp and lock of tarnished silver. The book is cold to the touch, and the fur is worn about the edges from use. The twenty-seven pages within are of vellum painted with silver gilt on the outer edges. The whole is sewn to a leather binding with strips of sinews, making it quite durable.
@@ -246,7 +246,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 20</text>
 Source:	Icewind Dale: Rime of the Frostmaiden p. 317</text>
   </item>
   <item>
-    <name>The Incantations of Iriolarthas</name>
+    <name>The Incantations of Iriolarthas [Legacy]</name>
     <type>G</type>
     <magic>YES</magic>
     <weight>3</weight>
@@ -266,7 +266,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 317</text>
 Source:	Icewind Dale: Rime of the Frostmaiden p. 317</text>
   </item>
   <item>
-    <name>Thermal Cube</name>
+    <name>Thermal Cube [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -275,7 +275,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 317</text>
 Source:	Icewind Dale: Rime of the Frostmaiden p. 316</text>
   </item>
   <item>
-    <name>Ythryn Mythallar</name>
+    <name>Ythryn Mythallar [Legacy]</name>
     <detail>legendary (requires attunement by a spellcaster)</detail>
     <type>W</type>
     <magic>YES</magic>

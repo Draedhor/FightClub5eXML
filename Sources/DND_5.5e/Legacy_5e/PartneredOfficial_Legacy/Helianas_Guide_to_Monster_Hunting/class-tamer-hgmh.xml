@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Tamer (TP)</name>
+    <name>Tamer [TP Legacy]</name>
     <hd>8</hd>
     <proficiency>Constitution, Charisma, Animal Handling, Insight, Medicine, Nature, Perception, Persuasion</proficiency>
     <numSkills>2</numSkills>

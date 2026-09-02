@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Breathing Bubble</name>
+    <name>Breathing Bubble [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>common</detail>
@@ -12,7 +12,7 @@ You gain the item's benefits by wearing it over your head like a helmet. When it
 Source:	Critical Role: Call of the Netherdeep p. 212, Explorer's Guide to Wildemount p. 266</text>
   </item>
   <item>
-    <name>Earring of Message</name>
+    <name>Earring of Message [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>common</detail>
@@ -21,7 +21,7 @@ Source:	Critical Role: Call of the Netherdeep p. 212, Explorer's Guide to Wildem
 Source:	Critical Role: Call of the Netherdeep p. 212</text>
   </item>
   <item>
-    <name>Jewel of Three Prayers</name>
+    <name>Jewel of Three Prayers [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>legendary (requires attunement)</detail>
@@ -60,7 +60,7 @@ The following benefits of the jewel improve:
 Source:	Critical Role: Call of the Netherdeep p. 213</text>
   </item>
   <item>
-    <name>Medal of Muscle</name>
+    <name>Medal of Muscle [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>common</detail>
@@ -69,7 +69,7 @@ Source:	Critical Role: Call of the Netherdeep p. 213</text>
 Source:	Critical Role: Call of the Netherdeep p. 214</text>
   </item>
   <item>
-    <name>Medal of The Conch</name>
+    <name>Medal of The Conch [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>common</detail>
@@ -78,7 +78,7 @@ Source:	Critical Role: Call of the Netherdeep p. 214</text>
 Source:	Critical Role: Call of the Netherdeep p. 214</text>
   </item>
   <item>
-    <name>Medal of The Horizonback</name>
+    <name>Medal of The Horizonback [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>common</detail>
@@ -87,7 +87,7 @@ Source:	Critical Role: Call of the Netherdeep p. 214</text>
 Source:	Critical Role: Call of the Netherdeep p. 214</text>
   </item>
   <item>
-    <name>Medal of The Maze</name>
+    <name>Medal of The Maze [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>common</detail>
@@ -96,7 +96,7 @@ Source:	Critical Role: Call of the Netherdeep p. 214</text>
 Source:	Critical Role: Call of the Netherdeep p. 214</text>
   </item>
   <item>
-    <name>Medal of The Meat Pie</name>
+    <name>Medal of The Meat Pie [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>common</detail>
@@ -107,7 +107,7 @@ While magical, this medal is slightly warm to the touch (as if it's fresh from t
 Source:	Critical Role: Call of the Netherdeep p. 214</text>
   </item>
   <item>
-    <name>Medal of The Wetlands</name>
+    <name>Medal of The Wetlands [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>common</detail>
@@ -116,7 +116,7 @@ Source:	Critical Role: Call of the Netherdeep p. 214</text>
 Source:	Critical Role: Call of the Netherdeep p. 214</text>
   </item>
   <item>
-    <name>Medal of Wit</name>
+    <name>Medal of Wit [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>common</detail>
@@ -125,7 +125,7 @@ Source:	Critical Role: Call of the Netherdeep p. 214</text>
 Source:	Critical Role: Call of the Netherdeep p. 214</text>
   </item>
   <item>
-    <name>Ring of Red Fury</name>
+    <name>Ring of Red Fury [Legacy]</name>
     <type>RG</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -148,7 +148,7 @@ If the Apotheon is killed or redeemed, all the ruidium in Exandria is destroyed 
 Source:	Critical Role: Call of the Netherdeep p. 214</text>
   </item>
   <item>
-    <name>Ruidium Breastplate</name>
+    <name>Ruidium Breastplate [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -169,7 +169,7 @@ Source:	Critical Role: Call of the Netherdeep p. 215</text>
     <ac>14</ac>
   </item>
   <item>
-    <name>Ruidium Shield</name>
+    <name>Ruidium Shield [Legacy]</name>
     <type>S</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -194,7 +194,7 @@ Source:	Critical Role: Call of the Netherdeep p. 215</text>
     <ac>2</ac>
   </item>
   <item>
-    <name>Ruidium Chain Shirt</name>
+    <name>Ruidium Chain Shirt [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -215,7 +215,7 @@ Source:	Critical Role: Call of the Netherdeep p. 215</text>
     <ac>13</ac>
   </item>
   <item>
-    <name>Ruidium Half Plate Armor</name>
+    <name>Ruidium Half Plate Armor [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -237,7 +237,7 @@ Source:	Critical Role: Call of the Netherdeep p. 215</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Ruidium Scale Mail</name>
+    <name>Ruidium Scale Mail [Legacy]</name>
     <type>MA</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -259,7 +259,7 @@ Source:	Critical Role: Call of the Netherdeep p. 215</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Ruidium Chain Mail</name>
+    <name>Ruidium Chain Mail [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -282,7 +282,7 @@ Source:	Critical Role: Call of the Netherdeep p. 215</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Ruidium Plate Armor</name>
+    <name>Ruidium Plate Armor [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -305,7 +305,7 @@ Source:	Critical Role: Call of the Netherdeep p. 215</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Ruidium Ring Mail</name>
+    <name>Ruidium Ring Mail [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -327,7 +327,7 @@ Source:	Critical Role: Call of the Netherdeep p. 215</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Ruidium Splint Armor</name>
+    <name>Ruidium Splint Armor [Legacy]</name>
     <type>HA</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -350,7 +350,7 @@ Source:	Critical Role: Call of the Netherdeep p. 215</text>
     <stealth>YES</stealth>
   </item>
   <item>
-    <name>Ruidium Battleaxe</name>
+    <name>Ruidium Battleaxe [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -374,7 +374,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <property>M,V</property>
   </item>
   <item>
-    <name>Teleportation Tablet</name>
+    <name>Teleportation Tablet [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <detail>rare</detail>
@@ -387,7 +387,7 @@ The teleportation circle created by the tablet The teleportation circle created 
 Source:	Critical Role: Call of the Netherdeep p. 216</text>
   </item>
   <item>
-    <name>Ruidium Club</name>
+    <name>Ruidium Club [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -410,7 +410,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <property>L</property>
   </item>
   <item>
-    <name>Ruidium Dagger</name>
+    <name>Ruidium Dagger [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -434,7 +434,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <range>20/60</range>
   </item>
   <item>
-    <name>Ruidium Flail</name>
+    <name>Ruidium Flail [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -457,7 +457,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <property>M</property>
   </item>
   <item>
-    <name>Ruidium Glaive</name>
+    <name>Ruidium Glaive [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -486,7 +486,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <property>M,H,R,2H</property>
   </item>
   <item>
-    <name>Ruidium Greataxe</name>
+    <name>Ruidium Greataxe [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -513,7 +513,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <property>M,H,2H</property>
   </item>
   <item>
-    <name>Ruidium Greatclub</name>
+    <name>Ruidium Greatclub [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -538,7 +538,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <property>2H</property>
   </item>
   <item>
-    <name>Ruidium Greatsword</name>
+    <name>Ruidium Greatsword [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -565,7 +565,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <property>M,H,2H</property>
   </item>
   <item>
-    <name>Ruidium Halberd</name>
+    <name>Ruidium Halberd [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -594,7 +594,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <property>M,H,R,2H</property>
   </item>
   <item>
-    <name>Ruidium Handaxe</name>
+    <name>Ruidium Handaxe [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -618,7 +618,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <range>20/60</range>
   </item>
   <item>
-    <name>Ruidium Javelin</name>
+    <name>Ruidium Javelin [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -644,7 +644,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <range>30/120</range>
   </item>
   <item>
-    <name>Ruidium Lance</name>
+    <name>Ruidium Lance [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -671,7 +671,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <property>M,R,S</property>
   </item>
   <item>
-    <name>Ruidium Light Hammer</name>
+    <name>Ruidium Light Hammer [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -699,7 +699,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <range>20/60</range>
   </item>
   <item>
-    <name>Ruidium Longsword</name>
+    <name>Ruidium Longsword [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -725,7 +725,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <property>M,V</property>
   </item>
   <item>
-    <name>Ruidium Mace</name>
+    <name>Ruidium Mace [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -747,7 +747,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <dmgType>B</dmgType>
   </item>
   <item>
-    <name>Ruidium Maul</name>
+    <name>Ruidium Maul [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -774,7 +774,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <property>M,H,2H</property>
   </item>
   <item>
-    <name>Ruidium Morningstar</name>
+    <name>Ruidium Morningstar [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -797,7 +797,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <property>M</property>
   </item>
   <item>
-    <name>Ruidium Pike</name>
+    <name>Ruidium Pike [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -826,7 +826,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <property>M,H,R,2H</property>
   </item>
   <item>
-    <name>Ruidium Quarterstaff</name>
+    <name>Ruidium Quarterstaff [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -852,7 +852,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <property>V</property>
   </item>
   <item>
-    <name>Ruidium Rapier</name>
+    <name>Ruidium Rapier [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -877,7 +877,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <property>M,F</property>
   </item>
   <item>
-    <name>Ruidium Scimitar</name>
+    <name>Ruidium Scimitar [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -904,7 +904,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <property>M,F,L</property>
   </item>
   <item>
-    <name>Ruidium Shortsword</name>
+    <name>Ruidium Shortsword [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -931,7 +931,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <property>M,F,L</property>
   </item>
   <item>
-    <name>Ruidium Sickle</name>
+    <name>Ruidium Sickle [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -956,7 +956,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <property>L</property>
   </item>
   <item>
-    <name>Ruidium Spear</name>
+    <name>Ruidium Spear [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -985,7 +985,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <range>20/60</range>
   </item>
   <item>
-    <name>Ruidium Trident</name>
+    <name>Ruidium Trident [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -1014,7 +1014,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <range>20/60</range>
   </item>
   <item>
-    <name>Ruidium War Pick</name>
+    <name>Ruidium War Pick [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -1037,7 +1037,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <property>M</property>
   </item>
   <item>
-    <name>Ruidium Warhammer</name>
+    <name>Ruidium Warhammer [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -1063,7 +1063,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <property>M,V</property>
   </item>
   <item>
-    <name>Ruidium Whip</name>
+    <name>Ruidium Whip [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -1090,7 +1090,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <property>M,F,R</property>
   </item>
   <item>
-    <name>Ruidium Yklwa</name>
+    <name>Ruidium Yklwa [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -1116,7 +1116,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <range>10/30</range>
   </item>
   <item>
-    <name>Ruidium Light Crossbow</name>
+    <name>Ruidium Light Crossbow [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -1149,7 +1149,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <range>80/320</range>
   </item>
   <item>
-    <name>Ruidium Shortbow</name>
+    <name>Ruidium Shortbow [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -1180,7 +1180,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <range>80/320</range>
   </item>
   <item>
-    <name>Ruidium Hand Crossbow</name>
+    <name>Ruidium Hand Crossbow [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -1211,7 +1211,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <range>30/120</range>
   </item>
   <item>
-    <name>Ruidium Heavy Crossbow</name>
+    <name>Ruidium Heavy Crossbow [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -1246,7 +1246,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <range>100/400</range>
   </item>
   <item>
-    <name>Ruidium Longbow</name>
+    <name>Ruidium Longbow [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -1279,7 +1279,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <range>150/600</range>
   </item>
   <item>
-    <name>Ruidium Blowgun</name>
+    <name>Ruidium Blowgun [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -1312,7 +1312,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <range>25/100</range>
   </item>
   <item>
-    <name>Ruidium Dart</name>
+    <name>Ruidium Dart [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -1342,7 +1342,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <range>20/60</range>
   </item>
   <item>
-    <name>Ruidium Net</name>
+    <name>Ruidium Net [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -1368,7 +1368,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <range>5/15</range>
   </item>
   <item>
-    <name>Ruidium Sling</name>
+    <name>Ruidium Sling [Legacy]</name>
     <type>R</type>
     <magic>YES</magic>
     <detail>very rare (requires attunement)</detail>
@@ -1398,7 +1398,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216</text>
     <range>30/120</range>
   </item>
   <item>
-    <name>Fragment of Abhorrence</name>
+    <name>Fragment of Abhorrence [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <text>Benefit: Once on each of your turns when you hit a creature with a weapon attack roll, you can force the target to move up to 10 feet away from you in a direction of your choice. A creature that can't be frightened is immune to this effect.
@@ -1408,7 +1408,7 @@ Drawback: If you start your turn frightened, you take 2d6 psychic damage.
 Source:	Critical Role: Call of the Netherdeep p. 218</text>
   </item>
   <item>
-    <name>Fragment of Attachment</name>
+    <name>Fragment of Attachment [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <text>Benefit: You can't be frightened while within 10 feet of an ally. If you're already frightened and move within 10 feet of an ally, the frightened condition ends on you.
@@ -1418,7 +1418,7 @@ Drawback: You have disadvantage on Wisdom and Charisma saving throws while you a
 Source:	Critical Role: Call of the Netherdeep p. 218</text>
   </item>
   <item>
-    <name>Fragment of Deception</name>
+    <name>Fragment of Deception [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <text>Benefit: When you take damage, you can use your reaction to turn invisible and teleport up to 60 feet to an unoccupied space you can see. You remain invisible until the start of your next turn or until you make a damage roll or cast a spell.
@@ -1428,7 +1428,7 @@ Drawback: You have disadvantage on Wisdom checks.
 Source:	Critical Role: Call of the Netherdeep p. 218</text>
   </item>
   <item>
-    <name>Fragment of Despondence</name>
+    <name>Fragment of Despondence [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <text>Benefit: You are immune to the charmed condition.
@@ -1438,7 +1438,7 @@ Drawback: You can't take the Help action.
 Source:	Critical Role: Call of the Netherdeep p. 218</text>
   </item>
   <item>
-    <name>Fragment of Intransigence</name>
+    <name>Fragment of Intransigence [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <text>Benefit: Another creature can't force you to move anywhere you don't want to go.
@@ -1447,7 +1447,7 @@ Drawback: You can't take the Disengage or Dodge action.
 Source:	Critical Role: Call of the Netherdeep p. 218</text>
   </item>
   <item>
-    <name>Fragment of Loathing</name>
+    <name>Fragment of Loathing [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <text>Benefit: When a creature damages you with a weapon attack or a spell, you can focus your hatred on that creature. Until the end of your next turn, you have advantage on attack rolls you make against the creature. You can focus your hatred on only one creature at a time.
@@ -1456,7 +1456,7 @@ Drawback: You have disadvantage on Charisma checks.
 Source:	Critical Role: Call of the Netherdeep p. 218</text>
   </item>
   <item>
-    <name>Fragment of Melancholy</name>
+    <name>Fragment of Melancholy [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <text>Benefit: When you fail a Wisdom or Charisma saving throw, you can reroll it with advantage, potentially turning a failure into a success. After you use this benefit, you must finish a long rest before you can use it again.
@@ -1465,7 +1465,7 @@ Drawback: If you use this fragment's benefit and it doesn't turn a failed saving
 Source:	Critical Role: Call of the Netherdeep p. 218</text>
   </item>
   <item>
-    <name>Fragment of Pity</name>
+    <name>Fragment of Pity [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <text>Benefit: Each time you spend a Hit Die to regain hit points, you regain additional hit points equal to your proficiency bonus.
@@ -1474,7 +1474,7 @@ Drawback: You have disadvantage on death saving throws.
 Source:	Critical Role: Call of the Netherdeep p. 218</text>
   </item>
   <item>
-    <name>Fragment of Rancor</name>
+    <name>Fragment of Rancor [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <text>Benefit: When you hit a creature with an attack, you can choose to deal either an extra 2d6 psychic damage to the creature or 4d6 psychic damage to each other creature within 5 feet of it. After you use this benefit, you must finish a short or long rest before you can use it again.

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Slumbering Dragon's Wrath Brass Knuckles (TP)</name>
+    <name>Slumbering Dragon's Wrath Brass Knuckles [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -19,7 +19,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Player's Handbook (2014) p. 149</text>
   </item>
   <item>
-    <name>Stirring Dragon's Wrath Brass Knuckles (TP)</name>
+    <name>Stirring Dragon's Wrath Brass Knuckles [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -41,7 +41,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll>1d6</roll>
   </item>
   <item>
-    <name>Wakened Dragon's Wrath Brass Knuckles (TP)</name>
+    <name>Wakened Dragon's Wrath Brass Knuckles [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -64,7 +64,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll>2d6</roll>
   </item>
   <item>
-    <name>Ascendant Dragon's Wrath Brass Knuckles (TP)</name>
+    <name>Ascendant Dragon's Wrath Brass Knuckles [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>

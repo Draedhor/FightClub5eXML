@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Astral Brig</name>
+    <name>Astral Brig [Legacy]</name>
     <size>G</size>
     <type>vehicle (90 ft. × 30 ft.)</type>
     <alignment>Unaligned</alignment>
@@ -34,7 +34,7 @@ Source:	Mordenkainen's Tome of Foes p. 90</description>
     <environment/>
   </monster>
   <monster>
-    <name>Astral Skiff</name>
+    <name>Astral Skiff [Legacy]</name>
     <size>H</size>
     <type>vehicle (30 ft. × 10 ft.)</type>
     <alignment>Unaligned</alignment>
@@ -62,7 +62,7 @@ Source:	Mordenkainen's Tome of Foes p. 90</description>
     <environment/>
   </monster>
   <monster>
-    <name>Planar Raider</name>
+    <name>Planar Raider [Legacy]</name>
     <size>H</size>
     <type>vehicle (120 ft. × 40 ft.)</type>
     <alignment>Unaligned</alignment>

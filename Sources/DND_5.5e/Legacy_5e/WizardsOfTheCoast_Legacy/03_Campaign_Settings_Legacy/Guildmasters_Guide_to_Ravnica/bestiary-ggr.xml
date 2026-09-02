@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Anarch</name>
+    <name>Anarch [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -45,7 +45,7 @@ Source:	Guildmasters' Guide to Ravnica p. 239</description>
     <environment/>
   </monster>
   <monster>
-    <name>Archon of the Triumvirate</name>
+    <name>Archon of the Triumvirate [Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>Lawful Neutral</alignment>
@@ -127,7 +127,7 @@ Source:	Guildmasters' Guide to Ravnica p. 192</description>
     <environment/>
   </monster>
   <monster>
-    <name>Arclight Phoenix</name>
+    <name>Arclight Phoenix [Legacy]</name>
     <sortname>Phoenix, Arclight</sortname>
     <ancestry>Phoenix</ancestry>
     <size>M</size>
@@ -189,7 +189,7 @@ Source:	Guildmasters' Guide to Ravnica p. 193</description>
     <environment/>
   </monster>
   <monster>
-    <name>Aurelia</name>
+    <name>Aurelia [Legacy]</name>
     <sortname>Angel, Aurelia</sortname>
     <ancestry>Angel</ancestry>
     <size>M</size>
@@ -283,7 +283,7 @@ Source:	Guildmasters' Guide to Ravnica p. 230</description>
     <environment/>
   </monster>
   <monster>
-    <name>Battleforce Angel</name>
+    <name>Battleforce Angel [Legacy]</name>
     <sortname>Angel, Battleforce</sortname>
     <ancestry>Angel</ancestry>
     <size>M</size>
@@ -346,7 +346,7 @@ Source:	Guildmasters' Guide to Ravnica p. 189</description>
     <environment/>
   </monster>
   <monster>
-    <name>Biomancer</name>
+    <name>Biomancer [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -407,7 +407,7 @@ Source:	Guildmasters' Guide to Ravnica p. 256</description>
     <environment/>
   </monster>
   <monster>
-    <name>Blistercoil Weird</name>
+    <name>Blistercoil Weird [Legacy]</name>
     <sortname>Weird, Blistercoil</sortname>
     <ancestry>Weird</ancestry>
     <size>M</size>
@@ -471,7 +471,7 @@ Source:	Guildmasters' Guide to Ravnica p. 207</description>
     <environment/>
   </monster>
   <monster>
-    <name>Blood Drinker Vampire</name>
+    <name>Blood Drinker Vampire [Legacy]</name>
     <sortname>Vampire, Blood Drinker</sortname>
     <ancestry>Vampire</ancestry>
     <size>M</size>
@@ -534,7 +534,7 @@ Source:	Guildmasters' Guide to Ravnica p. 223</description>
     <environment/>
   </monster>
   <monster>
-    <name>Blood Witch</name>
+    <name>Blood Witch [Legacy]</name>
     <sortname>Witch, Blood</sortname>
     <ancestry>Witch</ancestry>
     <npc>YES</npc>
@@ -599,7 +599,7 @@ Source:	Guildmasters' Guide to Ravnica p. 248</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bloodfray Giant</name>
+    <name>Bloodfray Giant [Legacy]</name>
     <sortname>Giant, Bloodfray</sortname>
     <ancestry>Giant</ancestry>
     <size>H</size>
@@ -646,7 +646,7 @@ Source:	Guildmasters' Guide to Ravnica p. 200</description>
     <environment/>
   </monster>
   <monster>
-    <name>Borborygmos</name>
+    <name>Borborygmos [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Chaotic Neutral</alignment>
@@ -731,7 +731,7 @@ Source:	Guildmasters' Guide to Ravnica p. 238</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cackler</name>
+    <name>Cackler [Legacy]</name>
     <size>S</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -795,7 +795,7 @@ Source:	Guildmasters' Guide to Ravnica p. 195</description>
     <environment/>
   </monster>
   <monster>
-    <name>Krasis (Category 1)</name>
+    <name>Krasis (Category 1) [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -867,7 +867,7 @@ Source:	Guildmasters' Guide to Ravnica p. 210</description>
     <environment/>
   </monster>
   <monster>
-    <name>Krasis (Category 2)</name>
+    <name>Krasis (Category 2) [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -939,7 +939,7 @@ Source:	Guildmasters' Guide to Ravnica p. 211</description>
     <environment/>
   </monster>
   <monster>
-    <name>Krasis (Category 3)</name>
+    <name>Krasis (Category 3) [Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -1016,7 +1016,7 @@ Source:	Guildmasters' Guide to Ravnica p. 212</description>
     <environment/>
   </monster>
   <monster>
-    <name>Conclave Dryad</name>
+    <name>Conclave Dryad [Legacy]</name>
     <sortname>Dryad, Conclave</sortname>
     <ancestry>Dryad</ancestry>
     <size>M</size>
@@ -1091,7 +1091,7 @@ Source:	Guildmasters' Guide to Ravnica p. 194</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cosmotronic Blastseeker</name>
+    <name>Cosmotronic Blastseeker [Legacy]</name>
     <sortname>Blastseeker, Cosmotronic</sortname>
     <ancestry>Blastseeker</ancestry>
     <npc>YES</npc>
@@ -1148,7 +1148,7 @@ Source:	Guildmasters' Guide to Ravnica p. 242</description>
     <environment/>
   </monster>
   <monster>
-    <name>Counterflux Blastseeker</name>
+    <name>Counterflux Blastseeker [Legacy]</name>
     <sortname>Blastseeker, Counterflux</sortname>
     <ancestry>Blastseeker</ancestry>
     <npc>YES</npc>
@@ -1200,7 +1200,7 @@ Source:	Guildmasters' Guide to Ravnica p. 242</description>
     <environment/>
   </monster>
   <monster>
-    <name>Deathpact Angel</name>
+    <name>Deathpact Angel [Legacy]</name>
     <sortname>Angel, Deathpact</sortname>
     <ancestry>Angel</ancestry>
     <size>M</size>
@@ -1278,7 +1278,7 @@ Source:	Guildmasters' Guide to Ravnica p. 192</description>
     <environment/>
   </monster>
   <monster>
-    <name>Devkarin Lich</name>
+    <name>Devkarin Lich [Legacy]</name>
     <sortname>Lich, Devkarin</sortname>
     <ancestry>Lich</ancestry>
     <size>M</size>
@@ -1368,7 +1368,7 @@ Source:	Guildmasters' Guide to Ravnica p. 198</description>
     <environment/>
   </monster>
   <monster>
-    <name>Druid of the Old Ways</name>
+    <name>Druid of the Old Ways [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -1429,7 +1429,7 @@ Source:	Guildmasters' Guide to Ravnica p. 239</description>
     <environment/>
   </monster>
   <monster>
-    <name>Felidar</name>
+    <name>Felidar [Legacy]</name>
     <size>L</size>
     <type>celestial</type>
     <alignment>Lawful Neutral</alignment>
@@ -1489,7 +1489,7 @@ Source:	Guildmasters' Guide to Ravnica p. 199</description>
     <environment/>
   </monster>
   <monster>
-    <name>Firefist</name>
+    <name>Firefist [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -1547,7 +1547,7 @@ Source:	Guildmasters' Guide to Ravnica p. 231</description>
     <environment/>
   </monster>
   <monster>
-    <name>Firemane Angel</name>
+    <name>Firemane Angel [Legacy]</name>
     <sortname>Angel, Firemane</sortname>
     <ancestry>Angel</ancestry>
     <size>M</size>
@@ -1619,7 +1619,7 @@ Source:	Guildmasters' Guide to Ravnica p. 190</description>
     <environment/>
   </monster>
   <monster>
-    <name>Flux Blastseeker</name>
+    <name>Flux Blastseeker [Legacy]</name>
     <sortname>Blastseeker, Flux</sortname>
     <ancestry>Blastseeker</ancestry>
     <npc>YES</npc>
@@ -1673,7 +1673,7 @@ Source:	Guildmasters' Guide to Ravnica p. 242</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fluxcharger</name>
+    <name>Fluxcharger [Legacy]</name>
     <size>L</size>
     <type>elemental</type>
     <alignment>Chaotic Neutral</alignment>
@@ -1730,7 +1730,7 @@ Source:	Guildmasters' Guide to Ravnica p. 208</description>
     <environment/>
   </monster>
   <monster>
-    <name>Flying Horror</name>
+    <name>Flying Horror [Legacy]</name>
     <sortname>Horror, Flying</sortname>
     <ancestry>Horror</ancestry>
     <size>M</size>
@@ -1809,7 +1809,7 @@ Source:	Guildmasters' Guide to Ravnica p. 203</description>
     <environment/>
   </monster>
   <monster>
-    <name>Frontline Medic</name>
+    <name>Frontline Medic [Legacy]</name>
     <sortname>Medic, Frontline</sortname>
     <ancestry>Medic</ancestry>
     <npc>YES</npc>
@@ -1857,7 +1857,7 @@ Source:	Guildmasters' Guide to Ravnica p. 231</description>
     <environment/>
   </monster>
   <monster>
-    <name>Galvanic Blastseeker</name>
+    <name>Galvanic Blastseeker [Legacy]</name>
     <sortname>Blastseeker, Galvanic</sortname>
     <ancestry>Blastseeker</ancestry>
     <npc>YES</npc>
@@ -1920,7 +1920,7 @@ Source:	Guildmasters' Guide to Ravnica p. 243</description>
     <environment/>
   </monster>
   <monster>
-    <name>Galvanice Weird</name>
+    <name>Galvanice Weird [Legacy]</name>
     <sortname>Weird, Galvanice</sortname>
     <ancestry>Weird</ancestry>
     <size>M</size>
@@ -1967,7 +1967,7 @@ Source:	Guildmasters' Guide to Ravnica p. 209</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gloamwing</name>
+    <name>Gloamwing [Legacy]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -2022,7 +2022,7 @@ Source:	Guildmasters' Guide to Ravnica p. 215</description>
     <environment/>
   </monster>
   <monster>
-    <name>Golgari Shaman</name>
+    <name>Golgari Shaman [Legacy]</name>
     <sortname>Shaman, Golgari</sortname>
     <ancestry>Shaman</ancestry>
     <npc>YES</npc>
@@ -2091,7 +2091,7 @@ Source:	Guildmasters' Guide to Ravnica p. 236</description>
     <environment/>
   </monster>
   <monster>
-    <name>Guardian Giant</name>
+    <name>Guardian Giant [Legacy]</name>
     <sortname>Giant, Guardian</sortname>
     <ancestry>Giant</ancestry>
     <size>H</size>
@@ -2143,7 +2143,7 @@ Source:	Guildmasters' Guide to Ravnica p. 201</description>
     <environment/>
   </monster>
   <monster>
-    <name>Horncaller</name>
+    <name>Horncaller [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -2198,7 +2198,7 @@ Source:	Guildmasters' Guide to Ravnica p. 253</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hybrid Brute</name>
+    <name>Hybrid Brute [Legacy]</name>
     <sortname>Brute, Hybrid</sortname>
     <ancestry>Brute</ancestry>
     <npc>YES</npc>
@@ -2243,7 +2243,7 @@ Source:	Guildmasters' Guide to Ravnica p. 217</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hybrid Flier</name>
+    <name>Hybrid Flier [Legacy]</name>
     <sortname>Flier, Hybrid</sortname>
     <ancestry>Flier</ancestry>
     <npc>YES</npc>
@@ -2289,7 +2289,7 @@ Source:	Guildmasters' Guide to Ravnica p. 217</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hybrid Poisoner</name>
+    <name>Hybrid Poisoner [Legacy]</name>
     <sortname>Poisoner, Hybrid</sortname>
     <ancestry>Poisoner</ancestry>
     <npc>YES</npc>
@@ -2336,7 +2336,7 @@ Source:	Guildmasters' Guide to Ravnica p. 217</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hybrid Shocker</name>
+    <name>Hybrid Shocker [Legacy]</name>
     <sortname>Shocker, Hybrid</sortname>
     <ancestry>Shocker</ancestry>
     <npc>YES</npc>
@@ -2391,7 +2391,7 @@ Source:	Guildmasters' Guide to Ravnica p. 218</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hybrid Spy</name>
+    <name>Hybrid Spy [Legacy]</name>
     <sortname>Spy, Hybrid</sortname>
     <ancestry>Spy</ancestry>
     <npc>YES</npc>
@@ -2440,7 +2440,7 @@ Source:	Guildmasters' Guide to Ravnica p. 218</description>
     <environment/>
   </monster>
   <monster>
-    <name>Indentured Spirit</name>
+    <name>Indentured Spirit [Legacy]</name>
     <sortname>Spirit, Indentured</sortname>
     <ancestry>Spirit</ancestry>
     <size>M</size>
@@ -2482,7 +2482,7 @@ Source:	Guildmasters' Guide to Ravnica p. 206</description>
     <environment/>
   </monster>
   <monster>
-    <name>Isperia</name>
+    <name>Isperia [Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>Lawful Neutral</alignment>
@@ -2580,7 +2580,7 @@ Source:	Guildmasters' Guide to Ravnica p. 227</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jarad Vod Savo</name>
+    <name>Jarad Vod Savo [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -2689,7 +2689,7 @@ Source:	Guildmasters' Guide to Ravnica p. 235</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kraul Death Priest</name>
+    <name>Kraul Death Priest [Legacy]</name>
     <sortname>Priest, Kraul Death</sortname>
     <ancestry>Priest</ancestry>
     <size>M</size>
@@ -2760,7 +2760,7 @@ Source:	Guildmasters' Guide to Ravnica p. 214</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kraul Warrior</name>
+    <name>Kraul Warrior [Legacy]</name>
     <sortname>Warrior, Kraul</sortname>
     <ancestry>Warrior</ancestry>
     <size>M</size>
@@ -2815,7 +2815,7 @@ Source:	Guildmasters' Guide to Ravnica p. 213</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lawmage</name>
+    <name>Lawmage [Legacy]</name>
     <sortname>Mage, Law</sortname>
     <ancestry>Mage</ancestry>
     <npc>YES</npc>
@@ -2866,7 +2866,7 @@ Source:	Guildmasters' Guide to Ravnica p. 228</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lazav</name>
+    <name>Lazav [Legacy]</name>
     <size>M</size>
     <type>monstrosity (shapechanger)</type>
     <alignment>Neutral Evil</alignment>
@@ -2951,7 +2951,7 @@ Source:	Guildmasters' Guide to Ravnica p. 232</description>
     <environment/>
   </monster>
   <monster>
-    <name>Master of Cruelties</name>
+    <name>Master of Cruelties [Legacy]</name>
     <size>L</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -3026,7 +3026,7 @@ Source:	Guildmasters' Guide to Ravnica p. 196</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mind Drinker Vampire</name>
+    <name>Mind Drinker Vampire [Legacy]</name>
     <sortname>Vampire, Mind Drinker</sortname>
     <ancestry>Vampire</ancestry>
     <size>M</size>
@@ -3104,7 +3104,7 @@ Source:	Guildmasters' Guide to Ravnica p. 224</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mind Mage</name>
+    <name>Mind Mage [Legacy]</name>
     <sortname>Mage, Mind</sortname>
     <ancestry>Mage</ancestry>
     <npc>YES</npc>
@@ -3154,7 +3154,7 @@ Source:	Guildmasters' Guide to Ravnica p. 233</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nightveil Specter</name>
+    <name>Nightveil Specter [Legacy]</name>
     <sortname>Specter, Nightveil</sortname>
     <ancestry>Specter</ancestry>
     <size>M</size>
@@ -3218,7 +3218,7 @@ Source:	Guildmasters' Guide to Ravnica p. 215</description>
     <environment/>
   </monster>
   <monster>
-    <name>Niv-Mizzet</name>
+    <name>Niv-Mizzet [Legacy]</name>
     <size>G</size>
     <type>dragon</type>
     <alignment>Chaotic Neutral</alignment>
@@ -3332,7 +3332,7 @@ Source:	Guildmasters' Guide to Ravnica p. 241</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nivix Cyclops</name>
+    <name>Nivix Cyclops [Legacy]</name>
     <sortname>Cyclops, Nivix</sortname>
     <ancestry>Cyclops</ancestry>
     <size>L</size>
@@ -3381,7 +3381,7 @@ Source:	Guildmasters' Guide to Ravnica p. 216</description>
     <environment/>
   </monster>
   <monster>
-    <name>Obzedat Ghost</name>
+    <name>Obzedat Ghost [Legacy]</name>
     <sortname>Ghost, Obzedat</sortname>
     <ancestry>Ghost</ancestry>
     <size>M</size>
@@ -3486,7 +3486,7 @@ Source:	Guildmasters' Guide to Ravnica p. 245</description>
     <environment/>
   </monster>
   <monster>
-    <name>Orzhov Giant</name>
+    <name>Orzhov Giant [Legacy]</name>
     <sortname>Giant, Orzhov</sortname>
     <ancestry>Giant</ancestry>
     <size>L</size>
@@ -3539,7 +3539,7 @@ Source:	Guildmasters' Guide to Ravnica p. 202</description>
     <environment/>
   </monster>
   <monster>
-    <name>Precognitive Mage</name>
+    <name>Precognitive Mage [Legacy]</name>
     <sortname>Mage, Precognitive</sortname>
     <ancestry>Mage</ancestry>
     <npc>YES</npc>
@@ -3596,7 +3596,7 @@ Source:	Guildmasters' Guide to Ravnica p. 228</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rakdos</name>
+    <name>Rakdos [Legacy]</name>
     <size>H</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -3687,7 +3687,7 @@ Source:	Guildmasters' Guide to Ravnica p. 247</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rakdos Lampooner</name>
+    <name>Rakdos Lampooner [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -3733,7 +3733,7 @@ Source:	Guildmasters' Guide to Ravnica p. 248</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rakdos Performer, Blade Juggler</name>
+    <name>Rakdos Performer, Blade Juggler [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -3776,7 +3776,7 @@ Source:	Guildmasters' Guide to Ravnica p. 249</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rakdos Performer, Fire Eater</name>
+    <name>Rakdos Performer, Fire Eater [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -3825,7 +3825,7 @@ Source:	Guildmasters' Guide to Ravnica p. 249</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rakdos Performer, High-Wire Acrobat</name>
+    <name>Rakdos Performer, High-Wire Acrobat [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -3870,7 +3870,7 @@ Source:	Guildmasters' Guide to Ravnica p. 249</description>
     <environment/>
   </monster>
   <monster>
-    <name>Reckoner</name>
+    <name>Reckoner [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -3927,7 +3927,7 @@ Source:	Guildmasters' Guide to Ravnica p. 231</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rubblebelt Stalker</name>
+    <name>Rubblebelt Stalker [Legacy]</name>
     <sortname>Stalker, Rubblebelt</sortname>
     <ancestry>Stalker</ancestry>
     <size>M</size>
@@ -3983,7 +3983,7 @@ Source:	Guildmasters' Guide to Ravnica p. 239</description>
     <environment/>
   </monster>
   <monster>
-    <name>Scorchbringer Guard</name>
+    <name>Scorchbringer Guard [Legacy]</name>
     <sortname>Guard, Scorchbringer</sortname>
     <ancestry>Guard</ancestry>
     <npc>YES</npc>
@@ -4031,7 +4031,7 @@ Source:	Guildmasters' Guide to Ravnica p. 243</description>
     <environment/>
   </monster>
   <monster>
-    <name>Servitor Thrull</name>
+    <name>Servitor Thrull [Legacy]</name>
     <sortname>Thrull, Servitor</sortname>
     <ancestry>Thrull</ancestry>
     <size>S</size>
@@ -4075,7 +4075,7 @@ Source:	Guildmasters' Guide to Ravnica p. 221</description>
     <environment/>
   </monster>
   <monster>
-    <name>Shadow Horror</name>
+    <name>Shadow Horror [Legacy]</name>
     <sortname>Horror, Shadow</sortname>
     <ancestry>Horror</ancestry>
     <size>L</size>
@@ -4171,7 +4171,7 @@ Source:	Guildmasters' Guide to Ravnica p. 205</description>
     <environment/>
   </monster>
   <monster>
-    <name>Simic Merfolk</name>
+    <name>Simic Merfolk [Legacy]</name>
     <sortname>Merfolk, Simic</sortname>
     <ancestry>Merfolk</ancestry>
     <npc>YES</npc>
@@ -4211,7 +4211,7 @@ Source:	Guildmasters' Guide to Ravnica p. 205</description>
     <environment>underwater, coastal</environment>
   </monster>
   <monster>
-    <name>Sire of Insanity</name>
+    <name>Sire of Insanity [Legacy]</name>
     <size>H</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4283,7 +4283,7 @@ Source:	Guildmasters' Guide to Ravnica p. 197</description>
     <environment/>
   </monster>
   <monster>
-    <name>Skittering Horror</name>
+    <name>Skittering Horror [Legacy]</name>
     <sortname>Horror, Skittering</sortname>
     <ancestry>Horror</ancestry>
     <size>H</size>
@@ -4368,7 +4368,7 @@ Source:	Guildmasters' Guide to Ravnica p. 205</description>
     <environment/>
   </monster>
   <monster>
-    <name>Skyjek Roc</name>
+    <name>Skyjek Roc [Legacy]</name>
     <sortname>Roc, Skyjek</sortname>
     <ancestry>Roc</ancestry>
     <size>L</size>
@@ -4419,7 +4419,7 @@ Source:	Guildmasters' Guide to Ravnica p. 219</description>
     <environment/>
   </monster>
   <monster>
-    <name>Skyswimmer</name>
+    <name>Skyswimmer [Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -4467,7 +4467,7 @@ Source:	Guildmasters' Guide to Ravnica p. 220</description>
     <environment/>
   </monster>
   <monster>
-    <name>Soldier</name>
+    <name>Soldier [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -4512,7 +4512,7 @@ Source:	Guildmasters' Guide to Ravnica p. 226,
     <environment/>
   </monster>
   <monster>
-    <name>Sphinx of Judgment</name>
+    <name>Sphinx of Judgment [Legacy]</name>
     <sortname>Sphinx, Judgment</sortname>
     <ancestry>Sphinx</ancestry>
     <size>L</size>
@@ -4601,7 +4601,7 @@ Source:	Guildmasters' Guide to Ravnica p. 226,
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Sunder Shaman</name>
+    <name>Sunder Shaman [Legacy]</name>
     <sortname>Shaman, Sunder</sortname>
     <ancestry>Shaman</ancestry>
     <size>H</size>
@@ -4661,7 +4661,7 @@ Source:	Guildmasters' Guide to Ravnica p. 202</description>
     <environment/>
   </monster>
   <monster>
-    <name>Thought Spy</name>
+    <name>Thought Spy [Legacy]</name>
     <sortname>Spy, Thought</sortname>
     <ancestry>Spy</ancestry>
     <npc>YES</npc>
@@ -4719,7 +4719,7 @@ Source:	Guildmasters' Guide to Ravnica p. 233</description>
     <environment/>
   </monster>
   <monster>
-    <name>Trostani</name>
+    <name>Trostani [Legacy]</name>
     <size>L</size>
     <type>fey</type>
     <alignment>Neutral Good</alignment>
@@ -4828,7 +4828,7 @@ Source:	Guildmasters' Guide to Ravnica p. 252</description>
     <environment/>
   </monster>
   <monster>
-    <name>Undercity Medusa</name>
+    <name>Undercity Medusa [Legacy]</name>
     <sortname>Medusa, Undercity</sortname>
     <ancestry>Medusa</ancestry>
     <size>M</size>
@@ -4891,7 +4891,7 @@ Source:	Guildmasters' Guide to Ravnica p. 222</description>
     <environment/>
   </monster>
   <monster>
-    <name>Winged Thrull</name>
+    <name>Winged Thrull [Legacy]</name>
     <sortname>Thrull, Winged</sortname>
     <ancestry>Thrull</ancestry>
     <size>S</size>
@@ -4940,7 +4940,7 @@ Source:	Guildmasters' Guide to Ravnica p. 221</description>
     <environment/>
   </monster>
   <monster>
-    <name>Wurm</name>
+    <name>Wurm [Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -4989,7 +4989,7 @@ Source:	Guildmasters' Guide to Ravnica p. 225</description>
     <environment/>
   </monster>
   <monster>
-    <name>Zegana</name>
+    <name>Zegana [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (merfolk)</type>

@@ -172,119 +172,119 @@ Source:	Player's Handbook (2014) p. 62</text>
     </autolevel>
   </class>
   <spell>
-    <name>Command</name>
+    <name>Command [Legacy]</name>
     <classes>Cleric (Knowledge Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Identify</name>
+    <name>Identify [Legacy]</name>
     <classes>Cleric (Knowledge Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Augury</name>
+    <name>Augury [Legacy]</name>
     <classes>Cleric (Knowledge Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Suggestion</name>
+    <name>Suggestion [Legacy]</name>
     <classes>Cleric (Knowledge Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Nondetection</name>
+    <name>Nondetection [Legacy]</name>
     <classes>Cleric (Knowledge Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Speak with Dead</name>
+    <name>Speak with Dead [Legacy]</name>
     <classes>Cleric (Knowledge Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Arcane Eye</name>
+    <name>Arcane Eye [Legacy]</name>
     <classes>Cleric (Knowledge Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Confusion</name>
+    <name>Confusion [Legacy]</name>
     <classes>Cleric (Knowledge Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Legend Lore</name>
+    <name>Legend Lore [Legacy]</name>
     <classes>Cleric (Knowledge Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Scrying</name>
+    <name>Scrying [Legacy]</name>
     <classes>Cleric (Knowledge Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Animal Friendship</name>
+    <name>Animal Friendship [Legacy]</name>
     <classes>Cleric (Nature Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Speak with Animals</name>
+    <name>Speak with Animals [Legacy]</name>
     <classes>Cleric (Nature Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Barkskin</name>
+    <name>Barkskin [Legacy]</name>
     <classes>Cleric (Nature Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Spike Growth</name>
+    <name>Spike Growth [Legacy]</name>
     <classes>Cleric (Nature Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Plant Growth</name>
+    <name>Plant Growth [Legacy]</name>
     <classes>Cleric (Nature Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Wind Wall</name>
+    <name>Wind Wall [Legacy]</name>
     <classes>Cleric (Nature Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Dominate Beast</name>
+    <name>Dominate Beast [Legacy]</name>
     <classes>Cleric (Nature Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Grasping Vine</name>
+    <name>Grasping Vine [Legacy]</name>
     <classes>Cleric (Nature Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Insect Plague</name>
+    <name>Insect Plague [Legacy]</name>
     <classes>Cleric (Nature Domain (Legacy)), Cleric (Tempest Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Tree Stride</name>
+    <name>Tree Stride [Legacy]</name>
     <classes>Cleric (Nature Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Fog Cloud</name>
+    <name>Fog Cloud [Legacy]</name>
     <classes>Cleric (Tempest Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Thunderwave</name>
+    <name>Thunderwave [Legacy]</name>
     <classes>Cleric (Tempest Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Gust of Wind</name>
+    <name>Gust of Wind [Legacy]</name>
     <classes>Cleric (Tempest Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Shatter</name>
+    <name>Shatter [Legacy]</name>
     <classes>Cleric (Tempest Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Call Lightning</name>
+    <name>Call Lightning [Legacy]</name>
     <classes>Cleric (Tempest Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Sleet Storm</name>
+    <name>Sleet Storm [Legacy]</name>
     <classes>Cleric (Tempest Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Control Water</name>
+    <name>Control Water [Legacy]</name>
     <classes>Cleric (Tempest Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Ice Storm</name>
+    <name>Ice Storm [Legacy]</name>
     <classes>Cleric (Tempest Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Destructive Wave</name>
+    <name>Destructive Wave [Legacy]</name>
     <classes>Cleric (Tempest Domain (Legacy))</classes>
   </spell>
 </compendium>

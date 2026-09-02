@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Assassin Bug</name>
+    <name>Assassin Bug [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Neutral</alignment>
@@ -59,7 +59,7 @@ Source:	Mordenkainen's Fiendish Folio Volume 1 p. 4</description>
     <environment/>
   </monster>
   <monster>
-    <name>Blindheim</name>
+    <name>Blindheim [Legacy]</name>
     <size>M</size>
     <type>humanoid (blindheim)</type>
     <alignment>Chaotic Neutral</alignment>
@@ -111,7 +111,7 @@ Source:	Mordenkainen's Fiendish Folio Volume 1 p. 5</description>
     <environment/>
   </monster>
   <monster>
-    <name>Crab Folk</name>
+    <name>Crab Folk [Legacy]</name>
     <size>L</size>
     <type>giant</type>
     <alignment>Neutral</alignment>
@@ -163,7 +163,7 @@ Source:	Mordenkainen's Fiendish Folio Volume 1 p. 6</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dire Corby</name>
+    <name>Dire Corby [Legacy]</name>
     <size>M</size>
     <type>humanoid (dire corby)</type>
     <alignment>Neutral Evil</alignment>
@@ -217,7 +217,7 @@ Source:	Mordenkainen's Fiendish Folio Volume 1 p. 7</description>
     <environment/>
   </monster>
   <monster>
-    <name>Eye of Fear and Flame</name>
+    <name>Eye of Fear and Flame [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -284,7 +284,7 @@ Source:	Mordenkainen's Fiendish Folio Volume 1 p. 8,
     <environment/>
   </monster>
   <monster>
-    <name>Fog Giant</name>
+    <name>Fog Giant [Legacy]</name>
     <sortname>Giant, Fog</sortname>
     <ancestry>Giant</ancestry>
     <size>H</size>
@@ -360,7 +360,7 @@ Source:	Mordenkainen's Fiendish Folio Volume 1 p. 10</description>
     <environment/>
   </monster>
   <monster>
-    <name>Forlarren</name>
+    <name>Forlarren [Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Chaotic Neutral</alignment>
@@ -432,7 +432,7 @@ Source:	Mordenkainen's Fiendish Folio Volume 1 p. 9</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jermlaine</name>
+    <name>Jermlaine [Legacy]</name>
     <size>T</size>
     <type>humanoid (jermlaine)</type>
     <alignment>Neutral Evil</alignment>
@@ -496,7 +496,7 @@ Source:	Mordenkainen's Fiendish Folio Volume 1 p. 11</description>
     <environment/>
   </monster>
   <monster>
-    <name>Khargra</name>
+    <name>Khargra [Legacy]</name>
     <size>S</size>
     <type>elemental</type>
     <alignment>Neutral</alignment>
@@ -551,7 +551,7 @@ Source:	Mordenkainen's Fiendish Folio Volume 1 p. 12</description>
     <environment/>
   </monster>
   <monster>
-    <name>Killmoulis</name>
+    <name>Killmoulis [Legacy]</name>
     <size>T</size>
     <type>fey</type>
     <alignment>Neutral</alignment>
@@ -603,7 +603,7 @@ Source:	Mordenkainen's Fiendish Folio Volume 1 p. 13</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mite</name>
+    <name>Mite [Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>Lawful Evil</alignment>
@@ -655,7 +655,7 @@ Source:	Mordenkainen's Fiendish Folio Volume 1 p. 14</description>
     <environment/>
   </monster>
   <monster>
-    <name>Needle Lord</name>
+    <name>Needle Lord [Legacy]</name>
     <sortname>Needle, Lord</sortname>
     <ancestry>Needle</ancestry>
     <size>L</size>
@@ -717,7 +717,7 @@ Source:	Mordenkainen's Fiendish Folio Volume 1 p. 16</description>
     <environment/>
   </monster>
   <monster>
-    <name>Needle Spawn</name>
+    <name>Needle Spawn [Legacy]</name>
     <sortname>Needle, Spawn</sortname>
     <ancestry>Needle</ancestry>
     <size>M</size>
@@ -774,7 +774,7 @@ Source:	Mordenkainen's Fiendish Folio Volume 1 p. 16</description>
     <environment/>
   </monster>
   <monster>
-    <name>Norker</name>
+    <name>Norker [Legacy]</name>
     <ancestry>Norker</ancestry>
     <size>S</size>
     <type>humanoid (goblinoid)</type>
@@ -829,7 +829,7 @@ Source:	Mordenkainen's Fiendish Folio Volume 1 p. 17</description>
     <environment/>
   </monster>
   <monster>
-    <name>Norker War Leader</name>
+    <name>Norker War Leader [Legacy]</name>
     <sortname>Norker, War Leader</sortname>
     <ancestry>Norker</ancestry>
     <size>S</size>
@@ -889,7 +889,7 @@ Source:	Mordenkainen's Fiendish Folio Volume 1 p. 17</description>
     <environment/>
   </monster>
   <monster>
-    <name>Screaming Devilkin</name>
+    <name>Screaming Devilkin [Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>Lawful Evil</alignment>
@@ -941,7 +941,7 @@ Source:	Mordenkainen's Fiendish Folio Volume 1 p. 19</description>
     <environment/>
   </monster>
   <monster>
-    <name>Xill</name>
+    <name>Xill [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Lawful Evil</alignment>
@@ -994,7 +994,7 @@ Source:	Mordenkainen's Fiendish Folio Volume 1 p. 21</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ygorl, Lord of Entropy</name>
+    <name>Ygorl, Lord of Entropy [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Chaotic Neutral</alignment>

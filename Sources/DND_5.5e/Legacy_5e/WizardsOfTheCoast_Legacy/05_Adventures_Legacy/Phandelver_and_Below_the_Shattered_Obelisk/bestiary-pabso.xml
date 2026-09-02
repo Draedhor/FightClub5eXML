@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Aberrant Zealot</name>
+    <name>Aberrant Zealot [Legacy]</name>
     <sortname>Zealot, Aberrant</sortname>
     <ancestry>Zealot</ancestry>
     <size>M</size>
@@ -69,7 +69,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Aberrant Zealot (Tentacled)</name>
+    <name>Aberrant Zealot (Tentacled) [Legacy]</name>
     <sortname>Zealot, Aberrant</sortname>
     <ancestry>Zealot</ancestry>
     <size>M</size>
@@ -142,7 +142,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Ash Zombie</name>
+    <name>Ash Zombie [Legacy]</name>
     <sortname>Zombie, Ash</sortname>
     <ancestry>Zombie</ancestry>
     <size>M</size>
@@ -188,7 +188,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Brain Breaker</name>
+    <name>Brain Breaker [Legacy]</name>
     <size>L</size>
     <type>aberration (mind flayer)</type>
     <alignment>lawful evil</alignment>
@@ -256,7 +256,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Chishinix</name>
+    <name>Chishinix [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>typically lawful evil</alignment>
@@ -328,7 +328,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Chishinix' Head</name>
+    <name>Chishinix' Head [Legacy]</name>
     <size>T</size>
     <type>aberration</type>
     <alignment>unaligned</alignment>
@@ -368,7 +368,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Cloaker Mutate</name>
+    <name>Cloaker Mutate [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>typically chaotic neutral</alignment>
@@ -430,7 +430,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Dwarf Skeleton</name>
+    <name>Dwarf Skeleton [Legacy]</name>
     <sortname>Skeleton, Dwarf</sortname>
     <ancestry>Skeleton</ancestry>
     <size>M</size>
@@ -473,7 +473,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Encephalon Cluster</name>
+    <name>Encephalon Cluster [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>unaligned</alignment>
@@ -531,7 +531,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Encephalon Gemmule</name>
+    <name>Encephalon Gemmule [Legacy]</name>
     <size>T</size>
     <type>aberration</type>
     <alignment>unaligned</alignment>
@@ -579,7 +579,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Feral Ashenwight</name>
+    <name>Feral Ashenwight [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>typically neutral evil</alignment>
@@ -619,7 +619,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Fiendish Auger</name>
+    <name>Fiendish Auger [Legacy]</name>
     <size>H</size>
     <type>construct</type>
     <alignment>typically neutral evil</alignment>
@@ -668,7 +668,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Flesh Meld</name>
+    <name>Flesh Meld [Legacy]</name>
     <size>H</size>
     <type>aberration</type>
     <alignment>typically chaotic evil</alignment>
@@ -732,7 +732,7 @@ If the flesh meld takes 30 damage or more on a single turn from the swallowed cr
     <environment/>
   </monster>
   <monster>
-    <name>Goblin Boss Archer</name>
+    <name>Goblin Boss Archer [Legacy]</name>
     <sortname>Goblin, Boss Archer</sortname>
     <ancestry>Goblin</ancestry>
     <size>S</size>
@@ -787,7 +787,7 @@ If the flesh meld takes 30 damage or more on a single turn from the swallowed cr
     <environment/>
   </monster>
   <monster>
-    <name>Goblin Psi Brawler</name>
+    <name>Goblin Psi Brawler [Legacy]</name>
     <sortname>Goblin, Psi Brawler</sortname>
     <ancestry>Goblin</ancestry>
     <size>S</size>
@@ -845,7 +845,7 @@ If the flesh meld takes 30 damage or more on a single turn from the swallowed cr
     <environment/>
   </monster>
   <monster>
-    <name>Goblin Psi Commander</name>
+    <name>Goblin Psi Commander [Legacy]</name>
     <sortname>Goblin, Psi Commander</sortname>
     <ancestry>Goblin</ancestry>
     <size>S</size>
@@ -916,7 +916,7 @@ If the flesh meld takes 30 damage or more on a single turn from the swallowed cr
     <environment/>
   </monster>
   <monster>
-    <name>Grandlejaw</name>
+    <name>Grandlejaw [Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>unaligned</alignment>
@@ -976,7 +976,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
     <environment/>
   </monster>
   <monster>
-    <name>Grell Psychic</name>
+    <name>Grell Psychic [Legacy]</name>
     <sortname>Grell, Psychic</sortname>
     <ancestry>Grell</ancestry>
     <size>M</size>
@@ -1031,7 +1031,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
     <environment/>
   </monster>
   <monster>
-    <name>Gundren Rockseeker</name>
+    <name>Gundren Rockseeker [Legacy]</name>
     <sortname>Rockseeker, Gundren</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1073,7 +1073,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
     <environment/>
   </monster>
   <monster>
-    <name>Gwyn Oresong</name>
+    <name>Gwyn Oresong [Legacy]</name>
     <sortname>Oresong, Gwyn</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1124,7 +1124,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
     <environment/>
   </monster>
   <monster>
-    <name>Hashutu</name>
+    <name>Hashutu [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>typically lawful evil</alignment>
@@ -1196,7 +1196,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
     <environment/>
   </monster>
   <monster>
-    <name>Hjoldak Hollowhelm</name>
+    <name>Hjoldak Hollowhelm [Legacy]</name>
     <sortname>Hollowhelm, Hjoldak</sortname>
     <size>M</size>
     <type>undead</type>
@@ -1250,7 +1250,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
     <environment/>
   </monster>
   <monster>
-    <name>Honna</name>
+    <name>Honna [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>lawful evil</alignment>
@@ -1308,7 +1308,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Humanoid Mutate</name>
+    <name>Humanoid Mutate [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>any alignment</alignment>
@@ -1357,7 +1357,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Iarno "Glasstaff" Albrek</name>
+    <name>Iarno "Glasstaff" Albrek [Legacy]</name>
     <sortname>Albrek, Iarno "Glasstaff"</sortname>
     <size>M</size>
     <type>humanoid (human, wizard)</type>
@@ -1415,7 +1415,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Infected Elder Brain</name>
+    <name>Infected Elder Brain [Legacy]</name>
     <sortname>Elder Brain, Infected</sortname>
     <ancestry>Elder Brain</ancestry>
     <size>L</size>
@@ -1485,7 +1485,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Infected Townsperson</name>
+    <name>Infected Townsperson [Legacy]</name>
     <sortname>Townsperson, Infected</sortname>
     <ancestry>Townsperson</ancestry>
     <size>M</size>
@@ -1527,7 +1527,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Intellect Snare</name>
+    <name>Intellect Snare [Legacy]</name>
     <size>S</size>
     <type>aberration</type>
     <alignment>typically neutral evil</alignment>
@@ -1579,7 +1579,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Kellikilli</name>
+    <name>Kellikilli [Legacy]</name>
     <size>L</size>
     <type>elemental</type>
     <alignment>neutral</alignment>
@@ -1619,7 +1619,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Lowarnizel</name>
+    <name>Lowarnizel [Legacy]</name>
     <size>L</size>
     <type>dragon (young gem)</type>
     <alignment>neutral</alignment>
@@ -1684,7 +1684,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Malinia</name>
+    <name>Malinia [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>any alignment</alignment>
@@ -1737,7 +1737,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Mind Flayer Clairvoyant</name>
+    <name>Mind Flayer Clairvoyant [Legacy]</name>
     <sortname>Mind Flayer, Clairvoyant</sortname>
     <ancestry>Mind Flayer</ancestry>
     <size>M</size>
@@ -1811,7 +1811,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Mind Flayer Nothic</name>
+    <name>Mind Flayer Nothic [Legacy]</name>
     <sortname>Mind Flayer, Nothic</sortname>
     <ancestry>Mind Flayer</ancestry>
     <size>M</size>
@@ -1866,7 +1866,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Mind Flayer Prophet</name>
+    <name>Mind Flayer Prophet [Legacy]</name>
     <sortname>Mind Flayer, Prophet</sortname>
     <ancestry>Mind Flayer</ancestry>
     <size>M</size>
@@ -1930,7 +1930,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Mormesk the Wraith</name>
+    <name>Mormesk the Wraith [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>neutral evil</alignment>
@@ -1978,7 +1978,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Nellik</name>
+    <name>Nellik [Legacy]</name>
     <size>L</size>
     <type>fiend (yugoloth)</type>
     <alignment>neutral evil</alignment>
@@ -2042,7 +2042,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Nezznar the Spider</name>
+    <name>Nezznar the Spider [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf, wizard)</type>
@@ -2103,7 +2103,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Nundro Rockseeker</name>
+    <name>Nundro Rockseeker [Legacy]</name>
     <sortname>Rockseeker, Nundro</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2145,7 +2145,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Nythalyn Henlifel</name>
+    <name>Nythalyn Henlifel [Legacy]</name>
     <sortname>Henlifel, Nythalyn</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2212,7 +2212,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Oculorb</name>
+    <name>Oculorb [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>typically chaotic evil</alignment>
@@ -2283,7 +2283,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Ontharyx</name>
+    <name>Ontharyx [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>any alignment</alignment>
@@ -2336,7 +2336,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Oshundo the Alhoon</name>
+    <name>Oshundo the Alhoon [Legacy]</name>
     <ancestry>Mind Flayer, Wizard</ancestry>
     <size>M</size>
     <type>undead (mind flayer, wizard)</type>
@@ -2404,7 +2404,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Otyugh Mutate</name>
+    <name>Otyugh Mutate [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>typically neutral</alignment>
@@ -2457,7 +2457,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Psionic Ashenwight</name>
+    <name>Psionic Ashenwight [Legacy]</name>
     <sortname>Psionic, Ashenwight</sortname>
     <ancestry>Psionic</ancestry>
     <size>M</size>
@@ -2512,7 +2512,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Psionic Shambling Mound</name>
+    <name>Psionic Shambling Mound [Legacy]</name>
     <sortname>Psionic, Shambling Mound</sortname>
     <ancestry>Psionic, Shambling Mound</ancestry>
     <size>L</size>
@@ -2570,7 +2570,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Qunbraxel</name>
+    <name>Qunbraxel [Legacy]</name>
     <ancestry>Mind Flayer, Warlock</ancestry>
     <size>M</size>
     <type>aberration (mind flayer, warlock)</type>
@@ -2639,7 +2639,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Redbrand Ruffian</name>
+    <name>Redbrand Ruffian [Legacy]</name>
     <sortname>Ruffian, Redbrand</sortname>
     <ancestry>Ruffian</ancestry>
     <npc>YES</npc>
@@ -2678,7 +2678,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Refraction of Ilvaash</name>
+    <name>Refraction of Ilvaash [Legacy]</name>
     <size>H</size>
     <type>aberration (mind flayer)</type>
     <alignment>lawful evil</alignment>
@@ -2766,7 +2766,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Rivibiddel</name>
+    <name>Rivibiddel [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (gnome)</type>
@@ -2824,7 +2824,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Ruxithid the Chosen</name>
+    <name>Ruxithid the Chosen [Legacy]</name>
     <size>M</size>
     <type>aberration (goblinoid)</type>
     <alignment>neutral evil</alignment>
@@ -2882,7 +2882,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Shalfi Lewin</name>
+    <name>Shalfi Lewin [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>typically chaotic evil</alignment>
@@ -2948,7 +2948,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Sildar Hallwinter</name>
+    <name>Sildar Hallwinter [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -2999,7 +2999,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Varakkta</name>
+    <name>Varakkta [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (gith)</type>
@@ -3049,7 +3049,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Voalsh</name>
+    <name>Voalsh [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>typically lawful evil</alignment>
@@ -3121,7 +3121,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Yanthdel Henlifel</name>
+    <name>Yanthdel Henlifel [Legacy]</name>
     <sortname>Henlifel, Yanthdel</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3188,7 +3188,7 @@ If Honna sees itself reflected on a polished surface within 30 feet of it and in
     <environment/>
   </monster>
   <monster>
-    <name>Zeond</name>
+    <name>Zeond [Legacy]</name>
     <size>T</size>
     <type>fiend (demon)</type>
     <alignment>chaotic evil</alignment>

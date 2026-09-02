@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Black Rose Bearer</name>
+    <name>Black Rose Bearer [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>typically neutral evil</alignment>
@@ -49,7 +49,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Blade Lieutenant</name>
+    <name>Blade Lieutenant [Legacy]</name>
     <sortname>Blade, Lieutenant</sortname>
     <ancestry>Blade, Lieutenant</ancestry>
     <npc>YES</npc>
@@ -115,7 +115,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Blade Scout</name>
+    <name>Blade Scout [Legacy]</name>
     <sortname>Blade, Scout</sortname>
     <ancestry>Blade, Scout</ancestry>
     <npc>YES</npc>
@@ -176,7 +176,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Blazebear</name>
+    <name>Blazebear [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>unaligned</alignment>
@@ -233,7 +233,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Bone Roc</name>
+    <name>Bone Roc [Legacy]</name>
     <sortname>Roc, Bone</sortname>
     <ancestry>Roc</ancestry>
     <size>H</size>
@@ -280,7 +280,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Borthak</name>
+    <name>Borthak [Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>typically chaotic evil</alignment>
@@ -355,7 +355,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Citadel Spider</name>
+    <name>Citadel Spider [Legacy]</name>
     <sortname>Spider, Citadel</sortname>
     <ancestry>Spider</ancestry>
     <size>G</size>
@@ -419,7 +419,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Deadbark Dryad</name>
+    <name>Deadbark Dryad [Legacy]</name>
     <sortname>Dryad, Deadbark</sortname>
     <ancestry>Dryad</ancestry>
     <size>M</size>
@@ -489,7 +489,7 @@ The dryad has six vines. Each vine can be attacked (AC 20; 10 hit points; immuni
     <environment/>
   </monster>
   <monster>
-    <name>Deathwolf</name>
+    <name>Deathwolf [Legacy]</name>
     <sortname>Wolf, Deathwolf</sortname>
     <ancestry>Wolf</ancestry>
     <size>M</size>
@@ -564,7 +564,7 @@ While the target is frightened, the phantom deals 21 (6d6) psychic damage to the
     <environment/>
   </monster>
   <monster>
-    <name>Degloth</name>
+    <name>Degloth [Legacy]</name>
     <npc>YES</npc>
     <size>L</size>
     <type>fiend (demon)</type>
@@ -613,7 +613,7 @@ While the target is frightened, the phantom deals 21 (6d6) psychic damage to the
     <environment/>
   </monster>
   <monster>
-    <name>False Lich</name>
+    <name>False Lich [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>typically neutral evil</alignment>
@@ -697,7 +697,7 @@ When the false lich is reduced to 0 hit points, it is destroyed and disintegrate
     <environment/>
   </monster>
   <monster>
-    <name>Granite Juggernaut</name>
+    <name>Granite Juggernaut [Legacy]</name>
     <sortname>Juggernaut, Granite</sortname>
     <ancestry>Juggernaut</ancestry>
     <size>L</size>
@@ -747,7 +747,7 @@ When the false lich is reduced to 0 hit points, it is destroyed and disintegrate
     <environment/>
   </monster>
   <monster>
-    <name>Hazvongel</name>
+    <name>Hazvongel [Legacy]</name>
     <npc>YES</npc>
     <size>H</size>
     <type>fiend (demon)</type>
@@ -797,7 +797,7 @@ When the false lich is reduced to 0 hit points, it is destroyed and disintegrate
     <environment/>
   </monster>
   <monster>
-    <name>Hertilod</name>
+    <name>Hertilod [Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>unaligned</alignment>
@@ -874,7 +874,7 @@ The hertilod's gullet can hold up to two creatures at a time. If the hertilod ta
     <environment/>
   </monster>
   <monster>
-    <name>Kakkuu Spyder-Fiend</name>
+    <name>Kakkuu Spyder-Fiend [Legacy]</name>
     <sortname>Spyder-Fiend, Kakkuu</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -940,7 +940,7 @@ The hertilod's gullet can hold up to two creatures at a time. If the hertilod ta
     <environment/>
   </monster>
   <monster>
-    <name>Mirror Shade</name>
+    <name>Mirror Shade [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>typically chaotic evil</alignment>
@@ -996,7 +996,7 @@ The hertilod's gullet can hold up to two creatures at a time. If the hertilod ta
     <environment/>
   </monster>
   <monster>
-    <name>Moonlight Guardian</name>
+    <name>Moonlight Guardian [Legacy]</name>
     <sortname>Guardian, Moonlight</sortname>
     <ancestry>Guardian</ancestry>
     <size>M</size>
@@ -1055,7 +1055,7 @@ The hertilod's gullet can hold up to two creatures at a time. If the hertilod ta
     <environment/>
   </monster>
   <monster>
-    <name>Phisarazu Spyder-Fiend</name>
+    <name>Phisarazu Spyder-Fiend [Legacy]</name>
     <sortname>Spyder-Fiend, Phisarazu</sortname>
     <npc>YES</npc>
     <size>L</size>
@@ -1127,7 +1127,7 @@ The hertilod's gullet can hold up to two creatures at a time. If the hertilod ta
     <environment/>
   </monster>
   <monster>
-    <name>Quavilithku Spyder-Fiend</name>
+    <name>Quavilithku Spyder-Fiend [Legacy]</name>
     <sortname>Spyder-Fiend, Quavilithku</sortname>
     <npc>YES</npc>
     <size>L</size>
@@ -1194,7 +1194,7 @@ The hertilod's gullet can hold up to two creatures at a time. If the hertilod ta
     <environment/>
   </monster>
   <monster>
-    <name>Raklupis Spyder-Fiend</name>
+    <name>Raklupis Spyder-Fiend [Legacy]</name>
     <sortname>Spyder-Fiend, Raklupis</sortname>
     <npc>YES</npc>
     <size>L</size>
@@ -1274,7 +1274,7 @@ The hertilod's gullet can hold up to two creatures at a time. If the hertilod ta
     <environment/>
   </monster>
   <monster>
-    <name>Relentless Impaler</name>
+    <name>Relentless Impaler [Legacy]</name>
     <size>L</size>
     <type>fiend</type>
     <alignment>typically neutral evil</alignment>
@@ -1346,7 +1346,7 @@ The hertilod's gullet can hold up to two creatures at a time. If the hertilod ta
     <environment/>
   </monster>
   <monster>
-    <name>Spiderdragon</name>
+    <name>Spiderdragon [Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>typically chaotic evil</alignment>
@@ -1415,7 +1415,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Star Angler</name>
+    <name>Star Angler [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>unaligned</alignment>
@@ -1467,7 +1467,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Vlazok</name>
+    <name>Vlazok [Legacy]</name>
     <npc>YES</npc>
     <size>L</size>
     <type>fiend (demon)</type>
@@ -1529,7 +1529,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Warforged Warrior</name>
+    <name>Warforged Warrior [Legacy]</name>
     <sortname>Warforged, Warrior</sortname>
     <ancestry>Warforged, Warrior</ancestry>
     <size>M</size>
@@ -1580,7 +1580,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Whirling Chandelier</name>
+    <name>Whirling Chandelier [Legacy]</name>
     <ancestry>Animated Object</ancestry>
     <size>L</size>
     <type>construct</type>
@@ -1639,7 +1639,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Alustriel Silverhand</name>
+    <name>Alustriel Silverhand [Legacy]</name>
     <sortname>Silverhand, Alustriel</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1721,7 +1721,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Argentia Skywright</name>
+    <name>Argentia Skywright [Legacy]</name>
     <sortname>Skywright, Argentia</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1782,7 +1782,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Camlash</name>
+    <name>Camlash [Legacy]</name>
     <npc>YES</npc>
     <size>H</size>
     <type>fiend (demon)</type>
@@ -1844,7 +1844,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Crunch</name>
+    <name>Crunch [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>construct (warforged)</type>
@@ -1903,7 +1903,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Eldon Keyward</name>
+    <name>Eldon Keyward [Legacy]</name>
     <sortname>Keyward, Eldon</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1956,7 +1956,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Fernitha</name>
+    <name>Fernitha [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>fiend (devil)</type>
@@ -2015,7 +2015,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Figaro</name>
+    <name>Figaro [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (tiefling)</type>
@@ -2065,7 +2065,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Glaive</name>
+    <name>Glaive [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>construct (warforged)</type>
@@ -2133,7 +2133,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Grottenelle Stonecutter</name>
+    <name>Grottenelle Stonecutter [Legacy]</name>
     <sortname>Stonecutter, Grottenelle</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -2199,7 +2199,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Inda</name>
+    <name>Inda [Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>lawful good</alignment>
@@ -2266,7 +2266,7 @@ In a new form, Inda retains its game statistics and ability to speak, but its AC
     <environment/>
   </monster>
   <monster>
-    <name>Indrina Lamsensettle</name>
+    <name>Indrina Lamsensettle [Legacy]</name>
     <sortname>Lamsensettle, Indrina</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2303,7 +2303,7 @@ In a new form, Inda retains its game statistics and ability to speak, but its AC
     <environment/>
   </monster>
   <monster>
-    <name>Jerot Galgin</name>
+    <name>Jerot Galgin [Legacy]</name>
     <sortname>Galgin, Jerot</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2364,7 +2364,7 @@ In a new form, Inda retains its game statistics and ability to speak, but its AC
     <environment/>
   </monster>
   <monster>
-    <name>Kas the Betrayer</name>
+    <name>Kas the Betrayer [Legacy]</name>
     <size>M</size>
     <type>undead (vampire)</type>
     <alignment>neutral evil</alignment>
@@ -2467,7 +2467,7 @@ In a new form, Inda retains its game statistics and ability to speak, but its AC
     <environment/>
   </monster>
   <monster>
-    <name>Kaylan Renaudon</name>
+    <name>Kaylan Renaudon [Legacy]</name>
     <sortname>Renaudon, Kaylan</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2581,7 +2581,7 @@ Each time Kaylan or Kaylan's companions do anything harmful to the target, it ca
     <environment/>
   </monster>
   <monster>
-    <name>Ker-Arach</name>
+    <name>Ker-Arach [Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>typically chaotic evil</alignment>
@@ -2650,7 +2650,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Kevetta Dolindar</name>
+    <name>Kevetta Dolindar [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Typically neutral evil</alignment>
@@ -2702,7 +2702,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Khai Kiroth</name>
+    <name>Khai Kiroth [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>fiend (devil)</type>
@@ -2768,7 +2768,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Laysa Matulin</name>
+    <name>Laysa Matulin [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -2826,7 +2826,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Lysan</name>
+    <name>Lysan [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (gith)</type>
@@ -2876,7 +2876,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Malaina van Talstiv</name>
+    <name>Malaina van Talstiv [Legacy]</name>
     <sortname>Talstiv, Malaina van</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2935,7 +2935,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Miska the Wolf-Spider</name>
+    <name>Miska the Wolf-Spider [Legacy]</name>
     <npc>YES</npc>
     <size>H</size>
     <type>fiend (demon)</type>
@@ -3035,7 +3035,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Naxa</name>
+    <name>Naxa [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf)</type>
@@ -3094,7 +3094,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Nyssa Otellion</name>
+    <name>Nyssa Otellion [Legacy]</name>
     <sortname>Otellion, Nyssa</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3161,7 +3161,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Orinix</name>
+    <name>Orinix [Legacy]</name>
     <size>H</size>
     <type>dragon</type>
     <alignment>typically neutral evil</alignment>
@@ -3247,7 +3247,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Rack</name>
+    <name>Rack [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>construct (warforged)</type>
@@ -3306,7 +3306,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Redbud</name>
+    <name>Redbud [Legacy]</name>
     <size>H</size>
     <type>plant</type>
     <alignment>chaotic good</alignment>
@@ -3364,7 +3364,7 @@ A 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or sla
     <environment/>
   </monster>
   <monster>
-    <name>Rerak</name>
+    <name>Rerak [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>typically neutral evil</alignment>
@@ -3448,7 +3448,7 @@ When Rerak is reduced to 0 hit points, it is destroyed and disintegrates, leavin
     <environment/>
   </monster>
   <monster>
-    <name>Rezran "Snake Eyes" Agrodro</name>
+    <name>Rezran "Snake Eyes" Agrodro [Legacy]</name>
     <sortname>Agrodro, Rezran "Snake Eyes"</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3507,7 +3507,7 @@ When Rerak is reduced to 0 hit points, it is destroyed and disintegrates, leavin
     <environment/>
   </monster>
   <monster>
-    <name>Riffel</name>
+    <name>Riffel [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (human, shapechanger)</type>
@@ -3567,7 +3567,7 @@ When Rerak is reduced to 0 hit points, it is destroyed and disintegrates, leavin
     <environment/>
   </monster>
   <monster>
-    <name>Sangora</name>
+    <name>Sangora [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>undead (shapechanger)</type>
@@ -3680,7 +3680,7 @@ Each time Sangora or Sangora's companions do anything harmful to the target, it 
     <environment/>
   </monster>
   <monster>
-    <name>Sarcelle Malinosh</name>
+    <name>Sarcelle Malinosh [Legacy]</name>
     <sortname>Malinosh, Sarcelle</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3718,7 +3718,7 @@ Each time Sangora or Sangora's companions do anything harmful to the target, it 
     <environment/>
   </monster>
   <monster>
-    <name>Sarusanda Allester</name>
+    <name>Sarusanda Allester [Legacy]</name>
     <sortname>Allester, Sarusanda</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3783,7 +3783,7 @@ Each time Sangora or Sangora's companions do anything harmful to the target, it 
     <environment/>
   </monster>
   <monster>
-    <name>Shanzezim</name>
+    <name>Shanzezim [Legacy]</name>
     <size>L</size>
     <type>elemental</type>
     <alignment>chaotic neutral</alignment>
@@ -3845,7 +3845,7 @@ Each time Sangora or Sangora's companions do anything harmful to the target, it 
     <environment/>
   </monster>
   <monster>
-    <name>Strahd, Master of Death House</name>
+    <name>Strahd, Master of Death House [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>undead (vampire, wizard)</type>
@@ -3963,7 +3963,7 @@ Strahd transforms into a Medium cloud of mist. While in this form, Strahd has a 
     <environment/>
   </monster>
   <monster>
-    <name>Tasha the Witch</name>
+    <name>Tasha the Witch [Legacy]</name>
     <sortname>Tasha, the Witch</sortname>
     <ancestry>Tasha</ancestry>
     <npc>YES</npc>
@@ -4043,7 +4043,7 @@ Strahd transforms into a Medium cloud of mist. While in this form, Strahd has a 
     <environment/>
   </monster>
   <monster>
-    <name>Teremini Nightsedge</name>
+    <name>Teremini Nightsedge [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf)</type>
@@ -4104,7 +4104,7 @@ Strahd transforms into a Medium cloud of mist. While in this form, Strahd has a 
     <environment/>
   </monster>
   <monster>
-    <name>Umberto Noblin</name>
+    <name>Umberto Noblin [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (gnome)</type>
@@ -4141,7 +4141,7 @@ Strahd transforms into a Medium cloud of mist. While in this form, Strahd has a 
     <environment/>
   </monster>
   <monster>
-    <name>Uvashar</name>
+    <name>Uvashar [Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>lawful evil</alignment>
@@ -4185,7 +4185,7 @@ Strahd transforms into a Medium cloud of mist. While in this form, Strahd has a 
     <environment/>
   </monster>
   <monster>
-    <name>Vaeve</name>
+    <name>Vaeve [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf)</type>
@@ -4256,7 +4256,7 @@ Strahd transforms into a Medium cloud of mist. While in this form, Strahd has a 
     <environment/>
   </monster>
   <monster>
-    <name>Valendar</name>
+    <name>Valendar [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human, shapechanger)</type>
@@ -4316,7 +4316,7 @@ Strahd transforms into a Medium cloud of mist. While in this form, Strahd has a 
     <environment/>
   </monster>
   <monster>
-    <name>Vecna the Archlich</name>
+    <name>Vecna the Archlich [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>undead (wizard)</type>
@@ -4400,7 +4400,7 @@ Strahd transforms into a Medium cloud of mist. While in this form, Strahd has a 
     <environment/>
   </monster>
   <monster>
-    <name>Windfall</name>
+    <name>Windfall [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (bard, tiefling)</type>
@@ -4494,7 +4494,7 @@ Strahd transforms into a Medium cloud of mist. While in this form, Strahd has a 
     <environment/>
   </monster>
   <monster>
-    <name>Zastra</name>
+    <name>Zastra [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (gith)</type>

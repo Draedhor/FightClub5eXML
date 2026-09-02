@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Boots of the Winding Path (UA)</name>
+    <name>Boots of the Winding Path [UA]</name>
     <detail>uncommon (requires attunement)</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -13,7 +13,7 @@ Source:	UA2024-Artificer p. 13,
 		UA2024-Eberron Updates p. 8</text>
   </item>
   <item>
-    <name>Helm of Awareness (UA)</name>
+    <name>Helm of Awareness [UA]</name>
     <detail>uncommon (requires attunement)</detail>
     <magic>YES</magic>
     <type>W</type>
@@ -25,7 +25,7 @@ Source:	UA2024-Artificer p. 13,
 		UA2024-Eberron Updates p. 8</text>
   </item>
   <item>
-    <name>Mind Sharpener (UA)</name>
+    <name>Mind Sharpener [UA]</name>
     <detail>uncommon (requires attunement)</detail>
     <magic>YES</magic>
     <type>RG</type>
@@ -38,7 +38,7 @@ Source:	UA2024-Artificer p. 13,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Repulsion Shield (UA)</name>
+    <name>Repulsion Shield [UA]</name>
     <detail>uncommon (requires attunement)</detail>
     <magic>YES</magic>
     <type>S</type>
@@ -57,7 +57,7 @@ Source:	UA2024-Artificer p. 14,
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Spell-Refueling Ring (UA)</name>
+    <name>Spell-Refueling Ring [UA]</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <magic>YES</magic>
     <type>RG</type>

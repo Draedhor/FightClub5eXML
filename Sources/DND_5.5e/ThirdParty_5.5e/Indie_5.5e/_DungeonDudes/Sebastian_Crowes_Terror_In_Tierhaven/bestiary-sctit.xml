@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Agog (TP)</name>
+    <name>Agog [TP]</name>
     <ancestry>Agog</ancestry>
     <size>M</size>
     <type>aberration</type>
@@ -75,7 +75,7 @@ Source:	Sebastian Crowes Terror in Tierhaven p. 18 (Third Party),
     <environment>swamp, grassland, forest, planar</environment>
   </monster>
   <monster>
-    <name>Allopine (TP)</name>
+    <name>Allopine [TP]</name>
     <ancestry>Allopine</ancestry>
     <size>S</size>
     <type>aberration</type>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Expert Sidekick (Legacy)</name>
+    <name>Expert Sidekick [Legacy]</name>
     <hd>10</hd>
     <proficiency>Acrobatics, Animal Handling, Arcana, Athletics, Deception, History, Insight, Intimidation, Investigation, Medicine, Nature, Perception, Performance, Persuasion, Religion, Sleight of Hand, Stealth, Survival</proficiency>
     <numSkills>5</numSkills>

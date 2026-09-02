@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Vicious Claw +1 (TP)</name>
+    <name>Vicious Claw +1 [TP Legacy]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -25,7 +25,7 @@ Source:	Acquisitions Incorporated p. 149,
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Vicious Haladie +1 (TP)</name>
+    <name>Vicious Haladie +1 [TP Legacy]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -51,7 +51,7 @@ Source:	Acquisitions Incorporated p. 149,
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Vicious Magitech Firearm +1 (TP)</name>
+    <name>Vicious Magitech Firearm +1 [TP Legacy]</name>
     <detail>firearm, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -84,7 +84,7 @@ Source:	Acquisitions Incorporated p. 149,
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Vicious Nunchuck +1 (TP)</name>
+    <name>Vicious Nunchuck +1 [TP Legacy]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -111,7 +111,7 @@ Source:	Acquisitions Incorporated p. 149,
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Vicious Tetherhook +1 (TP)</name>
+    <name>Vicious Tetherhook +1 [TP Legacy]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -138,7 +138,7 @@ Source:	Acquisitions Incorporated p. 149,
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Vicious Hand Tommybow +1 (TP)</name>
+    <name>Vicious Hand Tommybow +1 [TP Legacy]</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -171,7 +171,7 @@ Source:	Acquisitions Incorporated p. 149,
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Vicious Light Tommybow +1 (TP)</name>
+    <name>Vicious Light Tommybow +1 [TP Legacy]</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -202,7 +202,7 @@ Source:	Acquisitions Incorporated p. 149,
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Vicious Heavy Tommybow +1 (TP)</name>
+    <name>Vicious Heavy Tommybow +1 [TP Legacy]</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>

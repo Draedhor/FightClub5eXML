@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Streetfighter (TP)</name>
+    <name>Streetfighter [TP]</name>
     <ancestry>Brawler</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -64,7 +64,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Wrestler (TP)</name>
+    <name>Wrestler [TP]</name>
     <ancestry>Brawler</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -132,7 +132,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Belligerent Brawler (TP)</name>
+    <name>Belligerent Brawler [TP]</name>
     <ancestry>Brawler</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -209,7 +209,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Boxer (TP)</name>
+    <name>Boxer [TP]</name>
     <ancestry>Brawler</ancestry>
     <npc>YES</npc>
     <size>M</size>

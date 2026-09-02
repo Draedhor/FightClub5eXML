@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Academy Director (TP)</name>
+    <name>Academy Director [TP]</name>
     <ancestry>Academy Director</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -120,7 +120,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 224 (Third Party)</description
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Academy Outcast (TP)</name>
+    <name>Academy Outcast [TP]</name>
     <sortname>Outcast, Academy</sortname>
     <ancestry>Outcast</ancestry>
     <npc>YES</npc>
@@ -179,7 +179,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 216 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Amaranthyst the Ultraviolet (TP)</name>
+    <name>Amaranthyst the Ultraviolet [TP]</name>
     <sortname>Ultraviolet, Amaranthyst the</sortname>
     <ancestry>Ancient Delerium Dragon</ancestry>
     <npc>YES</npc>
@@ -329,7 +329,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 226 (Third Party)</description
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Amarodial the Bitterheart (TP)</name>
+    <name>Amarodial the Bitterheart [TP]</name>
     <sortname>Black Dragon, Ancient</sortname>
     <ancestry>Dragon, Black Dragon</ancestry>
     <size>G</size>
@@ -544,7 +544,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 98 (Third Party),
     <environment>swamp</environment>
   </monster>
   <monster>
-    <name>Amethyst Academy Wizard (TP)</name>
+    <name>Amethyst Academy Wizard [TP]</name>
     <sortname>Academy Wizard, Amethyst</sortname>
     <ancestry>Academy Wizard</ancestry>
     <npc>YES</npc>
@@ -594,7 +594,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 216 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Archmage Alabaster (TP)</name>
+    <name>Archmage Alabaster [TP]</name>
     <sortname>Alabaster (Archmage)</sortname>
     <ancestry>Academy Director</ancestry>
     <npc>YES</npc>
@@ -711,7 +711,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 110 (Third Party)</description
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Archmage Lasaia Nightbreeze (TP)</name>
+    <name>Archmage Lasaia Nightbreeze [TP]</name>
     <sortname>Nightbreeze, Lasaia (Archmage)</sortname>
     <ancestry>Academy Director</ancestry>
     <npc>YES</npc>
@@ -834,7 +834,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 96 (Third Party)</description>
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Archmage Penumbra (TP)</name>
+    <name>Archmage Penumbra [TP]</name>
     <sortname>Penumbra (Archmage)</sortname>
     <ancestry>Academy Director</ancestry>
     <npc>YES</npc>
@@ -952,7 +952,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 116 (Third Party)</description
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Baron Boris the Bold (TP)</name>
+    <name>Baron Boris the Bold [TP]</name>
     <sortname>Boris the Bold (Baron)</sortname>
     <ancestry>Knight</ancestry>
     <npc>YES</npc>
@@ -1026,7 +1026,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 55 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Bogdan Strangeways (TP)</name>
+    <name>Bogdan Strangeways [TP]</name>
     <ancestry>Druid</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -1079,7 +1079,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 53 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Chief Ranger Tanesha Laurent (TP)</name>
+    <name>Chief Ranger Tanesha Laurent [TP]</name>
     <sortname>Laurent, Tanesha (Chief Ranger)</sortname>
     <ancestry>Clawstrider Ranger</ancestry>
     <npc>YES</npc>
@@ -1157,7 +1157,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 116 (Third Party)</description
     <environment>forest, swamp</environment>
   </monster>
   <monster>
-    <name>Claudia Eden (TP)</name>
+    <name>Claudia Eden [TP]</name>
     <sortname>Eden, Claudia</sortname>
     <ancestry>Noble</ancestry>
     <npc>YES</npc>
@@ -1216,7 +1216,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 71 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Clawstrider Ranger (TP)</name>
+    <name>Clawstrider Ranger [TP]</name>
     <sortname>Ranger, Clawstrider</sortname>
     <ancestry>Ranger</ancestry>
     <npc>YES</npc>
@@ -1281,7 +1281,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 218 (Third Party)</description
     <environment>forest, swamp</environment>
   </monster>
   <monster>
-    <name>Clawstrider Raptor (TP)</name>
+    <name>Clawstrider Raptor [TP]</name>
     <sortname>Raptor, Clawstrider</sortname>
     <ancestry>Clawstrider</ancestry>
     <size>L</size>
@@ -1332,7 +1332,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 218 (Third Party)</description
     <environment>forest, swamp</environment>
   </monster>
   <monster>
-    <name>Commander Esther Livingston (TP)</name>
+    <name>Commander Esther Livingston [TP]</name>
     <sortname>Livingstone, Esther (Commander)</sortname>
     <ancestry>Veteran</ancestry>
     <npc>YES</npc>
@@ -1398,7 +1398,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 96 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Constance Kleinkessel (TP)</name>
+    <name>Constance Kleinkessel [TP]</name>
     <sortname>Kleinkessel, Constance</sortname>
     <ancestry>Vampire</ancestry>
     <npc>YES</npc>
@@ -1557,7 +1557,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 48 (Third Party),
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Consul Isabella Ezio (TP)</name>
+    <name>Consul Isabella Ezio [TP]</name>
     <sortname>Ezio, Isabella (Consul)</sortname>
     <ancestry>Noble</ancestry>
     <npc>YES</npc>
@@ -1612,7 +1612,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 110 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Corpsewrought Creature (TP)</name>
+    <name>Corpsewrought Creature [TP]</name>
     <size>M</size>
     <type>construct</type>
     <ac>16</ac>
@@ -1667,7 +1667,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 110 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Deep Dreg (TP)</name>
+    <name>Deep Dreg [TP]</name>
     <sortname>Dreg, Deep</sortname>
     <ancestry>Dreg</ancestry>
     <size>M</size>
@@ -1738,7 +1738,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 202 (Third Party)</description
     <environment>underwater, coastal, swamp, urban</environment>
   </monster>
   <monster>
-    <name>Deep Knight (TP)</name>
+    <name>Deep Knight [TP]</name>
     <sortname>Knight, Deep</sortname>
     <ancestry>Dreg</ancestry>
     <size>L</size>
@@ -1812,7 +1812,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 202 (Third Party)</description
     <environment>underwater, coastal, swamp, urban</environment>
   </monster>
   <monster>
-    <name>Deep Siren (TP)</name>
+    <name>Deep Siren [TP]</name>
     <sortname>Siren, Deep</sortname>
     <ancestry>Dreg</ancestry>
     <size>M</size>
@@ -1886,7 +1886,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 203 (Third Party)</description
     <environment>underwater, coastal, swamp, urban</environment>
   </monster>
   <monster>
-    <name>Delerium Elemental (TP)</name>
+    <name>Delerium Elemental [TP]</name>
     <sortname>Elemental, Delerium</sortname>
     <ancestry>Elemental</ancestry>
     <size>L</size>
@@ -1957,7 +1957,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 203 (Third Party)</description
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Divine Matriarch Mercy V (TP)</name>
+    <name>Divine Matriarch Mercy V [TP]</name>
     <sortname>Mercy V, Divine Matriarch</sortname>
     <ancestry>Divine Matriarch</ancestry>
     <npc>YES</npc>
@@ -2079,7 +2079,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 229 (Third Party)</description
     <environment/>
   </monster>
   <monster>
-    <name>Doctor (TP)</name>
+    <name>Doctor [TP]</name>
     <ancestry>Doctor</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -2129,7 +2129,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 212 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Duke Ludwig von Fritz (TP)</name>
+    <name>Duke Ludwig von Fritz [TP]</name>
     <sortname>von Fritz, Ludwig (Duke)</sortname>
     <ancestry>Noble</ancestry>
     <npc>YES</npc>
@@ -2184,7 +2184,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 48 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Duke Valentin von Baden (TP)</name>
+    <name>Duke Valentin von Baden [TP]</name>
     <sortname>von Baden, Valentin (Duke)</sortname>
     <ancestry>Liege</ancestry>
     <npc>YES</npc>
@@ -2263,7 +2263,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 47 (Third Party)</description>
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Elder Nightsong (TP)</name>
+    <name>Elder Nightsong [TP]</name>
     <sortname>Nightsong, Elder</sortname>
     <ancestry>Druid</ancestry>
     <npc>YES</npc>
@@ -2327,7 +2327,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 115 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Eldrick Runeweaver (TP)</name>
+    <name>Eldrick Runeweaver [TP]</name>
     <sortname>Runeweaver, Eldrick</sortname>
     <ancestry>Archmage</ancestry>
     <npc>YES</npc>
@@ -2396,7 +2396,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 30 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Eldritch Crawler (TP)</name>
+    <name>Eldritch Crawler [TP]</name>
     <sortname>Crawler, Eldritch</sortname>
     <ancestry>Crawler</ancestry>
     <size>M</size>
@@ -2463,7 +2463,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 209 (Third Party)</description
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Entropic Watcher (TP)</name>
+    <name>Entropic Watcher [TP]</name>
     <sortname>Watcher, Entropic</sortname>
     <ancestry>Watcher</ancestry>
     <size>L</size>
@@ -2580,7 +2580,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 206 (Third Party)</description
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Far Dweller (TP)</name>
+    <name>Far Dweller [TP]</name>
     <sortname>Dweller, Far</sortname>
     <ancestry>Dweller</ancestry>
     <size>M</size>
@@ -2658,7 +2658,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 211 (Third Party)</description
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Flamekeeper (TP)</name>
+    <name>Flamekeeper [TP]</name>
     <ancestry>Flamekeeper</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -2718,7 +2718,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 215 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Glasyadriel, the Blizzard (TP)</name>
+    <name>Glasyadriel, the Blizzard [TP]</name>
     <sortname>White Dragon, Adult, Glasyadriel, the Blizzard</sortname>
     <ancestry>Dragon, White Dragon</ancestry>
     <size>H</size>
@@ -2929,7 +2929,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 123 (Third Party),
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Grand Ambassador Beatrice Atwood (TP)</name>
+    <name>Grand Ambassador Beatrice Atwood [TP]</name>
     <sortname>Atwood, Beatrice (Dutchess, Grand Ambassador)</sortname>
     <ancestry>Noble</ancestry>
     <npc>YES</npc>
@@ -2985,7 +2985,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 72 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Grandmaster Delilah Willowart (TP)</name>
+    <name>Grandmaster Delilah Willowart [TP]</name>
     <sortname>Willowart, Delilah (Grandmaster)</sortname>
     <ancestry>Archmage</ancestry>
     <npc>YES</npc>
@@ -3067,7 +3067,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 104 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Grandmaster Rupert Greywell (TP)</name>
+    <name>Grandmaster Rupert Greywell [TP]</name>
     <sortname>Greywell, Rupert (Grandmaster)</sortname>
     <ancestry>Archmage</ancestry>
     <npc>YES</npc>
@@ -3150,7 +3150,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 97 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Greta Greenworth (TP)</name>
+    <name>Greta Greenworth [TP]</name>
     <sortname>Greenworth, Greta</sortname>
     <ancestry>Commoner</ancestry>
     <npc>YES</npc>
@@ -3201,7 +3201,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 97 (Third Party),
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Gwenavere Poe (TP)</name>
+    <name>Gwenavere Poe [TP]</name>
     <sortname>Poe, Gwenavere</sortname>
     <ancestry>Noble</ancestry>
     <npc>YES</npc>
@@ -3257,7 +3257,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 72 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>High Flamekeeper Elara Jones (TP)</name>
+    <name>High Flamekeeper Elara Jones [TP]</name>
     <sortname>Jones, Elara (High Flamekeeper)</sortname>
     <ancestry>Flamekeeper</ancestry>
     <npc>YES</npc>
@@ -3329,7 +3329,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 215 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>High King Venus Joplin II (TP)</name>
+    <name>High King Venus Joplin II [TP]</name>
     <sortname>Venus Joplin II, High King</sortname>
     <ancestry>High King</ancestry>
     <npc>YES</npc>
@@ -3422,7 +3422,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 228 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>High Paladin Uriel Radley (TP)</name>
+    <name>High Paladin Uriel Radley [TP]</name>
     <sortname>Radley, Uriel (High Paladin)</sortname>
     <ancestry>Paladin</ancestry>
     <npc>YES</npc>
@@ -3539,7 +3539,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 223 (Third Party)</description
     <environment/>
   </monster>
   <monster>
-    <name>Hooded Lantern Ranger (TP)</name>
+    <name>Hooded Lantern Ranger [TP]</name>
     <sortname>Ranger, Hooded Lantern</sortname>
     <ancestry>Ranger</ancestry>
     <npc>YES</npc>
@@ -3598,7 +3598,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 221 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Knight-Captain Gloria Hackfield (TP)</name>
+    <name>Knight-Captain Gloria Hackfield [TP]</name>
     <sortname>Hackfield, Gloria (Knight-Captain)</sortname>
     <ancestry>Paladin</ancestry>
     <npc>YES</npc>
@@ -3678,7 +3678,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 70 (Third Party)</description>
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Lady Verona von Baden (TP)</name>
+    <name>Lady Verona von Baden [TP]</name>
     <sortname>von Baden, Verona (Lady)</sortname>
     <ancestry>Spy</ancestry>
     <npc>YES</npc>
@@ -3747,7 +3747,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 47 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Liege (TP)</name>
+    <name>Liege [TP]</name>
     <ancestry>Liege</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -3812,7 +3812,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 217 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Liminal Herald (TP)</name>
+    <name>Liminal Herald [TP]</name>
     <sortname>Herald, Liminal</sortname>
     <ancestry>Herald</ancestry>
     <size>M</size>
@@ -3894,7 +3894,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 207 (Third Party)</description
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Lion Guard (TP)</name>
+    <name>Lion Guard [TP]</name>
     <ancestry>Lion Guard</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -3954,7 +3954,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 221 (Third Party)</description
     <environment>urban, desert, coastal, grassland</environment>
   </monster>
   <monster>
-    <name>Lion Guard Commander Tava Straža (TP)</name>
+    <name>Lion Guard Commander Tava Straža [TP]</name>
     <sortname>Straža, Tava (Lion Guard Commander)</sortname>
     <ancestry>Lion Guard</ancestry>
     <npc>YES</npc>
@@ -4030,7 +4030,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 119 (Third Party)</description
     <environment>urban, desert, coastal, grassland</environment>
   </monster>
   <monster>
-    <name>Lord Commander Elias Drexel (TP)</name>
+    <name>Lord Commander Elias Drexel [TP]</name>
     <sortname>Ranger, Hooded Lantern</sortname>
     <ancestry>Ranger</ancestry>
     <npc>YES</npc>
@@ -4104,7 +4104,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 44 (Third Party)</description>
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Lord Regent Volonius Reed (TP)</name>
+    <name>Lord Regent Volonius Reed [TP]</name>
     <sortname>Reed, Volonius (Lord Regent)</sortname>
     <ancestry>Noble</ancestry>
     <npc>YES</npc>
@@ -4160,7 +4160,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 71 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Lord Stari Krali III (TP)</name>
+    <name>Lord Stari Krali III [TP]</name>
     <sortname>Krali III, Stari (Lord)</sortname>
     <ancestry>Noble</ancestry>
     <npc>YES</npc>
@@ -4215,7 +4215,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 119 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Lurker on the Threshold (TP)</name>
+    <name>Lurker on the Threshold [TP]</name>
     <sortname>Lurker on the Threshold</sortname>
     <ancestry>Lurker</ancestry>
     <size>L</size>
@@ -4308,7 +4308,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 208 (Third Party)</description
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Marigold Kettleborn (TP)</name>
+    <name>Marigold Kettleborn [TP]</name>
     <sortname>Kettleborn, Marigold</sortname>
     <ancestry>Academy Director</ancestry>
     <npc>YES</npc>
@@ -4425,7 +4425,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 88 (Third Party)</description>
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Martyn Mac Lochlann (TP)</name>
+    <name>Martyn Mac Lochlann [TP]</name>
     <sortname>Mac Lochlann, Martyn</sortname>
     <ancestry>Reaver</ancestry>
     <npc>YES</npc>
@@ -4500,7 +4500,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 103 (Third Party)</description
     <environment>arctic, coastal, forest, hill, mountain, swamp, grassland, urban</environment>
   </monster>
   <monster>
-    <name>Maw Vermin (TP)</name>
+    <name>Maw Vermin [TP]</name>
     <sortname>Vermin, Maw</sortname>
     <ancestry>Vermin</ancestry>
     <size>H</size>
@@ -4574,7 +4574,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 210 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Minstrel (TP)</name>
+    <name>Minstrel [TP]</name>
     <ancestry>Minstrel</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -4633,7 +4633,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 214 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Opularis the Wise (TP)</name>
+    <name>Opularis the Wise [TP]</name>
     <sortname>Opularis the Wise</sortname>
     <ancestry>Dragon, Blue Dragon</ancestry>
     <size>G</size>
@@ -4846,7 +4846,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 74 (Third Party),
     <environment>desert, coastal</environment>
   </monster>
   <monster>
-    <name>Plague Doctor (TP)</name>
+    <name>Plague Doctor [TP]</name>
     <sortname>Doctor, Plague</sortname>
     <ancestry>Doctor</ancestry>
     <npc>YES</npc>
@@ -4920,7 +4920,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 213 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Prince Abdalla Laurent (TP)</name>
+    <name>Prince Abdalla Laurent [TP]</name>
     <sortname>Laurent, Abdalla (Prince)</sortname>
     <ancestry>Noble</ancestry>
     <npc>YES</npc>
@@ -4976,7 +4976,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 115 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Prince-Elector Mars Jagger (TP)</name>
+    <name>Prince-Elector Mars Jagger [TP]</name>
     <sortname>Jagger, Mars (Prince-Elector)</sortname>
     <ancestry>Liege</ancestry>
     <npc>YES</npc>
@@ -5055,7 +5055,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 86 (Third Party)</description>
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Prince-Elector Neptune John (TP)</name>
+    <name>Prince-Elector Neptune John [TP]</name>
     <sortname>John, Neptune (Prince-Elector)</sortname>
     <ancestry>Gladiator</ancestry>
     <npc>YES</npc>
@@ -5128,7 +5128,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 86 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Prince-Elector Sol Jackson (TP)</name>
+    <name>Prince-Elector Sol Jackson [TP]</name>
     <sortname>Jackson, Elector Sol (Prince-Elector)</sortname>
     <ancestry>Liege</ancestry>
     <npc>YES</npc>
@@ -5207,7 +5207,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 84 (Third Party)</description>
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Princess-Elector Persephone Joyce (TP)</name>
+    <name>Princess-Elector Persephone Joyce [TP]</name>
     <sortname>Joyce, Persephone (Princess-Elector)</sortname>
     <ancestry>Noble</ancestry>
     <npc>YES</npc>
@@ -5262,7 +5262,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 87 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Queen Genevieve Autumnfall (TP)</name>
+    <name>Queen Genevieve Autumnfall [TP]</name>
     <sortname>Autumnfall, Genevieve (Queen)</sortname>
     <ancestry>Mage</ancestry>
     <npc>YES</npc>
@@ -5332,7 +5332,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 104 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Reaver (TP)</name>
+    <name>Reaver [TP]</name>
     <ancestry>Reaver</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -5393,7 +5393,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 215 (Third Party)</description
     <environment>arctic, coastal, forest, hill, mountain, swamp, grassland, urban</environment>
   </monster>
   <monster>
-    <name>Rickard Steelfang (TP)</name>
+    <name>Rickard Steelfang [TP]</name>
     <sortname>Steelfang, Rickard</sortname>
     <ancestry>Lycanthrope</ancestry>
     <npc>YES</npc>
@@ -5504,7 +5504,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 222 (Third Party)</description
     <environment>any</environment>
   </monster>
   <monster>
-    <name>River (TP)</name>
+    <name>River [TP]</name>
     <ancestry>Mage</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -5559,7 +5559,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 30 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Scalebreaker Knight (TP)</name>
+    <name>Scalebreaker Knight [TP]</name>
     <sortname>Knight, Scalebreaker</sortname>
     <ancestry>Knight</ancestry>
     <npc>YES</npc>
@@ -5625,7 +5625,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 218 (Third Party)</description
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Secretary General Orlando Timmins (TP)</name>
+    <name>Secretary General Orlando Timmins [TP]</name>
     <sortname>Timmins, Orlando (Earl, Secretary General)</sortname>
     <ancestry>Commoner</ancestry>
     <npc>YES</npc>
@@ -5674,7 +5674,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 72 (Third Party),
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Silver Order Paladin (TP)</name>
+    <name>Silver Order Paladin [TP]</name>
     <sortname>Paladin, Silver Order</sortname>
     <ancestry>Paladin</ancestry>
     <npc>YES</npc>
@@ -5743,7 +5743,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 219 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Stalebreaker Commander Callisto (TP)</name>
+    <name>Stalebreaker Commander Callisto [TP]</name>
     <sortname>Callisto (Stalebreaker Commander)</sortname>
     <ancestry>Scalebreaker Knight</ancestry>
     <npc>YES</npc>
@@ -5823,7 +5823,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 87 (Third Party)</description>
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Steelfang Mercenary (TP)</name>
+    <name>Steelfang Mercenary [TP]</name>
     <sortname>Mercenary, Steelfang</sortname>
     <ancestry>Mercenary</ancestry>
     <npc>YES</npc>
@@ -5890,7 +5890,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 220 (Third Party)</description
     <environment>any</environment>
   </monster>
   <monster>
-    <name>Striga (TP)</name>
+    <name>Striga [TP]</name>
     <ancestry>Striga</ancestry>
     <size>L</size>
     <type>undead</type>
@@ -5966,7 +5966,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 205 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Sundar Stormgale (TP)</name>
+    <name>Sundar Stormgale [TP]</name>
     <sortname>Stormgale, Sundar</sortname>
     <ancestry>Mage</ancestry>
     <npc>YES</npc>
@@ -6025,7 +6025,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 53 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Surgeon (TP)</name>
+    <name>Surgeon [TP]</name>
     <sortname>Doctor, Surgeon</sortname>
     <ancestry>Doctor</ancestry>
     <npc>YES</npc>
@@ -6091,7 +6091,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 212 (Third Party)</description
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>The Duchess (TP)</name>
+    <name>The Duchess [TP]</name>
     <sortname>Duchess, The</sortname>
     <ancestry>Duchess</ancestry>
     <size>G</size>
@@ -6220,7 +6220,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 204 (Third Party)</description
     <environment>underwater, swamp</environment>
   </monster>
   <monster>
-    <name>The Thing with the Writhing Tail (TP)</name>
+    <name>The Thing with the Writhing Tail [TP]</name>
     <sortname>Thing with the Writhing Tail, The</sortname>
     <ancestry>Thing with the Writhing Tail</ancestry>
     <size>M</size>
@@ -6288,7 +6288,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 191 (Third Party)</description
     <environment>planar</environment>
   </monster>
   <monster>
-    <name>Trethysia, the Forest Serpent (TP)</name>
+    <name>Trethysia, the Forest Serpent [TP]</name>
     <sortname>Green Dragon, Adult, Theresia</sortname>
     <ancestry>Dragon, Green Dragon</ancestry>
     <size>H</size>
@@ -6503,7 +6503,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 50 (Third Party),
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Valtar Banemoon (TP)</name>
+    <name>Valtar Banemoon [TP]</name>
     <sortname>Banemoon, Valtar</sortname>
     <ancestry>Archmage</ancestry>
     <npc>YES</npc>
@@ -6585,7 +6585,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 52 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Vulmungoth, Doom of the Illountain (TP)</name>
+    <name>Vulmungoth, Doom of the Illountain [TP]</name>
     <sortname>Red Dragon, Ancient</sortname>
     <ancestry>Dragon, Red Dragon</ancestry>
     <size>G</size>
@@ -6800,7 +6800,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 51 (Third Party),
     <environment>mountain, hill</environment>
   </monster>
   <monster>
-    <name>Warchief Jarma Polaris (TP)</name>
+    <name>Warchief Jarma Polaris [TP]</name>
     <sortname>Polaris, Jarma (Warchief)</sortname>
     <ancestry>Reaver</ancestry>
     <npc>YES</npc>
@@ -6875,7 +6875,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 123 (Third Party)</description
     <environment>arctic, coastal, forest, hill, mountain, swamp, grassland, urban</environment>
   </monster>
   <monster>
-    <name>Xel'vohca the Ancient (TP)</name>
+    <name>Xel'vohca the Ancient [TP]</name>
     <sortname>Xel'vohca</sortname>
     <ancestry>Lich</ancestry>
     <npc>YES</npc>
@@ -7017,7 +7017,7 @@ Source:	Sebastian Crowe's Guide to Drakkenheim p. 70 (Third Party),
     <environment/>
   </monster>
   <monster>
-    <name>Zodiac Allsight (TP)</name>
+    <name>Zodiac Allsight [TP]</name>
     <sortname>Allsight, Zodiac</sortname>
     <ancestry>Academy Director, Storm Giant</ancestry>
     <npc>YES</npc>

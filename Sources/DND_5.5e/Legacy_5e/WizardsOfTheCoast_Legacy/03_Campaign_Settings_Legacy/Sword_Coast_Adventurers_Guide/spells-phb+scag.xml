@@ -1,93 +1,93 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Arcane Eye</name>
+    <name>Arcane Eye [Legacy]</name>
     <classes>Cleric (Arcana Domain)</classes>
   </spell>
   
   <spell>
-    <name>Aura of Vitality</name>
+    <name>Aura of Vitality [Legacy]</name>
     <classes>Paladin (Crown)</classes>
   </spell>
   <spell>
-    <name>Banishment</name>
-    <classes>Paladin (Crown)</classes>
-  </spell>
-  
-  <spell>
-    <name>Circle of Power</name>
-    <classes>Paladin (Crown)</classes>
-  </spell>
-  <spell>
-    <name>Command</name>
-    <classes>Paladin (Crown)</classes>
-  </spell>
-  <spell>
-    <name>Compelled Duel</name>
+    <name>Banishment [Legacy]</name>
     <classes>Paladin (Crown)</classes>
   </spell>
   
   <spell>
-    <name>Detect Magic</name>
-    <classes>Cleric (Arcana Domain)</classes>
-  </spell>
-  <spell>
-    <name>Dispel Magic</name>
-    <classes>Cleric (Arcana Domain)</classes>
-  </spell>
-  
-  <spell>
-    <name>Geas</name>
+    <name>Circle of Power [Legacy]</name>
     <classes>Paladin (Crown)</classes>
   </spell>
   <spell>
-    <name>Guardian of Faith</name>
+    <name>Command [Legacy]</name>
+    <classes>Paladin (Crown)</classes>
+  </spell>
+  <spell>
+    <name>Compelled Duel [Legacy]</name>
     <classes>Paladin (Crown)</classes>
   </spell>
   
   <spell>
-    <name>Leomund's Secret Chest</name>
+    <name>Detect Magic [Legacy]</name>
     <classes>Cleric (Arcana Domain)</classes>
   </spell>
   <spell>
-    <name>Magic Circle</name>
-    <classes>Cleric (Arcana Domain)</classes>
-  </spell>
-  <spell>
-    <name>Magic Missile</name>
-    <classes>Cleric (Arcana Domain)</classes>
-  </spell>
-  <spell>
-    <name>Magic Weapon</name>
-    <classes>Cleric (Arcana Domain)</classes>
-  </spell>
-  <spell>
-    <name>Nystul's Magic Aura</name>
-    <classes>Cleric (Arcana Domain)</classes>
-  </spell>
-  <spell>
-    <name>Planar Binding</name>
+    <name>Dispel Magic [Legacy]</name>
     <classes>Cleric (Arcana Domain)</classes>
   </spell>
   
   <spell>
-    <name>Speak with Dead</name>
+    <name>Geas [Legacy]</name>
+    <classes>Paladin (Crown)</classes>
+  </spell>
+  <spell>
+    <name>Guardian of Faith [Legacy]</name>
+    <classes>Paladin (Crown)</classes>
+  </spell>
+  
+  <spell>
+    <name>Leomund's Secret Chest [Legacy]</name>
+    <classes>Cleric (Arcana Domain)</classes>
+  </spell>
+  <spell>
+    <name>Magic Circle [Legacy]</name>
+    <classes>Cleric (Arcana Domain)</classes>
+  </spell>
+  <spell>
+    <name>Magic Missile [Legacy]</name>
+    <classes>Cleric (Arcana Domain)</classes>
+  </spell>
+  <spell>
+    <name>Magic Weapon [Legacy]</name>
+    <classes>Cleric (Arcana Domain)</classes>
+  </spell>
+  <spell>
+    <name>Nystul's Magic Aura [Legacy]</name>
+    <classes>Cleric (Arcana Domain)</classes>
+  </spell>
+  <spell>
+    <name>Planar Binding [Legacy]</name>
+    <classes>Cleric (Arcana Domain)</classes>
+  </spell>
+  
+  <spell>
+    <name>Speak with Dead [Legacy]</name>
     <classes>Warlock (The Undead)</classes>
   </spell>
   <spell>
-    <name>Spirit Guardians</name>
+    <name>Spirit Guardians [Legacy]</name>
     <classes>Paladin (Crown)</classes>
   </spell>
   <spell>
-    <name>Teleportation Circle</name>
+    <name>Teleportation Circle [Legacy]</name>
     <classes>Cleric (Arcana Domain)</classes>
   </spell>
   <spell>
-    <name>Warding Bond</name>
+    <name>Warding Bond [Legacy]</name>
     <classes>Paladin (Crown)</classes>
   </spell>
   <spell>
-    <name>Zone of Truth</name>
+    <name>Zone of Truth [Legacy]</name>
     <classes>Paladin (Crown)</classes>
   </spell>
 </compendium>

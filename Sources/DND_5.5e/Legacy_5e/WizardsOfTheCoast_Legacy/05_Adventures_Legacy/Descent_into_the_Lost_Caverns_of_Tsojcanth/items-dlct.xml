@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Iggwilv's Horn</name>
+    <name>Iggwilv's Horn [Legacy]</name>
     <detail>instrument, rare (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -28,7 +28,7 @@ Source:	Descent into the Lost Caverns of Tsojcanth p. 14,
 		Xanathar's Guide to Everything p. 83</text>
   </item>
   <item>
-    <name>Potion of Polychromy</name>
+    <name>Potion of Polychromy [Legacy]</name>
     <detail>vehicle (water), uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -38,7 +38,7 @@ Source:	Descent into the Lost Caverns of Tsojcanth p. 14,
 Source:	Descent into the Lost Caverns of Tsojcanth p. 15</text>
   </item>
   <item>
-    <name>Tasha's Creeping Keelboat</name>
+    <name>Tasha's Creeping Keelboat [Legacy]</name>
     <detail>vehicle (land/water), very rare (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>

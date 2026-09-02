@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Warlock (UA)</name>
+    <name>Warlock</name>
     <!-- Warlock Subclass: Sorcerer-king Patron (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -75,47 +75,47 @@ Source:	UA25-ApocalypticSubclasses p. 5</text>
     </autolevel>
   </class>
   <spell>
-    <name>Command (UA)</name>
+    <name>Command [UA]</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Compelled Duel (UA)</name>
+    <name>Compelled Duel [UA]</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Hold Person (UA)</name>
+    <name>Hold Person [UA]</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Mind Spike (UA)</name>
+    <name>Mind Spike [UA]</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Wrathful Smite (UA)</name>
+    <name>Wrathful Smite [UA]</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Fear (UA)</name>
+    <name>Fear [UA]</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Sending (UA)</name>
+    <name>Sending [UA]</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Compulsion (UA)</name>
+    <name>Compulsion [UA]</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Staggering Smite (UA)</name>
+    <name>Staggering Smite [UA]</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Dominate Person (UA)</name>
+    <name>Dominate Person [UA]</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
   <spell>
-    <name>Synaptic Static (UA)</name>
+    <name>Synaptic Static [UA]</name>
     <classes>Warlock (Sorcerer-king Patron (UA))</classes>
   </spell>
 </compendium>

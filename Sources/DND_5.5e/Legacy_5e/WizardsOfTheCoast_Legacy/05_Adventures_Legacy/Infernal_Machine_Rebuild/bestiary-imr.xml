@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>"The Demogorgon"</name>
+    <name>"The Demogorgon" [Legacy]</name>
     <size>L</size>
     <type>giant</type>
     <alignment>Chaotic Neutral</alignment>
@@ -79,7 +79,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Andras</name>
+    <name>Andras [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -138,7 +138,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Barbatos</name>
+    <name>Barbatos [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -205,7 +205,7 @@ If the object touched is either metal armor or a metal shield being worn or carr
     <environment/>
   </monster>
   <monster>
-    <name>Brain in Iron</name>
+    <name>Brain in Iron [Legacy]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>Any alignment</alignment>
@@ -255,7 +255,7 @@ If the object touched is either metal armor or a metal shield being worn or carr
     <environment/>
   </monster>
   <monster>
-    <name>Dwarven Worker</name>
+    <name>Dwarven Worker [Legacy]</name>
     <sortname>Dwarven, Worker</sortname>
     <ancestry>Dwarven</ancestry>
     <npc>YES</npc>
@@ -298,7 +298,7 @@ If the object touched is either metal armor or a metal shield being worn or carr
     <environment/>
   </monster>
   <monster>
-    <name>Enhanced Medusa</name>
+    <name>Enhanced Medusa [Legacy]</name>
     <sortname>Medusa, Enhanced</sortname>
     <ancestry>Medusa</ancestry>
     <size>M</size>
@@ -354,7 +354,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Grandfather Oak</name>
+    <name>Grandfather Oak [Legacy]</name>
     <sortname>Oak, Grandfather</sortname>
     <ancestry>Oak</ancestry>
     <size>H</size>
@@ -415,7 +415,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Lynx Creatlach</name>
+    <name>Lynx Creatlach [Legacy]</name>
     <sortname>Creatlach, Lynx</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -487,7 +487,7 @@ Source:	Infernal Machine Rebuild p. 54</description>
     <environment/>
   </monster>
   <monster>
-    <name>Moghadam</name>
+    <name>Moghadam [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -561,7 +561,7 @@ Source:	Infernal Machine Rebuild p. 54</description>
     <environment/>
   </monster>
   <monster>
-    <name>Neo-Otyugh</name>
+    <name>Neo-Otyugh [Legacy]</name>
     <size>H</size>
     <type>aberration</type>
     <alignment>Neutral</alignment>
@@ -621,7 +621,7 @@ Source:	Infernal Machine Rebuild p. 75</description>
     <environment/>
   </monster>
   <monster>
-    <name>Seodra</name>
+    <name>Seodra [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -666,7 +666,7 @@ Source:	Infernal Machine Rebuild p. 75</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sir Ursas</name>
+    <name>Sir Ursas [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -735,7 +735,7 @@ Source:	Infernal Machine Rebuild p. 56</description>
     <environment/>
   </monster>
   <monster>
-    <name>Skeletal Giant Owl</name>
+    <name>Skeletal Giant Owl [Legacy]</name>
     <sortname>Owl, Skeletal Giant</sortname>
     <ancestry>Owl</ancestry>
     <size>L</size>
@@ -777,7 +777,7 @@ Source:	Infernal Machine Rebuild p. 56</description>
     <environment>forest, hill, arctic</environment>
   </monster>
   <monster>
-    <name>Skeletal Owlbear</name>
+    <name>Skeletal Owlbear [Legacy]</name>
     <sortname>Owlbear, Skeletal</sortname>
     <ancestry>Owlbear</ancestry>
     <size>L</size>
@@ -824,7 +824,7 @@ Source:	Infernal Machine Rebuild p. 56</description>
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Skeletal Polar Bear</name>
+    <name>Skeletal Polar Bear [Legacy]</name>
     <sortname>Bear, Polar Skeletal</sortname>
     <ancestry>Bear</ancestry>
     <size>L</size>
@@ -871,7 +871,7 @@ Source:	Infernal Machine Rebuild p. 56</description>
     <environment>underdark, arctic</environment>
   </monster>
   <monster>
-    <name>Skeletal Two-Headed Owlbear</name>
+    <name>Skeletal Two-Headed Owlbear [Legacy]</name>
     <sortname>Owlbear, Skeletal</sortname>
     <ancestry>Owlbear</ancestry>
     <size>L</size>
@@ -922,7 +922,7 @@ Source:	Infernal Machine Rebuild p. 56</description>
     <environment/>
   </monster>
   <monster>
-    <name>Stolos</name>
+    <name>Stolos [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -975,7 +975,7 @@ Source:	Infernal Machine Rebuild p. 56</description>
     <environment>desert, hill, mountain, underdark, urban</environment>
   </monster>
   <monster>
-    <name>Tarnhem</name>
+    <name>Tarnhem [Legacy]</name>
     <size>H</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -1052,7 +1052,7 @@ A summoned demon appears in an unoccupied space within 60 feet of its summoner, 
     <environment/>
   </monster>
   <monster>
-    <name>Thessalar</name>
+    <name>Thessalar [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -1121,7 +1121,7 @@ Source:	Infernal Machine Rebuild p. 57</description>
     <environment/>
   </monster>
   <monster>
-    <name>Thessalar's Homunculus</name>
+    <name>Thessalar's Homunculus [Legacy]</name>
     <size>T</size>
     <type>construct</type>
     <alignment>Neutral</alignment>
@@ -1163,7 +1163,7 @@ If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d
     <environment/>
   </monster>
   <monster>
-    <name>Thessalheart Construct</name>
+    <name>Thessalheart Construct [Legacy]</name>
     <size>T</size>
     <type>construct</type>
     <alignment>Neutral</alignment>
@@ -1202,7 +1202,7 @@ Source:	Infernal Machine Rebuild p. 86</description>
     <environment/>
   </monster>
   <monster>
-    <name>Thessalkraken</name>
+    <name>Thessalkraken [Legacy]</name>
     <size>G</size>
     <type>monstrosity (titan)</type>
     <alignment>Chaotic Evil</alignment>
@@ -1295,7 +1295,7 @@ Source:	Infernal Machine Rebuild p. 87</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tiefling Muralist</name>
+    <name>Tiefling Muralist [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (tiefling)</type>
@@ -1340,7 +1340,7 @@ Source:	Infernal Machine Rebuild p. 87</description>
     <environment/>
   </monster>
   <monster>
-    <name>Two-Headed Crocodile</name>
+    <name>Two-Headed Crocodile [Legacy]</name>
     <sortname>Crocodile, Two-Headed</sortname>
     <ancestry>Crocodile</ancestry>
     <size>L</size>
@@ -1392,7 +1392,7 @@ Until this grapple ends, the target is restrained, and that head of the crocodil
     <environment/>
   </monster>
   <monster>
-    <name>Two-Headed Owlbear</name>
+    <name>Two-Headed Owlbear [Legacy]</name>
     <sortname>Owlbear, Two-Headed</sortname>
     <ancestry>Owlbear</ancestry>
     <size>L</size>

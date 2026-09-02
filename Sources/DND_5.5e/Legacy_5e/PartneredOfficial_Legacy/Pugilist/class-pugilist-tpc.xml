@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Pugilist (TP)</name>
+    <name>Pugilist [TP Legacy]</name>
     <hd>8</hd>
     <proficiency>Strength, Constitution, Acrobatics, Athletics, Deception, Intimidation, Perception, Sleight of Hand, Stealth</proficiency>
     <numSkills>2</numSkills>

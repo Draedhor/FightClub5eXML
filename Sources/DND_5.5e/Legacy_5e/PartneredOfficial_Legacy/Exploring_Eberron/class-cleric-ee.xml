@@ -86,43 +86,43 @@ Source:	Exploring Eberron p. 217 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Command</name>
-    <classes>Cleric [5.5e] (The Mind Domain (TP))</classes>
+    <name>Command [TP Legacy]</name>
+    <classes>Cleric (The Mind Domain (TP))</classes>
   </spell>
   <spell>
-    <name>Dissonant Whispers</name>
-    <classes>Cleric [5.5e] (The Mind Domain (TP))</classes>
+    <name>Dissonant Whispers [TP Legacy]</name>
+    <classes>Cleric (The Mind Domain (TP))</classes>
   </spell>
   <spell>
-    <name>Detect Thoughts</name>
-    <classes>Cleric [5.5e] (The Mind Domain (TP))</classes>
+    <name>Detect Thoughts [TP Legacy]</name>
+    <classes>Cleric (The Mind Domain (TP))</classes>
   </spell>
   <spell>
-    <name>Phantasmal Force</name>
-    <classes>Cleric [5.5e] (The Mind Domain (TP))</classes>
+    <name>Phantasmal Force [TP Legacy]</name>
+    <classes>Cleric (The Mind Domain (TP))</classes>
   </spell>
   <spell>
-    <name>Enemies Abound</name>
-    <classes>Cleric [5.5e] (The Mind Domain (TP))</classes>
+    <name>Enemies Abound [TP Legacy]</name>
+    <classes>Cleric (The Mind Domain (TP))</classes>
   </spell>
   <spell>
-    <name>Fear</name>
-    <classes>Cleric [5.5e] (The Mind Domain (TP))</classes>
+    <name>Fear [TP Legacy]</name>
+    <classes>Cleric (The Mind Domain (TP))</classes>
   </spell>
   <spell>
-    <name>Confusion</name>
-    <classes>Cleric [5.5e] (The Mind Domain (TP))</classes>
+    <name>Confusion [TP Legacy]</name>
+    <classes>Cleric (The Mind Domain (TP))</classes>
   </spell>
   <spell>
-    <name>Phantasmal Killer</name>
-    <classes>Cleric [5.5e] (The Mind Domain (TP))</classes>
+    <name>Phantasmal Killer [TP Legacy]</name>
+    <classes>Cleric (The Mind Domain (TP))</classes>
   </spell>
   <spell>
-    <name>Dominate Person</name>
-    <classes>Cleric [5.5e] (The Mind Domain (TP))</classes>
+    <name>Dominate Person [TP Legacy]</name>
+    <classes>Cleric (The Mind Domain (TP))</classes>
   </spell>
   <spell>
-    <name>Telekinesis</name>
-    <classes>Cleric [5.5e] (The Mind Domain (TP))</classes>
+    <name>Telekinesis [TP Legacy]</name>
+    <classes>Cleric (The Mind Domain (TP))</classes>
   </spell>
 </compendium>

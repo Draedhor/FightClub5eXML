@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Black Dragon Mask</name>
+    <name>Black Dragon Mask [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -25,7 +25,7 @@ Source:	Hoard of the Dragon Queen p. 94,
 		Tyranny of Dragons p. 178</text>
   </item>
   <item>
-    <name>Dragongleam</name>
+    <name>Dragongleam [Legacy]</name>
     <detail>spear, legendary</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -47,7 +47,7 @@ Proficiency: simple, spear
 Source:	Hoard of the Dragon Queen p. 69</text>
   </item>
   <item>
-    <name>Hazirawn</name>
+    <name>Hazirawn [Legacy]</name>
     <detail>greatsword, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -77,7 +77,7 @@ Source:	Hoard of the Dragon Queen p. 94,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Insignia of Claws</name>
+    <name>Insignia of Claws [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -90,7 +90,7 @@ Source:	Hoard of the Dragon Queen p. 94,
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Tankard of Plenty</name>
+    <name>Tankard of Plenty [Legacy]</name>
     <detail>other</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -99,7 +99,7 @@ Source:	Hoard of the Dragon Queen p. 94,
 Source:	Hoard of the Dragon Queen p. 74</text>
   </item>
   <item>
-    <name>Wand of Winter</name>
+    <name>Wand of Winter [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>WD</type>
     <magic>YES</magic>

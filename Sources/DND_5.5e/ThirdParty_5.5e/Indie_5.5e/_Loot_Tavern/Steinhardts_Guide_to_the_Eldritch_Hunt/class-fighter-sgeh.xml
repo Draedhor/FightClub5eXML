@@ -183,7 +183,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 146 (Homebrew)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Blood Shot: Bewitching Arrow (TP)</name>
+    <name>Blood Shot: Bewitching Arrow [TP]</name>
     <level>0</level>
     <classes>Fighter (Blood Archer (HB)): Blood Shot Options</classes>
     <text>You infuse fey blood to cause this arrow to temporarily charm its target. The creature hit by the arrow takes an extra 2d6 psychic damage and must make a Wisdom saving throw. If it fails the save, you can choose one of the target's allies within 30 feet of it; the target now considers this ally as an enemy until the start of your next turn.
@@ -194,7 +194,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 143 (Homebrew)</text>
     <roll description="Psychic Damage" level="18">4d6</roll>
   </spell>
   <spell>
-    <name>Blood Shot: Bloodboil Arrow (TP)</name>
+    <name>Blood Shot: Bloodboil Arrow [TP]</name>
     <level>0</level>
     <classes>Fighter (Blood Archer (HB)): Blood Shot Options</classes>
     <text>Fiendish blood is infused in this devilish arrow that you fire. The arrow detonates in a cloud of ignited blood after your attack. Immediately after the arrow hits the creature, the target and all other creatures within 10 feet of it take 2d6 fire damage as their bodies start burning. This fire damage ignores resistance.
@@ -205,7 +205,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 143 (Homebrew)</text>
     <roll description="Fire Damage" level="18">4d6</roll>
   </spell>
   <spell>
-    <name>Blood Shot: Bloodshard Arrow (TP)</name>
+    <name>Blood Shot: Bloodshard Arrow [TP]</name>
     <level>0</level>
     <classes>Fighter (Blood Archer (HB)): Blood Shot Options</classes>
     <text>You transform your arrow into a thread of sharp blood, which, instead of an attack roll, fires forward in a 1-footwide, 30-foot-long line, before disappearing. The arrow passes harmlessly through objects, ignoring cover. Each creature in that line must make a Dexterity saving throw, taking damage as if it were hit by the arrow plus an extra 1d6 piercing damage on a failed save, or half as much damage on a successful one.
@@ -216,7 +216,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 143 (Homebrew)</text>
     <roll description="Piercing Damage" level="18">2d6</roll>
   </spell>
   <spell>
-    <name>Blood Shot: Constraining Arrow (TP)</name>
+    <name>Blood Shot: Constraining Arrow [TP]</name>
     <level>0</level>
     <classes>Fighter (Blood Archer (HB)): Blood Shot Options</classes>
     <text>When this arrow strikes its target, blood tainted by oozes creates grasping and sharp tendrils of blood, which wrap around the target. The creature hit by the arrow takes an extra 2d6 acid damage, its speed is reduced by 10 feet, and it takes 2d6 acid damage the first time on each turn it moves 1 foot or more without teleporting. A creature can use its action to make an Athletics check against your Blood Shot save DC, removing the tendrils from itself or another creature within its reach on a success. Otherwise, the tendrils last for 1 minute or until you use this option again.
@@ -227,7 +227,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 143 (Homebrew)</text>
     <roll description="Acid Damage" level="18">4d6</roll>
   </spell>
   <spell>
-    <name>Blood Shot: Exiling Arrow (TP)</name>
+    <name>Blood Shot: Exiling Arrow [TP]</name>
     <level>0</level>
     <classes>Fighter (Blood Archer (HB)): Blood Shot Options</classes>
     <text>You use celestial blood to try to temporarily banish your target to a harmless location in the Celestial Plane. The creature hit by the arrow must also succeed on a Charisma saving throw or be banished. While banished in this way, its speed is 0 and it is incapacitated. At the end of its next turn, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
@@ -237,7 +237,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 143 (Homebrew)</text>
     <roll description="Radiant Damage" level="18">2d6</roll>
   </spell>
   <spell>
-    <name>Blood Shot: Hunting Arrow (TP)</name>
+    <name>Blood Shot: Hunting Arrow [TP]</name>
     <level>0</level>
     <classes>Fighter (Blood Archer (HB)): Blood Shot Options</classes>
     <text>Using ancient bestial blood, you grant your arrow the ability to seek and hunt any foe, allowing the arrow to curve and twist its path in search of its prey. Instead of an attack roll, choose one creature you have seen in the past minute. The arrow flies toward that creature, moving around corners if necessary, and ignoring three-quarters cover and half cover. If the target is within the weapon's range and there is a path large enough for the arrow to travel to the target, the target must make a Dexterity saving throw. On a failed save, it takes damage as if it were hit by the arrow plus an extra 1d6 piercing damage, and you learn the target's current location.
@@ -248,7 +248,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 144 (Homebrew)</text>
     <roll description="Piercing Damage" level="18">2d6</roll>
   </spell>
   <spell>
-    <name>Blood Shot: Shadowblood Arrow (TP)</name>
+    <name>Blood Shot: Shadowblood Arrow [TP]</name>
     <level>0</level>
     <classes>Fighter (Blood Archer (HB)): Blood Shot Options</classes>
     <text>You weave threads of shadows from the blood of your foe, causing it to obscure the battlefield. The creature hit by the arrow takes an extra 2d6 necrotic damage and its blood forms a dark red mist that rises in a 10foot radius around the target. This mist is magical darkness and spreads around corners. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it. It lasts until the start of your next turn.
@@ -259,7 +259,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 144 (Homebrew)</text>
     <roll description="Necrotic Damage" level="18">4d6</roll>
   </spell>
   <spell>
-    <name>Blood Shot: Thunder Blood Arrow (TP)</name>
+    <name>Blood Shot: Thunder Blood Arrow [TP]</name>
     <level>0</level>
     <classes>Fighter (Blood Archer (HB)): Blood Shot Options</classes>
     <text>You imbue your arrow with forceful energy drawn from the blood of giants. The arrow detonates immediately after it hits your target; the creature takes an extra 2d6 thunder damage and is pushed back 15 feet. In addition, it must succeed on a Strength saving throw against your Blood Shot save DC or be knocked prone.
@@ -270,7 +270,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 144 (Homebrew)</text>
     <roll description="Thunder Damage" level="18">4d6</roll>
   </spell>
   <spell>
-    <name>Blood Shot: Withering Arrow (TP)</name>
+    <name>Blood Shot: Withering Arrow [TP]</name>
     <level>0</level>
     <classes>Fighter (Blood Archer (HB)): Blood Shot Options</classes>
     <text>You weave cursed undead blood into your arrow. The creature hit by the arrow takes an extra 2d6 necrotic damage. The target must also succeed on a Constitution saving throw against your Blood Shot save DC, or the damage dealt by its weapon attacks is halved until the start of your next turn.

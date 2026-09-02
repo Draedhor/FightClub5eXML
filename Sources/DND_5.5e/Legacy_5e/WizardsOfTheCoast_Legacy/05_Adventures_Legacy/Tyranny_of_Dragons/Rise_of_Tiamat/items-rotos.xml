@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Blue Dragon Mask</name>
+    <name>Blue Dragon Mask [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -25,7 +25,7 @@ Source:	The Rise of Tiamat Online Supplement p. 4,
 		Tyranny of Dragons p. 178</text>
   </item>
   <item>
-    <name>Green Dragon Mask</name>
+    <name>Green Dragon Mask [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -48,7 +48,7 @@ Source:	The Rise of Tiamat Online Supplement p. 4,
 		Tyranny of Dragons p. 178</text>
   </item>
   <item>
-    <name>Red Dragon Mask</name>
+    <name>Red Dragon Mask [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -73,7 +73,7 @@ Source:	The Rise of Tiamat Online Supplement p. 4,
     <roll description="Fire Damage">1d6</roll>
   </item>
   <item>
-    <name>White Dragon Mask</name>
+    <name>White Dragon Mask [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>

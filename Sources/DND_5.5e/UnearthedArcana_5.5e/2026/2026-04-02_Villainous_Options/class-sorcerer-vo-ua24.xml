@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Sorcerer (UA)</name>
+    <name>Sorcerer</name>
     <!-- Sorcerer Subclass: Demonic Sorcery (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -117,43 +117,43 @@ Source:	Villainous Options p. 8 (Unearthed Arcana)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Detect Magic (UA)</name>
+    <name>Detect Magic [UA]</name>
     <classes>Sorcerer (Demonic Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Entangle (UA)</name>
+    <name>Entangle [UA]</name>
     <classes>Sorcerer (Demonic Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Misty Step (UA)</name>
+    <name>Misty Step [UA]</name>
     <classes>Sorcerer (Demonic Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Spider Climb (UA)</name>
+    <name>Spider Climb [UA]</name>
     <classes>Sorcerer (Demonic Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Dispel Magic (UA)</name>
+    <name>Dispel Magic [UA]</name>
     <classes>Sorcerer (Demonic Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Gaseous Form (UA)</name>
+    <name>Gaseous Form [UA]</name>
     <classes>Sorcerer (Demonic Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Confusion (UA)</name>
+    <name>Confusion [UA]</name>
     <classes>Sorcerer (Demonic Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Hallucinatory Terrain (UA)</name>
+    <name>Hallucinatory Terrain [UA]</name>
     <classes>Sorcerer (Demonic Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Contact Other Plane (UA)</name>
+    <name>Contact Other Plane [UA]</name>
     <classes>Sorcerer (Demonic Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Hallow (UA)</name>
+    <name>Hallow [UA]</name>
     <classes>Sorcerer (Demonic Sorcery (UA))</classes>
   </spell>
 </compendium>

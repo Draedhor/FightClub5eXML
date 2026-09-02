@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Elf (Zendikar, Joraga Nation)</name>
+    <name>Elf (Zendikar, Joraga Nation) [TP Legacy]</name>
     <size>M</size>
     <speed>35</speed>
     <ability>Wis +2, Dex +1</ability>
@@ -70,7 +70,7 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Elf (Zendikar, Mul Daya Nation)</name>
+    <name>Elf (Zendikar, Mul Daya Nation) [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Wis +2, Str +1</ability>
@@ -139,7 +139,7 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Elf (Zendikar, Tajuru Nation)</name>
+    <name>Elf (Zendikar, Tajuru Nation) [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Wis +2, Cha +1</ability>
@@ -197,7 +197,7 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Goblin (Zendikar, Grotag Tribe)</name>
+    <name>Goblin (Zendikar, Grotag Tribe) [TP Legacy]</name>
     <size>S</size>
     <speed>25</speed>
     <ability>Con +2</ability>
@@ -253,7 +253,7 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
   </race>
   <race>
-    <name>Goblin (Zendikar, Lavastep Tribe)</name>
+    <name>Goblin (Zendikar, Lavastep Tribe) [TP Legacy]</name>
     <size>S</size>
     <speed>25</speed>
     <ability>Con +2</ability>
@@ -307,7 +307,7 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
   </race>
   <race>
-    <name>Goblin (Zendikar, Tuktuk Tribe)</name>
+    <name>Goblin (Zendikar, Tuktuk Tribe) [TP Legacy]</name>
     <size>S</size>
     <speed>25</speed>
     <ability>Con +2</ability>
@@ -362,7 +362,7 @@ Weight in pounds = 35 + your size modifier</text>
     </trait>
   </race>
   <race>
-    <name>Human (Zendikar)</name>
+    <name>Human (Zendikar) [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +1, Dex +1, Con +1, Int +1, Wis +1, Cha +1</ability>
@@ -398,7 +398,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Kor</name>
+    <name>Kor [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex +2, Wis +1</ability>
@@ -449,7 +449,7 @@ Source:	Plane Shift: Zendikar p. 10</text>
     </trait>
   </race>
   <race>
-    <name>Merfolk, Cosi Creed (Zendikar)</name>
+    <name>Merfolk, Cosi Creed (Zendikar) [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +1, Int +1, Cha +2</ability>
@@ -507,7 +507,7 @@ Source:	Plane Shift: Zendikar p. 13</text>
     </trait>
   </race>
   <race>
-    <name>Merfolk, Emeria Creed (Zendikar)</name>
+    <name>Merfolk, Emeria Creed (Zendikar) [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +1, Wis +2</ability>
@@ -565,7 +565,7 @@ Source:	Plane Shift: Zendikar p. 13</text>
     </trait>
   </race>
   <race>
-    <name>Merfolk, Ula Creed (Zendikar)</name>
+    <name>Merfolk, Ula Creed (Zendikar) [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +1, Int +2</ability>
@@ -625,7 +625,7 @@ Source:	Plane Shift: Zendikar p. 13</text>
     </trait>
   </race>
   <race>
-    <name>Vampire (Zendikar)</name>
+    <name>Vampire (Zendikar) [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Int +1, Cha +2</ability>

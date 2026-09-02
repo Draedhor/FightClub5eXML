@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Invocation: Beast Speech</name>
+    <name>Invocation: Beast Speech [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -14,7 +14,7 @@
 Source:	Player's Handbook (2014) p. 110</text>
   </spell>
   <spell>
-    <name>Invocation: Beguiling Influence</name>
+    <name>Invocation: Beguiling Influence [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -27,7 +27,7 @@ Source:	Player's Handbook (2014) p. 110</text>
 Source:	Player's Handbook (2014) p. 110</text>
   </spell>
   <spell>
-    <name>Invocation: Bewitching Whispers</name>
+    <name>Invocation: Bewitching Whispers [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -42,7 +42,7 @@ You can cast compulsion once using a warlock spell slot. You can't do so again u
 Source:	Player's Handbook (2014) p. 110</text>
   </spell>
   <spell>
-    <name>Invocation: Chains of Carceri</name>
+    <name>Invocation: Chains of Carceri [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -57,7 +57,7 @@ You can cast hold monster at will-targeting a celestial, fiend, or elemental-wit
 Source:	Player's Handbook (2014) p. 110</text>
   </spell>
   <spell>
-    <name>Invocation: Dreadful Word</name>
+    <name>Invocation: Dreadful Word [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -72,7 +72,7 @@ You can cast confusion once using a warlock spell slot. You can't do so again un
 Source:	Player's Handbook (2014) p. 110</text>
   </spell>
   <spell>
-    <name>Invocation: Eldritch Sight</name>
+    <name>Invocation: Eldritch Sight [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -85,7 +85,7 @@ Source:	Player's Handbook (2014) p. 110</text>
 Source:	Player's Handbook (2014) p. 110</text>
   </spell>
   <spell>
-    <name>Invocation: Eyes of the Rune Keeper</name>
+    <name>Invocation: Eyes of the Rune Keeper [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -113,7 +113,7 @@ You can cast alter self at will, without expending a spell slot.
 Source:	Player's Handbook (2014) p. 111</text>
   </spell> -->
   <spell>
-    <name>Invocation: Minions of Chaos</name>
+    <name>Invocation: Minions of Chaos [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -128,7 +128,7 @@ You can cast conjure elemental once using a warlock spell slot. You can't do so 
 Source:	Player's Handbook (2014) p. 111</text>
   </spell>
   <spell>
-    <name>Invocation: Mire the Mind</name>
+    <name>Invocation: Mire the Mind [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -143,7 +143,7 @@ You can cast slow once using a warlock spell slot. You can't do so again until y
 Source:	Player's Handbook (2014) p. 111</text>
   </spell>
   <spell>
-    <name>Invocation: Sculptor of Flesh</name>
+    <name>Invocation: Sculptor of Flesh [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -158,7 +158,7 @@ You can cast polymorph once using a warlock spell slot. You can't do so again un
 Source:	Player's Handbook (2014) p. 111</text>
   </spell>
   <spell>
-    <name>Invocation: Sign of Ill Omen</name>
+    <name>Invocation: Sign of Ill Omen [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -173,7 +173,7 @@ You can cast bestow curse once using a warlock spell slot. You can't do so again
 Source:	Player's Handbook (2014) p. 111</text>
   </spell>
   <spell>
-    <name>Invocation: Thief of Five Fates</name>
+    <name>Invocation: Thief of Five Fates [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />
@@ -186,7 +186,7 @@ Source:	Player's Handbook (2014) p. 111</text>
 Source:	Player's Handbook (2014) p. 111</text>
   </spell>
   <spell>
-    <name>Invocation: Voice of the Chain Master</name>
+    <name>Invocation: Voice of the Chain Master [Legacy]</name>
     <level>0</level>
     <ritual>NO</ritual>
     <time />

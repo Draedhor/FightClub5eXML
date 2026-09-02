@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Decapus</name>
+    <name>Decapus [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -49,7 +49,7 @@ Source:	The Tortle Package p. 21</description>
     <environment/>
   </monster>
   <monster>
-    <name>Geonid</name>
+    <name>Geonid [Legacy]</name>
     <size>S</size>
     <type>elemental</type>
     <alignment>Neutral</alignment>
@@ -97,7 +97,7 @@ Source:	The Tortle Package p. 22</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Slug</name>
+    <name>Giant Slug [Legacy]</name>
     <sortname>Slug, Giant</sortname>
     <ancestry>Slug</ancestry>
     <size>L</size>
@@ -160,7 +160,7 @@ Until this poison ends, the target is paralyzed. The target can repeat the savin
     <environment/>
   </monster>
   <monster>
-    <name>Topi</name>
+    <name>Topi [Legacy]</name>
     <size>S</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>

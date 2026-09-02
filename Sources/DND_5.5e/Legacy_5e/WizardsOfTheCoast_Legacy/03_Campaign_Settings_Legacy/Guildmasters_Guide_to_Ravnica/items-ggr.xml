@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Azorius Guild Signet</name>
+    <name>Azorius Guild Signet [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>RG</type>
     <text>This ring, adorned with the symbol of Azorius, allows you to cast ensnaring strike. A guild signet is sometimes awarded to a guild member whose renown score in that guild is 5 or higher, as a reward for performing special services for the guild. Aside from its magical properties, the ring is also an indicator of Azorius's recognition and favor.
@@ -11,7 +11,7 @@ Source:	Guildmasters' Guide to Ravnica p. 178</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Azorius Keyrune</name>
+    <name>Azorius Keyrune [Legacy]</name>
     <detail>rarity by keyrune (requires attunement by a member of the relevant guild)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -24,7 +24,7 @@ When you use an action to speak the item's command word and place the keyrune on
 Source:	Guildmasters' Guide to Ravnica p. 177</text>
   </item>
   <item>
-    <name>Boros Guild Signet</name>
+    <name>Boros Guild Signet [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>RG</type>
     <text>This ring, adorned with the symbol of Boros, allows you to cast heroism. A guild signet is sometimes awarded to a guild member whose renown score in that guild is 5 or higher, as a reward for performing special services for the guild. Aside from its magical properties, the ring is also an indicator of Boros' recognition and favor.
@@ -34,7 +34,7 @@ Source:	Guildmasters' Guide to Ravnica p. 178</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Boros Keyrune</name>
+    <name>Boros Keyrune [Legacy]</name>
     <detail>rarity by keyrune (requires attunement by a member of the relevant guild)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -47,19 +47,19 @@ When you use an action to speak the item's command word and place the keyrune on
 Source:	Guildmasters' Guide to Ravnica p. 177</text>
   </item>
   <item>
-    <name>Copper Alms-Coin</name>
+    <name>Copper Alms-Coin [Legacy]</name>
     <type>$</type>
     <value>0.01</value>
     <text>Source:	Guildmasters' Guide to Ravnica p. 9</text>
   </item>
   <item>
-    <name>Copper Zib</name>
+    <name>Copper Zib [Legacy]</name>
     <type>$</type>
     <value>0.01</value>
     <text>Source:	Guildmasters' Guide to Ravnica p. 9</text>
   </item>
   <item>
-    <name>Dimir Guild Signet</name>
+    <name>Dimir Guild Signet [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>RG</type>
     <text>This ring, adorned with the symbol of Dimir, allows you to cast disguise self. A guild signet is sometimes awarded to a guild member whose renown score in that guild is 5 or higher, as a reward for performing special services for the guild. Aside from its magical properties, the ring is also an indicator of Dimir's recognition and favor.
@@ -69,7 +69,7 @@ Source:	Guildmasters' Guide to Ravnica p. 178</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Dimir Keyrune</name>
+    <name>Dimir Keyrune [Legacy]</name>
     <detail>rarity by keyrune (requires attunement by a member of the relevant guild)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -82,25 +82,25 @@ When you use an action to speak the item's command word and place the keyrune on
 Source:	Guildmasters' Guide to Ravnica p. 177</text>
   </item>
   <item>
-    <name>Electrum 50-Zib Coin</name>
+    <name>Electrum 50-Zib Coin [Legacy]</name>
     <type>$</type>
     <value>0.5</value>
     <text>Source:	Guildmasters' Guide to Ravnica p. 9</text>
   </item>
   <item>
-    <name>Gold 5-Zib Coin</name>
+    <name>Gold 5-Zib Coin [Legacy]</name>
     <type>$</type>
     <value>5.0</value>
     <text>Source:	Guildmasters' Guide to Ravnica p. 9</text>
   </item>
   <item>
-    <name>Gold Zino</name>
+    <name>Gold Zino [Legacy]</name>
     <type>$</type>
     <value>1.0</value>
     <text>Source:	Guildmasters' Guide to Ravnica p. 9</text>
   </item>
   <item>
-    <name>Golgari Guild Signet</name>
+    <name>Golgari Guild Signet [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>RG</type>
     <text>This ring, adorned with the symbol of Golgari, allows you to cast entangle. A guild signet is sometimes awarded to a guild member whose renown score in that guild is 5 or higher, as a reward for performing special services for the guild. Aside from its magical properties, the ring is also an indicator of Golgari's recognition and favor.
@@ -110,7 +110,7 @@ Source:	Guildmasters' Guide to Ravnica p. 178</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Golgari Keyrune</name>
+    <name>Golgari Keyrune [Legacy]</name>
     <detail>rarity by keyrune (requires attunement by a member of the relevant guild)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -123,7 +123,7 @@ When you use an action to speak the item's command word and place the keyrune on
 Source:	Guildmasters' Guide to Ravnica p. 177</text>
   </item>
   <item>
-    <name>Gruul Guild Signet</name>
+    <name>Gruul Guild Signet [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>RG</type>
     <text>This ring, adorned with the symbol of Gruul, allows you to cast compelled duel. A guild signet is sometimes awarded to a guild member whose renown score in that guild is 5 or higher, as a reward for performing special services for the guild. Aside from its magical properties, the ring is also an indicator of Gruul's recognition and favor.
@@ -133,7 +133,7 @@ Source:	Guildmasters' Guide to Ravnica p. 178</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Gruul Keyrune</name>
+    <name>Gruul Keyrune [Legacy]</name>
     <detail>rarity by keyrune (requires attunement by a member of the relevant guild)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -146,7 +146,7 @@ When you use an action to speak the item's command word and place the keyrune on
 Source:	Guildmasters' Guide to Ravnica p. 177</text>
   </item>
   <item>
-    <name>Illusionist's Bracers</name>
+    <name>Illusionist's Bracers [Legacy]</name>
     <detail>very rare (requires attunement by a spellcaster)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -156,7 +156,7 @@ Source:	Guildmasters' Guide to Ravnica p. 177</text>
 Source:	Guildmasters' Guide to Ravnica p. 178</text>
   </item>
   <item>
-    <name>Izzet Guild Signet</name>
+    <name>Izzet Guild Signet [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>RG</type>
     <text>This ring, adorned with the symbol of Izzet, allows you to cast chaos bolt. A guild signet is sometimes awarded to a guild member whose renown score in that guild is 5 or higher, as a reward for performing special services for the guild. Aside from its magical properties, the ring is also an indicator of Izzet's recognition and favor.
@@ -166,7 +166,7 @@ Source:	Guildmasters' Guide to Ravnica p. 178</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Izzet Keyrune</name>
+    <name>Izzet Keyrune [Legacy]</name>
     <detail>rarity by keyrune (requires attunement by a member of the relevant guild)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -179,7 +179,7 @@ When you use an action to speak the item's command word and place the keyrune on
 Source:	Guildmasters' Guide to Ravnica p. 177</text>
   </item>
   <item>
-    <name>Mizzium Apparatus</name>
+    <name>Mizzium Apparatus [Legacy]</name>
     <detail>uncommon (requires attunement by a sorcerer, warlock or wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -235,7 +235,7 @@ Source:	Guildmasters' Guide to Ravnica p. 179</text>
     <roll description="spell">1d4</roll>
   </item>
   <item>
-    <name>Mizzium Mortar</name>
+    <name>Mizzium Mortar [Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -252,7 +252,7 @@ Source:	Guildmasters' Guide to Ravnica p. 179</text>
     <roll description="Fire Damage">5d8</roll>
   </item>
   <item>
-    <name>Moodmark Paint</name>
+    <name>Moodmark Paint [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -262,7 +262,7 @@ Source:	Guildmasters' Guide to Ravnica p. 179</text>
 Source:	Guildmasters' Guide to Ravnica p. 180</text>
   </item>
   <item>
-    <name>Orzhov Guild Signet</name>
+    <name>Orzhov Guild Signet [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>RG</type>
     <text>This ring, adorned with the symbol of Orzhov, allows you to cast command. A guild signet is sometimes awarded to a guild member whose renown score in that guild is 5 or higher, as a reward for performing special services for the guild. Aside from its magical properties, the ring is also an indicator of Orzhov's recognition and favor.
@@ -272,7 +272,7 @@ Source:	Guildmasters' Guide to Ravnica p. 178</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Orzhov Keyrune</name>
+    <name>Orzhov Keyrune [Legacy]</name>
     <detail>rarity by keyrune (requires attunement by a member of the relevant guild)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -285,7 +285,7 @@ When you use an action to speak the item's command word and place the keyrune on
 Source:	Guildmasters' Guide to Ravnica p. 178</text>
   </item>
   <item>
-    <name>Pariah's Shield</name>
+    <name>Pariah's Shield [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -299,7 +299,7 @@ Proficiency: shield
 Source:	Guildmasters' Guide to Ravnica p. 180</text>
   </item>
   <item>
-    <name>Peregrine Mask</name>
+    <name>Peregrine Mask [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -308,19 +308,19 @@ Source:	Guildmasters' Guide to Ravnica p. 180</text>
 Source:	Guildmasters' Guide to Ravnica p. 180</text>
   </item>
   <item>
-    <name>Platinum 10-Zino Coin</name>
+    <name>Platinum 10-Zino Coin [Legacy]</name>
     <type>$</type>
     <value>10.0</value>
     <text>Source:	Guildmasters' Guide to Ravnica p. 9</text>
   </item>
   <item>
-    <name>Platinum 100-Zino Coin</name>
+    <name>Platinum 100-Zino Coin [Legacy]</name>
     <type>$</type>
     <value>100.0</value>
     <text>Source:	Guildmasters' Guide to Ravnica p. 9</text>
   </item>
   <item>
-    <name>Pyroconverger</name>
+    <name>Pyroconverger [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -333,7 +333,7 @@ Source:	Guildmasters' Guide to Ravnica p. 180</text>
     <roll description="Malfunction Counter">1d10</roll>
   </item>
   <item>
-    <name>Rakdos Guild Signet</name>
+    <name>Rakdos Guild Signet [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>RG</type>
     <text>This ring, adorned with the symbol of Rakdos, allows you to cast hellish rebuke. A guild signet is sometimes awarded to a guild member whose renown score in that guild is 5 or higher, as a reward for performing special services for the guild. Aside from its magical properties, the ring is also an indicator of Rakdos' recognition and favor.
@@ -343,7 +343,7 @@ Source:	Guildmasters' Guide to Ravnica p. 178</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Rakdos Keyrune</name>
+    <name>Rakdos Keyrune [Legacy]</name>
     <detail>rarity by keyrune (requires attunement by a member of the relevant guild)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -356,7 +356,7 @@ When you use an action to speak the item's command word and place the keyrune on
 Source:	Guildmasters' Guide to Ravnica p. 178</text>
   </item>
   <item>
-    <name>Rakdos Riteknife</name>
+    <name>Rakdos Riteknife [Legacy]</name>
     <detail>dagger, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -389,7 +389,7 @@ Source:	Guildmasters' Guide to Ravnica p. 180</text>
     <roll description="Heal">1d10</roll>
   </item>
   <item>
-    <name>Selesnya Guild Signet</name>
+    <name>Selesnya Guild Signet [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>RG</type>
     <text>This ring, adorned with the symbol of Selesnya, allows you to cast charm person. A guild signet is sometimes awarded to a guild member whose renown score in that guild is 5 or higher, as a reward for performing special services for the guild. Aside from its magical properties, the ring is also an indicator of Selesnya's recognition and favor.
@@ -399,7 +399,7 @@ Source:	Guildmasters' Guide to Ravnica p. 178</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Selesnya Keyrune</name>
+    <name>Selesnya Keyrune [Legacy]</name>
     <detail>rarity by keyrune (requires attunement by a member of the relevant guild)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -412,13 +412,13 @@ When you use an action to speak the item's command word and place the keyrune on
 Source:	Guildmasters' Guide to Ravnica p. 178</text>
   </item>
   <item>
-    <name>Silver 25-Zib Coin</name>
+    <name>Silver 25-Zib Coin [Legacy]</name>
     <type>$</type>
     <value>0.25</value>
     <text>Source:	Guildmasters' Guide to Ravnica p. 9</text>
   </item>
   <item>
-    <name>Simic Guild Signet</name>
+    <name>Simic Guild Signet [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>RG</type>
     <text>This ring, adorned with the symbol of Simic, allows you to cast expeditious retreat. A guild signet is sometimes awarded to a guild member whose renown score in that guild is 5 or higher, as a reward for performing special services for the guild. Aside from its magical properties, the ring is also an indicator of Simic's recognition and favor.
@@ -428,7 +428,7 @@ Source:	Guildmasters' Guide to Ravnica p. 178</text>
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Simic Keyrune</name>
+    <name>Simic Keyrune [Legacy]</name>
     <detail>rarity by keyrune (requires attunement by a member of the relevant guild)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -441,7 +441,7 @@ When you use an action to speak the item's command word and place the keyrune on
 Source:	Guildmasters' Guide to Ravnica p. 178</text>
   </item>
   <item>
-    <name>Skyblinder Staff</name>
+    <name>Skyblinder Staff [Legacy]</name>
     <detail>spellcasting focus, uncommon (requires attunement)</detail>
     <type>ST</type>
     <weight>4</weight>
@@ -463,7 +463,7 @@ Source:	Guildmasters' Guide to Ravnica p. 181</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Spies' Murmur</name>
+    <name>Spies' Murmur [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -472,7 +472,7 @@ Source:	Guildmasters' Guide to Ravnica p. 181</text>
 Source:	Guildmasters' Guide to Ravnica p. 181</text>
   </item>
   <item>
-    <name>Sunforger</name>
+    <name>Sunforger [Legacy]</name>
     <detail>warhammer, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -494,7 +494,7 @@ Source:	Guildmasters' Guide to Ravnica p. 181</text>
     <roll description="Fire Damage">6d6</roll>
   </item>
   <item>
-    <name>Sword of the Paruns</name>
+    <name>Sword of the Paruns [Legacy]</name>
     <detail>longsword, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -519,7 +519,7 @@ Source:	Guildmasters' Guide to Ravnica p. 181</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Voyager Staff</name>
+    <name>Voyager Staff [Legacy]</name>
     <detail>spellcasting focus, very rare (requires attunement by a spellcaster)</detail>
     <type>ST</type>
     <weight>4</weight>
@@ -544,7 +544,7 @@ Source:	Guildmasters' Guide to Ravnica p. 181</text>
     <roll description="Vanish">1d20</roll>
   </item>
   <item>
-    <name>Guild Keyrune (Generic Variant)</name>
+    <name>Guild Keyrune (Generic Variant) [Legacy]</name>
     <detail>generic variant, rarity by keyrune (requires attunement by a member of the relevant guild)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -564,7 +564,7 @@ Source:	Guildmasters' Guide to Ravnica p. 181</text>
 Source:	Guildmasters' Guide to Ravnica p. 177</text>
   </item>
   <item>
-    <name>Guild Signet (Generic Variant)</name>
+    <name>Guild Signet (Generic Variant) [Legacy]</name>
     <detail>generic variant, uncommon (requires attunement)</detail>
     <type>RG</type>
     <text>A guild signet is sometimes awarded to a guild member whose renown score in that guild is 5 or higher, as a reward for performing special services for the guild. Aside from its magical properties, the ring is also an indicator of the guild's recognition and favor.

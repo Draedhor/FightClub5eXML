@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Air Bubble</name>
+    <name>Air Bubble [Legacy]</name>
     <level>2</level>
     <school>C</school>
     <time>1 action</time>
@@ -16,7 +16,7 @@ At Higher Levels: When you cast this spell using a spell slot of 3rd level or hi
 Source:	Spelljammer: Adventures in Space - Astral Adventurer's Guide p. 22</text>
   </spell>
   <spell>
-    <name>Create Spelljamming Helm</name>
+    <name>Create Spelljamming Helm [Legacy]</name>
     <level>5</level>
     <school>T</school>
     <time>1 action</time>

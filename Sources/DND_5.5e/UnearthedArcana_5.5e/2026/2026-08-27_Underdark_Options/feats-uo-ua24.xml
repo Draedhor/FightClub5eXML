@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <feat>
-    <name>Path of Ceremorphosis: Tadpole Host (UA) [5.5e]</name>
+    <name>Path of Ceremorphosis: Tadpole Host [UA]</name>
     <prerequisite>Level 4+</prerequisite>
     <text>Path of Ceremorphosis Feat
 
@@ -25,7 +25,7 @@ Source:	Underdark Options p. 5 (Unearthed Arcana)</text>
     <roll description="Psionic Energy Die">1d6</roll>
   </feat>
   <feat>
-    <name>Path of Ceremorphosis: Illithid Thrallmaker (Intelligence) (UA) [5.5e]</name>
+    <name>Path of Ceremorphosis: Illithid Thrallmaker (Intelligence) [UA]</name>
     <prerequisite>Tadpole Host Feat</prerequisite>
     <text>Path of Ceremorphosis Feat
 
@@ -45,7 +45,7 @@ Source:	Underdark Options p. 6 (Unearthed Arcana)</text>
     <roll description="Psionic Energy Die">1d8</roll>
   </feat>
   <feat>
-    <name>Path of Ceremorphosis: Illithid Thrallmaker (Charisma) (UA) [5.5e]</name>
+    <name>Path of Ceremorphosis: Illithid Thrallmaker (Charisma) [UA]</name>
     <prerequisite>Tadpole Host Feat</prerequisite>
     <text>Path of Ceremorphosis Feat
 
@@ -65,7 +65,7 @@ Source:	Underdark Options p. 6 (Unearthed Arcana)</text>
     <roll description="Psionic Energy Die">1d8</roll>
   </feat>
   <feat>
-    <name>Path of Ceremorphosis: Tadpole's Safeguard (Constitution) (UA) [5.5e]</name>
+    <name>Path of Ceremorphosis: Tadpole's Safeguard (Constitution) [UA]</name>
     <prerequisite>Tadpole Host Feat</prerequisite>
     <text>Path of Ceremorphosis Feat
 
@@ -84,7 +84,7 @@ Source:	Underdark Options p. 6 (Unearthed Arcana)</text>
     <roll description="Psionic Energy Die">1d8</roll>
   </feat>
   <feat>
-    <name>Path of Ceremorphosis: Tadpole's Safeguard (Intelligence) (UA) [5.5e]</name>
+    <name>Path of Ceremorphosis: Tadpole's Safeguard (Intelligence) [UA]</name>
     <prerequisite>Tadpole Host Feat</prerequisite>
     <text>Path of Ceremorphosis Feat
 
@@ -103,7 +103,7 @@ Source:	Underdark Options p. 6 (Unearthed Arcana)</text>
     <roll description="Psionic Energy Die">1d8</roll>
   </feat>
   <feat>
-    <name>Path of Ceremorphosis: Ulitharid's Might (Strength) (UA) [5.5e]</name>
+    <name>Path of Ceremorphosis: Ulitharid's Might (Strength) [UA]</name>
     <prerequisite>Tadpole Host Feat</prerequisite>
     <text>Path of Ceremorphosis Feat
 
@@ -122,7 +122,7 @@ Source:	Underdark Options p. 6 (Unearthed Arcana)</text>
     <roll description="Psionic Energy Die">1d8</roll>
   </feat>
   <feat>
-    <name>Path of Ceremorphosis: Ulitharid's Might (Dexterity) (UA) [5.5e]</name>
+    <name>Path of Ceremorphosis: Ulitharid's Might (Dexterity) [UA]</name>
     <prerequisite>Tadpole Host Feat</prerequisite>
     <text>Path of Ceremorphosis Feat
 
@@ -141,7 +141,7 @@ Source:	Underdark Options p. 6 (Unearthed Arcana)</text>
     <roll description="Psionic Energy Die">1d8</roll>
   </feat>
   <feat>
-    <name>Path of Ceremorphosis: Ulitharid's Might (Constitution) (UA) [5.5e]</name>
+    <name>Path of Ceremorphosis: Ulitharid's Might (Constitution) [UA]</name>
     <prerequisite>Tadpole Host Feat</prerequisite>
     <text>Path of Ceremorphosis Feat
 
@@ -160,7 +160,7 @@ Source:	Underdark Options p. 6 (Unearthed Arcana)</text>
     <roll description="Psionic Energy Die">1d8</roll>
   </feat>
   <feat>
-    <name>Path of Ceremorphosis: Full Ceremorphosis (Intelligence) (UA) [5.5e]</name>
+    <name>Path of Ceremorphosis: Full Ceremorphosis (Intelligence) [UA]</name>
     <prerequisite>Level 12+, at Least Two Path of Ceremorphosis Feats</prerequisite>
     <text>Path of Ceremorphosis Feat
 
@@ -185,14 +185,14 @@ Source:	Underdark Options p. 6 (Unearthed Arcana)</text>
     <roll description="Psionic Energy Die">1d8</roll>
   </feat>
   <spell>
-    <name>Mind Blast (UA) [5.5e]</name>
+    <name>Mind Blast [UA]</name>
     <level>6</level>
     <school>EV</school>
     <time>action</time>
     <range>Self</range>
     <components>S</components>
     <duration>Instantaneous</duration>
-    <classes>Psion (UA) [5.5e]</classes>
+    <classes>Psion [UA]</classes>
     <text>Level 6 Evocation (Psion) You unleash a concussive burst of psionic energy. Each creature in a 60-foot Cone originating from you makes an Intelligence saving throw. On a failed save, the creature takes 6d8 Psychic damage and has the Stunned condition until the start of your next turn. On a successful save, the creature takes half as much damage only.
 
 Using a Higher-Level Spell Slot: The damage increases by 1d8 for each spell slot level above 6.

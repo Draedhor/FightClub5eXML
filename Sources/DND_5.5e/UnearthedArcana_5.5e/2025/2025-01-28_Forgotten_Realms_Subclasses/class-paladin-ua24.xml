@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Paladin (UA)</name>
+    <name>Paladin</name>
     <!-- Paladin Subclass: Oath of the Noble Genies (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -91,47 +91,47 @@ Source:	Unearthed Arcana: Forgotten Realms Subclasses p. 5</text>
     </autolevel>
   </class>
   <spell>
-    <name>Chromatic Orb (UA)</name>
+    <name>Chromatic Orb [UA]</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
   <spell>
-    <name>Elementalism (UA)</name>
+    <name>Elementalism [UA]</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
   <spell>
-    <name>Thunderous Smite (UA)</name>
+    <name>Thunderous Smite [UA]</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
   <spell>
-    <name>Mirror Image (UA)</name>
+    <name>Mirror Image [UA]</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
   <spell>
-    <name>Phantasmal Force (UA)</name>
+    <name>Phantasmal Force [UA]</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
   <spell>
-    <name>Fly (UA)</name>
+    <name>Fly [UA]</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
   <spell>
-    <name>Gaseous Form (UA)</name>
+    <name>Gaseous Form [UA]</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
   <spell>
-    <name>Conjure Minor Elementals (UA)</name>
+    <name>Conjure Minor Elementals [UA]</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
   <spell>
-    <name>Summon Elemental (UA)</name>
+    <name>Summon Elemental [UA]</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
   <spell>
-    <name>Banishing Smite (UA)</name>
+    <name>Banishing Smite [UA]</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
   <spell>
-    <name>Contact Other Plane (UA)</name>
+    <name>Contact Other Plane [UA]</name>
     <classes>Paladin (Oath of the Noble Genies (UA))</classes>
   </spell>
 </compendium>

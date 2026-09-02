@@ -94,43 +94,43 @@ Source:	The Griffon's Saddlebag: Book Two p. 221 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Bane</name>
+    <name>Bane [TP Legacy]</name>
     <classes>Paladin (Oath of the Spelldrinker (Third Party))</classes>
   </spell>
   <spell>
-    <name>Detect Magic</name>
+    <name>Detect Magic [TP Legacy]</name>
     <classes>Paladin (Oath of the Spelldrinker (Third Party))</classes>
   </spell>
   <spell>
-    <name>Nystul's Magic Aura</name>
+    <name>Nystul's Magic Aura [TP Legacy]</name>
     <classes>Paladin (Oath of the Spelldrinker (Third Party))</classes>
   </spell>
   <spell>
-    <name>Hold Person</name>
+    <name>Hold Person [TP Legacy]</name>
     <classes>Paladin (Oath of the Spelldrinker (Third Party))</classes>
   </spell>
   <spell>
-    <name>Dispel Magic</name>
+    <name>Dispel Magic [TP Legacy]</name>
     <classes>Paladin (Oath of the Spelldrinker (Third Party))</classes>
   </spell>
   <spell>
-    <name>Slow</name>
+    <name>Slow [TP Legacy]</name>
     <classes>Paladin (Oath of the Spelldrinker (Third Party))</classes>
   </spell>
   <spell>
-    <name>Dimension Door</name>
+    <name>Dimension Door [TP Legacy]</name>
     <classes>Paladin (Oath of the Spelldrinker (Third Party))</classes>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere</name>
+    <name>Otiluke's Resilient Sphere [TP Legacy]</name>
     <classes>Paladin (Oath of the Spelldrinker (Third Party))</classes>
   </spell>
   <spell>
-    <name>Dominate Person</name>
+    <name>Dominate Person [TP Legacy]</name>
     <classes>Paladin (Oath of the Spelldrinker (Third Party))</classes>
   </spell>
   <spell>
-    <name>Scrying</name>
+    <name>Scrying [TP Legacy]</name>
     <classes>Paladin (Oath of the Spelldrinker (Third Party))</classes>
   </spell>
 </compendium>

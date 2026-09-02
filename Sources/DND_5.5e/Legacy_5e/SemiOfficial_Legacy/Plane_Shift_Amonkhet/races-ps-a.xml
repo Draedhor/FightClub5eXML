@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Aven, Hawk-Headed</name>
+    <name>Aven, Hawk-Headed [TP Legacy]</name>
     <displayname>Hawk-Headed Aven</displayname>
     <ancestry>Aven</ancestry>
     <size>M</size>
@@ -43,7 +43,7 @@ Source:	Plane Shift: Amonkhet p. 16</text>
     </trait>
   </race>
   <race>
-    <name>Aven, Ibis-Headed</name>
+    <name>Aven, Ibis-Headed [TP Legacy]</name>
     <displayname>Ibis-Headed Aven</displayname>
     <ancestry>Aven</ancestry>
     <size>M</size>
@@ -84,7 +84,7 @@ Source:	Plane Shift: Amonkhet p. 16</text>
     </trait>
   </race>
   <race>
-    <name>Human (Amonkhet)</name>
+    <name>Human (Amonkhet) [TP Legacy]</name>
     <displayname>Human (Amonkhet)</displayname>
     <ancestry>Human</ancestry>
     <size>M</size>
@@ -133,7 +133,7 @@ Weight in pounds = 110 + (2d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Khenra</name>
+    <name>Khenra [TP Legacy]</name>
     <displayname>Khenra</displayname>
     <ancestry>Khenra</ancestry>
     <size>M</size>
@@ -173,7 +173,7 @@ Source:	Plane Shift: Amonkhet p. 17</text>
     <weapons>Longsword, Spear, Javelin</weapons>
   </race>
   <race>
-    <name>Minotaur (Amonkhet)</name>
+    <name>Minotaur (Amonkhet) [TP Legacy]</name>
     <displayname>Minotaur (Amonkhet)</displayname>
     <ancestry>Minotaur</ancestry>
     <size>M</size>
@@ -228,7 +228,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Naga (Amonkhet)</name>
+    <name>Naga (Amonkhet) [TP Legacy]</name>
     <displayname>Naga (Amonkhet)</displayname>
     <ancestry>Naga</ancestry>
     <size>M</size>

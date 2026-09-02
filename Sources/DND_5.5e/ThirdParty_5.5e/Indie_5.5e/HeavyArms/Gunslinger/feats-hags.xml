@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <feat>
-    <name>Bully (TP)</name>
+    <name>Bully [TP]</name>
     <prerequisite>Proficiency with at least one firearm</prerequisite>
     <text>You are adept at using firearms in close quarters, gaining the following benefits:
 
@@ -12,7 +12,7 @@
 Source:	HeavyArms: The Gunslinger v1.1 p. 10 (Homebrew)</text>
   </feat>
   <feat>
-    <name>Marksman (TP)</name>
+    <name>Marksman [TP]</name>
     <text>You are an expert at hitting your mark with ranged weapons, gaining the following benefits:
 
 	• Being prone doesn't impose disadvantage on your ranged weapon attacks.
@@ -24,7 +24,7 @@ Source:	HeavyArms: The Gunslinger v1.1 p. 10 (Homebrew)</text>
 Source:	HeavyArms: The Gunslinger v1.1 p. 10 (Homebrew)</text>
   </feat>
   <feat>
-    <name>Pistolero (TP)</name>
+    <name>Pistolero [TP]</name>
     <prerequisite>Proficiency with pistols</prerequisite>
     <text>Your speed and skill with a six-gun is unmatched. You gain the following benefits:
 

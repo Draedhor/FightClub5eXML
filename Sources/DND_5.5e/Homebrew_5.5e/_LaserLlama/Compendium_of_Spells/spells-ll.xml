@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Acid Splash (Alt) (TP)</name>
+    <name>Acid Splash (Alt) [TP]</name>
     <level>0</level>
     <school>EV</school>
     <time>1 action</time>
@@ -20,7 +20,7 @@ Source:	LaserLlama's Compendium of Spells p. 2 (Homebrew)</text>
     <roll description="Acid Damage" level="17">4d6</roll>
   </spell>
   <spell>
-    <name>Beckon Air (TP)</name>
+    <name>Beckon Air [TP]</name>
     <level>0</level>
     <school>T</school>
     <time>1 action</time>
@@ -43,7 +43,7 @@ Source:	LaserLlama's Compendium of Spells p. 2 (Homebrew)</text>
     <roll description="Thunder Damage" level="17">4d6</roll>
   </spell>
   <spell>
-    <name>Booming Blade (Alt) (TP)</name>
+    <name>Booming Blade (Alt) [TP]</name>
     <level>0</level>
     <school>EV</school>
     <time>1 bonus action</time>
@@ -63,7 +63,7 @@ Source:	LaserLlama's Compendium of Spells p. 2 (Homebrew)</text>
     <roll description="Thunder Damage" level="17">4d6</roll>
   </spell>
   <spell>
-    <name>Blade Ward (Alt) (TP)</name>
+    <name>Blade Ward (Alt) [TP]</name>
     <level>0</level>
     <school>A</school>
     <time>1 bonus action</time>
@@ -77,7 +77,7 @@ Source:	LaserLlama's Compendium of Spells p. 2 (Homebrew)</text>
     <roll description="Damage Reduction">1d4</roll>
   </spell>
   <spell>
-    <name>Control Flame (Alt) (TP)</name>
+    <name>Control Flame (Alt) [TP]</name>
     <level>0</level>
     <school>T</school>
     <time>1 action</time>
@@ -100,7 +100,7 @@ Source:	LaserLlama's Compendium of Spells p. 2 (Homebrew)</text>
     <roll description="Fire Damage" level="17">4d8</roll>
   </spell>
   <spell>
-    <name>Friends (Alt) (TP)</name>
+    <name>Friends (Alt) [TP]</name>
     <level>0</level>
     <school>EN</school>
     <time>1 action</time>
@@ -114,7 +114,7 @@ Source:	LaserLlama's Compendium of Spells p. 2 (Homebrew)</text>
 Source:	LaserLlama's Compendium of Spells p. 2 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Glitterbeam (TP)</name>
+    <name>Glitterbeam [TP]</name>
     <level>0</level>
     <school>EV</school>
     <time>1 action</time>
@@ -133,7 +133,7 @@ Source:	LaserLlama's Compendium of Spells p. 3 (Homebrew)</text>
     <roll description="Radiant Damage" level="17">4d8</roll>
   </spell>
   <spell>
-    <name>Green-Flame Blade (Alt) (TP)</name>
+    <name>Green-Flame Blade (Alt) [TP]</name>
     <level>0</level>
     <school>EV</school>
     <time>1 bonus action</time>
@@ -153,7 +153,7 @@ Source:	LaserLlama's Compendium of Spells p. 3 (Homebrew)</text>
     <roll description="Fire Damage" level="17">1d12</roll>
   </spell>
   <spell>
-    <name>Guidance (Alt) (TP)</name>
+    <name>Guidance (Alt) [TP]</name>
     <level>0</level>
     <school>D</school>
     <time>1 action</time>
@@ -169,7 +169,7 @@ Source:	LaserLlama's Compendium of Spells p. 3 (Homebrew)</text>
     <roll description="Add to Ability Check">1d6</roll>
   </spell>
   <spell>
-    <name>Lightning Lure (Alt) (TP)</name>
+    <name>Lightning Lure (Alt) [TP]</name>
     <level>0</level>
     <school>EV</school>
     <time>1 attack</time>
@@ -185,7 +185,7 @@ Source:	LaserLlama's Compendium of Spells p. 3 (Homebrew)</text>
     <roll description="Lightning Damage" level="0">1d8</roll>
   </spell>
   <spell>
-    <name>Mind Thrust (TP)</name>
+    <name>Mind Thrust [TP]</name>
     <level>0</level>
     <school>EV</school>
     <time>1 action</time>
@@ -204,7 +204,7 @@ Source:	LaserLlama's Compendium of Spells p. 3 (Homebrew)</text>
     <roll description="Psychic Damage" level="17">4d10</roll>
   </spell>
   <spell>
-    <name>Mold Earth (Alt) (TP)</name>
+    <name>Mold Earth (Alt) [TP]</name>
     <level>0</level>
     <school>T</school>
     <time>1 action</time>
@@ -227,7 +227,7 @@ Source:	LaserLlama's Compendium of Spells p. 3 (Homebrew)</text>
     <roll description="Bludgeoning" level="17">4d6</roll>
   </spell>
   <spell>
-    <name>Mystic Hammer (TP)</name>
+    <name>Mystic Hammer [TP]</name>
     <level>0</level>
     <school>C</school>
     <time>1 action</time>
@@ -246,7 +246,7 @@ Source:	LaserLlama's Compendium of Spells p. 3 (Homebrew)</text>
     <roll description="Force Damage" level="17">4d6</roll>
   </spell>
   <spell>
-    <name>Otherworldly Grasp (TP)</name>
+    <name>Otherworldly Grasp [TP]</name>
     <level>0</level>
     <school>N</school>
     <time>1 action</time>
@@ -265,7 +265,7 @@ Source:	LaserLlama's Compendium of Spells p. 4 (Homebrew)</text>
     <roll description="Necrotic Damage" level="17">4d8</roll>
   </spell>
   <spell>
-    <name>Poison Spray (Alt) (TP)</name>
+    <name>Poison Spray (Alt) [TP]</name>
     <level>0</level>
     <school>N</school>
     <time>1 action</time>
@@ -284,7 +284,7 @@ Source:	LaserLlama's Compendium of Spells p. 4 (Homebrew)</text>
     <roll description="Poison Damage" level="17">4d12</roll>
   </spell>
   <spell>
-    <name>Primal Savagery (Alt) (TP)</name>
+    <name>Primal Savagery (Alt) [TP]</name>
     <level>0</level>
     <school>T</school>
     <time>1 attack</time>
@@ -300,7 +300,7 @@ Source:	LaserLlama's Compendium of Spells p. 4 (Homebrew)</text>
     <roll description="Slashing Damage" level="0">1d6+%0</roll>
   </spell>
   <spell>
-    <name>Psionic Strike (TP)</name>
+    <name>Psionic Strike [TP]</name>
     <level>0</level>
     <school>EV</school>
     <time>1 attack</time>
@@ -319,7 +319,7 @@ Source:	LaserLlama's Compendium of Spells p. 4 (Homebrew)</text>
     <roll description="Psychic Damage" level="17">1d12+%1</roll>
   </spell>
   <spell>
-    <name>Resistance (Alt) (TP)</name>
+    <name>Resistance (Alt) [TP]</name>
     <level>0</level>
     <school>A</school>
     <time>1 action</time>
@@ -333,7 +333,7 @@ Source:	LaserLlama's Compendium of Spells p. 4 (Homebrew)</text>
     <roll description="Add to Roll">1d4</roll>
   </spell>
   <spell>
-    <name>Seance (TP)</name>
+    <name>Seance [TP]</name>
     <level>0</level>
     <school>T</school>
     <time>1 action</time>
@@ -356,7 +356,7 @@ Source:	LaserLlama's Compendium of Spells p. 4 (Homebrew)</text>
 Source:	LaserLlama's Compendium of Spells p. 4 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Shape Water (Alt) (TP)</name>
+    <name>Shape Water (Alt) [TP]</name>
     <level>0</level>
     <school>T</school>
     <time>1 action</time>
@@ -379,7 +379,7 @@ Source:	LaserLlama's Compendium of Spells p. 4 (Homebrew)</text>
     <roll description="Cold Damage" level="17">4d8</roll>
   </spell>
   <spell>
-    <name>Sword Burst (Alt) (TP)</name>
+    <name>Sword Burst (Alt) [TP]</name>
     <level>0</level>
     <school>A</school>
     <time>1 attack</time>
@@ -398,7 +398,7 @@ Source:	LaserLlama's Compendium of Spells p. 5 (Homebrew)</text>
     <roll description="Slashing Damage" level="17">4d6</roll>
   </spell>
   <spell>
-    <name>Tempestuous Blade (TP)</name>
+    <name>Tempestuous Blade [TP]</name>
     <level>0</level>
     <school>EV</school>
     <time>1 bonus action</time>
@@ -418,7 +418,7 @@ Source:	LaserLlama's Compendium of Spells p. 5 (Homebrew)</text>
     <roll description="Lightning Damage" level="17">4d6</roll>
   </spell>
   <spell>
-    <name>True Strike (Alt) (TP)</name>
+    <name>True Strike (Alt) [TP]</name>
     <level>0</level>
     <school>D</school>
     <time>1 bonus action</time>
@@ -437,7 +437,7 @@ Source:	LaserLlama's Compendium of Spells p. 5 (Homebrew)</text>
     <roll level="17">1d10</roll>
   </spell>
   <spell>
-    <name>Vicious Mockery (Alt) (TP)</name>
+    <name>Vicious Mockery (Alt) [TP]</name>
     <level>0</level>
     <school>EN</school>
     <time>1 action</time>
@@ -457,7 +457,7 @@ Source:	LaserLlama's Compendium of Spells p. 5 (Homebrew)</text>
   </spell>
   <!-- 1st Level Spells -->
   <spell>
-    <name>Arcane Lance (TP)</name>
+    <name>Arcane Lance [TP]</name>
     <level>1</level>
     <school>EV</school>
     <time>1 action</time>
@@ -481,7 +481,7 @@ Source:	LaserLlama's Compendium of Spells p. 6 (Homebrew)</text>
     <roll description="Force Damage" level="9">21d4</roll>
   </spell>
   <spell>
-    <name>Beast Bond (Alt) (TP)</name>
+    <name>Beast Bond (Alt) [TP]</name>
     <level>1</level>
     <school>D</school>
     <time>1 action</time>
@@ -496,7 +496,7 @@ Source:	LaserLlama's Compendium of Spells p. 6 (Homebrew)</text>
 Source:	LaserLlama's Compendium of Spells p. 6 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Create Snare (Alt) (TP)</name>
+    <name>Create Snare (Alt) [TP]</name>
     <level>1</level>
     <school>A</school>
     <time>1 action</time>
@@ -523,7 +523,7 @@ Source:	LaserLlama's Compendium of Spells p. 6 (Homebrew)</text>
     <roll description="Slashing Damage" level="9">9d6</roll>
   </spell>
   <spell>
-    <name>Create Water (Alt) (TP)</name>
+    <name>Create Water (Alt) [TP]</name>
     <level>1</level>
     <school>T</school>
     <time>1 minute</time>
@@ -540,7 +540,7 @@ At Higher Levels: If you cast this spell with a spell slot of 2nd level or highe
 Source:	LaserLlama's Compendium of Spells p. 6 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Divine Favor (Alt) (TP)</name>
+    <name>Divine Favor (Alt) [TP]</name>
     <level>1</level>
     <school>EV</school>
     <time>1 bonus action</time>
@@ -556,7 +556,7 @@ Source:	LaserLlama's Compendium of Spells p. 6 (Homebrew)</text>
     <roll description="Radiant Damage">1d4</roll>
   </spell>
   <spell>
-    <name>Ensnaring Strike (Alt) (TP)</name>
+    <name>Ensnaring Strike (Alt) [TP]</name>
     <level>1</level>
     <school>C</school>
     <time>On hit</time>
@@ -581,7 +581,7 @@ Source:	LaserLlama's Compendium of Spells p. 6 (Homebrew)</text>
     <roll description="Piercing Damage" level="9">9d6</roll>
   </spell>
   <spell>
-    <name>Ethereal Anchor (TP)</name>
+    <name>Ethereal Anchor [TP]</name>
     <level>1</level>
     <school>EV</school>
     <time>1 action</time>
@@ -605,7 +605,7 @@ Source:	LaserLlama's Compendium of Spells p. 6 (Homebrew)</text>
     <roll description="Radiant Damage" level="9">11d6</roll>
   </spell>
   <spell>
-    <name>Ghastly Flight (TP)</name>
+    <name>Ghastly Flight [TP]</name>
     <level>1</level>
     <school>C</school>
     <time>1 action</time>
@@ -629,7 +629,7 @@ Source:	LaserLlama's Compendium of Spells p. 6 (Homebrew)</text>
     <roll description="Necrotic Damage" level="9">10d8</roll>
   </spell>
   <spell>
-    <name>Goodberry (Alt) (TP)</name>
+    <name>Goodberry (Alt) [TP]</name>
     <level>1</level>
     <school>T</school>
     <time>1 minute</time>
@@ -643,7 +643,7 @@ Source:	LaserLlama's Compendium of Spells p. 6 (Homebrew)</text>
 Source:	LaserLlama's Compendium of Spells p. 7 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Hail of Thorns (Alt) (TP)</name>
+    <name>Hail of Thorns (Alt) [TP]</name>
     <level>1</level>
     <school>C</school>
     <time>On hit</time>
@@ -667,7 +667,7 @@ Source:	LaserLlama's Compendium of Spells p. 6 (Homebrew)</text>
     <roll description="Piercing Damage" level="9">9d10</roll>
   </spell>
   <spell>
-    <name>Id Insinuation (TP)</name>
+    <name>Id Insinuation [TP]</name>
     <level>1</level>
     <school>EN</school>
     <time>1 action</time>
@@ -683,7 +683,7 @@ At Higher Levels: When you cast this spell using a spell slot of 2nd level or hi
 Source:	LaserLlama's Compendium of Spells p. 7 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Jump (Alt) (TP)</name>
+    <name>Jump (Alt) [TP]</name>
     <level>1</level>
     <school>T</school>
     <time>1 bonus action</time>
@@ -698,7 +698,7 @@ At Higher Levels: When you cast this spell using a spell slot of 2nd-level or hi
 Source:	LaserLlama's Compendium of Spells p. 7 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Searing Smite (Alt) (TP)</name>
+    <name>Searing Smite (Alt) [TP]</name>
     <level>1</level>
     <school>EV</school>
     <time>On hit</time>
@@ -723,7 +723,7 @@ Source:	LaserLlama's Compendium of Spells p. 7 (Homebrew)</text>
     <roll description="Fire Damage" level="9">9d8</roll>
   </spell>
   <spell>
-    <name>Shield (Alt) (TP)</name>
+    <name>Shield (Alt) [TP]</name>
     <level>1</level>
     <school>A</school>
     <time>1 reaction, which you take when you are hit by an attack you can see or targeted by magic missile</time>
@@ -738,7 +738,7 @@ At Higher Levels: When you cast this spell using a spell slot of 2nd-level or hi
 Source:	LaserLlama's Compendium of Spells p. 7 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Thunderous Smite (Alt) (TP)</name>
+    <name>Thunderous Smite (Alt) [TP]</name>
     <level>1</level>
     <school>EV</school>
     <time>On hit</time>
@@ -763,7 +763,7 @@ Source:	LaserLlama's Compendium of Spells p. 7 (Homebrew)</text>
     <roll description="Additional Thunder Damage" level="9">9d8</roll>
   </spell>
   <spell>
-    <name>Torrent (TP)</name>
+    <name>Torrent [TP]</name>
     <level>1</level>
     <school>EV</school>
     <time>1 action</time>
@@ -787,7 +787,7 @@ Source:	LaserLlama's Compendium of Spells p. 7 (Homebrew)</text>
     <roll description="Cold Damage" level="9">9d12</roll>
   </spell>
   <spell>
-    <name>Witch Bolt (Alt) (TP)</name>
+    <name>Witch Bolt (Alt) [TP]</name>
     <level>1</level>
     <school>C</school>
     <time>1 action</time>
@@ -813,7 +813,7 @@ Source:	LaserLlama's Compendium of Spells p. 8 (Homebrew)</text>
     <roll description="Lightning Damage" level="9">9d12</roll>
   </spell>
   <spell>
-    <name>Wrathful Smite (Alt) (TP)</name>
+    <name>Wrathful Smite (Alt) [TP]</name>
     <level>1</level>
     <school>EV</school>
     <time>On hit</time>
@@ -843,7 +843,7 @@ Source:	LaserLlama's Compendium of Spells p. 8 (Homebrew)</text>
   </spell>
   <!-- 2nd Level Spells -->
   <spell>
-    <name>Aura of Frost (TP)</name>
+    <name>Aura of Frost [TP]</name>
     <level>2</level>
     <school>C</school>
     <time>1 action</time>
@@ -866,7 +866,7 @@ Source:	LaserLlama's Compendium of Spells p. 9 (Homebrew)</text>
     <roll description="Cold Damage" level="9">9d8</roll>
   </spell>
   <spell>
-    <name>Branding Smite (Alt) (TP)</name>
+    <name>Branding Smite (Alt) [TP]</name>
     <level>2</level>
     <school>EV</school>
     <time>On hit</time>
@@ -890,7 +890,7 @@ Source:	LaserLlama's Compendium of Spells p. 9 (Homebrew)</text>
     <roll description="Bonus Radiant Damage" level="9">9d8</roll>
   </spell>
   <spell>
-    <name>Conjure Beast (TP)</name>
+    <name>Conjure Beast [TP]</name>
     <level>2</level>
     <school>C</school>
     <time>1 action</time>
@@ -909,7 +909,7 @@ At Higher Levels: When you cast this spell using a spell slot of 3rd level or hi
 Source:	LaserLlama's Compendium of Spells p. 21 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Barkskin (Alt) (TP)</name>
+    <name>Barkskin (Alt) [TP]</name>
     <level>2</level>
     <school>T</school>
     <time>1 action</time>
@@ -922,7 +922,7 @@ Source:	LaserLlama's Compendium of Spells p. 21 (Homebrew)</text>
 Source:	LaserLlama's Compendium of Spells p. 9 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Cordon of Arrows (Alt) (TP)</name>
+    <name>Cordon of Arrows (Alt) [TP]</name>
     <level>2</level>
     <school>T</school>
     <time>1 action</time>
@@ -946,7 +946,7 @@ Source:	LaserLlama's Compendium of Spells p. 9 (Homebrew)</text>
     <roll description="Piercing Damage" level="9">10d6</roll>
   </spell>
   <spell>
-    <name>Elemental Blade (TP)</name>
+    <name>Elemental Blade [TP]</name>
     <level>2</level>
     <school>C</school>
     <time>1 bonus action</time>
@@ -967,7 +967,7 @@ Source:	LaserLlama's Compendium of Spells p. 9 (Homebrew)</text>
     <roll description="Elemental Damage" level="8">5d6+SPELL</roll>
   </spell>
   <spell>
-    <name>Find Steed (Alt) (TP)</name>
+    <name>Find Steed (Alt) [TP]</name>
     <level>2</level>
     <school>C</school>
     <time>1 minute</time>
@@ -987,7 +987,7 @@ dire wolf, griffon, pegasus, peryton, polar bear, or rhinoceros.
 Source:	LaserLlama's Compendium of Spells p. 10 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Flame Whip (TP)</name>
+    <name>Flame Whip [TP]</name>
     <level>2</level>
     <school>EV</school>
     <time>1 attack</time>
@@ -1009,7 +1009,7 @@ Source:	LaserLlama's Compendium of Spells p. 10 (Homebrew)</text>
     <roll description="Fire Damage" level="8">4d10+SPELL</roll>
   </spell>
   <spell>
-    <name>Locate Creature (Alt) (TP)</name>
+    <name>Locate Creature (Alt) [TP]</name>
     <level>2</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -1033,7 +1033,7 @@ Slot Level | Range | Creature Types
 Source:	LaserLlama's Compendium of Spells p. 10 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Lock/Unlock (TP)</name>
+    <name>Lock/Unlock [TP]</name>
     <level>2</level>
     <school>A</school>
     <time>1 action</time>
@@ -1050,7 +1050,7 @@ Unlock: If the object is held shut by a mundane lock or it is stuck or barred, i
 Source:	LaserLlama's Compendium of Spells p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Magic Weapon (Alt) (TP)</name>
+    <name>Magic Weapon (Alt) [TP]</name>
     <level>2</level>
     <school>T</school>
     <time>1 bonus action</time>
@@ -1065,7 +1065,7 @@ At Higher Levels: When you cast this spell using a spell slot of 3rd-level or hi
 Source:	LaserLlama's Compendium of Spells p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Totemic Cowl (TP)</name>
+    <name>Totemic Cowl [TP]</name>
     <level>2</level>
     <school>A</school>
     <time>1 action</time>
@@ -1080,7 +1080,7 @@ At Higher Levels: When you cast this spell using a spell slot of 3rd-level or hi
 Source:	LaserLlama's Compendium of Spells p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Mystic Spear (TP)</name>
+    <name>Mystic Spear [TP]</name>
     <level>2</level>
     <school>EN</school>
     <time>1 action</time>
@@ -1104,7 +1104,7 @@ Source:	LaserLlama's Compendium of Spells p. 11 (Homebrew)</text>
     <roll description="Psychic Damage" level="9">11d6</roll>
   </spell>
   <spell>
-    <name>Pass without Trace (Alt) (TP)</name>
+    <name>Pass without Trace (Alt) [TP]</name>
     <level>2</level>
     <school>A</school>
     <time>1 action</time>
@@ -1117,7 +1117,7 @@ Source:	LaserLlama's Compendium of Spells p. 11 (Homebrew)</text>
 Source:	LaserLlama's Compendium of Spells p. 11 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Restoration (TP)</name>
+    <name>Restoration [TP]</name>
     <level>2</level>
     <school>A</school>
     <time>1 action</time>
@@ -1139,7 +1139,7 @@ Source:	LaserLlama's Compendium of Spells p. 11 (Homebrew)</text>
   </spell>
   <!-- 3rd level spells -->
   <spell>
-    <name>Blinding Smite (Alt) (TP)</name>
+    <name>Blinding Smite (Alt) [TP]</name>
     <level>3</level>
     <school>EV</school>
     <time>On hit</time>
@@ -1167,7 +1167,7 @@ Source:	LaserLlama's Compendium of Spells p. 12 (Homebrew)</text>
     <roll description="Bonus Radiant Damage" level="9">10d8</roll>
   </spell>
   <spell>
-    <name>Cerebral Blast (TP)</name>
+    <name>Cerebral Blast [TP]</name>
     <level>3</level>
     <school>EV</school>
     <time>1 action</time>
@@ -1189,7 +1189,7 @@ Source:	LaserLlama's Compendium of Spells p. 12 (Homebrew)</text>
     <roll description="Psychic Damage" level="9">11d8</roll>
   </spell>
   <spell>
-    <name>Conjure Elemental (Alt) (TP)</name>
+    <name>Conjure Elemental (Alt) [TP]</name>
     <level>3</level>
     <school>C</school>
     <time>1 action</time>
@@ -1212,7 +1212,7 @@ At Higher Levels: When you cast this spell using a spell slot of 4th level or hi
 Source:	LaserLlama's Compendium of Spells p. 12 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Conjure Fey (Alt) (TP)</name>
+    <name>Conjure Fey (Alt) [TP]</name>
     <level>3</level>
     <school>C</school>
     <time>1 action</time>
@@ -1237,7 +1237,7 @@ At Higher Levels: When you cast this spell using a spell slot of 4th level or hi
 Source:	LaserLlama's Compendium of Spells p. 12 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Conjure Volley (Alt) (TP)</name>
+    <name>Conjure Volley (Alt) [TP]</name>
     <level>3</level>
     <school>C</school>
     <time>1 action</time>
@@ -1260,7 +1260,7 @@ Source:	LaserLlama's Compendium of Spells p. 12 (Homebrew)</text>
     <roll description="Damage" level="9">12d8</roll>
   </spell>
   <spell>
-    <name>Counterspell (Alt) (TP)</name>
+    <name>Counterspell (Alt) [TP]</name>
     <level>3</level>
     <school>A</school>
     <time>1 reaction, which you take when you see a creature within 60 feet of you casting a spell</time>
@@ -1275,7 +1275,7 @@ Source:	LaserLlama's Compendium of Spells p. 12 (Homebrew)</text>
 Source:	LaserLlama's Compendium of Spells p. 12 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Dire Wail (TP)</name>
+    <name>Dire Wail [TP]</name>
     <level>3</level>
     <school>N</school>
     <time>1 action</time>
@@ -1300,7 +1300,7 @@ Source:	LaserLlama's Compendium of Spells p. 13 (Homebrew)</text>
     <roll description="Thunder Damage" level="9">10d10</roll>
   </spell>
   <spell>
-    <name>Flame Arrows (Alt) (TP)</name>
+    <name>Flame Arrows (Alt) [TP]</name>
     <level>3</level>
     <school>T</school>
     <time>1 bonus action</time>
@@ -1316,7 +1316,7 @@ Source:	LaserLlama's Compendium of Spells p. 13 (Homebrew)</text>
     <roll description="Fire Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Grasping Vine (Alt) (TP)</name>
+    <name>Grasping Vine (Alt) [TP]</name>
     <level>3</level>
     <school>C</school>
     <time>1 bonus action</time>
@@ -1340,7 +1340,7 @@ Source:	LaserLlama's Compendium of Spells p. 13 (Homebrew)</text>
     <roll description="Bludgeoning Damage" level="9">8d8</roll>
   </spell>
   <spell>
-    <name>Hunger of Hadar (Alt) (TP)</name>
+    <name>Hunger of Hadar (Alt) [TP]</name>
     <level>3</level>
     <school>C</school>
     <time>1 action</time>
@@ -1367,7 +1367,7 @@ Source:	LaserLlama's Compendium of Spells p. 13 (Homebrew)</text>
     <roll description="Acid or Cold Damage" level="9">8d6</roll>
   </spell>
   <spell>
-    <name>Hypnotic Pattern (Alt) (TP)</name>
+    <name>Hypnotic Pattern (Alt) [TP]</name>
     <level>3</level>
     <school>I</school>
     <time>1 action</time>
@@ -1381,7 +1381,7 @@ Source:	LaserLlama's Compendium of Spells p. 13 (Homebrew)</text>
 Source:	LaserLlama's Compendium of Spells p. 13 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Irresistible Dance (Alt) (TP)</name>
+    <name>Irresistible Dance (Alt) [TP]</name>
     <level>3</level>
     <school>EN</school>
     <time>1 action</time>
@@ -1397,7 +1397,7 @@ At Higher Levels: When you cast this spell using a spell slot of 4th-level or hi
 Source:	LaserLlama's Compendium of Spells p. 13 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Lightning Arrow (Alt) (TP)</name>
+    <name>Lightning Arrow (Alt) [TP]</name>
     <level>3</level>
     <school>T</school>
     <time>1 attack</time>
@@ -1421,7 +1421,7 @@ Source:	LaserLlama's Compendium of Spells p. 14 (Homebrew)</text>
     <roll description="Lighting Damage" level="9">10d8</roll>
   </spell>
   <spell>
-    <name>Sonic Wave (TP)</name>
+    <name>Sonic Wave [TP]</name>
     <level>3</level>
     <school>C</school>
     <time>1 action</time>
@@ -1447,7 +1447,7 @@ Source:	LaserLlama's Compendium of Spells p. 13 (Homebrew)</text>
     <roll description="Thunder Damage" level="9">10d8</roll>
   </spell>
   <spell>
-    <name>Spectral Passage (TP)</name>
+    <name>Spectral Passage [TP]</name>
     <level>3</level>
     <school>T</school>
     <time>1 action</time>
@@ -1463,7 +1463,7 @@ Source:	LaserLlama's Compendium of Spells p. 14 (Homebrew)</text>
     <roll description="Force Damage">1d10</roll>
   </spell>
   <spell>
-    <name>Leomund's Tiny Hut (Alt) (TP)</name>
+    <name>Leomund's Tiny Hut (Alt) [TP]</name>
     <level>3</level>
     <school>A</school>
     <ritual>YES</ritual>
@@ -1485,7 +1485,7 @@ Source:	LaserLlama's Compendium of Spells p. 14 (Homebrew)</text>
   </spell>
   <!-- 4th Level Spells -->
   <spell>
-    <name>Accursed Touch (TP)</name>
+    <name>Accursed Touch [TP]</name>
     <level>4</level>
     <school>T</school>
     <time>1 action</time>
@@ -1503,7 +1503,7 @@ At Higher Levels: When you cast this spell using a spell slot of 5th level or hi
 Source:	LaserLlama's Compendium of Spells p. 14 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Death Ward (Alt) (TP)</name>
+    <name>Death Ward (Alt) [TP]</name>
     <level>4</level>
     <school>A</school>
     <time>1 action</time>
@@ -1517,7 +1517,7 @@ Source:	LaserLlama's Compendium of Spells p. 14 (Homebrew)</text>
 Source:	LaserLlama's Compendium of Spells p. 14 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bones of the Earth (Alt) (TP)</name>
+    <name>Bones of the Earth (Alt) [TP]</name>
     <level>4</level>
     <school>T</school>
     <time>1 action</time>
@@ -1535,7 +1535,7 @@ At Higher Levels: If you cast this spell with a spell slot of 5th level or highe
 Source:	LaserLlama's Compendium of Spells p. 16 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Eldritch Tentacles (TP)</name>
+    <name>Eldritch Tentacles [TP]</name>
     <level>4</level>
     <school>C</school>
     <time>1 action</time>
@@ -1558,7 +1558,7 @@ Source:	LaserLlama's Compendium of Spells p. 15 (Homebrew)</text>
     <roll description="Bludgeoning Damage" level="9">8d6</roll>
   </spell>
   <spell>
-    <name>Ego Scourge (TP)</name>
+    <name>Ego Scourge [TP]</name>
     <level>4</level>
     <school>EN</school>
     <time>1 action</time>
@@ -1572,7 +1572,7 @@ Source:	LaserLlama's Compendium of Spells p. 15 (Homebrew)</text>
 Source:	LaserLlama's Compendium of Spells p. 15 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Polymorph (Alt) (TP)</name>
+    <name>Polymorph (Alt) [TP]</name>
     <level>4</level>
     <school>T</school>
     <time>1 action</time>
@@ -1594,7 +1594,7 @@ Equipment: Its clothing, weapons, armor, and objects it is holding meld into the
 Source:	LaserLlama's Compendium of Spells p. 17 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Staggering Smite (Alt) (TP)</name>
+    <name>Staggering Smite (Alt) [TP]</name>
     <level>4</level>
     <school>EV</school>
     <time>On hit</time>
@@ -1617,7 +1617,7 @@ Source:	LaserLlama's Compendium of Spells p. 16 (Homebrew)</text>
   </spell>
   <!-- 5th Level Spells -->
   <spell>
-    <name>Banishing Smite (Alt) (TP)</name>
+    <name>Banishing Smite (Alt) [TP]</name>
     <level>5</level>
     <school>EV</school>
     <time>On hit</time>
@@ -1639,7 +1639,7 @@ Source:	LaserLlama's Compendium of Spells p. 17 (Homebrew)</text>
     <roll description="Bonus Force Damage" level="9">9d10</roll>
   </spell>
   <spell>
-    <name>Conjure Dragon (TP)</name>
+    <name>Conjure Dragon [TP]</name>
     <level>5</level>
     <school>C</school>
     <time>1 action</time>
@@ -1662,7 +1662,7 @@ At Higher Levels: When you cast this spell using a spell slot of 6th level or hi
 Source:	LaserLlama's Compendium of Spells p. 17 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Psychic Crush (TP)</name>
+    <name>Psychic Crush [TP]</name>
     <level>5</level>
     <school>EV</school>
     <time>1 action</time>
@@ -1683,7 +1683,7 @@ Source:	LaserLlama's Compendium of Spells p. 17 (Homebrew)</text>
     <roll description="Force Damage" level="9">9d8</roll>
   </spell>
   <spell>
-    <name>Spiritual Sundering (TP)</name>
+    <name>Spiritual Sundering [TP]</name>
     <level>5</level>
     <school>EN</school>
     <time>1 action</time>
@@ -1699,7 +1699,7 @@ Source:	LaserLlama's Compendium of Spells p. 17 (Homebrew)</text>
     <roll description="Subtract from Roll">1d6</roll>
   </spell>
   <spell>
-    <name>Steel Wind Strike (Alt) (TP)</name>
+    <name>Steel Wind Strike (Alt) [TP]</name>
     <level>5</level>
     <school>C</school>
     <time>1 action</time>
@@ -1714,7 +1714,7 @@ Source:	LaserLlama's Compendium of Spells p. 17 (Homebrew)</text>
     <roll description="Force Damage">5d10</roll>
   </spell>
   <spell>
-    <name>Swift Quiver (Alt) (TP)</name>
+    <name>Swift Quiver (Alt) [TP]</name>
     <level>5</level>
     <school>T</school>
     <time>1 bonus action</time>
@@ -1728,7 +1728,7 @@ Source:	LaserLlama's Compendium of Spells p. 17 (Homebrew)</text>
 Source:	LaserLlama's Compendium of Spells p. 18 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Vorpal Blade (TP)</name>
+    <name>Vorpal Blade [TP]</name>
     <level>5</level>
     <school>T</school>
     <time>1 attack</time>
@@ -1744,7 +1744,7 @@ Source:	LaserLlama's Compendium of Spells p. 18 (Homebrew)</text>
     <roll description="Force Damage">6d8+SPELL</roll>
   </spell>
   <spell>
-    <name>Wall of Force (Alt) (TP)</name>
+    <name>Wall of Force (Alt) [TP]</name>
     <level>5</level>
     <school>A</school>
     <time>1 action</time>
@@ -1763,7 +1763,7 @@ At Higher Levels: When you cast this spell using a spell slot of 6th-level or hi
 Source:	LaserLlama's Compendium of Spells p. 18 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Psionic Oppression (TP)</name>
+    <name>Psionic Oppression [TP]</name>
     <level>6</level>
     <school>EN</school>
     <time>1 action</time>
@@ -1778,7 +1778,7 @@ Source:	LaserLlama's Compendium of Spells p. 19 (Homebrew)</text>
     <roll description="Psychic Damage">12d6</roll>
   </spell>
   <spell>
-    <name>Forcecage (Alt) (TP)</name>
+    <name>Forcecage (Alt) [TP]</name>
     <level>7</level>
     <school>C</school>
     <time>1 action</time>
@@ -1800,7 +1800,7 @@ At Higher Levels: When you cast this spell using a spell slot of 8th-level or hi
 Source:	LaserLlama's Compendium of Spells p. 19 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Mass Polymorph (Alt) (TP)</name>
+    <name>Mass Polymorph (Alt) [TP]</name>
     <level>8</level>
     <school>T</school>
     <time>1 action</time>
@@ -1824,7 +1824,7 @@ At Higher Levels: If you cast this spell using a 9th-level spell slot, you can t
 Source:	LaserLlama's Compendium of Spells p. 20 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Storm of Vengeance (Alt) (TP)</name>
+    <name>Storm of Vengeance (Alt) [TP]</name>
     <level>9</level>
     <school>C</school>
     <time>1 action</time>
@@ -1853,7 +1853,7 @@ Source:	LaserLlama's Compendium of Spells p. 21 (Homebrew)</text>
     <roll description="Lighting Damage">10d6</roll>
   </spell>
   <spell>
-    <name>Weird (Alt) (TP)</name>
+    <name>Weird (Alt) [TP]</name>
     <level>9</level>
     <school>EN</school>
     <time>1 action</time>

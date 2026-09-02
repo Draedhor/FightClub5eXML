@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Abhorrent Overlord</name>
+    <name>Abhorrent Overlord [Legacy]</name>
     <sortname>Overlord, Abhorrent</sortname>
     <ancestry>Overlord</ancestry>
     <size>L</size>
@@ -63,7 +63,7 @@ Source:	Mythic Odysseys of Theros p. 219</description>
     <environment/>
   </monster>
   <monster>
-    <name>Akroan Hoplite</name>
+    <name>Akroan Hoplite [Legacy]</name>
     <sortname>Hoplite, Akroan</sortname>
     <ancestry>Hoplite</ancestry>
     <size>M</size>
@@ -127,7 +127,7 @@ Source:	Mythic Odysseys of Theros p. 228</description>
     <environment/>
   </monster>
   <monster>
-    <name>Alseid</name>
+    <name>Alseid [Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Chaotic Good</alignment>
@@ -186,7 +186,7 @@ Source:	Mythic Odysseys of Theros p. 235</description>
     <environment/>
   </monster>
   <monster>
-    <name>Anvilwrought Raptor</name>
+    <name>Anvilwrought Raptor [Legacy]</name>
     <sortname>Raptor, Anvilwrought</sortname>
     <ancestry>Raptor</ancestry>
     <size>T</size>
@@ -246,7 +246,7 @@ Source:	Mythic Odysseys of Theros p. 209</description>
     <environment/>
   </monster>
   <monster>
-    <name>Aphemia</name>
+    <name>Aphemia [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -309,7 +309,7 @@ Source:	Mythic Odysseys of Theros p. 226</description>
     <environment/>
   </monster>
   <monster>
-    <name>Arasta</name>
+    <name>Arasta [Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -447,7 +447,7 @@ Source:	Mythic Odysseys of Theros p. 248</description>
     <environment/>
   </monster>
   <monster>
-    <name>Archon of Falling Stars</name>
+    <name>Archon of Falling Stars [Legacy]</name>
     <sortname>Archon, of Falling Stars</sortname>
     <ancestry>Archon</ancestry>
     <size>M</size>
@@ -529,7 +529,7 @@ Source:	Mythic Odysseys of Theros p. 212</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ashen Rider</name>
+    <name>Ashen Rider [Legacy]</name>
     <sortname>Rider, Ashen</sortname>
     <ancestry>Rider</ancestry>
     <size>M</size>
@@ -613,7 +613,7 @@ Source:	Mythic Odysseys of Theros p. 213</description>
     <environment/>
   </monster>
   <monster>
-    <name>Blood-Toll Harpy</name>
+    <name>Blood-Toll Harpy [Legacy]</name>
     <sortname>Harpy, Blood-Toll</sortname>
     <ancestry>Harpy</ancestry>
     <size>M</size>
@@ -667,7 +667,7 @@ Source:	Mythic Odysseys of Theros p. 227</description>
     <environment/>
   </monster>
   <monster>
-    <name>Broken King Antigonos</name>
+    <name>Broken King Antigonos [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -729,7 +729,7 @@ Source:	Mythic Odysseys of Theros p. 189</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bronze Sable</name>
+    <name>Bronze Sable [Legacy]</name>
     <sortname>Sable, Bronze</sortname>
     <ancestry>Sable</ancestry>
     <size>M</size>
@@ -787,7 +787,7 @@ Source:	Mythic Odysseys of Theros p. 210</description>
     <environment/>
   </monster>
   <monster>
-    <name>Burnished Hart</name>
+    <name>Burnished Hart [Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -848,7 +848,7 @@ Source:	Mythic Odysseys of Theros p. 211</description>
     <environment/>
   </monster>
   <monster>
-    <name>Colossus of Akros</name>
+    <name>Colossus of Akros [Legacy]</name>
     <size>G</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -917,7 +917,7 @@ Source:	Mythic Odysseys of Theros p. 218</description>
     <environment/>
   </monster>
   <monster>
-    <name>Doomwake Giant</name>
+    <name>Doomwake Giant [Legacy]</name>
     <sortname>Giant, Doomwake</sortname>
     <ancestry>Giant</ancestry>
     <size>H</size>
@@ -975,7 +975,7 @@ Source:	Mythic Odysseys of Theros p. 224</description>
     <environment/>
   </monster>
   <monster>
-    <name>Eater of Hope</name>
+    <name>Eater of Hope [Legacy]</name>
     <size>L</size>
     <type>fiend</type>
     <alignment>Lawful Evil</alignment>
@@ -1027,7 +1027,7 @@ Source:	Mythic Odysseys of Theros p. 220</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fleecemane Lion</name>
+    <name>Fleecemane Lion [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -1099,7 +1099,7 @@ Source:	Mythic Odysseys of Theros p. 223</description>
     <environment/>
   </monster>
   <monster>
-    <name>Flitterstep Eidolon</name>
+    <name>Flitterstep Eidolon [Legacy]</name>
     <sortname>Eidolon, Flitterstep</sortname>
     <ancestry>Eidolon</ancestry>
     <size>M</size>
@@ -1162,7 +1162,7 @@ Source:	Mythic Odysseys of Theros p. 222</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ghostblade Eidolon</name>
+    <name>Ghostblade Eidolon [Legacy]</name>
     <sortname>Eidolon, Ghostblade</sortname>
     <ancestry>Eidolon</ancestry>
     <size>M</size>
@@ -1216,7 +1216,7 @@ Source:	Mythic Odysseys of Theros p. 222</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gold-Forged Sentinel</name>
+    <name>Gold-Forged Sentinel [Legacy]</name>
     <sortname>Sentinel, Gold-Forged</sortname>
     <ancestry>Sentinel</ancestry>
     <size>L</size>
@@ -1276,7 +1276,7 @@ Source:	Mythic Odysseys of Theros p. 211</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hippocamp</name>
+    <name>Hippocamp [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Good</alignment>
@@ -1323,7 +1323,7 @@ Source:	Mythic Odysseys of Theros p. 227</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hundred-Handed One</name>
+    <name>Hundred-Handed One [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Lawful Neutral</alignment>
@@ -1378,7 +1378,7 @@ Source:	Mythic Odysseys of Theros p. 225</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hythonia</name>
+    <name>Hythonia [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Lawful Evil</alignment>
@@ -1510,7 +1510,7 @@ Source:	Mythic Odysseys of Theros p. 252</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ironscale Hydra</name>
+    <name>Ironscale Hydra [Legacy]</name>
     <sortname>Hydra, Ironscale</sortname>
     <ancestry>Hydra</ancestry>
     <size>G</size>
@@ -1572,7 +1572,7 @@ Source:	Mythic Odysseys of Theros p. 231</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lampad</name>
+    <name>Lampad [Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Neutral Evil</alignment>
@@ -1638,7 +1638,7 @@ Source:	Mythic Odysseys of Theros p. 235</description>
     <environment/>
   </monster>
   <monster>
-    <name>Leonin Iconoclast</name>
+    <name>Leonin Iconoclast [Legacy]</name>
     <sortname>Leonin, Iconoclast</sortname>
     <ancestry>Leonin</ancestry>
     <size>M</size>
@@ -1701,7 +1701,7 @@ Source:	Mythic Odysseys of Theros p. 232</description>
     <environment/>
   </monster>
   <monster>
-    <name>Medusa (Theran Variant)</name>
+    <name>Medusa (Theran Variant) [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Lawful Evil</alignment>
@@ -1762,7 +1762,7 @@ Until this grapple ends, the target is restrained, and the Medusa (Theran Varian
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Meletian Hoplite</name>
+    <name>Meletian Hoplite [Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>Any alignment</alignment>
@@ -1835,7 +1835,7 @@ Source:	Mythic Odysseys of Theros p. 229</description>
     <environment/>
   </monster>
   <monster>
-    <name>Naiad</name>
+    <name>Naiad [Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Chaotic Neutral</alignment>
@@ -1906,7 +1906,7 @@ Source:	Mythic Odysseys of Theros p. 236</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nightmare Shepherd</name>
+    <name>Nightmare Shepherd [Legacy]</name>
     <size>L</size>
     <type>fiend</type>
     <alignment>Lawful Evil</alignment>
@@ -1968,7 +1968,7 @@ Source:	Mythic Odysseys of Theros p. 221</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nyx-Fleece Ram</name>
+    <name>Nyx-Fleece Ram [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -2014,7 +2014,7 @@ Source:	Mythic Odysseys of Theros p. 233</description>
     <environment/>
   </monster>
   <monster>
-    <name>Oracle</name>
+    <name>Oracle [Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>Any alignment</alignment>
@@ -2066,7 +2066,7 @@ Source:	Mythic Odysseys of Theros p. 238</description>
     <environment/>
   </monster>
   <monster>
-    <name>Oread</name>
+    <name>Oread [Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Chaotic Evil</alignment>
@@ -2143,7 +2143,7 @@ Source:	Mythic Odysseys of Theros p. 237</description>
     <environment/>
   </monster>
   <monster>
-    <name>Phylaskia</name>
+    <name>Phylaskia [Legacy]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>Lawful Neutral</alignment>
@@ -2198,7 +2198,7 @@ Source:	Mythic Odysseys of Theros p. 239</description>
     <environment/>
   </monster>
   <monster>
-    <name>Polukranos</name>
+    <name>Polukranos [Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -2294,7 +2294,7 @@ Source:	Mythic Odysseys of Theros p. 231</description>
     <environment/>
   </monster>
   <monster>
-    <name>Returned Drifter</name>
+    <name>Returned Drifter [Legacy]</name>
     <sortname>Drifter, Returned</sortname>
     <ancestry>Drifter</ancestry>
     <size>M</size>
@@ -2347,7 +2347,7 @@ Source:	Mythic Odysseys of Theros p. 240</description>
     <environment/>
   </monster>
   <monster>
-    <name>Returned Kakomantis</name>
+    <name>Returned Kakomantis [Legacy]</name>
     <sortname>Kakomantis, Returned</sortname>
     <ancestry>Kakomantis</ancestry>
     <size>M</size>
@@ -2406,7 +2406,7 @@ Source:	Mythic Odysseys of Theros p. 240</description>
     <environment/>
   </monster>
   <monster>
-    <name>Returned Palamnite</name>
+    <name>Returned Palamnite [Legacy]</name>
     <sortname>Palamnite, Returned</sortname>
     <ancestry>Palamnite</ancestry>
     <size>M</size>
@@ -2462,7 +2462,7 @@ Source:	Mythic Odysseys of Theros p. 241</description>
     <environment/>
   </monster>
   <monster>
-    <name>Returned Sentry</name>
+    <name>Returned Sentry [Legacy]</name>
     <sortname>Sentry, Returned</sortname>
     <ancestry>Sentry</ancestry>
     <size>M</size>
@@ -2513,7 +2513,7 @@ Source:	Mythic Odysseys of Theros p. 241</description>
     <environment/>
   </monster>
   <monster>
-    <name>Satyr Reveler</name>
+    <name>Satyr Reveler [Legacy]</name>
     <sortname>Satyr, Reveler</sortname>
     <ancestry>Satyr</ancestry>
     <size>M</size>
@@ -2572,7 +2572,7 @@ Source:	Mythic Odysseys of Theros p. 242</description>
     <environment/>
   </monster>
   <monster>
-    <name>Satyr Thornbearer</name>
+    <name>Satyr Thornbearer [Legacy]</name>
     <sortname>Satyr, Thornbearer</sortname>
     <ancestry>Satyr</ancestry>
     <size>M</size>
@@ -2633,7 +2633,7 @@ Source:	Mythic Odysseys of Theros p. 243</description>
     <environment/>
   </monster>
   <monster>
-    <name>Setessan Hoplite</name>
+    <name>Setessan Hoplite [Legacy]</name>
     <sortname>Hoplite, Setessan</sortname>
     <ancestry>Hoplite</ancestry>
     <size>M</size>
@@ -2697,7 +2697,7 @@ Source:	Mythic Odysseys of Theros p. 229</description>
     <environment/>
   </monster>
   <monster>
-    <name>Theran Chimera</name>
+    <name>Theran Chimera [Legacy]</name>
     <sortname>Chimera, Theran</sortname>
     <ancestry>Chimera</ancestry>
     <size>L</size>
@@ -2792,7 +2792,7 @@ Source:	Mythic Odysseys of Theros p. 216</description>
     <environment/>
   </monster>
   <monster>
-    <name>Triton Master of Waves</name>
+    <name>Triton Master of Waves [Legacy]</name>
     <sortname>Triton, Master of Waves</sortname>
     <ancestry>Triton</ancestry>
     <size>M</size>
@@ -2863,7 +2863,7 @@ Source:	Mythic Odysseys of Theros p. 245</description>
     <environment/>
   </monster>
   <monster>
-    <name>Triton Shorestalker</name>
+    <name>Triton Shorestalker [Legacy]</name>
     <sortname>Triton, Shorestalker</sortname>
     <ancestry>Triton</ancestry>
     <size>M</size>
@@ -2924,7 +2924,7 @@ Source:	Mythic Odysseys of Theros p. 244</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tromokratis</name>
+    <name>Tromokratis [Legacy]</name>
     <size>G</size>
     <type>monstrosity (titan)</type>
     <alignment>Any alignment</alignment>
@@ -3046,7 +3046,7 @@ Source:	Mythic Odysseys of Theros p. 254</description>
     <environment/>
   </monster>
   <monster>
-    <name>Two-Headed Cerberus</name>
+    <name>Two-Headed Cerberus [Legacy]</name>
     <sortname>Cerberus, Two-Headed</sortname>
     <ancestry>Cerberus</ancestry>
     <size>M</size>
@@ -3106,7 +3106,7 @@ Source:	Mythic Odysseys of Theros p. 215</description>
     <environment/>
   </monster>
   <monster>
-    <name>Typhon</name>
+    <name>Typhon [Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -3164,7 +3164,7 @@ Source:	Mythic Odysseys of Theros p. 246</description>
     <environment/>
   </monster>
   <monster>
-    <name>Underworld Cerberus</name>
+    <name>Underworld Cerberus [Legacy]</name>
     <sortname>Cerberus, Underworld</sortname>
     <ancestry>Cerberus</ancestry>
     <size>L</size>
@@ -3224,7 +3224,7 @@ Source:	Mythic Odysseys of Theros p. 215</description>
     <environment/>
   </monster>
   <monster>
-    <name>Winged Bull</name>
+    <name>Winged Bull [Legacy]</name>
     <sortname>Bull, Winged</sortname>
     <ancestry>Bull</ancestry>
     <size>L</size>
@@ -3264,7 +3264,7 @@ Source:	Mythic Odysseys of Theros p. 214</description>
     <environment/>
   </monster>
   <monster>
-    <name>Winged Lion</name>
+    <name>Winged Lion [Legacy]</name>
     <sortname>Lion, Winged</sortname>
     <ancestry>Lion</ancestry>
     <size>L</size>
@@ -3309,7 +3309,7 @@ Source:	Mythic Odysseys of Theros p. 214</description>
     <environment/>
   </monster>
   <monster>
-    <name>Woe Strider</name>
+    <name>Woe Strider [Legacy]</name>
     <sortname>Strider, Woe</sortname>
     <ancestry>Strider</ancestry>
     <size>L</size>

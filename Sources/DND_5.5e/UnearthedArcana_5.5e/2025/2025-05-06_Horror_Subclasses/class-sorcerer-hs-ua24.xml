@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Sorcerer (UA)</name>
+    <name>Sorcerer</name>
     <!-- Sorcerer Subclass: Shadow Sorcery (UA) -->
     <autolevel level="3">
       <feature optional="YES">
@@ -77,43 +77,43 @@ Source:	UA2024-Horror Subclasses p. 7</text>
     </autolevel>
   </class>
   <spell>
-    <name>Bane (UA)</name>
+    <name>Bane [UA]</name>
     <classes>Sorcerer (Shadow Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Darkness (UA)</name>
+    <name>Darkness [UA]</name>
     <classes>Sorcerer (Shadow Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Inflict Wounds (UA)</name>
+    <name>Inflict Wounds [UA]</name>
     <classes>Sorcerer (Shadow Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Pass without Trace (UA)</name>
+    <name>Pass without Trace [UA]</name>
     <classes>Sorcerer (Shadow Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Hunger of Hadar (UA)</name>
+    <name>Hunger of Hadar [UA]</name>
     <classes>Sorcerer (Shadow Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Summon Undead (UA)</name>
+    <name>Summon Undead [UA]</name>
     <classes>Sorcerer (Shadow Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Greater Invisibility (UA)</name>
+    <name>Greater Invisibility [UA]</name>
     <classes>Sorcerer (Shadow Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Phantasmal Killer (UA)</name>
+    <name>Phantasmal Killer [UA]</name>
     <classes>Sorcerer (Shadow Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Contagion (UA)</name>
+    <name>Contagion [UA]</name>
     <classes>Sorcerer (Shadow Sorcery (UA))</classes>
   </spell>
   <spell>
-    <name>Creation (UA)</name>
+    <name>Creation [UA]</name>
     <classes>Sorcerer (Shadow Sorcery (UA))</classes>
   </spell>
 </compendium>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Bearfolk (TP)</name>
+    <name>Bearfolk [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +2</ability>
@@ -53,7 +53,7 @@
 </trait>
 </race>
   <race>
-    <name>Bearfolk: Shadowborn (TP)</name>
+    <name>Bearfolk: Shadowborn [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Str +2, Dex +1</ability>
@@ -120,7 +120,7 @@ Deed Names: Fireheart, Ironhide, Lightblade, Moondancer, Razorclaws, Shadowbane,
     </trait>
   </race>
   <race>
-  <name>Darakhul (TP)</name>
+  <name>Darakhul [TP Legacy]</name>
   <ability>Con +1</ability>
   <resist>necrotic, poison</resist>
   <trait category="description">
@@ -146,7 +146,7 @@ Source:	Book of Ebon Tides p. 24</text>
 </trait>
 <trait><name>Age</name><text>An upper limit of darakhul age has never been discovered; most darakhul die violently.</text></trait><trait><name>Alignment</name><text>Your alignment does not change when you become a darakhul, but most darakhul have a strong draw toward evil.</text></trait><trait category="species"><name>Darkvision</name><text>You can see in dim light within 60 feet as though it were bright light and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text></trait><trait category="species"><name>Hunger for Flesh</name><text>You must consume 1 pound of raw meat each day or suffer the effects of starvation. If you go 24 hours without such a meal, you gain one level of exhaustion. While you have any levels of exhaustion from this trait, you can't regain hit points or remove levels of exhaustion until you spend at least 1 hour consuming 10 pounds of raw meat.</text></trait><trait category="species"><name>Imperfect Undeath</name><text>You transitioned into undeath, but your transition was imperfect. Though you are a humanoid, you are susceptible to effects that target undead. You can regain hit points from spells like cure wounds, but you can also be affected by game effects that specifically target undead, such as a cleric's Turn Undead feature. Game effects that raise a creature from the dead work on you as normal, but they return you to life as a darakhul. A true resurrection or wish spell can restore you to life as a fully living member of your original race.</text></trait><trait category="species"><name>Powerful Jaw</name><text>Your heavy jaw is powerful enough to crush bones to powder. Your bite is a natural melee weapon, which you can use to make unarmed strikes. When you hit with it, your bite deals piercing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.</text><roll description="Unarmed Strike Piercing Damage">1d4+%1</roll></trait><trait category="species"><name>Sunlight Sensitivity</name><text>You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.</text></trait><trait category="species"><name>Undead Resilience</name><text>You are infused with the dark energy of undeath, which frees you from some frailties that plague most creatures. You have resistance to necrotic damage and poison damage, you are immune to disease, and you have advantage on saving throws against being charmed or poisoned. When you finish a short rest, you can reduce your exhaustion level by 1, provided you have ingested at least I pound of raw meat in the last 24 hours (see Hunger for Flesh feature).</text></trait><trait category="species"><name>Undead Vitality</name><text>You don't need to breathe, and you don't sleep the way most creatures do. Instead, you enter a dormant state that resembles death, remaining semiconscious, for 6 hours a day. While dormant, you have disadvantage on Wisdom (Perception) checks. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</text></trait><trait category="species"><name>Heritage Subrace</name><text>You were something else before you became a darakhul. This heritage determines some of your traits.</text></trait><trait><name>Languages</name><text>You can speak, read, and write Darakhul, Umbral, and a language associated with your Heritage Subrace.</text></trait></race>
   <race>
-    <name>Darakhul: Bearfolk Heritage (TP)</name>
+    <name>Darakhul: Bearfolk Heritage [TP Legacy]</name>
     <displayname>Bearfolk Heritage Darakhul</displayname>
     <ancestry>Darakhul</ancestry>
     <size>M</size>
@@ -241,7 +241,7 @@ Source:	Book of Ebon Tides p. 24</text>
     </trait>
   </race>
   <race>
-    <name>Darakhul: Shadow Goblin Heritage (TP)</name>
+    <name>Darakhul: Shadow Goblin Heritage [TP Legacy]</name>
     <displayname>Shadow Goblin Heritage Darakhul</displayname>
     <ancestry>Darakhul</ancestry>
     <size>S</size>
@@ -338,7 +338,7 @@ Source:	Book of Ebon Tides p. 24</text>
     </trait>
   </race>
   <race>
-    <name>Elf: Shadow Fey (TP)</name>
+    <name>Elf: Shadow Fey [TP Legacy]</name>
     <displayname>Shadow Fey Elf</displayname>
     <ancestry>Elf</ancestry>
     <size>M</size>
@@ -426,7 +426,7 @@ If you meditate during a long rest, you finish the rest after only 4 hours. You 
     </trait>
   </race>
   <race>
-    <name>Elf: Lunar (TP)</name>
+    <name>Elf: Lunar [TP Legacy]</name>
     <displayname>Lunar Elf</displayname>
     <ancestry>Elf</ancestry>
     <size>M</size>
@@ -506,7 +506,7 @@ If you meditate during a long rest, you finish the rest after only 4 hours. You 
     </trait>
   </race>
   <race>
-    <name>Elf: Sable (TP)</name>
+    <name>Elf: Sable [TP Legacy]</name>
     <displayname>Sable Elf</displayname>
     <ancestry>Elf</ancestry>
     <size>M</size>
@@ -574,7 +574,7 @@ If you meditate during a long rest, you finish the rest after only 4 hours. You 
     </trait>
   </race>
   <race>
-    <name>Goblin: Shadow (TP)</name>
+    <name>Goblin: Shadow [TP Legacy]</name>
     <displayname>Shadow Goblin</displayname>
     <ancestry>Goblin</ancestry>
     <size>S</size>
@@ -687,7 +687,7 @@ Source:	Book of Ebon Tides p. 30 (Third Party)</text>
     </trait>
   </race> -->
   <race>
-    <name>Changeling: Umbral Human (TP)</name>
+    <name>Changeling: Umbral Human [TP Legacy]</name>
     <displayname>Changeling Umbral Human</displayname>
     <ancestry>Human</ancestry>
     <size>M</size>
@@ -757,7 +757,7 @@ Your Charisma score increases by 1.</text>
     </trait>
   </race>
   <race>
-    <name>Human: Gifted Umbral (TP)</name>
+    <name>Human: Gifted Umbral [TP Legacy]</name>
     <displayname>Gifted Umbral Human</displayname>
     <ancestry>Human</ancestry>
     <size>M</size>
@@ -830,7 +830,7 @@ Your Charisma score increases by 1.</text>
     </trait>
   </race>
   <race>
-    <name>Quickstep (TP)</name>
+    <name>Quickstep [TP Legacy]</name>
     <size>S</size>
     <speed>50</speed>
     <ability>Dex +2, Cha +1</ability>
@@ -885,7 +885,7 @@ Example Forenames: Chiringa, Daresh, Ekirp, Ekkitta, Kerasil, Najuta, Orrin, Ski
 
 Example Surnames: Brightsong, Bristletooth, Flitpaw, Jumptwig, Silentleaf, Wisewhisker.</text></trait><trait><name>Ability Score Increase</name><text>Your Dexterity score increases by 2, but your Strength score decreases by 2.</text></trait><trait><name>Age</name><text>Ratatosk reach adulthood at age 10 and, due to their celestial nature, live up to 180 years.</text></trait><trait><name>Alignment</name><text>Ever curious and delighting in unpredictability, ekorre ratatosks gravitate toward chaotic alignments as they view laws as vague suggestions at best. The tradvakt tend to be slightly more focused and lawful in their thinking. Both groups tend toward good, placing value on doing the right thing, though some individuals lean more toward their darker impulses.</text></trait><trait><name>Speed</name><text>Your base walking speed is 25 feet, and you have a climb speed of 10 feet.</text></trait><trait category="species"><name>Darkvision</name><text>You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text></trait><trait category="species"><name>Grounded Celestial</name><text>You are descended from celestials, but you are strongly attuned to the mortal world. Though you are a humanoid, you are still susceptible to effects that target celestials.</text></trait><trait category="species"><name>Sharp Tusks</name><text>Your sharp tusks are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal 1 piercing damage plus 1d4 psychic damage.</text><roll description="Unarmed Strike Pyschic Dmage">1+1d4</roll></trait><trait category="species"><name>Telepathic</name><text>You can speak telepathically to any creature you can see, provided the creature is within a number of feet of you equal to 10 times your level. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.</text></trait><trait><name>Languages</name><text>You can understand, read, and write Celestial and Common, but you speak via Telepathy.</text></trait></race> -->
   <race>
-    <name>Ratatosk: Ekorre (TP)</name>
+    <name>Ratatosk: Ekorre [TP Legacy]</name>
     <displayname>Ekorre Ratatosk (Clever Tusk)</displayname>
     <ancestry>Ratatosk</ancestry>
     <size>T</size>
@@ -961,7 +961,7 @@ Either your Intelligence or Charisma score increases by 1.</text>
     </trait>
   </race>
   <race>
-    <name>Ratatosk: Tradvakt (TP)</name>
+    <name>Ratatosk: Tradvakt [TP Legacy]</name>
     <displayname>Tradvakt Ratatosk (Tree Protector)</displayname>
     <ancestry>Ratatosk</ancestry>
     <speed>25</speed>
@@ -1041,7 +1041,7 @@ Either your Intelligence or Charisma score increases by 1.</text>
     </trait>
   </race>
   <race>
-    <name>Erina: Spiritfarer (TP)</name>
+    <name>Erina: Spiritfarer [TP Legacy]</name>
     <displayname>Erina</displayname>
     <ancestry>Erina</ancestry>
     <size>S</size>
@@ -1133,7 +1133,7 @@ Example Names: May-nay, Wayee, Leemay, Einore, Die-Nu, Lowno, Ur-win.</text>
     </trait>
   </race>
   <race>
-    <name>Shade: Stygian (TP)</name>
+    <name>Shade: Stygian [TP Legacy]</name>
     <displayname>Stygian Shade</displayname>
     <ancestry>Shade</ancestry>
     <speed>30</speed>
@@ -1223,7 +1223,7 @@ Source:	Book of Ebon Tides p. 36 (Homebrew)</text>
     </trait>
   </race>
   <race>
-    <name>Ravenfolk: Sublime (TP)</name>
+    <name>Ravenfolk: Sublime [TP Legacy]</name>
     <displayname>Sublime Ravenfolk</displayname>
     <ancestry>Ravenfolk</ancestry>
     <size>M</size>
@@ -1294,7 +1294,7 @@ Source:	Book of Ebon Tides p. 37 (Third Party)</text>
     </trait>
   </race>
   <race>
-    <name>Satarre: Unbound (TP)</name>
+    <name>Satarre: Unbound [TP Legacy]</name>
     <displayname>Satarre</displayname>
     <ancestry>Satarre</ancestry>
     <size>M</size>
@@ -1374,7 +1374,7 @@ Example Female Names: Atlessa (jewel), Binulett (scout), Frizel (scribe), Ixa (b
     </trait>
   </race>
   <race>
-    <name>Gnome: Wyrd (TP)</name>
+    <name>Gnome: Wyrd [TP Legacy]</name>
     <size>S</size>
     <speed>25</speed>
     <ability>Int +2, Wis +1</ability>

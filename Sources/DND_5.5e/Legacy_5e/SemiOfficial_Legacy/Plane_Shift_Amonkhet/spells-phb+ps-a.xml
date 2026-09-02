@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Aid</name>
+    <name>Aid [TP Legacy]</name>
     <classes>Cleric (Solidarity Domain (Legacy))</classes>
   </spell>
   <!-- <spell>
@@ -13,27 +13,27 @@
     <classes>Cleric (Knowledge Domain (Legacy))</classes>
   </spell> -->
   <spell>
-    <name>Aura of Life</name>
+    <name>Aura of Life [TP Legacy]</name>
     <classes>Cleric (Solidarity Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Bane</name>
+    <name>Bane [TP Legacy]</name>
     <classes>Cleric (Ambition Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Beacon of Hope</name>
+    <name>Beacon of Hope [TP Legacy]</name>
     <classes>Cleric (Solidarity Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Bestow Curse</name>
+    <name>Bestow Curse [TP Legacy]</name>
     <classes>Cleric (Ambition Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Bless</name>
+    <name>Bless [TP Legacy]</name>
     <classes>Cleric (Solidarity Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Circle of Power</name>
+    <name>Circle of Power [TP Legacy]</name>
     <classes>Cleric (Solidarity Domain (Legacy))</classes>
   </spell>
   <!-- <spell>
@@ -45,67 +45,67 @@
     <classes>Cleric (Knowledge Domain (Legacy))</classes>
   </spell> -->
   <spell>
-    <name>Crusader's Mantle</name>
+    <name>Crusader's Mantle [TP Legacy]</name>
     <classes>Cleric (Solidarity Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Death Ward</name>
+    <name>Death Ward [TP Legacy]</name>
     <classes>Cleric (Ambition Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Destructive Wave</name>
+    <name>Destructive Wave [TP Legacy]</name>
     <classes>Cleric (Strength Domain (Legacy)), Cleric (Zeal Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Dimension Door</name>
+    <name>Dimension Door [TP Legacy]</name>
     <classes>Cleric (Ambition Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Disguise Self</name>
+    <name>Disguise Self [TP Legacy]</name>
     <classes>Cleric (Ambition Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Divine Favor</name>
+    <name>Divine Favor [TP Legacy]</name>
     <classes>Cleric (Strength Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Dominate Beast</name>
+    <name>Dominate Beast [TP Legacy]</name>
     <classes>Cleric (Strength Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Dominate Person</name>
+    <name>Dominate Person [TP Legacy]</name>
     <classes>Cleric (Ambition Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Enhance Ability</name>
+    <name>Enhance Ability [TP Legacy]</name>
     <classes>Cleric (Strength Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Fire Shield</name>
+    <name>Fire Shield [TP Legacy]</name>
     <classes>Cleric (Zeal Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Fireball</name>
+    <name>Fireball [TP Legacy]</name>
     <classes>Cleric (Zeal Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Flame Strike</name>
+    <name>Flame Strike [TP Legacy]</name>
     <classes>Cleric (Zeal Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement</name>
+    <name>Freedom of Movement [TP Legacy]</name>
     <classes>Cleric (Zeal Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Guardian of Faith</name>
+    <name>Guardian of Faith [TP Legacy]</name>
     <classes>Cleric (Solidarity Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Guiding Bolt</name>
+    <name>Guiding Bolt [TP Legacy]</name>
     <classes>Cleric (Solidarity Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Haste</name>
+    <name>Haste [TP Legacy]</name>
     <classes>Cleric (Strength Domain (Legacy)), Cleric (Zeal Domain (Legacy))</classes>
   </spell>
   <!-- <spell>
@@ -113,7 +113,7 @@
     <classes>Cleric (Knowledge Domain (Legacy))</classes>
   </spell> -->
   <spell>
-    <name>Insect Plague</name>
+    <name>Insect Plague [TP Legacy]</name>
     <classes>Cleric (Strength Domain (Legacy))</classes>
   </spell>
   <!-- <spell>
@@ -121,19 +121,19 @@
     <classes>Cleric (Knowledge Domain (Legacy))</classes>
   </spell> -->
   <spell>
-    <name>Magic Weapon</name>
+    <name>Magic Weapon [TP Legacy]</name>
     <classes>Cleric (Zeal Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Mass Cure Wounds</name>
+    <name>Mass Cure Wounds [TP Legacy]</name>
     <classes>Cleric (Solidarity Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Mirror Image</name>
+    <name>Mirror Image [TP Legacy]</name>
     <classes>Cleric (Ambition Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Modify Memory</name>
+    <name>Modify Memory [TP Legacy]</name>
     <classes>Cleric (Ambition Domain (Legacy))</classes>
   </spell>
   <!-- <spell>
@@ -141,15 +141,15 @@
     <classes>Cleric (Knowledge Domain (Legacy))</classes>
   </spell> -->
   <spell>
-    <name>Protection from Energy</name>
+    <name>Protection from Energy [TP Legacy]</name>
     <classes>Cleric (Strength Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Protection from Poison</name>
+    <name>Protection from Poison [TP Legacy]</name>
     <classes>Cleric (Strength Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Ray of Enfeeblement</name>
+    <name>Ray of Enfeeblement [TP Legacy]</name>
     <classes>Cleric (Ambition Domain (Legacy))</classes>
   </spell>
   <!-- <spell>
@@ -157,15 +157,15 @@
     <classes>Cleric (Knowledge Domain (Legacy))</classes>
   </spell> -->
   <spell>
-    <name>Searing Smite</name>
+    <name>Searing Smite [TP Legacy]</name>
     <classes>Cleric (Zeal Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Shatter</name>
+    <name>Shatter [TP Legacy]</name>
     <classes>Cleric (Zeal Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Shield of Faith</name>
+    <name>Shield of Faith [TP Legacy]</name>
     <classes>Cleric (Strength Domain (Legacy))</classes>
   </spell>
   <!-- <spell>
@@ -173,7 +173,7 @@
     <classes>Cleric (Knowledge Domain (Legacy))</classes>
   </spell> -->
   <spell>
-    <name>Stoneskin</name>
+    <name>Stoneskin [TP Legacy]</name>
     <classes>Cleric (Strength Domain (Legacy))</classes>
   </spell>
   <!-- <spell>
@@ -181,15 +181,15 @@
     <classes>Cleric (Knowledge Domain (Legacy))</classes>
   </spell> -->
   <spell>
-    <name>Thunderous Smite</name>
+    <name>Thunderous Smite [TP Legacy]</name>
     <classes>Cleric (Zeal Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Vampiric Touch</name>
+    <name>Vampiric Touch [TP Legacy]</name>
     <classes>Cleric (Ambition Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Warding Bond</name>
+    <name>Warding Bond [TP Legacy]</name>
     <classes>Cleric (Solidarity Domain (Legacy))</classes>
   </spell>
 </compendium>

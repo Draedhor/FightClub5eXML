@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Ravenloft Haunted One (Legacy)</name>
+    <name>Ravenloft Haunted One [Legacy]</name>
     <proficiency/>
     <trait>
       <name>Description</name>
@@ -212,7 +212,7 @@ d12 | Flaw
     </trait>
   </background>
   <background>
-    <name>Ravenloft Investigator (Legacy)</name>
+    <name>Ravenloft Investigator [Legacy]</name>
     <ancestry>City Watch</ancestry>
     <proficiency/>
     <trait>

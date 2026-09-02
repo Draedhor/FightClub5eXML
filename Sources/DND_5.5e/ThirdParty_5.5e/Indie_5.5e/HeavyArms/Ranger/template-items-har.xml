@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <itemtemplate>
-    <name>Ridill %name% (TP)</name>
+    <name>Ridill %name% [TP]</name>
     <detail>unique, legendary (requires attunement)</detail>
     <match>greatsword,shortsword,longsword,rapier,scimitar,double-bladed scimitar,sword</match>
     <text>Obtained: Found in a red dragon's treasure hoard

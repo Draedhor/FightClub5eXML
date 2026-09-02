@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Amethyst Lodestone</name>
+    <name>Amethyst Lodestone [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -23,7 +23,7 @@ Source:	Fizban's Treasury of Dragons p. 22</text>
     <roll>1d6</roll>
   </item>
   <item>
-    <name>Crystal Blade Greatsword</name>
+    <name>Crystal Blade Greatsword [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -46,7 +46,7 @@ Source:	Fizban's Treasury of Dragons p. 22</text>
     <range />
   </item>
   <item>
-    <name>Crystal Blade Longsword</name>
+    <name>Crystal Blade Longsword [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -67,7 +67,7 @@ Source:	Fizban's Treasury of Dragons p. 22</text>
     <range />
   </item>
   <item>
-    <name>Crystal Blade Rapier</name>
+    <name>Crystal Blade Rapier [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -88,7 +88,7 @@ Source:	Fizban's Treasury of Dragons p. 22</text>
     <range />
   </item>
   <item>
-    <name>Crystal Blade Scimitar</name>
+    <name>Crystal Blade Scimitar [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -113,7 +113,7 @@ Source:	Fizban's Treasury of Dragons p. 22</text>
     <range />
   </item>
   <item>
-    <name>Crystal Blade Shortsword</name>
+    <name>Crystal Blade Shortsword [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -136,7 +136,7 @@ Source:	Fizban's Treasury of Dragons p. 22</text>
     <range />
   </item>
   <item>
-    <name>Dragon Vessel</name>
+    <name>Dragon Vessel [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -157,7 +157,7 @@ In addition to the options for other states, you can fill an Ascendant vessel wi
 Source:	Fizban's Treasury of Dragons p. 27</text>
   </item>
   <item>
-    <name>Dragon Wing Hand Crossbow</name>
+    <name>Dragon Wing Hand Crossbow [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -187,7 +187,7 @@ Source:	Fizban's Treasury of Dragons p. 23</text>
     <range>30/120</range>
   </item>
   <item>
-    <name>Dragon Wing Heavy Crossbow</name>
+    <name>Dragon Wing Heavy Crossbow [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -219,7 +219,7 @@ Source:	Fizban's Treasury of Dragons p. 23</text>
     <range>100/400</range>
   </item>
   <item>
-    <name>Dragon Wing Light Crossbow</name>
+    <name>Dragon Wing Light Crossbow [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -249,7 +249,7 @@ Source:	Fizban's Treasury of Dragons p. 23</text>
     <range>80/320</range>
   </item>
   <item>
-    <name>Dragon Wing Longbow</name>
+    <name>Dragon Wing Longbow [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -281,7 +281,7 @@ Source:	Fizban's Treasury of Dragons p. 23</text>
     <range>150/600</range>
   </item>
   <item>
-    <name>Dragon Wing Shortbow</name>
+    <name>Dragon Wing Shortbow [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -304,7 +304,7 @@ Source:	Fizban's Treasury of Dragons p. 23</text>
     <range>80/320</range>
   </item>
   <item>
-    <name>Dragon-Touched Focus</name>
+    <name>Dragon-Touched Focus [Legacy]</name>
     <detail>varies (requires attunement by a spellcaster)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -334,7 +334,7 @@ The Ascendant focus has the Slumbering, Stirring, and Wakened properties. In add
 Source:	Fizban's Treasury of Dragons p. 26</text>
   </item>
   <item>
-    <name>Dragon's Wrath Battleaxe</name>
+    <name>Dragon's Wrath Battleaxe [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -369,7 +369,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Blowgun</name>
+    <name>Dragon's Wrath Blowgun [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -414,7 +414,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range>25/100</range>
   </item>
   <item>
-    <name>Dragon's Wrath Club</name>
+    <name>Dragon's Wrath Club [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -449,7 +449,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Dagger</name>
+    <name>Dragon's Wrath Dagger [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -490,7 +490,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range>20/60</range>
   </item>
   <item>
-    <name>Dragon's Wrath Dart</name>
+    <name>Dragon's Wrath Dart [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -529,7 +529,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range>20/60</range>
   </item>
   <item>
-    <name>Dragon's Wrath Flail</name>
+    <name>Dragon's Wrath Flail [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -562,7 +562,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Glaive</name>
+    <name>Dragon's Wrath Glaive [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -601,7 +601,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Greataxe</name>
+    <name>Dragon's Wrath Greataxe [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -638,7 +638,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Greatclub</name>
+    <name>Dragon's Wrath Greatclub [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -673,7 +673,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Greatsword</name>
+    <name>Dragon's Wrath Greatsword [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -710,7 +710,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Halberd</name>
+    <name>Dragon's Wrath Halberd [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -749,7 +749,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Hand Crossbow</name>
+    <name>Dragon's Wrath Hand Crossbow [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -793,7 +793,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range>30/120</range>
   </item>
   <item>
-    <name>Dragon's Wrath Handaxe</name>
+    <name>Dragon's Wrath Handaxe [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -832,7 +832,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range>20/60</range>
   </item>
   <item>
-    <name>Dragon's Wrath Heavy Crossbow</name>
+    <name>Dragon's Wrath Heavy Crossbow [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -878,7 +878,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range>100/400</range>
   </item>
   <item>
-    <name>Dragon's Wrath Javelin</name>
+    <name>Dragon's Wrath Javelin [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -915,7 +915,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range>30/120</range>
   </item>
   <item>
-    <name>Dragon's Wrath Lance</name>
+    <name>Dragon's Wrath Lance [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -952,7 +952,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Light Crossbow</name>
+    <name>Dragon's Wrath Light Crossbow [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -996,7 +996,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range>80/320</range>
   </item>
   <item>
-    <name>Dragon's Wrath Light Hammer</name>
+    <name>Dragon's Wrath Light Hammer [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1035,7 +1035,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range>20/60</range>
   </item>
   <item>
-    <name>Dragon's Wrath Longbow</name>
+    <name>Dragon's Wrath Longbow [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1081,7 +1081,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range>150/600</range>
   </item>
   <item>
-    <name>Dragon's Wrath Longsword</name>
+    <name>Dragon's Wrath Longsword [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1116,7 +1116,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Mace</name>
+    <name>Dragon's Wrath Mace [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1149,7 +1149,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Maul</name>
+    <name>Dragon's Wrath Maul [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1186,7 +1186,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Morningstar</name>
+    <name>Dragon's Wrath Morningstar [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1219,7 +1219,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Pike</name>
+    <name>Dragon's Wrath Pike [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1258,7 +1258,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Quarterstaff</name>
+    <name>Dragon's Wrath Quarterstaff [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1293,7 +1293,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Rapier</name>
+    <name>Dragon's Wrath Rapier [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1328,7 +1328,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Scimitar</name>
+    <name>Dragon's Wrath Scimitar [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1368,7 +1368,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Shortbow</name>
+    <name>Dragon's Wrath Shortbow [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1408,7 +1408,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range>80/320</range>
   </item>
   <item>
-    <name>Dragon's Wrath Shortsword</name>
+    <name>Dragon's Wrath Shortsword [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1445,7 +1445,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Sickle</name>
+    <name>Dragon's Wrath Sickle [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1480,7 +1480,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Sling</name>
+    <name>Dragon's Wrath Sling [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1518,7 +1518,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range>30/120</range>
   </item>
   <item>
-    <name>Dragon's Wrath Spear</name>
+    <name>Dragon's Wrath Spear [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1557,7 +1557,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range>20/60</range>
   </item>
   <item>
-    <name>Dragon's Wrath Trident</name>
+    <name>Dragon's Wrath Trident [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1596,7 +1596,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range>20/60</range>
   </item>
   <item>
-    <name>Dragon's Wrath War Pick</name>
+    <name>Dragon's Wrath War Pick [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1629,7 +1629,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Warhammer</name>
+    <name>Dragon's Wrath Warhammer [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1664,7 +1664,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Whip</name>
+    <name>Dragon's Wrath Whip [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1701,7 +1701,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range />
   </item>
   <item>
-    <name>Dragon's Wrath Yklwa</name>
+    <name>Dragon's Wrath Yklwa [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1738,7 +1738,7 @@ Source:	Fizban's Treasury of Dragons p. 25</text>
     <range>10/30</range>
   </item>
   <item>
-    <name>Dragonhide Belt</name>
+    <name>Dragonhide Belt [Legacy]</name>
     <detail>varies (requires attunement by a monk)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1753,7 +1753,7 @@ Very Rare | +3
 Source:	Fizban's Treasury of Dragons p. 23</text>
   </item>
   <item>
-    <name>Dragonlance Lance</name>
+    <name>Dragonlance Lance [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1778,7 +1778,7 @@ Proficiency: martial, lance</text>
     <roll>3d6</roll>
   </item>
   <item>
-    <name>Dragonlance Pike</name>
+    <name>Dragonlance Pike [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1806,7 +1806,7 @@ Source:	Fizban's Treasury of Dragons p. 23</text>
     <roll>3d6</roll>
   </item>
   <item>
-    <name>Emerald Pen</name>
+    <name>Emerald Pen [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1816,7 +1816,7 @@ Source:	Fizban's Treasury of Dragons p. 23</text>
 Source:	Fizban's Treasury of Dragons p. 23</text>
   </item>
   <item>
-    <name>Flail of Tiamat</name>
+    <name>Flail of Tiamat [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1839,7 +1839,7 @@ Source:	Fizban's Treasury of Dragons p. 23</text>
     <roll>14d6</roll>
   </item>
   <item>
-    <name>Gold Canary Figurine of Wondrous Power</name>
+    <name>Gold Canary Figurine of Wondrous Power [Legacy]</name>
     <detail>legendary</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1857,7 +1857,7 @@ The creature exists for a duration specific to each form. At the end of the dura
 Source:	Fizban's Treasury of Dragons p. 23</text>
   </item>
   <item>
-    <name>Platinum Scarf</name>
+    <name>Platinum Scarf [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1878,7 +1878,7 @@ Source:	Fizban's Treasury of Dragons p. 24</text>
     <roll>10d4</roll>
   </item>
   <item>
-    <name>Potion of Dragon's Majesty</name>
+    <name>Potion of Dragon's Majesty [Legacy]</name>
     <detail>legendary</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1888,7 +1888,7 @@ Source:	Fizban's Treasury of Dragons p. 24</text>
 Source:	Fizban's Treasury of Dragons p. 24</text>
   </item>
   <item>
-    <name>Ruby Weave Gem</name>
+    <name>Ruby Weave Gem [Legacy]</name>
     <detail>legendary (requires attunement by a spellcaster)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1902,7 +1902,7 @@ When you finish a long rest, choose a spell from any class list. The spell you c
 Source:	Fizban's Treasury of Dragons p. 24</text>
   </item>
   <item>
-    <name>Sapphire Buckler</name>
+    <name>Sapphire Buckler [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -1917,7 +1917,7 @@ Source:	Fizban's Treasury of Dragons p. 24</text>
     <roll>2d6</roll>
   </item>
   <item>
-    <name>Scaled Ornament</name>
+    <name>Scaled Ornament [Legacy]</name>
     <detail>varies (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1938,7 +1938,7 @@ The Ascendant ornament has the Stirring and Wakened properties. In addition, whi
 Source:	Fizban's Treasury of Dragons p. 27</text>
   </item>
   <item>
-    <name>Topaz Annihilator</name>
+    <name>Topaz Annihilator [Legacy]</name>
     <detail>firearm, legendary (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>

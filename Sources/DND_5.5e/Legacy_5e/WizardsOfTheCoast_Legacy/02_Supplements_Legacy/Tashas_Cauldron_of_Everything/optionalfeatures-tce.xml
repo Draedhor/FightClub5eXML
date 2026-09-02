@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Infusion: Arcane Propulsion Armor (Level 14)</name>
+    <name>Infusion: Arcane Propulsion Armor (Level 14) [Legacy]</name>
     <level>0</level>
     <school>EN</school>
     <time>1 action</time>
@@ -25,7 +25,7 @@ The wearer of this armor gains these benefits:
 Source:	Tasha's Cauldron of Everything p. 20</text>
   </spell>
   <spell>
-    <name>Infusion: Armor of Magical Strength</name>
+    <name>Infusion: Armor of Magical Strength [Legacy]</name>
     <level>0</level>
     <school>EN</school>
     <time>1 action</time>
@@ -46,7 +46,7 @@ The armor regains 1d6 expended charges daily at dawn.
 Source:	Tasha's Cauldron of Everything p. 20</text>
   </spell>
   <spell>
-    <name>Infusion: Boots of the Winding Path (Level 6)</name>
+    <name>Infusion: Boots of the Winding Path (Level 6) [Legacy]</name>
     <level>0</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -63,7 +63,7 @@ While wearing these boots, a creature can teleport up to 15 feet as a bonus acti
 Source:	Eberron: Rising from the Last War p. 62, Tasha's Cauldron of Everything p. 21</text>
   </spell>
   <spell>
-    <name>Infusion: Enhanced Arcane Focus</name>
+    <name>Infusion: Enhanced Arcane Focus [Legacy]</name>
     <level>0</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -81,7 +81,7 @@ The bonus increases to +2 when you reach 10th level in this class.
 Source:	Eberron: Rising from the Last War p. 62, Tasha's Cauldron of Everything p. 21</text>
   </spell>
   <spell>
-    <name>Infusion: Enhanced Defense</name>
+    <name>Infusion: Enhanced Defense [Legacy]</name>
     <level>0</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -99,7 +99,7 @@ The bonus increases to +2 when you reach 10th level in this class.
 Source:	Eberron: Rising from the Last War p. 62, Tasha's Cauldron of Everything p. 21</text>
   </spell>
   <spell>
-    <name>Infusion: Enhanced Weapon</name>
+    <name>Infusion: Enhanced Weapon [Legacy]</name>
     <level>0</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -117,7 +117,7 @@ The bonus increases to +2 when you reach 10th level in this class.
 Source:	Eberron: Rising from the Last War p. 62, Tasha's Cauldron of Everything p. 21</text>
   </spell>
   <spell>
-    <name>Infusion: Helm of Awareness (Level 10)</name>
+    <name>Infusion: Helm of Awareness (Level 10) [Legacy]</name>
     <level>0</level>
     <school>EN</school>
     <time>1 action</time>
@@ -132,7 +132,7 @@ While wearing this helmet, a creature has advantage on initiative rolls. In addi
 Source:	Tasha's Cauldron of Everything p. 21</text>
   </spell>
   <spell>
-    <name>Infusion: Homunculus Servant</name>
+    <name>Infusion: Homunculus Servant [Legacy]</name>
     <level>0</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -156,7 +156,7 @@ The homunculus regains 2d6 hit points if the mending spell is cast on it. If you
 Source:	Eberron: Rising from the Last War p. 62, Tasha's Cauldron of Everything p. 21</text>
   </spell>
   <spell>
-    <name>Infusion: Mind Sharpener</name>
+    <name>Infusion: Mind Sharpener [Legacy]</name>
     <level>0</level>
     <school>EN</school>
     <time>1 action</time>
@@ -171,7 +171,7 @@ The infused item can send a jolt to the wearer to refocus their mind. The item h
 Source:	Tasha's Cauldron of Everything p. 22</text>
   </spell>
   <spell>
-    <name>Infusion: Radiant Weapon (Level 6)</name>
+    <name>Infusion: Radiant Weapon (Level 6) [Legacy]</name>
     <level>0</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -190,7 +190,7 @@ The weapon has 4 charges. As a reaction immediately after being hit by an attack
 Source:	Eberron: Rising from the Last War p. 62, Tasha's Cauldron of Everything p. 22</text>
   </spell>
   <spell>
-    <name>Infusion: Repeating Shot</name>
+    <name>Infusion: Repeating Shot [Legacy]</name>
     <level>0</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -208,7 +208,7 @@ If the weapon lacks ammunition, it produces its own, automatically creating one 
 Source:	Eberron: Rising from the Last War p. 62, Tasha's Cauldron of Everything p. 22</text>
   </spell>
   <spell>
-    <name>Infusion: Replicate Magic Item</name>
+    <name>Infusion: Replicate Magic Item [Legacy]</name>
     <level>0</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -291,7 +291,7 @@ Ring of the ram | Yes
 Source:	Eberron: Rising from the Last War p. 63, Tasha's Cauldron of Everything p. 22</text>
   </spell>
   <spell>
-    <name>Infusion: Repulsion Shield (Level 6)</name>
+    <name>Infusion: Repulsion Shield (Level 6) [Legacy]</name>
     <level>0</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -310,7 +310,7 @@ The shield has 4 charges. While holding it, the wielder can use a reaction immed
 Source:	Eberron: Rising from the Last War p. 63, Tasha's Cauldron of Everything p. 23</text>
   </spell>
   <spell>
-    <name>Infusion: Resistant Armor (Level 6)</name>
+    <name>Infusion: Resistant Armor (Level 6) [Legacy]</name>
     <level>0</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -327,7 +327,7 @@ While wearing this armor, a creature has resistance to one of the following dama
 Source:	Eberron: Rising from the Last War p. 63, Tasha's Cauldron of Everything p. 23</text>
   </spell>
   <spell>
-    <name>Infusion: Returning Weapon</name>
+    <name>Infusion: Returning Weapon [Legacy]</name>
     <level>0</level>
     <school>EN</school>
     <ritual>NO</ritual>
@@ -343,7 +343,7 @@ This magic weapon grants a +1 bonus to attack and damage rolls made with it, and
 Source:	Eberron: Rising from the Last War p. 63, Tasha's Cauldron of Everything p. 23</text>
   </spell>
   <spell>
-    <name>Infusion: Spell-Refueling Ring (Level 6)</name>
+    <name>Infusion: Spell-Refueling Ring (Level 6) [Legacy]</name>
     <level>0</level>
     <school>EN</school>
     <time>1 action</time>
@@ -360,7 +360,7 @@ Source:	Tasha's Cauldron of Everything p. 23</text>
   </spell>
 
   <spell>
-    <name>Invocation: Pact of the Talisman</name>
+    <name>Invocation: Pact of the Talisman [Legacy]</name>
     <level>0</level>
     <time />
     <range />
@@ -374,7 +374,7 @@ If you lose the talisman, you can perform a 1-hour ceremony to receive a replace
 Source:	Tasha's Cauldron of Everything p. 105</text>
   </spell>
   <spell>
-    <name>Invocation: Bond of the Talisman</name>
+    <name>Invocation: Bond of the Talisman [Legacy]</name>
     <level>0</level>
     <time />
     <range />
@@ -388,7 +388,7 @@ While someone else is wearing your talisman, you can use your action to teleport
 Source:	Tasha's Cauldron of Everything p. 70</text>
   </spell>
   <spell>
-    <name>Invocation: Far Scribe</name>
+    <name>Invocation: Far Scribe [Legacy]</name>
     <level>0</level>
     <time />
     <range />
@@ -406,7 +406,7 @@ As an action, you can magically erase a name on the page by touching it.
 Source:	Tasha's Cauldron of Everything p. 71</text>
   </spell>
   <spell>
-    <name>Invocation: Protection of the Talisman</name>
+    <name>Invocation: Protection of the Talisman [Legacy]</name>
     <level>0</level>
     <time />
     <range />
@@ -420,7 +420,7 @@ When the wearer of your talisman fails a saving throw, they can add a d4 to the 
 Source:	Tasha's Cauldron of Everything p. 71</text>
   </spell>
   <spell>
-    <name>Invocation: Rebuke of the Talisman</name>
+    <name>Invocation: Rebuke of the Talisman [Legacy]</name>
     <level>0</level>
     <time />
     <range />
@@ -434,7 +434,7 @@ When the wearer of your talisman is hit by an attacker you can see within 30 fee
 Source:	Tasha's Cauldron of Everything p. 71</text>
   </spell>
   <spell>
-    <name>Invocation: Undying Servitude</name>
+    <name>Invocation: Undying Servitude [Legacy]</name>
     <level>0</level>
     <time />
     <range />
@@ -449,7 +449,7 @@ Source:	Tasha's Cauldron of Everything p. 71</text>
   </spell>
 
   <spell>
-    <name>Rune: Cloud Rune</name>
+    <name>Rune: Cloud Rune [Legacy]</name>
     <level>0</level>
     <time />
     <range />
@@ -463,7 +463,7 @@ In addition, when you or a creature you can see within 30 feet of you is hit by 
 Source:	Tasha's Cauldron of Everything p. 44</text>
   </spell>
   <spell>
-    <name>Rune: Fire Rune</name>
+    <name>Rune: Fire Rune [Legacy]</name>
     <level>0</level>
     <time />
     <range />
@@ -477,7 +477,7 @@ In addition, when you hit a creature with an attack using a weapon, you can invo
 Source:	Tasha's Cauldron of Everything p. 44</text>
   </spell>
   <spell>
-    <name>Rune: Frost Rune</name>
+    <name>Rune: Frost Rune [Legacy]</name>
     <level>0</level>
     <time />
     <range />
@@ -491,7 +491,7 @@ In addition, you can invoke the rune as a bonus action to increase your sturdine
 Source:	Tasha's Cauldron of Everything p. 44</text>
   </spell>
   <spell>
-    <name>Rune: Stone Rune</name>
+    <name>Rune: Stone Rune [Legacy]</name>
     <level>0</level>
     <time />
     <range />
@@ -505,7 +505,7 @@ In addition, when a creature you can see ends its turn within 30 feet of you, yo
 Source:	Tasha's Cauldron of Everything p. 44</text>
   </spell>
   <spell>
-    <name>Rune: Hill Rune</name>
+    <name>Rune: Hill Rune [Legacy]</name>
     <level>0</level>
     <time />
     <range />
@@ -521,7 +521,7 @@ In addition, you can invoke the rune as a bonus action, gaining resistance to bl
 Source:	Tasha's Cauldron of Everything p. 44</text>
   </spell>
   <spell>
-    <name>Rune: Storm Rune</name>
+    <name>Rune: Storm Rune [Legacy]</name>
     <level>0</level>
     <time />
     <range />
@@ -538,7 +538,7 @@ Source:	Tasha's Cauldron of Everything p. 44</text>
   </spell>
   
   <spell>
-    <name>Maneuver: Grappling Strike</name>
+    <name>Maneuver: Grappling Strike [Legacy]</name>
     <level>0</level>
     <time />
     <range />
@@ -550,7 +550,7 @@ Source:	Tasha's Cauldron of Everything p. 44</text>
 Source:	Tasha's Cauldron of Everything p. 42</text>
   </spell>
   <spell>
-    <name>Maneuver: Quick Toss</name>
+    <name>Maneuver: Quick Toss [Legacy]</name>
     <level>0</level>
     <time />
     <range />
@@ -565,7 +565,7 @@ Source:	Tasha's Cauldron of Everything p. 42</text>
 
 
   <feat>
-    <name>Fighting Style: Superior Technique</name>
+    <name>Fighting Style: Superior Technique [Legacy]</name>
     <prerequisite>Fighting Style Feature</prerequisite>
     <text>You learn one maneuver of your choice from among those available to the fighter archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 
@@ -575,7 +575,7 @@ Source:	Tasha's Cauldron of Everything p. 41</text>
     <special>Fighting Style: Superior Technique</special>
   </feat>
   <feat>
-    <name>Fighting Style: Blessed Warrior</name>
+    <name>Fighting Style: Blessed Warrior [Legacy]</name>
     <prerequisite>Fighting Style Feature, Paladin</prerequisite>
     <text>You learn two cantrips of your choice from the cleric spell list. They count as paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the cleric spell list.
 
@@ -583,7 +583,7 @@ Source:	Tasha's Cauldron of Everything p. 52</text>
     <special>Fighting Style: Blessed Warrior</special>
   </feat>
   <feat>
-    <name>Fighting Style: Druidic Warrior</name>
+    <name>Fighting Style: Druidic Warrior [Legacy]</name>
     <prerequisite>Fighting Style Feature, Ranger</prerequisite>
     <text>You learn two cantrips of your choice from the druid spell list. They count as ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.
 

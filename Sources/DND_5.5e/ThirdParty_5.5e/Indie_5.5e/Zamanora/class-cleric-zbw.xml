@@ -262,83 +262,83 @@ Source:	Zamanora: Ballad of the Witch p. 71 (Homebrew)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Aid (TP)</name>
+    <name>Aid [TP]</name>
     <classes>Cleric (Hearth Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Alarm (TP)</name>
+    <name>Alarm [TP]</name>
     <classes>Cleric (Hearth Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Beacon of Hope (TP)</name>
+    <name>Beacon of Hope [TP]</name>
     <classes>Cleric (Hearth Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Bestow Grace (TP)</name>
+    <name>Bestow Grace [TP]</name>
     <classes>Cleric (Hearth Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Calm Emotions (TP)</name>
+    <name>Calm Emotions [TP]</name>
     <classes>Cleric (Hearth Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Guardian of Faith (TP)</name>
+    <name>Guardian of Faith [TP]</name>
     <classes>Cleric (Hearth Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Hallow (TP)</name>
+    <name>Hallow [TP]</name>
     <classes>Cleric (Hearth Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Private Sanctum (TP)</name>
+    <name>Private Sanctum [TP]</name>
     <classes>Cleric (Hearth Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Sanctuary (TP)</name>
+    <name>Sanctuary [TP]</name>
     <classes>Cleric (Hearth Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Telepathic Bond (TP)</name>
+    <name>Telepathic Bond [TP]</name>
     <classes>Cleric (Hearth Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Expeditious Retreat (TP)</name>
+    <name>Expeditious Retreat [TP]</name>
     <classes>Cleric (Journey Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Gust of Wind (TP)</name>
+    <name>Gust of Wind [TP]</name>
     <classes>Cleric (Journey Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Long Strider (TP)</name>
+    <name>Long Strider [TP]</name>
     <classes>Cleric (Journey Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Pass without Trace (TP)</name>
+    <name>Pass without Trace [TP]</name>
     <classes>Cleric (Journey Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Fly (TP)</name>
+    <name>Fly [TP]</name>
     <classes>Cleric (Journey Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Wind Wall (TP)</name>
+    <name>Wind Wall [TP]</name>
     <classes>Cleric (Journey Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement (TP)</name>
+    <name>Freedom of Movement [TP]</name>
     <classes>Cleric (Journey Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Outward Gale (TP)</name>
+    <name>Outward Gale [TP]</name>
     <classes>Cleric (Journey Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Passwall (TP)</name>
+    <name>Passwall [TP]</name>
     <classes>Cleric (Journey Domain (HB))</classes>
   </spell>
   <spell>
-    <name>Tree Stride (TP)</name>
+    <name>Tree Stride [TP]</name>
     <classes>Cleric (Journey Domain (HB))</classes>
   </spell>
 </compendium>

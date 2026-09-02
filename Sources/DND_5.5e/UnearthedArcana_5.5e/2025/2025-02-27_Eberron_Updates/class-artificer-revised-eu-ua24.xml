@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Artificer Revised (UA)</name>
+    <name>Artificer Revised [UA]</name>
     <hd>8</hd>
     <proficiency>Constitution, Intelligence, Arcana, History, Investigation, Medicine, Nature, Perception, Sleight of Hand</proficiency>
     <numSkills>2</numSkills>
@@ -897,491 +897,491 @@ Source:	UA2024-Eberron Updates p. 7</text>
     </autolevel>
   </class>
   <spell>
-    <name>Cloudkill (UA)</name>
-    <classes>Artificer Revised (UA) (Alchemist)</classes>
+    <name>Cloudkill [UA]</name>
+    <classes>Artificer Revised [UA] (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Acid Splash (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Acid Splash [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Aid (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Aid [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Alarm (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Alarm [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Alter Self (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Alter Self [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Animate Objects (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Animate Objects [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Arcane Eye (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Arcane Eye [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Arcane Lock (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Arcane Lock [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Arcane Vigor (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Arcane Vigor [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Aura of Purity (UA)</name>
-    <classes>Artificer Revised (UA) (Battle Smith)</classes>
+    <name>Aura of Purity [UA]</name>
+    <classes>Artificer Revised [UA] (Battle Smith)</classes>
   </spell>
   <spell>
-    <name>Aura of Vitality (UA)</name>
-    <classes>Artificer Revised (UA) (Battle Smith)</classes>
+    <name>Aura of Vitality [UA]</name>
+    <classes>Artificer Revised [UA] (Battle Smith)</classes>
   </spell>
   <spell>
-    <name>Banishing Smite (UA)</name>
-    <classes>Artificer Revised (UA) (Battle Smith)</classes>
+    <name>Banishing Smite [UA]</name>
+    <classes>Artificer Revised [UA] (Battle Smith)</classes>
   </spell>
   <spell>
-    <name>Bigby's Hand (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Bigby's Hand [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Blink (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Blink [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Blur (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Blur [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Circle of Power (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Circle of Power [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Clairvoyance (UA)</name>
-    <classes>Artificer Revised (UA) (Cartographer)</classes>
+    <name>Clairvoyance [UA]</name>
+    <classes>Artificer Revised [UA] (Cartographer)</classes>
   </spell>
   <spell>
-    <name>Cone of Cold (UA)</name>
-    <classes>Artificer Revised (UA) (Artillerist)</classes>
+    <name>Cone of Cold [UA]</name>
+    <classes>Artificer Revised [UA] (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Conjure Barrage (UA)</name>
-    <classes>Artificer Revised (UA) (Battle Smith)</classes>
+    <name>Conjure Barrage [UA]</name>
+    <classes>Artificer Revised [UA] (Battle Smith)</classes>
   </spell>
   <spell>
-    <name>Continual Flame (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Continual Flame [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Create Food and Water (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Create Food and Water [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Creation (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Creation [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Cure Wounds (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Cure Wounds [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Dancing Lights (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Dancing Lights [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Darkvision (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Darkvision [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Death Ward (UA)</name>
-    <classes>Artificer Revised (UA) (Alchemist)</classes>
+    <name>Death Ward [UA]</name>
+    <classes>Artificer Revised [UA] (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Detect Magic (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Detect Magic [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Disguise Self (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Disguise Self [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Dispel Magic (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Dispel Magic [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Dragon's Breath (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Dragon's Breath [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Elemental Weapon (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Elemental Weapon [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Elementalism (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Elementalism [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Enhance Ability (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Enhance Ability [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Enlarge/Reduce (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Enlarge/Reduce [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Expeditious Retreat (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Expeditious Retreat [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Fabricate (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Fabricate [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Faerie Fire (UA)</name>
-    <classes>Artificer Revised (UA), Artificer Revised (UA) (Cartographer)</classes>
+    <name>Faerie Fire [UA]</name>
+    <classes>Artificer Revised [UA], Artificer Revised [UA] (Cartographer)</classes>
   </spell>
   <spell>
-    <name>False Life (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>False Life [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Feather Fall (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Feather Fall [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Fire Bolt (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Fire Bolt [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Fire Shield (UA)</name>
-    <classes>Artificer Revised (UA) (Armorer), Artificer Revised (UA) (Battle Smith)</classes>
+    <name>Fire Shield [UA]</name>
+    <classes>Artificer Revised [UA] (Armorer), Artificer Revised [UA] (Battle Smith)</classes>
   </spell>
   <spell>
-    <name>Fireball (UA)</name>
-    <classes>Artificer Revised (UA) (Artillerist)</classes>
+    <name>Fireball [UA]</name>
+    <classes>Artificer Revised [UA] (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Flaming Sphere (UA)</name>
-    <classes>Artificer Revised (UA) (Alchemist)</classes>
+    <name>Flaming Sphere [UA]</name>
+    <classes>Artificer Revised [UA] (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Fly (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Fly [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement (UA)</name>
-    <classes>Artificer Revised (UA), Artificer Revised (UA) (Cartographer)</classes>
+    <name>Freedom of Movement [UA]</name>
+    <classes>Artificer Revised [UA], Artificer Revised [UA] (Cartographer)</classes>
   </spell>
   <spell>
-    <name>Gaseous Form (UA)</name>
-    <classes>Artificer Revised (UA) (Alchemist)</classes>
+    <name>Gaseous Form [UA]</name>
+    <classes>Artificer Revised [UA] (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Glyph of Warding (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Glyph of Warding [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Grease (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Grease [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Greater Invisibility (UA)</name>
-    <classes>Artificer Revised (UA) (Armorer)</classes>
+    <name>Greater Invisibility [UA]</name>
+    <classes>Artificer Revised [UA] (Armorer)</classes>
   </spell>
   <spell>
-    <name>Greater Restoration (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Greater Restoration [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Guidance (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Guidance [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Guiding Bolt (UA)</name>
-    <classes>Artificer Revised (UA) (Cartographer)</classes>
+    <name>Guiding Bolt [UA]</name>
+    <classes>Artificer Revised [UA] (Cartographer)</classes>
   </spell>
   <spell>
-    <name>Haste (UA)</name>
-    <classes>Artificer Revised (UA), Artificer Revised (UA) (Cartographer)</classes>
+    <name>Haste [UA]</name>
+    <classes>Artificer Revised [UA], Artificer Revised [UA] (Cartographer)</classes>
   </spell>
   <spell>
-    <name>Healing Word (UA)</name>
-    <classes>Artificer Revised (UA) (Cartographer), Artificer Revised (UA) (Alchemist)</classes>
+    <name>Healing Word [UA]</name>
+    <classes>Artificer Revised [UA] (Cartographer), Artificer Revised [UA] (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Heat Metal (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Heat Metal [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Heroism (UA)</name>
-    <classes>Artificer Revised (UA) (Battle Smith)</classes>
+    <name>Heroism [UA]</name>
+    <classes>Artificer Revised [UA] (Battle Smith)</classes>
   </spell>
   <spell>
-    <name>Hypnotic Pattern (UA)</name>
-    <classes>Artificer Revised (UA) (Armorer)</classes>
+    <name>Hypnotic Pattern [UA]</name>
+    <classes>Artificer Revised [UA] (Armorer)</classes>
   </spell>
   <spell>
-    <name>Ice Storm (UA)</name>
-    <classes>Artificer Revised (UA) (Artillerist)</classes>
+    <name>Ice Storm [UA]</name>
+    <classes>Artificer Revised [UA] (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Identify (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Identify [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Invisibility (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Invisibility [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Jump (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Jump [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Leomund's Secret Chest (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Leomund's Secret Chest [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Lesser Restoration [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Levitate (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Levitate [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Light (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Light [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Lightning Bolt (UA)</name>
-    <classes>Artificer Revised (UA) (Armorer)</classes>
+    <name>Lightning Bolt [UA]</name>
+    <classes>Artificer Revised [UA] (Armorer)</classes>
   </spell>
   <spell>
-    <name>Locate Creature (UA)</name>
-    <classes>Artificer Revised (UA) (Cartographer)</classes>
+    <name>Locate Creature [UA]</name>
+    <classes>Artificer Revised [UA] (Cartographer)</classes>
   </spell>
   <spell>
-    <name>Locate Object (UA)</name>
-    <classes>Artificer Revised (UA) (Cartographer)</classes>
+    <name>Locate Object [UA]</name>
+    <classes>Artificer Revised [UA] (Cartographer)</classes>
   </spell>
   <spell>
-    <name>Longstrider (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Longstrider [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Mage Hand (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Mage Hand [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Magic Missile (UA)</name>
-    <classes>Artificer Revised (UA) (Armorer)</classes>
+    <name>Magic Missile [UA]</name>
+    <classes>Artificer Revised [UA] (Armorer)</classes>
   </spell>
   <spell>
-    <name>Magic Mouth (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Magic Mouth [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Magic Weapon (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Magic Weapon [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Mass Cure Wounds (UA)</name>
-    <classes>Artificer Revised (UA) (Battle Smith)</classes>
+    <name>Mass Cure Wounds [UA]</name>
+    <classes>Artificer Revised [UA] (Battle Smith)</classes>
   </spell>
   <spell>
-    <name>Mass Healing Word (UA)</name>
-    <classes>Artificer Revised (UA) (Alchemist)</classes>
+    <name>Mass Healing Word [UA]</name>
+    <classes>Artificer Revised [UA] (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Melf's Acid Arrow (UA)</name>
-    <classes>Artificer Revised (UA) (Alchemist)</classes>
+    <name>Melf's Acid Arrow [UA]</name>
+    <classes>Artificer Revised [UA] (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Mending (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Mending [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Message (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Message [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Mind Spike (UA)</name>
-    <classes>Artificer Revised (UA) (Cartographer)</classes>
+    <name>Mind Spike [UA]</name>
+    <classes>Artificer Revised [UA] (Cartographer)</classes>
   </spell>
   <spell>
-    <name>Mirror Image (UA)</name>
-    <classes>Artificer Revised (UA) (Armorer)</classes>
+    <name>Mirror Image [UA]</name>
+    <classes>Artificer Revised [UA] (Armorer)</classes>
   </spell>
   <spell>
-    <name>Mordenkainen's Faithful Hound (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Mordenkainen's Faithful Hound [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Mordenkainen's Private Sanctum (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Mordenkainen's Private Sanctum [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Otiluke's Resilient Sphere (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Otiluke's Resilient Sphere [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Passwall (UA)</name>
-    <classes>Artificer Revised (UA) (Armorer)</classes>
+    <name>Passwall [UA]</name>
+    <classes>Artificer Revised [UA] (Armorer)</classes>
   </spell>
   <spell>
-    <name>Poison Spray (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Poison Spray [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Prestidigitation (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Prestidigitation [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Protection from Energy (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Protection from Energy [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Protection from Poison (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Protection from Poison [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Purify Food and Drink (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Purify Food and Drink [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Raise Dead (UA)</name>
-    <classes>Artificer Revised (UA) (Alchemist)</classes>
+    <name>Raise Dead [UA]</name>
+    <classes>Artificer Revised [UA] (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Ray of Frost (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Ray of Frost [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Ray of Sickness (UA)</name>
-    <classes>Artificer Revised (UA) (Alchemist)</classes>
+    <name>Ray of Sickness [UA]</name>
+    <classes>Artificer Revised [UA] (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Resistance (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Resistance [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Revivify (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Revivify [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Rope Trick (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Rope Trick [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Sanctuary (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Sanctuary [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Scorching Ray (UA)</name>
-    <classes>Artificer Revised (UA) (Artillerist)</classes>
+    <name>Scorching Ray [UA]</name>
+    <classes>Artificer Revised [UA] (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Scrying (UA)</name>
-    <classes>Artificer Revised (UA) (Cartographer)</classes>
+    <name>Scrying [UA]</name>
+    <classes>Artificer Revised [UA] (Cartographer)</classes>
   </spell>
   <spell>
-    <name>See Invisibility (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>See Invisibility [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Shatter (UA)</name>
-    <classes>Artificer Revised (UA) (Armorer), Artificer Revised (UA) (Artillerist)</classes>
+    <name>Shatter [UA]</name>
+    <classes>Artificer Revised [UA] (Armorer), Artificer Revised [UA] (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Shield (UA)</name>
-    <classes>Artificer Revised (UA) (Artillerist), Artificer Revised (UA) (Battle Smith)</classes>
+    <name>Shield [UA]</name>
+    <classes>Artificer Revised [UA] (Artillerist), Artificer Revised [UA] (Battle Smith)</classes>
   </spell>
   <spell>
-    <name>Shining Smite (UA)</name>
-    <classes>Artificer Revised (UA) (Battle Smith)</classes>
+    <name>Shining Smite [UA]</name>
+    <classes>Artificer Revised [UA] (Battle Smith)</classes>
   </spell>
   <spell>
-    <name>Shocking Grasp (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Shocking Grasp [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Spare the Dying (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Spare the Dying [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Spider Climb (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Spider Climb [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Stone Shape (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Stone Shape [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Stoneskin (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Stoneskin [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Summon Construct (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Summon Construct [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Teleportation Circle (UA)</name>
-    <classes>Artificer Revised (UA) (Cartographer)</classes>
+    <name>Teleportation Circle [UA]</name>
+    <classes>Artificer Revised [UA] (Cartographer)</classes>
   </spell>
   <spell>
-    <name>Thorn Whip (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Thorn Whip [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Thunderclap (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Thunderclap [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Thunderwave (UA)</name>
-    <classes>Artificer Revised (UA) (Armorer), Artificer Revised (UA) (Artillerist)</classes>
+    <name>Thunderwave [UA]</name>
+    <classes>Artificer Revised [UA] (Armorer), Artificer Revised [UA] (Artillerist)</classes>
   </spell>
   <spell>
-    <name>True Strike (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>True Strike [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Vitriolic Sphere (UA)</name>
-    <classes>Artificer Revised (UA) (Alchemist)</classes>
+    <name>Vitriolic Sphere [UA]</name>
+    <classes>Artificer Revised [UA] (Alchemist)</classes>
   </spell>
   <spell>
-    <name>Wall of Fire (UA)</name>
-    <classes>Artificer Revised (UA) (Artillerist)</classes>
+    <name>Wall of Fire [UA]</name>
+    <classes>Artificer Revised [UA] (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Wall of Force (UA)</name>
-    <classes>Artificer Revised (UA) (Armorer), Artificer Revised (UA) (Artillerist)</classes>
+    <name>Wall of Force [UA]</name>
+    <classes>Artificer Revised [UA] (Armorer), Artificer Revised [UA] (Artillerist)</classes>
   </spell>
   <spell>
-    <name>Wall of Stone (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Wall of Stone [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Warding Bond (UA)</name>
-    <classes>Artificer Revised (UA) (Battle Smith)</classes>
+    <name>Warding Bond [UA]</name>
+    <classes>Artificer Revised [UA] (Battle Smith)</classes>
   </spell>
   <spell>
-    <name>Water Breathing (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Water Breathing [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Water Walk (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Water Walk [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Web (UA)</name>
-    <classes>Artificer Revised (UA)</classes>
+    <name>Web [UA]</name>
+    <classes>Artificer Revised [UA]</classes>
   </spell>
   <spell>
-    <name>Wind Wall (UA)</name>
-    <classes>Artificer Revised (UA) (Artillerist)</classes>
+    <name>Wind Wall [UA]</name>
+    <classes>Artificer Revised [UA] (Artillerist)</classes>
   </spell>
 </compendium>

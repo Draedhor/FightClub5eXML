@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Afsoun Ghorbani</name>
+    <name>Afsoun Ghorbani [Legacy]</name>
     <size>M</size>
     <type>humanoid (elf)</type>
     <alignment>chaotic good</alignment>
@@ -64,7 +64,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Amanisha Manivarshi</name>
+    <name>Amanisha Manivarshi [Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>neutral good</alignment>
@@ -118,7 +118,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Ameyali</name>
+    <name>Ameyali [Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>neutral good</alignment>
@@ -169,7 +169,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Ashen Heir Anarchist</name>
+    <name>Ashen Heir Anarchist [Legacy]</name>
     <sortname>Ashen Heir, Anarchist</sortname>
     <ancestry>Anarchist</ancestry>
     <npc>YES</npc>
@@ -223,7 +223,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Ashen Heir Assassin</name>
+    <name>Ashen Heir Assassin [Legacy]</name>
     <sortname>Ashen Heir, Assassin</sortname>
     <ancestry>Assassin</ancestry>
     <npc>YES</npc>
@@ -284,7 +284,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Ashen Heir Mage</name>
+    <name>Ashen Heir Mage [Legacy]</name>
     <sortname>Ashen Heir, Mage</sortname>
     <ancestry>Mage</ancestry>
     <npc>YES</npc>
@@ -336,7 +336,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Ashen Heir Veteran</name>
+    <name>Ashen Heir Veteran [Legacy]</name>
     <sortname>Ashen Heir, Veteran</sortname>
     <ancestry>Veteran</ancestry>
     <npc>YES</npc>
@@ -390,7 +390,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Atash</name>
+    <name>Atash [Legacy]</name>
     <size>L</size>
     <type>celestial</type>
     <alignment>Lawful Neutral</alignment>
@@ -482,7 +482,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Atiba-Pa</name>
+    <name>Atiba-Pa [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -534,7 +534,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Aunt Dellie</name>
+    <name>Aunt Dellie [Legacy]</name>
     <sortname>Aunt, Dellie</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -572,7 +572,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Aurumvorax</name>
+    <name>Aurumvorax [Legacy]</name>
     <ancestry>Aurumvorax</ancestry>
     <size>S</size>
     <type>monstrosity</type>
@@ -622,7 +622,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Aurumvorax Den Leader</name>
+    <name>Aurumvorax Den Leader [Legacy]</name>
     <sortname>Aurumvorax, Den Leader</sortname>
     <ancestry>Aurumvorax</ancestry>
     <size>M</size>
@@ -685,7 +685,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Azra Nir</name>
+    <name>Azra Nir [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -731,7 +731,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Bakunawa</name>
+    <name>Bakunawa [Legacy]</name>
     <size>G</size>
     <type>dragon</type>
     <alignment>typically neutral</alignment>
@@ -802,7 +802,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Brother Broumane</name>
+    <name>Brother Broumane [Legacy]</name>
     <sortname>Brother, Broumane</sortname>
     <ancestry>Brother</ancestry>
     <npc>YES</npc>
@@ -846,7 +846,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Dinosaur Skeleton</name>
+    <name>Dinosaur Skeleton [Legacy]</name>
     <sortname>Skeleton, Dinosaur</sortname>
     <ancestry>Skeleton, Dinosaur</ancestry>
     <size>L</size>
@@ -893,7 +893,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Diva</name>
+    <name>Diva [Legacy]</name>
     <ancestry>Diva</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -939,7 +939,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Diva Luma</name>
+    <name>Diva Luma [Legacy]</name>
     <sortname>Diva, Luma</sortname>
     <ancestry>Diva</ancestry>
     <npc>YES</npc>
@@ -995,7 +995,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Djeneba</name>
+    <name>Djeneba [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -1045,7 +1045,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Dragon Hunter</name>
+    <name>Dragon Hunter [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -1097,7 +1097,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Dukha Bhatiyali</name>
+    <name>Dukha Bhatiyali [Legacy]</name>
     <sortname>Bhatiyali, Dukha</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1166,7 +1166,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Gammon Xungoon</name>
+    <name>Gammon Xungoon [Legacy]</name>
     <sortname>Xungoon, Gammon</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -1212,7 +1212,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Haint</name>
+    <name>Haint [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>typically neutral</alignment>
@@ -1269,7 +1269,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Jade Soldier Statue</name>
+    <name>Jade Soldier Statue [Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -1326,7 +1326,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Jijibisha Manivarshi</name>
+    <name>Jijibisha Manivarshi [Legacy]</name>
     <sortname>Manivarshi, Jijibisha</sortname>
     <size>M</size>
     <type>fiend (yugoloth)</type>
@@ -1392,7 +1392,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Kala Mabarin</name>
+    <name>Kala Mabarin [Legacy]</name>
     <sortname>Mabarin, Kala</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1442,7 +1442,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Kasem Aroon</name>
+    <name>Kasem Aroon [Legacy]</name>
     <sortname>Aroon, Kasem</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1484,7 +1484,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Kedjou Kamal</name>
+    <name>Kedjou Kamal [Legacy]</name>
     <sortname>Kamal, Kedjou</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1537,7 +1537,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Kianna</name>
+    <name>Kianna [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -1574,7 +1574,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Koi Prawn</name>
+    <name>Koi Prawn [Legacy]</name>
     <sortname>Koi, Prawn</sortname>
     <ancestry>Koi</ancestry>
     <size>L</size>
@@ -1620,7 +1620,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Kun Ahn-Jun</name>
+    <name>Kun Ahn-Jun [Legacy]</name>
     <sortname>Ahn-Jun, Kun</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1662,7 +1662,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Kusa Xungoon</name>
+    <name>Kusa Xungoon [Legacy]</name>
     <sortname>Xungoon, Kusa</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -1712,7 +1712,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Lady Dre</name>
+    <name>Lady Dre [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -1762,7 +1762,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Laleh Ghorbani</name>
+    <name>Laleh Ghorbani [Legacy]</name>
     <sortname>Ghorbani, Laleh</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1817,7 +1817,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Lamai Tyenmo</name>
+    <name>Lamai Tyenmo [Legacy]</name>
     <sortname>Tyenmo, Lamai</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -1859,7 +1859,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Lu Zhong Yin</name>
+    <name>Lu Zhong Yin [Legacy]</name>
     <sortname>Zhong Yin, Lu</sortname>
     <ancestry>Zhong Yin</ancestry>
     <npc>YES</npc>
@@ -1916,7 +1916,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Lungtian</name>
+    <name>Lungtian [Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>chaotic good</alignment>
@@ -1980,7 +1980,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Madam Kulp</name>
+    <name>Madam Kulp [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (gnome)</type>
@@ -2025,7 +2025,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Myx Nargis Ruba</name>
+    <name>Myx Nargis Ruba [Legacy]</name>
     <sortname>Nargis Ruba, Myx</sortname>
     <ancestry>Nargis Ruba</ancestry>
     <npc>YES</npc>
@@ -2072,7 +2072,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Navid</name>
+    <name>Navid [Legacy]</name>
     <size>L</size>
     <type>elemental</type>
     <alignment>Lawful Evil</alignment>
@@ -2130,7 +2130,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Nene</name>
+    <name>Nene [Legacy]</name>
     <size>T</size>
     <type>fey</type>
     <alignment>Unaligned</alignment>
@@ -2170,7 +2170,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Nightsea chil-liren</name>
+    <name>Nightsea chil-liren [Legacy]</name>
     <sortname>chil-liren, Nightsea</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2213,7 +2213,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Nimuel</name>
+    <name>Nimuel [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -2263,7 +2263,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Ollin</name>
+    <name>Ollin [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (tiefling)</type>
@@ -2315,7 +2315,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Paloma</name>
+    <name>Paloma [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (gnome)</type>
@@ -2378,7 +2378,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Paolo Maykapal</name>
+    <name>Paolo Maykapal [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -2430,7 +2430,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Pari</name>
+    <name>Pari [Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>typically lawful good</alignment>
@@ -2491,7 +2491,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Prince Kirina</name>
+    <name>Prince Kirina [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -2537,7 +2537,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Prince Simbon</name>
+    <name>Prince Simbon [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -2583,7 +2583,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Riverine</name>
+    <name>Riverine [Legacy]</name>
     <size>L</size>
     <type>fey</type>
     <alignment>any alignment</alignment>
@@ -2657,7 +2657,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Rooster</name>
+    <name>Rooster [Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -2697,7 +2697,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Samira Arah</name>
+    <name>Samira Arah [Legacy]</name>
     <sortname>Arah, Samira</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2757,7 +2757,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Sensa Prince</name>
+    <name>Sensa Prince [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -2799,7 +2799,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Serapio</name>
+    <name>Serapio [Legacy]</name>
     <size>M</size>
     <type>fiend (demon)</type>
     <alignment>typically neutral evil</alignment>
@@ -2854,7 +2854,7 @@ While  poisoned in this way, the creature can't regain hit points. At the end of
     <environment/>
   </monster>
   <monster>
-    <name>Sholeh</name>
+    <name>Sholeh [Legacy]</name>
     <size>G</size>
     <type>dragon</type>
     <alignment>neutral good</alignment>
@@ -2943,7 +2943,7 @@ Sleep Breath. Sholeh exhales sleep gas in a 90-foot cone. Each creature in that 
     <environment/>
   </monster>
   <monster>
-    <name>Soul Shaker</name>
+    <name>Soul Shaker [Legacy]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>typically chaotic evil</alignment>
@@ -2996,7 +2996,7 @@ Sleep Breath. Sholeh exhales sleep gas in a 90-foot cone. Each creature in that 
     <environment/>
   </monster>
   <monster>
-    <name>Tlacatecolo</name>
+    <name>Tlacatecolo [Legacy]</name>
     <size>M</size>
     <type>fiend (demon)</type>
     <alignment>typically neutral evil</alignment>
@@ -3051,7 +3051,7 @@ While  poisoned in this way, the creature can't regain hit points. At the end of
     <environment/>
   </monster>
   <monster>
-    <name>Tlexolotl</name>
+    <name>Tlexolotl [Legacy]</name>
     <size>H</size>
     <type>elemental</type>
     <alignment>typically neutral</alignment>
@@ -3115,7 +3115,7 @@ A creature that touches the tlexolotl or hits it with a melee attack while withi
     <environment/>
   </monster>
   <monster>
-    <name>Tonalli</name>
+    <name>Tonalli [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (dwarf)</type>
@@ -3171,7 +3171,7 @@ A creature that touches the tlexolotl or hits it with a melee attack while withi
     <environment/>
   </monster>
   <monster>
-    <name>Tungsten Ward</name>
+    <name>Tungsten Ward [Legacy]</name>
     <sortname>Ward, Tungsten</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3218,7 +3218,7 @@ A creature that touches the tlexolotl or hits it with a melee attack while withi
     <environment/>
   </monster>
   <monster>
-    <name>Uzoma Baten</name>
+    <name>Uzoma Baten [Legacy]</name>
     <sortname>Baten, Uzoma</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3261,7 +3261,7 @@ A creature that touches the tlexolotl or hits it with a melee attack while withi
     <environment/>
   </monster>
   <monster>
-    <name>Vi Aroon</name>
+    <name>Vi Aroon [Legacy]</name>
     <sortname>Aroon, Vi</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3303,7 +3303,7 @@ A creature that touches the tlexolotl or hits it with a melee attack while withi
     <environment/>
   </monster>
   <monster>
-    <name>Wei Feng Ying</name>
+    <name>Wei Feng Ying [Legacy]</name>
     <sortname>Feng Ying, Wei</sortname>
     <ancestry>Feng Ying</ancestry>
     <npc>YES</npc>
@@ -3365,7 +3365,7 @@ A creature that touches the tlexolotl or hits it with a melee attack while withi
     <environment/>
   </monster>
   <monster>
-    <name>Whistler</name>
+    <name>Whistler [Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>typically neutral evil</alignment>
@@ -3422,7 +3422,7 @@ A creature that touches the tlexolotl or hits it with a melee attack while withi
     <environment/>
   </monster>
   <monster>
-    <name>White Jade Emperor</name>
+    <name>White Jade Emperor [Legacy]</name>
     <sortname>Jade Emperor, White</sortname>
     <ancestry>Jade Emperor</ancestry>
     <npc>YES</npc>
@@ -3469,7 +3469,7 @@ A creature that touches the tlexolotl or hits it with a melee attack while withi
     <environment/>
   </monster>
   <monster>
-    <name>Wynling</name>
+    <name>Wynling [Legacy]</name>
     <size>T</size>
     <type>fey</type>
     <alignment>typically chaotic neutral</alignment>
@@ -3514,7 +3514,7 @@ A creature that touches the tlexolotl or hits it with a melee attack while withi
     <environment/>
   </monster>
   <monster>
-    <name>Xocopol</name>
+    <name>Xocopol [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Neutral</alignment>
@@ -3559,7 +3559,7 @@ A creature that touches the tlexolotl or hits it with a melee attack while withi
     <environment/>
   </monster>
   <monster>
-    <name>Yarana</name>
+    <name>Yarana [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -3609,7 +3609,7 @@ A creature that touches the tlexolotl or hits it with a melee attack while withi
     <environment/>
   </monster>
   <monster>
-    <name>Young-Gi</name>
+    <name>Young-Gi [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (dragonborn)</type>
@@ -3650,7 +3650,7 @@ A creature that touches the tlexolotl or hits it with a melee attack while withi
     <environment/>
   </monster>
   <monster>
-    <name>Zisatta</name>
+    <name>Zisatta [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (merfolk)</type>

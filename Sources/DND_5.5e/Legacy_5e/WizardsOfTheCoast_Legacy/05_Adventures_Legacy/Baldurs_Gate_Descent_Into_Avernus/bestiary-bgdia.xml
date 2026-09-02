@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Abyssal Chicken</name>
+    <name>Abyssal Chicken [Legacy]</name>
     <sortname>Chicken, Abyssal</sortname>
     <ancestry>Chicken</ancestry>
     <size>T</size>
@@ -54,7 +54,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 97</description>
     <environment/>
   </monster>
   <monster>
-    <name>Amrik Vanthampur</name>
+    <name>Amrik Vanthampur [Legacy]</name>
     <sortname>Vanthampur, Amrik</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -103,7 +103,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 30</description>
     <environment/>
   </monster>
   <monster>
-    <name>Archduke Zariel of Avernus</name>
+    <name>Archduke Zariel of Avernus [Legacy]</name>
     <sortname>Zariel, Archduke of Avernus</sortname>
     <ancestry>Zariel</ancestry>
     <size>L</size>
@@ -227,7 +227,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 243</description>
     <environment/>
   </monster>
   <monster>
-    <name>Arkhan the Cruel</name>
+    <name>Arkhan the Cruel [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (dragonborn)</type>
@@ -294,7 +294,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 111</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bel</name>
+    <name>Bel [Legacy]</name>
     <npc>YES</npc>
     <size>L</size>
     <type>fiend (devil)</type>
@@ -383,7 +383,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 115</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bitter Breath</name>
+    <name>Bitter Breath [Legacy]</name>
     <npc>YES</npc>
     <size>L</size>
     <type>fiend (devil)</type>
@@ -443,7 +443,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 90</description>
     <environment/>
   </monster>
   <monster>
-    <name>Black Gauntlet of Bane</name>
+    <name>Black Gauntlet of Bane [Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>Lawful Evil</alignment>
@@ -527,7 +527,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 235</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bone Whelk</name>
+    <name>Bone Whelk [Legacy]</name>
     <sortname>Whelk, Bone</sortname>
     <ancestry>Whelk</ancestry>
     <size>L</size>
@@ -575,7 +575,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 119</description>
     <environment/>
   </monster>
   <monster>
-    <name>Burney the Barber</name>
+    <name>Burney the Barber [Legacy]</name>
     <ancestry>Ancient Copper Dragon</ancestry>
     <npc>YES</npc>
     <size>G</size>
@@ -723,7 +723,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 129</description>
     <environment>hill</environment>
   </monster>
   <monster>
-    <name>Chukka</name>
+    <name>Chukka [Legacy]</name>
     <ancestry>Kenku</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -776,7 +776,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 83</description>
     <environment>forest, urban</environment>
   </monster>
   <monster>
-    <name>Clonk</name>
+    <name>Clonk [Legacy]</name>
     <ancestry>Kenku</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -834,7 +834,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 83</description>
     <environment>forest, urban</environment>
   </monster>
   <monster>
-    <name>Crokek'toeck</name>
+    <name>Crokek'toeck [Legacy]</name>
     <size>G</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -893,7 +893,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 231</description>
     <environment/>
   </monster>
   <monster>
-    <name>Death's Head of Bhaal</name>
+    <name>Death's Head of Bhaal [Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>Chaotic Evil</alignment>
@@ -968,7 +968,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 233</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dryad Spirit</name>
+    <name>Dryad Spirit [Legacy]</name>
     <sortname>Spirit, Dryad</sortname>
     <ancestry>Banshee</ancestry>
     <size>M</size>
@@ -1022,7 +1022,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 108</description>
     <environment>forest, coastal</environment>
   </monster>
   <monster>
-    <name>Duke Thalamra Vanthampur</name>
+    <name>Duke Thalamra Vanthampur [Legacy]</name>
     <sortname>Vanthampur, Thalamra</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1083,7 +1083,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 38</description>
     <environment/>
   </monster>
   <monster>
-    <name>Elliach</name>
+    <name>Elliach [Legacy]</name>
     <ancestry>Mage</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -1143,7 +1143,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 131</description>
     <environment/>
   </monster>
   <monster>
-    <name>Feonor</name>
+    <name>Feonor [Legacy]</name>
     <ancestry>Archmage</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -1214,7 +1214,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 91</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fiendish Flesh Golem</name>
+    <name>Fiendish Flesh Golem [Legacy]</name>
     <sortname>Flesh Golem, Fiendish</sortname>
     <ancestry>Flesh Golem</ancestry>
     <size>L</size>
@@ -1276,7 +1276,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 236</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fist of Bane</name>
+    <name>Fist of Bane [Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>Lawful Evil</alignment>
@@ -1339,7 +1339,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 232</description>
     <environment/>
   </monster>
   <monster>
-    <name>Flying Dagger</name>
+    <name>Flying Dagger [Legacy]</name>
     <sortname>Dagger, Flying</sortname>
     <ancestry>Animated Object</ancestry>
     <size>T</size>
@@ -1381,7 +1381,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 232</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gideon Lightward</name>
+    <name>Gideon Lightward [Legacy]</name>
     <sortname>Lightward, Gideon</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1432,7 +1432,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 65</description>
     <environment/>
   </monster>
   <monster>
-    <name>Harkina Hunt</name>
+    <name>Harkina Hunt [Legacy]</name>
     <sortname>Hunt, Harkina</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1471,7 +1471,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 65</description>
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Hellwasp</name>
+    <name>Hellwasp [Legacy]</name>
     <ancestry>Hellwasp</ancestry>
     <size>L</size>
     <type>fiend</type>
@@ -1529,7 +1529,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 236</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hellwasp Grub</name>
+    <name>Hellwasp Grub [Legacy]</name>
     <sortname>Hellwasp, Grub</sortname>
     <ancestry>Hellwasp</ancestry>
     <size>S</size>
@@ -1564,7 +1564,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 236</description>
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Hollyphant</name>
+    <name>Hollyphant [Legacy]</name>
     <size>S</size>
     <type>celestial</type>
     <alignment>Lawful Good</alignment>
@@ -1632,7 +1632,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 237</description>
     <environment/>
   </monster>
   <monster>
-    <name>Iron Consul</name>
+    <name>Iron Consul [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -1699,7 +1699,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 232</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kostchtchie</name>
+    <name>Kostchtchie [Legacy]</name>
     <size>L</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -1778,7 +1778,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 105</description>
     <environment/>
   </monster>
   <monster>
-    <name>Krull</name>
+    <name>Krull [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (tortle)</type>
@@ -1843,7 +1843,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 105</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lulu</name>
+    <name>Lulu [Legacy]</name>
     <ancestry>Hollyphant</ancestry>
     <npc>YES</npc>
     <size>S</size>
@@ -1914,7 +1914,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 5</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mad Maggie</name>
+    <name>Mad Maggie [Legacy]</name>
     <sortname>Maggie, Mad</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2006,7 +2006,7 @@ For casting these spells, each hag is a 12th-level spellcaster that uses Intelli
     <environment/>
   </monster>
   <monster>
-    <name>Mahadi the Rakshasa</name>
+    <name>Mahadi the Rakshasa [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>fiend</type>
@@ -2077,7 +2077,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 127</description>
     <environment/>
   </monster>
   <monster>
-    <name>Master of Souls</name>
+    <name>Master of Souls [Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>Neutral Evil</alignment>
@@ -2166,7 +2166,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 234</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mortlock Vanthampur</name>
+    <name>Mortlock Vanthampur [Legacy]</name>
     <sortname>Vanthampur, Mortlock</sortname>
     <ancestry>Vanthampur</ancestry>
     <npc>YES</npc>
@@ -2217,7 +2217,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 26</description>
     <environment/>
   </monster>
   <monster>
-    <name>Necromite of Myrkul</name>
+    <name>Necromite of Myrkul [Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>Neutral Evil</alignment>
@@ -2273,7 +2273,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 234</description>
     <environment/>
   </monster>
   <monster>
-    <name>Necrotic Centipede</name>
+    <name>Necrotic Centipede [Legacy]</name>
     <sortname>Centipede, Necrotic</sortname>
     <ancestry>Centipede</ancestry>
     <size>H</size>
@@ -2317,7 +2317,7 @@ If the centipede takes 30 damage or more on a single turn from a creature inside
     <environment>arctic</environment>
   </monster>
   <monster>
-    <name>Night Blade</name>
+    <name>Night Blade [Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>Chaotic Evil</alignment>
@@ -2375,7 +2375,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 233</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nine-Fingers Keene</name>
+    <name>Nine-Fingers Keene [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -2428,7 +2428,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 170</description>
     <environment/>
   </monster>
   <monster>
-    <name>Peacock</name>
+    <name>Peacock [Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -2468,7 +2468,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 170</description>
     <environment>grassland, hill, desert</environment>
   </monster>
   <monster>
-    <name>Princeps Kovik</name>
+    <name>Princeps Kovik [Legacy]</name>
     <size>M</size>
     <type>fiend (devil)</type>
     <alignment>Lawful Evil</alignment>
@@ -2534,7 +2534,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 91</description>
     <environment/>
   </monster>
   <monster>
-    <name>Raggadragga</name>
+    <name>Raggadragga [Legacy]</name>
     <ancestry>Wereboar</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -2595,7 +2595,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 87</description>
     <environment>grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Reaper of Bhaal</name>
+    <name>Reaper of Bhaal [Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>Chaotic Evil</alignment>
@@ -2667,7 +2667,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 233</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rilsa Rael</name>
+    <name>Rilsa Rael [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -2723,7 +2723,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 199</description>
     <environment/>
   </monster>
   <monster>
-    <name>Skeletal Rats</name>
+    <name>Skeletal Rats [Legacy]</name>
     <sortname>Rats, Skeletal</sortname>
     <ancestry>Rats</ancestry>
     <size>M</size>
@@ -2765,7 +2765,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 199</description>
     <environment>swamp, urban</environment>
   </monster>
   <monster>
-    <name>Skull Lasher of Myrkul</name>
+    <name>Skull Lasher of Myrkul [Legacy]</name>
     <size>M</size>
     <type>humanoid (human)</type>
     <alignment>Neutral Evil</alignment>
@@ -2837,7 +2837,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 234</description>
     <environment/>
   </monster>
   <monster>
-    <name>Slobberchops</name>
+    <name>Slobberchops [Legacy]</name>
     <ancestry>Tressym</ancestry>
     <npc>YES</npc>
     <size>T</size>
@@ -2904,7 +2904,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 241,
     <environment/>
   </monster>
   <monster>
-    <name>Smiler the Defiler</name>
+    <name>Smiler the Defiler [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>fey (elf)</type>
@@ -2973,7 +2973,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 133</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sylvira Savikas</name>
+    <name>Sylvira Savikas [Legacy]</name>
     <sortname>Savikas, Sylvira</sortname>
     <ancestry>Archmage</ancestry>
     <npc>YES</npc>
@@ -3047,7 +3047,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 46</description>
     <environment/>
   </monster>
   <monster>
-    <name>Thavius Kreeg</name>
+    <name>Thavius Kreeg [Legacy]</name>
     <sortname>Kreeg, Thavius</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3089,7 +3089,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 42</description>
     <environment/>
   </monster>
   <monster>
-    <name>Thurstwell Vanthampur</name>
+    <name>Thurstwell Vanthampur [Legacy]</name>
     <sortname>Vanthampur, Thurstwell</sortname>
     <ancestry>Vanthampur</ancestry>
     <npc>YES</npc>
@@ -3141,7 +3141,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 34</description>
     <environment/>
   </monster>
   <monster>
-    <name>Torogar Steelfist</name>
+    <name>Torogar Steelfist [Legacy]</name>
     <ancestry>Archmage</ancestry>
     <size>L</size>
     <type>monstrosity</type>
@@ -3205,7 +3205,7 @@ He has resistance to bludgeoning, piercing, and slashing damage.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Traxigor</name>
+    <name>Traxigor [Legacy]</name>
     <npc>YES</npc>
     <size>T</size>
     <type>beast (otter)</type>
@@ -3270,7 +3270,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 50</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tressym</name>
+    <name>Tressym [Legacy]</name>
     <size>T</size>
     <type>monstrosity</type>
     <alignment>Chaotic Neutral</alignment>
@@ -3328,7 +3328,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 241,
     <environment/>
   </monster>
   <monster>
-    <name>Ulder Ravengard</name>
+    <name>Ulder Ravengard [Legacy]</name>
     <sortname>Ravengard, Ulder</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3385,7 +3385,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 70</description>
     <environment/>
   </monster>
   <monster>
-    <name>Undead Tree</name>
+    <name>Undead Tree [Legacy]</name>
     <sortname>Tree, Undead</sortname>
     <ancestry>Treant</ancestry>
     <size>H</size>

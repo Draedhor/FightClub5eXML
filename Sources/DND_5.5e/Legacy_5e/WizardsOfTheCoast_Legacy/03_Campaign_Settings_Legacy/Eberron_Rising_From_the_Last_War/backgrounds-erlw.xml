@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>House Agent: Cannith (Legacy)</name>
+    <name>House Agent: Cannith [Legacy]</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -76,7 +76,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>House Agent: Deneith (Legacy)</name>
+    <name>House Agent: Deneith [Legacy]</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -151,7 +151,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>House Agent: Ghallanda (Legacy)</name>
+    <name>House Agent: Ghallanda [Legacy]</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -226,7 +226,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>House Agent: Jorasco (Legacy)</name>
+    <name>House Agent: Jorasco [Legacy]</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -301,7 +301,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>House Agent: Kundarak (Legacy)</name>
+    <name>House Agent: Kundarak [Legacy]</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -376,7 +376,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>House Agent: Lyrandar (Legacy)</name>
+    <name>House Agent: Lyrandar [Legacy]</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -451,7 +451,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>House Agent: Medani (Legacy)</name>
+    <name>House Agent: Medani [Legacy]</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -526,7 +526,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>House Agent: Orien (Legacy)</name>
+    <name>House Agent: Orien [Legacy]</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -601,7 +601,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>House Agent: Phiarlan (Legacy)</name>
+    <name>House Agent: Phiarlan [Legacy]</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -676,7 +676,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>House Agent: Sivis (Legacy)</name>
+    <name>House Agent: Sivis [Legacy]</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -751,7 +751,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>House Agent: Tharashk (Legacy)</name>
+    <name>House Agent: Tharashk [Legacy]</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -826,7 +826,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>House Agent: Thuranni (Legacy)</name>
+    <name>House Agent: Thuranni [Legacy]</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>
@@ -901,7 +901,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>House Agent: Vadalis (Legacy)</name>
+    <name>House Agent: Vadalis [Legacy]</name>
     <proficiency>Investigation, Persuasion</proficiency>
     <trait>
       <name>Description</name>

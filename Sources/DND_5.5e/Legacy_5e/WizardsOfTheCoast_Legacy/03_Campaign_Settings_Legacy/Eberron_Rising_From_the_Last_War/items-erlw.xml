@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Arcane Propulsion Arm</name>
+    <name>Arcane Propulsion Arm [Legacy]</name>
     <detail>very rare (requires attunement by a creature missing a hand or an arm)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -25,7 +25,7 @@ Range: A weapon that can be used to make a ranged attack has a range shown in pa
 Source:	Eberron: Rising from the Last War p. 276</text>
   </item>
   <item>
-    <name>Belashyrra's Beholder Crown</name>
+    <name>Belashyrra's Beholder Crown [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -42,7 +42,7 @@ Source:	Eberron: Rising from the Last War p. 276</text>
     <roll description="Recharge">1d6+3</roll>
   </item>
   <item>
-    <name>Cleansing Stone</name>
+    <name>Cleansing Stone [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -53,7 +53,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Wayfinder's Guide to Eberron p. 115</text>
   </item>
   <item>
-    <name>Glamerweave (common)</name>
+    <name>Glamerweave (common) [Legacy]</name>
     <detail>clothes, common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -63,7 +63,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Wayfinder's Guide to Eberron p. 115</text>
   </item>
   <item>
-    <name>Dimensional Seal</name>
+    <name>Dimensional Seal [Legacy]</name>
     <detail>legendary</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -73,7 +73,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 Source:	Wayfinder's Guide to Eberron</text>
   </item>
   <item>
-    <name>Docent</name>
+    <name>Docent [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -99,7 +99,7 @@ Source:	Eberron: Rising from the Last War p. 276,
     <roll description="Spells">1d6</roll>
   </item>
   <item>
-    <name>Docent (WGE)</name>
+    <name>Docent (WGE) [Legacy]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -124,7 +124,7 @@ The docent can make Wisdom (Medicine) checks targeting its warforged host, with 
 Source:	Wayfinder's Guide to Eberron</text>
   </item>
   <item>
-    <name>Dragon's Blood</name>
+    <name>Dragon's Blood [Legacy]</name>
     <detail>other</detail>
     <type>G</type>
     <text>Introduced into Sharn by Daask, dragon's blood is a potent and highly addictive stimulant. In addition to inducing euphoria, it can enhance spellcasting ability or even temporarily imbue a user with the ability to cast sorcerer spells. The drug's effects are potentially dangerous and always unpredictable. This isn't something a player character should want to use; adventurers are more likely to interfere with Daask smugglers or deal with an addict who accidentally casts a fireball in a crowded street. The specific effects of dragon's blood are up to you, but you can take inspiration from the PHB.
@@ -132,7 +132,7 @@ Source:	Wayfinder's Guide to Eberron</text>
 Source:	Eberron: Rising from the Last War p. 244</text>
   </item>
   <item>
-    <name>Dreamlily</name>
+    <name>Dreamlily [Legacy]</name>
     <detail>other</detail>
     <type>G</type>
     <text>A psychoactive liquid that smells and tastes like your favorite beverage, essence of dreamlily is a Sarlonan opiate. First imported to help manage pain during the Last War, it's now the most commonly abused substance in Sharn. Though dreamlily isn't illegal if used for medicinal purposes, it's heavily taxed, and thus most dreamlily is smuggled in and sold on the black market. Dreamlily dens can be found across the lower wards. Consuming dreamlily causes disorienting euphoria and brings about remarkable resistance to pain. A creature under the effects of dreamlily is poisoned for 1 hour. While poisoned in this way, the creature is immune to fear, and the first time it drops to 0 hit points without being killed outright, it drops to 1 hit point instead. A dose of dreamlily costs around 1 gp, or up to ten times that if purchased through legal channels. There are many varieties of the drug, however, and the duration or the price might vary accordingly.
@@ -140,7 +140,7 @@ Source:	Eberron: Rising from the Last War p. 244</text>
 Source:	Eberron: Rising from the Last War p. 244</text>
   </item>
   <item>
-    <name>Dyrrn's Tentacle Whip</name>
+    <name>Dyrrn's Tentacle Whip [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -165,7 +165,7 @@ Source:	Eberron: Rising from the Last War p. 276</text>
     <roll description="Psychic Damage">1d6</roll>
   </item>
   <item>
-    <name>Earworm</name>
+    <name>Earworm [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -180,7 +180,7 @@ Source:	Eberron: Rising from the Last War p. 277</text>
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Eberron Dragonshard</name>
+    <name>Eberron Dragonshard [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -190,7 +190,7 @@ Source:	Eberron: Rising from the Last War p. 277</text>
 Source:	Wayfinder's Guide to Eberron</text>
   </item>
   <item>
-    <name>Everbright Lantern</name>
+    <name>Everbright Lantern [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -201,7 +201,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Wayfinder's Guide to Eberron p. 115</text>
   </item>
   <item>
-    <name>Feather Token</name>
+    <name>Feather Token [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -212,7 +212,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Wayfinder's Guide to Eberron p. 115</text>
   </item>
   <item>
-    <name>Finder's Goggles</name>
+    <name>Finder's Goggles [Legacy]</name>
     <detail>uncommon (requires attunement by a creature with the mark of finding)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -227,7 +227,7 @@ Source:	Eberron: Rising from the Last War p. 277,
     <roll description="Insight Check">1d4</roll>
   </item>
   <item>
-    <name>Keycharm</name>
+    <name>Keycharm [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -237,7 +237,7 @@ Source:	Eberron: Rising from the Last War p. 277,
 		Wayfinder's Guide to Eberron p. 115</text>
   </item>
   <item>
-    <name>Kyrzin's Ooze</name>
+    <name>Kyrzin's Ooze [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -256,7 +256,7 @@ Source:	Eberron: Rising from the Last War p. 278</text>
     <roll description="Acid Damage">8d8</roll>
   </item>
   <item>
-    <name>Living Gloves</name>
+    <name>Living Gloves [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -279,7 +279,7 @@ Source:	Eberron: Rising from the Last War p. 278</text>
 Source:	Eberron: Rising from the Last War p. 278,
 		Explorer's Guide to Wildemount</text></item-->
   <item>
-    <name>Scribe's Pen</name>
+    <name>Scribe's Pen [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -291,7 +291,7 @@ Source:	Eberron: Rising from the Last War p. 278,
 		Wayfinder's Guide to Eberron p. 115</text>
   </item>
   <item>
-    <name>Shiftweave</name>
+    <name>Shiftweave [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -301,7 +301,7 @@ Source:	Eberron: Rising from the Last War p. 279,
 		Wayfinder's Guide to Eberron p. 115</text>
   </item>
   <item>
-    <name>Speaking Stone</name>
+    <name>Speaking Stone [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -311,7 +311,7 @@ Source:	Eberron: Rising from the Last War p. 279,
 Source:	Eberron: Rising from the Last War p. 279</text>
   </item>
   <item>
-    <name>Spell Sink</name>
+    <name>Spell Sink [Legacy]</name>
     <detail>legendary</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -322,7 +322,7 @@ Source:	Eberron: Rising from the Last War p. 279</text>
 Source:	Eberron: Rising from the Last War p. 281</text>
   </item>
   <item>
-    <name>Spell Sink (WGE)</name>
+    <name>Spell Sink (WGE) [Legacy]</name>
     <detail>legendary</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -331,7 +331,7 @@ Source:	Eberron: Rising from the Last War p. 281</text>
 Source:	Wayfinder's Guide to Eberron</text>
   </item>
   <item>
-    <name>Spellshard</name>
+    <name>Spellshard [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -343,7 +343,7 @@ Source:	Eberron: Rising from the Last War p. 279,
 		Wayfinder's Guide to Eberron p. 115</text>
   </item>
   <item>
-    <name>Glamerweave (uncommon)</name>
+    <name>Glamerweave (uncommon) [Legacy]</name>
     <detail>clothes, uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -356,7 +356,7 @@ Source:	Eberron: Rising from the Last War p. 277</text>
     <roll description="Persuasion Check">1d4</roll>
   </item>
   <item>
-    <name>Ventilating Lungs</name>
+    <name>Ventilating Lungs [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -368,7 +368,7 @@ Source:	Eberron: Rising from the Last War p. 277</text>
 Source:	Eberron: Rising from the Last War p. 279</text>
   </item>
   <item>
-    <name>Wand Sheath</name>
+    <name>Wand Sheath [Legacy]</name>
     <detail>common (requires attunement by a warforged)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -386,7 +386,7 @@ Source:	Eberron: Rising from the Last War p. 279,
 		Wayfinder's Guide to Eberron p. 115</text>
   </item>
   <item>
-    <name>Wheel of Wind and Water</name>
+    <name>Wheel of Wind and Water [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -397,7 +397,7 @@ Source:	Eberron: Rising from the Last War p. 280,
 		Wayfinder's Guide to Eberron p. 115</text>
   </item>
   <item>
-    <name>Glamerweave (Generic Variant)</name>
+    <name>Glamerweave (Generic Variant) [Legacy]</name>
     <detail>generic variant</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -409,7 +409,7 @@ Source:	Eberron: Rising from the Last War p. 280,
 Source:	Eberron: Rising from the Last War p. 277</text>
   </item>
   <item>
-    <name>Imbued Wood Focus (Generic Variant)</name>
+    <name>Imbued Wood Focus (Generic Variant) [Legacy]</name>
     <detail>generic variant, spellcasting focus, common (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -427,7 +427,7 @@ Source:	Eberron: Rising from the Last War p. 277</text>
 Source:	Eberron: Rising from the Last War p. 277</text>
   </item>
   <item>
-    <name>Orb of Shielding (Generic Variant)</name>
+    <name>Orb of Shielding (Generic Variant) [Legacy]</name>
     <detail>generic variant, spellcasting focus</detail>
     <type>W</type>
     <magic>YES</magic>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Apprentice</name>
+    <name>Apprentice [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -52,7 +52,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Bodytaker Plant</name>
+    <name>Bodytaker Plant [Legacy]</name>
     <sortname>Plant, Bodytaker</sortname>
     <ancestry>Plant</ancestry>
     <size>H</size>
@@ -99,7 +99,7 @@ While enveloped, the target is restrained, and it has total cover against attack
     <environment/>
   </monster>
   <monster>
-    <name>Boneless</name>
+    <name>Boneless [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment/>
@@ -148,7 +148,7 @@ While enveloped, the target is restrained, and it has total cover against attack
     <environment/>
   </monster>
   <monster>
-    <name>Brain in a Jar</name>
+    <name>Brain in a Jar [Legacy]</name>
     <size>S</size>
     <type>undead</type>
     <alignment/>
@@ -211,7 +211,7 @@ If the target is Undead, it also has disadvantage on attack rolls against the br
     <environment/>
   </monster>
   <monster>
-    <name>Carrion Stalker</name>
+    <name>Carrion Stalker [Legacy]</name>
     <sortname>Stalker, Carrion</sortname>
     <ancestry>Stalker</ancestry>
     <size>T</size>
@@ -257,7 +257,7 @@ While attached, the carrion stalker moves with the target and has advantage on a
     <environment/>
   </monster>
   <monster>
-    <name>Carrionette</name>
+    <name>Carrionette [Legacy]</name>
     <size>S</size>
     <type>construct</type>
     <alignment/>
@@ -304,7 +304,7 @@ If the carrionette's body is destroyed, both the carrionette and the target die.
     <environment/>
   </monster>
   <monster>
-    <name>Death's Head</name>
+    <name>Death's Head [Legacy]</name>
     <size>T</size>
     <type>undead</type>
     <alignment/>
@@ -358,7 +358,7 @@ The target must repeat the saving throw at the end of its next turn. On a succes
     <environment/>
   </monster>
   <monster>
-    <name>Disciple</name>
+    <name>Disciple [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -403,7 +403,7 @@ The target must repeat the saving throw at the end of its next turn. On a succes
     <environment/>
   </monster>
   <monster>
-    <name>Dullahan</name>
+    <name>Dullahan [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment/>
@@ -488,7 +488,7 @@ The target must repeat the saving throw at the end of its next turn. On a succes
     <environment/>
   </monster>
   <monster>
-    <name>Elise</name>
+    <name>Elise [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>construct</type>
@@ -541,7 +541,7 @@ The target must repeat the saving throw at the end of its next turn. On a succes
     <environment/>
   </monster>
   <monster>
-    <name>Gallows Speaker</name>
+    <name>Gallows Speaker [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment/>
@@ -590,7 +590,7 @@ The target must repeat the saving throw at the end of its next turn. On a succes
     <environment/>
   </monster>
   <monster>
-    <name>Greater Star Spawn Emissary</name>
+    <name>Greater Star Spawn Emissary [Legacy]</name>
     <sortname>Star Spawn Emissary, Greater</sortname>
     <ancestry>Star Spawn Emissary</ancestry>
     <size>H</size>
@@ -664,7 +664,7 @@ The target must repeat the saving throw at the end of its next turn. On a succes
     <environment/>
   </monster>
   <monster>
-    <name>Gremishka</name>
+    <name>Gremishka [Legacy]</name>
     <size>T</size>
     <type>monstrosity</type>
     <alignment/>
@@ -707,7 +707,7 @@ d6 | Effect
     <environment/>
   </monster>
   <monster>
-    <name>Inquisitor of the Mind Fire</name>
+    <name>Inquisitor of the Mind Fire [Legacy]</name>
     <sortname>Inquisitor, of the Mind Fire</sortname>
     <ancestry>Inquisitor</ancestry>
     <npc>YES</npc>
@@ -765,7 +765,7 @@ d6 | Effect
     <environment/>
   </monster>
   <monster>
-    <name>Inquisitor of the Sword</name>
+    <name>Inquisitor of the Sword [Legacy]</name>
     <sortname>Inquisitor, of the Sword</sortname>
     <ancestry>Inquisitor</ancestry>
     <npc>YES</npc>
@@ -821,7 +821,7 @@ d6 | Effect
     <environment/>
   </monster>
   <monster>
-    <name>Inquisitor of the Tome</name>
+    <name>Inquisitor of the Tome [Legacy]</name>
     <sortname>Inquisitor, of the Tome</sortname>
     <ancestry>Inquisitor</ancestry>
     <npc>YES</npc>
@@ -883,7 +883,7 @@ d6 | Effect
     <environment/>
   </monster>
   <monster>
-    <name>Isolde</name>
+    <name>Isolde [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>fey (elf)</type>
@@ -946,7 +946,7 @@ d6 | Effect
     <environment/>
   </monster>
   <monster>
-    <name>Jiangshi</name>
+    <name>Jiangshi [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment/>
@@ -1000,7 +1000,7 @@ A Humanoid slain by this necrotic damage rises as a wight (see its entry in the 
     <environment/>
   </monster>
   <monster>
-    <name>Lesser Star Spawn Emissary</name>
+    <name>Lesser Star Spawn Emissary [Legacy]</name>
     <sortname>Star Spawn Emissary, Lesser</sortname>
     <ancestry>Star Spawn Emissary</ancestry>
     <size>M</size>
@@ -1077,7 +1077,7 @@ A Humanoid slain by this necrotic damage rises as a wight (see its entry in the 
     <environment/>
   </monster>
   <monster>
-    <name>Loup Garou</name>
+    <name>Loup Garou [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>monstrosity (shapechanger)</type>
@@ -1159,7 +1159,7 @@ A Humanoid slain by this necrotic damage rises as a wight (see its entry in the 
     <environment/>
   </monster>
   <monster>
-    <name>Necrichor</name>
+    <name>Necrichor [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment/>
@@ -1222,7 +1222,7 @@ A Humanoid slain by this necrotic damage rises as a wight (see its entry in the 
     <environment/>
   </monster>
   <monster>
-    <name>Nosferatu</name>
+    <name>Nosferatu [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>undead</type>
@@ -1286,7 +1286,7 @@ A Humanoid slain by this necrotic damage rises as a wight (see its entry in the 
     <environment/>
   </monster>
   <monster>
-    <name>Podling</name>
+    <name>Podling [Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment/>
@@ -1325,7 +1325,7 @@ A Humanoid slain by this necrotic damage rises as a wight (see its entry in the 
     <environment/>
   </monster>
   <monster>
-    <name>Priest of Osybus</name>
+    <name>Priest of Osybus [Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment/>
@@ -1378,7 +1378,7 @@ If this damage reduces a Medium or smaller creature to 0 hit points, the creatur
     <environment/>
   </monster>
   <monster>
-    <name>Relentless Juggernaut</name>
+    <name>Relentless Juggernaut [Legacy]</name>
     <sortname>Relentless, Juggernaut</sortname>
     <ancestry>Relentless</ancestry>
     <size>L</size>
@@ -1458,7 +1458,7 @@ At the start of each of its turns, the target takes 10 (3d6) necrotic damage fro
     <environment/>
   </monster>
   <monster>
-    <name>Relentless Slasher</name>
+    <name>Relentless Slasher [Legacy]</name>
     <sortname>Relentless, Slasher</sortname>
     <ancestry>Relentless</ancestry>
     <size>M</size>
@@ -1518,7 +1518,7 @@ At the start of each of its turns, the target takes 10 (3d6) necrotic damage fro
     <environment/>
   </monster>
   <monster>
-    <name>Sneak</name>
+    <name>Sneak [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid</type>
@@ -1555,7 +1555,7 @@ At the start of each of its turns, the target takes 10 (3d6) necrotic damage fro
     <environment/>
   </monster>
   <monster>
-    <name>Squire</name>
+    <name>Squire [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -1593,7 +1593,7 @@ At the start of each of its turns, the target takes 10 (3d6) necrotic damage fro
     <environment/>
   </monster>
   <monster>
-    <name>Strigoi</name>
+    <name>Strigoi [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment/>
@@ -1645,7 +1645,7 @@ A creature reduced to 0 hit points from this attack dies and leaves nothing behi
     <environment/>
   </monster>
   <monster>
-    <name>Swarm of Gremishkas</name>
+    <name>Swarm of Gremishkas [Legacy]</name>
     <sortname>Gremishkas, Swarm</sortname>
     <ancestry>Gremishka</ancestry>
     <size>M</size>
@@ -1691,7 +1691,7 @@ A creature reduced to 0 hit points from this attack dies and leaves nothing behi
     <environment/>
   </monster>
   <monster>
-    <name>Swarm of Maggots</name>
+    <name>Swarm of Maggots [Legacy]</name>
     <sortname>Maggots, Swarm</sortname>
     <ancestry>Maggot</ancestry>
     <size>M</size>
@@ -1733,7 +1733,7 @@ Each time the diseased creature finishes a long rest, roll a d6 to determine the
     <environment/>
   </monster>
   <monster>
-    <name>Swarm of Scarabs</name>
+    <name>Swarm of Scarabs [Legacy]</name>
     <sortname>Scarabs, Swarm</sortname>
     <ancestry>Scarabs</ancestry>
     <size>M</size>
@@ -1779,7 +1779,7 @@ Each time the diseased creature finishes a long rest, roll a d6 to determine the
     <environment/>
   </monster>
   <monster>
-    <name>Swarm of Zombie Limbs</name>
+    <name>Swarm of Zombie Limbs [Legacy]</name>
     <sortname>Zombie Limb, Swarm</sortname>
     <ancestry>Zombie Limb</ancestry>
     <size>M</size>
@@ -1832,7 +1832,7 @@ The creature can repeat the saving throw at the end of each of its turns, taking
     <environment/>
   </monster>
   <monster>
-    <name>Unspeakable Horror</name>
+    <name>Unspeakable Horror [Legacy]</name>
     <sortname>Horror, Unspeakable</sortname>
     <ancestry>Horror</ancestry>
     <size>H</size>
@@ -1892,7 +1892,7 @@ The creature can repeat the saving throw at the end of each of its turns, taking
     <environment/>
   </monster>
   <monster>
-    <name>Vampiric Mind Flayer</name>
+    <name>Vampiric Mind Flayer [Legacy]</name>
     <sortname>Mind Flayer, Vampiric</sortname>
     <ancestry>Mind Flayer</ancestry>
     <size>M</size>
@@ -1957,7 +1957,7 @@ The creature can repeat the saving throw at the end of each of its turns, taking
     <environment/>
   </monster>
   <monster>
-    <name>Wereraven</name>
+    <name>Wereraven [Legacy]</name>
     <size>M</size>
     <type>humanoid (human, shapechanger)</type>
     <alignment/>
@@ -2021,7 +2021,7 @@ The creature can repeat the saving throw at the end of each of its turns, taking
     <environment/>
   </monster>
   <monster>
-    <name>Zombie Clot</name>
+    <name>Zombie Clot [Legacy]</name>
     <sortname>Zombie, Clot</sortname>
     <ancestry>Zombie</ancestry>
     <size>H</size>
@@ -2079,7 +2079,7 @@ A creature entombed in the dead flesh is restrained, has total cover against att
     <environment/>
   </monster>
   <monster>
-    <name>Zombie Plague Spreader</name>
+    <name>Zombie Plague Spreader [Legacy]</name>
     <sortname>Zombie, Plague Spreader</sortname>
     <ancestry>Zombie</ancestry>
     <size>M</size>

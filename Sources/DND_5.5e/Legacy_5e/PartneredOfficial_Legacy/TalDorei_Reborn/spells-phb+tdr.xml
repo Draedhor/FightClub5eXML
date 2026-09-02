@@ -1,155 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>False Life</name>
+    <name>False Life [TP Legacy]</name>
     <classes>Cleric (Blood Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Sleep</name>
+    <name>Sleep [TP Legacy]</name>
     <classes>Cleric (Blood Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Hold Person</name>
+    <name>Hold Person [TP Legacy]</name>
     <classes>Cleric (Blood Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Ray of Enfeeblement</name>
+    <name>Ray of Enfeeblement [TP Legacy]</name>
     <classes>Cleric (Blood Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Haste</name>
+    <name>Haste [TP Legacy]</name>
     <classes>Cleric (Blood Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Slow</name>
+    <name>Slow [TP Legacy]</name>
     <classes>Cleric (Blood Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Blight</name>
+    <name>Blight [TP Legacy]</name>
     <classes>Cleric (Blood Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Stoneskin</name>
+    <name>Stoneskin [TP Legacy]</name>
     <classes>Cleric (Blood Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Dominate Person</name>
+    <name>Dominate Person [TP Legacy]</name>
     <classes>Cleric (Blood Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Hold Monster</name>
+    <name>Hold Monster [TP Legacy]</name>
     <classes>Cleric (Blood Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Faerie Fire</name>
+    <name>Faerie Fire [TP Legacy]</name>
     <classes>Cleric (Moon Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Silent Image</name>
+    <name>Silent Image [TP Legacy]</name>
     <classes>Cleric (Moon Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Invisibility</name>
+    <name>Invisibility [TP Legacy]</name>
     <classes>Cleric (Moon Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Moonbeam</name>
+    <name>Moonbeam [TP Legacy]</name>
     <classes>Cleric (Moon Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Hypnotic Pattern</name>
+    <name>Hypnotic Pattern [TP Legacy]</name>
     <classes>Cleric (Moon Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Major Image</name>
+    <name>Major Image [TP Legacy]</name>
     <classes>Cleric (Moon Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Greater Invisibility</name>
+    <name>Greater Invisibility [TP Legacy]</name>
     <classes>Cleric (Moon Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Hallucinatory Terrain</name>
+    <name>Hallucinatory Terrain [TP Legacy]</name>
     <classes>Cleric (Moon Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Dream</name>
+    <name>Dream [TP Legacy]</name>
     <classes>Cleric (Moon Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Passwall</name>
+    <name>Passwall [TP Legacy]</name>
     <classes>Cleric (Moon Domain (Legacy))</classes>
   </spell>
   <spell>
-    <name>Create or Destroy Water</name>
+    <name>Create or Destroy Water [TP Legacy]</name>
     <classes>Paladin (Open Sea (Legacy))</classes>
   </spell>
   <spell>
-    <name>Expeditious Retreat</name>
+    <name>Expeditious Retreat [TP Legacy]</name>
     <classes>Paladin (Open Sea (Legacy))</classes>
   </spell>
   <spell>
-    <name>Augury</name>
+    <name>Augury [TP Legacy]</name>
     <classes>Paladin (Open Sea (Legacy))</classes>
   </spell>
   <spell>
-    <name>Misty Step</name>
+    <name>Misty Step [TP Legacy]</name>
     <classes>Paladin (Open Sea (Legacy))</classes>
   </spell>
   <spell>
-    <name>Call Lightning</name>
+    <name>Call Lightning [TP Legacy]</name>
     <classes>Paladin (Open Sea (Legacy))</classes>
   </spell>
   <spell>
-    <name>Control Water</name>
+    <name>Control Water [TP Legacy]</name>
     <classes>Paladin (Open Sea (Legacy))</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement</name>
+    <name>Freedom of Movement [TP Legacy]</name>
     <classes>Paladin (Open Sea (Legacy))</classes>
   </spell>
   <spell>
-    <name>Commune with Nature</name>
+    <name>Commune with Nature [TP Legacy]</name>
     <classes>Paladin (Open Sea (Legacy))</classes>
   </spell>
   <spell>
-    <name>Longstrider</name>
+    <name>Longstrider [TP Legacy]</name>
     <classes>Sorcerer (Runechild (Legacy))</classes>
   </spell>
   <spell>
-    <name>Protection from Evil and Good</name>
+    <name>Protection from Evil and Good [TP Legacy]</name>
     <classes>Sorcerer (Runechild (Legacy))</classes>
   </spell>
   <spell>
-    <name>Lesser Restoration</name>
+    <name>Lesser Restoration [TP Legacy]</name>
     <classes>Sorcerer (Runechild (Legacy))</classes>
   </spell>
   <spell>
-    <name>Protection from Poison</name>
+    <name>Protection from Poison [TP Legacy]</name>
     <classes>Sorcerer (Runechild (Legacy))</classes>
   </spell>
   <spell>
-    <name>Glyph of Warding</name>
+    <name>Glyph of Warding [TP Legacy]</name>
     <classes>Sorcerer (Runechild (Legacy))</classes>
   </spell>
   <spell>
-    <name>Magic Circle</name>
+    <name>Magic Circle [TP Legacy]</name>
     <classes>Sorcerer (Runechild (Legacy))</classes>
   </spell>
   <spell>
-    <name>Death Ward</name>
+    <name>Death Ward [TP Legacy]</name>
     <classes>Sorcerer (Runechild (Legacy))</classes>
   </spell>
   <spell>
-    <name>Freedom of Movement</name>
+    <name>Freedom of Movement [TP Legacy]</name>
     <classes>Sorcerer (Runechild (Legacy))</classes>
   </spell>
   <spell>
-    <name>Greater Restoration</name>
+    <name>Greater Restoration [TP Legacy]</name>
     <classes>Sorcerer (Runechild (Legacy))</classes>
   </spell>
   <spell>
-    <name>Telekinesis</name>
+    <name>Telekinesis [TP Legacy]</name>
     <classes>Sorcerer (Runechild (Legacy))</classes>
   </spell>
 </compendium>

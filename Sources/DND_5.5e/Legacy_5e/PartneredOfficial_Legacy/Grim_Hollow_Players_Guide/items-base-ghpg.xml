@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Bludgeoning Arrow (TP)</name>
+    <name>Bludgeoning Arrow [TP Legacy]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>0.1</weight>
@@ -13,7 +13,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
   </item>
   <item>
-    <name>Ranging Arrow (TP)</name>
+    <name>Ranging Arrow [TP Legacy]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>0.025</weight>
@@ -25,7 +25,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
   </item>
   <item>
-    <name>Slashing Arrow (TP)</name>
+    <name>Slashing Arrow [TP Legacy]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>0.1</weight>
@@ -37,7 +37,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
   </item>
   <item>
-    <name>Whistling Arrow (TP)</name>
+    <name>Whistling Arrow [TP Legacy]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>0.05</weight>
@@ -49,7 +49,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
   </item>
   <item>
-    <name>Bludgeoning Crossbow Bolt (TP)</name>
+    <name>Bludgeoning Crossbow Bolt [TP Legacy]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>0.1</weight>
@@ -61,7 +61,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
   </item>
   <item>
-    <name>Ranging Crossbow Bolt (TP)</name>
+    <name>Ranging Crossbow Bolt [TP Legacy]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>0.025</weight>
@@ -73,7 +73,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
   </item>
   <item>
-    <name>Slashing Crossbow Bolt (TP)</name>
+    <name>Slashing Crossbow Bolt [TP Legacy]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>0.1</weight>
@@ -85,7 +85,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
   </item>
   <item>
-    <name>Whistling Crossbow Bolt (TP)</name>
+    <name>Whistling Crossbow Bolt [TP Legacy]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>0.05</weight>
@@ -97,7 +97,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
   </item>
   <item>
-    <name>Piercing Sling Bullet (TP)</name>
+    <name>Piercing Sling Bullet [TP Legacy]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>0.1</weight>
@@ -109,7 +109,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
   </item>
   <item>
-    <name>Ranging Sling Bullet (TP)</name>
+    <name>Ranging Sling Bullet [TP Legacy]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>0.05</weight>
@@ -121,7 +121,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
   </item>
   <item>
-    <name>Whistling Sling Bullet (TP)</name>
+    <name>Whistling Sling Bullet [TP Legacy]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>0.05</weight>
@@ -133,7 +133,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
   </item>
   <item>
-    <name>Bellows Cannister (20 shots) (TP)</name>
+    <name>Bellows Cannister (20 shots) [TP Legacy]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>4</weight>
@@ -143,7 +143,7 @@ Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
   </item>
   <item>
-    <name>Bellows Cannister (TP)</name>
+    <name>Bellows Cannister [TP Legacy]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>0.2</weight>
@@ -153,7 +153,7 @@ Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
   </item>
   <item>
-    <name>Dragon Shot (20 shots) (TP)</name>
+    <name>Dragon Shot (20 shots) [TP Legacy]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>2</weight>
@@ -163,7 +163,7 @@ Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
   </item>
   <item>
-    <name>Dragon Shot (TP)</name>
+    <name>Dragon Shot [TP Legacy]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>0.1</weight>
@@ -173,7 +173,7 @@ Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
   </item>
   <item>
-    <name>Magazine (TP)</name>
+    <name>Magazine [TP Legacy]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>1</weight>
@@ -183,7 +183,7 @@ Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
   </item>
   <item>
-    <name>Paper Cartridge Bullets (20) (TP)</name>
+    <name>Paper Cartridge Bullets (20) [TP Legacy]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>2</weight>
@@ -193,7 +193,7 @@ Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
   </item>
   <item>
-    <name>Paper Cartridge Bullet (TP)</name>
+    <name>Paper Cartridge Bullet [TP Legacy]</name>
     <detail>common</detail>
     <type>A</type>
     <weight>0.1</weight>
@@ -203,7 +203,7 @@ Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
 Source:	Grim Hollow: Player's Guide p. 130 (Third Party)</text>
   </item>
   <item>
-    <name>Catchpole (TP)</name>
+    <name>Catchpole [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>5</weight>
@@ -228,7 +228,7 @@ Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
     <roll description="Bludgeoning Damage">1d8</roll>
   </item>
   <item>
-    <name>Cavalry Flail (TP)</name>
+    <name>Cavalry Flail [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>3</weight>
@@ -250,7 +250,7 @@ Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
     <roll description="Bludgeoning Damage">1d10</roll>
   </item>
   <item>
-    <name>Cavalry Hammer (TP)</name>
+    <name>Cavalry Hammer [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>3</weight>
@@ -274,7 +274,7 @@ Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
     <roll description="Bludgeoning Damage">1d12</roll>
   </item>
   <item>
-    <name>Cavalry Pick (TP)</name>
+    <name>Cavalry Pick [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>3</weight>
@@ -296,7 +296,7 @@ Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
     <roll description="Piercing Damage">1d12</roll>
   </item>
   <item>
-    <name>Chakram (Grim Hollow) (TP)</name>
+    <name>Chakram (Grim Hollow) [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>1</weight>
@@ -321,7 +321,7 @@ Proficiency: martial, chakram, dagger
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Claymore (TP)</name>
+    <name>Claymore [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>7</weight>
@@ -339,7 +339,7 @@ Proficiency: martial, greatsword
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Double Blade (TP)</name>
+    <name>Double Blade [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>5</weight>
@@ -364,7 +364,7 @@ Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
     <roll description="Slashing Damage">1d10</roll>
   </item>
   <item>
-    <name>Double Spear (TP)</name>
+    <name>Double Spear [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>4</weight>
@@ -389,7 +389,7 @@ Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
     <roll description="Piercing Damage">1d10</roll>
   </item>
   <item>
-    <name>Elite Rapier (TP)</name>
+    <name>Elite Rapier [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>2</weight>
@@ -405,7 +405,7 @@ Proficiency: martial, rapier
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Fighting Chain (TP)</name>
+    <name>Fighting Chain [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>3</weight>
@@ -433,7 +433,7 @@ Proficiency: martial, fighting chain
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Fighting Chain, Brutal (TP)</name>
+    <name>Fighting Chain, Brutal [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>6</weight>
@@ -463,7 +463,7 @@ Proficiency: martial, fighting chain
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Fighting Chain, Hook (TP)</name>
+    <name>Fighting Chain, Hook [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>3</weight>
@@ -493,7 +493,7 @@ Proficiency: martial, fighting chain
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Fighting Chain, Sickle (TP)</name>
+    <name>Fighting Chain, Sickle [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>3</weight>
@@ -523,7 +523,7 @@ Proficiency: martial, fighting chain
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Gladiator Net (TP)</name>
+    <name>Gladiator Net [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>5</weight>
@@ -545,7 +545,7 @@ Proficiency: martial, net
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Guardian Poleaxe (TP)</name>
+    <name>Guardian Poleaxe [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>9</weight>
@@ -571,7 +571,7 @@ Proficiency: martial, halberd
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Knightly Lance (TP)</name>
+    <name>Knightly Lance [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>6</weight>
@@ -592,7 +592,7 @@ Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
     <roll description="Momentum">2d10</roll>
   </item>
   <item>
-    <name>Knightly Sword (TP)</name>
+    <name>Knightly Sword [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>3</weight>
@@ -614,7 +614,7 @@ Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
     <roll description="Increase AC">1d4</roll>
   </item>
   <item>
-    <name>Military Fork (TP)</name>
+    <name>Military Fork [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>8</weight>
@@ -636,7 +636,7 @@ Proficiency: martial, trident
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Parrying Dagger (TP)</name>
+    <name>Parrying Dagger [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>1</weight>
@@ -661,7 +661,7 @@ Proficiency: martial, dagger
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Polearm (TP)</name>
+    <name>Polearm [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>12</weight>
@@ -685,7 +685,7 @@ Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
     <roll description="Bludgeoning Damage">1d8+%1</roll>
   </item>
   <item>
-    <name>Punching Dagger (TP)</name>
+    <name>Punching Dagger [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>1</weight>
@@ -706,7 +706,7 @@ Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
     <roll description="Increase AC">1d4</roll>
   </item>
   <item>
-    <name>Returning Club (TP)</name>
+    <name>Returning Club [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>2</weight>
@@ -727,7 +727,7 @@ Proficiency: martial, club
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Sabre (TP)</name>
+    <name>Sabre [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>2</weight>
@@ -743,7 +743,7 @@ Proficiency: martial, rapier
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Sheated Staff (TP)</name>
+    <name>Sheated Staff [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>6</weight>
@@ -762,7 +762,7 @@ Proficiency: martial, staff
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Side-Handle Baton (TP)</name>
+    <name>Side-Handle Baton [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>2</weight>
@@ -785,7 +785,7 @@ Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
     <roll description="Increase AC">1d4</roll>
   </item>
   <item>
-    <name>Wrath Axe (TP)</name>
+    <name>Wrath Axe [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>12</weight>
@@ -809,7 +809,7 @@ Proficiency: martial, axe
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Wrath Maul (TP)</name>
+    <name>Wrath Maul [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <weight>12</weight>
@@ -833,7 +833,7 @@ Proficiency: martial, maul
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Arbalest (TP)</name>
+    <name>Arbalest [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>R</type>
     <weight>20</weight>
@@ -861,7 +861,7 @@ Proficiency: martial, arbalest
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Blackpowder Pistol (TP)</name>
+    <name>Blackpowder Pistol [TP Legacy]</name>
     <detail>firearm, renaissance, uncommon</detail>
     <type>R</type>
     <weight>4</weight>
@@ -887,7 +887,7 @@ Proficiency: martial, firearms, pistol
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Blackpowder Rifle (TP)</name>
+    <name>Blackpowder Rifle [TP Legacy]</name>
     <detail>firearm, renaissance, uncommon</detail>
     <type>R</type>
     <weight>10</weight>
@@ -913,7 +913,7 @@ Proficiency: martial, firearms, rifle
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Blunderbuss (Grim Hollow) (TP)</name>
+    <name>Blunderbuss (Grim Hollow) [TP Legacy]</name>
     <detail>firearm, renaissance, uncommon</detail>
     <type>R</type>
     <weight>10</weight>
@@ -944,7 +944,7 @@ Proficiency: martial, firearms, blunderbuss
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Blunderbuss, Hand (TP)</name>
+    <name>Blunderbuss, Hand [TP Legacy]</name>
     <detail>firearm, renaissance, uncommon</detail>
     <type>R</type>
     <weight>4</weight>
@@ -973,7 +973,7 @@ Proficiency: martial, firearms, blunderbuss
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Composite Longbow (TP)</name>
+    <name>Composite Longbow [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>R</type>
     <weight>2</weight>
@@ -999,7 +999,7 @@ Proficiency: martial, longbow
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Composite Shortbow (TP)</name>
+    <name>Composite Shortbow [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>R</type>
     <weight>2</weight>
@@ -1025,7 +1025,7 @@ Proficiency: martial, longbow
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Dragon Pistol (TP)</name>
+    <name>Dragon Pistol [TP Legacy]</name>
     <detail>firearm, renaissance, uncommon</detail>
     <type>R</type>
     <weight>4</weight>
@@ -1052,7 +1052,7 @@ Proficiency: martial, firearms, pistol
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Dragon Rifle (TP)</name>
+    <name>Dragon Rifle [TP Legacy]</name>
     <detail>firearm, renaissance, uncommon</detail>
     <type>R</type>
     <weight>4</weight>
@@ -1079,7 +1079,7 @@ Proficiency: martial, firearms, rifle
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Flame Bellows (TP)</name>
+    <name>Flame Bellows [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>R</type>
     <weight>11</weight>
@@ -1111,7 +1111,7 @@ Proficiency: martial, flame bellows
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Repeater Crossbow (TP)</name>
+    <name>Repeater Crossbow [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>R</type>
     <weight>7</weight>
@@ -1136,7 +1136,7 @@ Proficiency: martial, crossbow
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Repeater Crossbow, Hand (TP)</name>
+    <name>Repeater Crossbow, Hand [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>R</type>
     <weight>3</weight>
@@ -1163,7 +1163,7 @@ Proficiency: martial, crossbow
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Repeater Crossbow, Heavy (TP)</name>
+    <name>Repeater Crossbow, Heavy [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>R</type>
     <weight>20</weight>
@@ -1190,7 +1190,7 @@ Proficiency: martial, crossbow
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Repeater Needler (TP)</name>
+    <name>Repeater Needler [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>R</type>
     <weight>3</weight>
@@ -1217,7 +1217,7 @@ Proficiency: martial, blowgun
 Source:	Grim Hollow: Player's Guide p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Repeater Slinger (TP)</name>
+    <name>Repeater Slinger [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>R</type>
     <weight>5</weight>

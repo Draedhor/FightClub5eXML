@@ -86,43 +86,43 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 150 (Homebrew)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Faerie Fire (TP)</name>
+    <name>Faerie Fire [TP]</name>
     <classes>Paladin (Oath of the Eldritch Hunt (HB))</classes>
   </spell>
   <spell>
-    <name>Spectral Slash (TP)</name>
+    <name>Spectral Slash [TP]</name>
     <classes>Paladin (Oath of the Eldritch Hunt (HB))</classes>
   </spell>
   <spell>
-    <name>Moonbeam (TP)</name>
+    <name>Moonbeam [TP]</name>
     <classes>Paladin (Oath of the Eldritch Hunt (HB))</classes>
   </spell>
   <spell>
-    <name>Hold Person (TP)</name>
+    <name>Hold Person [TP]</name>
     <classes>Paladin (Oath of the Eldritch Hunt (HB))</classes>
   </spell>
   <spell>
-    <name>Displacing Maw (TP)</name>
+    <name>Displacing Maw [TP]</name>
     <classes>Paladin (Oath of the Eldritch Hunt (HB))</classes>
   </spell>
   <spell>
-    <name>Spectral Fury (TP)</name>
+    <name>Spectral Fury [TP]</name>
     <classes>Paladin (Oath of the Eldritch Hunt (HB))</classes>
   </spell>
   <spell>
-    <name>Evard's Black Tentacles (TP)</name>
+    <name>Evard's Black Tentacles [TP]</name>
     <classes>Paladin (Oath of the Eldritch Hunt (HB))</classes>
   </spell>
   <spell>
-    <name>Maiden of Bones (TP)</name>
+    <name>Maiden of Bones [TP]</name>
     <classes>Paladin (Oath of the Eldritch Hunt (HB))</classes>
   </spell>
   <spell>
-    <name>Contact Other Plane (TP)</name>
+    <name>Contact Other Plane [TP]</name>
     <classes>Paladin (Oath of the Eldritch Hunt (HB))</classes>
   </spell>
   <spell>
-    <name>Hold Monster (TP)</name>
+    <name>Hold Monster [TP]</name>
     <classes>Paladin (Oath of the Eldritch Hunt (HB))</classes>
   </spell>
 </compendium>

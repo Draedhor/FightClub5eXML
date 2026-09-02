@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5">
   <monster>
-    <name>Aboleth, Nihilith</name>
+    <name>Aboleth, Nihilith [TP Legacy]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -106,7 +106,7 @@ If the target creature is hit, it must make a successful DC 14 Constitution savi
     <environment/>
   </monster>
   <monster>
-    <name>Nihilethic Zombie</name>
+    <name>Nihilethic Zombie [TP Legacy]</name>
     <sortname>Zombie, Nihilethic</sortname>
     <ancestry>Zombie</ancestry>
     <size>M</size>
@@ -165,7 +165,7 @@ If the target creature is hit, it must make a successful DC 14 Constitution savi
     <environment/>
   </monster>
   <monster>
-    <name>Abominable Beauty</name>
+    <name>Abominable Beauty [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Neutral Evil</alignment>
@@ -216,7 +216,7 @@ A creature who touches her also takes 28 (8d6) fire damage.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Accursed Defiler</name>
+    <name>Accursed Defiler [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -267,7 +267,7 @@ If a creature is hit by this attack twice in the same round (from the same or di
     <environment/>
   </monster>
   <monster>
-    <name>Ala</name>
+    <name>Ala [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Chaotic Evil</alignment>
@@ -325,7 +325,7 @@ If a creature is hit by this attack twice in the same round (from the same or di
     <environment/>
   </monster>
   <monster>
-    <name>Algorith</name>
+    <name>Algorith [TP Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Lawful Neutral</alignment>
@@ -383,7 +383,7 @@ If a creature is hit by this attack twice in the same round (from the same or di
     <environment/>
   </monster>
   <monster>
-    <name>Alseid</name>
+    <name>Alseid [TP Legacy]</name>
     <ancestry>Alseid</ancestry>
     <size>M</size>
     <type>monstrosity</type>
@@ -425,7 +425,7 @@ If a creature is hit by this attack twice in the same round (from the same or di
     <environment/>
   </monster>
   <monster>
-    <name>Alseid Grovekeeper</name>
+    <name>Alseid Grovekeeper [TP Legacy]</name>
     <sortname>Alseid, Grovekeeper</sortname>
     <ancestry>Alseid</ancestry>
     <size>M</size>
@@ -477,7 +477,7 @@ If a creature is hit by this attack twice in the same round (from the same or di
     <environment/>
   </monster>
   <monster>
-    <name>Amphiptere</name>
+    <name>Amphiptere [TP Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -526,7 +526,7 @@ If a creature is hit by this attack twice in the same round (from the same or di
     <environment/>
   </monster>
   <monster>
-    <name>Andrenjinyi</name>
+    <name>Andrenjinyi [TP Legacy]</name>
     <size>G</size>
     <type>celestial</type>
     <alignment>Neutral</alignment>
@@ -601,7 +601,7 @@ Until this grapple ends the target is restrained, and the andrenjinyi can't cons
     <environment/>
   </monster>
   <monster>
-    <name>Angatra</name>
+    <name>Angatra [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -645,7 +645,7 @@ Until this grapple ends the target is restrained, and the andrenjinyi can't cons
     <environment/>
   </monster>
   <monster>
-    <name>Angel, Chained</name>
+    <name>Angel, Chained [TP Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>Neutral Evil</alignment>
@@ -693,7 +693,7 @@ Until this grapple ends the target is restrained, and the andrenjinyi can't cons
     <environment/>
   </monster>
   <monster>
-    <name>Fidele Angel</name>
+    <name>Fidele Angel [TP Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>Lawful Good</alignment>
@@ -777,7 +777,7 @@ Until this grapple ends the target is restrained, and the andrenjinyi can't cons
     <environment/>
   </monster>
   <monster>
-    <name>Angler Worm</name>
+    <name>Angler Worm [TP Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -837,7 +837,7 @@ While grappled this way, the creature is restrained by the angler worm (but not 
     <environment/>
   </monster>
   <monster>
-    <name>Giant Ant</name>
+    <name>Giant Ant [TP Legacy]</name>
     <sortname>Ant, Giant</sortname>
     <ancestry>Ant</ancestry>
     <size>L</size>
@@ -884,7 +884,7 @@ While grappled this way, the creature is restrained by the angler worm (but not 
     <environment/>
   </monster>
   <monster>
-    <name>Giant Ant Queen</name>
+    <name>Giant Ant Queen [TP Legacy]</name>
     <sortname>Ant, Giant Queen</sortname>
     <ancestry>Ant</ancestry>
     <size>L</size>
@@ -935,7 +935,7 @@ While grappled this way, the creature is restrained by the angler worm (but not 
     <environment/>
   </monster>
   <monster>
-    <name>Anubian</name>
+    <name>Anubian [TP Legacy]</name>
     <size>M</size>
     <type>elemental</type>
     <alignment>Chaotic Evil</alignment>
@@ -992,7 +992,7 @@ The anubian can maintain the haboob for up to 10 minutes as if concentrating on 
     <environment/>
   </monster>
   <monster>
-    <name>Arboreal Grappler</name>
+    <name>Arboreal Grappler [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -1043,7 +1043,7 @@ Until this grapple ends, the target is restrained and the tentacle can't be used
     <environment/>
   </monster>
   <monster>
-    <name>Aridni</name>
+    <name>Aridni [TP Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>Neutral Evil</alignment>
@@ -1116,7 +1116,7 @@ Until this grapple ends, the target is restrained and the tentacle can't be used
     <environment/>
   </monster>
   <monster>
-    <name>Asanbosam</name>
+    <name>Asanbosam [TP Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Chaotic Evil</alignment>
@@ -1167,7 +1167,7 @@ Until this grapple ends, the target is restrained and the asanbosam can't claw a
     <environment/>
   </monster>
   <monster>
-    <name>Azza Gremlin</name>
+    <name>Azza Gremlin [TP Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>Neutral</alignment>
@@ -1207,7 +1207,7 @@ Until this grapple ends, the target is restrained and the asanbosam can't claw a
     <environment/>
   </monster>
   <monster>
-    <name>Baba Yaga's Horsemen, Black Night</name>
+    <name>Baba Yaga's Horsemen, Black Night [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Lawful Neutral</alignment>
@@ -1278,7 +1278,7 @@ Until this grapple ends, the target is restrained and the asanbosam can't claw a
     <environment/>
   </monster>
   <monster>
-    <name>Baba Yaga's Horsemen, Bright Day</name>
+    <name>Baba Yaga's Horsemen, Bright Day [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Lawful Neutral</alignment>
@@ -1345,7 +1345,7 @@ Until this grapple ends, the target is restrained and the asanbosam can't claw a
     <environment/>
   </monster>
   <monster>
-    <name>Baba Yaga's Horsemen, Red Sun</name>
+    <name>Baba Yaga's Horsemen, Red Sun [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Lawful Neutral</alignment>
@@ -1410,7 +1410,7 @@ Until this grapple ends, the target is restrained and the asanbosam can't claw a
     <environment/>
   </monster>
   <monster>
-    <name>Bagiennik</name>
+    <name>Bagiennik [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Chaotic Neutral</alignment>
@@ -1457,7 +1457,7 @@ The target must make a successful DC 13 Dexterity saving throw or fall prone in 
     <environment/>
   </monster>
   <monster>
-    <name>Bastet Temple Cat</name>
+    <name>Bastet Temple Cat [TP Legacy]</name>
     <sortname>Cat, Bastet Temple</sortname>
     <ancestry>Cat</ancestry>
     <size>S</size>
@@ -1520,7 +1520,7 @@ The target must make a successful DC 13 Dexterity saving throw or fall prone in 
     <environment/>
   </monster>
   <monster>
-    <name>Bearfolk</name>
+    <name>Bearfolk [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (bearfolk)</type>
@@ -1575,7 +1575,7 @@ The target must make a successful DC 13 Dexterity saving throw or fall prone in 
     <environment/>
   </monster>
   <monster>
-    <name>Behtu</name>
+    <name>Behtu [TP Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid</type>
@@ -1622,7 +1622,7 @@ The target must make a successful DC 13 Dexterity saving throw or fall prone in 
     <environment/>
   </monster>
   <monster>
-    <name>Beli</name>
+    <name>Beli [TP Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>Neutral Evil</alignment>
@@ -1680,7 +1680,7 @@ If the save succeeds, the target also becomes immune to further exhaustion from 
     <environment/>
   </monster>
   <monster>
-    <name>Bereginyas</name>
+    <name>Bereginyas [TP Legacy]</name>
     <size>T</size>
     <type>fey</type>
     <alignment>Neutral Evil</alignment>
@@ -1720,7 +1720,7 @@ If the save succeeds, the target also becomes immune to further exhaustion from 
     <environment/>
   </monster>
   <monster>
-    <name>Blemmyes</name>
+    <name>Blemmyes [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -1772,7 +1772,7 @@ If the target is a Medium or smaller incapacitated creature, that creature is sw
     <environment/>
   </monster>
   <monster>
-    <name>Boloti</name>
+    <name>Boloti [TP Legacy]</name>
     <size>T</size>
     <type>fey</type>
     <alignment>Neutral Evil</alignment>
@@ -1825,7 +1825,7 @@ If the target is a Medium or smaller incapacitated creature, that creature is sw
     <environment/>
   </monster>
   <monster>
-    <name>Bone Collective</name>
+    <name>Bone Collective [TP Legacy]</name>
     <size>S</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -1892,7 +1892,7 @@ A poisoned creature repeats the saving throw every four hours, taking another 1d
     <environment/>
   </monster>
   <monster>
-    <name>Bone Crab</name>
+    <name>Bone Crab [TP Legacy]</name>
     <sortname>Crab, Bone</sortname>
     <ancestry>Crab</ancestry>
     <size>S</size>
@@ -1950,7 +1950,7 @@ A poisoned creature repeats the saving throw every four hours, taking another 1d
     <environment/>
   </monster>
   <monster>
-    <name>Bone Swarm</name>
+    <name>Bone Swarm [TP Legacy]</name>
     <size>L</size>
     <type>swarm of tiny undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -1999,7 +1999,7 @@ A poisoned creature repeats the saving throw every four hours, taking another 1d
     <environment/>
   </monster>
   <monster>
-    <name>Avatar of Boreas</name>
+    <name>Avatar of Boreas [TP Legacy]</name>
     <size>M</size>
     <type>elemental (shapechanger)</type>
     <alignment>Chaotic Evil</alignment>
@@ -2086,7 +2086,7 @@ The avatar can then fly up to half its flying speed.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Bouda</name>
+    <name>Bouda [TP Legacy]</name>
     <size>M</size>
     <type>fiend (shapechanger)</type>
     <alignment>Neutral Evil</alignment>
@@ -2148,7 +2148,7 @@ The avatar can then fly up to half its flying speed.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Broodiken</name>
+    <name>Broodiken [TP Legacy]</name>
     <size>T</size>
     <type>construct</type>
     <alignment>Neutral</alignment>
@@ -2196,7 +2196,7 @@ The avatar can then fly up to half its flying speed.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Bucca</name>
+    <name>Bucca [TP Legacy]</name>
     <size>T</size>
     <type>fey</type>
     <alignment>Neutral Evil</alignment>
@@ -2244,7 +2244,7 @@ The target must repeat the saving throw at the end of each of its turns, and it 
     <environment/>
   </monster>
   <monster>
-    <name>Bukavac</name>
+    <name>Bukavac [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -2303,7 +2303,7 @@ The target must repeat the saving throw at the end of each of its turns, and it 
     <environment/>
   </monster>
   <monster>
-    <name>Buraq</name>
+    <name>Buraq [TP Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>Lawful Good</alignment>
@@ -2364,7 +2364,7 @@ The target must repeat the saving throw at the end of each of its turns, and it 
     <environment/>
   </monster>
   <monster>
-    <name>Burrowling</name>
+    <name>Burrowling [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (burrowling)</type>
     <alignment>Lawful Neutral</alignment>
@@ -2418,7 +2418,7 @@ The target must repeat the saving throw at the end of each of its turns, and it 
     <environment/>
   </monster>
   <monster>
-    <name>Cactid</name>
+    <name>Cactid [TP Legacy]</name>
     <size>L</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -2465,7 +2465,7 @@ Until this grapple ends, the target is restrained. If the target is neither unde
     <environment/>
   </monster>
   <monster>
-    <name>Cambium</name>
+    <name>Cambium [TP Legacy]</name>
     <size>L</size>
     <type>fiend</type>
     <alignment>Neutral Evil</alignment>
@@ -2538,7 +2538,7 @@ In addition, the target must make a DC 19 Constitution saving throw; if it fails
     <environment/>
   </monster>
   <monster>
-    <name>Carrion Beetle</name>
+    <name>Carrion Beetle [TP Legacy]</name>
     <sortname>Beetle, Carrion</sortname>
     <ancestry>Beetle</ancestry>
     <size>L</size>
@@ -2586,7 +2586,7 @@ In addition, the target must make a DC 19 Constitution saving throw; if it fails
     <environment/>
   </monster>
   <monster>
-    <name>Cavelight Moss</name>
+    <name>Cavelight Moss [TP Legacy]</name>
     <size>L</size>
     <type>plant</type>
     <alignment>Neutral</alignment>
@@ -2626,7 +2626,7 @@ In addition, the target must make a DC 19 Constitution saving throw; if it fails
     <environment/>
   </monster>
   <monster>
-    <name>Chelicerae</name>
+    <name>Chelicerae [TP Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -2691,7 +2691,7 @@ The target must also make a successful DC 16 Constitution saving throw or become
     <environment/>
   </monster>
   <monster>
-    <name>Chernomoi</name>
+    <name>Chernomoi [TP Legacy]</name>
     <size>T</size>
     <type>fey</type>
     <alignment>Neutral</alignment>
@@ -2735,7 +2735,7 @@ The target must also make a successful DC 16 Constitution saving throw or become
     <environment/>
   </monster>
   <monster>
-    <name>Child of the Briar</name>
+    <name>Child of the Briar [TP Legacy]</name>
     <size>T</size>
     <type>plant</type>
     <alignment>Neutral Evil</alignment>
@@ -2791,7 +2791,7 @@ Every child of the briar can shoot thorns from its mouth.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Chronalmental</name>
+    <name>Chronalmental [TP Legacy]</name>
     <size>L</size>
     <type>elemental</type>
     <alignment>Unaligned</alignment>
@@ -2846,7 +2846,7 @@ Every child of the briar can shoot thorns from its mouth.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Cikavak</name>
+    <name>Cikavak [TP Legacy]</name>
     <size>T</size>
     <type>fey</type>
     <alignment>Neutral</alignment>
@@ -2885,7 +2885,7 @@ Every child of the briar can shoot thorns from its mouth.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Clockwork Abomination</name>
+    <name>Clockwork Abomination [TP Legacy]</name>
     <sortname>Clockwork, Abomination</sortname>
     <ancestry>Clockwork, Abomination</ancestry>
     <size>L</size>
@@ -2949,7 +2949,7 @@ Every child of the briar can shoot thorns from its mouth.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Clockwork Beetle</name>
+    <name>Clockwork Beetle [TP Legacy]</name>
     <sortname>Clockwork, Beetle</sortname>
     <ancestry>Clockwork, Beetle</ancestry>
     <size>T</size>
@@ -2991,7 +2991,7 @@ Every child of the briar can shoot thorns from its mouth.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Clockwork Beetle Swarm</name>
+    <name>Clockwork Beetle Swarm [TP Legacy]</name>
     <sortname>Clockwork, Beetle Swarm</sortname>
     <ancestry>Clockwork, Beetle</ancestry>
     <size>L</size>
@@ -3029,7 +3029,7 @@ Every child of the briar can shoot thorns from its mouth.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Clockwork Hound</name>
+    <name>Clockwork Hound [TP Legacy]</name>
     <sortname>Clockwork, Hound</sortname>
     <ancestry>Clockwork, Hound</ancestry>
     <size>M</size>
@@ -3084,7 +3084,7 @@ Every child of the briar can shoot thorns from its mouth.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Clockwork Huntsman</name>
+    <name>Clockwork Huntsman [TP Legacy]</name>
     <sortname>Clockwork, Huntsman</sortname>
     <ancestry>Clockwork, Huntsman</ancestry>
     <size>M</size>
@@ -3140,7 +3140,7 @@ Every child of the briar can shoot thorns from its mouth.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Clockwork Myrmidon</name>
+    <name>Clockwork Myrmidon [TP Legacy]</name>
     <sortname>Clockwork, Myrmidon</sortname>
     <ancestry>Clockwork, Watchman</ancestry>
     <size>L</size>
@@ -3205,7 +3205,7 @@ Every child of the briar can shoot thorns from its mouth.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Clockwork Watchman</name>
+    <name>Clockwork Watchman [TP Legacy]</name>
     <sortname>Clockwork, Watchman</sortname>
     <ancestry>Clockwork, Watchman</ancestry>
     <size>M</size>
@@ -3257,7 +3257,7 @@ Every child of the briar can shoot thorns from its mouth.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Weaving Spider</name>
+    <name>Weaving Spider [TP Legacy]</name>
     <sortname>Spider, Weaving</sortname>
     <ancestry>Spider</ancestry>
     <size>T</size>
@@ -3314,7 +3314,7 @@ The target repeats the saving throw at the end of each of its turns, ending the 
     <environment/>
   </monster>
   <monster>
-    <name>Clurichaun</name>
+    <name>Clurichaun [TP Legacy]</name>
     <size>T</size>
     <type>fey</type>
     <alignment>Chaotic Neutral</alignment>
@@ -3366,7 +3366,7 @@ The target repeats the saving throw at the end of each of its turns, ending the 
     <environment/>
   </monster>
   <monster>
-    <name>Cobbleswarm</name>
+    <name>Cobbleswarm [TP Legacy]</name>
     <size>M</size>
     <type>swarm of tiny monstrosities</type>
     <alignment>Unaligned</alignment>
@@ -3414,7 +3414,7 @@ The target repeats the saving throw at the end of each of its turns, ending the 
     <environment/>
   </monster>
   <monster>
-    <name>Corpse Mound</name>
+    <name>Corpse Mound [TP Legacy]</name>
     <size>H</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -3473,7 +3473,7 @@ When hit, the target must make a successful DC 17 Strength check or be knocked p
     <environment/>
   </monster>
   <monster>
-    <name>Dau</name>
+    <name>Dau [TP Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>Chaotic Neutral</alignment>
@@ -3533,7 +3533,7 @@ The target must succeed on a DC 13 Constitution saving throw or its hit point ma
     <environment/>
   </monster>
   <monster>
-    <name>Death Butterfly Swarm</name>
+    <name>Death Butterfly Swarm [TP Legacy]</name>
     <size>L</size>
     <type>swarm of tiny beasts</type>
     <alignment>Chaotic Evil</alignment>
@@ -3581,7 +3581,7 @@ The target must succeed on a DC 13 Constitution saving throw or its hit point ma
     <environment/>
   </monster>
   <monster>
-    <name>Greater Death Butterfly Swarm</name>
+    <name>Greater Death Butterfly Swarm [TP Legacy]</name>
     <size>H</size>
     <type>swarm of tiny beasts</type>
     <alignment>Chaotic Evil</alignment>
@@ -3629,7 +3629,7 @@ The target must succeed on a DC 13 Constitution saving throw or its hit point ma
     <environment/>
   </monster>
   <monster>
-    <name>Deathwisp</name>
+    <name>Deathwisp [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -3687,7 +3687,7 @@ The target must succeed on a DC 15 Constitution saving throw, or its hit point m
     <environment/>
   </monster>
   <monster>
-    <name>Deep One</name>
+    <name>Deep One [TP Legacy]</name>
     <sortname>Deep One</sortname>
     <ancestry>Deep One</ancestry>
     <size>M</size>
@@ -3736,7 +3736,7 @@ The target must succeed on a DC 15 Constitution saving throw, or its hit point m
     <environment/>
   </monster>
   <monster>
-    <name>Deep One Hybrid Priest</name>
+    <name>Deep One Hybrid Priest [TP Legacy]</name>
     <sortname>Deep One, Hybrid Priest</sortname>
     <ancestry>Priest, Deep One</ancestry>
     <size>M</size>
@@ -3797,7 +3797,7 @@ The target must succeed on a DC 15 Constitution saving throw, or its hit point m
     <environment/>
   </monster>
   <monster>
-    <name>Deep One Archimandrite</name>
+    <name>Deep One Archimandrite [TP Legacy]</name>
     <sortname>Deep One, Archimandrite</sortname>
     <ancestry>Deep One</ancestry>
     <size>L</size>
@@ -3868,7 +3868,7 @@ The target must succeed on a DC 15 Constitution saving throw, or its hit point m
     <environment/>
   </monster>
   <monster>
-    <name>Apau Perape</name>
+    <name>Apau Perape [TP Legacy]</name>
     <size>L</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -3929,7 +3929,7 @@ The apau perape has a 50 percent chance of summoning one apau perape or one gian
     <environment/>
   </monster>
   <monster>
-    <name>Berstuc</name>
+    <name>Berstuc [TP Legacy]</name>
     <size>L</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -3985,7 +3985,7 @@ The apau perape has a 50 percent chance of summoning one apau perape or one gian
     <environment/>
   </monster>
   <monster>
-    <name>Kishi Demon</name>
+    <name>Kishi Demon [TP Legacy]</name>
     <sortname>Demon, Kishi</sortname>
     <ancestry>Demon</ancestry>
     <size>M</size>
@@ -4052,7 +4052,7 @@ Summon Demon (1/Day): The kishi demon has a 35 percent chance of summoning one k
     <environment/>
   </monster>
   <monster>
-    <name>Malakbel</name>
+    <name>Malakbel [TP Legacy]</name>
     <size>M</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4111,7 +4111,7 @@ The area in the aura is brightly lit, and it sheds dim light for another 30 feet
     <environment/>
   </monster>
   <monster>
-    <name>Psoglav Demon</name>
+    <name>Psoglav Demon [TP Legacy]</name>
     <sortname>Demon, Psoglav</sortname>
     <ancestry>Demon</ancestry>
     <size>L</size>
@@ -4168,7 +4168,7 @@ The area in the aura is brightly lit, and it sheds dim light for another 30 feet
     <environment/>
   </monster>
   <monster>
-    <name>Rubezahl</name>
+    <name>Rubezahl [TP Legacy]</name>
     <size>M</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4235,7 +4235,7 @@ The area in the aura is brightly lit, and it sheds dim light for another 30 feet
     <environment/>
   </monster>
   <monster>
-    <name>Akyishigal, Demon Lord of Cockroaches</name>
+    <name>Akyishigal, Demon Lord of Cockroaches [TP Legacy]</name>
     <size>L</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4309,7 +4309,7 @@ The area in the aura is brightly lit, and it sheds dim light for another 30 feet
     <environment/>
   </monster>
   <monster>
-    <name>Spawn of Akyishigal</name>
+    <name>Spawn of Akyishigal [TP Legacy]</name>
     <sortname>Akyishigal, Spawn</sortname>
     <ancestry>Akyishigal</ancestry>
     <size>M</size>
@@ -4361,7 +4361,7 @@ The area in the aura is brightly lit, and it sheds dim light for another 30 feet
     <environment/>
   </monster>
   <monster>
-    <name>Alquam, Demon Lord of Night</name>
+    <name>Alquam, Demon Lord of Night [TP Legacy]</name>
     <size>H</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4474,7 +4474,7 @@ If Alquam dies, conditions in the area surrounding the lair return to normal ove
     <environment/>
   </monster>
   <monster>
-    <name>Camazotz, Demon Lord of Bats And Fire</name>
+    <name>Camazotz, Demon Lord of Bats And Fire [TP Legacy]</name>
     <size>L</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4580,7 +4580,7 @@ Camazotz can then fly up to half his flying speed.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Skin Bat</name>
+    <name>Skin Bat [TP Legacy]</name>
     <sortname>Bat, Skin</sortname>
     <ancestry>Bat</ancestry>
     <size>S</size>
@@ -4618,7 +4618,7 @@ Camazotz can then fly up to half his flying speed.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Mechuiti, Demon Lord of Apes</name>
+    <name>Mechuiti, Demon Lord of Apes [TP Legacy]</name>
     <size>G</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4747,7 +4747,7 @@ If Mechuiti scores a critical hit, it rolls damage dice three times instead of t
     <environment/>
   </monster>
   <monster>
-    <name>Qorgeth, Demon Lord of the Devouring Worm</name>
+    <name>Qorgeth, Demon Lord of the Devouring Worm [TP Legacy]</name>
     <size>G</size>
     <type>fiend (demon)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4862,7 +4862,7 @@ A creature that fails the save by 10 or more is also paralyzed for as long as th
     <environment/>
   </monster>
   <monster>
-    <name>Derro Fetal Savant</name>
+    <name>Derro Fetal Savant [TP Legacy]</name>
     <size>T</size>
     <type>humanoid</type>
     <alignment>Chaotic Evil</alignment>
@@ -4909,7 +4909,7 @@ A creature that fails the save by 10 or more is also paralyzed for as long as th
     <environment/>
   </monster>
   <monster>
-    <name>Derro Shadow Antipaladin</name>
+    <name>Derro Shadow Antipaladin [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (derro)</type>
     <alignment>Chaotic Evil</alignment>
@@ -4981,7 +4981,7 @@ A creature that fails the save by 10 or more is also paralyzed for as long as th
     <environment/>
   </monster>
   <monster>
-    <name>Arbeyach</name>
+    <name>Arbeyach [TP Legacy]</name>
     <ancestry>Arbeyach</ancestry>
     <size>L</size>
     <type>fiend (devil)</type>
@@ -5077,7 +5077,7 @@ A creature that fails the save by 10 or more is also paralyzed for as long as th
     <environment/>
   </monster>
   <monster>
-    <name>Spawn of Arbeyach</name>
+    <name>Spawn of Arbeyach [TP Legacy]</name>
     <sortname>Arbeyach, Spawn</sortname>
     <ancestry>Arbeyach</ancestry>
     <size>M</size>
@@ -5130,7 +5130,7 @@ A creature that fails the save by 10 or more is also paralyzed for as long as th
     <environment/>
   </monster>
   <monster>
-    <name>Ia'affrat</name>
+    <name>Ia'affrat [TP Legacy]</name>
     <size>L</size>
     <type>swarm of tiny elementals</type>
     <alignment>Lawful Evil</alignment>
@@ -5202,7 +5202,7 @@ In a living victim, Ia'Affrat can control the victim's movement and actions as i
     <environment/>
   </monster>
   <monster>
-    <name>Mammon</name>
+    <name>Mammon [TP Legacy]</name>
     <size>H</size>
     <type>fiend (devil)</type>
     <alignment>Lawful Evil</alignment>
@@ -5307,7 +5307,7 @@ In a living victim, Ia'Affrat can control the victim's movement and actions as i
     <environment/>
   </monster>
   <monster>
-    <name>Totivillus, Scribe of Hell</name>
+    <name>Totivillus, Scribe of Hell [TP Legacy]</name>
     <size>M</size>
     <type>fiend (devil)</type>
     <alignment>Lawful Evil</alignment>
@@ -5404,7 +5404,7 @@ In a living victim, Ia'Affrat can control the victim's movement and actions as i
     <environment/>
   </monster>
   <monster>
-    <name>Automata Devil</name>
+    <name>Automata Devil [TP Legacy]</name>
     <sortname>Devil, Automata</sortname>
     <ancestry>Devil</ancestry>
     <size>L</size>
@@ -5475,7 +5475,7 @@ In a living victim, Ia'Affrat can control the victim's movement and actions as i
     <environment/>
   </monster>
   <monster>
-    <name>Chort Devil</name>
+    <name>Chort Devil [TP Legacy]</name>
     <sortname>Devil, Chort</sortname>
     <ancestry>Devil</ancestry>
     <size>M</size>
@@ -5538,7 +5538,7 @@ In a living victim, Ia'Affrat can control the victim's movement and actions as i
     <environment/>
   </monster>
   <monster>
-    <name>Crystalline Devil</name>
+    <name>Crystalline Devil [TP Legacy]</name>
     <sortname>Devil, Crystalline</sortname>
     <ancestry>Devil</ancestry>
     <size>M</size>
@@ -5610,7 +5610,7 @@ Summon Devil (1/Day): The crystalline devil has a 25 percent chance of summoning
     <environment/>
   </monster>
   <monster>
-    <name>Gilded Devil</name>
+    <name>Gilded Devil [TP Legacy]</name>
     <sortname>Devil, Gilded</sortname>
     <ancestry>Devil</ancestry>
     <size>M</size>
@@ -5703,7 +5703,7 @@ A gilded devil can use this ability against the worn items of a grappled foe. Th
     <environment/>
   </monster>
   <monster>
-    <name>Ink Devil</name>
+    <name>Ink Devil [TP Legacy]</name>
     <sortname>Devil, Ink</sortname>
     <ancestry>Devil</ancestry>
     <size>S</size>
@@ -5769,7 +5769,7 @@ A gilded devil can use this ability against the worn items of a grappled foe. Th
     <environment/>
   </monster>
   <monster>
-    <name>Koralk (Harvester Devil)</name>
+    <name>Koralk (Harvester Devil) [TP Legacy]</name>
     <size>L</size>
     <type>fiend (devil)</type>
     <alignment>Lawful Evil</alignment>
@@ -5827,7 +5827,7 @@ A gilded devil can use this ability against the worn items of a grappled foe. Th
     <environment/>
   </monster>
   <monster>
-    <name>Lunar Devil</name>
+    <name>Lunar Devil [TP Legacy]</name>
     <sortname>Devil, Lunar</sortname>
     <ancestry>Devil</ancestry>
     <size>L</size>
@@ -5910,7 +5910,7 @@ Holy water can affect the devil as it does incorporeal undead.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Orobas Devil</name>
+    <name>Orobas Devil [TP Legacy]</name>
     <sortname>Devil, Orobas</sortname>
     <ancestry>Devil</ancestry>
     <size>L</size>
@@ -5988,7 +5988,7 @@ The target must succeed on a DC 18 Constitution saving throw or become poisoned.
     <environment/>
   </monster>
   <monster>
-    <name>Salt Devil</name>
+    <name>Salt Devil [TP Legacy]</name>
     <sortname>Devil, Salt</sortname>
     <ancestry>Devil</ancestry>
     <size>M</size>
@@ -6047,7 +6047,7 @@ If the target is neither undead nor a construct, it also takes 5 (1d10) necrotic
     <environment/>
   </monster>
   <monster>
-    <name>Mbielu</name>
+    <name>Mbielu [TP Legacy]</name>
     <size>H</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -6087,7 +6087,7 @@ If the target is neither undead nor a construct, it also takes 5 (1d10) necrotic
     <environment/>
   </monster>
   <monster>
-    <name>Ngobou</name>
+    <name>Ngobou [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -6136,7 +6136,7 @@ If the target is neither undead nor a construct, it also takes 5 (1d10) necrotic
     <environment/>
   </monster>
   <monster>
-    <name>Spinosaurus</name>
+    <name>Spinosaurus [TP Legacy]</name>
     <sortname>Dinosaur, Spinosaurus</sortname>
     <ancestry>Dinosaur</ancestry>
     <size>G</size>
@@ -6214,7 +6214,7 @@ If the target is a Large or smaller creature, it is grappled (escape DC 18). Whe
     <environment/>
   </monster>
   <monster>
-    <name>Young Spinosaurus</name>
+    <name>Young Spinosaurus [TP Legacy]</name>
     <sortname>Dinosaur, Spinosaurus Young</sortname>
     <ancestry>Dinosaur</ancestry>
     <size>H</size>
@@ -6261,7 +6261,7 @@ If the target is a Large or smaller creature, it is grappled (escape DC 18). Whe
     <environment/>
   </monster>
   <monster>
-    <name>Dipsa</name>
+    <name>Dipsa [TP Legacy]</name>
     <size>T</size>
     <type>ooze</type>
     <alignment>Unaligned</alignment>
@@ -6311,7 +6311,7 @@ A creature with a dipsa attached takes 3 (1d6) acid damage per round per dipsa, 
     <environment/>
   </monster>
   <monster>
-    <name>Dissimortuum</name>
+    <name>Dissimortuum [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -6355,7 +6355,7 @@ A creature with a dipsa attached takes 3 (1d6) acid damage per round per dipsa, 
     <environment/>
   </monster>
   <monster>
-    <name>Dogmole</name>
+    <name>Dogmole [TP Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Neutral</alignment>
@@ -6404,7 +6404,7 @@ A creature with a dipsa attached takes 3 (1d6) acid damage per round per dipsa, 
     <environment/>
   </monster>
   <monster>
-    <name>Dogmole Juggernaut</name>
+    <name>Dogmole Juggernaut [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral</alignment>
@@ -6462,7 +6462,7 @@ A creature with a dipsa attached takes 3 (1d6) acid damage per round per dipsa, 
     <environment/>
   </monster>
   <monster>
-    <name>Domovoi</name>
+    <name>Domovoi [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Chaotic Neutral</alignment>
@@ -6505,7 +6505,7 @@ A creature with a dipsa attached takes 3 (1d6) acid damage per round per dipsa, 
     <environment/>
   </monster>
   <monster>
-    <name>Doppelrat</name>
+    <name>Doppelrat [TP Legacy]</name>
     <sortname>Rat, Doppel</sortname>
     <ancestry>Rat</ancestry>
     <size>T</size>
@@ -6557,7 +6557,7 @@ That way you need not roll 20 times for all of them, and you reduce the number o
     <environment/>
   </monster>
   <monster>
-    <name>Dorreq</name>
+    <name>Dorreq [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -6610,7 +6610,7 @@ If both tentacles hit the same target in a single turn, the target is grappled (
     <environment/>
   </monster>
   <monster>
-    <name>Adult Cave Dragon</name>
+    <name>Adult Cave Dragon [TP Legacy]</name>
     <sortname>Cave Dragon, Adult</sortname>
     <ancestry>Cave Dragon</ancestry>
     <size>H</size>
@@ -6734,7 +6734,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Young Cave Dragon</name>
+    <name>Young Cave Dragon [TP Legacy]</name>
     <sortname>Cave Dragon, Young</sortname>
     <ancestry>Cave Dragon</ancestry>
     <size>L</size>
@@ -6796,7 +6796,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Cave Dragon Wyrmling</name>
+    <name>Cave Dragon Wyrmling [TP Legacy]</name>
     <sortname>Dragon Wyrmling, Cave</sortname>
     <ancestry>Dragon Wyrmling</ancestry>
     <size>M</size>
@@ -6844,7 +6844,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Ancient Flame Dragon</name>
+    <name>Ancient Flame Dragon [TP Legacy]</name>
     <sortname>Flame Dragon, Ancient</sortname>
     <ancestry>Flame Dragon</ancestry>
     <size>G</size>
@@ -6956,7 +6956,7 @@ If the dragon dies, the arguments and misunderstandings disappear immediately an
     <environment/>
   </monster>
   <monster>
-    <name>Adult Flame Dragon</name>
+    <name>Adult Flame Dragon [TP Legacy]</name>
     <sortname>Flame Dragon, Adult</sortname>
     <ancestry>Flame Dragon</ancestry>
     <size>H</size>
@@ -7042,7 +7042,7 @@ If the dragon dies, the arguments and misunderstandings disappear immediately an
     <environment/>
   </monster>
   <monster>
-    <name>Young Flame Dragon</name>
+    <name>Young Flame Dragon [TP Legacy]</name>
     <sortname>Flame Dragon, Young</sortname>
     <ancestry>Flame Dragon</ancestry>
     <size>L</size>
@@ -7094,7 +7094,7 @@ If the dragon dies, the arguments and misunderstandings disappear immediately an
     <environment/>
   </monster>
   <monster>
-    <name>Flame Dragon Wyrmling</name>
+    <name>Flame Dragon Wyrmling [TP Legacy]</name>
     <sortname>Dragon Wyrmling, Flame</sortname>
     <ancestry>Dragon Wyrmling</ancestry>
     <size>M</size>
@@ -7133,7 +7133,7 @@ If the dragon dies, the arguments and misunderstandings disappear immediately an
     <environment/>
   </monster>
   <monster>
-    <name>Ancient Mithral Dragon</name>
+    <name>Ancient Mithral Dragon [TP Legacy]</name>
     <sortname>Mithral Dragon, Ancient</sortname>
     <ancestry>Mithral Dragon</ancestry>
     <size>G</size>
@@ -7238,7 +7238,7 @@ Bleeding damage is cumulative; the target loses 5 hp per round for each bleeding
     <environment/>
   </monster>
   <monster>
-    <name>Adult Mithral Dragon</name>
+    <name>Adult Mithral Dragon [TP Legacy]</name>
     <sortname>Mithral Dragon, Adult</sortname>
     <ancestry>Mithral Dragon</ancestry>
     <size>H</size>
@@ -7334,7 +7334,7 @@ Bleeding damage is cumulative; the target loses 4 hp per round for each bleeding
     <environment/>
   </monster>
   <monster>
-    <name>Young Mithral Dragon</name>
+    <name>Young Mithral Dragon [TP Legacy]</name>
     <sortname>Mithral Dragon, Young</sortname>
     <ancestry>Mithral Dragon</ancestry>
     <size>M</size>
@@ -7391,7 +7391,7 @@ Bleeding damage is cumulative; the target loses 3 hp per round for each bleeding
     <environment/>
   </monster>
   <monster>
-    <name>Ancient Sea Dragon</name>
+    <name>Ancient Sea Dragon [TP Legacy]</name>
     <sortname>Sea Dragon, Ancient</sortname>
     <ancestry>Sea Dragon</ancestry>
     <size>G</size>
@@ -7503,7 +7503,7 @@ On a successful save the creature takes half as much damage and isn't pushed or 
     <environment/>
   </monster>
   <monster>
-    <name>Adult Sea Dragon</name>
+    <name>Adult Sea Dragon [TP Legacy]</name>
     <sortname>Sea Dragon, Adult</sortname>
     <ancestry>Sea Dragon</ancestry>
     <size>H</size>
@@ -7591,7 +7591,7 @@ On a successful save the creature takes half as much damage and isn't pushed or 
     <environment/>
   </monster>
   <monster>
-    <name>Young Sea Dragon</name>
+    <name>Young Sea Dragon [TP Legacy]</name>
     <sortname>Sea Dragon, Young</sortname>
     <ancestry>Sea Dragon</ancestry>
     <size>L</size>
@@ -7653,7 +7653,7 @@ On a successful save the creature takes half as much damage and isn't pushed or 
     <environment/>
   </monster>
   <monster>
-    <name>Sea Dragon Wyrmling</name>
+    <name>Sea Dragon Wyrmling [TP Legacy]</name>
     <sortname>Dragon Wyrmling, Sea</sortname>
     <ancestry>Dragon Wyrmling</ancestry>
     <size>M</size>
@@ -7694,7 +7694,7 @@ On a successful save the creature takes half as much damage and isn't pushed or 
     <environment/>
   </monster>
   <monster>
-    <name>Ancient Void Dragon</name>
+    <name>Ancient Void Dragon [TP Legacy]</name>
     <sortname>Void Dragon, Ancient</sortname>
     <ancestry>Void Dragon</ancestry>
     <size>G</size>
@@ -7830,7 +7830,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Adult Void Dragon</name>
+    <name>Adult Void Dragon [TP Legacy]</name>
     <sortname>Void Dragon, Adult</sortname>
     <ancestry>Void Dragon</ancestry>
     <size>H</size>
@@ -7936,7 +7936,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Young Void Dragon</name>
+    <name>Young Void Dragon [TP Legacy]</name>
     <sortname>Void Dragon, Young</sortname>
     <ancestry>Void Dragon</ancestry>
     <size>L</size>
@@ -8008,7 +8008,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Void Dragon Wyrmling</name>
+    <name>Void Dragon Wyrmling [TP Legacy]</name>
     <sortname>Dragon Wyrmling, Void</sortname>
     <ancestry>Dragon Wyrmling</ancestry>
     <size>M</size>
@@ -8067,7 +8067,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Ancient Wind Dragon</name>
+    <name>Ancient Wind Dragon [TP Legacy]</name>
     <sortname>Wind Dragon, Ancient</sortname>
     <ancestry>Wind Dragon</ancestry>
     <size>G</size>
@@ -8178,7 +8178,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Adult Wind Dragon</name>
+    <name>Adult Wind Dragon [TP Legacy]</name>
     <sortname>Wind Dragon, Adult</sortname>
     <ancestry>Wind Dragon</ancestry>
     <size>H</size>
@@ -8279,7 +8279,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Young Wind Dragon</name>
+    <name>Young Wind Dragon [TP Legacy]</name>
     <sortname>Wind Dragon, Young</sortname>
     <ancestry>Wind Dragon</ancestry>
     <size>L</size>
@@ -8341,7 +8341,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Wyrmling Wind Dragon</name>
+    <name>Wyrmling Wind Dragon [TP Legacy]</name>
     <sortname>Wind Dragon, Wyrmling</sortname>
     <ancestry>Wind Dragon</ancestry>
     <size>M</size>
@@ -8380,7 +8380,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Dragon Eel</name>
+    <name>Dragon Eel [TP Legacy]</name>
     <sortname>Dragon, Eel</sortname>
     <ancestry>Dragon</ancestry>
     <size>H</size>
@@ -8440,7 +8440,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Dragonleaf Tree</name>
+    <name>Dragonleaf Tree [TP Legacy]</name>
     <sortname>Dragonleaf, Tree</sortname>
     <ancestry>Dragonleaf</ancestry>
     <size>L</size>
@@ -8492,7 +8492,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Alehouse Drake</name>
+    <name>Alehouse Drake [TP Legacy]</name>
     <sortname>Drake, Alehouse</sortname>
     <ancestry>Drake</ancestry>
     <size>T</size>
@@ -8552,7 +8552,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Ash Drake</name>
+    <name>Ash Drake [TP Legacy]</name>
     <sortname>Drake, Ash</sortname>
     <ancestry>Drake</ancestry>
     <size>S</size>
@@ -8604,7 +8604,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Coral Drake</name>
+    <name>Coral Drake [TP Legacy]</name>
     <sortname>Drake, Coral</sortname>
     <ancestry>Drake</ancestry>
     <size>M</size>
@@ -8667,7 +8667,7 @@ The creature can repeat the saving throw at the end of its turns, ending the eff
     <environment/>
   </monster>
   <monster>
-    <name>Crimson Drake</name>
+    <name>Crimson Drake [TP Legacy]</name>
     <sortname>Drake, Crimson</sortname>
     <ancestry>Drake</ancestry>
     <size>T</size>
@@ -8721,7 +8721,7 @@ If the saving throw fails by 5 or more, the target takes 2 (1d4) poison damage a
     <environment/>
   </monster>
   <monster>
-    <name>Deep Drake</name>
+    <name>Deep Drake [TP Legacy]</name>
     <sortname>Drake, Deep</sortname>
     <ancestry>Drake</ancestry>
     <size>L</size>
@@ -8782,7 +8782,7 @@ When animate dead is cast on creatures killed by this poison, the caster require
     <environment/>
   </monster>
   <monster>
-    <name>Elder Shadow Drake</name>
+    <name>Elder Shadow Drake [TP Legacy]</name>
     <sortname>Shadow Drake, Elder</sortname>
     <ancestry>Shadow Drake</ancestry>
     <size>L</size>
@@ -8844,7 +8844,7 @@ When animate dead is cast on creatures killed by this poison, the caster require
     <environment/>
   </monster>
   <monster>
-    <name>Paper Drake</name>
+    <name>Paper Drake [TP Legacy]</name>
     <sortname>Drake, Paper</sortname>
     <ancestry>Drake</ancestry>
     <size>S</size>
@@ -8902,7 +8902,7 @@ When animate dead is cast on creatures killed by this poison, the caster require
     <environment/>
   </monster>
   <monster>
-    <name>Rust Drake</name>
+    <name>Rust Drake [TP Legacy]</name>
     <sortname>Drake, Rust</sortname>
     <ancestry>Drake</ancestry>
     <size>M</size>
@@ -8954,7 +8954,7 @@ When animate dead is cast on creatures killed by this poison, the caster require
     <environment/>
   </monster>
   <monster>
-    <name>Star Drake</name>
+    <name>Star Drake [TP Legacy]</name>
     <sortname>Drake, Star</sortname>
     <ancestry>Drake</ancestry>
     <size>L</size>
@@ -9049,7 +9049,7 @@ When animate dead is cast on creatures killed by this poison, the caster require
     <environment/>
   </monster>
   <monster>
-    <name>Drakon</name>
+    <name>Drakon [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -9099,7 +9099,7 @@ When animate dead is cast on creatures killed by this poison, the caster require
     <environment/>
   </monster>
   <monster>
-    <name>Dream Eater</name>
+    <name>Dream Eater [TP Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>Lawful Evil</alignment>
@@ -9165,7 +9165,7 @@ When animate dead is cast on creatures killed by this poison, the caster require
     <environment/>
   </monster>
   <monster>
-    <name>Drowned Maiden</name>
+    <name>Drowned Maiden [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -9226,7 +9226,7 @@ Three creatures can be grappled at a time.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Duskthorn Dryad</name>
+    <name>Duskthorn Dryad [TP Legacy]</name>
     <sortname>Dryad, Duskthorn</sortname>
     <ancestry>Dryad</ancestry>
     <size>M</size>
@@ -9291,7 +9291,7 @@ A dryad can bond with new vines by performing a 24-hour ritual.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Dullahan</name>
+    <name>Dullahan [TP Legacy]</name>
     <size>L</size>
     <type>fey</type>
     <alignment>Lawful Evil</alignment>
@@ -9356,7 +9356,7 @@ A dryad can bond with new vines by performing a 24-hour ritual.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Dune Mimic</name>
+    <name>Dune Mimic [TP Legacy]</name>
     <sortname>Mimic, Dune</sortname>
     <ancestry>Mimic</ancestry>
     <size>H</size>
@@ -9416,7 +9416,7 @@ If the dune mimic is in object or terrain form, the target is subjected to the m
     <environment/>
   </monster>
   <monster>
-    <name>Eala</name>
+    <name>Eala [TP Legacy]</name>
     <size>S</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -9461,7 +9461,7 @@ If the dune mimic is in object or terrain form, the target is subjected to the m
     <environment/>
   </monster>
   <monster>
-    <name>Eater of Dust (Yakat-Shi)</name>
+    <name>Eater of Dust (Yakat-Shi) [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -9515,7 +9515,7 @@ If the dune mimic is in object or terrain form, the target is subjected to the m
     <environment/>
   </monster>
   <monster>
-    <name>Edimmu</name>
+    <name>Edimmu [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -9557,7 +9557,7 @@ The target must succeed on a DC 14 Constitution saving throw or its hit point ma
     <environment/>
   </monster>
   <monster>
-    <name>Eel Hound</name>
+    <name>Eel Hound [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Neutral</alignment>
@@ -9605,7 +9605,7 @@ The target must succeed on a DC 14 Constitution saving throw or its hit point ma
     <environment/>
   </monster>
   <monster>
-    <name>Einherjar</name>
+    <name>Einherjar [TP Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>Chaotic Neutral</alignment>
@@ -9671,7 +9671,7 @@ Their magic must be renewed each week by a valkyrie or Odin's own hand.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Eleinomae</name>
+    <name>Eleinomae [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Chaotic Evil</alignment>
@@ -9728,7 +9728,7 @@ Their magic must be renewed each week by a valkyrie or Odin's own hand.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Elemental Locus</name>
+    <name>Elemental Locus [TP Legacy]</name>
     <size>G</size>
     <type>elemental</type>
     <alignment>Neutral</alignment>
@@ -9784,7 +9784,7 @@ Their magic must be renewed each week by a valkyrie or Odin's own hand.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Shadow Fey</name>
+    <name>Shadow Fey [TP Legacy]</name>
     <sortname>Shadow Fey</sortname>
     <ancestry>Shadow Fey</ancestry>
     <size>M</size>
@@ -9841,7 +9841,7 @@ Their magic must be renewed each week by a valkyrie or Odin's own hand.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Shadow Fey Duelist</name>
+    <name>Shadow Fey Duelist [TP Legacy]</name>
     <sortname>Shadow Fey, Duelist</sortname>
     <ancestry>Shadow Fey</ancestry>
     <size>M</size>
@@ -9908,7 +9908,7 @@ A poisoned creature repeats the save at the end of each of its turns, ending the
     <environment/>
   </monster>
   <monster>
-    <name>Shadow Fey Enchantress</name>
+    <name>Shadow Fey Enchantress [TP Legacy]</name>
     <sortname>Shadow Fey, Enchantress</sortname>
     <ancestry>Shadow Fey</ancestry>
     <size>M</size>
@@ -9985,7 +9985,7 @@ A poisoned creature repeats the save at the end of each of its turns, ending the
     <environment/>
   </monster>
   <monster>
-    <name>Shadow Fey Forest Hunter</name>
+    <name>Shadow Fey Forest Hunter [TP Legacy]</name>
     <sortname>Shadow Fey, Forest Hunter</sortname>
     <ancestry>Shadow Fey</ancestry>
     <size>M</size>
@@ -10051,7 +10051,7 @@ A poisoned creature repeats the save at the end of each of its turns, ending the
     <environment/>
   </monster>
   <monster>
-    <name>Shadow Fey Guardian</name>
+    <name>Shadow Fey Guardian [TP Legacy]</name>
     <sortname>Shadow Fey, Guardian</sortname>
     <ancestry>Shadow Fey</ancestry>
     <size>L</size>
@@ -10120,7 +10120,7 @@ A poisoned creature repeats the save at the end of each of its turns, ending the
     <environment/>
   </monster>
   <monster>
-    <name>Emerald Eye</name>
+    <name>Emerald Eye [TP Legacy]</name>
     <size>T</size>
     <type>construct</type>
     <alignment>Chaotic Evil</alignment>
@@ -10175,7 +10175,7 @@ A poisoned creature repeats the save at the end of each of its turns, ending the
     <environment/>
   </monster>
   <monster>
-    <name>Empty Cloak</name>
+    <name>Empty Cloak [TP Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -10228,7 +10228,7 @@ A poisoned creature repeats the save at the end of each of its turns, ending the
     <environment/>
   </monster>
   <monster>
-    <name>Eonic Drifter</name>
+    <name>Eonic Drifter [TP Legacy]</name>
     <sortname>Drifter, Eonic</sortname>
     <ancestry>Drifter</ancestry>
     <size>M</size>
@@ -10276,7 +10276,7 @@ A poisoned creature repeats the save at the end of each of its turns, ending the
     <environment/>
   </monster>
   <monster>
-    <name>Erina Scrounger</name>
+    <name>Erina Scrounger [TP Legacy]</name>
     <sortname>Erina, Scrounger</sortname>
     <ancestry>Erina</ancestry>
     <npc>YES</npc>
@@ -10328,7 +10328,7 @@ A poisoned creature repeats the save at the end of each of its turns, ending the
     <environment/>
   </monster>
   <monster>
-    <name>Erina Defender</name>
+    <name>Erina Defender [TP Legacy]</name>
     <sortname>Erina, Defender</sortname>
     <ancestry>Erina</ancestry>
     <npc>YES</npc>
@@ -10388,7 +10388,7 @@ A poisoned creature repeats the save at the end of each of its turns, ending the
     <environment/>
   </monster>
   <monster>
-    <name>Far Darrig</name>
+    <name>Far Darrig [TP Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>Neutral</alignment>
@@ -10437,7 +10437,7 @@ Constant: magic weapon (antler glaive only), speak with animals
     <environment/>
   </monster>
   <monster>
-    <name>Fate Eater</name>
+    <name>Fate Eater [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Neutral</alignment>
@@ -10492,7 +10492,7 @@ Effects 3-6 are permanent until the character makes a successful Charisma saving
     <environment/>
   </monster>
   <monster>
-    <name>Fear Smith</name>
+    <name>Fear Smith [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Chaotic Neutral</alignment>
@@ -10553,7 +10553,7 @@ If the target is disoriented by Distortion Gaze, this attack does an additional 
     <environment/>
   </monster>
   <monster>
-    <name>Fellforged</name>
+    <name>Fellforged [TP Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Lawful Evil</alignment>
@@ -10607,7 +10607,7 @@ This reduction lasts until the target finishes a long rest. The target dies if t
     <environment/>
   </monster>
   <monster>
-    <name>Fext</name>
+    <name>Fext [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>any alignment</alignment>
@@ -10668,7 +10668,7 @@ This reduction lasts until the target finishes a long rest. The target dies if t
     <environment/>
   </monster>
   <monster>
-    <name>Bear King</name>
+    <name>Bear King [TP Legacy]</name>
     <sortname>Bear, King</sortname>
     <ancestry>Bear</ancestry>
     <size>M</size>
@@ -10780,7 +10780,7 @@ A creature hit by two maul attacks in the same turn must succeed on a DC 17 Stre
     <environment/>
   </monster>
   <monster>
-    <name>Lord of the Hunt</name>
+    <name>Lord of the Hunt [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Lawful Neutral</alignment>
@@ -10886,7 +10886,7 @@ When the Lord of the Hunt breaks camp or dies, the area around the previous camp
     <environment/>
   </monster>
   <monster>
-    <name>Moonlit King</name>
+    <name>Moonlit King [TP Legacy]</name>
     <sortname>Moonlit, King</sortname>
     <ancestry>Moonlit</ancestry>
     <size>M</size>
@@ -11004,7 +11004,7 @@ A target that is struck by the staff two or more times in one turn must make a s
     <environment/>
   </monster>
   <monster>
-    <name>Queen of Night And Magic</name>
+    <name>Queen of Night And Magic [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Neutral Evil</alignment>
@@ -11136,7 +11136,7 @@ The wall lasts until the Queen uses this lair action again, or until she dies.
     <environment/>
   </monster>
   <monster>
-    <name>Queen of Witches</name>
+    <name>Queen of Witches [TP Legacy]</name>
     <sortname>Witch, Queen</sortname>
     <ancestry>Witch</ancestry>
     <size>L</size>
@@ -11251,7 +11251,7 @@ A creature hit by a blast must succeed on a DC 19 Strength saving throw or be pu
     <environment/>
   </monster>
   <monster>
-    <name>River King</name>
+    <name>River King [TP Legacy]</name>
     <sortname>King, River</sortname>
     <ancestry>King</ancestry>
     <size>M</size>
@@ -11364,7 +11364,7 @@ A target creature must succeed on a DC 16 Strength saving throw or be knocked pr
     <environment/>
   </monster>
   <monster>
-    <name>Snow Queen</name>
+    <name>Snow Queen [TP Legacy]</name>
     <sortname>Queen, Snow</sortname>
     <ancestry>Queen</ancestry>
     <size>M</size>
@@ -11481,7 +11481,7 @@ The target's speed is reduced by 10 feet until the end of its next turn.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Feyward Tree</name>
+    <name>Feyward Tree [TP Legacy]</name>
     <sortname>Tree, Feyward</sortname>
     <ancestry>Tree</ancestry>
     <size>H</size>
@@ -11547,7 +11547,7 @@ A magical attack that deals lightning damage breaks any slow effect on the feywa
     <environment/>
   </monster>
   <monster>
-    <name>Firebird</name>
+    <name>Firebird [TP Legacy]</name>
     <size>S</size>
     <type>celestial</type>
     <alignment>Neutral Good</alignment>
@@ -11609,7 +11609,7 @@ A magical attack that deals lightning damage breaks any slow effect on the feywa
     <environment/>
   </monster>
   <monster>
-    <name>Firegeist</name>
+    <name>Firegeist [TP Legacy]</name>
     <size>S</size>
     <type>elemental</type>
     <alignment>Neutral Evil</alignment>
@@ -11666,7 +11666,7 @@ A magical attack that deals lightning damage breaks any slow effect on the feywa
     <environment/>
   </monster>
   <monster>
-    <name>Flutterflesh</name>
+    <name>Flutterflesh [TP Legacy]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -11731,7 +11731,7 @@ On a critical hit, the target takes an additional 27 (5d10) slashing damage and 
     <environment/>
   </monster>
   <monster>
-    <name>Folk of Leng</name>
+    <name>Folk of Leng [TP Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>Neutral Evil</alignment>
@@ -11797,7 +11797,7 @@ A successful DC 14 Constitution saving throw halves the poison damage.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Forest Marauder</name>
+    <name>Forest Marauder [TP Legacy]</name>
     <size>L</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -11842,7 +11842,7 @@ A successful DC 14 Constitution saving throw halves the poison damage.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Fraughashar</name>
+    <name>Fraughashar [TP Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>Neutral Evil</alignment>
@@ -11892,7 +11892,7 @@ A successful DC 14 Constitution saving throw halves the poison damage.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Frostveil</name>
+    <name>Frostveil [TP Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -11951,7 +11951,7 @@ If two tendrils hit the same target in a single turn, the target is engulfed.</t
     <environment/>
   </monster>
   <monster>
-    <name>Garroter Crab</name>
+    <name>Garroter Crab [TP Legacy]</name>
     <sortname>Crab, Garroter</sortname>
     <ancestry>Crab</ancestry>
     <size>T</size>
@@ -11991,7 +11991,7 @@ While grappled, the target cannot speak or cast spells with verbal components.</
     <environment/>
   </monster>
   <monster>
-    <name>Gbahali (Postosuchus)</name>
+    <name>Gbahali (Postosuchus) [TP Legacy]</name>
     <size>H</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -12036,7 +12036,7 @@ While grappled, the target cannot speak or cast spells with verbal components.</
     <environment/>
   </monster>
   <monster>
-    <name>Gearforged Templar</name>
+    <name>Gearforged Templar [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (gearforged)</type>
     <alignment>Lawful Neutral</alignment>
@@ -12094,7 +12094,7 @@ While grappled, the target cannot speak or cast spells with verbal components.</
     <environment/>
   </monster>
   <monster>
-    <name>Al-Aeshma Genie</name>
+    <name>Al-Aeshma Genie [TP Legacy]</name>
     <size>L</size>
     <type>elemental</type>
     <alignment>Chaotic Evil</alignment>
@@ -12164,7 +12164,7 @@ The al-Aeshma can move the dust devil up to 60 feet as an action; restrained cre
     <environment/>
   </monster>
   <monster>
-    <name>Gerridae</name>
+    <name>Gerridae [TP Legacy]</name>
     <size>L</size>
     <type>fey</type>
     <alignment>Neutral</alignment>
@@ -12213,7 +12213,7 @@ The al-Aeshma can move the dust devil up to 60 feet as an action; restrained cre
     <environment/>
   </monster>
   <monster>
-    <name>Beggar Ghoul</name>
+    <name>Beggar Ghoul [TP Legacy]</name>
     <sortname>Ghoul, Beggar</sortname>
     <ancestry>Ghoul</ancestry>
     <size>M</size>
@@ -12260,7 +12260,7 @@ The al-Aeshma can move the dust devil up to 60 feet as an action; restrained cre
     <environment/>
   </monster>
   <monster>
-    <name>Bonepowder Ghoul</name>
+    <name>Bonepowder Ghoul [TP Legacy]</name>
     <sortname>Ghoul, Bonepowder</sortname>
     <ancestry>Ghoul</ancestry>
     <size>S</size>
@@ -12325,7 +12325,7 @@ If the target creature is humanoid, it must succeed on a second DC 19 Constituti
     <environment/>
   </monster>
   <monster>
-    <name>Ghoul, Darakhul</name>
+    <name>Ghoul, Darakhul [TP Legacy]</name>
     <sortname>Ghoul, Darakhul</sortname>
     <ancestry>Ghoul</ancestry>
     <size>M</size>
@@ -12399,7 +12399,7 @@ This reduction can't be removed until the victim recovers from darakhul fever, a
     <environment/>
   </monster>
   <monster>
-    <name>Emperor of the Ghouls</name>
+    <name>Emperor of the Ghouls [TP Legacy]</name>
     <sortname>Ghoul, Emperor</sortname>
     <ancestry>Ghoul</ancestry>
     <size>M</size>
@@ -12523,7 +12523,7 @@ A paralyzed creature repeats the saving throw at the ends of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Ghoul, Imperial</name>
+    <name>Ghoul, Imperial [TP Legacy]</name>
     <sortname>Ghoul, Imperial</sortname>
     <ancestry>Ghoul</ancestry>
     <size>M</size>
@@ -12575,7 +12575,7 @@ A paralyzed creature repeats the saving throw at the ends of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Ghoul, Iron</name>
+    <name>Ghoul, Iron [TP Legacy]</name>
     <sortname>Ghoul, Iron</sortname>
     <ancestry>Ghoul</ancestry>
     <size>M</size>
@@ -12632,7 +12632,7 @@ A paralyzed creature repeats the saving throw at the ends of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Desert Giant</name>
+    <name>Desert Giant [TP Legacy]</name>
     <sortname>Giant, Desert</sortname>
     <ancestry>Giant</ancestry>
     <size>H</size>
@@ -12683,7 +12683,7 @@ A paralyzed creature repeats the saving throw at the ends of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Flab Giant</name>
+    <name>Flab Giant [TP Legacy]</name>
     <sortname>Giant, Flab</sortname>
     <ancestry>Giant</ancestry>
     <size>L</size>
@@ -12729,7 +12729,7 @@ A paralyzed creature repeats the saving throw at the ends of its turns, ending t
     <environment/>
   </monster>
   <monster>
-    <name>Hraesvelgr The Corpse Swallower</name>
+    <name>Hraesvelgr The Corpse Swallower [TP Legacy]</name>
     <size>H</size>
     <type>giant (shapechanger</type>
     <alignment>titan), neutral</alignment>
@@ -12840,7 +12840,7 @@ Until this grapple ends, the target is restrained and Hraesvelgr can't use his t
     <environment/>
   </monster>
   <monster>
-    <name>Jotun Giant</name>
+    <name>Jotun Giant [TP Legacy]</name>
     <sortname>Giant, Jotun</sortname>
     <ancestry>Giant</ancestry>
     <size>G</size>
@@ -12932,7 +12932,7 @@ Until this grapple ends, the target is restrained and Hraesvelgr can't use his t
     <environment/>
   </monster>
   <monster>
-    <name>Thursir Giant</name>
+    <name>Thursir Giant [TP Legacy]</name>
     <sortname>Giant, Thursir</sortname>
     <ancestry>Giant</ancestry>
     <size>L</size>
@@ -12986,7 +12986,7 @@ The thurs rune lasts for one hour, or for three hits, whichever comes first.</te
     <environment/>
   </monster>
   <monster>
-    <name>Glass Gator</name>
+    <name>Glass Gator [TP Legacy]</name>
     <sortname>Gator, Glass</sortname>
     <ancestry>Gator</ancestry>
     <size>L</size>
@@ -13047,7 +13047,7 @@ Until this grapple ends, the target is restrained and the glass gator can't atta
     <environment/>
   </monster>
   <monster>
-    <name>Gnarljak</name>
+    <name>Gnarljak [TP Legacy]</name>
     <size>S</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -13083,7 +13083,7 @@ Until this grapple ends, the target is restrained and the glass gator can't atta
     <environment/>
   </monster>
   <monster>
-    <name>Gnoll Havoc Runner</name>
+    <name>Gnoll Havoc Runner [TP Legacy]</name>
     <sortname>Gnoll, Havoc Runner</sortname>
     <ancestry>Gnoll</ancestry>
     <size>M</size>
@@ -13138,7 +13138,7 @@ Until this grapple ends, the target is restrained and the glass gator can't atta
     <environment/>
   </monster>
   <monster>
-    <name>Goat-Man</name>
+    <name>Goat-Man [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -13183,7 +13183,7 @@ Until this grapple ends, the target is restrained and the glass gator can't atta
     <environment/>
   </monster>
   <monster>
-    <name>Dust Goblin</name>
+    <name>Dust Goblin [TP Legacy]</name>
     <sortname>Goblin, Dust</sortname>
     <ancestry>Goblin</ancestry>
     <size>S</size>
@@ -13226,7 +13226,7 @@ Until this grapple ends, the target is restrained and the glass gator can't atta
     <environment/>
   </monster>
   <monster>
-    <name>Eye Golem</name>
+    <name>Eye Golem [TP Legacy]</name>
     <sortname>Golem, Eye</sortname>
     <ancestry>Golem</ancestry>
     <size>L</size>
@@ -13291,7 +13291,7 @@ Until this grapple ends, the target is restrained and the glass gator can't atta
     <environment/>
   </monster>
   <monster>
-    <name>Hoard Golem</name>
+    <name>Hoard Golem [TP Legacy]</name>
     <sortname>Golem, Hoard</sortname>
     <ancestry>Golem</ancestry>
     <size>H</size>
@@ -13352,7 +13352,7 @@ As a whirlwind, it can enter other creatures' spaces and stop there. Every creat
     <environment/>
   </monster>
   <monster>
-    <name>Salt Golem</name>
+    <name>Salt Golem [TP Legacy]</name>
     <sortname>Golem, Salt</sortname>
     <ancestry>Golem</ancestry>
     <size>L</size>
@@ -13406,7 +13406,7 @@ As a whirlwind, it can enter other creatures' spaces and stop there. Every creat
     <environment/>
   </monster>
   <monster>
-    <name>Smaragdine Golem</name>
+    <name>Smaragdine Golem [TP Legacy]</name>
     <sortname>Golem, Smaragdine</sortname>
     <ancestry>Golem</ancestry>
     <size>L</size>
@@ -13464,7 +13464,7 @@ As a whirlwind, it can enter other creatures' spaces and stop there. Every creat
     <environment/>
   </monster>
   <monster>
-    <name>Steam Golem</name>
+    <name>Steam Golem [TP Legacy]</name>
     <sortname>Golem, Steam</sortname>
     <ancestry>Golem</ancestry>
     <size>L</size>
@@ -13536,7 +13536,7 @@ As a whirlwind, it can enter other creatures' spaces and stop there. Every creat
     <environment/>
   </monster>
   <monster>
-    <name>Gray Thirster</name>
+    <name>Gray Thirster [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -13588,7 +13588,7 @@ If the target failed a saving throw against the Thirst trait at any point in thi
     <environment/>
   </monster>
   <monster>
-    <name>Rum Gremlin</name>
+    <name>Rum Gremlin [TP Legacy]</name>
     <sortname>Gremlin, Rum</sortname>
     <ancestry>Gremlin</ancestry>
     <size>T</size>
@@ -13646,7 +13646,7 @@ If the target failed a saving throw against the Thirst trait at any point in thi
     <environment/>
   </monster>
   <monster>
-    <name>Grim Jester</name>
+    <name>Grim Jester [TP Legacy]</name>
     <sortname>Jester, Grim</sortname>
     <ancestry>Jester</ancestry>
     <size>M</size>
@@ -13710,7 +13710,7 @@ If the target failed a saving throw against the Thirst trait at any point in thi
     <environment/>
   </monster>
   <monster>
-    <name>Gug</name>
+    <name>Gug [TP Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Neutral Evil</alignment>
@@ -13781,7 +13781,7 @@ If a creature is hit by this attack twice in the same turn, the target must make
     <environment/>
   </monster>
   <monster>
-    <name>Blood Hag</name>
+    <name>Blood Hag [TP Legacy]</name>
     <sortname>Hag, Blood</sortname>
     <ancestry>Hag</ancestry>
     <size>M</size>
@@ -13860,7 +13860,7 @@ If a creature is hit by this attack twice in the same turn, the target must make
     <environment/>
   </monster>
   <monster>
-    <name>Mirror Hag</name>
+    <name>Mirror Hag [TP Legacy]</name>
     <sortname>Hag, Mirror</sortname>
     <ancestry>Hag</ancestry>
     <size>M</size>
@@ -13924,7 +13924,7 @@ A successful save renders the target immune to further uses of that hag's curse 
     <environment/>
   </monster>
   <monster>
-    <name>Red Hag</name>
+    <name>Red Hag [TP Legacy]</name>
     <sortname>Hag, Red</sortname>
     <ancestry>Hag</ancestry>
     <size>M</size>
@@ -13985,7 +13985,7 @@ A successful save renders the target immune to further uses of that hag's curse 
     <environment/>
   </monster>
   <monster>
-    <name>Sand Hag</name>
+    <name>Sand Hag [TP Legacy]</name>
     <sortname>Hag, Sand</sortname>
     <ancestry>Hag</ancestry>
     <size>M</size>
@@ -14051,7 +14051,7 @@ A successful save renders the target immune to further uses of that hag's curse 
     <environment/>
   </monster>
   <monster>
-    <name>Owl Harpy</name>
+    <name>Owl Harpy [TP Legacy]</name>
     <sortname>Harpy, Owl</sortname>
     <ancestry>Harpy</ancestry>
     <size>M</size>
@@ -14115,7 +14115,7 @@ A successful save renders the target immune to further uses of that hag's curse 
     <environment/>
   </monster>
   <monster>
-    <name>Haugbui</name>
+    <name>Haugbui [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Lawful Neutral</alignment>
@@ -14185,7 +14185,7 @@ Constant: detect thoughts, invisibility, mage hand, scrying
     <environment/>
   </monster>
   <monster>
-    <name>Herald of Blood</name>
+    <name>Herald of Blood [TP Legacy]</name>
     <size>H</size>
     <type>fiend</type>
     <alignment>Neutral Evil</alignment>
@@ -14253,7 +14253,7 @@ Constant: detect thoughts, invisibility, mage hand, scrying
     <environment/>
   </monster>
   <monster>
-    <name>Herald of Darkness</name>
+    <name>Herald of Darkness [TP Legacy]</name>
     <size>L</size>
     <type>fiend</type>
     <alignment>Neutral Evil</alignment>
@@ -14310,7 +14310,7 @@ Constant: detect thoughts, invisibility, mage hand, scrying
     <environment/>
   </monster>
   <monster>
-    <name>Horakh</name>
+    <name>Horakh [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Neutral</alignment>
@@ -14369,7 +14369,7 @@ A lesser restoration spell can kill the egg during its incubation.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Hound of the Night</name>
+    <name>Hound of the Night [TP Legacy]</name>
     <sortname>Hound, of the Night</sortname>
     <ancestry>Hound</ancestry>
     <size>L</size>
@@ -14418,7 +14418,7 @@ A lesser restoration spell can kill the egg during its incubation.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Hulking Whelp</name>
+    <name>Hulking Whelp [TP Legacy]</name>
     <size>S</size>
     <type>fey (shapechanger)</type>
     <alignment>Chaotic Neutral</alignment>
@@ -14470,7 +14470,7 @@ A lesser restoration spell can kill the egg during its incubation.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Hundun</name>
+    <name>Hundun [TP Legacy]</name>
     <size>L</size>
     <type>celestial</type>
     <alignment>chaotic good</alignment>
@@ -14552,7 +14552,7 @@ Constant: confusion (always centered on the hundun), detect thoughts
     <environment/>
   </monster>
   <monster>
-    <name>Ice Maiden</name>
+    <name>Ice Maiden [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Lawful Evil</alignment>
@@ -14633,7 +14633,7 @@ Constant: confusion (always centered on the hundun), detect thoughts
     <environment/>
   </monster>
   <monster>
-    <name>Idolic Deity</name>
+    <name>Idolic Deity [TP Legacy]</name>
     <size>S</size>
     <type>construct</type>
     <alignment>Neutral Evil</alignment>
@@ -14689,7 +14689,7 @@ Constant: confusion (always centered on the hundun), detect thoughts
     <environment/>
   </monster>
   <monster>
-    <name>Imy-Ut Ushabti</name>
+    <name>Imy-Ut Ushabti [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Neutral</alignment>
@@ -14741,7 +14741,7 @@ The target repeats the saving throw at the end of each of its turns, ending the 
     <environment/>
   </monster>
   <monster>
-    <name>Isonade</name>
+    <name>Isonade [TP Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>Chaotic Neutral</alignment>
@@ -14810,7 +14810,7 @@ The target repeats the saving throw at the end of each of its turns, ending the 
     <environment/>
   </monster>
   <monster>
-    <name>Jaculus</name>
+    <name>Jaculus [TP Legacy]</name>
     <size>S</size>
     <type>dragon</type>
     <alignment>Neutral Evil</alignment>
@@ -14855,7 +14855,7 @@ The target repeats the saving throw at the end of each of its turns, ending the 
     <environment/>
   </monster>
   <monster>
-    <name>Kalke</name>
+    <name>Kalke [TP Legacy]</name>
     <size>S</size>
     <type>fiend</type>
     <alignment>Neutral Evil</alignment>
@@ -14899,7 +14899,7 @@ The target repeats the saving throw at the end of each of its turns, ending the 
     <environment/>
   </monster>
   <monster>
-    <name>Kikimora</name>
+    <name>Kikimora [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Chaotic Neutral</alignment>
@@ -14951,7 +14951,7 @@ The target repeats the saving throw at the end of each of its turns, ending the 
     <environment/>
   </monster>
   <monster>
-    <name>Kobold Alchemist</name>
+    <name>Kobold Alchemist [TP Legacy]</name>
     <sortname>Kobold, Alchemist</sortname>
     <ancestry>Kobold</ancestry>
     <size>S</size>
@@ -15015,7 +15015,7 @@ The target repeats the saving throw at the end of each of its turns, ending the 
     <environment/>
   </monster>
   <monster>
-    <name>Kobold Chieftain</name>
+    <name>Kobold Chieftain [TP Legacy]</name>
     <sortname>Kobold, Chieftain</sortname>
     <ancestry>Kobold</ancestry>
     <size>S</size>
@@ -15074,7 +15074,7 @@ The target repeats the saving throw at the end of each of its turns, ending the 
     <environment/>
   </monster>
   <monster>
-    <name>Kobold Trapsmith</name>
+    <name>Kobold Trapsmith [TP Legacy]</name>
     <sortname>Trapsmith, Kobold</sortname>
     <ancestry>Trapsmith</ancestry>
     <size>S</size>
@@ -15158,7 +15158,7 @@ While restrained, the target takes 7 (2d6) lightning damage at the start of its 
     <environment/>
   </monster>
   <monster>
-    <name>Kongamato</name>
+    <name>Kongamato [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -15211,7 +15211,7 @@ While restrained, the target takes 7 (2d6) lightning damage at the start of its 
     <environment/>
   </monster>
   <monster>
-    <name>Koschei</name>
+    <name>Koschei [TP Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>Neutral Evil</alignment>
@@ -15315,7 +15315,7 @@ The target must succeed on a DC 19 Constitution saving throw or its hit point ma
     <environment/>
   </monster>
   <monster>
-    <name>Kot Bayun</name>
+    <name>Kot Bayun [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Neutral</alignment>
@@ -15370,7 +15370,7 @@ The target must succeed on a DC 19 Constitution saving throw or its hit point ma
     <environment/>
   </monster>
   <monster>
-    <name>Krake Spawn</name>
+    <name>Krake Spawn [TP Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -15442,7 +15442,7 @@ If two tentacle attacks hit the same target in one turn, the target is also grap
     <environment/>
   </monster>
   <monster>
-    <name>Lantern Dragonette</name>
+    <name>Lantern Dragonette [TP Legacy]</name>
     <sortname>Dragonette, Lantern</sortname>
     <ancestry>Dragonette</ancestry>
     <size>T</size>
@@ -15490,7 +15490,7 @@ If two tentacle attacks hit the same target in one turn, the target is also grap
     <environment/>
   </monster>
   <monster>
-    <name>Lemurfolk</name>
+    <name>Lemurfolk [TP Legacy]</name>
     <ancestry>Lemurfolk</ancestry>
     <npc>YES</npc>
     <size>S</size>
@@ -15540,7 +15540,7 @@ Another creature can use an action to shake the target awake and end its unconsc
     <environment/>
   </monster>
   <monster>
-    <name>Lemurfolk Greyfur</name>
+    <name>Lemurfolk Greyfur [TP Legacy]</name>
     <sortname>Lemurfolk, Greyfur</sortname>
     <ancestry>Lemurfolk</ancestry>
     <size>S</size>
@@ -15599,7 +15599,7 @@ Another creature can use an action to shake the target awake and end its unconsc
     <environment/>
   </monster>
   <monster>
-    <name>Leshy</name>
+    <name>Leshy [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Chaotic Neutral</alignment>
@@ -15654,7 +15654,7 @@ Another creature can use an action to shake the target awake and end its unconsc
     <environment/>
   </monster>
   <monster>
-    <name>Library Automaton</name>
+    <name>Library Automaton [TP Legacy]</name>
     <size>S</size>
     <type>construct</type>
     <alignment>Lawful Neutral</alignment>
@@ -15693,7 +15693,7 @@ Another creature can use an action to shake the target awake and end its unconsc
     <environment/>
   </monster>
   <monster>
-    <name>Lich Hound</name>
+    <name>Lich Hound [TP Legacy]</name>
     <sortname>Hound, Lich</sortname>
     <ancestry>Hound</ancestry>
     <size>M</size>
@@ -15745,7 +15745,7 @@ The target must succeed on a DC 14 Constitution saving throw or be incapacitated
     <environment/>
   </monster>
   <monster>
-    <name>Likho</name>
+    <name>Likho [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -15801,7 +15801,7 @@ The target must succeed on a DC 14 Constitution saving throw or be incapacitated
     <environment/>
   </monster>
   <monster>
-    <name>Lindwurm</name>
+    <name>Lindwurm [TP Legacy]</name>
     <size>L</size>
     <type>dragon</type>
     <alignment>Neutral Evil</alignment>
@@ -15861,7 +15861,7 @@ Until this grapple ends, the target is restrained, and the lindwurm can constric
     <environment/>
   </monster>
   <monster>
-    <name>Liosalfar</name>
+    <name>Liosalfar [TP Legacy]</name>
     <size>L</size>
     <type>elemental</type>
     <alignment>Neutral</alignment>
@@ -15925,7 +15925,7 @@ Until this grapple ends, the target is restrained, and the lindwurm can constric
     <environment/>
   </monster>
   <monster>
-    <name>Living Wick</name>
+    <name>Living Wick [TP Legacy]</name>
     <size>S</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -15973,7 +15973,7 @@ Until this grapple ends, the target is restrained, and the lindwurm can constric
     <environment/>
   </monster>
   <monster>
-    <name>Lorelei</name>
+    <name>Lorelei [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Chaotic Evil</alignment>
@@ -16035,7 +16035,7 @@ Until this grapple ends, the target is restrained, and the lindwurm can constric
     <environment/>
   </monster>
   <monster>
-    <name>Loxoda</name>
+    <name>Loxoda [TP Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -16085,7 +16085,7 @@ Until this grapple ends, the target is restrained, and the lindwurm can constric
     <environment/>
   </monster>
   <monster>
-    <name>Mahoru</name>
+    <name>Mahoru [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -16149,7 +16149,7 @@ Until this grapple ends, the target is restrained, and the lindwurm can constric
     <environment/>
   </monster>
   <monster>
-    <name>Mallqui</name>
+    <name>Mallqui [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Lawful Neutral</alignment>
@@ -16221,7 +16221,7 @@ Alternatively, the saving throw and DC of the spell used to conjure or control t
     <environment/>
   </monster>
   <monster>
-    <name>Malphas (Storm Crow)</name>
+    <name>Malphas (Storm Crow) [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Neutral Evil</alignment>
@@ -16280,7 +16280,7 @@ Alternatively, the saving throw and DC of the spell used to conjure or control t
     <environment/>
   </monster>
   <monster>
-    <name>Mamura</name>
+    <name>Mamura [TP Legacy]</name>
     <size>S</size>
     <type>aberration (fey)</type>
     <alignment>Neutral Evil</alignment>
@@ -16345,7 +16345,7 @@ If the target is also poisoned by the mamura's claws, it takes another 1d6 poiso
     <environment/>
   </monster>
   <monster>
-    <name>Mask Wight</name>
+    <name>Mask Wight [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -16407,7 +16407,7 @@ The target recovers from all exhaustion caused by the enervating spiked gauntlet
     <environment/>
   </monster>
   <monster>
-    <name>Mavka</name>
+    <name>Mavka [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -16460,7 +16460,7 @@ Constant: protection from evil and good
     <environment/>
   </monster>
   <monster>
-    <name>Mi-Go</name>
+    <name>Mi-Go [TP Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment>Neutral Evil</alignment>
@@ -16515,7 +16515,7 @@ If both claw attacks strike the same target in a single turn, the target takes a
     <environment/>
   </monster>
   <monster>
-    <name>Millitaur</name>
+    <name>Millitaur [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral</alignment>
@@ -16551,7 +16551,7 @@ If both claw attacks strike the same target in a single turn, the target takes a
     <environment/>
   </monster>
   <monster>
-    <name>Map Mimic</name>
+    <name>Map Mimic [TP Legacy]</name>
     <sortname>Mimic, Map</sortname>
     <ancestry>Mimic</ancestry>
     <size>T</size>
@@ -16603,7 +16603,7 @@ If the mimic is in object form, the target is subjected to its Constrict Face tr
     <environment/>
   </monster>
   <monster>
-    <name>Mindrot Thrall</name>
+    <name>Mindrot Thrall [TP Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment>Neutral</alignment>
@@ -16652,7 +16652,7 @@ If the mimic is in object form, the target is subjected to its Constrict Face tr
     <environment/>
   </monster>
   <monster>
-    <name>Mirager</name>
+    <name>Mirager [TP Legacy]</name>
     <size>M</size>
     <type>fey (shapechanger)</type>
     <alignment>Neutral Evil</alignment>
@@ -16712,7 +16712,7 @@ The creature that was kissed doesn't notice that it took damage from the kiss un
     <environment/>
   </monster>
   <monster>
-    <name>Miremal</name>
+    <name>Miremal [TP Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>Chaotic Evil</alignment>
@@ -16775,7 +16775,7 @@ The creature that was kissed doesn't notice that it took damage from the kiss un
     <environment/>
   </monster>
   <monster>
-    <name>Mngwa</name>
+    <name>Mngwa [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -16836,7 +16836,7 @@ The creature that was kissed doesn't notice that it took damage from the kiss un
     <environment/>
   </monster>
   <monster>
-    <name>Monolith Champion</name>
+    <name>Monolith Champion [TP Legacy]</name>
     <sortname>Champion, Monolith</sortname>
     <ancestry>Champion</ancestry>
     <size>L</size>
@@ -16887,7 +16887,7 @@ The creature that was kissed doesn't notice that it took damage from the kiss un
     <environment/>
   </monster>
   <monster>
-    <name>Monolith Footman</name>
+    <name>Monolith Footman [TP Legacy]</name>
     <sortname>Footman, Monolith</sortname>
     <ancestry>Footman</ancestry>
     <size>L</size>
@@ -16938,7 +16938,7 @@ The creature that was kissed doesn't notice that it took damage from the kiss un
     <environment/>
   </monster>
   <monster>
-    <name>Mordant Snare</name>
+    <name>Mordant Snare [TP Legacy]</name>
     <size>G</size>
     <type>aberration</type>
     <alignment>Chaotic Evil</alignment>
@@ -17000,7 +17000,7 @@ The creature that was kissed doesn't notice that it took damage from the kiss un
     <environment/>
   </monster>
   <monster>
-    <name>Morphoi</name>
+    <name>Morphoi [TP Legacy]</name>
     <size>M</size>
     <type>plant (shapechanger)</type>
     <alignment>Chaotic Evil</alignment>
@@ -17054,7 +17054,7 @@ The creature that was kissed doesn't notice that it took damage from the kiss un
     <environment/>
   </monster>
   <monster>
-    <name>Moss Lurker</name>
+    <name>Moss Lurker [TP Legacy]</name>
     <sortname>Lurker, Moss</sortname>
     <ancestry>Lurker</ancestry>
     <size>S</size>
@@ -17119,7 +17119,7 @@ The creature that was kissed doesn't notice that it took damage from the kiss un
     <environment/>
   </monster>
   <monster>
-    <name>Venomous Mummy</name>
+    <name>Venomous Mummy [TP Legacy]</name>
     <sortname>Mummy, Venomous</sortname>
     <ancestry>Mummy</ancestry>
     <size>M</size>
@@ -17161,7 +17161,7 @@ The creature that was kissed doesn't notice that it took damage from the kiss un
     <environment/>
   </monster>
   <monster>
-    <name>Deathcap Myconid</name>
+    <name>Deathcap Myconid [TP Legacy]</name>
     <sortname>Myconid, Deathcap</sortname>
     <ancestry>Myconid</ancestry>
     <size>M</size>
@@ -17217,7 +17217,7 @@ The creature that was kissed doesn't notice that it took damage from the kiss un
     <environment/>
   </monster>
   <monster>
-    <name>Myling</name>
+    <name>Myling [TP Legacy]</name>
     <size>S</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -17264,7 +17264,7 @@ If the target was grappled by the myling at the start of the myling's turn, the 
     <environment/>
   </monster>
   <monster>
-    <name>Naina</name>
+    <name>Naina [TP Legacy]</name>
     <size>L</size>
     <type>dragon (shapechanger)</type>
     <alignment>Lawful Evil</alignment>
@@ -17341,7 +17341,7 @@ If the target was grappled by the myling at the start of the myling's turn, the 
     <environment/>
   </monster>
   <monster>
-    <name>Nichny</name>
+    <name>Nichny [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Neutral Evil</alignment>
@@ -17406,7 +17406,7 @@ If the target was grappled by the myling at the start of the myling's turn, the 
     <environment/>
   </monster>
   <monster>
-    <name>Nightgarm</name>
+    <name>Nightgarm [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -17458,7 +17458,7 @@ A swallowed creature is blinded and restrained and has total cover against attac
     <environment/>
   </monster>
   <monster>
-    <name>Nkosi</name>
+    <name>Nkosi [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (shapechanger</type>
     <alignment>nkosi), lawful neutral</alignment>
@@ -17512,7 +17512,7 @@ A swallowed creature is blinded and restrained and has total cover against attac
     <environment/>
   </monster>
   <monster>
-    <name>Nkosi Pridelord</name>
+    <name>Nkosi Pridelord [TP Legacy]</name>
     <sortname>Nkosi, Pridelord</sortname>
     <ancestry>Nkosi</ancestry>
     <size>M</size>
@@ -17581,7 +17581,7 @@ A swallowed creature is blinded and restrained and has total cover against attac
     <environment/>
   </monster>
   <monster>
-    <name>Nkosi War Ostrich</name>
+    <name>Nkosi War Ostrich [TP Legacy]</name>
     <sortname>Nkosi, War Ostrich</sortname>
     <ancestry>Nkosi</ancestry>
     <size>L</size>
@@ -17627,7 +17627,7 @@ A swallowed creature is blinded and restrained and has total cover against attac
     <environment/>
   </monster>
   <monster>
-    <name>Noctiny</name>
+    <name>Noctiny [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (noctiny)</type>
     <alignment>Neutral Evil</alignment>
@@ -17679,7 +17679,7 @@ A swallowed creature is blinded and restrained and has total cover against attac
     <environment/>
   </monster>
   <monster>
-    <name>Oculo Swarm</name>
+    <name>Oculo Swarm [TP Legacy]</name>
     <sortname>Oculo, Swarm</sortname>
     <ancestry>Oculo</ancestry>
     <size>L</size>
@@ -17721,7 +17721,7 @@ A swallowed creature is blinded and restrained and has total cover against attac
     <environment/>
   </monster>
   <monster>
-    <name>Oozasis</name>
+    <name>Oozasis [TP Legacy]</name>
     <size>G</size>
     <type>ooze</type>
     <alignment>Unaligned</alignment>
@@ -17780,7 +17780,7 @@ The oozasis has two pseudopods, each of which can grapple one target at a time.<
     <environment/>
   </monster>
   <monster>
-    <name>Corrupting Ooze</name>
+    <name>Corrupting Ooze [TP Legacy]</name>
     <sortname>Ooze, Corrupting</sortname>
     <ancestry>Ooze</ancestry>
     <size>L</size>
@@ -17822,7 +17822,7 @@ The oozasis has two pseudopods, each of which can grapple one target at a time.<
     <environment/>
   </monster>
   <monster>
-    <name>Ostinato</name>
+    <name>Ostinato [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Chaotic Neutral</alignment>
@@ -17880,7 +17880,7 @@ The oozasis has two pseudopods, each of which can grapple one target at a time.<
     <environment/>
   </monster>
   <monster>
-    <name>Pombero</name>
+    <name>Pombero [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Chaotic Neutral</alignment>
@@ -17944,7 +17944,7 @@ The pombero can have only one creature at a time charmed with this ability. If i
     <environment/>
   </monster>
   <monster>
-    <name>Possessed Pillar</name>
+    <name>Possessed Pillar [TP Legacy]</name>
     <sortname>Pillar, Possessed</sortname>
     <ancestry>Pillar</ancestry>
     <size>L</size>
@@ -18002,7 +18002,7 @@ The pombero can have only one creature at a time charmed with this ability. If i
     <environment/>
   </monster>
   <monster>
-    <name>Putrid Haunt</name>
+    <name>Putrid Haunt [TP Legacy]</name>
     <sortname>Haunt, Putrid</sortname>
     <ancestry>Haunt</ancestry>
     <size>M</size>
@@ -18049,7 +18049,7 @@ The pombero can have only one creature at a time charmed with this ability. If i
     <environment/>
   </monster>
   <monster>
-    <name>Qwyllion</name>
+    <name>Qwyllion [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -18103,7 +18103,7 @@ The pombero can have only one creature at a time charmed with this ability. If i
     <environment/>
   </monster>
   <monster>
-    <name>Ramag</name>
+    <name>Ramag [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (ramag)</type>
     <alignment>Neutral</alignment>
@@ -18144,7 +18144,7 @@ The pombero can have only one creature at a time charmed with this ability. If i
     <environment/>
   </monster>
   <monster>
-    <name>Rat King</name>
+    <name>Rat King [TP Legacy]</name>
     <sortname>Rat, King</sortname>
     <ancestry>Rat</ancestry>
     <size>M</size>
@@ -18201,7 +18201,7 @@ A diseased creature gains one level of exhaustion immediately. When the creature
     <environment/>
   </monster>
   <monster>
-    <name>Ratatosk</name>
+    <name>Ratatosk [TP Legacy]</name>
     <size>T</size>
     <type>celestial</type>
     <alignment>Chaotic Neutral</alignment>
@@ -18254,7 +18254,7 @@ A diseased creature gains one level of exhaustion immediately. When the creature
     <environment/>
   </monster>
   <monster>
-    <name>Ratfolk</name>
+    <name>Ratfolk [TP Legacy]</name>
     <ancestry>Ratfolk</ancestry>
     <npc>YES</npc>
     <size>S</size>
@@ -18301,7 +18301,7 @@ A diseased creature gains one level of exhaustion immediately. When the creature
     <environment/>
   </monster>
   <monster>
-    <name>Ratfolk Rogue</name>
+    <name>Ratfolk Rogue [TP Legacy]</name>
     <sortname>Ratfolk, Rogue</sortname>
     <ancestry>Ratfolk</ancestry>
     <npc>YES</npc>
@@ -18363,7 +18363,7 @@ A diseased creature gains one level of exhaustion immediately. When the creature
     <environment/>
   </monster>
   <monster>
-    <name>Ravenala</name>
+    <name>Ravenala [TP Legacy]</name>
     <size>L</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -18423,7 +18423,7 @@ A diseased creature gains one level of exhaustion immediately. When the creature
     <environment/>
   </monster>
   <monster>
-    <name>Ravenfolk Scout</name>
+    <name>Ravenfolk Scout [TP Legacy]</name>
     <sortname>Ravenfolk, Scout</sortname>
     <ancestry>Ravenfolk</ancestry>
     <npc>YES</npc>
@@ -18479,7 +18479,7 @@ A diseased creature gains one level of exhaustion immediately. When the creature
     <environment/>
   </monster>
   <monster>
-    <name>Ravenfolk Warrior</name>
+    <name>Ravenfolk Warrior [TP Legacy]</name>
     <sortname>Ravenfolk, Warrior</sortname>
     <ancestry>Ravenfolk</ancestry>
     <npc>YES</npc>
@@ -18548,7 +18548,7 @@ A diseased creature gains one level of exhaustion immediately. When the creature
     <environment/>
   </monster>
   <monster>
-    <name>Ravenfolk Doom Croaker</name>
+    <name>Ravenfolk Doom Croaker [TP Legacy]</name>
     <sortname>Ravenfolk, Doom Croaker</sortname>
     <ancestry>Ravenfolk</ancestry>
     <npc>YES</npc>
@@ -18604,7 +18604,7 @@ A diseased creature gains one level of exhaustion immediately. When the creature
     <environment/>
   </monster>
   <monster>
-    <name>Redcap</name>
+    <name>Redcap [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Neutral Evil</alignment>
@@ -18659,7 +18659,7 @@ On a successful save the creature takes no necrotic damage and the effect ends. 
     <environment/>
   </monster>
   <monster>
-    <name>Rift Swine</name>
+    <name>Rift Swine [TP Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Chaotic Neutral</alignment>
@@ -18716,7 +18716,7 @@ d6 | Mutation
     <environment/>
   </monster>
   <monster>
-    <name>Adult Rime Worm</name>
+    <name>Adult Rime Worm [TP Legacy]</name>
     <sortname>Rime Worm, Adult</sortname>
     <ancestry>Rime Worm</ancestry>
     <size>L</size>
@@ -18778,7 +18778,7 @@ If the target was grappled by the rime worm, it takes an additional 13 (2d12) co
     <environment/>
   </monster>
   <monster>
-    <name>Rime Worm Grub</name>
+    <name>Rime Worm Grub [TP Legacy]</name>
     <sortname>Rime Worm, Grub</sortname>
     <ancestry>Rime Worm</ancestry>
     <size>M</size>
@@ -18829,7 +18829,7 @@ If the target was grappled by the rime worm, it takes an additional 13 (2d12) co
     <environment/>
   </monster>
   <monster>
-    <name>Risen Reaver</name>
+    <name>Risen Reaver [TP Legacy]</name>
     <sortname>Reaver, Risen</sortname>
     <ancestry>Reaver</ancestry>
     <size>L</size>
@@ -18883,7 +18883,7 @@ If the target was grappled by the rime worm, it takes an additional 13 (2d12) co
     <environment/>
   </monster>
   <monster>
-    <name>Roachling Skirmisher</name>
+    <name>Roachling Skirmisher [TP Legacy]</name>
     <sortname>Roachling, Skirmisher</sortname>
     <ancestry>Roachling</ancestry>
     <size>S</size>
@@ -18930,7 +18930,7 @@ If the target was grappled by the rime worm, it takes an additional 13 (2d12) co
     <environment/>
   </monster>
   <monster>
-    <name>Roachling Lord</name>
+    <name>Roachling Lord [TP Legacy]</name>
     <sortname>Roachling, Lord</sortname>
     <ancestry>Roachling</ancestry>
     <size>S</size>
@@ -18981,7 +18981,7 @@ If the target was grappled by the rime worm, it takes an additional 13 (2d12) co
     <environment/>
   </monster>
   <monster>
-    <name>Rotting Wind</name>
+    <name>Rotting Wind [TP Legacy]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -19025,7 +19025,7 @@ If the target was grappled by the rime worm, it takes an additional 13 (2d12) co
     <environment/>
   </monster>
   <monster>
-    <name>Rusalka</name>
+    <name>Rusalka [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -19077,7 +19077,7 @@ If the target was grappled by the rime worm, it takes an additional 13 (2d12) co
     <environment/>
   </monster>
   <monster>
-    <name>Sand Silhouette</name>
+    <name>Sand Silhouette [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -19144,7 +19144,7 @@ If the sand silhouette moves, the engulfed target moves with it. The sand silhou
     <environment/>
   </monster>
   <monster>
-    <name>Sandman</name>
+    <name>Sandman [TP Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>Chaotic Neutral</alignment>
@@ -19200,7 +19200,7 @@ If the sand silhouette moves, the engulfed target moves with it. The sand silhou
     <environment/>
   </monster>
   <monster>
-    <name>Sandwyrm</name>
+    <name>Sandwyrm [TP Legacy]</name>
     <size>L</size>
     <type>dragon</type>
     <alignment>Unaligned</alignment>
@@ -19250,7 +19250,7 @@ If the sand silhouette moves, the engulfed target moves with it. The sand silhou
     <environment/>
   </monster>
   <monster>
-    <name>Sap Demon</name>
+    <name>Sap Demon [TP Legacy]</name>
     <sortname>Demon, Sap</sortname>
     <ancestry>Demon</ancestry>
     <size>S</size>
@@ -19302,7 +19302,7 @@ If both attacks hit a Medium or smaller target, the target is grappled (escape D
     <environment/>
   </monster>
   <monster>
-    <name>Sarcophagus Slime</name>
+    <name>Sarcophagus Slime [TP Legacy]</name>
     <sortname>Slime, Sarcophagus</sortname>
     <ancestry>Slime</ancestry>
     <size>M</size>
@@ -19352,7 +19352,7 @@ If both attacks hit a Medium or smaller target, the target is grappled (escape D
     <environment/>
   </monster>
   <monster>
-    <name>Sathaq Worm</name>
+    <name>Sathaq Worm [TP Legacy]</name>
     <sortname>Worm, Sathaq</sortname>
     <ancestry>Worm</ancestry>
     <size>H</size>
@@ -19402,7 +19402,7 @@ If the target is a Large or smaller creature, it must succeed on a DC 18 Dexteri
     <environment/>
   </monster>
   <monster>
-    <name>Savager</name>
+    <name>Savager [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Neutral Evil</alignment>
@@ -19451,7 +19451,7 @@ If the target is a Large or smaller creature, it must succeed on a DC 18 Dexteri
     <environment/>
   </monster>
   <monster>
-    <name>Scheznyki</name>
+    <name>Scheznyki [TP Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>Chaotic Evil</alignment>
@@ -19505,7 +19505,7 @@ If the target is a Large or smaller creature, it must succeed on a DC 18 Dexteri
     <environment/>
   </monster>
   <monster>
-    <name>Night Scorpion</name>
+    <name>Night Scorpion [TP Legacy]</name>
     <sortname>Scorpion, Night</sortname>
     <ancestry>Scorpion</ancestry>
     <size>L</size>
@@ -19552,7 +19552,7 @@ If the target fails the saving throw by 5 or more, the target is also paralyzed 
     <environment/>
   </monster>
   <monster>
-    <name>Stygian Fat-Tailed Scorpion</name>
+    <name>Stygian Fat-Tailed Scorpion [TP Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -19593,7 +19593,7 @@ If the target fails the saving throw by 5 or more, the target is also paralyzed 
     <environment/>
   </monster>
   <monster>
-    <name>Selang</name>
+    <name>Selang [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Chaotic Evil</alignment>
@@ -19649,7 +19649,7 @@ If the target fails the saving throw by 5 or more, the target is also paralyzed 
     <environment/>
   </monster>
   <monster>
-    <name>Serpopard</name>
+    <name>Serpopard [TP Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -19703,7 +19703,7 @@ If the target fails the saving throw by 5 or more, the target is also paralyzed 
     <environment/>
   </monster>
   <monster>
-    <name>Shabti</name>
+    <name>Shabti [TP Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -19759,7 +19759,7 @@ If the target fails the saving throw by 5 or more, the target is also paralyzed 
     <environment/>
   </monster>
   <monster>
-    <name>Shadhavar</name>
+    <name>Shadhavar [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral</alignment>
@@ -19820,7 +19820,7 @@ If the target fails the saving throw by 5 or more, the target is also paralyzed 
     <environment/>
   </monster>
   <monster>
-    <name>Shadow Beast</name>
+    <name>Shadow Beast [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Chaotic Evil</alignment>
@@ -19887,7 +19887,7 @@ If the target fails the saving throw by 5 or more, the target is also paralyzed 
     <environment/>
   </monster>
   <monster>
-    <name>Shellycoat</name>
+    <name>Shellycoat [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Neutral Evil</alignment>
@@ -19946,7 +19946,7 @@ If the target fails the saving throw by 5 or more, the target is also paralyzed 
     <environment/>
   </monster>
   <monster>
-    <name>Shoggoth</name>
+    <name>Shoggoth [TP Legacy]</name>
     <size>H</size>
     <type>aberration</type>
     <alignment>Chaotic Neutral</alignment>
@@ -20008,7 +20008,7 @@ The shoggoth can grapple any number of creatures simultaneously, and this has no
     <environment/>
   </monster>
   <monster>
-    <name>Shroud</name>
+    <name>Shroud [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -20060,7 +20060,7 @@ The target dies if this reduces its Strength to 0. Otherwise, the reduction last
     <environment/>
   </monster>
   <monster>
-    <name>Skein Witch</name>
+    <name>Skein Witch [TP Legacy]</name>
     <sortname>Witch, Skein</sortname>
     <ancestry>Witch</ancestry>
     <size>M</size>
@@ -20132,7 +20132,7 @@ This effect is cumulative; each inexorable threads hit adds one unsuccessful dea
     <environment/>
   </monster>
   <monster>
-    <name>Sharkjaw Skeleton</name>
+    <name>Sharkjaw Skeleton [TP Legacy]</name>
     <sortname>Skeleton, Sharkjaw</sortname>
     <ancestry>Skeleton</ancestry>
     <size>L</size>
@@ -20177,7 +20177,7 @@ If the target is a Large or smaller creature, it is grappled (escape DC 13). Unt
     <environment/>
   </monster>
   <monster>
-    <name>Vine Troll Skeleton</name>
+    <name>Vine Troll Skeleton [TP Legacy]</name>
     <sortname>Skeleton, Vine Troll</sortname>
     <ancestry>Skeleton</ancestry>
     <size>L</size>
@@ -20224,7 +20224,7 @@ If the target is a Large or smaller creature, it is grappled (escape DC 13). Unt
     <environment/>
   </monster>
   <monster>
-    <name>Skitterhaunt</name>
+    <name>Skitterhaunt [TP Legacy]</name>
     <size>L</size>
     <type>ooze</type>
     <alignment>Unaligned</alignment>
@@ -20280,7 +20280,7 @@ The skitterhaunt has two claws, each of which can grapple one target.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Slow Storm</name>
+    <name>Slow Storm [TP Legacy]</name>
     <size>H</size>
     <type>elemental</type>
     <alignment>Chaotic Neutral</alignment>
@@ -20334,7 +20334,7 @@ A creature can take this damage just once per round. In addition, ranged missile
     <environment/>
   </monster>
   <monster>
-    <name>Swamp Adder</name>
+    <name>Swamp Adder [TP Legacy]</name>
     <sortname>Adder, Swamp</sortname>
     <ancestry>Adder</ancestry>
     <size>S</size>
@@ -20374,7 +20374,7 @@ While poisoned this way, the target is paralyzed and takes 3 (1d6) poison damage
     <environment/>
   </monster>
   <monster>
-    <name>Zanskaran Viper</name>
+    <name>Zanskaran Viper [TP Legacy]</name>
     <sortname>Viper, Zanskaran</sortname>
     <ancestry>Viper</ancestry>
     <size>L</size>
@@ -20410,7 +20410,7 @@ While poisoned this way, the target is blind and takes 7 (2d6) poison damage at 
     <environment/>
   </monster>
   <monster>
-    <name>Son of Fenris</name>
+    <name>Son of Fenris [TP Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -20484,7 +20484,7 @@ If the target was already grappled, it is swallowed instead. While swallowed, th
     <environment/>
   </monster>
   <monster>
-    <name>Soul Eater</name>
+    <name>Soul Eater [TP Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>Neutral Evil</alignment>
@@ -20532,7 +20532,7 @@ If the target was already grappled, it is swallowed instead. While swallowed, th
     <environment/>
   </monster>
   <monster>
-    <name>Spark</name>
+    <name>Spark [TP Legacy]</name>
     <size>T</size>
     <type>elemental</type>
     <alignment>Chaotic Neutral</alignment>
@@ -20571,7 +20571,7 @@ If the target was already grappled, it is swallowed instead. While swallowed, th
     <environment/>
   </monster>
   <monster>
-    <name>Spectral Guardian</name>
+    <name>Spectral Guardian [TP Legacy]</name>
     <sortname>Guardian, Spectral</sortname>
     <ancestry>Guardian</ancestry>
     <size>M</size>
@@ -20632,7 +20632,7 @@ If the target was already grappled, it is swallowed instead. While swallowed, th
     <environment/>
   </monster>
   <monster>
-    <name>Gypsosphinx</name>
+    <name>Gypsosphinx [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -20716,7 +20716,7 @@ If the target was already grappled, it is swallowed instead. While swallowed, th
     <environment/>
   </monster>
   <monster>
-    <name>Ghostwalk Spider</name>
+    <name>Ghostwalk Spider [TP Legacy]</name>
     <sortname>Spider, Ghostwalk</sortname>
     <ancestry>Spider</ancestry>
     <size>L</size>
@@ -20776,7 +20776,7 @@ A creature restrained by Ghostly Snare can escape by using an action to make a s
     <environment/>
   </monster>
   <monster>
-    <name>J'ba Fofi Spider</name>
+    <name>J'ba Fofi Spider [TP Legacy]</name>
     <sortname>Spider, J'ba Fofi</sortname>
     <ancestry>Spider</ancestry>
     <size>L</size>
@@ -20834,7 +20834,7 @@ A creature restrained by Ghostly Snare can escape by using an action to make a s
     <environment/>
   </monster>
   <monster>
-    <name>Red-Banded Line Spider</name>
+    <name>Red-Banded Line Spider [TP Legacy]</name>
     <sortname>Spider, Red-Banded Line</sortname>
     <ancestry>Spider</ancestry>
     <size>T</size>
@@ -20883,7 +20883,7 @@ The target fails the saving throw automatically and takes an extra 1d6 poison da
     <environment/>
   </monster>
   <monster>
-    <name>Sand Spider</name>
+    <name>Sand Spider [TP Legacy]</name>
     <sortname>Spider, Sand</sortname>
     <ancestry>Spider</ancestry>
     <size>L</size>
@@ -20944,7 +20944,7 @@ If the sand spider scores a critical hit with this attack, it rolls damage dice 
     <environment/>
   </monster>
   <monster>
-    <name>Spider of Leng</name>
+    <name>Spider of Leng [TP Legacy]</name>
     <sortname>Spider, Of Leng</sortname>
     <ancestry>Spider</ancestry>
     <size>L</size>
@@ -21016,7 +21016,7 @@ If the sand spider scores a critical hit with this attack, it rolls damage dice 
     <environment/>
   </monster>
   <monster>
-    <name>Spider Thief</name>
+    <name>Spider Thief [TP Legacy]</name>
     <sortname>Spider, Thief</sortname>
     <ancestry>Spider</ancestry>
     <size>S</size>
@@ -21074,7 +21074,7 @@ Instead of moving, the spider thief can retract the razor line and pull itself o
     <environment/>
   </monster>
   <monster>
-    <name>Spire Walker</name>
+    <name>Spire Walker [TP Legacy]</name>
     <size>T</size>
     <type>fey</type>
     <alignment>Chaotic Neutral</alignment>
@@ -21126,7 +21126,7 @@ Whether the attack hits or misses its intended target, every other creature with
     <environment/>
   </monster>
   <monster>
-    <name>Star Spawn of Cthulhu</name>
+    <name>Star Spawn of Cthulhu [TP Legacy]</name>
     <size>L</size>
     <type>fiend</type>
     <alignment>Chaotic Evil</alignment>
@@ -21188,7 +21188,7 @@ The destination is chosen by the star spawn, but it cannot be in the same space 
     <environment/>
   </monster>
   <monster>
-    <name>Stryx</name>
+    <name>Stryx [TP Legacy]</name>
     <size>T</size>
     <type>monstrosity</type>
     <alignment>Neutral</alignment>
@@ -21237,7 +21237,7 @@ The destination is chosen by the star spawn, but it cannot be in the same space 
     <environment/>
   </monster>
   <monster>
-    <name>Stuhac</name>
+    <name>Stuhac [TP Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>Neutral Evil</alignment>
@@ -21294,7 +21294,7 @@ The destination is chosen by the star spawn, but it cannot be in the same space 
     <environment/>
   </monster>
   <monster>
-    <name>Subek</name>
+    <name>Subek [TP Legacy]</name>
     <size>L</size>
     <type>humanoid (subek)</type>
     <alignment>Lawful Neutral</alignment>
@@ -21352,7 +21352,7 @@ The destination is chosen by the star spawn, but it cannot be in the same space 
     <environment/>
   </monster>
   <monster>
-    <name>Suturefly</name>
+    <name>Suturefly [TP Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -21396,7 +21396,7 @@ A victim whose mouth and nose have been sewn shut begins suffocating at the star
     <environment/>
   </monster>
   <monster>
-    <name>Fire Dancer Swarm</name>
+    <name>Fire Dancer Swarm [TP Legacy]</name>
     <sortname>Fire Dancer, Swarm</sortname>
     <ancestry>Fire Dancer</ancestry>
     <size>M</size>
@@ -21448,7 +21448,7 @@ In addition, the first time the swarm enters a creature's space on a turn, that 
     <environment/>
   </monster>
   <monster>
-    <name>Manabane Scarab Swarm</name>
+    <name>Manabane Scarab Swarm [TP Legacy]</name>
     <sortname>Manabane Scarab, Swarm</sortname>
     <ancestry>Manabane Scarab</ancestry>
     <size>M</size>
@@ -21498,7 +21498,7 @@ In addition, the first time the swarm enters a creature's space on a turn, that 
     <environment/>
   </monster>
   <monster>
-    <name>Prismatic Beetle Swarm</name>
+    <name>Prismatic Beetle Swarm [TP Legacy]</name>
     <sortname>Prismatic Beetle, Swarm</sortname>
     <ancestry>Prismatic Beetle</ancestry>
     <size>M</size>
@@ -21540,7 +21540,7 @@ In addition, the first time the swarm enters a creature's space on a turn, that 
     <environment/>
   </monster>
   <monster>
-    <name>Sluagh Swarm</name>
+    <name>Sluagh Swarm [TP Legacy]</name>
     <sortname>Sluagh, Swarm</sortname>
     <ancestry>Sluagh</ancestry>
     <size>M</size>
@@ -21590,7 +21590,7 @@ In addition, the first time the swarm enters a creature's space on a turn, that 
     <environment/>
   </monster>
   <monster>
-    <name>Wolf Spirit Swarm</name>
+    <name>Wolf Spirit Swarm [TP Legacy]</name>
     <sortname>Wolf, Spirit Swarm</sortname>
     <ancestry>Wolf</ancestry>
     <size>L</size>
@@ -21643,7 +21643,7 @@ The target is also knocked prone if the attack scored a critical hit.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Temple Dog</name>
+    <name>Temple Dog [TP Legacy]</name>
     <sortname>Dog, Temple</sortname>
     <ancestry>Dog</ancestry>
     <size>M</size>
@@ -21698,7 +21698,7 @@ The temple dog can immediately enter the position the target was pushed out of, 
     <environment/>
   </monster>
   <monster>
-    <name>Thuellai</name>
+    <name>Thuellai [TP Legacy]</name>
     <size>H</size>
     <type>elemental</type>
     <alignment>Chaotic Neutral</alignment>
@@ -21769,7 +21769,7 @@ d8 | Effect
     <environment/>
   </monster>
   <monster>
-    <name>Ancient Titan</name>
+    <name>Ancient Titan [TP Legacy]</name>
     <sortname>Titan, Ancient</sortname>
     <ancestry>Titan</ancestry>
     <size>G</size>
@@ -21827,7 +21827,7 @@ d8 | Effect
     <environment/>
   </monster>
   <monster>
-    <name>Degenerate Titan</name>
+    <name>Degenerate Titan [TP Legacy]</name>
     <sortname>Titan, Degenerate</sortname>
     <ancestry>Titan</ancestry>
     <size>H</size>
@@ -21884,7 +21884,7 @@ d8 | Effect
     <environment/>
   </monster>
   <monster>
-    <name>Titanoboa</name>
+    <name>Titanoboa [TP Legacy]</name>
     <size>G</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -21937,7 +21937,7 @@ Until this grapple ends, the target is restrained, and the titanoboa can't const
     <environment/>
   </monster>
   <monster>
-    <name>Tophet</name>
+    <name>Tophet [TP Legacy]</name>
     <size>H</size>
     <type>construct</type>
     <alignment>Neutral Evil</alignment>
@@ -21988,7 +21988,7 @@ Until this grapple ends, the target is restrained, and the titanoboa can't const
     <environment/>
   </monster>
   <monster>
-    <name>Tosculi Hive-Queen</name>
+    <name>Tosculi Hive-Queen [TP Legacy]</name>
     <sortname>Tosculi, Hive-Queen</sortname>
     <ancestry>Tosculi</ancestry>
     <size>L</size>
@@ -22092,7 +22092,7 @@ A paralyzed target repeats the saving throw at the end of each of its turns, end
     <environment/>
   </monster>
   <monster>
-    <name>Tosculi Warrior</name>
+    <name>Tosculi Warrior [TP Legacy]</name>
     <sortname>Warrior, Tosculi</sortname>
     <ancestry>Warrior</ancestry>
     <size>S</size>
@@ -22153,7 +22153,7 @@ The paralysis can be ended with a successful DC 20 Wisdom (Medicine) check or by
     <environment/>
   </monster>
   <monster>
-    <name>Tosculi Drone</name>
+    <name>Tosculi Drone [TP Legacy]</name>
     <sortname>Tosculi, Drone</sortname>
     <ancestry>Tosculi</ancestry>
     <size>S</size>
@@ -22200,7 +22200,7 @@ The paralysis can be ended with a successful DC 20 Wisdom (Medicine) check or by
     <environment/>
   </monster>
   <monster>
-    <name>Tosculi Elite Bow Raider</name>
+    <name>Tosculi Elite Bow Raider [TP Legacy]</name>
     <sortname>Tosculi, Elite Bow Raider</sortname>
     <ancestry>Tosculi</ancestry>
     <size>M</size>
@@ -22259,7 +22259,7 @@ The paralysis can be ended with a successful DC 20 Wisdom (Medicine) check or by
     <environment/>
   </monster>
   <monster>
-    <name>Treacle</name>
+    <name>Treacle [TP Legacy]</name>
     <size>T</size>
     <type>ooze</type>
     <alignment>Unaligned</alignment>
@@ -22302,7 +22302,7 @@ The paralysis can be ended with a successful DC 20 Wisdom (Medicine) check or by
     <environment/>
   </monster>
   <monster>
-    <name>Weeping Treant</name>
+    <name>Weeping Treant [TP Legacy]</name>
     <sortname>Treant, Weeping</sortname>
     <ancestry>Treant</ancestry>
     <size>H</size>
@@ -22357,7 +22357,7 @@ The paralysis can be ended with a successful DC 20 Wisdom (Medicine) check or by
     <environment/>
   </monster>
   <monster>
-    <name>Lake Troll</name>
+    <name>Lake Troll [TP Legacy]</name>
     <sortname>Troll, Lake</sortname>
     <ancestry>Troll</ancestry>
     <size>L</size>
@@ -22414,7 +22414,7 @@ If the lake troll hits a creature with both claw attacks in the same turn, the t
     <environment/>
   </monster>
   <monster>
-    <name>Trollkin Reaver</name>
+    <name>Trollkin Reaver [TP Legacy]</name>
     <sortname>Reaver, Trollkin</sortname>
     <ancestry>Reaver</ancestry>
     <size>M</size>
@@ -22480,7 +22480,7 @@ If the lake troll hits a creature with both claw attacks in the same turn, the t
     <environment/>
   </monster>
   <monster>
-    <name>Tusked Skyfish</name>
+    <name>Tusked Skyfish [TP Legacy]</name>
     <sortname>Skyfish, Tusked</sortname>
     <ancestry>Skyfish</ancestry>
     <size>L</size>
@@ -22534,7 +22534,7 @@ The target is also grappled (escape DC 13). Until this grapple ends, the target 
     <environment/>
   </monster>
   <monster>
-    <name>Uraeus</name>
+    <name>Uraeus [TP Legacy]</name>
     <size>T</size>
     <type>celestial</type>
     <alignment>Lawful Neutral</alignment>
@@ -22585,7 +22585,7 @@ While poisoned in this way, the target takes 9 (2d8) fire damage at the start of
     <environment/>
   </monster>
   <monster>
-    <name>Urochar (Strangling Watcher)</name>
+    <name>Urochar (Strangling Watcher) [TP Legacy]</name>
     <size>H</size>
     <type>aberration</type>
     <alignment>Chaotic Evil</alignment>
@@ -22664,7 +22664,7 @@ Until this grapple ends, the target is restrained. Each of its four tentacles ca
     <environment/>
   </monster>
   <monster>
-    <name>Ushabti</name>
+    <name>Ushabti [TP Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -22727,7 +22727,7 @@ If a creature's saving throw is successful, the creature is immune to this ushab
     <environment/>
   </monster>
   <monster>
-    <name>Vaettir</name>
+    <name>Vaettir [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Lawful Evil</alignment>
@@ -22797,7 +22797,7 @@ If a creature's saving throw is successful, the creature is immune to this ushab
     <environment/>
   </monster>
   <monster>
-    <name>Valkyrie</name>
+    <name>Valkyrie [TP Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>Neutral</alignment>
@@ -22871,7 +22871,7 @@ If a creature's saving throw is successful, the creature is immune to this ushab
     <environment/>
   </monster>
   <monster>
-    <name>Umbral Vampire</name>
+    <name>Umbral Vampire [TP Legacy]</name>
     <sortname>Vampire, Umbral</sortname>
     <ancestry>Vampire</ancestry>
     <size>M</size>
@@ -22928,7 +22928,7 @@ If a creature's saving throw is successful, the creature is immune to this ushab
     <environment/>
   </monster>
   <monster>
-    <name>Vapor Lynx</name>
+    <name>Vapor Lynx [TP Legacy]</name>
     <sortname>Lynx, Vapor</sortname>
     <ancestry>Lynx</ancestry>
     <size>L</size>
@@ -22985,7 +22985,7 @@ If a creature's saving throw is successful, the creature is immune to this ushab
     <environment/>
   </monster>
   <monster>
-    <name>Vesiculosa</name>
+    <name>Vesiculosa [TP Legacy]</name>
     <size>G</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -23050,7 +23050,7 @@ Other than that, they have the same statistics as the vesiculosa's main body. Fo
     <environment/>
   </monster>
   <monster>
-    <name>Vila</name>
+    <name>Vila [TP Legacy]</name>
     <size>M</size>
     <type>fey</type>
     <alignment>Lawful Neutral</alignment>
@@ -23120,7 +23120,7 @@ Other than that, they have the same statistics as the vesiculosa's main body. Fo
     <environment/>
   </monster>
   <monster>
-    <name>Vile Barber</name>
+    <name>Vile Barber [TP Legacy]</name>
     <sortname>Barber, Vile</sortname>
     <ancestry>Barber</ancestry>
     <size>S</size>
@@ -23189,7 +23189,7 @@ The creature and all its allies who see this attack must make successful DC 15 W
     <environment/>
   </monster>
   <monster>
-    <name>Vine Lord</name>
+    <name>Vine Lord [TP Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment>Lawful Neutral</alignment>
@@ -23255,7 +23255,7 @@ The creature and all its allies who see this attack must make successful DC 15 W
     <environment/>
   </monster>
   <monster>
-    <name>Vine Lord's Tendril Puppet</name>
+    <name>Vine Lord's Tendril Puppet [TP Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment>Lawful Neutral</alignment>
@@ -23314,7 +23314,7 @@ Every creature in the affected area other than the original target takes 4 (1d8)
     <environment/>
   </monster>
   <monster>
-    <name>Voidling</name>
+    <name>Voidling [TP Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Chaotic Evil</alignment>
@@ -23375,7 +23375,7 @@ Every creature in the affected area other than the original target takes 4 (1d8)
     <environment/>
   </monster>
   <monster>
-    <name>Wampus Cat</name>
+    <name>Wampus Cat [TP Legacy]</name>
     <sortname>Cat, Wampus</sortname>
     <ancestry>Cat</ancestry>
     <size>M</size>
@@ -23429,7 +23429,7 @@ Every creature in the affected area other than the original target takes 4 (1d8)
     <environment/>
   </monster>
   <monster>
-    <name>Water Leaper</name>
+    <name>Water Leaper [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -23486,7 +23486,7 @@ Every creature in the affected area other than the original target takes 4 (1d8)
     <environment/>
   </monster>
   <monster>
-    <name>Wharfling</name>
+    <name>Wharfling [TP Legacy]</name>
     <ancestry>Wharfling</ancestry>
     <size>T</size>
     <type>beast</type>
@@ -23525,7 +23525,7 @@ Until this grapple ends, the wharfling can't use its bite on another target. Whi
     <environment/>
   </monster>
   <monster>
-    <name>Wharfling Swarm</name>
+    <name>Wharfling Swarm [TP Legacy]</name>
     <sortname>Wharfling, Swarm</sortname>
     <ancestry>Wharfling</ancestry>
     <size>L</size>
@@ -23571,7 +23571,7 @@ Until this grapple ends, the wharfling can't use its bite on another target. Whi
     <environment/>
   </monster>
   <monster>
-    <name>White Ape</name>
+    <name>White Ape [TP Legacy]</name>
     <sortname>Ape, White</sortname>
     <ancestry>Ape</ancestry>
     <size>L</size>
@@ -23627,7 +23627,7 @@ Until this grapple ends, the wharfling can't use its bite on another target. Whi
     <environment/>
   </monster>
   <monster>
-    <name>Witchlight</name>
+    <name>Witchlight [TP Legacy]</name>
     <size>T</size>
     <type>construct</type>
     <alignment>Neutral</alignment>
@@ -23676,7 +23676,7 @@ Until this grapple ends, the wharfling can't use its bite on another target. Whi
     <environment/>
   </monster>
   <monster>
-    <name>Wormhearted Suffragan</name>
+    <name>Wormhearted Suffragan [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -23721,7 +23721,7 @@ Until this grapple ends, the wharfling can't use its bite on another target. Whi
     <environment/>
   </monster>
   <monster>
-    <name>Xanka</name>
+    <name>Xanka [TP Legacy]</name>
     <size>S</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -23767,7 +23767,7 @@ In addition, a living creature hit by this attack must make a successful DC 12 D
     <environment/>
   </monster>
   <monster>
-    <name>Xhkarsh</name>
+    <name>Xhkarsh [TP Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -23818,7 +23818,7 @@ A creature with corrupted fate has disadvantage on Charisma checks and Charisma 
     <environment/>
   </monster>
   <monster>
-    <name>Ychen Bannog</name>
+    <name>Ychen Bannog [TP Legacy]</name>
     <size>G</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -23878,7 +23878,7 @@ Creatures in the cone take 27 (5d10) thunder damage and are deafened for 1 hour,
     <environment/>
   </monster>
   <monster>
-    <name>Zaratan</name>
+    <name>Zaratan [TP Legacy]</name>
     <size>G</size>
     <type>monstrosity (titan)</type>
     <alignment>Unaligned</alignment>
@@ -23955,7 +23955,7 @@ Creatures in the cone take 27 (5d10) thunder damage and are deafened for 1 hour,
     <environment/>
   </monster>
   <monster>
-    <name>Zimwi</name>
+    <name>Zimwi [TP Legacy]</name>
     <size>M</size>
     <type>giant</type>
     <alignment>Chaotic Evil</alignment>
@@ -23996,7 +23996,7 @@ Creatures in the cone take 27 (5d10) thunder damage and are deafened for 1 hour,
     <environment/>
   </monster>
   <monster>
-    <name>Zmey</name>
+    <name>Zmey [TP Legacy]</name>
     <size>H</size>
     <type>dragon</type>
     <alignment>Chaotic Evil</alignment>
@@ -24088,7 +24088,7 @@ Creatures in the cone take 27 (5d10) thunder damage and are deafened for 1 hour,
     <environment/>
   </monster>
   <monster>
-    <name>Zmey Headling</name>
+    <name>Zmey Headling [TP Legacy]</name>
     <size>M</size>
     <type>dragon</type>
     <alignment>Chaotic Evil</alignment>
@@ -24147,7 +24147,7 @@ Creatures in the cone take 27 (5d10) thunder damage and are deafened for 1 hour,
     <environment/>
   </monster>
   <monster>
-    <name>Bandit Lord</name>
+    <name>Bandit Lord [TP Legacy]</name>
     <sortname>Bandit, Lord</sortname>
     <ancestry>Bandit</ancestry>
     <npc>YES</npc>
@@ -24208,7 +24208,7 @@ Creatures in the cone take 27 (5d10) thunder damage and are deafened for 1 hour,
     <environment/>
   </monster>
   <monster>
-    <name>Black Knight Commander</name>
+    <name>Black Knight Commander [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -24267,7 +24267,7 @@ Creatures in the cone take 27 (5d10) thunder damage and are deafened for 1 hour,
     <environment/>
   </monster>
   <monster>
-    <name>City Watch Captain</name>
+    <name>City Watch Captain [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -24327,7 +24327,7 @@ Creatures in the cone take 27 (5d10) thunder damage and are deafened for 1 hour,
     <environment/>
   </monster>
   <monster>
-    <name>Devilbound Gnomish Prince</name>
+    <name>Devilbound Gnomish Prince [TP Legacy]</name>
     <size>S</size>
     <type>humanoid (gnome)</type>
     <alignment>any evil</alignment>
@@ -24390,7 +24390,7 @@ Creatures in the cone take 27 (5d10) thunder damage and are deafened for 1 hour,
     <environment/>
   </monster>
   <monster>
-    <name>Dwarven Ringmage</name>
+    <name>Dwarven Ringmage [TP Legacy]</name>
     <sortname>Dwarf, Ringmage</sortname>
     <ancestry>Dwarf</ancestry>
     <npc>YES</npc>
@@ -24452,7 +24452,7 @@ Creatures in the cone take 27 (5d10) thunder damage and are deafened for 1 hour,
     <environment/>
   </monster>
   <monster>
-    <name>Elvish Veteran Archer</name>
+    <name>Elvish Veteran Archer [TP Legacy]</name>
     <sortname>Archer, Elvish Veteran</sortname>
     <ancestry>Archer</ancestry>
     <size>M</size>
@@ -24524,7 +24524,7 @@ Creatures in the cone take 27 (5d10) thunder damage and are deafened for 1 hour,
     <environment/>
   </monster>
   <monster>
-    <name>Ghost Knight</name>
+    <name>Ghost Knight [TP Legacy]</name>
     <sortname>Ghost, Knight</sortname>
     <ancestry>Ghost</ancestry>
     <size>M</size>
@@ -24593,7 +24593,7 @@ Creatures in the cone take 27 (5d10) thunder damage and are deafened for 1 hour,
     <environment/>
   </monster>
   <monster>
-    <name>Ogre Chieftain, Corrupted</name>
+    <name>Ogre Chieftain, Corrupted [TP Legacy]</name>
     <sortname>Ogre, Chieftain Corrupted</sortname>
     <ancestry>Ogre</ancestry>
     <size>L</size>
@@ -24648,7 +24648,7 @@ Creatures in the cone take 27 (5d10) thunder damage and are deafened for 1 hour,
     <environment/>
   </monster>
   <monster>
-    <name>Scorpion Cultist</name>
+    <name>Scorpion Cultist [TP Legacy]</name>
     <sortname>Cultist, Scorpion</sortname>
     <ancestry>Cultist</ancestry>
     <size>M</size>
@@ -24695,7 +24695,7 @@ Creatures in the cone take 27 (5d10) thunder damage and are deafened for 1 hour,
     <environment/>
   </monster>
   <monster>
-    <name>Wolf Reaver Dwarf</name>
+    <name>Wolf Reaver Dwarf [TP Legacy]</name>
     <sortname>Dwarf, Wolf Reaver</sortname>
     <ancestry>Reaver, Dwarf</ancestry>
     <size>M</size>
@@ -24759,7 +24759,7 @@ Creatures in the cone take 27 (5d10) thunder damage and are deafened for 1 hour,
     <environment/>
   </monster>
   <monster>
-    <name>Emerald Order Cult Leader</name>
+    <name>Emerald Order Cult Leader [TP Legacy]</name>
     <size>M</size>
     <type>humanoid (any race)</type>
     <alignment>lawful neutral or evil</alignment>
@@ -24821,7 +24821,7 @@ Creatures in the cone take 27 (5d10) thunder damage and are deafened for 1 hour,
     <environment/>
   </monster>
   <monster>
-    <name>Vampire Warlock - Variant</name>
+    <name>Vampire Warlock - Variant [TP Legacy]</name>
     <sortname>Vampire, Warlock - Variant</sortname>
     <ancestry>Vampire</ancestry>
     <size>M</size>

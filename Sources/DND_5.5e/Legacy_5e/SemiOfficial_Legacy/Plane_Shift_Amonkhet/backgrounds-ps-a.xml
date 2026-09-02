@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Dissenter (Initiate)</name>
+    <name>Dissenter (Initiate) [TP Legacy]</name>
     <ancestry>Initiate</ancestry>
     <proficiency>Athletics, Intimidation</proficiency>
     <trait>
@@ -65,7 +65,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Dissenter (Vizier)</name>
+    <name>Dissenter (Vizier) [TP Legacy]</name>
     <ancestry>Vizier</ancestry>
     <proficiency>History, Religion</proficiency>
     <trait>
@@ -131,7 +131,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Initiate</name>
+    <name>Initiate [TP Legacy]</name>
     <proficiency>Athletics, Intimidation</proficiency>
     <trait>
       <name>Description</name>
@@ -195,7 +195,7 @@ d6 | Flaw
     </trait>
   </background>
   <background>
-    <name>Vizier</name>
+    <name>Vizier [TP Legacy]</name>
     <proficiency>History, Religion</proficiency>
     <trait>
       <name>Description</name>

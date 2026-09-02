@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Academic: Antiquarian (TP)</name>
+    <name>Academic: Antiquarian [TP Legacy]</name>
     <ancestry>Academic</ancestry>
     <proficiency>History</proficiency>
     <trait>
@@ -60,7 +60,7 @@ Profession Rank | Profession Dice
     
   </background>
   <background>
-    <name>Academic: Archivist (TP)</name>
+    <name>Academic: Archivist [TP Legacy]</name>
     <ancestry>Academic</ancestry>
     <proficiency>Investigation</proficiency>
     <trait>
@@ -118,7 +118,7 @@ Profession Rank | Profession Dice
     </trait>
   </background>
   <background>
-    <name>Academic: Physician (TP)</name>
+    <name>Academic: Physician [TP Legacy]</name>
     <ancestry>Academic</ancestry>
     <proficiency>Medicine</proficiency>
     <trait>
@@ -177,7 +177,7 @@ Profession Rank | Profession Dice
     </trait>
   </background>
   <background>
-    <name>Aristocrat: Courtier (TP)</name>
+    <name>Aristocrat: Courtier [TP Legacy]</name>
     <ancestry>Aristocrat</ancestry>
     <proficiency>Deception</proficiency>
     <trait>
@@ -235,7 +235,7 @@ Profession Rank | Profession Dice
     </trait>
   </background>
   <background>
-    <name>Aristocrat: Envoy (TP)</name>
+    <name>Aristocrat: Envoy [TP Legacy]</name>
     <ancestry>Aristocrat</ancestry>
     <proficiency>Insight</proficiency>
     <trait>
@@ -293,7 +293,7 @@ Profession Rank | Profession Dice
     </trait>
   </background>
   <background>
-    <name>Aristocrat: Noble (TP)</name>
+    <name>Aristocrat: Noble [TP Legacy]</name>
     <ancestry>Aristocrat</ancestry>
     <proficiency>Persuasion</proficiency>
     <trait>
@@ -351,7 +351,7 @@ Profession Rank | Profession Dice
     </trait>
   </background>
   <background>
-    <name>Clergy: Inquisitor (TP)</name>
+    <name>Clergy: Inquisitor [TP Legacy]</name>
     <ancestry>Clergy</ancestry>
     <proficiency>Intimidation</proficiency>
     <trait>
@@ -409,7 +409,7 @@ Profession Rank | Profession Dice
     </trait>
   </background>
   <background>
-    <name>Clergy: Preacher (TP)</name>
+    <name>Clergy: Preacher [TP Legacy]</name>
     <ancestry>Clergy</ancestry>
     <proficiency>Persuasion</proficiency>
     <trait>
@@ -467,7 +467,7 @@ Profession Rank | Profession Dice
     </trait>
   </background>
   <background>
-    <name>Clergy: Priest (TP)</name>
+    <name>Clergy: Priest [TP Legacy]</name>
     <ancestry>Clergy</ancestry>
     <proficiency>Religion</proficiency>
     <trait>
@@ -525,7 +525,7 @@ Profession Rank | Profession Dice
     </trait>
   </background>
   <background>
-    <name>Common Folk: Villager (TP)</name>
+    <name>Common Folk: Villager [TP Legacy]</name>
     <ancestry>Common Folk</ancestry>
     <proficiency>Insight</proficiency>
     <trait>
@@ -587,7 +587,7 @@ Profession Rank | Profession Dice
     </trait>
   </background>
   <background>
-    <name>Common Folk: Entertainer (TP)</name>
+    <name>Common Folk: Entertainer [TP Legacy]</name>
     <ancestry>Common Folk</ancestry>
     <proficiency>Performance</proficiency>
     <trait>
@@ -648,7 +648,7 @@ Profession Rank | Profession Dice
     </trait>
   </background>
   <background>
-    <name>Common Folk: Merchant (TP)</name>
+    <name>Common Folk: Merchant [TP Legacy]</name>
     <ancestry>Common Folk</ancestry>
     <proficiency>Persuasion</proficiency>
     <trait>
@@ -710,7 +710,7 @@ Profession Rank | Profession Dice
   </background>
 
   <background>
-    <name>Criminal: Charlatan (TP)</name>
+    <name>Criminal: Charlatan [TP Legacy]</name>
     <ancestry>Criminal</ancestry>
     <proficiency>Deception</proficiency>
     <trait>
@@ -769,7 +769,7 @@ Profession Rank | Profession Dice
     </trait>
   </background>
   <background>
-    <name>Criminal: Cutthroat (TP)</name>
+    <name>Criminal: Cutthroat [TP Legacy]</name>
     <ancestry>Criminal</ancestry>
     <proficiency>Intimidation</proficiency>
     <trait>
@@ -828,7 +828,7 @@ Profession Rank | Profession Dice
     </trait>
   </background>
   <background>
-    <name>Criminal: Burglar (TP)</name>
+    <name>Criminal: Burglar [TP Legacy]</name>
     <ancestry>Criminal</ancestry>
     <proficiency>Perception</proficiency>
     <trait>
@@ -889,7 +889,7 @@ Profession Rank | Profession Dice
   </background>
 
   <background>
-    <name>Militarist: Free Sword (TP)</name>
+    <name>Militarist: Free Sword [TP Legacy]</name>
     <ancestry>Militarist</ancestry>
     <proficiency>Intimidation</proficiency>
     <trait>
@@ -949,7 +949,7 @@ Profession Rank | Profession Dice
     </trait>
   </background>
   <background>
-    <name>Militarist: Guard (TP)</name>
+    <name>Militarist: Guard [TP Legacy]</name>
     <ancestry>Militarist</ancestry>
     <proficiency>Perception</proficiency>
     <trait>
@@ -1009,7 +1009,7 @@ Profession Rank | Profession Dice
     </trait>
   </background>
   <background>
-    <name>Militarist: Soldier (TP)</name>
+    <name>Militarist: Soldier [TP Legacy]</name>
     <ancestry>Militarist</ancestry>
     <proficiency>Athletics</proficiency>
     <trait>
@@ -1071,7 +1071,7 @@ Profession Rank | Profession Dice
   </background>
 
   <background>
-    <name>Outlander: Beast Hunter (TP)</name>
+    <name>Outlander: Beast Hunter [TP Legacy]</name>
     <ancestry>Outlander</ancestry>
     <proficiency>Survival</proficiency>
     <trait>
@@ -1129,7 +1129,7 @@ Profession Rank | Profession Dice
     </trait>
   </background>
   <background>
-    <name>Outlander: Pioneer (TP)</name>
+    <name>Outlander: Pioneer [TP Legacy]</name>
     <ancestry>Outlander</ancestry>
     <proficiency>Nature</proficiency>
     <trait>
@@ -1186,7 +1186,7 @@ Profession Rank | Profession Dice
     </trait>
   </background>
   <background>
-    <name>Outlander: Explorer (TP)</name>
+    <name>Outlander: Explorer [TP Legacy]</name>
     <ancestry>Outlander</ancestry>
     <proficiency>Survival</proficiency>
     <trait>
@@ -1245,7 +1245,7 @@ Profession Rank | Profession Dice
   </background>
 
   <background>
-    <name>Seafarer: Sailor (TP)</name>
+    <name>Seafarer: Sailor [TP Legacy]</name>
     <ancestry>Seafarer</ancestry>
     <proficiency>Perception</proficiency>
     <trait>
@@ -1303,7 +1303,7 @@ Profession Rank | Profession Dice
     </trait>
   </background>
   <background>
-    <name>Seafarer: Dock Worker (TP)</name>
+    <name>Seafarer: Dock Worker [TP Legacy]</name>
     <ancestry>Seafarer</ancestry>
     <proficiency>Investigation</proficiency>
     <trait>
@@ -1361,7 +1361,7 @@ Profession Rank | Profession Dice
     </trait>
   </background>
   <background>
-    <name>Seafarer: Sea Gatherer (TP)</name>
+    <name>Seafarer: Sea Gatherer [TP Legacy]</name>
     <ancestry>Seafarer</ancestry>
     <proficiency>Survival</proficiency>
     <trait>

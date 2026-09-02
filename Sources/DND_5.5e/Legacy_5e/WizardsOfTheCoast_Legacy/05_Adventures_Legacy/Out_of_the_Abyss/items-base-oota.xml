@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Hooked Shortspear</name>
+    <name>Hooked Shortspear [Legacy]</name>
     <detail>common</detail>
     <type>M</type>
     <weight>2</weight>
@@ -20,7 +20,7 @@ Source:	Out of the Abyss p. 224</text>
     <roll description="DC">8+%1+%8</roll>
   </item>
   <item>
-    <name>Light Repeating Crossbow</name>
+    <name>Light Repeating Crossbow [Legacy]</name>
     <detail>common</detail>
     <type>R</type>
     <weight>5</weight>

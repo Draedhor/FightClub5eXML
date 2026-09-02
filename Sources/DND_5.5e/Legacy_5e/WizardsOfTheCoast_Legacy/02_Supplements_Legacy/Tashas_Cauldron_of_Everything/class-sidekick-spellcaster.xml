@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <class>
-    <name>Spellcaster Sidekick (Legacy)</name>
+    <name>Spellcaster Sidekick [Legacy]</name>
     <hd>10</hd>
     <proficiency>Arcana, History, Insight, Investigation, Medicine, Performance, Persuasion, Religion</proficiency>
     <numSkills>2</numSkills>

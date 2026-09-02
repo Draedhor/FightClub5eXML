@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Greatsword of the Wood (TP)</name>
+    <name>Greatsword of the Wood [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -25,7 +25,7 @@ Source:	Humblewood Campaign Setting p. 213 (Third Party),
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Longsword of the Wood (TP)</name>
+    <name>Longsword of the Wood [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -48,7 +48,7 @@ Source:	Humblewood Campaign Setting p. 213 (Third Party),
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Rapier of the Wood (TP)</name>
+    <name>Rapier of the Wood [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -70,7 +70,7 @@ Source:	Humblewood Campaign Setting p. 213 (Third Party),
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Scimitar of the Wood (TP)</name>
+    <name>Scimitar of the Wood [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -94,7 +94,7 @@ Source:	Humblewood Campaign Setting p. 213 (Third Party),
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Shortsword of the Wood (TP)</name>
+    <name>Shortsword of the Wood [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -118,7 +118,7 @@ Source:	Humblewood Campaign Setting p. 213 (Third Party),
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Red-Feather Longbow (TP)</name>
+    <name>Red-Feather Longbow [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -151,7 +151,7 @@ Source:	Humblewood Campaign Setting p. 214 (Third Party),
     <roll>1d3</roll>
   </item>
   <item>
-    <name>Red-Feather Shortbow (TP)</name>
+    <name>Red-Feather Shortbow [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>

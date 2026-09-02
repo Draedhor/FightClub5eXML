@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <background>
-    <name>Bounty Hunter (TP)</name>
+    <name>Bounty Hunter [TP]</name>
     <proficiency>Investigation, Survival</proficiency>
     <trait>
       <name>Description (TP)</name>
@@ -38,7 +38,7 @@ Three-Dragon Ante set | 1 gp | -</text>
     </trait>
   </background>
   <background>
-    <name>Hedge Mage (TP)</name>
+    <name>Hedge Mage [TP]</name>
     <proficiency>Arcana, Survival</proficiency>
     <trait>
       <name>Description (TP)</name>
@@ -88,7 +88,7 @@ Woodcarver's tools | 1 gp | 5 lb.</text>
     </trait>
   </background>
   <background>
-    <name>Kupalen'ka (TP)</name>
+    <name>Kupalen'ka [TP]</name>
     <proficiency>Insight, Persuasion</proficiency>
     <trait>
       <name>Description (TP)</name>
@@ -131,7 +131,7 @@ Viol | 30 gp | 1 lb.</text>
     </trait>
   </background>
   <background>
-    <name>Lorekeeper (TP)</name>
+    <name>Lorekeeper [TP]</name>
     <proficiency>History, Performance</proficiency>
     <trait>
       <name>Description (TP)</name>
@@ -176,7 +176,7 @@ Viol | 30 gp | 1 lb.</text>
     </trait>
   </background>
   <background>
-    <name>Remembrancer (TP)</name>
+    <name>Remembrancer [TP]</name>
     <proficiency>History, Investigation</proficiency>
     <trait>
       <name>Description (TP)</name>
@@ -206,7 +206,7 @@ Source:	Zamanora: Ballad of the Witch p. 32 (Homebrew)</text>
     </trait>
   </background>
   <background>
-    <name>Veilborn (TP)</name>
+    <name>Veilborn [TP]</name>
     <proficiency>Arcana, Deception, Nature, Survival</proficiency>
     <trait>
       <name>Description (TP)</name>
@@ -260,7 +260,7 @@ Woodcarver's tools | 1 gp | 5 lb.</text>
     </trait>
   </background>
   <background>
-    <name>Woebringer (TP)</name>
+    <name>Woebringer [TP]</name>
     <proficiency>Deception, Stealth, Persuasion</proficiency>
     <trait>
       <name>Description (TP)</name>
@@ -306,7 +306,7 @@ Woodcarver's tools | 1 gp | 5 lb.</text>
     </trait>
   </background>
   <background>
-    <name>The Crone's Progeny (TP)</name>
+    <name>The Crone's Progeny [TP]</name>
     <proficiency>Arcana, Nature</proficiency>
     <trait>
       <name>Description (TP)</name>
@@ -346,7 +346,7 @@ Source:	Zamanora: Ballad of the Witch p. 36 (Homebrew)</text>
     </trait>
   </background>
   <background>
-    <name>The Drangue (TP)</name>
+    <name>The Drangue [TP]</name>
     <proficiency>Athletics, Acrobatics</proficiency>
     <trait>
       <name>Description (TP)</name>
@@ -406,7 +406,7 @@ Woodcarver's tools | 1 gp | 5 lb.</text>
     </trait>
   </background>
   <background>
-    <name>The Elden Soul (TP)</name>
+    <name>The Elden Soul [TP]</name>
     <proficiency>Insight, Persuasion</proficiency>
     <trait>
       <name>Description (TP)</name>

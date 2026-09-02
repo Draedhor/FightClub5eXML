@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Ruidium Claw (TP)</name>
+    <name>Ruidium Claw [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -32,7 +32,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216,
     <roll description="Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Ruidium Haladie (TP)</name>
+    <name>Ruidium Haladie [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -65,7 +65,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216,
     <roll description="Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Ruidium Magitech Firearm (TP)</name>
+    <name>Ruidium Magitech Firearm [TP Legacy]</name>
     <detail>firearm, very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -105,7 +105,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216,
     <roll description="Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Ruidium Nunchuck (TP)</name>
+    <name>Ruidium Nunchuck [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -139,7 +139,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216,
     <roll description="Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Ruidium Tetherhook (TP)</name>
+    <name>Ruidium Tetherhook [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -173,7 +173,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216,
     <roll description="Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Ruidium Hand Tommybow (TP)</name>
+    <name>Ruidium Hand Tommybow [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -213,7 +213,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216,
     <roll description="Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Ruidium Light Tommybow (TP)</name>
+    <name>Ruidium Light Tommybow [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -251,7 +251,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216,
     <roll description="Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Ruidium Heavy Tommybow (TP)</name>
+    <name>Ruidium Heavy Tommybow [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>

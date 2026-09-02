@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Eternal Chalk (UA)</name>
+    <name>Eternal Chalk [UA]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -10,7 +10,7 @@
 Source:	DND Beyond Drops - June</text>
   </item>
   <item>
-    <name>Amulet of Retributive Healing (UA)</name>
+    <name>Amulet of Retributive Healing [UA]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>

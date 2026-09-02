@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Alchemy Jug (Blue)</name>
+    <name>Alchemy Jug (Blue) [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -25,7 +25,7 @@ Wine | 1 gallon
 Source:	Candlekeep Mysteries p. 144</text>
   </item>
   <item>
-    <name>Alchemy Jug (Orange)</name>
+    <name>Alchemy Jug (Orange) [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -49,7 +49,7 @@ Wine | 1 gallon
 Source:	Candlekeep Mysteries p. 144</text>
   </item>
   <item>
-    <name>Cracked Driftglobe</name>
+    <name>Cracked Driftglobe [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -59,7 +59,7 @@ Source:	Candlekeep Mysteries p. 144</text>
 Source:	Candlekeep Mysteries p. 110</text>
   </item>
   <item>
-    <name>Gloves of Soul Catching</name>
+    <name>Gloves of Soul Catching [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -71,7 +71,7 @@ Source:	Candlekeep Mysteries p. 169</text>
     <roll description="Force Damage">2d10</roll>
   </item>
   <item>
-    <name>Nether Scroll of Azumar</name>
+    <name>Nether Scroll of Azumar [Legacy]</name>
     <detail>legendary</detail>
     <type>SC</type>
     <magic>YES</magic>
@@ -88,7 +88,7 @@ Source:	Candlekeep Mysteries p. 210</text>
     <roll>16d10</roll>
   </item>
   <item>
-    <name>Orcus Figurine</name>
+    <name>Orcus Figurine [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <text>Carved from an ogre's petrified heart, the gray figurine depicts the Demon Prince of Undeath in ghastly detail, clutching his skull-topped wand in one hand and three severed heads by the hair in the other. The figurine smells like decaying flesh, and this scent is detectable out to a range of 5 feet.
@@ -103,7 +103,7 @@ Source:	Candlekeep Mysteries p. 210</text>
 Source:	Candlekeep Mysteries p. 44</text>
   </item>
   <item>
-    <name>Radiance</name>
+    <name>Radiance [Legacy]</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -115,7 +115,7 @@ Source:	Candlekeep Mysteries p. 87</text>
     <modifier category="bonus">spell attack +1</modifier>
   </item>
   <item>
-    <name>Serpent Scale Armor</name>
+    <name>Serpent Scale Armor [Legacy]</name>
     <detail>uncommon</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -126,7 +126,7 @@ Source:	Candlekeep Mysteries p. 87</text>
 Source:	Candlekeep Mysteries p. 98</text>
   </item>
   <item>
-    <name>Serpent's Fang</name>
+    <name>Serpent's Fang [Legacy]</name>
     <detail>longsword, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -144,7 +144,7 @@ Source:	Candlekeep Mysteries p. 98</text>
     <roll description="Poison Damage">1d10</roll>
   </item>
   <item>
-    <name>Staff of Fate</name>
+    <name>Staff of Fate [Legacy]</name>
     <detail>spellcasting focus, rare (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -168,7 +168,7 @@ Source:	Candlekeep Mysteries p. 183</text>
     <modifier category="bonus">melee damage +3</modifier>
   </item>
   <item>
-    <name>Stonky's Ring</name>
+    <name>Stonky's Ring [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -178,7 +178,7 @@ Source:	Candlekeep Mysteries p. 183</text>
 Source:	Candlekeep Mysteries p. 132</text>
   </item>
   <item>
-    <name>Watchful Helm</name>
+    <name>Watchful Helm [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>

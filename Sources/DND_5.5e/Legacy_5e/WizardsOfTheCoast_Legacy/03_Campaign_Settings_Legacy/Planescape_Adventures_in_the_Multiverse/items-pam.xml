@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Mimir</name>
+    <name>Mimir [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -17,7 +17,7 @@ Planar Knowledge: The device knows basic, useful information about the planes of
 Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 13</text>
   </item>
   <item>
-    <name>Portal Compass</name>
+    <name>Portal Compass [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -26,7 +26,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 13<
 Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 13</text>
   </item>
   <item>
-    <name>Sensory Stone</name>
+    <name>Sensory Stone [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -40,7 +40,7 @@ Siphon Sensation: As a bonus action, you can draw on the stone's magic to end th
 Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 13</text>
   </item>
   <item>
-    <name>Trinket (Gate Warden)</name>
+    <name>Trinket (Gate Warden) [Legacy]</name>
     <type>G</type>
     <text>When you make your character, you can roll once on the Gate Warden Trinkets table, instead of on the Trinkets table in the Player's Handbook, for your starting trinket.
 
@@ -57,7 +57,7 @@ Source:	Planescape: Adventures in the Multiverse - Sigil and the Outlands p. 7</
     <roll description="Trinket">1d6</roll>
   </item>
   <item>
-    <name>Trinket (Planar Philosopher)</name>
+    <name>Trinket (Planar Philosopher) [Legacy]</name>
     <type>G</type>
     <text>When you make your character, you can roll once on the Planar Philosopher Trinkets table, instead of on the Trinkets table in the Player's Handbook, for your starting trinket.
 

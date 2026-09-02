@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Beast of the Cave (LaserLlama) (TP)</name>
+    <name>Beast of the Cave (LaserLlama) [TP]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Neutral</alignment>
@@ -52,7 +52,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Beast of the Land (LaserLlama) (TP)</name>
+    <name>Beast of the Land (LaserLlama) [TP]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -103,7 +103,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Beast of the Sea (LaserLlama) (TP)</name>
+    <name>Beast of the Sea (LaserLlama) [TP]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -154,7 +154,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Beast of the Sky (LaserLlama) (TP)</name>
+    <name>Beast of the Sky (LaserLlama) [TP]</name>
     <size>S</size>
     <type>beast</type>
     <alignment>Neutral</alignment>
@@ -205,7 +205,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Draconic Companion (LaserLlama) (TP)</name>
+    <name>Draconic Companion (LaserLlama) [TP]</name>
     <size>S</size>
     <type>beast</type>
     <alignment>Neutral</alignment>

@@ -154,47 +154,47 @@ Source:	Exploring Eberron p. 215 (Third Party)</text>
     </autolevel>
   </class>
   <spell>
-    <name>Armor of Agathys</name>
-    <classes>Artificer [5.5e] (Forge Adept (TP))</classes>
+    <name>Armor of Agathys [TP Legacy]</name>
+    <classes>Artificer (Forge Adept (TP))</classes>
   </spell>
   <spell>
-    <name>Shield of Faith</name>
-    <classes>Artificer [5.5e] (Forge Adept (TP))</classes>
+    <name>Shield of Faith [TP Legacy]</name>
+    <classes>Artificer (Forge Adept (TP))</classes>
   </spell>
   <spell>
-    <name>Spiritual Weapon</name>
-    <classes>Artificer [5.5e] (Forge Adept (TP))</classes>
+    <name>Spiritual Weapon [TP Legacy]</name>
+    <classes>Artificer (Forge Adept (TP))</classes>
   </spell>
   <spell>
-    <name>Warding Bond</name>
-    <classes>Artificer [5.5e] (Forge Adept (TP))</classes>
+    <name>Warding Bond [TP Legacy]</name>
+    <classes>Artificer (Forge Adept (TP))</classes>
   </spell>
   <spell>
-    <name>Beacon of Hope</name>
-    <classes>Artificer [5.5e] (Forge Adept (TP))</classes>
+    <name>Beacon of Hope [TP Legacy]</name>
+    <classes>Artificer (Forge Adept (TP))</classes>
   </spell>
   <spell>
-    <name>Remove Curse</name>
-    <classes>Artificer [5.5e] (Forge Adept (TP))</classes>
+    <name>Remove Curse [TP Legacy]</name>
+    <classes>Artificer (Forge Adept (TP))</classes>
   </spell>
   <spell>
-    <name>Death Ward</name>
-    <classes>Artificer [5.5e] (Forge Adept (TP))</classes>
+    <name>Death Ward [TP Legacy]</name>
+    <classes>Artificer (Forge Adept (TP))</classes>
   </spell>
   <spell>
-    <name>Fire Shield</name>
-    <classes>Artificer [5.5e] (Forge Adept (TP))</classes>
+    <name>Fire Shield [TP Legacy]</name>
+    <classes>Artificer (Forge Adept (TP))</classes>
   </spell>
   <spell>
-    <name>Banishing Smite</name>
-    <classes>Artificer [5.5e] (Forge Adept (TP))</classes>
+    <name>Banishing Smite [TP Legacy]</name>
+    <classes>Artificer (Forge Adept (TP))</classes>
   </spell>
   <spell>
-    <name>Wall of Force</name>
-    <classes>Artificer [5.5e] (Forge Adept (TP))</classes>
+    <name>Wall of Force [TP Legacy]</name>
+    <classes>Artificer (Forge Adept (TP))</classes>
   </spell>
   <spell>
-    <name>Infusion: Bane Weapon (TP)</name>
+    <name>Infusion: Bane Weapon [TP Legacy]</name>
     <level>0</level>
     <classes>Artificer Infusions [Legacy]</classes>
     <text>Prerequisite: 6th-level artificer
@@ -208,7 +208,7 @@ Source:	Exploring Eberron p. 215 (Third Party)</text>
     <roll description="Recharge">1d4</roll>
   </spell>
   <spell>
-    <name>Infusion: Fortify Defense (TP)</name>
+    <name>Infusion: Fortify Defense [TP Legacy]</name>
     <level>0</level>
     <classes>Artificer Infusions [Legacy]</classes>
     <text>Prerequisite: 6th-level artificer
@@ -221,7 +221,7 @@ Source:	Exploring Eberron p. 216 (Third Party)</text>
     <roll description="Recharge">1d4</roll>
   </spell>
   <spell>
-    <name>Infusion: Healing Salve (TP)</name>
+    <name>Infusion: Healing Salve [TP Legacy]</name>
     <level>0</level>
     <classes>Artificer Infusions [Legacy]</classes>
     <text>Item: A jar of lotion
@@ -232,7 +232,7 @@ Source:	Exploring Eberron p. 216 (Third Party)</text>
     <roll description="Heal">1d6+%4</roll>
   </spell>
   <spell>
-    <name>Infusion: Quiver of Energy (TP)</name>
+    <name>Infusion: Quiver of Energy [TP Legacy]</name>
     <level>0</level>
     <classes>Artificer Infusions [Legacy]</classes>
     <text>Prerequisite: 6th-level artificer
@@ -244,7 +244,7 @@ Source:	Exploring Eberron p. 216 (Third Party)</text>
     <roll description="Extra Damage">1d6</roll>
   </spell>
   <spell>
-    <name>Infusion: Resistance Breaker (TP)</name>
+    <name>Infusion: Resistance Breaker [TP Legacy]</name>
     <level>0</level>
     <classes>Artificer Infusions [Legacy]</classes>
     <text>Item: A simple or martial melee weapon
@@ -255,7 +255,7 @@ Source:	Exploring Eberron p. 216 (Third Party)</text>
     <roll description="Recharge">1d4+1</roll>
   </spell>
   <spell>
-    <name>Infusion: Silent Weapon (TP)</name>
+    <name>Infusion: Silent Weapon [TP Legacy]</name>
     <level>0</level>
     <classes>Artificer Infusions [Legacy]</classes>
     <text>Item: A simple or martial ranged weapon

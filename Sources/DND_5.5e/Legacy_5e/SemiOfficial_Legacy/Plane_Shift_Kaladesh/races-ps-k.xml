@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Aetherborn</name>
+    <name>Aetherborn [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +2</ability>
@@ -65,7 +65,7 @@ Source:	Plane Shift: Kaladesh p. 17</text>
     </trait>
   </race>
   <race>
-    <name>Dwarf (Kaladesh)</name>
+    <name>Dwarf (Kaladesh) [TP Legacy]</name>
     <size>M</size>
     <speed>25</speed>
     <ability>Con +2, Wis +1</ability>
@@ -133,7 +133,7 @@ Weight in pounds = 115 + (2d6 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Elf (Kaladesh, Bishatar and Tirahar)</name>
+    <name>Elf (Kaladesh, Bishatar and Tirahar) [TP Legacy]</name>
     <size>M</size>
     <speed>35</speed>
     <ability>Dex +2, Wis +1</ability>
@@ -206,7 +206,7 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Elf, Vadahar (Kaladesh)</name>
+    <name>Elf, Vadahar (Kaladesh) [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex +2, Wis +1</ability>
@@ -280,7 +280,7 @@ Weight in pounds = 90 + (1d4 × your size modifier)</text>
     </trait>
   </race>
   <race>
-    <name>Vedalken (Kaladesh)</name>
+    <name>Vedalken (Kaladesh) [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Int +2, Wis +1</ability>

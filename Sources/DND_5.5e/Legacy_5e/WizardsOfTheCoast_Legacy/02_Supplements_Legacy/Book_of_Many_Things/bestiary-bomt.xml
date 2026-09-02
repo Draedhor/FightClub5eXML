@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Advanced Detention Drone</name>
+    <name>Advanced Detention Drone [Legacy]</name>
     <sortname>Detention Drone, Advanced</sortname>
     <ancestry>Shield Guardian, Detention Drone</ancestry>
     <size>L</size>
@@ -67,7 +67,7 @@ Source:	The Book of Many Things p. 135</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ambitious Assassin</name>
+    <name>Ambitious Assassin [Legacy]</name>
     <sortname>Rogue, Ambitious Assassin</sortname>
     <ancestry>Rogue</ancestry>
     <npc>YES</npc>
@@ -167,7 +167,7 @@ Source:	The Book of Many Things p. 45</description>
     <environment/>
   </monster>
   <monster>
-    <name>Animated Armor Detention Drone</name>
+    <name>Animated Armor Detention Drone [Legacy]</name>
     <sortname>Detention Drone, Animated Armor</sortname>
     <ancestry>Animated Armor, Detention Drone</ancestry>
     <size>M</size>
@@ -221,7 +221,7 @@ Source:	The Book of Many Things p. 45</description>
     <environment/>
   </monster>
   <monster>
-    <name>Aspirant of the Comet</name>
+    <name>Aspirant of the Comet [Legacy]</name>
     <ancestry>Heralds of the Comet</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -270,7 +270,7 @@ Source:	The Book of Many Things p. 91</description>
     <environment/>
   </monster>
   <monster>
-    <name>Asteria</name>
+    <name>Asteria [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human, paladin)</type>
@@ -365,7 +365,7 @@ Source:	The Book of Many Things p. 188</description>
     <environment/>
   </monster>
   <monster>
-    <name>Aurnozci</name>
+    <name>Aurnozci [Legacy]</name>
     <size>G</size>
     <type>fiend (demon)</type>
     <alignment>chaotic evil</alignment>
@@ -494,7 +494,7 @@ Source:	The Book of Many Things p. 167</description>
     <environment/>
   </monster>
   <monster>
-    <name>Boss Augustus</name>
+    <name>Boss Augustus [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>monstrosity</type>
@@ -566,7 +566,7 @@ Source:	The Book of Many Things p. 82</description>
     <environment/>
   </monster>
   <monster>
-    <name>Boss Delour</name>
+    <name>Boss Delour [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>monstrosity</type>
@@ -645,7 +645,7 @@ Source:	The Book of Many Things p. 83</description>
     <environment/>
   </monster>
   <monster>
-    <name>Breath Drinker</name>
+    <name>Breath Drinker [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>typically chaotic evil</alignment>
@@ -707,7 +707,7 @@ Source:	The Book of Many Things p. 154</description>
     <environment/>
   </monster>
   <monster>
-    <name>Brusipha</name>
+    <name>Brusipha [Legacy]</name>
     <sortname>Minotaur, Brusipha</sortname>
     <ancestry>Minotaur</ancestry>
     <npc>YES</npc>
@@ -788,7 +788,7 @@ Source:	The Book of Many Things p. 154</description>
     <environment/>
   </monster>
   <monster>
-    <name>Deck Defender</name>
+    <name>Deck Defender [Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>unaligned</alignment>
@@ -862,7 +862,7 @@ Source:	The Book of Many Things p. 71</description>
     <environment/>
   </monster>
   <monster>
-    <name>Enchanting Infiltrator</name>
+    <name>Enchanting Infiltrator [Legacy]</name>
     <sortname>Rogue, Enchanting Infiltrator</sortname>
     <ancestry>Rogue</ancestry>
     <size>M</size>
@@ -970,7 +970,7 @@ Source:	The Book of Many Things p. 46</description>
     <environment/>
   </monster>
   <monster>
-    <name>Euryale</name>
+    <name>Euryale [Legacy]</name>
     <size>M</size>
     <type>monstrosity (druid, medusa)</type>
     <alignment>neutral good</alignment>
@@ -1069,7 +1069,7 @@ Source:	The Book of Many Things p. 189</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fate Hag</name>
+    <name>Fate Hag [Legacy]</name>
     <sortname>Hag, Fate</sortname>
     <ancestry>Hag</ancestry>
     <size>M</size>
@@ -1149,7 +1149,7 @@ Source:	The Book of Many Things p. 176</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gremorly's Ghost</name>
+    <name>Gremorly's Ghost [Legacy]</name>
     <sortname>Ghost, Gremorly's</sortname>
     <ancestry>Ghost</ancestry>
     <npc>YES</npc>
@@ -1235,7 +1235,7 @@ Source:	The Book of Many Things p. 122</description>
     <environment/>
   </monster>
   <monster>
-    <name>Grim Champion of Bloodshed</name>
+    <name>Grim Champion of Bloodshed [Legacy]</name>
     <sortname>Grim Champion, Bloodshed</sortname>
     <ancestry>Grim Champion</ancestry>
     <size>M</size>
@@ -1314,7 +1314,7 @@ Source:	The Book of Many Things p. 161</description>
     <environment/>
   </monster>
   <monster>
-    <name>Grim Champion of Desolation</name>
+    <name>Grim Champion of Desolation [Legacy]</name>
     <sortname>Grim Champion, Desolation</sortname>
     <ancestry>Grim Champion</ancestry>
     <size>M</size>
@@ -1397,7 +1397,7 @@ Source:	The Book of Many Things p. 162</description>
     <environment/>
   </monster>
   <monster>
-    <name>Grim Champion of Pestilence</name>
+    <name>Grim Champion of Pestilence [Legacy]</name>
     <sortname>Grim Champion, Pestilence</sortname>
     <ancestry>Grim Champion</ancestry>
     <size>M</size>
@@ -1487,7 +1487,7 @@ Source:	The Book of Many Things p. 163</description>
     <environment/>
   </monster>
   <monster>
-    <name>Harrow Hawk</name>
+    <name>Harrow Hawk [Legacy]</name>
     <sortname>Hawk, Harrow</sortname>
     <ancestry>Hawk</ancestry>
     <size>T</size>
@@ -1539,7 +1539,7 @@ Source:	The Book of Many Things p. 177</description>
     <environment/>
   </monster>
   <monster>
-    <name>Harrow Hound</name>
+    <name>Harrow Hound [Legacy]</name>
     <sortname>Hound, Harrow</sortname>
     <ancestry>Hound</ancestry>
     <size>M</size>
@@ -1595,7 +1595,7 @@ Source:	The Book of Many Things p. 164</description>
     <environment/>
   </monster>
   <monster>
-    <name>Helmed Horror Detention Drone</name>
+    <name>Helmed Horror Detention Drone [Legacy]</name>
     <sortname>Detention Drone, Helmed Horror</sortname>
     <ancestry>Detention Drone</ancestry>
     <size>M</size>
@@ -1662,7 +1662,7 @@ Source:	The Book of Many Things p. 135</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hierophant Medusa</name>
+    <name>Hierophant Medusa [Legacy]</name>
     <sortname>Medusa, Hierophant</sortname>
     <ancestry>Medusa</ancestry>
     <size>L</size>
@@ -1814,7 +1814,7 @@ Source:	The Book of Many Things p. 179</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hierophant of the Comet</name>
+    <name>Hierophant of the Comet [Legacy]</name>
     <ancestry>Heralds of the Comet</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -1898,7 +1898,7 @@ Source:	The Book of Many Things p. 92</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hulgaz</name>
+    <name>Hulgaz [Legacy]</name>
     <size>L</size>
     <type>fiend (devil)</type>
     <alignment>lawful evil</alignment>
@@ -1991,7 +1991,7 @@ Source:	The Book of Many Things p. 169</description>
     <environment/>
   </monster>
   <monster>
-    <name>Initiate of the Comet</name>
+    <name>Initiate of the Comet [Legacy]</name>
     <ancestry>Heralds of the Comet</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -2052,7 +2052,7 @@ Source:	The Book of Many Things p. 93</description>
     <environment/>
   </monster>
   <monster>
-    <name>Living Portent</name>
+    <name>Living Portent [Legacy]</name>
     <size>M</size>
     <type>celestial</type>
     <alignment>typically lawful neutral</alignment>
@@ -2122,7 +2122,7 @@ Source:	The Book of Many Things p. 180</description>
     <environment/>
   </monster>
   <monster>
-    <name>Malaxxix</name>
+    <name>Malaxxix [Legacy]</name>
     <size>H</size>
     <type>fiend (yugoloth)</type>
     <alignment>neutral evil</alignment>
@@ -2243,7 +2243,7 @@ Source:	The Book of Many Things p. 173</description>
     <environment/>
   </monster>
   <monster>
-    <name>Minotaur Archaeologist</name>
+    <name>Minotaur Archaeologist [Legacy]</name>
     <sortname>Minotaur, Archaeologist</sortname>
     <ancestry>Minotaur</ancestry>
     <npc>YES</npc>
@@ -2287,7 +2287,7 @@ Source:	The Book of Many Things p. 173</description>
     <environment/>
   </monster>
   <monster>
-    <name>Minotaur Infiltrator</name>
+    <name>Minotaur Infiltrator [Legacy]</name>
     <sortname>Minotaur, Infiltrator</sortname>
     <ancestry>Minotaur</ancestry>
     <npc>YES</npc>
@@ -2348,7 +2348,7 @@ Source:	The Book of Many Things p. 173</description>
     <environment/>
   </monster>
   <monster>
-    <name>Oddlewin</name>
+    <name>Oddlewin [Legacy]</name>
     <size>S</size>
     <type>fey (goblinoid)</type>
     <alignment>chaotic neutral</alignment>
@@ -2416,7 +2416,7 @@ Source:	The Book of Many Things p. 111</description>
     <environment/>
   </monster>
   <monster>
-    <name>Otherworldly Corrupter</name>
+    <name>Otherworldly Corrupter [Legacy]</name>
     <sortname>Rogue, Otherworldly Corrupter</sortname>
     <ancestry>Rogue</ancestry>
     <size>M</size>
@@ -2532,7 +2532,7 @@ Source:	The Book of Many Things p. 47</description>
     <environment/>
   </monster>
   <monster>
-    <name>Pazrodine</name>
+    <name>Pazrodine [Legacy]</name>
     <sortname>Dragon, Moonstone</sortname>
     <ancestry>Dragon, Moonstone Dragon</ancestry>
     <size>G</size>
@@ -2644,7 +2644,7 @@ Source:	The Book of Many Things p. 113</description>
     <environment/>
   </monster>
   <monster>
-    <name>Quadrone Detention Drone</name>
+    <name>Quadrone Detention Drone [Legacy]</name>
     <sortname>Detention Drone, Quadrone</sortname>
     <ancestry>Detention Drone</ancestry>
     <size>M</size>
@@ -2705,7 +2705,7 @@ Source:	The Book of Many Things p. 135</description>
     <environment/>
   </monster>
   <monster>
-    <name>Reaper Spirit</name>
+    <name>Reaper Spirit [Legacy]</name>
     <sortname>Spirit, Reaper</sortname>
     <ancestry>Spirit</ancestry>
     <size>M</size>
@@ -2764,7 +2764,7 @@ Source:	The Book of Many Things p. 135</description>
     <environment/>
   </monster>
   <monster>
-    <name>Riffler</name>
+    <name>Riffler [Legacy]</name>
     <size>S</size>
     <type>fey</type>
     <alignment>typically chaotic neutral</alignment>
@@ -2832,7 +2832,7 @@ Source:	The Book of Many Things p. 181</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ruin Spider</name>
+    <name>Ruin Spider [Legacy]</name>
     <sortname>Spider, Ruin</sortname>
     <ancestry>Spider</ancestry>
     <size>L</size>
@@ -2900,7 +2900,7 @@ Source:	The Book of Many Things p. 182</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sir Jared</name>
+    <name>Sir Jared [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -2949,7 +2949,7 @@ Source:	The Book of Many Things p. 80</description>
     <environment/>
   </monster>
   <monster>
-    <name>Solar Bastion Knight</name>
+    <name>Solar Bastion Knight [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (paladin)</type>
@@ -3017,7 +3017,7 @@ Source:	The Book of Many Things p. 75</description>
     <environment/>
   </monster>
   <monster>
-    <name>Talon Beast</name>
+    <name>Talon Beast [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>unaligned</alignment>
@@ -3073,7 +3073,7 @@ Source:	The Book of Many Things p. 183</description>
     <environment/>
   </monster>
   <monster>
-    <name>Unborn Palanquin</name>
+    <name>Unborn Palanquin [Legacy]</name>
     <size>G</size>
     <type>construct</type>
     <alignment>Neutral</alignment>
@@ -3096,7 +3096,7 @@ Source:	The Book of Many Things p. 184</description>
     <environment/>
   </monster>
   <monster>
-    <name>Veiled Presence</name>
+    <name>Veiled Presence [Legacy]</name>
     <sortname>Rogue, Veiled Presence</sortname>
     <ancestry>Rogue</ancestry>
     <npc>YES</npc>
@@ -3205,7 +3205,7 @@ Source:	The Book of Many Things p. 48</description>
     <environment/>
   </monster>
   <monster>
-    <name>Werevulture</name>
+    <name>Werevulture [Legacy]</name>
     <sortname>Lycanthrope, Werevulture</sortname>
     <ancestry>Lycanthrope</ancestry>
     <size>M</size>

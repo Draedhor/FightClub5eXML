@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Chime of Exile</name>
+    <name>Chime of Exile [Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -10,7 +10,7 @@
 Source:	Vecna: Eve of Ruin p. 46</text>
   </item>
   <item>
-    <name>Crown of Lies</name>
+    <name>Crown of Lies [Legacy]</name>
     <detail>artifact (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -34,7 +34,7 @@ Destroying the Crown: If a creature wearing the crown is killed by the creature 
 Source:	Vecna: Eve of Ruin p. 6</text>
   </item>
   <item>
-    <name>Rod of Seven Parts</name>
+    <name>Rod of Seven Parts [Legacy]</name>
     <detail>artifact (requires attunement)</detail>
     <type>RD</type>
     <magic>YES</magic>

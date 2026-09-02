@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Amalgamation</name>
+    <name>Amalgamation [TP Legacy]</name>
     <size>G</size>
     <type>aberration</type>
     <alignment>Chaotic Evil</alignment>
@@ -109,7 +109,7 @@ Source:	Dungeons of Drakkenheim p. 206 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Animated Delerium Sludge</name>
+    <name>Animated Delerium Sludge [TP Legacy]</name>
     <size>L</size>
     <type>elemental</type>
     <alignment>Unaligned</alignment>
@@ -160,7 +160,7 @@ Source:	Dungeons of Drakkenheim p. 203 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Arcane Wraith</name>
+    <name>Arcane Wraith [TP Legacy]</name>
     <sortname>Wraith, Arcane</sortname>
     <ancestry>Wraith</ancestry>
     <size>M</size>
@@ -222,7 +222,7 @@ Source:	Dungeons of Drakkenheim p. 197 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cavalier</name>
+    <name>Cavalier [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -295,7 +295,7 @@ Source:	Dungeons of Drakkenheim p. 218 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Chaplain</name>
+    <name>Chaplain [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -352,7 +352,7 @@ Source:	Dungeons of Drakkenheim p. 218 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Crater Wurm</name>
+    <name>Crater Wurm [TP Legacy]</name>
     <sortname>Wurm, Crater</sortname>
     <ancestry>Wurm</ancestry>
     <size>G</size>
@@ -407,7 +407,7 @@ Source:	Dungeons of Drakkenheim p. 197 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Crimson Countess</name>
+    <name>Crimson Countess [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -487,7 +487,7 @@ Source:	Dungeons of Drakkenheim p. 208 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Delerium Dreg</name>
+    <name>Delerium Dreg [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Unaligned</alignment>
@@ -533,7 +533,7 @@ Source:	Dungeons of Drakkenheim p. 199 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Delerium Dreg, Aquatic (Deep One or "Fishfolk")</name>
+    <name>Delerium Dreg, Aquatic (Deep One or "Fishfolk") [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Unaligned</alignment>
@@ -585,7 +585,7 @@ Source:	Dungeons of Drakkenheim p. 199 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Delerium Dreg, Bloated</name>
+    <name>Delerium Dreg, Bloated [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Unaligned</alignment>
@@ -642,7 +642,7 @@ Source:	Dungeons of Drakkenheim p. 199 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Delerium Dreg, Chitinous</name>
+    <name>Delerium Dreg, Chitinous [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Unaligned</alignment>
@@ -692,7 +692,7 @@ Source:	Dungeons of Drakkenheim p. 199 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Delerium Dreg, Cyclopean</name>
+    <name>Delerium Dreg, Cyclopean [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Unaligned</alignment>
@@ -752,7 +752,7 @@ Source:	Dungeons of Drakkenheim p. 199 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Delerium Dreg, Displaced</name>
+    <name>Delerium Dreg, Displaced [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Unaligned</alignment>
@@ -809,7 +809,7 @@ Source:	Dungeons of Drakkenheim p. 199 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Delerium Dreg, Frenzied</name>
+    <name>Delerium Dreg, Frenzied [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Unaligned</alignment>
@@ -863,7 +863,7 @@ Source:	Dungeons of Drakkenheim p. 199 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Delerium Dreg, Lambent</name>
+    <name>Delerium Dreg, Lambent [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Unaligned</alignment>
@@ -918,7 +918,7 @@ Source:	Dungeons of Drakkenheim p. 199 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Delerium Dreg, Leeching</name>
+    <name>Delerium Dreg, Leeching [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Unaligned</alignment>
@@ -975,7 +975,7 @@ Source:	Dungeons of Drakkenheim p. 199 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Delerium Dreg, Lurking</name>
+    <name>Delerium Dreg, Lurking [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Unaligned</alignment>
@@ -1031,7 +1031,7 @@ Source:	Dungeons of Drakkenheim p. 199 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Delerium Dreg, Spined</name>
+    <name>Delerium Dreg, Spined [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Unaligned</alignment>
@@ -1090,7 +1090,7 @@ Source:	Dungeons of Drakkenheim p. 199 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Delerium Dreg, Tentacled</name>
+    <name>Delerium Dreg, Tentacled [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Unaligned</alignment>
@@ -1145,7 +1145,7 @@ Source:	Dungeons of Drakkenheim p. 199 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Entropic Flame</name>
+    <name>Entropic Flame [TP Legacy]</name>
     <size>L</size>
     <type>elemental</type>
     <alignment>Unaligned</alignment>
@@ -1202,7 +1202,7 @@ Source:	Dungeons of Drakkenheim p. 204 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Executioner</name>
+    <name>Executioner [TP Legacy]</name>
     <size>H</size>
     <type>construct</type>
     <alignment>Lawful Evil</alignment>
@@ -1286,7 +1286,7 @@ Source:	Dungeons of Drakkenheim p. 209 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Garmyr</name>
+    <name>Garmyr [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -1339,7 +1339,7 @@ Source:	Dungeons of Drakkenheim p. 197 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gravekeeper</name>
+    <name>Gravekeeper [TP Legacy]</name>
     <size>L</size>
     <type>aberration</type>
     <alignment>Chaotic Evil</alignment>
@@ -1432,7 +1432,7 @@ Source:	Dungeons of Drakkenheim p. 210 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Grotesque Gargant</name>
+    <name>Grotesque Gargant [TP Legacy]</name>
     <sortname>Gargant, Grotesque</sortname>
     <ancestry>Gargant</ancestry>
     <size>H</size>
@@ -1498,7 +1498,7 @@ Source:	Dungeons of Drakkenheim p. 197 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Haze Hulk</name>
+    <name>Haze Hulk [TP Legacy]</name>
     <sortname>Haze, Hulk</sortname>
     <ancestry>Haze</ancestry>
     <size>L</size>
@@ -1542,7 +1542,7 @@ Source:	Dungeons of Drakkenheim p. 200 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Haze Hulk, Gutbuster</name>
+    <name>Haze Hulk, Gutbuster [TP Legacy]</name>
     <sortname>Haze, Hulk, Gutbuster</sortname>
     <ancestry>Haze</ancestry>
     <size>L</size>
@@ -1592,7 +1592,7 @@ Source:	Dungeons of Drakkenheim p. 200 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Haze Hulk, Hunter</name>
+    <name>Haze Hulk, Hunter [TP Legacy]</name>
     <sortname>Haze, Hulk, Hunter</sortname>
     <ancestry>Haze</ancestry>
     <size>L</size>
@@ -1650,7 +1650,7 @@ Source:	Dungeons of Drakkenheim p. 200 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Haze Hulk, Juggernaut</name>
+    <name>Haze Hulk, Juggernaut [TP Legacy]</name>
     <sortname>Haze, Hulk, Juggernaut</sortname>
     <ancestry>Haze</ancestry>
     <size>L</size>
@@ -1703,7 +1703,7 @@ Source:	Dungeons of Drakkenheim p. 200 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Haze Husk</name>
+    <name>Haze Husk [TP Legacy]</name>
     <sortname>Haze, Husk</sortname>
     <ancestry>Haze</ancestry>
     <size>M</size>
@@ -1748,7 +1748,7 @@ Source:	Dungeons of Drakkenheim p. 197 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Haze Wight</name>
+    <name>Haze Wight [TP Legacy]</name>
     <sortname>Haze, Wight</sortname>
     <ancestry>Haze</ancestry>
     <size>M</size>
@@ -1811,7 +1811,7 @@ Source:	Dungeons of Drakkenheim p. 198 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hedge Mage</name>
+    <name>Hedge Mage [TP Legacy]</name>
     <sortname>Mage, Hedge</sortname>
     <ancestry>Mage</ancestry>
     <npc>YES</npc>
@@ -1861,7 +1861,7 @@ Source:	Dungeons of Drakkenheim p. 198 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hypnotic Eldritch Blossom</name>
+    <name>Hypnotic Eldritch Blossom [TP Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment>Chaotic Evil</alignment>
@@ -1910,7 +1910,7 @@ The effect ends for an affected creature if it takes any damage or if someone el
     <environment/>
   </monster>
   <monster>
-    <name>Knight-Captain Theodore Marshal</name>
+    <name>Knight-Captain Theodore Marshal [TP Legacy]</name>
     <sortname>Marshal, Theodore</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2007,7 +2007,7 @@ Source:	Dungeons of Drakkenheim p. 215 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lenore von Kessel</name>
+    <name>Lenore von Kessel [TP Legacy]</name>
     <sortname>von Kessel, Lenore</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2072,7 +2072,7 @@ Source:	Dungeons of Drakkenheim p. 134 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Living Deep Haze</name>
+    <name>Living Deep Haze [TP Legacy]</name>
     <sortname>Deep Haze, Living</sortname>
     <ancestry>Deep Haze</ancestry>
     <size>L</size>
@@ -2125,7 +2125,7 @@ Source:	Dungeons of Drakkenheim p. 204 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lord Commander Elias Drexel</name>
+    <name>Lord Commander Elias Drexel [TP Legacy]</name>
     <sortname>Drexel, Elias</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2241,7 +2241,7 @@ Source:	Dungeons of Drakkenheim p. 214 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lord of the Feast</name>
+    <name>Lord of the Feast [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -2339,7 +2339,7 @@ Source:	Dungeons of Drakkenheim p. 211 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lucretia Mathias</name>
+    <name>Lucretia Mathias [TP Legacy]</name>
     <sortname>Mathias, Lucretia</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2453,7 +2453,7 @@ Source:	Dungeons of Drakkenheim p. 216 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Minazorond</name>
+    <name>Minazorond [TP Legacy]</name>
     <size>G</size>
     <type>dragon</type>
     <alignment>Lawful Good</alignment>
@@ -2582,7 +2582,7 @@ Source:	Dungeons of Drakkenheim p. 183 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Oscar Yoren</name>
+    <name>Oscar Yoren [TP Legacy]</name>
     <sortname>Yoren, Oscar</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2652,7 +2652,7 @@ Source:	Dungeons of Drakkenheim p. 99 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Pale Man</name>
+    <name>Pale Man [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>aberration</type>
@@ -2762,7 +2762,7 @@ Source:	Dungeons of Drakkenheim p. 212 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Protean Abomination</name>
+    <name>Protean Abomination [TP Legacy]</name>
     <sortname>Abomination, Protean</sortname>
     <ancestry>Abomination</ancestry>
     <size>H</size>
@@ -2823,7 +2823,7 @@ Source:	Dungeons of Drakkenheim p. 201 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Queen of Thieves</name>
+    <name>Queen of Thieves [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid</type>
@@ -2948,7 +2948,7 @@ Source:	Dungeons of Drakkenheim p. 217 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rat Prince</name>
+    <name>Rat Prince [TP Legacy]</name>
     <sortname>Rat, Prince</sortname>
     <ancestry>Rat</ancestry>
     <size>M</size>
@@ -3020,7 +3020,7 @@ Source:	Dungeons of Drakkenheim p. 213 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ratling</name>
+    <name>Ratling [TP Legacy]</name>
     <size>S</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -3077,7 +3077,7 @@ Source:	Dungeons of Drakkenheim p. 202 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Saint Gresha</name>
+    <name>Saint Gresha [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Good</alignment>
@@ -3140,7 +3140,7 @@ Source:	Dungeons of Drakkenheim p. 124 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Scoundrel</name>
+    <name>Scoundrel [TP Legacy]</name>
     <size>M</size>
     <type>humanoid</type>
     <alignment>Any Alignment</alignment>
@@ -3204,7 +3204,7 @@ Source:	Dungeons of Drakkenheim p. 219 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tower Dragon</name>
+    <name>Tower Dragon [TP Legacy]</name>
     <sortname>Dragon, Tower</sortname>
     <ancestry>Dragon</ancestry>
     <size>L</size>
@@ -3297,7 +3297,7 @@ Source:	Dungeons of Drakkenheim p. 198 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Urban Ranger</name>
+    <name>Urban Ranger [TP Legacy]</name>
     <sortname>Ranger, Urban</sortname>
     <ancestry>Ranger</ancestry>
     <npc>YES</npc>
@@ -3360,7 +3360,7 @@ Source:	Dungeons of Drakkenheim p. 220 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Walking Delerium Geode</name>
+    <name>Walking Delerium Geode [TP Legacy]</name>
     <size>L</size>
     <type>elemental</type>
     <alignment>Unaligned</alignment>
@@ -3408,7 +3408,7 @@ Source:	Dungeons of Drakkenheim p. 205 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Wall Gargoyle</name>
+    <name>Wall Gargoyle [TP Legacy]</name>
     <sortname>Gargoyle, Wall</sortname>
     <ancestry>Gargoyle</ancestry>
     <size>M</size>
@@ -3477,7 +3477,7 @@ Source:	Dungeons of Drakkenheim p. 198 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Warlock of the Rat God</name>
+    <name>Warlock of the Rat God [TP Legacy]</name>
     <size>S</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -3534,7 +3534,7 @@ Source:	Dungeons of Drakkenheim p. 202 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Warp Witch</name>
+    <name>Warp Witch [TP Legacy]</name>
     <sortname>Witch, Warp</sortname>
     <ancestry>Witch</ancestry>
     <size>M</size>

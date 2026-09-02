@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Al'chaia</name>
+    <name>Al'chaia [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (gith)</type>
@@ -47,7 +47,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Animated Ballista</name>
+    <name>Animated Ballista [Legacy]</name>
     <sortname>Animated Object, Ballista</sortname>
     <ancestry>Animated Object</ancestry>
     <size>L</size>
@@ -83,7 +83,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 39</description>
     <environment/>
   </monster>
   <monster>
-    <name>Animated Jade Serpent</name>
+    <name>Animated Jade Serpent [Legacy]</name>
     <sortname>Animated Object, Jade Serpent</sortname>
     <ancestry>Animated Object</ancestry>
     <size>M</size>
@@ -118,7 +118,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 39</description>
     <environment>underdark, grassland, forest, swamp, urban, desert</environment>
   </monster>
   <monster>
-    <name>Animated Staff</name>
+    <name>Animated Staff [Legacy]</name>
     <sortname>Animated Object, Staff</sortname>
     <ancestry>Animated Object</ancestry>
     <size>M</size>
@@ -166,7 +166,7 @@ A creature holding the staff that isn't charmed by it can use an action to attem
     <environment/>
   </monster>
   <monster>
-    <name>Animated Statue of Lolth</name>
+    <name>Animated Statue of Lolth [Legacy]</name>
     <sortname>Animated Object, Statue of Lolth</sortname>
     <ancestry>Animated Object</ancestry>
     <size>H</size>
@@ -225,7 +225,7 @@ A creature holding the staff that isn't charmed by it can use an action to attem
     <environment/>
   </monster>
   <monster>
-    <name>Animated Stove</name>
+    <name>Animated Stove [Legacy]</name>
     <sortname>Animated Object, Stove</sortname>
     <ancestry>Animated Object</ancestry>
     <size>L</size>
@@ -267,7 +267,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 186</description>
     <environment/>
   </monster>
   <monster>
-    <name>Animated Wand</name>
+    <name>Animated Wand [Legacy]</name>
     <sortname>Animated Object, Wand</sortname>
     <ancestry>Animated Object</ancestry>
     <size>T</size>
@@ -313,7 +313,7 @@ The DM might rule that a specific wands slam attack inflicts slashing or piercin
     <environment/>
   </monster>
   <monster>
-    <name>Arcturia</name>
+    <name>Arcturia [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Any Evil Alignment</alignment>
@@ -406,7 +406,7 @@ The DM might rule that a specific wands slam attack inflicts slashing or piercin
     <environment/>
   </monster>
   <monster>
-    <name>Ashtyrranthor</name>
+    <name>Ashtyrranthor [Legacy]</name>
     <size>H</size>
     <type>dragon</type>
     <alignment>Chaotic Evil</alignment>
@@ -506,7 +506,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment>mountain, hill</environment>
   </monster>
   <monster>
-    <name>Awakened Brown Bear</name>
+    <name>Awakened Brown Bear [Legacy]</name>
     <sortname>Bear, Brown Awakened</sortname>
     <ancestry>Bear</ancestry>
     <size>L</size>
@@ -553,7 +553,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment>forest, hill, arctic</environment>
   </monster>
   <monster>
-    <name>Awakened Elk</name>
+    <name>Awakened Elk [Legacy]</name>
     <sortname>Elk, Awakened</sortname>
     <ancestry>Elk</ancestry>
     <size>L</size>
@@ -596,7 +596,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.</text>
     <environment>grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Awakened Giant Wasp</name>
+    <name>Awakened Giant Wasp [Legacy]</name>
     <sortname>Wasp, Giant Awakened</sortname>
     <ancestry>Wasp</ancestry>
     <size>M</size>
@@ -633,7 +633,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment>grassland, forest, urban</environment>
   </monster>
   <monster>
-    <name>Berlain Shadowdusk</name>
+    <name>Berlain Shadowdusk [Legacy]</name>
     <sortname>Shadowdusk, Berlain</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -700,7 +700,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment/>
   </monster>
   <monster>
-    <name>Big Xorn</name>
+    <name>Big Xorn [Legacy]</name>
     <size>L</size>
     <type>elemental</type>
     <alignment>Neutral</alignment>
@@ -753,7 +753,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Bore Worm</name>
+    <name>Bore Worm [Legacy]</name>
     <sortname>Worm, Bore</sortname>
     <ancestry>Worm</ancestry>
     <size>G</size>
@@ -807,7 +807,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 171</description>
     <environment/>
   </monster>
   <monster>
-    <name>Captain N'ghathrod</name>
+    <name>Captain N'ghathrod [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Lawful Evil</alignment>
@@ -874,7 +874,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 171</description>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Carrion Ogre</name>
+    <name>Carrion Ogre [Legacy]</name>
     <sortname>Ogre, Carrion</sortname>
     <ancestry>Ogre</ancestry>
     <size>L</size>
@@ -917,7 +917,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 171</description>
     <environment>grassland, forest, swamp, hill, desert, coastal, arctic, underdark, mountain</environment>
   </monster>
   <monster>
-    <name>Cassiok Shadowdusk</name>
+    <name>Cassiok Shadowdusk [Legacy]</name>
     <sortname>Shadowdusk, Cassiok</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -979,7 +979,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 171</description>
     <environment/>
   </monster>
   <monster>
-    <name>Copper Stormforge</name>
+    <name>Copper Stormforge [Legacy]</name>
     <sortname>Stormforge, Copper</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1030,7 +1030,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 171</description>
     <environment/>
   </monster>
   <monster>
-    <name>Crow</name>
+    <name>Crow [Legacy]</name>
     <ancestry>Crow</ancestry>
     <size>T</size>
     <type>beast</type>
@@ -1066,7 +1066,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 171</description>
     <environment>swamp, hill, urban</environment>
   </monster>
   <monster>
-    <name>Crystal Battleaxe</name>
+    <name>Crystal Battleaxe [Legacy]</name>
     <sortname>Animated Object, Crystal Battleaxe</sortname>
     <ancestry>Animated Object</ancestry>
     <size>S</size>
@@ -1108,7 +1108,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 171</description>
     <environment/>
   </monster>
   <monster>
-    <name>Crystal Golem</name>
+    <name>Crystal Golem [Legacy]</name>
     <sortname>Golem, Crystal</sortname>
     <ancestry>Golem</ancestry>
     <size>L</size>
@@ -1173,7 +1173,7 @@ A creature can avert its eyes to avoid the saving throw at the start of its turn
     <environment/>
   </monster>
   <monster>
-    <name>Deformed Duergar</name>
+    <name>Deformed Duergar [Legacy]</name>
     <sortname>Duergar, Deformed</sortname>
     <ancestry>Duergar</ancestry>
     <npc>YES</npc>
@@ -1239,7 +1239,7 @@ A creature can avert its eyes to avoid the saving throw at the start of its turn
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Dezmyr Shadowdusk</name>
+    <name>Dezmyr Shadowdusk [Legacy]</name>
     <sortname>Shadowdusk, Dezmyr</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1311,7 +1311,7 @@ A creature can avert its eyes to avoid the saving throw at the start of its turn
     <environment/>
   </monster>
   <monster>
-    <name>Drivvin Freth</name>
+    <name>Drivvin Freth [Legacy]</name>
     <sortname>Freth, Drivvin</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1394,7 +1394,7 @@ A creature can avert its eyes to avoid the saving throw at the start of its turn
     <environment/>
   </monster>
   <monster>
-    <name>Emberosa</name>
+    <name>Emberosa [Legacy]</name>
     <size>H</size>
     <type>giant</type>
     <alignment>Lawful Evil</alignment>
@@ -1443,7 +1443,7 @@ Tackle: When Emberosa enters any enemy's space for the first time on a turn, the
     <environment>underdark, mountain</environment>
   </monster>
   <monster>
-    <name>Ezzat</name>
+    <name>Ezzat [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Any Evil Alignment</alignment>
@@ -1540,7 +1540,7 @@ Tackle: When Emberosa enters any enemy's space for the first time on a turn, the
     <environment/>
   </monster>
   <monster>
-    <name>Fazrian</name>
+    <name>Fazrian [Legacy]</name>
     <size>L</size>
     <type>celestial</type>
     <alignment>Lawful Good</alignment>
@@ -1597,7 +1597,7 @@ Tackle: When Emberosa enters any enemy's space for the first time on a turn, the
     <environment/>
   </monster>
   <monster>
-    <name>Fidelio</name>
+    <name>Fidelio [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>undead</type>
@@ -1653,7 +1653,7 @@ The possession lasts until the body drops to 0 hit points, Fidelio ends it as a 
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Five-Armed Troll</name>
+    <name>Five-Armed Troll [Legacy]</name>
     <sortname>Troll, Five-Armed</sortname>
     <ancestry>Troll</ancestry>
     <size>L</size>
@@ -1725,7 +1725,7 @@ The troll's speed is halved if it's missing a leg. If it loses both legs, it fal
     <environment>underdark, mountain, forest, swamp, hill, arctic</environment>
   </monster>
   <monster>
-    <name>Flying Trident</name>
+    <name>Flying Trident [Legacy]</name>
     <sortname>Animated Object, Flying Trident</sortname>
     <ancestry>Animated Object</ancestry>
     <size>S</size>
@@ -1767,7 +1767,7 @@ The troll's speed is halved if it's missing a leg. If it loses both legs, it fal
     <environment/>
   </monster>
   <monster>
-    <name>Giant Flying Spider</name>
+    <name>Giant Flying Spider [Legacy]</name>
     <sortname>Spider, Giant Flying</sortname>
     <ancestry>Spider</ancestry>
     <size>L</size>
@@ -1821,7 +1821,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment>underdark, forest, swamp, urban, desert</environment>
   </monster>
   <monster>
-    <name>Giant Mutated Drow</name>
+    <name>Giant Mutated Drow [Legacy]</name>
     <sortname>Drow, Giant Mutated</sortname>
     <ancestry>Drow, Elf</ancestry>
     <npc>YES</npc>
@@ -1903,7 +1903,7 @@ A magical aura of wind surrounds the drow. The aura is a 10-foot-radius sphere t
     <environment>mountain</environment>
   </monster>
   <monster>
-    <name>Glyster</name>
+    <name>Glyster [Legacy]</name>
     <size>H</size>
     <type>dragon</type>
     <alignment>Lawful Good</alignment>
@@ -2014,7 +2014,7 @@ If the dragon dies, changed weather reverts to normal, as described in the spell
     <environment>coastal</environment>
   </monster>
   <monster>
-    <name>Gorka Tharn</name>
+    <name>Gorka Tharn [Legacy]</name>
     <sortname>Tharn, Gorka</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2141,7 +2141,7 @@ If the mummy lord is destroyed, these regional effects end immediately.</text>
     <environment>desert</environment>
   </monster>
   <monster>
-    <name>Gorzil's Gang Troglodyte</name>
+    <name>Gorzil's Gang Troglodyte [Legacy]</name>
     <sortname>Troglodyte, Gorzil's Gang</sortname>
     <ancestry>Troglodyte</ancestry>
     <npc>YES</npc>
@@ -2197,7 +2197,7 @@ If the mummy lord is destroyed, these regional effects end immediately.</text>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Halaster Blackcloak</name>
+    <name>Halaster Blackcloak [Legacy]</name>
     <sortname>Blackcloak, Halaster</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2315,7 +2315,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 310</description>
     <environment/>
   </monster>
   <monster>
-    <name>Halaster Horror</name>
+    <name>Halaster Horror [Legacy]</name>
     <sortname>Horror, Halaster</sortname>
     <size>M</size>
     <type>construct</type>
@@ -2360,7 +2360,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 310</description>
     <environment/>
   </monster>
   <monster>
-    <name>Halaster Puppet</name>
+    <name>Halaster Puppet [Legacy]</name>
     <sortname>Puppet, Halaster</sortname>
     <ancestry>Puppet</ancestry>
     <size>M</size>
@@ -2393,7 +2393,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 310</description>
     <environment/>
   </monster>
   <monster>
-    <name>Haungharassk</name>
+    <name>Haungharassk [Legacy]</name>
     <size>H</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -2430,7 +2430,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 258</description>
     <environment/>
   </monster>
   <monster>
-    <name>Horned Sister</name>
+    <name>Horned Sister [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (tiefling)</type>
@@ -2486,7 +2486,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 258</description>
     <environment/>
   </monster>
   <monster>
-    <name>Huge Gray Ooze</name>
+    <name>Huge Gray Ooze [Legacy]</name>
     <sortname>Gray Ooze, Huge</sortname>
     <ancestry>Gray Ooze</ancestry>
     <size>H</size>
@@ -2542,7 +2542,7 @@ Psychic Crush (Recharge 5-6). The ooze targets one creature that it can sense wi
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Intelligent Black Pudding</name>
+    <name>Intelligent Black Pudding [Legacy]</name>
     <sortname>Black Pudding, Intelligent</sortname>
     <ancestry>Black Pudding</ancestry>
     <size>L</size>
@@ -2592,7 +2592,7 @@ Psychic Crush (Recharge 5-6). The ooze targets one creature that it can sense wi
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Iron Spider</name>
+    <name>Iron Spider [Legacy]</name>
     <sortname>Spider, Iron</sortname>
     <ancestry>Spider</ancestry>
     <size>M</size>
@@ -2629,7 +2629,7 @@ Psychic Crush (Recharge 5-6). The ooze targets one creature that it can sense wi
     <environment/>
   </monster>
   <monster>
-    <name>Junior Drow Priestess of Lolth</name>
+    <name>Junior Drow Priestess of Lolth [Legacy]</name>
     <sortname>Drow Priestess of Lolth, Junior</sortname>
     <ancestry>Drow</ancestry>
     <npc>YES</npc>
@@ -2694,7 +2694,7 @@ Psychic Crush (Recharge 5-6). The ooze targets one creature that it can sense wi
     <environment/>
   </monster>
   <monster>
-    <name>Kavil</name>
+    <name>Kavil [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -2744,7 +2744,7 @@ Psychic Crush (Recharge 5-6). The ooze targets one creature that it can sense wi
     <environment/>
   </monster>
   <monster>
-    <name>Keresta Delvingstone</name>
+    <name>Keresta Delvingstone [Legacy]</name>
     <sortname>Delvingstone, Keresta</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2868,7 +2868,7 @@ If the vampire is destroyed, these effects end after 2d6 days.</text>
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Kol'daan</name>
+    <name>Kol'daan [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (troglodyte)</type>
@@ -2927,7 +2927,7 @@ If the vampire is destroyed, these effects end after 2d6 days.</text>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Large Mimic</name>
+    <name>Large Mimic [Legacy]</name>
     <sortname>Mimic, Large</sortname>
     <ancestry>Mimic</ancestry>
     <size>L</size>
@@ -2982,7 +2982,7 @@ If the vampire is destroyed, these effects end after 2d6 days.</text>
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Left Hand of Manshoon</name>
+    <name>Left Hand of Manshoon [Legacy]</name>
     <npc>YES</npc>
     <size>T</size>
     <type>undead</type>
@@ -3040,7 +3040,7 @@ If the vampire is destroyed, these effects end after 2d6 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Lava Child</name>
+    <name>Lava Child [Legacy]</name>
     <sortname>Child, Lava</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3091,7 +3091,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 313</description>
     <environment/>
   </monster>
   <monster>
-    <name>Living Unseen Servant</name>
+    <name>Living Unseen Servant [Legacy]</name>
     <sortname>Living Spell, Unseen Servant</sortname>
     <ancestry>Living Spell</ancestry>
     <size>M</size>
@@ -3135,7 +3135,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 313</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mad Golem</name>
+    <name>Mad Golem [Legacy]</name>
     <sortname>Golem, Mad</sortname>
     <ancestry>Golem</ancestry>
     <size>H</size>
@@ -3190,7 +3190,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 313</description>
     <environment/>
   </monster>
   <monster>
-    <name>Maddgoth's Homunculus</name>
+    <name>Maddgoth's Homunculus [Legacy]</name>
     <sortname>Homunculus, Maddgoth's</sortname>
     <ancestry>Homunculus</ancestry>
     <size>L</size>
@@ -3229,7 +3229,7 @@ If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d
     <environment/>
   </monster>
   <monster>
-    <name>Marta Moonshadow</name>
+    <name>Marta Moonshadow [Legacy]</name>
     <sortname>Moonshadow, Marta</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3288,7 +3288,7 @@ If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d
     <environment/>
   </monster>
   <monster>
-    <name>Melissara Shadowdusk</name>
+    <name>Melissara Shadowdusk [Legacy]</name>
     <sortname>Shadowdusk, Melissara</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3351,7 +3351,7 @@ If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d
     <environment/>
   </monster>
   <monster>
-    <name>Metal Wasp</name>
+    <name>Metal Wasp [Legacy]</name>
     <sortname>Wasp, Metal</sortname>
     <ancestry>Wasp</ancestry>
     <size>M</size>
@@ -3388,7 +3388,7 @@ If the poison damage reduces the target to 0 hit points, the target is stable bu
     <environment>grassland, forest, urban</environment>
   </monster>
   <monster>
-    <name>Mobar</name>
+    <name>Mobar [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (goblin, shapechanger)</type>
@@ -3461,7 +3461,7 @@ If the target is a humanoid, it must succeed on a DC 10 Constitution saving thro
     <environment/>
   </monster>
   <monster>
-    <name>Muiral</name>
+    <name>Muiral [Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Evil</alignment>
@@ -3542,7 +3542,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 314</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nerozar the Defeated</name>
+    <name>Nerozar the Defeated [Legacy]</name>
     <npc>YES</npc>
     <size>L</size>
     <type>undead</type>
@@ -3591,7 +3591,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 314</description>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Nester</name>
+    <name>Nester [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -3653,7 +3653,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 314</description>
     <environment/>
   </monster>
   <monster>
-    <name>Old Troglodyte</name>
+    <name>Old Troglodyte [Legacy]</name>
     <sortname>Troglodyte, Old</sortname>
     <ancestry>Troglodyte</ancestry>
     <npc>YES</npc>
@@ -3704,7 +3704,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 314</description>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Otto</name>
+    <name>Otto [Legacy]</name>
     <size>L</size>
     <type>dragon</type>
     <alignment>Chaotic Good</alignment>
@@ -3779,7 +3779,7 @@ d6 | Behavior
     <environment>forest</environment>
   </monster>
   <monster>
-    <name>Play-by-Play Generator</name>
+    <name>Play-by-Play Generator [Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Lawful Neutral</alignment>
@@ -3833,7 +3833,7 @@ A rogue modron loses the Axiomatic Mind trait and can have any alignment other t
     <environment/>
   </monster>
   <monster>
-    <name>Poison Weird</name>
+    <name>Poison Weird [Legacy]</name>
     <sortname>Weird, Poison</sortname>
     <ancestry>Weird</ancestry>
     <size>L</size>
@@ -3875,7 +3875,7 @@ A rogue modron loses the Axiomatic Mind trait and can have any alignment other t
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Portia Dzuth</name>
+    <name>Portia Dzuth [Legacy]</name>
     <sortname>Dzuth, Portia</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3932,7 +3932,7 @@ A rogue modron loses the Axiomatic Mind trait and can have any alignment other t
     <environment>desert, urban</environment>
   </monster>
   <monster>
-    <name>Preeta Kreepa</name>
+    <name>Preeta Kreepa [Legacy]</name>
     <sortname>Kreepa, Preeta</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3983,7 +3983,7 @@ A rogue modron loses the Axiomatic Mind trait and can have any alignment other t
     <environment/>
   </monster>
   <monster>
-    <name>Rabbithead</name>
+    <name>Rabbithead [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -4016,7 +4016,7 @@ A rogue modron loses the Axiomatic Mind trait and can have any alignment other t
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Rowboat Mimic</name>
+    <name>Rowboat Mimic [Legacy]</name>
     <sortname>Mimic, Rowboat</sortname>
     <ancestry>Mimic</ancestry>
     <size>L</size>
@@ -4071,7 +4071,7 @@ A rogue modron loses the Axiomatic Mind trait and can have any alignment other t
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Runed Behir</name>
+    <name>Runed Behir [Legacy]</name>
     <sortname>Behir, Runed</sortname>
     <ancestry>Behir</ancestry>
     <size>H</size>
@@ -4126,7 +4126,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Scaladar</name>
+    <name>Scaladar [Legacy]</name>
     <size>H</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -4179,7 +4179,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 315</description>
     <environment/>
   </monster>
   <monster>
-    <name>Shadow Assassin</name>
+    <name>Shadow Assassin [Legacy]</name>
     <sortname>Assassin, Shadow</sortname>
     <ancestry>Assassin</ancestry>
     <npc>YES</npc>
@@ -4232,7 +4232,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 316</description>
     <environment/>
   </monster>
   <monster>
-    <name>Shapechanged Roper</name>
+    <name>Shapechanged Roper [Legacy]</name>
     <sortname>Roper, Shapechanged</sortname>
     <ancestry>Roper</ancestry>
     <size>L</size>
@@ -4294,7 +4294,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 316</description>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Shockerstomper</name>
+    <name>Shockerstomper [Legacy]</name>
     <size>G</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -4355,7 +4355,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 316</description>
     <environment/>
   </monster>
   <monster>
-    <name>Shunn Shurreth</name>
+    <name>Shunn Shurreth [Legacy]</name>
     <sortname>Shurreth, Shunn</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4430,7 +4430,7 @@ A drow elite warrior wearing +2 Studded Leather Armor and carrying a +2 shortswo
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Sing-Along</name>
+    <name>Sing-Along [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (halfling)</type>
@@ -4471,7 +4471,7 @@ A drow elite warrior wearing +2 Studded Leather Armor and carrying a +2 shortswo
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Space Hamster</name>
+    <name>Space Hamster [Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -4506,7 +4506,7 @@ A drow elite warrior wearing +2 Studded Leather Armor and carrying a +2 shortswo
     <environment>swamp, urban</environment>
   </monster>
   <monster>
-    <name>Stalagma Steelshadow</name>
+    <name>Stalagma Steelshadow [Legacy]</name>
     <sortname>Steelshadow, Stalagma</sortname>
     <size>H</size>
     <type>dragon</type>
@@ -4612,7 +4612,7 @@ If the dragon dies, changed weather reverts to normal, as described in the spell
     <environment>mountain, urban</environment>
   </monster>
   <monster>
-    <name>Statue of Vergadain</name>
+    <name>Statue of Vergadain [Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -4669,7 +4669,7 @@ If the dragon dies, changed weather reverts to normal, as described in the spell
     <environment/>
   </monster>
   <monster>
-    <name>Stonecloak</name>
+    <name>Stonecloak [Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -4722,7 +4722,7 @@ If the dragon dies, changed weather reverts to normal, as described in the spell
     <environment/>
   </monster>
   <monster>
-    <name>Sundeth</name>
+    <name>Sundeth [Legacy]</name>
     <npc>YES</npc>
     <size>L</size>
     <type>humanoid (any race)</type>
@@ -4774,7 +4774,7 @@ If the dragon dies, changed weather reverts to normal, as described in the spell
     <environment>desert, urban</environment>
   </monster>
   <monster>
-    <name>Thwad Underbrew</name>
+    <name>Thwad Underbrew [Legacy]</name>
     <sortname>Underbrew, Thwad</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4831,7 +4831,7 @@ If the dragon dies, changed weather reverts to normal, as described in the spell
     <environment>desert, urban</environment>
   </monster>
   <monster>
-    <name>Torbit</name>
+    <name>Torbit [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (bullywug)</type>
@@ -4900,7 +4900,7 @@ If the dragon dies, changed weather reverts to normal, as described in the spell
     <environment/>
   </monster>
   <monster>
-    <name>Trenzia</name>
+    <name>Trenzia [Legacy]</name>
     <npc>YES</npc>
     <size>T</size>
     <type>undead</type>
@@ -4960,7 +4960,7 @@ If the dragon dies, changed weather reverts to normal, as described in the spell
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Trobriand</name>
+    <name>Trobriand [Legacy]</name>
     <npc>YES</npc>
     <size>L</size>
     <type>construct</type>
@@ -5024,7 +5024,7 @@ If the dragon dies, changed weather reverts to normal, as described in the spell
     <environment/>
   </monster>
   <monster>
-    <name>Umbraxakar</name>
+    <name>Umbraxakar [Legacy]</name>
     <size>H</size>
     <type>dragon</type>
     <alignment>Lawful Good</alignment>
@@ -5147,7 +5147,7 @@ If the dragon dies, changed weather reverts to normal, as described in the spell
     <environment>coastal</environment>
   </monster>
   <monster>
-    <name>Undead Bulette</name>
+    <name>Undead Bulette [Legacy]</name>
     <sortname>Bulette, Undead</sortname>
     <ancestry>Bulette</ancestry>
     <size>L</size>
@@ -5190,7 +5190,7 @@ If the dragon dies, changed weather reverts to normal, as described in the spell
     <environment>mountain, grassland, hill</environment>
   </monster>
   <monster>
-    <name>Undead Shambling Mound</name>
+    <name>Undead Shambling Mound [Legacy]</name>
     <sortname>Shambling Mound, Undead</sortname>
     <ancestry>Shambling Mound</ancestry>
     <size>L</size>
@@ -5237,7 +5237,7 @@ If the dragon dies, changed weather reverts to normal, as described in the spell
     <environment>forest, swamp</environment>
   </monster>
   <monster>
-    <name>Valtagar Steelshadow</name>
+    <name>Valtagar Steelshadow [Legacy]</name>
     <sortname>Steelshadow, Valtagar</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -5314,7 +5314,7 @@ If the dragon dies, changed weather reverts to normal, as described in the spell
     <environment/>
   </monster>
   <monster>
-    <name>Vertrand Shadowdusk</name>
+    <name>Vertrand Shadowdusk [Legacy]</name>
     <sortname>Shadowdusk, Vertrand</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -5377,7 +5377,7 @@ If the dragon dies, changed weather reverts to normal, as described in the spell
     <environment/>
   </monster>
   <monster>
-    <name>Werebat</name>
+    <name>Werebat [Legacy]</name>
     <ancestry>Werebat</ancestry>
     <npc>YES</npc>
     <size>S</size>
@@ -5449,7 +5449,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 317</description>
     <environment/>
   </monster>
   <monster>
-    <name>Wooden Donkey</name>
+    <name>Wooden Donkey [Legacy]</name>
     <sortname>Donkey, Wooden</sortname>
     <ancestry>Donkey</ancestry>
     <size>M</size>
@@ -5491,7 +5491,7 @@ Source:	Waterdeep: Dungeon of the Mad Mage p. 317</description>
     <environment>hill, urban, desert</environment>
   </monster>
   <monster>
-    <name>Wyllow</name>
+    <name>Wyllow [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (elf)</type>
@@ -5558,7 +5558,7 @@ The new form's attacks count as magical for the purpose of overcoming resistance
     <environment>forest, mountain, swamp</environment>
   </monster>
   <monster>
-    <name>Zalthar Shadowdusk</name>
+    <name>Zalthar Shadowdusk [Legacy]</name>
     <sortname>Shadowdusk, Zalthar</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -5630,7 +5630,7 @@ The new form's attacks count as magical for the purpose of overcoming resistance
     <environment/>
   </monster>
   <monster>
-    <name>Zorak Lightdrinker</name>
+    <name>Zorak Lightdrinker [Legacy]</name>
     <sortname>Lightdrinker, Zorak</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -5767,7 +5767,7 @@ If the vampire is destroyed, these effects end after 2d6 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Zox Clammersham</name>
+    <name>Zox Clammersham [Legacy]</name>
     <sortname>Clammersham, Zox</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -5834,7 +5834,7 @@ If the vampire is destroyed, these effects end after 2d6 days.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Zress Orlezziir</name>
+    <name>Zress Orlezziir [Legacy]</name>
     <sortname>Orlezziir, Zress</sortname>
     <npc>YES</npc>
     <size>M</size>

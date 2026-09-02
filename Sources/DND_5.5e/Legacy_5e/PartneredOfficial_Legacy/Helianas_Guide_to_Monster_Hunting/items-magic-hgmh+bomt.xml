@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Claw of Throne's Command (TP)</name>
+    <name>Claw of Throne's Command [TP Legacy]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -28,7 +28,7 @@ Source:	The Book of Many Things p. 39,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Haladie of Throne's Command (TP)</name>
+    <name>Haladie of Throne's Command [TP Legacy]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -57,7 +57,7 @@ Source:	The Book of Many Things p. 39,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Magitech Firearm of Throne's Command (TP)</name>
+    <name>Magitech Firearm of Throne's Command [TP Legacy]</name>
     <detail>firearm, very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -93,7 +93,7 @@ Source:	The Book of Many Things p. 39,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Nunchuck of Throne's Command (TP)</name>
+    <name>Nunchuck of Throne's Command [TP Legacy]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -123,7 +123,7 @@ Source:	The Book of Many Things p. 39,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Tetherhook of Throne's Command (TP)</name>
+    <name>Tetherhook of Throne's Command [TP Legacy]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -153,7 +153,7 @@ Source:	The Book of Many Things p. 39,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Hand Tommybow of Throne's Command (TP)</name>
+    <name>Hand Tommybow of Throne's Command [TP Legacy]</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -189,7 +189,7 @@ Source:	The Book of Many Things p. 39,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Light Tommybow of Throne's Command (TP)</name>
+    <name>Light Tommybow of Throne's Command [TP Legacy]</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -223,7 +223,7 @@ Source:	The Book of Many Things p. 39,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Heavy Tommybow of Throne's Command (TP)</name>
+    <name>Heavy Tommybow of Throne's Command [TP Legacy]</name>
     <detail>very rare</detail>
     <type>R</type>
     <magic>YES</magic>

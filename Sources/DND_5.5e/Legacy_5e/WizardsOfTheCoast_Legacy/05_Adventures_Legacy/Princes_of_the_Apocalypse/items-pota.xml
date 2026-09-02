@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Balloon Pack</name>
+    <name>Balloon Pack [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -12,7 +12,7 @@
 Source:	Princes of the Apocalypse p. 222</text>
   </item>
   <item>
-    <name>Bottled Breath</name>
+    <name>Bottled Breath [Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -22,7 +22,7 @@ Source:	Princes of the Apocalypse p. 222</text>
 Source:	Princes of the Apocalypse p. 222</text>
   </item>
   <item>
-    <name>Claws of the Umber Hulk</name>
+    <name>Claws of the Umber Hulk [Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -35,7 +35,7 @@ Source:	Princes of the Apocalypse p. 222,
     <roll description="Slashing Damage">1d8</roll>
   </item>
   <item>
-    <name>Devastation Orb of Air</name>
+    <name>Devastation Orb of Air [Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -52,7 +52,7 @@ Source:	Princes of the Apocalypse p. 222</text>
     <roll description="Bludgeoning Damage">1d4</roll>
   </item>
   <item>
-    <name>Devastation Orb of Earth</name>
+    <name>Devastation Orb of Earth [Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -68,7 +68,7 @@ Source:	Princes of the Apocalypse p. 222</text>
     <roll description="Psychic Damage">1d6</roll>
   </item>
   <item>
-    <name>Devastation Orb of Fire</name>
+    <name>Devastation Orb of Fire [Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -85,7 +85,7 @@ Source:	Princes of the Apocalypse p. 222</text>
     <roll description="Fire Damage">3d6</roll>
   </item>
   <item>
-    <name>Devastation Orb of Water</name>
+    <name>Devastation Orb of Water [Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -102,7 +102,7 @@ Source:	Princes of the Apocalypse p. 222</text>
     <roll description="Hours">2d10</roll>
   </item>
   <item>
-    <name>Dragon Sensing Longsword</name>
+    <name>Dragon Sensing Longsword [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>3</weight>
@@ -120,7 +120,7 @@ Source:	Princes of the Apocalypse p. 90</text>
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Drown</name>
+    <name>Drown [Legacy]</name>
     <detail>trident, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -156,7 +156,7 @@ Source:	Princes of the Apocalypse p. 224</text>
     <roll description="Cold Damage">1d8</roll>
   </item>
   <item>
-    <name>Ironfang</name>
+    <name>Ironfang [Legacy]</name>
     <detail>war pick, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -189,7 +189,7 @@ Source:	Princes of the Apocalypse p. 224</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Lost Crown of Besilmer</name>
+    <name>Lost Crown of Besilmer [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -204,7 +204,7 @@ Source:	Princes of the Apocalypse p. 223</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Orcsplitter</name>
+    <name>Orcsplitter [Legacy]</name>
     <detail>greataxe, legendary (requires attunement by a good-aligned dwarf, fighter, or paladin)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -237,7 +237,7 @@ Source:	Princes of the Apocalypse p. 224</text>
     <modifier category="bonus">melee damage +2</modifier>
   </item>
   <item>
-    <name>Pathfinder's Greataxe</name>
+    <name>Pathfinder's Greataxe [Legacy]</name>
     <type>M</type>
     <magic>YES</magic>
     <weight>7</weight>
@@ -256,7 +256,7 @@ Source:	Princes of the Apocalypse p. 175</text>
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Reszur</name>
+    <name>Reszur [Legacy]</name>
     <detail>dagger, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -283,7 +283,7 @@ Source:	Princes of the Apocalypse p. 157</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Seeker Dart</name>
+    <name>Seeker Dart [Legacy]</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -308,7 +308,7 @@ Source:	Princes of the Apocalypse p. 223</text>
     <roll description="Lightning Damage">3d4</roll>
   </item>
   <item>
-    <name>Storm Boomerang</name>
+    <name>Storm Boomerang [Legacy]</name>
     <detail>uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -323,7 +323,7 @@ Source:	Princes of the Apocalypse p. 223</text>
     <roll description="Thunder Damage">3d4</roll>
   </item>
   <item>
-    <name>Tinderstrike</name>
+    <name>Tinderstrike [Legacy]</name>
     <detail>dagger, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -361,7 +361,7 @@ Source:	Princes of the Apocalypse p. 224</text>
     <roll description="Fire Damage">2d6</roll>
   </item>
   <item>
-    <name>Weird Tank</name>
+    <name>Weird Tank [Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -373,7 +373,7 @@ Source:	Princes of the Apocalypse p. 224</text>
 Source:	Princes of the Apocalypse p. 223</text>
   </item>
   <item>
-    <name>Windvane</name>
+    <name>Windvane [Legacy]</name>
     <detail>spear, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -411,7 +411,7 @@ Source:	Princes of the Apocalypse p. 224</text>
     <roll>1d6</roll>
   </item>
   <item>
-    <name>Wingwear</name>
+    <name>Wingwear [Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Cartographer's Map Case</name>
+    <name>Cartographer's Map Case [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -24,7 +24,7 @@ Source:	Acquisitions Incorporated p. 20</text>
     <roll description="Landmark">1d8</roll>
   </item>
   <item>
-    <name>Chronolometer</name>
+    <name>Chronolometer [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -41,7 +41,7 @@ Source:	Acquisitions Incorporated p. 220</text>
     <roll description="Time Bandit">1d6</roll>
   </item>
   <item>
-    <name>Coin of Decisionry</name>
+    <name>Coin of Decisionry [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -62,7 +62,7 @@ Source:	Acquisitions Incorporated p. 22</text>
     <roll description="Decision">1d4</roll>
   </item>
   <item>
-    <name>Dimensional Loop</name>
+    <name>Dimensional Loop [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -78,7 +78,7 @@ Source:	Acquisitions Incorporated p. 220</text>
     <modifier category="saving throw">strength save +1</modifier>
   </item>
   <item>
-    <name>Documancy Satchel</name>
+    <name>Documancy Satchel [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -92,7 +92,7 @@ Scroll Humidor: At rank 4, your documancy satchel gains additional power and bec
 Source:	Acquisitions Incorporated p. 24</text>
   </item>
   <item>
-    <name>Elder Cartographer's Glossography</name>
+    <name>Elder Cartographer's Glossography [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -101,7 +101,7 @@ Source:	Acquisitions Incorporated p. 24</text>
 Source:	Acquisitions Incorporated p. 20</text>
   </item>
   <item>
-    <name>Failed Experiment Wand</name>
+    <name>Failed Experiment Wand [Legacy]</name>
     <detail>rare (requires attunement by a spellcaster)</detail>
     <type>WD</type>
     <weight>1</weight>
@@ -113,7 +113,7 @@ Source:	Acquisitions Incorporated p. 162</text>
     <roll description="Last Charge Expended">1d20</roll>
   </item>
   <item>
-    <name>Far Gear</name>
+    <name>Far Gear [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -129,7 +129,7 @@ Source:	Acquisitions Incorporated p. 221</text>
     <modifier category="saving throw">charisma save +1</modifier>
   </item>
   <item>
-    <name>Living Loot Satchel</name>
+    <name>Living Loot Satchel [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <text>As a rank 2 hoardsperson, you are granted the use of a living loot satchel, which is an uncommon magic item. It functions as a bag of holding and is available in a variety of colors and styles.
@@ -161,7 +161,7 @@ That Expensive Thing You Need: Also at rank 4, when you use your That Thing You 
 Source:	Acquisitions Incorporated p. 25</text>
   </item>
   <item>
-    <name>Obviator's Lenses</name>
+    <name>Obviator's Lenses [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <text>Also at rank 2, you gain the use of an uncommon magic item taking the form of a pair of spectacles, a spyglass, a monocle, or any other device with one or two lenses. When you look through the obviator's lenses, you use a bonus action to make them function as eyes of minute seeing or eyes of the eagle. Once you make this choice, it cannot be changed until the next dawn.
@@ -172,7 +172,7 @@ Enhanced Lenses: At rank 4, your obviator's lenses gain additional power and bec
 Source:	Acquisitions Incorporated p. 30</text>
   </item>
   <item>
-    <name>Occultant Abacus</name>
+    <name>Occultant Abacus [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <text>Head office grants you the use of a unique item known as an occultant abacus (sometimes just referred to as an occultant), whose beads resemble tiny skulls.
@@ -204,7 +204,7 @@ Source:	Acquisitions Incorporated p. 31</text>
     <roll description="Add to Attack Roll">1d10</roll>
   </item>
   <item>
-    <name>Orrery of the Wanderer</name>
+    <name>Orrery of the Wanderer [Legacy]</name>
     <detail>artifact (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -242,7 +242,7 @@ Source:	Acquisitions Incorporated p. 220</text>
     <roll description="Recharge">1d4+4</roll>
   </item>
   <item>
-    <name>Piercer</name>
+    <name>Piercer [Legacy]</name>
     <detail>shortsword, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -264,7 +264,7 @@ Source:	Acquisitions Incorporated p. 121</text>
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Portfolio Keeper</name>
+    <name>Portfolio Keeper [Legacy]</name>
     <type>W</type>
     <magic>YES</magic>
     <text>At rank 2, you gain the use of a weathered leather pouch that is an uncommon magic item. The portfolio keeper holds and organizes notes, brochures, and business cards bearing your contact information. It also has an inexhaustible supply of brochures related to your franchise's current branding scheme.
@@ -278,7 +278,7 @@ Charming Introduction: Also at rank 4, you are able to make a focused effort to 
 Source:	Acquisitions Incorporated p. 33</text>
   </item>
   <item>
-    <name>Rotor of Return</name>
+    <name>Rotor of Return [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -294,7 +294,7 @@ Source:	Acquisitions Incorporated p. 221</text>
     <modifier category="saving throw">constitution save +1</modifier>
   </item>
   <item>
-    <name>Sending Stone</name>
+    <name>Sending Stone [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -319,7 +319,7 @@ Improved Rumor Mill: At rank 3, when you use your Rumor Mill feature, the DM pro
 Source:	Acquisitions Incorporated p. 33</text>
   </item>
   <item>
-    <name>Spyglass of Clairvoyance</name>
+    <name>Spyglass of Clairvoyance [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -328,7 +328,7 @@ Source:	Acquisitions Incorporated p. 33</text>
 Source:	Acquisitions Incorporated p. 19</text>
   </item>
   <item>
-    <name>Timepiece of Travel</name>
+    <name>Timepiece of Travel [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -345,7 +345,7 @@ Source:	Acquisitions Incorporated p. 221</text>
     <modifier category="saving throw">dexterity save +1</modifier>
   </item>
   <item>
-    <name>Travel Alchemical Kit</name>
+    <name>Travel Alchemical Kit [Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -355,7 +355,7 @@ Source:	Acquisitions Incorporated p. 221</text>
 Source:	Acquisitions Incorporated p. 30</text>
   </item>
   <item>
-    <name>Trinket (Acquisitions Incorporated)</name>
+    <name>Trinket (Acquisitions Incorporated) [Legacy]</name>
     <type>G</type>
     <text>Worried that you're going to pull out your dead sprite inside a clear glass bottle at a company function only to discover that three other people in the franchise have one as well? Then consider rolling on the Acquisitions Incorporated Trinkets table instead of the Trinket, to gain a unique trinket at character creation with a bit of Acq Inc flair.
 
@@ -466,7 +466,7 @@ Source:	Acquisitions Incorporated p. 222</text>
     <roll description="Trinket">1d100</roll>
   </item>
   <item>
-    <name>Voting Kit</name>
+    <name>Voting Kit [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -476,7 +476,7 @@ Source:	Acquisitions Incorporated p. 222</text>
 Source:	Acquisitions Incorporated p. 22</text>
   </item>
   <item>
-    <name>Wheel of Stars</name>
+    <name>Wheel of Stars [Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -492,7 +492,7 @@ Source:	Acquisitions Incorporated p. 222</text>
     <modifier category="saving throw">wisdom save +1</modifier>
   </item>
   <item>
-    <name>Whisper Jar</name>
+    <name>Whisper Jar [Legacy]</name>
     <detail>varies by rank (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Birdpipes</name>
+    <name>Birdpipes [Legacy]</name>
     <detail>instrument</detail>
     <type>G</type>
     <weight />
@@ -26,7 +26,7 @@ Source:	Sword Coast Adventurer's Guide p. 124,
 		Xanathar's Guide to Everything p. 83</text>
   </item>
   <item>
-    <name>Glaur</name>
+    <name>Glaur [Legacy]</name>
     <detail>instrument</detail>
     <type>G</type>
     <weight />
@@ -51,7 +51,7 @@ Source:	Sword Coast Adventurer's Guide p. 124,
 		Xanathar's Guide to Everything p. 83</text>
   </item>
   <item>
-    <name>Hand Drum</name>
+    <name>Hand Drum [Legacy]</name>
     <detail>instrument</detail>
     <type>G</type>
     <weight />
@@ -76,7 +76,7 @@ Source:	Sword Coast Adventurer's Guide p. 124,
 		Xanathar's Guide to Everything p. 83</text>
   </item>
   <item>
-    <name>Longhorn</name>
+    <name>Longhorn [Legacy]</name>
     <detail>instrument</detail>
     <type>G</type>
     <weight />
@@ -102,7 +102,7 @@ Source:	Sword Coast Adventurer's Guide p. 124,
   </item>
   
   <item>
-    <name>Songhorn</name>
+    <name>Songhorn [Legacy]</name>
     <detail>instrument</detail>
     <type>G</type>
     <weight />
@@ -127,7 +127,7 @@ Source:	Sword Coast Adventurer's Guide p. 124,
 		Xanathar's Guide to Everything p. 83</text>
   </item>
   <item>
-    <name>Tantan</name>
+    <name>Tantan [Legacy]</name>
     <detail>instrument</detail>
     <type>G</type>
     <weight />
@@ -152,7 +152,7 @@ Source:	Sword Coast Adventurer's Guide p. 124,
 		Xanathar's Guide to Everything p. 83</text>
   </item>
   <item>
-    <name>Thelarr</name>
+    <name>Thelarr [Legacy]</name>
     <detail>instrument</detail>
     <type>G</type>
     <weight />
@@ -177,7 +177,7 @@ Source:	Sword Coast Adventurer's Guide p. 124,
 		Xanathar's Guide to Everything p. 83</text>
   </item>
   <item>
-    <name>Tocken</name>
+    <name>Tocken [Legacy]</name>
     <detail>instrument</detail>
     <type>G</type>
     <weight />
@@ -202,7 +202,7 @@ Source:	Sword Coast Adventurer's Guide p. 124,
 		Xanathar's Guide to Everything p. 83</text>
   </item>
   <item>
-    <name>Wargong</name>
+    <name>Wargong [Legacy]</name>
     <detail>instrument</detail>
     <type>G</type>
     <weight />
@@ -227,7 +227,7 @@ Source:	Sword Coast Adventurer's Guide p. 124,
 		Xanathar's Guide to Everything p. 83</text>
   </item>
   <item>
-    <name>Yarting</name>
+    <name>Yarting [Legacy]</name>
     <detail>instrument</detail>
     <type>G</type>
     <weight />
@@ -252,7 +252,7 @@ Source:	Sword Coast Adventurer's Guide p. 124,
 		Xanathar's Guide to Everything p. 83</text>
   </item>
   <item>
-    <name>Zulkoon</name>
+    <name>Zulkoon [Legacy]</name>
     <detail>instrument</detail>
     <type>G</type>
     <weight />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Shiftweave Garment</name>
+    <name>Shiftweave Garment [TP Legacy]</name>
     <detail>clothes, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -10,7 +10,7 @@
 Source:	Exploring Eberron p. 205 (Third Party)</text>
   </item>
   <item>
-    <name>Battle Rod</name>
+    <name>Battle Rod [TP Legacy]</name>
     <detail>common</detail>
     <type>RD</type>
     <magic>YES</magic>
@@ -21,7 +21,7 @@ Proficiency: simple, rod
 Source:	Exploring Eberron p. 221 (Third Party)</text>
   </item>
   <item>
-    <name>Charlatan's Gloves</name>
+    <name>Charlatan's Gloves [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -31,7 +31,7 @@ Source:	Exploring Eberron p. 221 (Third Party)</text>
 Source:	Exploring Eberron p. 221 (Third Party)</text>
   </item>
   <item>
-    <name>Drybrooch</name>
+    <name>Drybrooch [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -41,7 +41,7 @@ Source:	Exploring Eberron p. 221 (Third Party)</text>
 Source:	Exploring Eberron p. 221 (Third Party)</text>
   </item>
   <item>
-    <name>Duster</name>
+    <name>Duster [TP Legacy]</name>
     <detail>common</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -51,7 +51,7 @@ Proficiency: simple, wand
 Source:	Exploring Eberron p. 221 (Third Party)</text>
   </item>
   <item>
-    <name>Integrated Tool</name>
+    <name>Integrated Tool [TP Legacy]</name>
     <detail>common (requires use by a warforged)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -62,7 +62,7 @@ Source:	Exploring Eberron p. 221 (Third Party)</text>
 Source:	Exploring Eberron p. 221 (Third Party)</text>
   </item>
   <item>
-    <name>Lamplighter</name>
+    <name>Lamplighter [TP Legacy]</name>
     <detail>common</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -71,7 +71,7 @@ Source:	Exploring Eberron p. 221 (Third Party)</text>
 Source:	Exploring Eberron p. 221 (Third Party)</text>
   </item>
   <item>
-    <name>Spark</name>
+    <name>Spark [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -80,7 +80,7 @@ Source:	Exploring Eberron p. 221 (Third Party)</text>
 Source:	Exploring Eberron p. 222 (Third Party)</text>
   </item>
   <item>
-    <name>Talking Wand</name>
+    <name>Talking Wand [TP Legacy]</name>
     <detail>common</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -89,7 +89,7 @@ Source:	Exploring Eberron p. 222 (Third Party)</text>
 Source:	Exploring Eberron p. 222 (Third Party)</text>
   </item>
   <item>
-    <name>Thurimbar Rod</name>
+    <name>Thurimbar Rod [TP Legacy]</name>
     <detail>common</detail>
     <type>RD</type>
     <magic>YES</magic>
@@ -99,7 +99,7 @@ Proficiency: simple, rod
 Source:	Exploring Eberron p. 222 (Third Party)</text>
   </item>
   <item>
-    <name>War Staff</name>
+    <name>War Staff [TP Legacy]</name>
     <detail>common (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -114,7 +114,7 @@ Source:	Exploring Eberron p. 222 (Third Party)</text>
   </item>
   <!-- Dhakaani Magic Items -->
   <item>
-    <name>Breastplate of Kamvuul Norek</name>
+    <name>Breastplate of Kamvuul Norek [TP Legacy]</name>
     <detail>breastplate, legendary (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -130,7 +130,7 @@ Source:	Exploring Eberron p. 222 (Third Party),
     <modifier category="bonus">ac +2</modifier>
   </item>
   <item>
-    <name>Ghaal'Duur, the Mighty Dirge</name>
+    <name>Ghaal'Duur, the Mighty Dirge [TP Legacy]</name>
     <detail>artifact (requires attunement by a bard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -160,7 +160,7 @@ Bard spells cast using the warhorn gain the following benefits.
 Source:	Exploring Eberron p. 222 (Third Party)</text>
   </item>
   <item>
-    <name>Grieving Tree</name>
+    <name>Grieving Tree [TP Legacy]</name>
     <detail>eldritch machine (requires attunement using lost techniques)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -181,7 +181,7 @@ Source:	Exploring Eberron p. 222 (Third Party)</text>
 Source:	Exploring Eberron p. 223 (Third Party)</text>
   </item>
   <item>
-    <name>Keeper's Fang</name>
+    <name>Keeper's Fang [TP Legacy]</name>
     <detail>dagger, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -208,7 +208,7 @@ Source:	Exploring Eberron p. 223 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Shaarat'doovol, the Blade of Truth</name>
+    <name>Shaarat'doovol, the Blade of Truth [TP Legacy]</name>
     <detail>longsword, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -232,7 +232,7 @@ Source:	Exploring Eberron p. 224 (Third Party),
     <roll description="Radiant Damage">2d10</roll>
   </item>
   <item>
-    <name>Uul'Kur (Dream Key)</name>
+    <name>Uul'Kur (Dream Key) [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -242,7 +242,7 @@ Source:	Exploring Eberron p. 224 (Third Party),
 Source:	Exploring Eberron p. 224 (Third Party)</text>
   </item>
   <item>
-    <name>Vola'Khesh</name>
+    <name>Vola'Khesh [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -253,7 +253,7 @@ Source:	Exploring Eberron p. 224 (Third Party)</text>
   </item>
   <!-- Dragonmark Focus Items -->
   <item>
-    <name>Channeling Wand</name>
+    <name>Channeling Wand [TP Legacy]</name>
     <detail>rare (requires attunement by a creature with a specific dragonmark)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -274,7 +274,7 @@ Source:	Exploring Eberron p. 224 (Third Party)</text>
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>Dragonmark Channel</name>
+    <name>Dragonmark Channel [TP Legacy]</name>
     <detail>common (requires attunement by a creature with a specific dragonmark)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -284,7 +284,7 @@ Source:	Exploring Eberron p. 224 (Third Party)</text>
 Source:	Exploring Eberron p. 225 (Third Party)</text>
   </item>
   <item>
-    <name>Dragonmark Reservoir</name>
+    <name>Dragonmark Reservoir [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature with a specific dragonmark)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -295,7 +295,7 @@ Source:	Exploring Eberron p. 225 (Third Party)</text>
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>Ghallanda Cauldron</name>
+    <name>Ghallanda Cauldron [TP Legacy]</name>
     <detail>common (requires attunement by a creature with the mark of hospitality)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -304,7 +304,7 @@ Source:	Exploring Eberron p. 225 (Third Party)</text>
 Source:	Exploring Eberron p. 225 (Third Party)</text>
   </item>
   <item>
-    <name>Helm of the Sentinel</name>
+    <name>Helm of the Sentinel [TP Legacy]</name>
     <detail>rare (requires attunement by a creature with the mark of sentinel)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -319,7 +319,7 @@ Source:	Exploring Eberron p. 225 (Third Party)</text>
 Source:	Exploring Eberron p. 226 (Third Party)</text>
   </item>
   <item>
-    <name>Houseward (Uncommon)</name>
+    <name>Houseward (Uncommon) [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -328,7 +328,7 @@ Source:	Exploring Eberron p. 226 (Third Party)</text>
 Source:	Exploring Eberron p. 226 (Third Party)</text>
   </item>
   <item>
-    <name>Houseward (Rare)</name>
+    <name>Houseward (Rare) [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -337,7 +337,7 @@ Source:	Exploring Eberron p. 226 (Third Party)</text>
 Source:	Exploring Eberron p. 226 (Third Party)</text>
   </item>
   <item>
-    <name>Houseward (Legendary)</name>
+    <name>Houseward (Legendary) [TP Legacy]</name>
     <detail>legendary</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -346,7 +346,7 @@ Source:	Exploring Eberron p. 226 (Third Party)</text>
 Source:	Exploring Eberron p. 226 (Third Party)</text>
   </item>
   <item>
-    <name>Manor Key</name>
+    <name>Manor Key [TP Legacy]</name>
     <detail>rare (requires the mark of hospitality)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -355,7 +355,7 @@ Source:	Exploring Eberron p. 226 (Third Party)</text>
 Source:	Exploring Eberron p. 226 (Third Party)</text>
   </item>
   <item>
-    <name>Prospector's Wand</name>
+    <name>Prospector's Wand [TP Legacy]</name>
     <detail>uncommon (requires attunement by a creature with the mark of finding)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -376,7 +376,7 @@ Anytime you cast the locate animal or plant spell while holding the wand, you ga
 Source:	Exploring Eberron p. 226 (Third Party)</text>
   </item>
   <item>
-    <name>Rod of Wild Dominion</name>
+    <name>Rod of Wild Dominion [TP Legacy]</name>
     <detail>rare (requires attunement by a creature with the mark of handling)</detail>
     <type>RD</type>
     <magic>YES</magic>
@@ -392,7 +392,7 @@ Source:	Exploring Eberron p. 226 (Third Party)</text>
   </item>
   <!-- Miscellaneous Magic Items -->
   <item>
-    <name>Aereni Mask</name>
+    <name>Aereni Mask [TP Legacy]</name>
     <detail>uncommon (requires attunement by a worthy bearer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -402,7 +402,7 @@ Source:	Exploring Eberron p. 226 (Third Party)</text>
 Source:	Exploring Eberron p. 229 (Third Party)</text>
   </item>
   <item>
-    <name>Final Messenger</name>
+    <name>Final Messenger [TP Legacy]</name>
     <detail>uncommon (requires use by a warforged)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -425,7 +425,7 @@ While the messenger is attached to you, you can use an action to review the data
 Source:	Exploring Eberron p. 229 (Third Party)</text>
   </item>
   <item>
-    <name>Gloves of Storing</name>
+    <name>Gloves of Storing [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -436,7 +436,7 @@ Source:	Exploring Eberron p. 229 (Third Party)</text>
 Source:	Exploring Eberron p. 229 (Third Party)</text>
   </item>
   <item>
-    <name>Soarsled</name>
+    <name>Soarsled [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -448,7 +448,7 @@ Source:	Exploring Eberron p. 229 (Third Party)</text>
 Source:	Exploring Eberron p. 229 (Third Party)</text>
   </item>
   <item>
-    <name>Tools of the Master (Generic)</name>
+    <name>Tools of the Master (Generic) [TP Legacy]</name>
     <detail>any artisan's tool, uncommon (requires attunement by a character proficient with the tool)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -461,7 +461,7 @@ Source:	Exploring Eberron p. 229 (Third Party)</text>
   </item>
   <!-- Crawling Gauntlet -->
   <item>
-    <name>Crawling Gauntlet</name>
+    <name>Crawling Gauntlet [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -475,7 +475,7 @@ Source:	Exploring Eberron p. 230 (Third Party)</text>
     <roll description="Unarmed Slashing Damage">1d6+%1</roll>
   </item>
   <item>
-    <name>Coat of Many Eyes</name>
+    <name>Coat of Many Eyes [TP Legacy]</name>
     <detail>leather armor, rare</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -502,7 +502,7 @@ Source:	Exploring Eberron p. 230 (Third Party),
 		Player's Handbook p. 144</text>
   </item>
   <item>
-    <name>Shadow Sibling</name>
+    <name>Shadow Sibling [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -515,7 +515,7 @@ Source:	Exploring Eberron p. 230 (Third Party),
 Source:	Exploring Eberron p. 231 (Third Party)</text>
   </item>
   <item>
-    <name>Spellburrow</name>
+    <name>Spellburrow [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -527,7 +527,7 @@ Source:	Exploring Eberron p. 231 (Third Party)</text>
 Source:	Exploring Eberron p. 231 (Third Party)</text>
   </item>
   <item>
-    <name>Throwing Scarab</name>
+    <name>Throwing Scarab [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -542,7 +542,7 @@ Source:	Exploring Eberron p. 231 (Third Party)</text>
     <roll description="Acid Damage">1d4</roll>
   </item>
   <item>
-    <name>Tongueworm</name>
+    <name>Tongueworm [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -556,7 +556,7 @@ Source:	Exploring Eberron p. 231 (Third Party)</text>
     <roll description="Unarmed Piercing Damage">1d4+%2</roll>
   </item>
   <item>
-    <name>Wandering Eye</name>
+    <name>Wandering Eye [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>

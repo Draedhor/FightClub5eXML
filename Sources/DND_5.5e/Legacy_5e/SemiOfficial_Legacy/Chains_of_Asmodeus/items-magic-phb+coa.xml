@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Demonbone Glaive</name>
+    <name>Demonbone Glaive [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -29,7 +29,7 @@ Source:	Chains of Asmodeus p. 267,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Demonbone Halberd</name>
+    <name>Demonbone Halberd [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -57,7 +57,7 @@ Source:	Chains of Asmodeus p. 267,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Demonbone Quarterstaff</name>
+    <name>Demonbone Quarterstaff [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -82,7 +82,7 @@ Source:	Chains of Asmodeus p. 267,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Demonbone Spear</name>
+    <name>Demonbone Spear [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -112,7 +112,7 @@ Source:	Chains of Asmodeus p. 267,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Demonbone Staff</name>
+    <name>Demonbone Staff [TP Legacy]</name>
     <detail>spellcasting focus, very rare (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -139,7 +139,7 @@ Source:	Chains of Asmodeus p. 267,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Demonbone Wooden Staff</name>
+    <name>Demonbone Wooden Staff [TP Legacy]</name>
     <detail>druidic focus, very rare (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -168,7 +168,7 @@ Source:	Chains of Asmodeus p. 267,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Stygian Javelin</name>
+    <name>Stygian Javelin [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -195,7 +195,7 @@ Source:	Chains of Asmodeus p. 270,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Stygian Spear</name>
+    <name>Stygian Spear [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -225,7 +225,7 @@ Source:	Chains of Asmodeus p. 270,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Greatsword of Retribution</name>
+    <name>Greatsword of Retribution [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -251,7 +251,7 @@ Source:	Chains of Asmodeus p. 270,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Longsword of Retribution</name>
+    <name>Longsword of Retribution [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -276,7 +276,7 @@ Source:	Chains of Asmodeus p. 270,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Rapier of Retribution</name>
+    <name>Rapier of Retribution [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -300,7 +300,7 @@ Source:	Chains of Asmodeus p. 270,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Scimitar of Retribution</name>
+    <name>Scimitar of Retribution [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -326,7 +326,7 @@ Source:	Chains of Asmodeus p. 270,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Shortsword of Retribution</name>
+    <name>Shortsword of Retribution [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -352,7 +352,7 @@ Source:	Chains of Asmodeus p. 270,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Battleaxe of Agonizing Paralysis</name>
+    <name>Battleaxe of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -372,7 +372,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Club of Agonizing Paralysis</name>
+    <name>Club of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -391,7 +391,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Dagger of Agonizing Paralysis</name>
+    <name>Dagger of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -417,7 +417,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Flail of Agonizing Paralysis</name>
+    <name>Flail of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -434,7 +434,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Glaive of Agonizing Paralysis</name>
+    <name>Glaive of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -457,7 +457,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Greataxe of Agonizing Paralysis</name>
+    <name>Greataxe of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -478,7 +478,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Greatclub of Agonizing Paralysis</name>
+    <name>Greatclub of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -497,7 +497,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Greatsword of Agonizing Paralysis</name>
+    <name>Greatsword of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -518,7 +518,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Halberd of Agonizing Paralysis</name>
+    <name>Halberd of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -541,7 +541,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Handaxe of Agonizing Paralysis</name>
+    <name>Handaxe of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -565,7 +565,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Javelin of Agonizing Paralysis</name>
+    <name>Javelin of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -587,7 +587,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Lance of Agonizing Paralysis</name>
+    <name>Lance of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -606,7 +606,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Light Hammer of Agonizing Paralysis</name>
+    <name>Light Hammer of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -630,7 +630,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Longsword of Agonizing Paralysis</name>
+    <name>Longsword of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -650,7 +650,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Mace of Agonizing Paralysis</name>
+    <name>Mace of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -667,7 +667,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Maul of Agonizing Paralysis</name>
+    <name>Maul of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -688,7 +688,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Morningstar of Agonizing Paralysis</name>
+    <name>Morningstar of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -705,7 +705,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Pike of Agonizing Paralysis</name>
+    <name>Pike of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -728,7 +728,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Quarterstaff of Agonizing Paralysis</name>
+    <name>Quarterstaff of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -748,7 +748,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Rapier of Agonizing Paralysis</name>
+    <name>Rapier of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -767,7 +767,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Scimitar of Agonizing Paralysis</name>
+    <name>Scimitar of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -788,7 +788,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Shortsword of Agonizing Paralysis</name>
+    <name>Shortsword of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -809,7 +809,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Sickle of Agonizing Paralysis</name>
+    <name>Sickle of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -828,7 +828,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Spear of Agonizing Paralysis</name>
+    <name>Spear of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -853,7 +853,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Trident of Agonizing Paralysis</name>
+    <name>Trident of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -878,7 +878,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>War Pick of Agonizing Paralysis</name>
+    <name>War Pick of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -895,7 +895,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Warhammer of Agonizing Paralysis</name>
+    <name>Warhammer of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -915,7 +915,7 @@ Source:	Chains of Asmodeus p. 271,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Whip of Agonizing Paralysis</name>
+    <name>Whip of Agonizing Paralysis [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>

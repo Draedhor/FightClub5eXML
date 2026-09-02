@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <itemtemplate>
-    <name>Salubrious %name% (UA)</name>
+    <name>Salubrious %name% [UA]</name>
     <detail>rare (requires attunement)</detail>
     <match>Plate Armor,Scale Mail</match>
     <exclude>Half Plate Armor</exclude>

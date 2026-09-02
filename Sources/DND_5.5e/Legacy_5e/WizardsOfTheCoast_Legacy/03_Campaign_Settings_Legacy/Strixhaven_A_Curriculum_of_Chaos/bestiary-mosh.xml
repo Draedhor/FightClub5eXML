@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Archaic</name>
+    <name>Archaic [Legacy]</name>
     <size>G</size>
     <type>celestial</type>
     <alignment>typically neutral</alignment>
@@ -93,7 +93,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Art Elemental Mascot</name>
+    <name>Art Elemental Mascot [Legacy]</name>
     <sortname>Elemental, Art Mascot</sortname>
     <ancestry>Elemental, Mascot</ancestry>
     <size>S</size>
@@ -145,7 +145,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Beledros Witherbloom</name>
+    <name>Beledros Witherbloom [Legacy]</name>
     <sortname>Witherbloom, Beledros</sortname>
     <size>G</size>
     <type>dragon (druid)</type>
@@ -234,7 +234,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Brackish Trudge</name>
+    <name>Brackish Trudge [Legacy]</name>
     <size>L</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -274,7 +274,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Cogwork Archivist</name>
+    <name>Cogwork Archivist [Legacy]</name>
     <sortname>Cogwork, Archivist</sortname>
     <ancestry>Cogwork</ancestry>
     <size>L</size>
@@ -330,7 +330,7 @@ The archivist can have no more than two targets grappled at a time.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Daemogoth Titan</name>
+    <name>Daemogoth Titan [Legacy]</name>
     <sortname>Titan, Daemogoth</sortname>
     <ancestry>Titan</ancestry>
     <size>G</size>
@@ -404,7 +404,7 @@ The titan chooses one spell from the necromancy or enchantment school that is 8t
     <environment/>
   </monster>
   <monster>
-    <name>Daemogoth</name>
+    <name>Daemogoth [Legacy]</name>
     <size>H</size>
     <type>fiend</type>
     <alignment>typically lawful evil</alignment>
@@ -456,7 +456,7 @@ The daemogoth chooses one spell from the necromancy or enchantment school that i
     <environment/>
   </monster>
   <monster>
-    <name>First-Year Student</name>
+    <name>First-Year Student [Legacy]</name>
     <sortname>Student, First-Year</sortname>
     <ancestry>Student</ancestry>
     <size>M</size>
@@ -511,7 +511,7 @@ The daemogoth chooses one spell from the necromancy or enchantment school that i
     <environment/>
   </monster>
   <monster>
-    <name>Fractal Mascot</name>
+    <name>Fractal Mascot [Legacy]</name>
     <sortname>Mascot, Fractal</sortname>
     <ancestry>Mascot</ancestry>
     <size>S</size>
@@ -562,7 +562,7 @@ The daemogoth chooses one spell from the necromancy or enchantment school that i
     <environment/>
   </monster>
   <monster>
-    <name>Galazeth Prismari</name>
+    <name>Galazeth Prismari [Legacy]</name>
     <size>G</size>
     <type>dragon (sorcerer)</type>
     <alignment>Chaotic Neutral</alignment>
@@ -642,7 +642,7 @@ The daemogoth chooses one spell from the necromancy or enchantment school that i
     <environment/>
   </monster>
   <monster>
-    <name>Groff</name>
+    <name>Groff [Legacy]</name>
     <size>L</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -697,7 +697,7 @@ An engulfed target can repeat the saving throw at the end of its turns. On a suc
     <environment/>
   </monster>
   <monster>
-    <name>Inkling Mascot</name>
+    <name>Inkling Mascot [Legacy]</name>
     <sortname>Mascot, Inkling</sortname>
     <ancestry>Mascot</ancestry>
     <size>T</size>
@@ -748,7 +748,7 @@ An engulfed target can repeat the saving throw at the end of its turns. On a suc
     <environment/>
   </monster>
   <monster>
-    <name>Lorehold Apprentice</name>
+    <name>Lorehold Apprentice [Legacy]</name>
     <sortname>Lorehold, Apprentice</sortname>
     <ancestry>Lorehold</ancestry>
     <size>M</size>
@@ -805,7 +805,7 @@ An engulfed target can repeat the saving throw at the end of its turns. On a suc
     <environment/>
   </monster>
   <monster>
-    <name>Lorehold Pledgemage</name>
+    <name>Lorehold Pledgemage [Legacy]</name>
     <sortname>Lorehold, Pledgemage</sortname>
     <ancestry>Lorehold</ancestry>
     <size>M</size>
@@ -872,7 +872,7 @@ An engulfed target can repeat the saving throw at the end of its turns. On a suc
     <environment/>
   </monster>
   <monster>
-    <name>Lorehold Professor of Chaos</name>
+    <name>Lorehold Professor of Chaos [Legacy]</name>
     <sortname>Lorehold, Professor of Chaos</sortname>
     <ancestry>Lorehold</ancestry>
     <size>M</size>
@@ -932,7 +932,7 @@ An engulfed target can repeat the saving throw at the end of its turns. On a suc
     <environment/>
   </monster>
   <monster>
-    <name>Lorehold Professor of Order</name>
+    <name>Lorehold Professor of Order [Legacy]</name>
     <sortname>Lorehold, Professor of Order</sortname>
     <ancestry>Lorehold</ancestry>
     <size>M</size>
@@ -997,7 +997,7 @@ An engulfed target can repeat the saving throw at the end of its turns. On a suc
     <environment/>
   </monster>
   <monster>
-    <name>Mage Hunter</name>
+    <name>Mage Hunter [Legacy]</name>
     <sortname>Mage, Hunter</sortname>
     <ancestry>Mage</ancestry>
     <size>L</size>
@@ -1068,7 +1068,7 @@ While marked, a creature can't become hidden from the hunter and gains no benefi
     <environment/>
   </monster>
   <monster>
-    <name>Murgaxor</name>
+    <name>Murgaxor [Legacy]</name>
     <size>M</size>
     <type>humanoid (bullywug, warlock)</type>
     <alignment>typically neutral evil</alignment>
@@ -1126,7 +1126,7 @@ While marked, a creature can't become hidden from the hunter and gains no benefi
     <environment/>
   </monster>
   <monster>
-    <name>Oracle of Strixhaven</name>
+    <name>Oracle of Strixhaven [Legacy]</name>
     <sortname>Oracle, Of Strixhaven</sortname>
     <ancestry>Oracle</ancestry>
     <size>M</size>
@@ -1209,7 +1209,7 @@ While marked, a creature can't become hidden from the hunter and gains no benefi
     <environment/>
   </monster>
   <monster>
-    <name>Oriq Blood Mage</name>
+    <name>Oriq Blood Mage [Legacy]</name>
     <sortname>Oriq, Blood Mage</sortname>
     <ancestry>Mage, Oriq</ancestry>
     <size>M</size>
@@ -1269,7 +1269,7 @@ While marked, a creature can't become hidden from the hunter and gains no benefi
     <environment/>
   </monster>
   <monster>
-    <name>Oriq Recruiter</name>
+    <name>Oriq Recruiter [Legacy]</name>
     <sortname>Oriq, Recruiter</sortname>
     <ancestry>Oriq</ancestry>
     <size>M</size>
@@ -1328,7 +1328,7 @@ While marked, a creature can't become hidden from the hunter and gains no benefi
     <environment/>
   </monster>
   <monster>
-    <name>Pest Mascot</name>
+    <name>Pest Mascot [Legacy]</name>
     <sortname>Mascot, Pest</sortname>
     <ancestry>Mascot</ancestry>
     <size>T</size>
@@ -1375,7 +1375,7 @@ While marked, a creature can't become hidden from the hunter and gains no benefi
     <environment/>
   </monster>
   <monster>
-    <name>Prismari Apprentice</name>
+    <name>Prismari Apprentice [Legacy]</name>
     <sortname>Prismari, Apprentice</sortname>
     <ancestry>Prismari</ancestry>
     <size>M</size>
@@ -1426,7 +1426,7 @@ While marked, a creature can't become hidden from the hunter and gains no benefi
     <environment/>
   </monster>
   <monster>
-    <name>Prismari Pledgemage</name>
+    <name>Prismari Pledgemage [Legacy]</name>
     <sortname>Prismari, Pledgemage</sortname>
     <ancestry>Prismari</ancestry>
     <size>M</size>
@@ -1492,7 +1492,7 @@ While marked, a creature can't become hidden from the hunter and gains no benefi
     <environment/>
   </monster>
   <monster>
-    <name>Prismari Professor of Expression</name>
+    <name>Prismari Professor of Expression [Legacy]</name>
     <sortname>Prismari, Professor of Expression</sortname>
     <ancestry>Prismari</ancestry>
     <size>M</size>
@@ -1553,7 +1553,7 @@ While marked, a creature can't become hidden from the hunter and gains no benefi
     <environment/>
   </monster>
   <monster>
-    <name>Prismari Professor of Perfection</name>
+    <name>Prismari Professor of Perfection [Legacy]</name>
     <sortname>Prismari, Professor of Perfection</sortname>
     <ancestry>Prismari</ancestry>
     <size>M</size>
@@ -1612,7 +1612,7 @@ While marked, a creature can't become hidden from the hunter and gains no benefi
     <environment/>
   </monster>
   <monster>
-    <name>Quandrix Apprentice</name>
+    <name>Quandrix Apprentice [Legacy]</name>
     <sortname>Quandrix, Apprentice</sortname>
     <ancestry>Quandrix</ancestry>
     <size>M</size>
@@ -1662,7 +1662,7 @@ While marked, a creature can't become hidden from the hunter and gains no benefi
     <environment/>
   </monster>
   <monster>
-    <name>Quandrix Pledgemage</name>
+    <name>Quandrix Pledgemage [Legacy]</name>
     <sortname>Quandrix, Pledgemage</sortname>
     <ancestry>Quandrix</ancestry>
     <size>M</size>
@@ -1718,7 +1718,7 @@ While marked, a creature can't become hidden from the hunter and gains no benefi
     <environment/>
   </monster>
   <monster>
-    <name>Quandrix Professor of Substance</name>
+    <name>Quandrix Professor of Substance [Legacy]</name>
     <sortname>Quandrix, Professor of Substance</sortname>
     <ancestry>Quandrix</ancestry>
     <size>M</size>
@@ -1783,7 +1783,7 @@ While marked, a creature can't become hidden from the hunter and gains no benefi
     <environment/>
   </monster>
   <monster>
-    <name>Quandrix Professor of Theory</name>
+    <name>Quandrix Professor of Theory [Legacy]</name>
     <sortname>Quandrix, Professor of Theory</sortname>
     <ancestry>Quandrix</ancestry>
     <size>M</size>
@@ -1843,7 +1843,7 @@ While marked, a creature can't become hidden from the hunter and gains no benefi
     <environment/>
   </monster>
   <monster>
-    <name>Relic Sloth</name>
+    <name>Relic Sloth [Legacy]</name>
     <sortname>Sloth, Relic</sortname>
     <ancestry>Sloth</ancestry>
     <size>H</size>
@@ -1887,7 +1887,7 @@ The relic sloth can grapple no more than two targets at a time.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Ruin Grinder</name>
+    <name>Ruin Grinder [Legacy]</name>
     <size>L</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -1939,7 +1939,7 @@ The relic sloth can grapple no more than two targets at a time.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Scufflecup Teacup</name>
+    <name>Scufflecup Teacup [Legacy]</name>
     <size>T</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -1975,7 +1975,7 @@ The relic sloth can grapple no more than two targets at a time.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Shadrix Silverquill</name>
+    <name>Shadrix Silverquill [Legacy]</name>
     <sortname>Silverquill, Shadrix</sortname>
     <ancestry>Silverquill</ancestry>
     <size>G</size>
@@ -2057,7 +2057,7 @@ The relic sloth can grapple no more than two targets at a time.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Silverquill Apprentice</name>
+    <name>Silverquill Apprentice [Legacy]</name>
     <sortname>Silverquill, Apprentice</sortname>
     <ancestry>Silverquill</ancestry>
     <npc>YES</npc>
@@ -2108,7 +2108,7 @@ The relic sloth can grapple no more than two targets at a time.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Silverquill Pledgemage</name>
+    <name>Silverquill Pledgemage [Legacy]</name>
     <sortname>Silverquill, Pledgemage</sortname>
     <ancestry>Silverquill</ancestry>
     <npc>YES</npc>
@@ -2164,7 +2164,7 @@ The relic sloth can grapple no more than two targets at a time.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Silverquill Professor of Radiance</name>
+    <name>Silverquill Professor of Radiance [Legacy]</name>
     <sortname>Silverquill, Professor of Radiance</sortname>
     <ancestry>Silverquill</ancestry>
     <npc>YES</npc>
@@ -2216,7 +2216,7 @@ The relic sloth can grapple no more than two targets at a time.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Silverquill Professor of Shadow</name>
+    <name>Silverquill Professor of Shadow [Legacy]</name>
     <sortname>Silverquill, Professor of Shadow</sortname>
     <ancestry>Silverquill</ancestry>
     <npc>YES</npc>
@@ -2272,7 +2272,7 @@ The relic sloth can grapple no more than two targets at a time.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Spirit Statue Mascot</name>
+    <name>Spirit Statue Mascot [Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>any alignment</alignment>
@@ -2317,7 +2317,7 @@ The relic sloth can grapple no more than two targets at a time.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Strixhaven Campus Guide</name>
+    <name>Strixhaven Campus Guide [Legacy]</name>
     <size>S</size>
     <type>construct</type>
     <alignment>typically lawful good</alignment>
@@ -2381,7 +2381,7 @@ A target that successfully saves is immune to any guide's Smile and Wave ability
     <environment/>
   </monster>
   <monster>
-    <name>Tanazir Quandrix</name>
+    <name>Tanazir Quandrix [Legacy]</name>
     <sortname>Quandrix, Tanazir</sortname>
     <ancestry>Quandrix</ancestry>
     <size>G</size>
@@ -2467,7 +2467,7 @@ A target that successfully saves is immune to any guide's Smile and Wave ability
     <environment/>
   </monster>
   <monster>
-    <name>Velomachus Lorehold</name>
+    <name>Velomachus Lorehold [Legacy]</name>
     <sortname>Lorehold, Velomachus</sortname>
     <ancestry>Lorehold</ancestry>
     <size>G</size>
@@ -2549,7 +2549,7 @@ A target that successfully saves is immune to any guide's Smile and Wave ability
     <environment/>
   </monster>
   <monster>
-    <name>Witherbloom Apprentice</name>
+    <name>Witherbloom Apprentice [Legacy]</name>
     <sortname>Witherbloom, Apprentice</sortname>
     <ancestry>Witherbloom</ancestry>
     <npc>YES</npc>
@@ -2608,7 +2608,7 @@ A target that successfully saves is immune to any guide's Smile and Wave ability
     <environment/>
   </monster>
   <monster>
-    <name>Witherbloom Pledgemage</name>
+    <name>Witherbloom Pledgemage [Legacy]</name>
     <sortname>Witherbloom, Pledgemage</sortname>
     <ancestry>Witherbloom</ancestry>
     <npc>YES</npc>
@@ -2672,7 +2672,7 @@ A target that successfully saves is immune to any guide's Smile and Wave ability
     <environment/>
   </monster>
   <monster>
-    <name>Witherbloom Professor of Decay</name>
+    <name>Witherbloom Professor of Decay [Legacy]</name>
     <sortname>Witherbloom, Professor of Decay</sortname>
     <ancestry>Witherbloom</ancestry>
     <npc>YES</npc>
@@ -2734,7 +2734,7 @@ A target that successfully saves is immune to any guide's Smile and Wave ability
     <environment/>
   </monster>
   <monster>
-    <name>Witherbloom Professor of Growth</name>
+    <name>Witherbloom Professor of Growth [Legacy]</name>
     <sortname>Witherbloom, Professor of Growth</sortname>
     <ancestry>Witherbloom</ancestry>
     <npc>YES</npc>
@@ -2790,7 +2790,7 @@ A target that successfully saves is immune to any guide's Smile and Wave ability
     <environment/>
   </monster>
   <monster>
-    <name>Y'demi</name>
+    <name>Y'demi [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human, warlock)</type>

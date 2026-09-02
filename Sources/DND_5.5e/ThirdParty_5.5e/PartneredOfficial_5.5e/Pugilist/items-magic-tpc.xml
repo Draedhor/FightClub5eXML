@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Punchdrunk Punters Brass Knuckles (TP)</name>
+    <name>Punchdrunk Punters Brass Knuckles [TP]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -23,7 +23,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <roll description="Poison Damage">1d8</roll>
   </item>
   <item>
-    <name>Punchdrunk Punters Hand Claws (TP)</name>
+    <name>Punchdrunk Punters Hand Claws [TP]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -47,7 +47,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <roll description="Poison Damage">1d8</roll>
   </item>
   <item>
-    <name>Punchdrunk Punters Punch Knife (TP)</name>
+    <name>Punchdrunk Punters Punch Knife [TP]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -67,7 +67,7 @@ Source:	Ben Huffman - Pugilist (Third Party)</text>
     <roll description="Poison Damage">1d8</roll>
   </item>
   <item>
-    <name>Hellfire Brass Knuckles (TP)</name>
+    <name>Hellfire Brass Knuckles [TP]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -87,7 +87,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 223,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Hellfire Hand Claws (TP)</name>
+    <name>Hellfire Hand Claws [TP]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -109,7 +109,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 223,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Hellfire Punch Knife (TP)</name>
+    <name>Hellfire Punch Knife [TP]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -127,7 +127,7 @@ Source:	Baldur's Gate: Descent Into Avernus p. 223,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Adamantine Brass Knuckles (TP)</name>
+    <name>Adamantine Brass Knuckles [TP]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -146,7 +146,7 @@ Source:	Xanathar's Guide to Everything p. 78,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Adamantine Hand Claws (TP)</name>
+    <name>Adamantine Hand Claws [TP]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -167,7 +167,7 @@ Source:	Xanathar's Guide to Everything p. 78,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Adamantine Punch Knife (TP)</name>
+    <name>Adamantine Punch Knife [TP]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -184,7 +184,7 @@ Source:	Xanathar's Guide to Everything p. 78,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Brass Knuckles of Throne's Command (TP)</name>
+    <name>Brass Knuckles of Throne's Command [TP]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -209,7 +209,7 @@ Source:	The Book of Many Things p. 39,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Hand Claws of Throne's Command (TP)</name>
+    <name>Hand Claws of Throne's Command [TP]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -236,7 +236,7 @@ Source:	The Book of Many Things p. 39,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Punch Knife of Throne's Command (TP)</name>
+    <name>Punch Knife of Throne's Command [TP]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -259,7 +259,7 @@ Source:	The Book of Many Things p. 39,
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Dragon's Wrath Brass Knuckles (TP)</name>
+    <name>Dragon's Wrath Brass Knuckles [TP]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -288,7 +288,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Dragon's Wrath Hand Claws (TP)</name>
+    <name>Dragon's Wrath Hand Claws [TP]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -319,7 +319,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Dragon's Wrath Punch Knife (TP)</name>
+    <name>Dragon's Wrath Punch Knife [TP]</name>
     <detail>varies (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -346,7 +346,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Slumbering Dragon's Wrath Brass Knuckles (TP)</name>
+    <name>Slumbering Dragon's Wrath Brass Knuckles [TP]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -366,7 +366,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Slumbering Dragon's Wrath Hand Claws (TP)</name>
+    <name>Slumbering Dragon's Wrath Hand Claws [TP]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -388,7 +388,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Slumbering Dragon's Wrath Punch Knife (TP)</name>
+    <name>Slumbering Dragon's Wrath Punch Knife [TP]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -406,7 +406,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Stirring Dragon's Wrath Brass Knuckles (TP)</name>
+    <name>Stirring Dragon's Wrath Brass Knuckles [TP]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -430,7 +430,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">1d6</roll>
   </item>
   <item>
-    <name>Stirring Dragon's Wrath Hand Claws (TP)</name>
+    <name>Stirring Dragon's Wrath Hand Claws [TP]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -456,7 +456,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">1d6</roll>
   </item>
   <item>
-    <name>Stirring Dragon's Wrath Punch Knife (TP)</name>
+    <name>Stirring Dragon's Wrath Punch Knife [TP]</name>
     <detail>rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -478,7 +478,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">1d6</roll>
   </item>
   <item>
-    <name>Wakened Dragon's Wrath Brass Knuckles (TP)</name>
+    <name>Wakened Dragon's Wrath Brass Knuckles [TP]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -504,7 +504,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">8d6</roll>
   </item>
   <item>
-    <name>Wakened Dragon's Wrath Hand Claws (TP)</name>
+    <name>Wakened Dragon's Wrath Hand Claws [TP]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -532,7 +532,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">8d6</roll>
   </item>
   <item>
-    <name>Wakened Dragon's Wrath Punch Knife (TP)</name>
+    <name>Wakened Dragon's Wrath Punch Knife [TP]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -556,7 +556,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">8d6</roll>
   </item>
   <item>
-    <name>Ascendant Dragon's Wrath Brass Knuckles (TP)</name>
+    <name>Ascendant Dragon's Wrath Brass Knuckles [TP]</name>
     <detail>Legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -582,7 +582,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">12d6</roll>
   </item>
   <item>
-    <name>Ascendant Dragon's Wrath Hand Claws (TP)</name>
+    <name>Ascendant Dragon's Wrath Hand Claws [TP]</name>
     <detail>Legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -610,7 +610,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">12d6</roll>
   </item>
   <item>
-    <name>Ascendant Dragon's Wrath Punch Knife (TP)</name>
+    <name>Ascendant Dragon's Wrath Punch Knife [TP]</name>
     <detail>Legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -634,7 +634,7 @@ Source:	Fizban's Treasury of Dragons p. 25,
     <roll description="Dragon Breath's Damage">12d6</roll>
   </item>
   <item>
-    <name>Vicious Brass Knuckles +1 (TP)</name>
+    <name>Vicious Brass Knuckles +1 [TP]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -656,7 +656,7 @@ Source:	Acquisitions Incorporated p. 149,
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Vicious Hand Claws +1 (TP)</name>
+    <name>Vicious Hand Claws +1 [TP]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -680,7 +680,7 @@ Source:	Acquisitions Incorporated p. 149,
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Vicious Punch Knife +1 (TP)</name>
+    <name>Vicious Punch Knife +1 [TP]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -700,7 +700,7 @@ Source:	Acquisitions Incorporated p. 149,
     <modifier category="bonus">melee damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Brass Knuckles (TP)</name>
+    <name>Armblade Brass Knuckles [TP]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -721,7 +721,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Armblade Hand Claws (TP)</name>
+    <name>Armblade Hand Claws [TP]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -744,7 +744,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Armblade Punch Knife (TP)</name>
+    <name>Armblade Punch Knife [TP]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -763,7 +763,7 @@ Source:	Eberron: Rising from the Last War p. 276,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Armblade Brass Knuckles +1 (TP)</name>
+    <name>Armblade Brass Knuckles +1 [TP]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -789,7 +789,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Hand Claws +1 (TP)</name>
+    <name>Armblade Hand Claws +1 [TP]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -817,7 +817,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Punch Knife +1 (TP)</name>
+    <name>Armblade Punch Knife +1 [TP]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -841,7 +841,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Armblade Brass Knuckles +2 (TP)</name>
+    <name>Armblade Brass Knuckles +2 [TP]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -867,7 +867,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Hand Claws +2 (TP)</name>
+    <name>Armblade Hand Claws +2 [TP]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -895,7 +895,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Punch Knife +2 (TP)</name>
+    <name>Armblade Punch Knife +2 [TP]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -919,7 +919,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Armblade Brass Knuckles +3 (TP)</name>
+    <name>Armblade Brass Knuckles +3 [TP]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -945,7 +945,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Hand Claws +3 (TP)</name>
+    <name>Armblade Hand Claws +3 [TP]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -973,7 +973,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Armblade Punch Knife +3 (TP)</name>
+    <name>Armblade Punch Knife +3 [TP]</name>
     <detail>rare (requires attunement by a warforged)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -997,7 +997,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Ruidium Brass Knuckles (TP)</name>
+    <name>Ruidium Brass Knuckles [TP]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1026,7 +1026,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216,
     <roll description="Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Ruidium Hand Claws (TP)</name>
+    <name>Ruidium Hand Claws [TP]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1057,7 +1057,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216,
     <roll description="Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Ruidium Punch Knife (TP)</name>
+    <name>Ruidium Punch Knife [TP]</name>
     <detail>very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1084,7 +1084,7 @@ Source:	Critical Role: Call of the Netherdeep p. 216,
     <roll description="Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Silvered Brass Knuckles (TP)</name>
+    <name>Silvered Brass Knuckles [TP]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>NO</magic>
@@ -1103,7 +1103,7 @@ Source:	Player's Handbook (2014) p. 148,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Silvered Hand Claws (TP)</name>
+    <name>Silvered Hand Claws [TP]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>NO</magic>
@@ -1124,7 +1124,7 @@ Source:	Player's Handbook (2014) p. 148,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Silvered Punch Knife (TP)</name>
+    <name>Silvered Punch Knife [TP]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>NO</magic>
@@ -1141,7 +1141,7 @@ Source:	Player's Handbook (2014) p. 148,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Brass Knuckles +1 (TP)</name>
+    <name>Brass Knuckles +1 [TP]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1162,7 +1162,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Hand Claws +1 (TP)</name>
+    <name>Hand Claws +1 [TP]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1185,7 +1185,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Punch Knife +1 (TP)</name>
+    <name>Punch Knife +1 [TP]</name>
     <detail>uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1204,7 +1204,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Brass Knuckles +2 (TP)</name>
+    <name>Brass Knuckles +2 [TP]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1225,7 +1225,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Hand Claws +2 (TP)</name>
+    <name>Hand Claws +2 [TP]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1248,7 +1248,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Punch Knife +2 (TP)</name>
+    <name>Punch Knife +2 [TP]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1267,7 +1267,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Brass Knuckles +3 (TP)</name>
+    <name>Brass Knuckles +3 [TP]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1288,7 +1288,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Hand Claws +3 (TP)</name>
+    <name>Hand Claws +3 [TP]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1311,7 +1311,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Punch Knife +3 (TP)</name>
+    <name>Punch Knife +3 [TP]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1330,7 +1330,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Vicious Brass Knuckles (TP)</name>
+    <name>Vicious Brass Knuckles [TP]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1349,7 +1349,7 @@ Source:	Dungeon Master's Guide (2014) p. 209,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Vicious Hand Claws (TP)</name>
+    <name>Vicious Hand Claws [TP]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1370,7 +1370,7 @@ Source:	Dungeon Master's Guide (2014) p. 209,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Vicious Punch Knife (TP)</name>
+    <name>Vicious Punch Knife [TP]</name>
     <detail>rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1387,7 +1387,7 @@ Source:	Dungeon Master's Guide (2014) p. 209,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Brass Knuckles of Warning (TP)</name>
+    <name>Brass Knuckles of Warning [TP]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1406,7 +1406,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Hand Claws of Warning (TP)</name>
+    <name>Hand Claws of Warning [TP]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1427,7 +1427,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Punch Knife of Warning (TP)</name>
+    <name>Punch Knife of Warning [TP]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1444,7 +1444,7 @@ Source:	Dungeon Master's Guide (2014) p. 213,
 		Ben Huffman - Pugilist (Third Party)</text>
   </item>
   <item>
-    <name>Drow Brass Knuckles +1 (TP)</name>
+    <name>Drow Brass Knuckles +1 [TP]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1465,7 +1465,7 @@ Source:	Monster Manual (2014) p. 126,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Drow Hand Claws +1 (TP)</name>
+    <name>Drow Hand Claws +1 [TP]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1488,7 +1488,7 @@ Source:	Monster Manual (2014) p. 126,
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Drow Punch Knife +1 (TP)</name>
+    <name>Drow Punch Knife +1 [TP]</name>
     <detail>very rare</detail>
     <type>M</type>
     <magic>YES</magic>

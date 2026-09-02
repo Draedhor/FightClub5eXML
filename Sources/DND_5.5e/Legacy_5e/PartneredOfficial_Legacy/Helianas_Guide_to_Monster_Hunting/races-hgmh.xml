@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
-    <name>Cnidaran: Nematocyst (TP)</name>
+    <name>Cnidaran: Nematocyst [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Con +2, Dex +1</ability>
@@ -63,7 +63,7 @@ death, exile, or declarations of war are all sanctions a cnidaran colony might e
     </trait>
   </race>
   <race>
-    <name>Cnidaran: Shimmerskin (TP)</name>
+    <name>Cnidaran: Shimmerskin [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Con +1, Cha +2</ability>
@@ -123,7 +123,7 @@ death, exile, or declarations of war are all sanctions a cnidaran colony might e
     </trait>
   </race>
   <race>
-    <name>Cyclopian (TP)</name>
+    <name>Cyclopian [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Int +2</ability>
@@ -191,7 +191,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 153</text>
     </trait>
   </race>
   <race>
-    <name>Gobboc (TP)</name>
+    <name>Gobboc [TP Legacy]</name>
     <size>S</size>
     <speed>25</speed>
     <ability>Dex +2</ability>
@@ -252,7 +252,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 155</text>
     </trait>
   </race>
   <race>
-    <name>Golynn (TP)</name>
+    <name>Golynn [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Con +2, Str +1</ability>
@@ -311,7 +311,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 157</text>
     </trait>
   </race>
   <race>
-    <name>Lotol (TP)</name>
+    <name>Lotol [TP Legacy]</name>
     <size>M</size>
     <ability>Wis +2, Con +1</ability>
     <trait category="description">
@@ -370,7 +370,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 159</text>
     </trait>
   </race>
   <race>
-    <name>Mycelian (TP)</name>
+    <name>Mycelian [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Con +2</ability>
@@ -450,7 +450,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 161</text>
     </trait>
   </race>
   <race>
-    <name>Ombrask (TP)</name>
+    <name>Ombrask [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Dex +2</ability>
@@ -533,7 +533,7 @@ Tiefling | +1 Cha
     </trait>
   </race>
   <race>
-    <name>Oozekin (TP)</name>
+    <name>Oozekin [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Con +2, Str +1</ability>
@@ -593,7 +593,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 166</text>
     </trait>
   </race>
   <race>
-    <name>Opteran (TP)</name>
+    <name>Opteran [TP Legacy]</name>
     <size>M</size>
     <speed>30</speed>
     <ability>Cha +2</ability>
@@ -655,7 +655,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 166</text>
     </trait>
   </race>
   <race>
-    <name>Rakin: Urkin (TP)</name>
+    <name>Rakin: Urkin [TP Legacy]</name>
     <size>S</size>
     <speed>30</speed>
     <ability>Dex +2</ability>
@@ -718,7 +718,7 @@ Source:	Heliana's Guide to Monster Hunting - Part One p. 171</text>
     </trait>
   </race>
   <race>
-    <name>Rakin: Posskin (TP)</name>
+    <name>Rakin: Posskin [TP Legacy]</name>
     <size>S</size>
     <speed>30</speed>
     <ability>Dex +2, Con +1</ability>
@@ -786,7 +786,7 @@ The debacle spiralled into a full-on feud between the opposing rakin factions, s
     </trait>
   </race>
   <race>
-    <name>Rakin: Tanukin (TP)</name>
+    <name>Rakin: Tanukin [TP Legacy]</name>
     <size>S</size>
     <speed>30</speed>
     <ability>Dex +2</ability>

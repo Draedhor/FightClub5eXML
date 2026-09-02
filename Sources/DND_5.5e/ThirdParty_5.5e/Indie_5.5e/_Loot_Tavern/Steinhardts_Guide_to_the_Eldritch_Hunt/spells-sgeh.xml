@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <spell>
-    <name>Bestial Roar (TP)</name>
+    <name>Bestial Roar [TP]</name>
     <level>0</level>
     <school>T</school>
     <time>1 action</time>
@@ -16,7 +16,7 @@ Cantrip Upgrade: This spell's radius increases by 5 feet when you reach 5th leve
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 187 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Brittle Bone Throw (TP)</name>
+    <name>Brittle Bone Throw [TP]</name>
     <level>0</level>
     <school>C</school>
     <time>1 action</time>
@@ -39,7 +39,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 187 (Homebrew)</text>
     <roll description="Piercing Damage" level="17">4d4</roll>
   </spell>
   <spell>
-    <name>Cosmic Eye (TP)</name>
+    <name>Cosmic Eye [TP]</name>
     <level>0</level>
     <school>T</school>
     <time>1 action</time>
@@ -58,7 +58,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 187 (Homebrew)</text>
     <roll description="Necrotic Damage" level="17">4d8</roll>
   </spell>
   <spell>
-    <name>Gravity Spike (TP)</name>
+    <name>Gravity Spike [TP]</name>
     <level>0</level>
     <school>T</school>
     <time>1 action</time>
@@ -77,7 +77,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 187 (Homebrew)</text>
     <roll description="Piercing Damage" level="17">4d4</roll>
   </spell>
   <spell>
-    <name>Gravity Whip (TP)</name>
+    <name>Gravity Whip [TP]</name>
     <level>0</level>
     <school>EV</school>
     <time>1 action</time>
@@ -96,7 +96,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 187 (Homebrew)</text>
     <roll description="Bludgeoning Damage" level="17">4d4</roll>
   </spell>
   <spell>
-    <name>Bone Claws (TP)</name>
+    <name>Bone Claws [TP]</name>
     <level>1</level>
     <school>T</school>
     <time>1 action</time>
@@ -116,7 +116,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 188 (Homebrew)</text>
     <roll description="Slashing Damage" level="5">3d4</roll>
   </spell>
   <spell>
-    <name>Bone Shield (TP)</name>
+    <name>Bone Shield [TP]</name>
     <level>1</level>
     <school>A</school>
     <time>1 reaction, which you take when you are hit by an attack</time>
@@ -140,7 +140,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 188 (Homebrew)</text>
     <roll description="Damage Reduction &amp; Slashing Damage" level="9">9d12</roll>
   </spell>
   <spell>
-    <name>Electrify (TP)</name>
+    <name>Electrify [TP]</name>
     <level>1</level>
     <school>EV</school>
     <time>1 bonus action</time>
@@ -165,7 +165,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 188 (Homebrew)</text>
     <roll description="Lightning Damage" level="9">9d12</roll>
   </spell>
   <spell>
-    <name>Fall (TP)</name>
+    <name>Fall [TP]</name>
     <level>1</level>
     <school>T</school>
     <time>1 action</time>
@@ -178,7 +178,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 188 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 188 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Fractured Shell (TP)</name>
+    <name>Fractured Shell [TP]</name>
     <level>1</level>
     <school>T</school>
     <time>1 action</time>
@@ -202,7 +202,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 188 (Homebrew)</text>
     <roll description="Piercing Damage" level="9">10d4</roll>
   </spell>
   <spell>
-    <name>Gravity Leap (TP)</name>
+    <name>Gravity Leap [TP]</name>
     <level>1</level>
     <school>T</school>
     <time>1 action</time>
@@ -215,7 +215,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 188 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 189 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Gravity Well (TP)</name>
+    <name>Gravity Well [TP]</name>
     <level>1</level>
     <school>EV</school>
     <time>1 action</time>
@@ -229,7 +229,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 189 (Homebrew)</text>
     <roll description="Force Damage">2d8</roll>
   </spell>
   <spell>
-    <name>Phalangeal Shot (TP)</name>
+    <name>Phalangeal Shot [TP]</name>
     <level>1</level>
     <school>EV</school>
     <time>1 action</time>
@@ -253,7 +253,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 189 (Homebrew)</text>
     <roll description="Piercing Damage" level="9">10d8</roll>
   </spell>
   <spell>
-    <name>Silvered Shell (TP)</name>
+    <name>Silvered Shell [TP]</name>
     <level>1</level>
     <school>T</school>
     <time>1 bonus action</time>
@@ -271,7 +271,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 189 (Homebrew)</text>
     <roll description="Force Damage">1d4</roll>
   </spell>
   <spell>
-    <name>Spectral Slash (TP)</name>
+    <name>Spectral Slash [TP]</name>
     <level>1</level>
     <school>C</school>
     <time>1 bonus action</time>
@@ -296,7 +296,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 189 (Homebrew)</text>
     <roll description="Damage" level="9">9d8</roll>
   </spell>
   <spell>
-    <name>Arm Cannon (TP)</name>
+    <name>Arm Cannon [TP]</name>
     <level>2</level>
     <school>EV</school>
     <time>1 action</time>
@@ -319,7 +319,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 190 (Homebrew)</text>
     <roll description="Piercing Damage" level="9">11d8</roll>
   </spell>
   <spell>
-    <name>Blind Ambush (TP)</name>
+    <name>Blind Ambush [TP]</name>
     <level>2</level>
     <school>C</school>
     <time>1 action</time>
@@ -342,7 +342,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 190 (Homebrew)</text>
     <roll description="Piercing Damage" level="9">9d10</roll>
   </spell>
   <spell>
-    <name>Bone Cocoon (TP)</name>
+    <name>Bone Cocoon [TP]</name>
     <level>2</level>
     <school>A</school>
     <time>1 reaction, which you take when you see a creature drop to 0 hit points</time>
@@ -356,7 +356,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 190 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 190 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Bludgeoning Horror (TP)</name>
+    <name>Bludgeoning Horror [TP]</name>
     <level>2</level>
     <school>C</school>
     <time>1 action</time>
@@ -379,7 +379,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 191 (Homebrew)</text>
     <roll description="Bludgeoning Damage" level="9">10d6</roll>
   </spell>
   <spell>
-    <name>Calcified Memories (TP)</name>
+    <name>Calcified Memories [TP]</name>
     <level>2</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -393,7 +393,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 191 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 191 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Graviturgic Smite (TP)</name>
+    <name>Graviturgic Smite [TP]</name>
     <level>2</level>
     <school>EV</school>
     <time>1 bonus action</time>
@@ -416,7 +416,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 191 (Homebrew)</text>
     <roll description="Bludgeoning Damage" level="9">9d6</roll>
   </spell>
   <spell>
-    <name>Gravity Storm (TP)</name>
+    <name>Gravity Storm [TP]</name>
     <level>2</level>
     <school>T</school>
     <time>1 action</time>
@@ -439,7 +439,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 191 (Homebrew)</text>
     <roll description="Bludgeoning Damage" level="9">9d6</roll>
   </spell>
   <spell>
-    <name>Lightning Charged (TP)</name>
+    <name>Lightning Charged [TP]</name>
     <level>2</level>
     <school>EV</school>
     <time>1 action</time>
@@ -464,7 +464,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 191 (Homebrew)</text>
     <roll description="Lightning Damage">8d6</roll>
   </spell>
   <spell>
-    <name>Otherworldly Gaze (TP)</name>
+    <name>Otherworldly Gaze [TP]</name>
     <level>2</level>
     <school>D</school>
     <time>1 action</time>
@@ -485,7 +485,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 191 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 192 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Pressure Cage (TP)</name>
+    <name>Pressure Cage [TP]</name>
     <level>2</level>
     <school>T</school>
     <time>1 action</time>
@@ -501,7 +501,7 @@ At Higher Levels: When you cast this spell using a spell slot of 3rd level or hi
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 192 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Rolling Bones (TP)</name>
+    <name>Rolling Bones [TP]</name>
     <level>2</level>
     <school>D</school>
     <ritual>YES</ritual>
@@ -524,7 +524,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 192 (Homebrew)</text>
     <roll description="Rolling Bones">1d6</roll>
   </spell>
   <spell>
-    <name>Rupturing Curse (TP)</name>
+    <name>Rupturing Curse [TP]</name>
     <level>2</level>
     <school>EV</school>
     <time>1 action</time>
@@ -548,7 +548,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 192 (Homebrew)</text>
     <roll description="Piercing Damage" level="9">10d6</roll>
   </spell>
   <spell>
-    <name>Skeletal Tail (TP)</name>
+    <name>Skeletal Tail [TP]</name>
     <level>2</level>
     <school>C</school>
     <time>1 action</time>
@@ -571,7 +571,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 193 (Homebrew)</text>
     <roll description="Piercing Damage" level="9">9d4</roll>
   </spell>
   <spell>
-    <name>Astral Barrage (TP)</name>
+    <name>Astral Barrage [TP]</name>
     <level>3</level>
     <school>C</school>
     <time>1 action</time>
@@ -593,7 +593,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 193 (Homebrew)</text>
     <roll description="Bludgeoning Damage" level="9">19d6</roll>
   </spell>
   <spell>
-    <name>Dampen Gravity (TP)</name>
+    <name>Dampen Gravity [TP]</name>
     <level>3</level>
     <school>T</school>
     <time>1 action</time>
@@ -606,7 +606,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 193 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 193 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Displacing Maw (TP)</name>
+    <name>Displacing Maw [TP]</name>
     <level>3</level>
     <school>C</school>
     <time>1 action</time>
@@ -628,7 +628,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 194 (Homebrew)</text>
     <roll description="Piercing Damage" level="9">10d8</roll>
   </spell>
   <spell>
-    <name>Malicious Rancor (TP)</name>
+    <name>Malicious Rancor [TP]</name>
     <level>3</level>
     <school>EV</school>
     <time>1 action</time>
@@ -651,7 +651,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 194 (Homebrew)</text>
     <roll description="Psychic Damage" level="9">17d4</roll>
   </spell>
   <spell>
-    <name>Osseous Cage (TP)</name>
+    <name>Osseous Cage [TP]</name>
     <level>3</level>
     <school>C</school>
     <time>1 action</time>
@@ -666,7 +666,7 @@ At Higher Levels: When you cast this spell using a spell slot of 4th level or hi
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 194 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Osseous Impalement (TP)</name>
+    <name>Osseous Impalement [TP]</name>
     <level>3</level>
     <school>C</school>
     <time>1 action</time>
@@ -689,7 +689,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 194 (Homebrew)</text>
     <roll description="Piercing Damage">1d10</roll>
   </spell>
   <spell>
-    <name>Radiant Bell (TP)</name>
+    <name>Radiant Bell [TP]</name>
     <level>3</level>
     <school>A</school>
     <time>1 action</time>
@@ -704,7 +704,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 194 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 195 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Radiant Slaughter (TP)</name>
+    <name>Radiant Slaughter [TP]</name>
     <level>3</level>
     <school>C</school>
     <time>1 action</time>
@@ -733,7 +733,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 195 (Homebrew)</text>
     <roll description="Radiant Damage" level="9">9d6</roll>
   </spell>
   <spell>
-    <name>Rubber Bones (TP)</name>
+    <name>Rubber Bones [TP]</name>
     <level>3</level>
     <school>T</school>
     <time>1 action</time>
@@ -756,7 +756,7 @@ At Higher Levels: When you cast this spell using a spell slot of 4th level or hi
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 195 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Spectral Fury (TP)</name>
+    <name>Spectral Fury [TP]</name>
     <level>3</level>
     <school>C</school>
     <time>1 action</time>
@@ -779,7 +779,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 195 (Homebrew)</text>
     <roll description="Damage" level="9">16d8</roll>
   </spell>
   <spell>
-    <name>Dread Scarecrow (TP)</name>
+    <name>Dread Scarecrow [TP]</name>
     <level>4</level>
     <school>I</school>
     <time>1 action</time>
@@ -792,7 +792,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 195 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 196 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Fling (TP)</name>
+    <name>Fling [TP]</name>
     <level>4</level>
     <school>EV</school>
     <time>1 action</time>
@@ -820,7 +820,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 196 (Homebrew)</text>
     <roll description="Bludgeoning Damage">4d10</roll>
   </spell>
   <spell>
-    <name>Graveyard Shuffle (TP)</name>
+    <name>Graveyard Shuffle [TP]</name>
     <level>4</level>
     <school>N</school>
     <time>1 action</time>
@@ -834,7 +834,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 196 (Homebrew)</text>
     <roll description="Necrotic Damage">4d6</roll>
   </spell>
   <spell>
-    <name>Gravitational Distortion (TP)</name>
+    <name>Gravitational Distortion [TP]</name>
     <level>4</level>
     <school>T</school>
     <time>1 action</time>
@@ -848,7 +848,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 197 (Homebrew)</text>
     <roll description="Bludgeoning Damage">6d6</roll>
   </spell>
   <spell>
-    <name>Gravity Barrier (TP)</name>
+    <name>Gravity Barrier [TP]</name>
     <level>4</level>
     <school>EV</school>
     <time>1 action</time>
@@ -863,7 +863,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 197 (Homebrew)</text>
     <roll description="Bludgeoning Damage">4d8</roll>
   </spell>
   <spell>
-    <name>Jumping Jolt (TP)</name>
+    <name>Jumping Jolt [TP]</name>
     <level>4</level>
     <school>EV</school>
     <time>1 action</time>
@@ -884,7 +884,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 197 (Homebrew)</text>
     <roll description="Lightning Damage" level="9">9d12</roll>
   </spell>
   <spell>
-    <name>Maiden of Bones (TP)</name>
+    <name>Maiden of Bones [TP]</name>
     <level>4</level>
     <school>C</school>
     <time>1 action</time>
@@ -898,7 +898,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 198 (Homebrew)</text>
     <roll description="Piercing Damage">3d6</roll>
   </spell>
   <spell>
-    <name>Vanishing Step (TP)</name>
+    <name>Vanishing Step [TP]</name>
     <level>4</level>
     <school>C</school>
     <time>1 bonus action</time>
@@ -912,7 +912,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 198 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 198 (Homebrew)</text>
   </spell>
   <spell>
-    <name>World Breaker (TP)</name>
+    <name>World Breaker [TP]</name>
     <level>4</level>
     <school>EV</school>
     <time>1 action</time>
@@ -926,7 +926,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 198 (Homebrew)</text>
     <roll description="Bludgeoning Damage">4d8</roll>
   </spell>
   <spell>
-    <name>Ancestral Bond (TP)</name>
+    <name>Ancestral Bond [TP]</name>
     <level>5</level>
     <school>D</school>
     <time>1 minute</time>
@@ -940,7 +940,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 198 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 198 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Chisel Skull (TP)</name>
+    <name>Chisel Skull [TP]</name>
     <level>5</level>
     <school>EV</school>
     <time>1 action</time>
@@ -954,7 +954,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 198 (Homebrew)</text>
     <roll description="Piercing Damage">8d10</roll>
   </spell>
   <spell>
-    <name>Divine Order Reveal (TP)</name>
+    <name>Divine Order Reveal [TP]</name>
     <level>5</level>
     <school>D</school>
     <time>1 action</time>
@@ -970,7 +970,7 @@ GM Note: This is the equivalent of revealing the upper part (above the actions) 
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 199 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Forest of Dread (TP)</name>
+    <name>Forest of Dread [TP]</name>
     <level>5</level>
     <school>C</school>
     <time>1 action</time>
@@ -986,7 +986,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 199 (Homebrew)</text>
     <roll description="Piercing Damage">2d8</roll>
   </spell>
   <spell>
-    <name>Starfall (TP)</name>
+    <name>Starfall [TP]</name>
     <level>5</level>
     <school>EN</school>
     <time>1 bonus action</time>
@@ -1006,7 +1006,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 200 (Homebrew)</text>
     <roll description="Radiant Damage" level="9">1d10+1+4d6</roll>
   </spell>
   <spell>
-    <name>Erupting Lightning (TP)</name>
+    <name>Erupting Lightning [TP]</name>
     <level>6</level>
     <school>EV</school>
     <time>1 action</time>
@@ -1022,7 +1022,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 200 (Homebrew)</text>
     <roll description="Lightning Damage">7d10</roll>
   </spell>
   <spell>
-    <name>Unbound Chamber (TP)</name>
+    <name>Unbound Chamber [TP]</name>
     <level>6</level>
     <school>T</school>
     <ritual>YES</ritual>
@@ -1037,7 +1037,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 200 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 200 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Void Walk (TP)</name>
+    <name>Void Walk [TP]</name>
     <level>6</level>
     <school>T</school>
     <time>1 action</time>
@@ -1052,7 +1052,7 @@ At Higher Levels: When you cast this spell using a spell slot of 7th level or hi
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 200 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Wall of Bones (TP)</name>
+    <name>Wall of Bones [TP]</name>
     <level>6</level>
     <school>C</school>
     <time>1 action</time>
@@ -1069,7 +1069,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 200 (Homebrew)</text>
     <roll description="Bludgeoning Damage">4d8</roll>
   </spell>
   <spell>
-    <name>Amputate (TP)</name>
+    <name>Amputate [TP]</name>
     <level>7</level>
     <school>EV</school>
     <time>1 action</time>
@@ -1090,7 +1090,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 200 (Homebrew)</text>
     <roll description="Extra Slashing Damage" level="9">9d8</roll>
   </spell>
   <spell>
-    <name>Boneyard (TP)</name>
+    <name>Boneyard [TP]</name>
     <level>7</level>
     <school>N</school>
     <time>24 hours</time>
@@ -1106,7 +1106,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 200 (Homebrew)</text>
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 200 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Crush (TP)</name>
+    <name>Crush [TP]</name>
     <level>7</level>
     <school>EV</school>
     <time>1 action</time>
@@ -1122,7 +1122,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 200 (Homebrew)</text>
     <roll description="Bludgeoning Damage">12d10</roll>
   </spell>
   <spell>
-    <name>Divine Order Transcend (TP)</name>
+    <name>Divine Order Transcend [TP]</name>
     <level>7</level>
     <school>D</school>
     <time>1 action</time>
@@ -1209,7 +1209,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 200 (Homebrew)</text>
     <roll description="Psychic Damage">2d10</roll>
   </spell>
   <spell>
-    <name>Bury (TP)</name>
+    <name>Bury [TP]</name>
     <level>8</level>
     <school>T</school>
     <time>1 action</time>
@@ -1225,7 +1225,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 200 (Homebrew)</text>
     <roll description="Bludgeoning Damage">4d6</roll>
   </spell>
   <spell>
-    <name>Aspect of Death (TP)</name>
+    <name>Aspect of Death [TP]</name>
     <level>9</level>
     <school>C</school>
     <time>1 action</time>
@@ -1241,7 +1241,7 @@ you are considered behind three-quarters cover at all times, have resistance to 
 Source:	Steinhardt's Guide to the Eldritch Hunt p. 200 (Homebrew)</text>
   </spell>
   <spell>
-    <name>Divine Order Sacrifice (TP)</name>
+    <name>Divine Order Sacrifice [TP]</name>
     <level>9</level>
     <school>C</school>
     <time>1 action</time>
@@ -1333,7 +1333,7 @@ Source:	Steinhardt's Guide to the Eldritch Hunt p. 200 (Homebrew)</text>
     <roll description="Close Breach">1d100</roll>
   </spell>
   <spell>
-    <name>Osteophagia (TP)</name>
+    <name>Osteophagia [TP]</name>
     <level>9</level>
     <school>C</school>
     <time>1 action</time>

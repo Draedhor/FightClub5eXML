@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Abjurer's Bangle (Uncommon) (TP)</name>
+    <name>Abjurer's Bangle (Uncommon) [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -10,7 +10,7 @@
 Source:	The Griffon's Saddlebag: Book Two p. 32 (Third Party)</text>
   </item>
   <item>
-    <name>Abjurer's Bangle (Rare) (TP)</name>
+    <name>Abjurer's Bangle (Rare) [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -19,7 +19,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 32 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 32 (Third Party)</text>
   </item>
   <item>
-    <name>Abjurer's Bangle (Very Rare) (TP)</name>
+    <name>Abjurer's Bangle (Very Rare) [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -28,7 +28,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 32 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 32 (Third Party)</text>
   </item>
   <item>
-    <name>Aciurgist's Blade (TP)</name>
+    <name>Aciurgist's Blade [TP Legacy]</name>
     <detail>glaive, very rare (requires attunement by a paladin)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -56,7 +56,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 32 (Third Party)</text>
     <roll description="Necrotic or Radiant Damage">1d8</roll>
   </item>
   <item>
-    <name>Acorn Charm (TP)</name>
+    <name>Acorn Charm [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -65,7 +65,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 32 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 32 (Third Party)</text>
   </item>
   <item>
-    <name>Adventurer's Overcoat (TP)</name>
+    <name>Adventurer's Overcoat [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -74,7 +74,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 32 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 32 (Third Party)</text>
   </item>
   <item>
-    <name>Aged Goodberry Wine (TP)</name>
+    <name>Aged Goodberry Wine [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -85,7 +85,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 33 (Third Party)</text>
     <roll description="Add to Wisdom or Charisma Roll">1d4</roll>
   </item>
   <item>
-    <name>Air Render (TP)</name>
+    <name>Air Render [TP Legacy]</name>
     <detail>shortbow, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -116,7 +116,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 33 (Third Party)</text>
     <roll description="Slashing Damage">2d6</roll>
   </item>
   <item>
-    <name>Alchemist's Potion Belt (TP)</name>
+    <name>Alchemist's Potion Belt [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -126,7 +126,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 33 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 33 (Third Party)</text>
   </item>
   <item>
-    <name>Ambitious Medic's Box (TP)</name>
+    <name>Ambitious Medic's Box [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -138,7 +138,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 33 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 33 (Third Party)</text>
   </item>
   <item>
-    <name>Amulet of Buoyancy (TP)</name>
+    <name>Amulet of Buoyancy [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -147,7 +147,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 33 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 34 (Third Party)</text>
   </item>
   <item>
-    <name>Amulet of Immutability (TP)</name>
+    <name>Amulet of Immutability [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -158,7 +158,7 @@ reduce, levitate, or slow.
 Source:	The Griffon's Saddlebag: Book Two p. 34 (Third Party)</text>
   </item>
   <item>
-    <name>Amulet of the Lycanthrope (TP)</name>
+    <name>Amulet of the Lycanthrope [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -173,7 +173,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 34 (Third Party)</text>
     <roll description="Necrotic Damage">1d8</roll>
   </item>
   <item>
-    <name>Amulet of the Sentinel (TP)</name>
+    <name>Amulet of the Sentinel [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -189,7 +189,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 34 (Third Party)</text>
     <roll description="Recharge">1d6+2</roll>
   </item>
   <item>
-    <name>Amulet of the Spirit Naga (TP)</name>
+    <name>Amulet of the Spirit Naga [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -199,7 +199,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 34 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 34 (Third Party)</text>
   </item>
   <item>
-    <name>Angler's Armor (TP)</name>
+    <name>Angler's Armor [TP Legacy]</name>
     <detail>scale mail, uncommon (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -216,7 +216,7 @@ Proficiency: medium armor
 Source:	The Griffon's Saddlebag: Book Two p. 36 (Third Party)</text>
   </item>
   <item>
-    <name>Angler's Worldly Fisher (TP)</name>
+    <name>Angler's Worldly Fisher [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -225,7 +225,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 36 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 36 (Third Party)</text>
   </item>
   <item>
-    <name>Ao Hai's Fang (TP)</name>
+    <name>Ao Hai's Fang [TP Legacy]</name>
     <detail>longsword, legendary (requires attunement by a monk)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -254,7 +254,7 @@ Proficiency: martial, longsword
 Source:	The Griffon's Saddlebag: Book Two p. 36 (Third Party)</text>
   </item>
   <item>
-    <name>Appraiser's Eye (TP)</name>
+    <name>Appraiser's Eye [TP Legacy]</name>
     <detail>rare (requires attunement by a creature missing an eye)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -266,7 +266,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 36 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Arborguard Shield (TP)</name>
+    <name>Arborguard Shield [TP Legacy]</name>
     <detail>shield, very rare (requires attunement)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -286,7 +286,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 37 (Third Party)</text>
     <roll description="Bludgeoning">8d6</roll>
   </item>
   <item>
-    <name>Arc of the Alicorn (TP)</name>
+    <name>Arc of the Alicorn [TP Legacy]</name>
     <detail>longbow, very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -319,7 +319,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 37 (Third Party)</text>
     <roll description="Force Damage">3d6</roll>
   </item>
   <item>
-    <name>Arcanist Gauntlets (TP)</name>
+    <name>Arcanist Gauntlets [TP Legacy]</name>
     <detail>rare (requires attunement by a spellcaster)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -331,7 +331,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 38 (Third Party)</text>
     <roll description="Levels">1d6</roll>
   </item>
   <item>
-    <name>Arcanist's Magnificent Magnifier (TP)</name>
+    <name>Arcanist's Magnificent Magnifier [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -340,7 +340,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 38 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 38 (Third Party)</text>
   </item>
   <item>
-    <name>Arcanist's Scribing Wand (TP)</name>
+    <name>Arcanist's Scribing Wand [TP Legacy]</name>
     <detail>rare (requires attunement by a wizard)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -356,7 +356,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 38 (Third Party)</text>
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>Archivist's Key (TP)</name>
+    <name>Archivist's Key [TP Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -366,7 +366,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 38 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 39 (Third Party)</text>
   </item>
   <item>
-    <name>Armor of Icarus (TP)</name>
+    <name>Armor of Icarus [TP Legacy]</name>
     <detail>breastplate, rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -382,7 +382,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 39 (Third Party)</text>
     <roll description="Recharge">1d4+2</roll>
   </item>
   <item>
-    <name>Arrow of Anchoring (TP)</name>
+    <name>Arrow of Anchoring [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -395,7 +395,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	The Griffon's Saddlebag: Book Two p. 39 (Third Party)</text>
   </item>
   <item>
-    <name>Bolt of Anchoring (TP)</name>
+    <name>Bolt of Anchoring [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -408,7 +408,7 @@ Ammunition: You can use a weapon that has the ammunition property to make a rang
 Source:	The Griffon's Saddlebag: Book Two p. 39 (Third Party)</text>
   </item>
   <item>
-    <name>Astral Caltrops (TP)</name>
+    <name>Astral Caltrops [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -420,7 +420,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 39 (Third Party)</text>
     <roll description="Rounds">1d4</roll>
   </item>
   <item>
-    <name>Astronomer's Boon (TP)</name>
+    <name>Astronomer's Boon [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -438,7 +438,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 40 (Third Party)</text>
     <roll description="Add to Roll">1d4</roll>
   </item>
   <item>
-    <name>Aurora Dust (TP)</name>
+    <name>Aurora Dust [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -448,7 +448,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 40 (Third Party)</text>
     <roll description="Pinches">1d6+4</roll>
   </item>
   <item>
-    <name>Badge of the Savant (TP)</name>
+    <name>Badge of the Savant [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -458,7 +458,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 40 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 40 (Third Party)</text>
   </item>
   <item>
-    <name>Badge of the Wayfarer (TP)</name>
+    <name>Badge of the Wayfarer [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -469,7 +469,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 40 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 40 (Third Party)</text>
   </item>
   <item>
-    <name>Bag of Bellstones (TP)</name>
+    <name>Bag of Bellstones [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -479,7 +479,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 41 (Third Party)</text>
     <roll description="Stones">1d12+8</roll>
   </item>
   <item>
-    <name>Ball of Wild Earth (TP)</name>
+    <name>Ball of Wild Earth [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -493,7 +493,7 @@ Personality: The ball of wild earth is most happy when rolling through rich, hea
 Source:	The Griffon's Saddlebag: Book Two p. 41 (Third Party)</text>
   </item>
   <item>
-    <name>Ballista Prosthesis (TP)</name>
+    <name>Ballista Prosthesis [TP Legacy]</name>
     <detail>hand crossbow, uncommon (requires attunement by a creature missing an arm, forearm or hand )</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -523,7 +523,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 41 (Third Party)</text>
     <modifier category="bonus">ranged damage +1</modifier>
   </item>
   <item>
-    <name>Bandolier of the Elements (TP)</name>
+    <name>Bandolier of the Elements [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -544,7 +544,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 42 (Third Party)</text>
     <roll description="Extra Damage">1d6</roll>
   </item>
   <item>
-    <name>Bane Shield (TP)</name>
+    <name>Bane Shield [TP Legacy]</name>
     <detail>shield, uncommon (requires attunement)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -560,7 +560,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 42 (Third Party)</text>
     <roll description="Subtract from Roll">1d4</roll>
   </item>
   <item>
-    <name>Bartender's Armistice (TP)</name>
+    <name>Bartender's Armistice [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -574,7 +574,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 42 (Third Party)</text>
     <roll description="Coasters">1d3+1</roll>
   </item>
   <item>
-    <name>Battlechef Field Dresser (TP)</name>
+    <name>Battlechef Field Dresser [TP Legacy]</name>
     <detail>dagger, uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -598,7 +598,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 44 (Third Party)</text>
     <roll description="Fire Damage">1d4</roll>
   </item>
   <item>
-    <name>Beads of Meditation (TP)</name>
+    <name>Beads of Meditation [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -609,7 +609,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 44 (Third Party)</text>
     <roll description="Regain Ki Points">1d4+1</roll>
   </item>
   <item>
-    <name>Beard Cannon (TP)</name>
+    <name>Beard Cannon [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -622,7 +622,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 44 (Third Party)</text>
     <roll description="Fired Beads">1d6</roll>
   </item>
   <item>
-    <name>Bell of Alarm (TP)</name>
+    <name>Bell of Alarm [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -632,7 +632,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 44 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 45 (Third Party)</text>
   </item>
   <item>
-    <name>Bellhop Topper (TP)</name>
+    <name>Bellhop Topper [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -642,7 +642,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 45 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Belt of the Hell Hound (TP)</name>
+    <name>Belt of the Hell Hound [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -656,7 +656,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 45 (Third Party)</text>
     <roll description="Fire Damage">6d6</roll>
   </item>
   <item>
-    <name>Bird's-Eye Arrow (TP)</name>
+    <name>Bird's-Eye Arrow [TP Legacy]</name>
     <detail>common</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -666,7 +666,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 45 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 45 (Third Party)</text>
   </item>
   <item>
-    <name>Bird's-Eye Bolt (TP)</name>
+    <name>Bird's-Eye Bolt [TP Legacy]</name>
     <detail>common</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -676,7 +676,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 45 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 45 (Third Party)</text>
   </item>
   <item>
-    <name>Blackthorn Spear of the Moonless Hunter (TP)</name>
+    <name>Blackthorn Spear of the Moonless Hunter [TP Legacy]</name>
     <detail>spear, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -714,7 +714,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 45 (Third Party)</text>
     <modifier category="bonus">weapon attacks +2</modifier>
   </item>
   <item>
-    <name>Blood Moon Blade (TP)</name>
+    <name>Blood Moon Blade [TP Legacy]</name>
     <detail>longsword, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -736,7 +736,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 45 (Third Party)</text>
     <roll description="Necrotic Damage">2d4</roll>
   </item>
   <item>
-    <name>Bloodhound Amulet (TP)</name>
+    <name>Bloodhound Amulet [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -745,7 +745,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 45 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 45 (Third Party)</text>
   </item>
   <item>
-    <name>Bloodmire Phiale (TP)</name>
+    <name>Bloodmire Phiale [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -758,7 +758,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 47 (Third Party)</text>
     <roll description="Days">1d4</roll>
   </item>
   <item>
-    <name>Bloodmire Rod of the Witch Doctor (TP)</name>
+    <name>Bloodmire Rod of the Witch Doctor [TP Legacy]</name>
     <detail>spellcasting focus, rare (requires attunement by a cleric, druid, paladin or warlock)</detail>
     <type>RD</type>
     <magic>YES</magic>
@@ -782,7 +782,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 47 (Third Party)</text>
     <roll description="Necrotic Damage">1d10</roll>
   </item>
   <item>
-    <name>Bloodmire Soulflame Lantern (TP)</name>
+    <name>Bloodmire Soulflame Lantern [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -809,7 +809,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 47 (Third Party)</text>
     <roll description="Temporary Hit Points">1d8</roll>
   </item>
   <item>
-    <name>Bloodshard Trident (TP)</name>
+    <name>Bloodshard Trident [TP Legacy]</name>
     <detail>trident, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -833,7 +833,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 48 (Third Party)</text>
     <roll description="Piercing Damage">1d4</roll>
   </item>
   <item>
-    <name>Bloodthirster Scimitar (TP)</name>
+    <name>Bloodthirster Scimitar [TP Legacy]</name>
     <detail>scimitar, common</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -850,7 +850,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 48 (Third Party)</text>
     <roll description="Necrotic Damage">1d6</roll>
   </item>
   <item>
-    <name>Bloodthirsty Bistoury (TP)</name>
+    <name>Bloodthirsty Bistoury [TP Legacy]</name>
     <detail>dagger, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -875,7 +875,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 48 (Third Party)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Bloody Marilith (Common) (TP)</name>
+    <name>Bloody Marilith (Common) [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -885,7 +885,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 48 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 48 (Third Party)</text>
   </item>
   <item>
-    <name>Bloody Marilith (Very Rare) (TP)</name>
+    <name>Bloody Marilith (Very Rare) [TP Legacy]</name>
     <detail>very rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -897,7 +897,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 48 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 48 (Third Party)</text>
   </item>
   <item>
-    <name>Bonfire Charm (TP)</name>
+    <name>Bonfire Charm [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -906,7 +906,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 48 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 49 (Third Party)</text>
   </item>
   <item>
-    <name>Book of Clothier's Croquis (TP)</name>
+    <name>Book of Clothier's Croquis [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -918,7 +918,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 49 (Third Party)</text>
     <roll description="Remaining Pages">2d6+8</roll>
   </item>
   <item>
-    <name>Book of Instant Copying (TP)</name>
+    <name>Book of Instant Copying [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -928,7 +928,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 49 (Third Party)</text>
     <roll description="Blank Pages">2d10+30</roll>
   </item>
   <item>
-    <name>Bounder's Ball (TP)</name>
+    <name>Bounder's Ball [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -939,7 +939,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 49 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 50 (Third Party)</text>
   </item>
   <item>
-    <name>Bow of the Eldritch Archer (TP)</name>
+    <name>Bow of the Eldritch Archer [TP Legacy]</name>
     <detail>shortbow, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -964,7 +964,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 50 (Third Party)</text>
     <roll description="Force Damage">1d10</roll>
   </item>
   <item>
-    <name>Bracers of the Iron Octopus (TP)</name>
+    <name>Bracers of the Iron Octopus [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -976,7 +976,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 50 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 52 (Third Party)</text>
   </item>
   <item>
-    <name>Bramble Buckler (TP)</name>
+    <name>Bramble Buckler [TP Legacy]</name>
     <detail>shield, uncommon (requires attunement by a druid or ranger)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -991,7 +991,7 @@ Proficiency: shield
 Source:	The Griffon's Saddlebag: Book Two p. 52 (Third Party)</text>
   </item>
   <item>
-    <name>Brawler's Ring (TP)</name>
+    <name>Brawler's Ring [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -1001,7 +1001,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 52 (Third Party)</text>
     <roll description="Bludgeoning Damage">1d4+%1</roll>
   </item>
   <item>
-    <name>Brutal Macuahuitl (TP)</name>
+    <name>Brutal Macuahuitl [TP Legacy]</name>
     <detail>longsword, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1017,7 +1017,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 52 (Third Party)</text>
     <roll description="Necrotic Damage">1d8</roll>
   </item>
   <item>
-    <name>Bulette Bulwark (TP)</name>
+    <name>Bulette Bulwark [TP Legacy]</name>
     <detail>shield, uncommon (requires attunement)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -1034,7 +1034,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 53 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Bulette Torpedo (TP)</name>
+    <name>Bulette Torpedo [TP Legacy]</name>
     <detail>javelin, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1056,7 +1056,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 53 (Third Party)</text>
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Bullfrog Totem (TP)</name>
+    <name>Bullfrog Totem [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1065,7 +1065,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 53 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 53 (Third Party)</text>
   </item>
   <item>
-    <name>Burrage's Collegiate Case (TP)</name>
+    <name>Burrage's Collegiate Case [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1076,7 +1076,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 53 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 54 (Third Party)</text>
   </item>
   <item>
-    <name>Caduceus Flail (TP)</name>
+    <name>Caduceus Flail [TP Legacy]</name>
     <detail>flail, rare (requires attunement by a cleric or paladin)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1095,7 +1095,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 54 (Third Party)</text>
     <roll description="Radiant Damage">1d8+%0</roll>
   </item>
   <item>
-    <name>Camilla's Quicksilver Mirror (TP)</name>
+    <name>Camilla's Quicksilver Mirror [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1110,7 +1110,7 @@ Store Reflection: The creature's reflection is stored within the mirror. While s
 Source:	The Griffon's Saddlebag: Book Two p. 54 (Third Party)</text>
   </item>
   <item>
-    <name>Camper's Crutch (TP)</name>
+    <name>Camper's Crutch [TP Legacy]</name>
     <detail>mace, common</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1123,7 +1123,7 @@ Proficiency: simple, mace
 Source:	The Griffon's Saddlebag: Book Two p. 55 (Third Party)</text>
   </item>
   <item>
-    <name>Camper's Respite (TP)</name>
+    <name>Camper's Respite [TP Legacy]</name>
     <detail>spellcasting focus, uncommon</detail>
     <type>RD</type>
     <magic>YES</magic>
@@ -1138,7 +1138,7 @@ Arcane Focus: An arcane focus is a special item designed to channel the power of
 Source:	The Griffon's Saddlebag: Book Two p. 55 (Third Party)</text>
   </item>
   <item>
-    <name>Candleflame Helm (TP)</name>
+    <name>Candleflame Helm [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1147,7 +1147,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 55 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 56 (Third Party)</text>
   </item>
   <item>
-    <name>Candy Xorn (TP)</name>
+    <name>Candy Xorn [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1158,7 +1158,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 56 (Third Party)</text>
     <roll description="Pieces">2d6+3</roll>
   </item>
   <item>
-    <name>Canister of Vreyval's Soothing Tea (TP)</name>
+    <name>Canister of Vreyval's Soothing Tea [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1170,7 +1170,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 56 (Third Party)</text>
     <roll description="Heal">1d6+2</roll>
   </item>
   <item>
-    <name>Captain's Pride (TP)</name>
+    <name>Captain's Pride [TP Legacy]</name>
     <detail>studded leather armor, rare (requires attunement)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -1190,7 +1190,7 @@ Proficiency: light armor
 Source:	The Griffon's Saddlebag: Book Two p. 57 (Third Party)</text>
   </item>
   <item>
-    <name>Carrion Shroud (TP)</name>
+    <name>Carrion Shroud [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1204,7 +1204,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 57 (Third Party)</text>
     <roll description="Necrotic Damage">1d6</roll>
   </item>
   <item>
-    <name>Celestial Sunrise (Common) (TP)</name>
+    <name>Celestial Sunrise (Common) [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1213,7 +1213,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 57 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 57 (Third Party)</text>
   </item>
   <item>
-    <name>Celestial Sunrise (Uncommon) (TP)</name>
+    <name>Celestial Sunrise (Uncommon) [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1223,7 +1223,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 57 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 57 (Third Party)</text>
   </item>
   <item>
-    <name>Chain Devil Gloves (TP)</name>
+    <name>Chain Devil Gloves [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1234,7 +1234,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 57 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 58 (Third Party)</text>
   </item>
   <item>
-    <name>Champion's Greatbow (TP)</name>
+    <name>Champion's Greatbow [TP Legacy]</name>
     <detail>longbow, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1261,7 +1261,7 @@ Proficiency: martial, longbow
 Source:	The Griffon's Saddlebag: Book Two p. 58 (Third Party)</text>
   </item>
   <item>
-    <name>Charged Rapier (TP)</name>
+    <name>Charged Rapier [TP Legacy]</name>
     <detail>rapier, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1282,7 +1282,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 58 (Third Party)</text>
     <roll description="Lightning Damage">1d4+1</roll>
   </item>
   <item>
-    <name>Chi-Balancing Tea (TP)</name>
+    <name>Chi-Balancing Tea [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1293,7 +1293,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 58 (Third Party)</text>
     <roll description="Expended">1d4+1</roll>
   </item>
   <item>
-    <name>Chimeric Collar (TP)</name>
+    <name>Chimeric Collar [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1305,7 +1305,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 59 (Third Party)</text>
     <roll description="Temporary Hit Points">2d10+4</roll>
   </item>
   <item>
-    <name>Chromatic Obsidian Greataxe (TP)</name>
+    <name>Chromatic Obsidian Greataxe [TP Legacy]</name>
     <detail>greataxe, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1338,7 +1338,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 59 (Third Party)</text>
     <roll description="Elemental Damage">4d6</roll>
   </item>
   <item>
-    <name>Chronal Sphere (TP)</name>
+    <name>Chronal Sphere [TP Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1349,7 +1349,7 @@ Spells: While holding the sphere, you can use an action to cast either the haste
 Source:	The Griffon's Saddlebag: Book Two p. 60 (Third Party)</text>
   </item>
   <item>
-    <name>Chronomancer's Eyepiece (TP)</name>
+    <name>Chronomancer's Eyepiece [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1364,7 +1364,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 60 (Third Party)</text>
     <roll description="Recharge">1d4+1</roll>
   </item>
   <item>
-    <name>Circlet of the Sharpened Mind (TP)</name>
+    <name>Circlet of the Sharpened Mind [TP Legacy]</name>
     <detail>very rare (requires attunement by a creature with an intelligence score of 17 or higher)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1376,7 +1376,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 60 (Third Party)</text>
     <roll description="Force Damage">1d8+%4</roll>
   </item>
   <item>
-    <name>Claymore of the Great Badger (TP)</name>
+    <name>Claymore of the Great Badger [TP Legacy]</name>
     <detail>greatsword, uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1396,7 +1396,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 61 (Third Party)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Cleaning Cube (TP)</name>
+    <name>Cleaning Cube [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1410,7 +1410,7 @@ Personality: The cleaning cube is happiest finding and dissolving dirt and other
 Source:	The Griffon's Saddlebag: Book Two p. 61 (Third Party)</text>
   </item>
   <item>
-    <name>Cloche of Surprise Treats (TP)</name>
+    <name>Cloche of Surprise Treats [TP Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1428,7 +1428,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 62 (Third Party)</text>
     <roll description="Meal">1d12</roll>
   </item>
   <item>
-    <name>Clockwork Colony Toolbox (TP)</name>
+    <name>Clockwork Colony Toolbox [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1439,7 +1439,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 62 (Third Party)</text>
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Clockwork Earwig (TP)</name>
+    <name>Clockwork Earwig [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1454,7 +1454,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 62 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 62 (Third Party)</text>
   </item>
   <item>
-    <name>Clockwork Mend-A-Pillar (TP)</name>
+    <name>Clockwork Mend-A-Pillar [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1466,7 +1466,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 62 (Third Party)</text>
     <roll description="Heal">2d6</roll>
   </item>
   <item>
-    <name>Club of Dancing (TP)</name>
+    <name>Club of Dancing [TP Legacy]</name>
     <detail>club, uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1483,7 +1483,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 63 (Third Party)</text>
     <roll description="Thunder Damage">1d6</roll>
   </item>
   <item>
-    <name>Club of the Forest Drake (TP)</name>
+    <name>Club of the Forest Drake [TP Legacy]</name>
     <detail>club, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1501,7 +1501,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 63 (Third Party)</text>
     <roll description="Piercing Damage">1d6</roll>
   </item>
   <item>
-    <name>Club of the Rook (TP)</name>
+    <name>Club of the Rook [TP Legacy]</name>
     <detail>club, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1519,7 +1519,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 63 (Third Party)</text>
     <roll description="Bludgeoning Damage">3d4</roll>
   </item>
   <item>
-    <name>Coldfire Anvil (TP)</name>
+    <name>Coldfire Anvil [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1532,7 +1532,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 64 (Third Party)</text>
     <roll description="Days">1d6+1</roll>
   </item>
   <item>
-    <name>Comet Ballista (TP)</name>
+    <name>Comet Ballista [TP Legacy]</name>
     <detail>heavy crossbow, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -1563,7 +1563,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 64 (Third Party)</text>
     <roll description="Cold Damage">8d6</roll>
   </item>
   <item>
-    <name>Conspirator's Coat (TP)</name>
+    <name>Conspirator's Coat [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1574,7 +1574,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 64 (Third Party)</text>
     <roll description="Recharge">1d4+1</roll>
   </item>
   <item>
-    <name>Contingency Band (TP)</name>
+    <name>Contingency Band [TP Legacy]</name>
     <detail>rare</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -1584,7 +1584,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 64 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 64 (Third Party)</text>
   </item>
   <item>
-    <name>Cottage Chest (TP)</name>
+    <name>Cottage Chest [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1597,7 +1597,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 64 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 67 (Third Party)</text>
   </item>
   <item>
-    <name>Courtesan's Fanblade (TP)</name>
+    <name>Courtesan's Fanblade [TP Legacy]</name>
     <detail>dagger, uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1622,7 +1622,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 67 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Covolt Dagger (TP)</name>
+    <name>Covolt Dagger [TP Legacy]</name>
     <detail>dagger, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1646,7 +1646,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 67 (Third Party)</text>
     <roll description="Lightning Damage">1d8</roll>
   </item>
   <item>
-    <name>Covolt Scythe (TP)</name>
+    <name>Covolt Scythe [TP Legacy]</name>
     <detail>glaive, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1668,7 +1668,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 67 (Third Party)</text>
     <roll description="Lightning Damage">1d8</roll>
   </item>
   <item>
-    <name>Crown of Storms (TP)</name>
+    <name>Crown of Storms [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1686,7 +1686,7 @@ Once this property of the crown has been used, it can't be used again until the 
 Source:	The Griffon's Saddlebag: Book Two p. 67 (Third Party)</text>
   </item>
   <item>
-    <name>Crown of the Mindmaster Matriarch (TP)</name>
+    <name>Crown of the Mindmaster Matriarch [TP Legacy]</name>
     <detail>rare (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1696,7 +1696,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 67 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 67 (Third Party)</text>
   </item>
   <item>
-    <name>Cube of Teleportation (TP)</name>
+    <name>Cube of Teleportation [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1709,7 +1709,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 67 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Cuff of Captions (TP)</name>
+    <name>Cuff of Captions [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1718,7 +1718,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 67 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 67 (Third Party)</text>
   </item>
   <item>
-    <name>Dagger of First Light (TP)</name>
+    <name>Dagger of First Light [TP Legacy]</name>
     <detail>dagger, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1742,7 +1742,7 @@ Proficiency: simple, dagger
 Source:	The Griffon's Saddlebag: Book Two p. 68 (Third Party)</text>
   </item>
   <item>
-    <name>Dark Mantle (TP)</name>
+    <name>Dark Mantle [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1752,7 +1752,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 68 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 68 (Third Party)</text>
   </item>
   <item>
-    <name>Davy Jones's Key (TP)</name>
+    <name>Davy Jones's Key [TP Legacy]</name>
     <detail>trident, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1784,7 +1784,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 68 (Third Party)</text>
     <roll description="Bludgeoning Damage">1d6</roll>
   </item>
   <item>
-    <name>Dawn and Dusk (TP)</name>
+    <name>Dawn and Dusk [TP Legacy]</name>
     <detail>mace, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1801,7 +1801,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 69 (Third Party)</text>
     <roll description="Necrotic Damage">1d6</roll>
   </item>
   <item>
-    <name>Death's Shadow (TP)</name>
+    <name>Death's Shadow [TP Legacy]</name>
     <detail>legendary</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1814,7 +1814,7 @@ Shadow Form: When you are reduced to 0 hit points while wearing this amulet, a s
 Source:	The Griffon's Saddlebag: Book Two p. 69 (Third Party)</text>
   </item>
   <item>
-    <name>Deathloop Watch (TP)</name>
+    <name>Deathloop Watch [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1823,7 +1823,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 69 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 69 (Third Party)</text>
   </item>
   <item>
-    <name>Deathly Diadem (TP)</name>
+    <name>Deathly Diadem [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1835,7 +1835,7 @@ Curse: This crown is cursed, a fact that is only revealed to you when you die. T
 Source:	The Griffon's Saddlebag: Book Two p. 70 (Third Party)</text>
   </item>
   <item>
-    <name>Detective's Notebook (TP)</name>
+    <name>Detective's Notebook [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1845,7 +1845,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 70 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 70 (Third Party)</text>
   </item>
   <item>
-    <name>Direstone Dwarven Key (TP)</name>
+    <name>Direstone Dwarven Key [TP Legacy]</name>
     <detail>handaxe, uncommon (requires attunement by a dwarf)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -1870,7 +1870,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 70 (Third Party)</text>
     <roll description="Bludgeoning Damage">1d6</roll>
   </item>
   <item>
-    <name>Direstone Runic Wand (TP)</name>
+    <name>Direstone Runic Wand [TP Legacy]</name>
     <detail>wand, rare (requires attunement by a spellcaster)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -1892,7 +1892,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 71 (Third Party)</text>
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>Diviner's Dice (TP)</name>
+    <name>Diviner's Dice [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1901,7 +1901,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 71 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 71 (Third Party)</text>
   </item>
   <item>
-    <name>Djinn and Tonic (Common) (TP)</name>
+    <name>Djinn and Tonic (Common) [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1911,7 +1911,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 71 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 71 (Third Party)</text>
   </item>
   <item>
-    <name>Djinn and Tonic (Rare) (TP)</name>
+    <name>Djinn and Tonic (Rare) [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -1922,7 +1922,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 71 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 71 (Third Party)</text>
   </item>
   <item>
-    <name>Dominic's Field Guide to Language (TP)</name>
+    <name>Dominic's Field Guide to Language [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1932,7 +1932,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 71 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 71 (Third Party)</text>
   </item>
   <item>
-    <name>Doom Bloom (TP)</name>
+    <name>Doom Bloom [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1945,7 +1945,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 72 (Third Party)</text>
     <roll description="Psychic Damage">6d6</roll>
   </item>
   <item>
-    <name>Doubloon Diver's Goggles (TP)</name>
+    <name>Doubloon Diver's Goggles [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1954,7 +1954,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 72 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 72 (Third Party)</text>
   </item>
   <item>
-    <name>Dragon Horn Pauldron (TP)</name>
+    <name>Dragon Horn Pauldron [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1979,7 +1979,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 73 (Third Party)</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Dragonband (TP)</name>
+    <name>Dragonband [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -1997,7 +1997,7 @@ Silver | Cold
 Source:	The Griffon's Saddlebag: Book Two p. 73 (Third Party)</text>
   </item>
   <item>
-    <name>Dragonbreath Arrow (TP)</name>
+    <name>Dragonbreath Arrow [TP Legacy]</name>
     <detail>rare</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -2016,7 +2016,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 74 (Third Party)</text>
     <roll description="Elemental Damage">4d8</roll>
   </item>
   <item>
-    <name>Dragonbreath Bolt (TP)</name>
+    <name>Dragonbreath Bolt [TP Legacy]</name>
     <detail>rare</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -2035,7 +2035,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 74 (Third Party)</text>
     <roll description="Elemental Damage">4d8</roll>
   </item>
   <item>
-    <name>Dramus's Dancing Shoes (TP)</name>
+    <name>Dramus's Dancing Shoes [TP Legacy]</name>
     <detail>uncommon (requires attunement by a bard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2044,7 +2044,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 74 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 74 (Third Party)</text>
   </item>
   <item>
-    <name>Dream Saber (TP)</name>
+    <name>Dream Saber [TP Legacy]</name>
     <detail>scimitar, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2065,7 +2065,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 74 (Third Party)</text>
     <roll description="Psychic Damage">1d4</roll>
   </item>
   <item>
-    <name>Dress of Defense (TP)</name>
+    <name>Dress of Defense [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2075,7 +2075,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 74 (Third Party)</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Dress of Many Pockets (TP)</name>
+    <name>Dress of Many Pockets [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2084,7 +2084,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 74 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 74 (Third Party)</text>
   </item>
   <item>
-    <name>Drowner's Pearl (TP)</name>
+    <name>Drowner's Pearl [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2093,7 +2093,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 74 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 75 (Third Party)</text>
   </item>
   <item>
-    <name>Dune Cowl (TP)</name>
+    <name>Dune Cowl [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2105,7 +2105,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 75 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 75 (Third Party)</text>
   </item>
   <item>
-    <name>Dusk Cleaver (TP)</name>
+    <name>Dusk Cleaver [TP Legacy]</name>
     <detail>handaxe, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2129,7 +2129,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 75 (Third Party)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Dusk Dagger (Uncommon) (TP)</name>
+    <name>Dusk Dagger (Uncommon) [TP Legacy]</name>
     <detail>dagger, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2153,7 +2153,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 76 (Third Party)</text>
     <roll description="Psychic Damage">1d4</roll>
   </item>
   <item>
-    <name>Dusk Dagger (Rare) (TP)</name>
+    <name>Dusk Dagger (Rare) [TP Legacy]</name>
     <detail>dagger, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2177,7 +2177,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 76 (Third Party)</text>
     <roll description="Psychic Damage">1d8</roll>
   </item>
   <item>
-    <name>Dusk Dagger (Very Rare) (TP)</name>
+    <name>Dusk Dagger (Very Rare) [TP Legacy]</name>
     <detail>dagger, very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2201,7 +2201,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 76 (Third Party)</text>
     <roll description="Psychic Damage">1d8</roll>
   </item>
   <item>
-    <name>Dwarven Boozehound's Backpack (TP)</name>
+    <name>Dwarven Boozehound's Backpack [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2213,7 +2213,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 76 (Third Party)</text>
     <roll description="Bludgeoning Damage">1d8</roll>
   </item>
   <item>
-    <name>Ear Cuff of the Climber (TP)</name>
+    <name>Ear Cuff of the Climber [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2222,7 +2222,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 76 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 76 (Third Party)</text>
   </item>
   <item>
-    <name>Eclipse Spear (TP)</name>
+    <name>Eclipse Spear [TP Legacy]</name>
     <detail>spear, uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2245,7 +2245,7 @@ Proficiency: simple, spear
 Source:	The Griffon's Saddlebag: Book Two p. 76 (Third Party)</text>
   </item>
   <item>
-    <name>Egg of Primal Water (TP)</name>
+    <name>Egg of Primal Water [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2255,7 +2255,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 76 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 76 (Third Party)</text>
   </item>
   <item>
-    <name>Ehagan's Moving Ladder (TP)</name>
+    <name>Ehagan's Moving Ladder [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2265,7 +2265,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 76 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 77 (Third Party)</text>
   </item>
   <item>
-    <name>Elder Sequoia Scale Mail (TP)</name>
+    <name>Elder Sequoia Scale Mail [TP Legacy]</name>
     <detail>rare (requires attunement by a druid)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2283,7 +2283,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 77 (Third Party)</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Eldritch Bident (TP)</name>
+    <name>Eldritch Bident [TP Legacy]</name>
     <detail>trident, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2317,7 +2317,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 77 (Third Party)</text>
     <roll description="Psychic Damage">2d12</roll>
   </item>
   <item>
-    <name>Enzymatic Gastrostaff (TP)</name>
+    <name>Enzymatic Gastrostaff [TP Legacy]</name>
     <detail>spellcasting focus, very rare (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -2335,7 +2335,7 @@ Proficiency: simple, staff, quarterstaff
 Source:	The Griffon's Saddlebag: Book Two p. 78 (Third Party)</text>
   </item>
   <item>
-    <name>Everglacier Prosthesis (TP)</name>
+    <name>Everglacier Prosthesis [TP Legacy]</name>
     <detail>rare (requires attunement by a creature missing a hand, arm, or leg)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2347,7 +2347,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 78 (Third Party)</text>
     <roll description="Regrow Spikes">1d4+2</roll>
   </item>
   <item>
-    <name>Evoker's Exchange (TP)</name>
+    <name>Evoker's Exchange [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2357,7 +2357,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 78 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 78 (Third Party)</text>
   </item>
   <item>
-    <name>Eyedrops of Clarity (TP)</name>
+    <name>Eyedrops of Clarity [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2367,7 +2367,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 79 (Third Party)</text>
     <roll description="Doses">1d4+2</roll>
   </item>
   <item>
-    <name>Eyes of the Beheld (TP)</name>
+    <name>Eyes of the Beheld [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2378,7 +2378,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 79 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 79 (Third Party)</text>
   </item>
   <item>
-    <name>Faeflame Torch (TP)</name>
+    <name>Faeflame Torch [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2389,7 +2389,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 79 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 79 (Third Party)</text>
   </item>
   <item>
-    <name>Failed Purity Spear (TP)</name>
+    <name>Failed Purity Spear [TP Legacy]</name>
     <detail>spear, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2422,7 +2422,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 80 (Third Party)</text>
     <roll description="Piercing Damage">1d6</roll>
   </item>
   <item>
-    <name>Fell-Rider Chariot (TP)</name>
+    <name>Fell-Rider Chariot [TP Legacy]</name>
     <detail>legendary</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2436,7 +2436,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 81 (Third Party)</text>
     <roll description="Days">1d4+1</roll>
   </item>
   <item>
-    <name>Felling Greataxe (TP)</name>
+    <name>Felling Greataxe [TP Legacy]</name>
     <detail>greataxe, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2455,7 +2455,7 @@ Proficiency: martial, greataxe
 Source:	The Griffon's Saddlebag: Book Two p. 81 (Third Party)</text>
   </item>
   <item>
-    <name>Feywatch Shield (TP)</name>
+    <name>Feywatch Shield [TP Legacy]</name>
     <detail>shield, uncommon</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -2468,7 +2468,7 @@ Wielding a shield increases your Armor Class by 2. You can benefit from only one
 Source:	The Griffon's Saddlebag: Book Two p. 81 (Third Party)</text>
   </item>
   <item>
-    <name>Feywood Ivy (TP)</name>
+    <name>Feywood Ivy [TP Legacy]</name>
     <detail>uncommon (requires attunement by a druid, ranger, or fey creature)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2479,7 +2479,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 81 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 81 (Third Party)</text>
   </item>
   <item>
-    <name>Fists of the Guiding Star (TP)</name>
+    <name>Fists of the Guiding Star [TP Legacy]</name>
     <detail>uncommon (requires attunement by a monk)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2489,7 +2489,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 81 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 81 (Third Party)</text>
   </item>
   <item>
-    <name>Flamebreather Staff (TP)</name>
+    <name>Flamebreather Staff [TP Legacy]</name>
     <detail>quarterstaff, uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2508,7 +2508,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 82 (Third Party)</text>
     <roll description="Fire Damage">1d4</roll>
   </item>
   <item>
-    <name>Flood Pauldron (TP)</name>
+    <name>Flood Pauldron [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2520,7 +2520,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 82 (Third Party)</text>
     <roll description="Bludgeoning Damage">4d6</roll>
   </item>
   <item>
-    <name>Focus Breaker (TP)</name>
+    <name>Focus Breaker [TP Legacy]</name>
     <detail>maul, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2540,7 +2540,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 82 (Third Party)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Focus Circlet (TP)</name>
+    <name>Focus Circlet [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2549,7 +2549,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 82 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 82 (Third Party)</text>
   </item>
   <item>
-    <name>Fool's Lamp (TP)</name>
+    <name>Fool's Lamp [TP Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2581,7 +2581,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 82 (Third Party)</text>
     <roll description="Years">1d10</roll>
   </item>
   <item>
-    <name>Forecaster's Cloak (TP)</name>
+    <name>Forecaster's Cloak [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2590,7 +2590,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 82 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 84 (Third Party)</text>
   </item>
   <item>
-    <name>Forgekeeper's Spark (TP)</name>
+    <name>Forgekeeper's Spark [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2611,7 +2611,7 @@ Personality: The forgekeeper's spark is happiest in the fires of a forge, but al
 Source:	The Griffon's Saddlebag: Book Two p. 84 (Third Party)</text>
   </item>
   <item>
-    <name>Forgework Dragon Shield (TP)</name>
+    <name>Forgework Dragon Shield [TP Legacy]</name>
     <detail>shield, rare</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -2627,7 +2627,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 84 (Third Party)</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Fortune's Flower (TP)</name>
+    <name>Fortune's Flower [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2638,7 +2638,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 84 (Third Party)</text>
     <roll description="New Fortune's Flowers">1d6</roll>
   </item>
   <item>
-    <name>Foxfire Charm (TP)</name>
+    <name>Foxfire Charm [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2648,7 +2648,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 84 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 85 (Third Party)</text>
   </item>
   <item>
-    <name>Frostburn Spear (TP)</name>
+    <name>Frostburn Spear [TP Legacy]</name>
     <detail>spear, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2673,7 +2673,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 85 (Third Party)</text>
     <roll description="Cold Damage">1d6</roll>
   </item>
   <item>
-    <name>Furious Flail (TP)</name>
+    <name>Furious Flail [TP Legacy]</name>
     <detail>flail, very rare (requires attunement by a barbarian)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2698,7 +2698,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 86 (Third Party)</text>
     <roll description="Fire Damage">2d12</roll>
   </item>
   <item>
-    <name>Fused Chimeric Hide (TP)</name>
+    <name>Fused Chimeric Hide [TP Legacy]</name>
     <detail>hide armor, rare (requires attunement by a barbarian or druid)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -2722,7 +2722,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 86 (Third Party)</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Gateway Ring (TP)</name>
+    <name>Gateway Ring [TP Legacy]</name>
     <detail>very rare</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -2733,7 +2733,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 86 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 149 (Third Party)</text>
   </item>
   <item>
-    <name>Gauntlets of Deliverance (TP)</name>
+    <name>Gauntlets of Deliverance [TP Legacy]</name>
     <detail>uncommon (requires attunement by a paladin)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2743,7 +2743,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 149 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 87 (Third Party)</text>
   </item>
   <item>
-    <name>Gauntlets of Eldritch Ferocity (TP)</name>
+    <name>Gauntlets of Eldritch Ferocity [TP Legacy]</name>
     <detail>rare (requires attunement by a warlock)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2754,7 +2754,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 87 (Third Party)</text>
     <roll description="Necrotic Damage">3d12</roll>
   </item>
   <item>
-    <name>Gelatinous Whip (TP)</name>
+    <name>Gelatinous Whip [TP Legacy]</name>
     <detail>whip, uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2773,7 +2773,7 @@ Proficiency: martial, whip
 Source:	The Griffon's Saddlebag: Book Two p. 87 (Third Party)</text>
   </item>
   <item>
-    <name>Gi of Shifting Seasons(HB) (TP)</name>
+    <name>Gi of Shifting Seasons [HB Legacy]</name>
     <detail>rare (requires attunement by a monk)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2792,7 +2792,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 88 (Third Party)</text>
     <roll description="Temporary Hit Points">1d4+4</roll>
   </item>
   <item>
-    <name>Giantcraft Ambusher (TP)</name>
+    <name>Giantcraft Ambusher [TP Legacy]</name>
     <detail>greataxe, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2814,7 +2814,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 88 (Third Party)</text>
     <roll description="Slashing Damage">2d12</roll>
   </item>
   <item>
-    <name>Gladius of the Everfighter (TP)</name>
+    <name>Gladius of the Everfighter [TP Legacy]</name>
     <detail>shortsword, legendary (requires attunement by a fighter)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2842,7 +2842,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 88 (Third Party)</text>
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Glaive of the Revenant King (TP)</name>
+    <name>Glaive of the Revenant King [TP Legacy]</name>
     <detail>glaive, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2874,7 +2874,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 89 (Third Party)</text>
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Glass Carver (TP)</name>
+    <name>Glass Carver [TP Legacy]</name>
     <detail>dagger, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -2899,7 +2899,7 @@ Proficiency: simple, dagger
 Source:	The Griffon's Saddlebag: Book Two p. 89 (Third Party)</text>
   </item>
   <item>
-    <name>Gloves of Amphibios (TP)</name>
+    <name>Gloves of Amphibios [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2909,7 +2909,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 90 (Third Party)</text>
     <roll description="Poison Damage">1d4</roll>
   </item>
   <item>
-    <name>Gloves of Healing (TP)</name>
+    <name>Gloves of Healing [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2919,7 +2919,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 90 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 90 (Third Party)</text>
   </item>
   <item>
-    <name>Gloves of Mimicry (TP)</name>
+    <name>Gloves of Mimicry [TP Legacy]</name>
     <detail>very rare (requires attunement by a bard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2942,7 +2942,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 90 (Third Party)</text>
     <roll description="Force Damage">2d4</roll>
   </item>
   <item>
-    <name>Gloves of the Great Badger (TP)</name>
+    <name>Gloves of the Great Badger [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2959,7 +2959,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 91 (Third Party)</text>
     <roll description="Unarmed Slashing Damage">1d4+%1</roll>
   </item>
   <item>
-    <name>Gnashing Key (TP)</name>
+    <name>Gnashing Key [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2969,7 +2969,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 91 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 91 (Third Party)</text>
   </item>
   <item>
-    <name>Godsteel Warplate (TP)</name>
+    <name>Godsteel Warplate [TP Legacy]</name>
     <detail>plate armor, legendary (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -2988,7 +2988,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 92 (Third Party)</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Golem Sapper (TP)</name>
+    <name>Golem Sapper [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -2999,7 +2999,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 92 (Third Party)</text>
     <roll description="Necrotic Damage">2d10</roll>
   </item>
   <item>
-    <name>Gorget of the Holy Soldier (TP)</name>
+    <name>Gorget of the Holy Soldier [TP Legacy]</name>
     <detail>legendary (requires attunement by a creature of good alignment)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3033,7 +3033,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 92 (Third Party)</text>
     <roll description="Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Grasping Staff (TP)</name>
+    <name>Grasping Staff [TP Legacy]</name>
     <detail>spellcasting focus, very rare (requires attunement by a warlock or wizard)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -3056,7 +3056,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 93 (Third Party)</text>
     <roll description="Hostile Tiny Undead">2d6</roll>
   </item>
   <item>
-    <name>Great Owl's Shroud (TP)</name>
+    <name>Great Owl's Shroud [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3067,7 +3067,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 94 (Third Party)</text>
     <roll description="Force Damage">2d4+3</roll>
   </item>
   <item>
-    <name>Green Knight's Vow (TP)</name>
+    <name>Green Knight's Vow [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3085,7 +3085,7 @@ Flaw: The Green Knight's vow makes its wearer tremendously loyal to royalty. Whi
 Source:	The Griffon's Saddlebag: Book Two p. 94 (Third Party)</text>
   </item>
   <item>
-    <name>Griffon Coinpouch (TP)</name>
+    <name>Griffon Coinpouch [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3108,7 +3108,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 95 (Third Party)</text>
     <roll description="Message">1d8</roll>
   </item>
   <item>
-    <name>Griffon Component Pack (TP)</name>
+    <name>Griffon Component Pack [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3118,7 +3118,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 95 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 95 (Third Party)</text>
   </item>
   <item>
-    <name>Griffon Key Loop (TP)</name>
+    <name>Griffon Key Loop [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3128,7 +3128,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 95 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 95 (Third Party)</text>
   </item>
   <item>
-    <name>Guardian's Reliquary (TP)</name>
+    <name>Guardian's Reliquary [TP Legacy]</name>
     <detail>legendary (requires attunement by a creature missing an arm)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3142,7 +3142,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 96 (Third Party)</text>
     <modifier category="bonus">saving throws +3</modifier>
   </item>
   <item>
-    <name>Gusting Blowgun (TP)</name>
+    <name>Gusting Blowgun [TP Legacy]</name>
     <detail>blowgun, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -3166,7 +3166,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 96 (Third Party)</text>
     <roll description="Bludgeoning Damage">1d4</roll>
   </item>
   <item>
-    <name>H'rethi Soul Scepter (TP)</name>
+    <name>H'rethi Soul Scepter [TP Legacy]</name>
     <detail>spellcasting focus, legendary (requires attunement by a spellcaster)</detail>
     <type>RD</type>
     <magic>YES</magic>
@@ -3191,7 +3191,7 @@ The elemental remains as long as you concentrate (as if concentrating on a spell
 Source:	The Griffon's Saddlebag: Book Two p. 96 (Third Party)</text>
   </item>
   <item>
-    <name>Hadiya's Handy Quill (TP)</name>
+    <name>Hadiya's Handy Quill [TP Legacy]</name>
     <detail>dart, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -3214,7 +3214,7 @@ Proficiency: simple, dart
 Source:	The Griffon's Saddlebag: Book Two p. 97 (Third Party)</text>
   </item>
   <item>
-    <name>Half Plate of the Blind Martyr (TP)</name>
+    <name>Half Plate of the Blind Martyr [TP Legacy]</name>
     <detail>half plate armor, legendary (requires attunement by a cleric)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -3243,7 +3243,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 97 (Third Party)</text>
     <roll description="Recharge">1d4+4</roll>
   </item>
   <item>
-    <name>Harbinger's Flail (TP)</name>
+    <name>Harbinger's Flail [TP Legacy]</name>
     <detail>flail, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3258,7 +3258,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 98 (Third Party)</text>
     <roll description="Thunder Damage">1d4</roll>
   </item>
   <item>
-    <name>Harvest (TP)</name>
+    <name>Harvest [TP Legacy]</name>
     <detail>sickle, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3275,7 +3275,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 98 (Third Party)</text>
     <roll description="Slashing Damage">1d6</roll>
   </item>
   <item>
-    <name>Hat of Osnomnosis (TP)</name>
+    <name>Hat of Osnomnosis [TP Legacy]</name>
     <detail>common (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3289,7 +3289,7 @@ Personality: The hat loves nothing more than being worn and eating bits of paper
 Source:	The Griffon's Saddlebag: Book Two p. 98 (Third Party)</text>
   </item>
   <item>
-    <name>Hat of the Sanguine Coven (TP)</name>
+    <name>Hat of the Sanguine Coven [TP Legacy]</name>
     <detail>uncommon (requires attunement by a sorcerer, warlock, or wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3302,7 +3302,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 98 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 98 (Third Party)</text>
   </item>
   <item>
-    <name>Headband of the Sweatless (TP)</name>
+    <name>Headband of the Sweatless [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3312,7 +3312,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 98 (Third Party)</text>
     <roll description="Add to Roll">1d4</roll>
   </item>
   <item>
-    <name>Headdress of the Serpent King (TP)</name>
+    <name>Headdress of the Serpent King [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3324,7 +3324,7 @@ Curse: This headdress is cursed, and becoming attuned to it extends that curse t
 Source:	The Griffon's Saddlebag: Book Two p. 99 (Third Party)</text>
   </item>
   <item>
-    <name>Headhunter's Bullseye Lantern (TP)</name>
+    <name>Headhunter's Bullseye Lantern [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3333,7 +3333,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 99 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 99 (Third Party)</text>
   </item>
   <item>
-    <name>Heart of Damned Intervention (TP)</name>
+    <name>Heart of Damned Intervention [TP Legacy]</name>
     <detail>legendary (requires attunement by a cleric or paladin)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3353,7 +3353,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 99 (Third Party)</text>
     <roll description="Fire Damage">1d12</roll>
   </item>
   <item>
-    <name>Heartless Cage Pendant (TP)</name>
+    <name>Heartless Cage Pendant [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3367,7 +3367,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 100 (Third Party)</text>
     <roll description="Temporary Hit Points">2d6+25</roll>
   </item>
   <item>
-    <name>Heaven's Edge (TP)</name>
+    <name>Heaven's Edge [TP Legacy]</name>
     <detail>dagger, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3395,7 +3395,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 100 (Third Party)</text>
     <roll description="Radiant Damage">4d4</roll>
   </item>
   <item>
-    <name>Heaven's Gavel (TP)</name>
+    <name>Heaven's Gavel [TP Legacy]</name>
     <detail>maul, legendary (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3419,7 +3419,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 101 (Third Party)</text>
     <roll description="Bludgeoning Damage">1d6</roll>
   </item>
   <item>
-    <name>Heavenly Chalice (TP)</name>
+    <name>Heavenly Chalice [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3431,7 +3431,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 101 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 101 (Third Party)</text>
   </item>
   <item>
-    <name>Heavy Golem Armor (TP)</name>
+    <name>Heavy Golem Armor [TP Legacy]</name>
     <detail>plate armor, rare (requires attunement by a small humanoid)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -3453,7 +3453,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 101 (Third Party)</text>
     <roll description="Fire Damage">1d10</roll>
   </item>
   <item>
-    <name>Hedgewitch's Gardening Cane (TP)</name>
+    <name>Hedgewitch's Gardening Cane [TP Legacy]</name>
     <detail>spellcasting focus, common</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -3470,7 +3470,7 @@ Proficiency: simple, staff, quarterstaff
 Source:	The Griffon's Saddlebag: Book Two p. 101 (Third Party)</text>
   </item>
   <item>
-    <name>Hedonic Motivator (TP)</name>
+    <name>Hedonic Motivator [TP Legacy]</name>
     <detail>whip, uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3494,7 +3494,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 102 (Third Party)</text>
     <roll description="Add to Roll">1d4+2</roll>
   </item>
   <item>
-    <name>Helm of the Broken Dragon (TP)</name>
+    <name>Helm of the Broken Dragon [TP Legacy]</name>
     <detail>very rare (requires attunement by a non-lawful dragonborn)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3505,7 +3505,7 @@ Curse: This helmet is cursed with gnawing insecurity and self-doubt. Attuning to
 Source:	The Griffon's Saddlebag: Book Two p. 102 (Third Party)</text>
   </item>
   <item>
-    <name>Helm of the Chromatic Dragon (TP)</name>
+    <name>Helm of the Chromatic Dragon [TP Legacy]</name>
     <detail>very rare (requires attunement by a dragonborn of evil alignment)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3517,7 +3517,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 102 (Third Party)</text>
     <roll description="Regain Breath">1d6</roll>
   </item>
   <item>
-    <name>Helm of the Justicars (TP)</name>
+    <name>Helm of the Justicars [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3529,7 +3529,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 102 (Third Party)</text>
     <roll description="Recharge">2d6</roll>
   </item>
   <item>
-    <name>Helm of the Platinum Dragon (TP)</name>
+    <name>Helm of the Platinum Dragon [TP Legacy]</name>
     <detail>very rare (requires attunement by a dragonborn of good alignment)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3539,7 +3539,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 103 (Third Party)</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Helm of the Ruby Dragon (TP)</name>
+    <name>Helm of the Ruby Dragon [TP Legacy]</name>
     <detail>very rare (requires attunement by a dragonborn of neutral alignment)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3550,7 +3550,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 103 (Third Party)</text>
     <roll description="Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Hideaway Vase (TP)</name>
+    <name>Hideaway Vase [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3562,7 +3562,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 103 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 104 (Third Party)</text>
   </item>
   <item>
-    <name>Hoarder's Haul (Uncommon) (TP)</name>
+    <name>Hoarder's Haul (Uncommon) [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3574,7 +3574,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 104 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 104 (Third Party)</text>
   </item>
   <item>
-    <name>Hoarder's Haul (Rare) (TP)</name>
+    <name>Hoarder's Haul (Rare) [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3587,7 +3587,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 104 (Third Party)</text>
     <roll description="Psychic Damage">3d6</roll>
   </item>
   <item>
-    <name>Hoarder's Haul (Very Rare) (TP)</name>
+    <name>Hoarder's Haul (Very Rare) [TP Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3600,7 +3600,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 104 (Third Party)</text>
     <roll description="Psychic Damage">6d6</roll>
   </item>
   <item>
-    <name>Homeroot (TP)</name>
+    <name>Homeroot [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3615,7 +3615,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 104 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 105 (Third Party)</text>
   </item>
   <item>
-    <name>Homeward Boots (TP)</name>
+    <name>Homeward Boots [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3627,7 +3627,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 106 (Third Party)</text>
     <roll description="Days">1d3</roll>
   </item>
   <item>
-    <name>Horatio's Impossible Ship in a Bottle (TP)</name>
+    <name>Horatio's Impossible Ship in a Bottle [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3638,7 +3638,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 106 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 106 (Third Party)</text>
   </item>
   <item>
-    <name>Horn of the Wild Hunt (TP)</name>
+    <name>Horn of the Wild Hunt [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3651,7 +3651,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 106 (Third Party)</text>
     <roll description="Force Damage">4d10</roll>
   </item>
   <item>
-    <name>Hour and Minute (Dagger) (TP)</name>
+    <name>Hour and Minute (Dagger) [TP Legacy]</name>
     <detail>dagger, very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3686,7 +3686,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 107 (Third Party)</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Hour and Minute (Shortsword) (TP)</name>
+    <name>Hour and Minute (Shortsword) [TP Legacy]</name>
     <detail>shortsword, very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3716,7 +3716,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 107 (Third Party)</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Hourglass of Slumber (TP)</name>
+    <name>Hourglass of Slumber [TP Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3731,7 +3731,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 107 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Hushed Ring (TP)</name>
+    <name>Hushed Ring [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -3741,7 +3741,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 107 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 108 (Third Party)</text>
   </item>
   <item>
-    <name>Hydra Charm (TP)</name>
+    <name>Hydra Charm [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3762,7 +3762,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 108 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 108 (Third Party)</text>
   </item>
   <item>
-    <name>Hydra Flail (TP)</name>
+    <name>Hydra Flail [TP Legacy]</name>
     <detail>flail, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3776,7 +3776,7 @@ Proficiency: martial, flail
 Source:	The Griffon's Saddlebag: Book Two p. 108 (Third Party)</text>
   </item>
   <item>
-    <name>Impact Plate (TP)</name>
+    <name>Impact Plate [TP Legacy]</name>
     <detail>plate armor, very rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -3794,7 +3794,7 @@ Proficiency: heavy armor
 Source:	The Griffon's Saddlebag: Book Two p. 108 (Third Party)</text>
   </item>
   <item>
-    <name>Indigo Stray's Conviction (TP)</name>
+    <name>Indigo Stray's Conviction [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3814,7 +3814,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 108 (Third Party)</text>
     <roll description="Necrotic Damage">2d8</roll>
   </item>
   <item>
-    <name>Infernal Chain (TP)</name>
+    <name>Infernal Chain [TP Legacy]</name>
     <detail>flail, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3834,7 +3834,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 109 (Third Party)</text>
     <roll description="Fire Damage">2d8</roll>
   </item>
   <item>
-    <name>Inker's Armband (TP)</name>
+    <name>Inker's Armband [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3843,7 +3843,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 109 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 110 (Third Party)</text>
   </item>
   <item>
-    <name>Insatiable Tome (TP)</name>
+    <name>Insatiable Tome [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3854,7 +3854,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 110 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 110 (Third Party)</text>
   </item>
   <item>
-    <name>Inspector's Silverware (TP)</name>
+    <name>Inspector's Silverware [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3863,7 +3863,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 110 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 110 (Third Party)</text>
   </item>
   <item>
-    <name>Instrument of Roses and Thorns(HB) (TP)</name>
+    <name>Instrument of Roses and Thorns [HB Legacy]</name>
     <detail>instrument, very rare (requires attunement by a bard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -3875,7 +3875,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 111 (Third Party)</text>
     <roll description="Necrotic Damage">2d6</roll>
   </item>
   <item>
-    <name>Ironleaf Impaler Javelin (TP)</name>
+    <name>Ironleaf Impaler Javelin [TP Legacy]</name>
     <detail>javelin, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3900,7 +3900,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 111 (Third Party)</text>
     <roll description="Piercing Damage">1d8</roll>
   </item>
   <item>
-    <name>Ironleaf Impaler Spear (TP)</name>
+    <name>Ironleaf Impaler Spear [TP Legacy]</name>
     <detail>spear, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3928,7 +3928,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 111 (Third Party)</text>
     <roll description="Piercing Damage">1d8</roll>
   </item>
   <item>
-    <name>Jo'Catian Denier Longsword (TP)</name>
+    <name>Jo'Catian Denier Longsword [TP Legacy]</name>
     <detail>longsword, uncommon (requires attunement by a creature of neutral alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3955,7 +3955,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 111 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Jo'Catian Denier Scimitar (TP)</name>
+    <name>Jo'Catian Denier Scimitar [TP Legacy]</name>
     <detail>scimitar, uncommon (requires attunement by a creature of neutral alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -3983,7 +3983,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 111 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Jo'Catian Denier Shortsword (TP)</name>
+    <name>Jo'Catian Denier Shortsword [TP Legacy]</name>
     <detail>shortsword, uncommon (requires attunement by a creature of neutral alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4011,7 +4011,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 111 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Jo'Catian Rebuker (TP)</name>
+    <name>Jo'Catian Rebuker [TP Legacy]</name>
     <detail>shield, uncommon (requires attunement by a creature of neutral alignment)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -4030,7 +4030,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 111 (Third Party)</text>
     <roll description="Damage Reduction">1d6</roll>
   </item>
   <item>
-    <name>Kestra's Bent Spoon (TP)</name>
+    <name>Kestra's Bent Spoon [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4045,7 +4045,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 111 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 112 (Third Party)</text>
   </item>
   <item>
-    <name>Ki Blade (TP)</name>
+    <name>Ki Blade [TP Legacy]</name>
     <detail>shortsword, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4067,7 +4067,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 112 (Third Party)</text>
     <roll description="Damage Reduction">1d10</roll>
   </item>
   <item>
-    <name>Kinetic Bowstring (TP)</name>
+    <name>Kinetic Bowstring [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4076,7 +4076,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 112 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 112 (Third Party)</text>
   </item>
   <item>
-    <name>Kraken Band (TP)</name>
+    <name>Kraken Band [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4086,7 +4086,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 112 (Third Party)</text>
     <roll description="Acid Damage">1d6</roll>
   </item>
   <item>
-    <name>Lady Phantasma's Material Anchor (TP)</name>
+    <name>Lady Phantasma's Material Anchor [TP Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4098,7 +4098,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 112 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 113 (Third Party)</text>
   </item>
   <item>
-    <name>Lamian Facestealer (TP)</name>
+    <name>Lamian Facestealer [TP Legacy]</name>
     <detail>dagger, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4126,7 +4126,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 113 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Lash of the Spelldrinker (TP)</name>
+    <name>Lash of the Spelldrinker [TP Legacy]</name>
     <detail>whip, rare (requires attunement by a spellcaster)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4148,7 +4148,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 113 (Third Party)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Leatherbeard (TP)</name>
+    <name>Leatherbeard [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4160,7 +4160,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 113 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 114 (Third Party)</text>
   </item>
   <item>
-    <name>Life Tether Ankh (TP)</name>
+    <name>Life Tether Ankh [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4170,7 +4170,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 114 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 114 (Third Party)</text>
   </item>
   <item>
-    <name>Life Turner (TP)</name>
+    <name>Life Turner [TP Legacy]</name>
     <detail>legendary</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4180,7 +4180,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 114 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 114 (Third Party)</text>
   </item>
   <item>
-    <name>Life's Flower Restorative (TP)</name>
+    <name>Life's Flower Restorative [TP Legacy]</name>
     <detail>rare (requires attunement by a creature missing a hand, arm or leg)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4195,7 +4195,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 114 (Third Party)</text>
     <roll description="Regrow Flowers">1d6+4</roll>
   </item>
   <item>
-    <name>Light Sling (TP)</name>
+    <name>Light Sling [TP Legacy]</name>
     <detail>sling, common</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -4214,7 +4214,7 @@ Proficiency: simple, sling
 Source:	The Griffon's Saddlebag: Book Two p. 115 (Third Party)</text>
   </item>
   <item>
-    <name>Lightning Khopesh (TP)</name>
+    <name>Lightning Khopesh [TP Legacy]</name>
     <detail>scimitar, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4233,7 +4233,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 115 (Third Party)</text>
     <roll description="Lightning Damage">1d6</roll>
   </item>
   <item>
-    <name>Lightscreen Hover Boots (TP)</name>
+    <name>Lightscreen Hover Boots [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4246,7 +4246,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 115 (Third Party)</text>
     <roll description="Hours">1d4</roll>
   </item>
   <item>
-    <name>Lightseer's Gaze (TP)</name>
+    <name>Lightseer's Gaze [TP Legacy]</name>
     <detail>legendary (requires attunement by a monk)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4268,7 +4268,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 116 (Third Party)</text>
     <roll description="Psychic Damage">5d10</roll>
   </item>
   <item>
-    <name>Locket of the Stolen Heart (TP)</name>
+    <name>Locket of the Stolen Heart [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4280,7 +4280,7 @@ Curse: This locket is cursed, and if the creature you love most is dead while yo
 Source:	The Griffon's Saddlebag: Book Two p. 116 (Third Party)</text>
   </item>
   <item>
-    <name>Luckleaf (TP)</name>
+    <name>Luckleaf [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4289,7 +4289,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 116 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 116 (Third Party)</text>
   </item>
   <item>
-    <name>Luna Moth Cape (TP)</name>
+    <name>Luna Moth Cape [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4299,7 +4299,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 116 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 117 (Third Party)</text>
   </item>
   <item>
-    <name>Lupine Mask (TP)</name>
+    <name>Lupine Mask [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4308,7 +4308,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 117 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 117 (Third Party)</text>
   </item>
   <item>
-    <name>Mace of the Priest (TP)</name>
+    <name>Mace of the Priest [TP Legacy]</name>
     <detail>mace, rare (requires attunement by a cleric)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4325,7 +4325,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 117 (Third Party)</text>
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Mace of the Pumpkin King (TP)</name>
+    <name>Mace of the Pumpkin King [TP Legacy]</name>
     <detail>mace, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4339,7 +4339,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 117 (Third Party)</text>
     <roll description="Fire Damage">1d4</roll>
   </item>
   <item>
-    <name>Mage Eater Scythe (TP)</name>
+    <name>Mage Eater Scythe [TP Legacy]</name>
     <detail>glaive, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4364,7 +4364,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 117 (Third Party)</text>
     <roll description="Extra Necrotic Damage">1d10</roll>
   </item>
   <item>
-    <name>Magebane Poison (TP)</name>
+    <name>Magebane Poison [TP Legacy]</name>
     <detail>very rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -4375,7 +4375,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 118 (Third Party)</text>
     <roll description="Psychic Damage">4d6</roll>
   </item>
   <item>
-    <name>Magentan Sun-Saw (Uncommon) (TP)</name>
+    <name>Magentan Sun-Saw (Uncommon) [TP Legacy]</name>
     <detail>scimitar, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4396,7 +4396,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 118 (Third Party)</text>
     <roll description="Extra Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Magentan Sun-Saw (Very Rare) (TP)</name>
+    <name>Magentan Sun-Saw (Very Rare) [TP Legacy]</name>
     <detail>scimitar, common</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4419,7 +4419,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 118 (Third Party)</text>
     <roll description="Extra Radiant Damage">2d6</roll>
   </item>
   <item>
-    <name>Mageplate Ring  (TP)</name>
+    <name>Mageplate Ring [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -4428,7 +4428,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 118 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 118 (Third Party)</text>
   </item>
   <item>
-    <name>Magnificent Pocket Vanity (TP)</name>
+    <name>Magnificent Pocket Vanity [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4449,7 +4449,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 118 (Third Party)</text>
     <roll description="Random Appearance">1d6</roll>
   </item>
   <item>
-    <name>Mandible Bident (TP)</name>
+    <name>Mandible Bident [TP Legacy]</name>
     <detail>trident, uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4473,7 +4473,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 118 (Third Party)</text>
     <roll description="Bludgeoning Damage">1d8</roll>
   </item>
   <item>
-    <name>Mantle of Security (TP)</name>
+    <name>Mantle of Security [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4482,7 +4482,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 118 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 121 (Third Party)</text>
   </item>
   <item>
-    <name>Marlin Lunger (TP)</name>
+    <name>Marlin Lunger [TP Legacy]</name>
     <detail>rapier, uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4500,7 +4500,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 121 (Third Party)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Crocodile Mask of the Sacred Beasts (TP)</name>
+    <name>Crocodile Mask of the Sacred Beasts [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4511,7 +4511,7 @@ While wearing a crocodile mask, you gain a swimming speed of 30 feet and can hol
 Source:	The Griffon's Saddlebag: Book Two p. 121 (Third Party)</text>
   </item>
   <item>
-    <name>Lion Mask of the Sacred Beasts (TP)</name>
+    <name>Lion Mask of the Sacred Beasts [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4523,7 +4523,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 121 (Third Party)</text>
     <roll description="Unarmed Slashing Damage">1d6+%1</roll>
   </item>
   <item>
-    <name>Hawk Mask of the Sacred Beasts (TP)</name>
+    <name>Hawk Mask of the Sacred Beasts [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4534,7 +4534,7 @@ While wearing a hawk mask, you have advantage on Wisdom (Perception) checks that
 Source:	The Griffon's Saddlebag: Book Two p. 121 (Third Party)</text>
   </item>
   <item>
-    <name>Mule Mask of the Sacred Beasts (TP)</name>
+    <name>Mule Mask of the Sacred Beasts [TP Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4547,7 +4547,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 121 (Third Party)</text>
     <modifier category="ability score">strength +2</modifier>
   </item>
   <item>
-    <name>Jackal Mask of the Sacred Beasts (Legendary) (TP)</name>
+    <name>Jackal Mask of the Sacred Beasts (Legendary) [TP Legacy]</name>
     <detail>legendary</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4562,7 +4562,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 121 (Third Party)</text>
     <roll description="Necrotic Damage">7d8+30</roll>
   </item>
   <item>
-    <name>Matron's Mug (TP)</name>
+    <name>Matron's Mug [TP Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4571,7 +4571,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 121 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 122 (Third Party)</text>
   </item>
   <item>
-    <name>Medusan Lavalier (TP)</name>
+    <name>Medusan Lavalier [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4580,7 +4580,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 122 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 122 (Third Party)</text>
   </item>
   <item>
-    <name>Medusan Signet (TP)</name>
+    <name>Medusan Signet [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -4590,7 +4590,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 122 (Third Party)</text>
     <roll description="Temporary Hit Points">2d6+3</roll>
   </item>
   <item>
-    <name>Medzo's Crossbow (TP)</name>
+    <name>Medzo's Crossbow [TP Legacy]</name>
     <detail>hand crossbow, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -4625,7 +4625,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 122 (Third Party)</text>
     <roll description="Piercing Damage">1d6</roll>
   </item>
   <item>
-    <name>Meta Mantle (TP)</name>
+    <name>Meta Mantle [TP Legacy]</name>
     <detail>legendary (requires attunement by a sorcerer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4640,7 +4640,7 @@ Expanded Spell: When you cast a spell that affects an area such as a line, cone,
 Source:	The Griffon's Saddlebag: Book Two p. 122 (Third Party)</text>
   </item>
   <item>
-    <name>Meta Medallion (TP)</name>
+    <name>Meta Medallion [TP Legacy]</name>
     <detail>rare (requires attunement by a sorcerer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4649,7 +4649,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 122 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 122 (Third Party)</text>
   </item>
   <item>
-    <name>Mimicloak (TP)</name>
+    <name>Mimicloak [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4660,7 +4660,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 123 (Third Party)</text>
     <roll description="Piercing Damage">1d10</roll>
   </item>
   <item>
-    <name>Mindmaster's Monocle (TP)</name>
+    <name>Mindmaster's Monocle [TP Legacy]</name>
     <detail>very rare (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4675,7 +4675,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 123 (Third Party)</text>
     <roll description="Recharge">1d6+4</roll>
   </item>
   <item>
-    <name>Mistwalker Armor (TP)</name>
+    <name>Mistwalker Armor [TP Legacy]</name>
     <detail>leather armor, rare (requires attunement)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -4688,7 +4688,7 @@ Proficiency: light armor
 Source:	The Griffon's Saddlebag: Book Two p. 123 (Third Party)</text>
   </item>
   <item>
-    <name>Monarch Mantle (TP)</name>
+    <name>Monarch Mantle [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4699,7 +4699,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 123 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Monster Tamer's Shield (TP)</name>
+    <name>Monster Tamer's Shield [TP Legacy]</name>
     <detail>shield, rare (requires attunement)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -4713,7 +4713,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 124 (Third Party)</text>
     <roll description="Psychic Damage">1d4</roll>
   </item>
   <item>
-    <name>Moonstone Bracers (TP)</name>
+    <name>Moonstone Bracers [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4723,7 +4723,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 124 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 124 (Third Party)</text>
   </item>
   <item>
-    <name>Mosshide Troll Belt (TP)</name>
+    <name>Mosshide Troll Belt [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4734,7 +4734,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 124 (Third Party)</text>
     <roll description="Heal">1d4+1</roll>
   </item>
   <item>
-    <name>Mourningsteel Demi-Gauntlets (TP)</name>
+    <name>Mourningsteel Demi-Gauntlets [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4745,7 +4745,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 127 (Third Party)</text>
     <roll description="Recharge">1d6+6</roll>
   </item>
   <item>
-    <name>Mourningsteel Ghost Candle (TP)</name>
+    <name>Mourningsteel Ghost Candle [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4756,7 +4756,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 127 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 127 (Third Party)</text>
   </item>
   <item>
-    <name>Mourningsteel Half Plate (TP)</name>
+    <name>Mourningsteel Half Plate [TP Legacy]</name>
     <detail>half plate armor, legendary (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -4782,7 +4782,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 127 (Third Party)</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Mourningsteel War Banner (TP)</name>
+    <name>Mourningsteel War Banner [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4795,7 +4795,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 127 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Murk Blowgun (TP)</name>
+    <name>Murk Blowgun [TP Legacy]</name>
     <detail>blowgun, uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -4818,7 +4818,7 @@ Proficiency: martial, blowgun
 Source:	The Griffon's Saddlebag: Book Two p. 128 (Third Party)</text>
   </item>
   <item>
-    <name>Night Owl's Half-Moon Spectacles (TP)</name>
+    <name>Night Owl's Half-Moon Spectacles [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4831,7 +4831,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 128 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 128 (Third Party)</text>
   </item>
   <item>
-    <name>Nightmare Flask (TP)</name>
+    <name>Nightmare Flask [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4843,7 +4843,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 128 (Third Party)</text>
     <roll description="Psychic Damage">1d10</roll>
   </item>
   <item>
-    <name>Nightstalker's Armor of the Northeastern Wind (TP)</name>
+    <name>Nightstalker's Armor of the Northeastern Wind [TP Legacy]</name>
     <detail>plate armor, rare (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -4873,7 +4873,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 129 (Third Party)</text>
     <roll description="Cold Damage">1d6</roll>
   </item>
   <item>
-    <name>Nightstalker's Mask (TP)</name>
+    <name>Nightstalker's Mask [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4884,7 +4884,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 129 (Third Party)</text>
     <roll description="Psychic Damage">1d10</roll>
   </item>
   <item>
-    <name>No-Stones (TP)</name>
+    <name>No-Stones [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4896,7 +4896,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 129 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 130 (Third Party)</text>
   </item>
   <item>
-    <name>Oaken Candle (TP)</name>
+    <name>Oaken Candle [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4906,7 +4906,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 130 (Third Party)</text>
     <roll description="Hours">1d8+4</roll>
   </item>
   <item>
-    <name>Oathkeeper's Resolve (TP)</name>
+    <name>Oathkeeper's Resolve [TP Legacy]</name>
     <detail>shield, very rare (requires attunement by a paladin)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -4923,7 +4923,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 130 (Third Party)</text>
     <modifier category="bonus">ac +2</modifier>
   </item>
   <item>
-    <name>Octavius's Saber (TP)</name>
+    <name>Octavius's Saber [TP Legacy]</name>
     <detail>rapier, legendary (requires attunement by a rogue)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4941,7 +4941,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 131 (Third Party)</text>
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Ogramau's Graveyard (TP)</name>
+    <name>Ogramau's Graveyard [TP Legacy]</name>
     <detail>very rare (requires attunement by a cleric or wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4952,7 +4952,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 131 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 131 (Third Party)</text>
   </item>
   <item>
-    <name>Ol' Stumpy (TP)</name>
+    <name>Ol' Stumpy [TP Legacy]</name>
     <detail>maul, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -4971,7 +4971,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 131 (Third Party)</text>
     <roll description="Poison Damage">1d4</roll>
   </item>
   <item>
-    <name>Orb of Remembrance (TP)</name>
+    <name>Orb of Remembrance [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -4982,7 +4982,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 131 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 132 (Third Party)</text>
   </item>
   <item>
-    <name>Orelia's Tome of Beast Familiars (TP)</name>
+    <name>Orelia's Tome of Beast Familiars [TP Legacy]</name>
     <detail>rare (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -5002,7 +5002,7 @@ In addition, when you cast this spell using a spell slot of 2nd level or higher,
 Source:	The Griffon's Saddlebag: Book Two p. 132 (Third Party)</text>
   </item>
   <item>
-    <name>Orner's Venomous Crossbow (TP)</name>
+    <name>Orner's Venomous Crossbow [TP Legacy]</name>
     <detail>hand crossbow, uncommon (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -5032,7 +5032,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 132 (Third Party)</text>
     <roll description="Poison Damage">1d12</roll>
   </item>
   <item>
-    <name>Orostead Iced Tea (Common) (TP)</name>
+    <name>Orostead Iced Tea (Common) [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -5057,7 +5057,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 133 (Third Party)</text>
     <roll description="Grow or Shrink Inches">1d12</roll>
   </item>
   <item>
-    <name>Orostead Iced Tea (Very Rare) (TP)</name>
+    <name>Orostead Iced Tea (Very Rare) [TP Legacy]</name>
     <detail>very rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -5084,7 +5084,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 133 (Third Party)</text>
     <roll description="Temporary Hit Points">2d10+20</roll>
   </item>
   <item>
-    <name>Overseer's Spade (TP)</name>
+    <name>Overseer's Spade [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -5093,7 +5093,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 133 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 134 (Third Party)</text>
   </item>
   <item>
-    <name>Owlbear Leather Armor (TP)</name>
+    <name>Owlbear Leather Armor [TP Legacy]</name>
     <detail>leather armor, uncommon (requires attunement)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -5104,7 +5104,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 134 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 134 (Third Party)</text>
   </item>
   <item>
-    <name>Pack of Revisibility Bombs (TP)</name>
+    <name>Pack of Revisibility Bombs [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -5114,7 +5114,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 134 (Third Party)</text>
     <roll description="Fist">1d3+3</roll>
   </item>
   <item>
-    <name>Pegasus Quill (TP)</name>
+    <name>Pegasus Quill [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -5123,7 +5123,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 134 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 134 (Third Party)</text>
   </item>
   <item>
-    <name>Pennypuncher Slingshot (TP)</name>
+    <name>Pennypuncher Slingshot [TP Legacy]</name>
     <detail>sling, rare</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -5158,7 +5158,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 134 (Third Party)</text>
     <roll description="Extra Damage">1d12</roll>
   </item>
   <item>
-    <name>Peregrine Spear (TP)</name>
+    <name>Peregrine Spear [TP Legacy]</name>
     <detail>spear, common</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5184,7 +5184,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 134 (Third Party)</text>
     <roll description="Extra Damage">12d4</roll>
   </item>
   <item>
-    <name>Performer's Puppet (TP)</name>
+    <name>Performer's Puppet [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -5193,7 +5193,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 134 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 135 (Third Party)</text>
   </item>
   <item>
-    <name>Periscope Rod (TP)</name>
+    <name>Periscope Rod [TP Legacy]</name>
     <detail>spellcasting focus, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -5205,7 +5205,7 @@ Arcane Focus: An arcane focus is a special item designed to channel the power of
 Source:	The Griffon's Saddlebag: Book Two p. 135 (Third Party)</text>
   </item>
   <item>
-    <name>Phantom Walkers (TP)</name>
+    <name>Phantom Walkers [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -5215,7 +5215,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 135 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 135 (Third Party)</text>
   </item>
   <item>
-    <name>Phoenix Breastplate (TP)</name>
+    <name>Phoenix Breastplate [TP Legacy]</name>
     <detail>breastplate, very rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -5233,7 +5233,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 136 (Third Party)</text>
     <roll description="Days">1d6+1</roll>
   </item>
   <item>
-    <name>Phoenix Rocket Sword (TP)</name>
+    <name>Phoenix Rocket Sword [TP Legacy]</name>
     <detail>greatsword, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5258,7 +5258,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 136 (Third Party)</text>
     <roll description="Bludgeoning Damage">1d6</roll>
   </item>
   <item>
-    <name>Pick and Pocket (TP)</name>
+    <name>Pick and Pocket [TP Legacy]</name>
     <detail>dagger, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5284,7 +5284,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 136 (Third Party)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Pisces Shield (TP)</name>
+    <name>Pisces Shield [TP Legacy]</name>
     <detail>shield, uncommon</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -5298,7 +5298,7 @@ Proficiency: shield
 Source:	The Griffon's Saddlebag: Book Two p. 137 (Third Party)</text>
   </item>
   <item>
-    <name>Pollinator Pants (TP)</name>
+    <name>Pollinator Pants [TP Legacy]</name>
     <detail>uncommon (requires attunement by a druid or ranger)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -5314,7 +5314,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 138 (Third Party)</text>
     <roll description="Piercing Damage">1d4</roll>
   </item>
   <item>
-    <name>Pollinator Visor (TP)</name>
+    <name>Pollinator Visor [TP Legacy]</name>
     <detail>uncommon (requires attunement by a druid or ranger)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -5329,7 +5329,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 138 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Poltergeist Candle Holder (TP)</name>
+    <name>Poltergeist Candle Holder [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -5338,7 +5338,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 138 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 139 (Third Party)</text>
   </item>
   <item>
-    <name>Power Collar (TP)</name>
+    <name>Power Collar [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -5349,7 +5349,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 139 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 139 (Third Party)</text>
   </item>
   <item>
-    <name>Prism Glasses (TP)</name>
+    <name>Prism Glasses [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -5358,7 +5358,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 139 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 139 (Third Party)</text>
   </item>
   <item>
-    <name>Prototype Thunderberd (TP)</name>
+    <name>Prototype Thunderberd [TP Legacy]</name>
     <detail>halberd, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5385,7 +5385,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 140 (Third Party)</text>
     <roll description="Piercing Damage">10d6</roll>
   </item>
   <item>
-    <name>Prying Mace (TP)</name>
+    <name>Prying Mace [TP Legacy]</name>
     <detail>mace, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5400,7 +5400,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 140 (Third Party)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Quick Change Ring (TP)</name>
+    <name>Quick Change Ring [TP Legacy]</name>
     <detail>rare</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -5428,7 +5428,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 140 (Third Party)</text>
     <roll description="Armor">1d12</roll>
   </item>
   <item>
-    <name>Quiver of Elemental Chaos (TP)</name>
+    <name>Quiver of Elemental Chaos [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -5466,7 +5466,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 140 (Third Party)</text>
     <roll description="Acid Damage">1d6</roll>
   </item>
   <item>
-    <name>Radiant War Pick (TP)</name>
+    <name>Radiant War Pick [TP Legacy]</name>
     <detail>war pick, very rare (requires attunement by a cleric or paladin)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5485,7 +5485,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 142 (Third Party)</text>
     <roll description="Radiant Damage">1d8</roll>
   </item>
   <item>
-    <name>Realmswarden Greataxe (TP)</name>
+    <name>Realmswarden Greataxe [TP Legacy]</name>
     <detail>greataxe, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5520,7 +5520,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 142 (Third Party)</text>
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Red Queen's Burden (TP)</name>
+    <name>Red Queen's Burden [TP Legacy]</name>
     <detail>glaive, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5564,7 +5564,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 143 (Third Party)</text>
     <roll description="Fire Damage">2d6</roll>
   </item>
   <item>
-    <name>Redeemer's Regards (TP)</name>
+    <name>Redeemer's Regards [TP Legacy]</name>
     <detail>longbow, rare (requires attunement by a paladin)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -5589,7 +5589,7 @@ Proficiency: martial, longbow
 Source:	The Griffon's Saddlebag: Book Two p. 143 (Third Party)</text>
   </item>
   <item>
-    <name>Redsmith Crucible Set (TP)</name>
+    <name>Redsmith Crucible Set [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -5599,7 +5599,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 143 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 144 (Third Party)</text>
   </item>
   <item>
-    <name>Redsmith Hammer (TP)</name>
+    <name>Redsmith Hammer [TP Legacy]</name>
     <detail>light hammer, common</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5620,7 +5620,7 @@ Proficiency: simple, light hammer
 Source:	The Griffon's Saddlebag: Book Two p. 144 (Third Party)</text>
   </item>
   <item>
-    <name>Rejuvenating Draft (Uncommon) (TP)</name>
+    <name>Rejuvenating Draft (Uncommon) [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -5631,7 +5631,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 144 (Third Party)</text>
     <roll description="Years">1d4</roll>
   </item>
   <item>
-    <name>Rejuvenating Draft (Rare) (TP)</name>
+    <name>Rejuvenating Draft (Rare) [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -5642,7 +5642,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 144 (Third Party)</text>
     <roll description="Years">1d4</roll>
   </item>
   <item>
-    <name>Rejuvenating Draft (Very Rare) (TP)</name>
+    <name>Rejuvenating Draft (Very Rare) [TP Legacy]</name>
     <detail>very rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -5653,7 +5653,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 144 (Third Party)</text>
     <roll description="Years">1d4</roll>
   </item>
   <item>
-    <name>Rejuvenating Draft (Legendary) (TP)</name>
+    <name>Rejuvenating Draft (Legendary) [TP Legacy]</name>
     <detail>legendary</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -5663,7 +5663,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 144 (Third Party)</text>
     <roll description="Years">1d4</roll>
   </item>
   <item>
-    <name>Reliquary of Holy Memories (Uncommon) (TP)</name>
+    <name>Reliquary of Holy Memories (Uncommon) [TP Legacy]</name>
     <detail>spellcasting focus, uncommon</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -5674,7 +5674,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 144 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 144 (Third Party)</text>
   </item>
   <item>
-    <name>Reliquary of Holy Memories (Rare) (TP)</name>
+    <name>Reliquary of Holy Memories (Rare) [TP Legacy]</name>
     <detail>spellcasting focus, rare</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -5685,7 +5685,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 144 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 144 (Third Party)</text>
   </item>
   <item>
-    <name>Reliquary of Holy Memories (Very Rare) (TP)</name>
+    <name>Reliquary of Holy Memories (Very Rare) [TP Legacy]</name>
     <detail>spellcasting focus, very rare</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -5696,7 +5696,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 144 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 144 (Third Party)</text>
   </item>
   <item>
-    <name>Reliquary of Holy Memories (Legendary) (TP)</name>
+    <name>Reliquary of Holy Memories (Legendary) [TP Legacy]</name>
     <detail>spellcasting focus, legendary</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -5707,7 +5707,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 144 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 144 (Third Party)</text>
   </item>
   <item>
-    <name>Riff's Dimensional Ripper (TP)</name>
+    <name>Riff's Dimensional Ripper [TP Legacy]</name>
     <detail>dagger, uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5734,7 +5734,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 144 (Third Party)</text>
     <roll description="Force Damage">4d6</roll>
   </item>
   <item>
-    <name>Rift Sheath (Quarterstaff) (TP)</name>
+    <name>Rift Sheath (Quarterstaff) [TP Legacy]</name>
     <detail>quarterstaff, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5760,7 +5760,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 144 (Third Party)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Rift Sheath (Shortsword) (TP)</name>
+    <name>Rift Sheath (Shortsword) [TP Legacy]</name>
     <detail>shortsword, common</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5789,7 +5789,7 @@ Proficiency: martial, shortsword
 Source:	The Griffon's Saddlebag: Book Two p. 144 (Third Party)</text>
   </item>
   <item>
-    <name>Ring of Changing Shapes (TP)</name>
+    <name>Ring of Changing Shapes [TP Legacy]</name>
     <detail>rare (requires attunement by a sorcerer)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -5803,7 +5803,7 @@ Spell Surge: As a bonus action, you can spend 5 sorcery points to cast a spell n
 Source:	The Griffon's Saddlebag: Book Two p. 146 (Third Party)</text>
   </item>
   <item>
-    <name>Ring of Healer's Heroism (TP)</name>
+    <name>Ring of Healer's Heroism [TP Legacy]</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -5812,7 +5812,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 146 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 146 (Third Party)</text>
   </item>
   <item>
-    <name>Ring of Lunar Might (TP)</name>
+    <name>Ring of Lunar Might [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -5824,7 +5824,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 146 (Third Party)</text>
     <roll description="Bludgeoning Damage">2d10</roll>
   </item>
   <item>
-    <name>Ring of Misdirection (TP)</name>
+    <name>Ring of Misdirection [TP Legacy]</name>
     <detail>rare</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -5834,7 +5834,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 146 (Third Party)</text>
     <roll description="Recharge">1d3+3</roll>
   </item>
   <item>
-    <name>Ring of Rituals (TP)</name>
+    <name>Ring of Rituals [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -5844,7 +5844,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 146 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 146 (Third Party)</text>
   </item>
   <item>
-    <name>Ring of Solar's Sight (TP)</name>
+    <name>Ring of Solar's Sight [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -5856,7 +5856,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 147 (Third Party)</text>
     <roll description="Recharge">1d3+1</roll>
   </item>
   <item>
-    <name>Ring of Stolen Alacrity (TP)</name>
+    <name>Ring of Stolen Alacrity [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -5868,7 +5868,7 @@ If the GM doesn't share the initiative order with you, you can choose up to thre
 Source:	The Griffon's Saddlebag: Book Two p. 147 (Third Party)</text>
   </item>
   <item>
-    <name>Ring of Volleys (TP)</name>
+    <name>Ring of Volleys [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -5877,7 +5877,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 147 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 147 (Third Party)</text>
   </item>
   <item>
-    <name>Ring of the Arcane Berserker (TP)</name>
+    <name>Ring of the Arcane Berserker [TP Legacy]</name>
     <detail>rare (requires attunement by a barbarian)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -5888,7 +5888,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 147 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Ring of the Assassin Lord (TP)</name>
+    <name>Ring of the Assassin Lord [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -5898,7 +5898,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 147 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 147 (Third Party)</text>
   </item>
   <item>
-    <name>Ring of the Mute Mage (TP)</name>
+    <name>Ring of the Mute Mage [TP Legacy]</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -5907,7 +5907,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 147 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 148 (Third Party)</text>
   </item>
   <item>
-    <name>Ring of the Split Mind (TP)</name>
+    <name>Ring of the Split Mind [TP Legacy]</name>
     <detail>very rare (requires attunement by a spellcaster)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -5917,7 +5917,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 148 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 148 (Third Party)</text>
   </item>
   <item>
-    <name>Rings of the True Companions (TP)</name>
+    <name>Rings of the True Companions [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -5938,7 +5938,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 148 (Third Party)</text>
     <roll description="Temporary Hit Points">1d4+1</roll>
   </item>
   <item>
-    <name>Riptide Crossbow (TP)</name>
+    <name>Riptide Crossbow [TP Legacy]</name>
     <detail>heavy crossbow, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -5967,7 +5967,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 148 (Third Party)</text>
     <roll description="Bludgeoning Damage">3d10</roll>
   </item>
   <item>
-    <name>Roaring Whip (TP)</name>
+    <name>Roaring Whip [TP Legacy]</name>
     <detail>whip, uncommon</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -5987,7 +5987,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 149 (Third Party)</text>
     <roll description="Thunder Damage">1d6</roll>
   </item>
   <item>
-    <name>Rod of Endless Light (TP)</name>
+    <name>Rod of Endless Light [TP Legacy]</name>
     <detail>spellcasting focus, common</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -5999,7 +5999,7 @@ Arcane Focus: An arcane focus is a special item designed to channel the power of
 Source:	The Griffon's Saddlebag: Book Two p. 149 (Third Party)</text>
   </item>
   <item>
-    <name>Rod of Refstophobia (TP)</name>
+    <name>Rod of Refstophobia [TP Legacy]</name>
     <detail>spellcasting focus, rare</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -6011,7 +6011,7 @@ Arcane Focus: An arcane focus is a special item designed to channel the power of
 Source:	The Griffon's Saddlebag: Book Two p. 149 (Third Party)</text>
   </item>
   <item>
-    <name>Rod of Reverberation (TP)</name>
+    <name>Rod of Reverberation [TP Legacy]</name>
     <detail>spellcasting focus, rare (requires attunement)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -6024,7 +6024,7 @@ Arcane Focus: An arcane focus is a special item designed to channel the power of
 Source:	The Griffon's Saddlebag: Book Two p. 149 (Third Party)</text>
   </item>
   <item>
-    <name>Rod of Storms (TP)</name>
+    <name>Rod of Storms [TP Legacy]</name>
     <detail>spellcasting focus, rare (requires attunement by a spellcaster)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -6039,7 +6039,7 @@ Arcane Focus: An arcane focus is a special item designed to channel the power of
 Source:	The Griffon's Saddlebag: Book Two p. 150 (Third Party)</text>
   </item>
   <item>
-    <name>Rod of Thought Projection (TP)</name>
+    <name>Rod of Thought Projection [TP Legacy]</name>
     <detail>spellcasting focus, uncommon</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -6052,7 +6052,7 @@ Arcane Focus: An arcane focus is a special item designed to channel the power of
 Source:	The Griffon's Saddlebag: Book Two p. 150 (Third Party)</text>
   </item>
   <item>
-    <name>Rod of Water Absorption (TP)</name>
+    <name>Rod of Water Absorption [TP Legacy]</name>
     <detail>spellcasting focus, rare</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -6069,7 +6069,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 150 (Third Party)</text>
     <roll description="Bludgeoning Damage">2d6</roll>
   </item>
   <item>
-    <name>Rod of the Magicycle (TP)</name>
+    <name>Rod of the Magicycle [TP Legacy]</name>
     <detail>spellcasting focus, rare</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -6094,7 +6094,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 151 (Third Party)</text>
     <roll description="Heal">1d8</roll>
   </item>
   <item>
-    <name>Rope Caster (TP)</name>
+    <name>Rope Caster [TP Legacy]</name>
     <detail>hand crossbow, common</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -6119,7 +6119,7 @@ Proficiency: martial, hand crossbow
 Source:	The Griffon's Saddlebag: Book Two p. 152 (Third Party)</text>
   </item>
   <item>
-    <name>Rose Quartz Koi (TP)</name>
+    <name>Rose Quartz Koi [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -6128,7 +6128,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 152 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 152 (Third Party)</text>
   </item>
   <item>
-    <name>Royal Blade of Amphibios (TP)</name>
+    <name>Royal Blade of Amphibios [TP Legacy]</name>
     <detail>rapier, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6147,7 +6147,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 152 (Third Party)</text>
     <modifier category="bonus">weapon damage +2</modifier>
   </item>
   <item>
-    <name>Royal Incinerator (TP)</name>
+    <name>Royal Incinerator [TP Legacy]</name>
     <detail>spellcasting focus, legendary (requires attunement by a druid, sorcerer, warlock or wizard)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -6177,7 +6177,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 152 (Third Party)</text>
     <roll description="Fire Damage">8d6</roll>
   </item>
   <item>
-    <name>Rust Arrow (TP)</name>
+    <name>Rust Arrow [TP Legacy]</name>
     <detail>arrow, uncommon</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -6189,7 +6189,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 153 (Third Party)</text>
     <roll description="Ammunition">1d3+2</roll>
   </item>
   <item>
-    <name>Salamander Flame Gauntlets (TP)</name>
+    <name>Salamander Flame Gauntlets [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -6201,7 +6201,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 153 (Third Party)</text>
     <roll description="Fire Damage">4d6</roll>
   </item>
   <item>
-    <name>Sash of Sorcerous Synergy (TP)</name>
+    <name>Sash of Sorcerous Synergy [TP Legacy]</name>
     <detail>rare (requires attunement by a sorcerer)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -6212,7 +6212,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 154 (Third Party)</text>
     <roll description="Recharge">1d4+1</roll>
   </item>
   <item>
-    <name>Satchel of Beast Chow (TP)</name>
+    <name>Satchel of Beast Chow [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -6222,7 +6222,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 154 (Third Party)</text>
     <roll description="Servings">2d4+2</roll>
   </item>
   <item>
-    <name>Scarlet Scourge (TP)</name>
+    <name>Scarlet Scourge [TP Legacy]</name>
     <detail>whip, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6244,7 +6244,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 154 (Third Party)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Scepter of Faith (TP)</name>
+    <name>Scepter of Faith [TP Legacy]</name>
     <detail>spellcasting focus, very rare (requires attunement by a cleric)</detail>
     <type>G</type>
     <magic>YES</magic>
@@ -6257,7 +6257,7 @@ Arcane Focus: An arcane focus is a special item designed to channel the power of
 Source:	The Griffon's Saddlebag: Book Two p. 155 (Third Party)</text>
   </item>
   <item>
-    <name>Scorned Heart Breastplate (TP)</name>
+    <name>Scorned Heart Breastplate [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -6271,7 +6271,7 @@ Proficiency: medium armor
 Source:	The Griffon's Saddlebag: Book Two p. 155 (Third Party)</text>
   </item>
   <item>
-    <name>Scorpio Half Plate Armor (TP)</name>
+    <name>Scorpio Half Plate Armor [TP Legacy]</name>
     <detail>half plate armor, uncommon (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -6290,7 +6290,7 @@ Proficiency: medium armor
 Source:	The Griffon's Saddlebag: Book Two p. 155 (Third Party)</text>
   </item>
   <item>
-    <name>Scorpio Plate Armor (TP)</name>
+    <name>Scorpio Plate Armor [TP Legacy]</name>
     <detail>plate armor, uncommon (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -6312,7 +6312,7 @@ Proficiency: heavy armor
 Source:	The Griffon's Saddlebag: Book Two p. 155 (Third Party)</text>
   </item>
   <item>
-    <name>Scorpion Lasher (TP)</name>
+    <name>Scorpion Lasher [TP Legacy]</name>
     <detail>whip, uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6331,7 +6331,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 155 (Third Party)</text>
     <roll description="Poison Damage">1d6</roll>
   </item>
   <item>
-    <name>Scroll of Mapping (Uncommon) (TP)</name>
+    <name>Scroll of Mapping (Uncommon) [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>SC</type>
     <magic>YES</magic>
@@ -6341,7 +6341,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 155 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 156 (Third Party)</text>
   </item>
   <item>
-    <name>Scroll of Mapping (Very Rare) (TP)</name>
+    <name>Scroll of Mapping (Very Rare) [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>SC</type>
     <magic>YES</magic>
@@ -6353,7 +6353,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 156 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 156 (Third Party)</text>
   </item>
   <item>
-    <name>Scroll of Nightmares (TP)</name>
+    <name>Scroll of Nightmares [TP Legacy]</name>
     <detail>rare</detail>
     <type>SC</type>
     <magic>YES</magic>
@@ -6364,7 +6364,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 156 (Third Party)</text>
     <roll description="Psychic Damage">5d10</roll>
   </item>
   <item>
-    <name>Scroll of the Jester (TP)</name>
+    <name>Scroll of the Jester [TP Legacy]</name>
     <detail>rare</detail>
     <type>SC</type>
     <magic>YES</magic>
@@ -6381,7 +6381,7 @@ When the last jester disappears, any effects or spells created by the scroll or 
 Source:	The Griffon's Saddlebag: Book Two p. 156 (Third Party)</text>
   </item>
   <item>
-    <name>Second Fiddle (TP)</name>
+    <name>Second Fiddle [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -6390,7 +6390,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 156 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 157 (Third Party)</text>
   </item>
   <item>
-    <name>Seeker's Compass (TP)</name>
+    <name>Seeker's Compass [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -6400,7 +6400,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 157 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 157 (Third Party)</text>
   </item>
   <item>
-    <name>Seer's Starlight Cloak (TP)</name>
+    <name>Seer's Starlight Cloak [TP Legacy]</name>
     <detail>uncommon (requires attunement by a cleric, druid or wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -6417,7 +6417,7 @@ Once this property of the cloak has been used, it can't be used again until the 
 Source:	The Griffon's Saddlebag: Book Two p. 157 (Third Party)</text>
   </item>
   <item>
-    <name>Seraphim's Stiletto (TP)</name>
+    <name>Seraphim's Stiletto [TP Legacy]</name>
     <detail>dagger, rare (requires attunement by a creature of good alignment)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6441,7 +6441,7 @@ Proficiency: simple, dagger
 Source:	The Griffon's Saddlebag: Book Two p. 158 (Third Party)</text>
   </item>
   <item>
-    <name>Shadow Tag (TP)</name>
+    <name>Shadow Tag [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -6452,7 +6452,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 158 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 158 (Third Party)</text>
   </item>
   <item>
-    <name>Shadow Weaver's Guise (TP)</name>
+    <name>Shadow Weaver's Guise [TP Legacy]</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -6463,7 +6463,7 @@ Curse: Once you don this cursed cloak, you are unwilling to remove it unless you
 Source:	The Griffon's Saddlebag: Book Two p. 158 (Third Party)</text>
   </item>
   <item>
-    <name>Shadowscale Shroud (TP)</name>
+    <name>Shadowscale Shroud [TP Legacy]</name>
     <detail>scale mail, legendary (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -6485,7 +6485,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 158 (Third Party)</text>
     <modifier category="bonus">ac +2</modifier>
   </item>
   <item>
-    <name>Shield of the Justicars (TP)</name>
+    <name>Shield of the Justicars [TP Legacy]</name>
     <detail>shield, common</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -6501,7 +6501,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 158 (Third Party)</text>
     <roll description="Recharge">1d4</roll>
   </item>
   <item>
-    <name>Shifter's Shine (Common) (TP)</name>
+    <name>Shifter's Shine (Common) [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -6510,7 +6510,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 158 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 160 (Third Party)</text>
   </item>
   <item>
-    <name>Shifter's Shine (Uncommon) (TP)</name>
+    <name>Shifter's Shine (Uncommon) [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -6521,7 +6521,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 160 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 160 (Third Party)</text>
   </item>
   <item>
-    <name>Shimmering Spectacles (TP)</name>
+    <name>Shimmering Spectacles [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -6530,7 +6530,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 160 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 160 (Third Party)</text>
   </item>
   <item>
-    <name>Shipwright's Watch (TP)</name>
+    <name>Shipwright's Watch [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -6539,7 +6539,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 160 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 160 (Third Party)</text>
   </item>
   <item>
-    <name>Shooting Star (TP)</name>
+    <name>Shooting Star [TP Legacy]</name>
     <detail>longbow, very rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -6573,7 +6573,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 160 (Third Party)</text>
     <roll description="Force Damage">1d6</roll>
   </item>
   <item>
-    <name>Siege Staff (TP)</name>
+    <name>Siege Staff [TP Legacy]</name>
     <detail>spellcasting focus, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -6601,7 +6601,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 161 (Third Party)</text>
     <roll description="Bludgeoning Damage">4d8</roll>
   </item>
   <item>
-    <name>Silver Coin of Duvra (TP)</name>
+    <name>Silver Coin of Duvra [TP Legacy]</name>
     <detail>common (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -6611,7 +6611,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 161 (Third Party)</text>
     <roll description="Flip a Coin">1d2</roll>
   </item>
   <item>
-    <name>Silver Eagle Studded Cuirass (TP)</name>
+    <name>Silver Eagle Studded Cuirass [TP Legacy]</name>
     <detail>studded leather armor, uncommon (requires attunement)</detail>
     <type>LA</type>
     <magic>YES</magic>
@@ -6624,7 +6624,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 161 (Third Party)</text>
     <roll description="Damage Reduction">2d6</roll>
   </item>
   <item>
-    <name>Silver Star Cane (TP)</name>
+    <name>Silver Star Cane [TP Legacy]</name>
     <detail>rapier, common</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6640,7 +6640,7 @@ Proficiency: martial, rapier
 Source:	The Griffon's Saddlebag: Book Two p. 161 (Third Party)</text>
   </item>
   <item>
-    <name>Sir Varion's Helm (TP)</name>
+    <name>Sir Varion's Helm [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -6651,7 +6651,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 162 (Third Party)</text>
     <roll description="Add to Roll">1d6</roll>
   </item>
   <item>
-    <name>Sir Varion's Lance (TP)</name>
+    <name>Sir Varion's Lance [TP Legacy]</name>
     <detail>lance, uncommon (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6672,7 +6672,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 162 (Third Party)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Sir Varion's Mantle  (TP)</name>
+    <name>Sir Varion's Mantle [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -6682,7 +6682,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 162 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 162 (Third Party)</text>
   </item>
   <item>
-    <name>Sir Varion's Shield (TP)</name>
+    <name>Sir Varion's Shield [TP Legacy]</name>
     <detail>shield, uncommon (requires attunement)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -6696,7 +6696,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 162 (Third Party)</text>
     <modifier category="bonus">ac +1</modifier>
   </item>
   <item>
-    <name>Sky Anchor (TP)</name>
+    <name>Sky Anchor [TP Legacy]</name>
     <detail>spear, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6721,7 +6721,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 162 (Third Party)</text>
     <roll description="Piercing Damage">2d8</roll>
   </item>
   <item>
-    <name>Skyglider Shield (TP)</name>
+    <name>Skyglider Shield [TP Legacy]</name>
     <detail>shield, rare (requires attunement)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -6735,7 +6735,7 @@ Proficiency: shield
 Source:	The Griffon's Saddlebag: Book Two p. 163 (Third Party)</text>
   </item>
   <item>
-    <name>Skylit Greaves (TP)</name>
+    <name>Skylit Greaves [TP Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -6752,7 +6752,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 163 (Third Party)</text>
     <roll description="Bludgeoning Damage">1d6</roll>
   </item>
   <item>
-    <name>Slaying Longbow (TP)</name>
+    <name>Slaying Longbow [TP Legacy]</name>
     <detail>legendary (requires attunement by a good aligned creature)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -6779,7 +6779,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 164 (Third Party)</text>
     <roll description="Radiant Damage">6d8</roll>
   </item>
   <item>
-    <name>Sleepytime Sheep Stuffy (TP)</name>
+    <name>Sleepytime Sheep Stuffy [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -6788,7 +6788,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 164 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 164 (Third Party)</text>
   </item>
   <item>
-    <name>Snake Charmer's Flute (TP)</name>
+    <name>Snake Charmer's Flute [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -6798,7 +6798,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 164 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 164 (Third Party)</text>
   </item>
   <item>
-    <name>Snow Rider's Sleigh (TP)</name>
+    <name>Snow Rider's Sleigh [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -6807,7 +6807,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 164 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 164 (Third Party)</text>
   </item>
   <item>
-    <name>Soul Pendant (TP)</name>
+    <name>Soul Pendant [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -6820,7 +6820,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 165 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Soul-Searing Scythe (TP)</name>
+    <name>Soul-Searing Scythe [TP Legacy]</name>
     <detail>halberd, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6847,7 +6847,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 165 (Third Party)</text>
     <roll description="Necrotic Damage">3d4</roll>
   </item>
   <item>
-    <name>Sovereignseed Satchel (TP)</name>
+    <name>Sovereignseed Satchel [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -6867,7 +6867,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 166 (Third Party)</text>
     <roll description="Seed">1d6</roll>
   </item>
   <item>
-    <name>Spellfire Bow (TP)</name>
+    <name>Spellfire Bow [TP Legacy]</name>
     <detail>longbow, spellcasting focus, legendary (requires attunement by a spellcaster)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -6896,7 +6896,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 166 (Third Party)</text>
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Spellsword (TP)</name>
+    <name>Spellsword [TP Legacy]</name>
     <detail>shortsword, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6923,7 +6923,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 167 (Third Party)</text>
     <roll description="Force Damage">5d10</roll>
   </item>
   <item>
-    <name>Spellwriter's Brace (TP)</name>
+    <name>Spellwriter's Brace [TP Legacy]</name>
     <detail>rare (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -6935,7 +6935,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 167 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 167 (Third Party)</text>
   </item>
   <item>
-    <name>Spirit Cleaver (TP)</name>
+    <name>Spirit Cleaver [TP Legacy]</name>
     <detail>dagger, legendary (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6967,7 +6967,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 167 (Third Party)</text>
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Spirit Sheath (TP)</name>
+    <name>Spirit Sheath [TP Legacy]</name>
     <detail>scimitar, rare (requires attunement by a creature with a wisdom score of 13 or higher)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -6988,7 +6988,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 168 (Third Party)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Spiritwalker Breastplate (TP)</name>
+    <name>Spiritwalker Breastplate [TP Legacy]</name>
     <detail>breastplate, rare (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -7002,7 +7002,7 @@ Proficiency: medium armor
 Source:	The Griffon's Saddlebag: Book Two p. 168 (Third Party)</text>
   </item>
   <item>
-    <name>Splinterguard (TP)</name>
+    <name>Splinterguard [TP Legacy]</name>
     <detail>splint armor, rare (requires attunement by a druid or ranger)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -7025,7 +7025,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 168 (Third Party)</text>
     <roll description="Piercing Damage">5d8</roll>
   </item>
   <item>
-    <name>Sream's Stoppered Oasis (TP)</name>
+    <name>Sream's Stoppered Oasis [TP Legacy]</name>
     <detail>rare</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -7038,7 +7038,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 168 (Third Party)</text>
     <roll description="Hit">1d4</roll>
   </item>
   <item>
-    <name>Staff of Cubic Cultivation (TP)</name>
+    <name>Staff of Cubic Cultivation [TP Legacy]</name>
     <detail>spellcasting focus, uncommon</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -7060,7 +7060,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 169 (Third Party)</text>
     <roll description="Recharge">1d6+4</roll>
   </item>
   <item>
-    <name>Staff of the Dream Shepherd (TP)</name>
+    <name>Staff of the Dream Shepherd [TP Legacy]</name>
     <detail>spellcasting focus, uncommon (requires attunement by a spellcaster)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -7081,7 +7081,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 169 (Third Party)</text>
     <roll description="Psychic Damage">2d6</roll>
   </item>
   <item>
-    <name>Staff of the Vineyard (TP)</name>
+    <name>Staff of the Vineyard [TP Legacy]</name>
     <detail>spellcasting focus, uncommon (requires attunement by a cleric, druid, monk or ranger)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -7102,7 +7102,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 169 (Third Party)</text>
     <roll description="Grapes">1d10</roll>
   </item>
   <item>
-    <name>Stalagmight Geode (TP)</name>
+    <name>Stalagmight Geode [TP Legacy]</name>
     <detail>greatclub, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -7123,7 +7123,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 170 (Third Party)</text>
     <roll description="Piercing Damage">1d12</roll>
   </item>
   <item>
-    <name>Stalwart Staff (TP)</name>
+    <name>Stalwart Staff [TP Legacy]</name>
     <detail>spellcasting focus, common</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -7142,7 +7142,7 @@ Proficiency: simple, staff, quarterstaff
 Source:	The Griffon's Saddlebag: Book Two p. 170 (Third Party)</text>
   </item>
   <item>
-    <name>Starmetal Nova Chain Shirt (TP)</name>
+    <name>Starmetal Nova Chain Shirt [TP Legacy]</name>
     <detail>chain shirt and half plate armor, legendary (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -7162,7 +7162,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 170 (Third Party)</text>
     <roll description="Radiant Damage">3d8</roll>
   </item>
   <item>
-    <name>Starmetal Nova Half Plate Armor (TP)</name>
+    <name>Starmetal Nova Half Plate Armor [TP Legacy]</name>
     <detail>chain shirt and half plate armor, legendary (requires attunement)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -7185,7 +7185,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 170 (Third Party)</text>
     <roll description="Radiant Damage">3d8</roll>
   </item>
   <item>
-    <name>Starmetal Shard Spear (TP)</name>
+    <name>Starmetal Shard Spear [TP Legacy]</name>
     <detail>spear, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -7211,7 +7211,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 171 (Third Party)</text>
     <roll description="Slashing Damage">1d6</roll>
   </item>
   <item>
-    <name>Starmetal Sliver (TP)</name>
+    <name>Starmetal Sliver [TP Legacy]</name>
     <detail>dagger, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -7238,7 +7238,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 171 (Third Party)</text>
     <roll>1d10+4</roll>
   </item>
   <item>
-    <name>Status Signets (TP)</name>
+    <name>Status Signets [TP Legacy]</name>
     <detail>common</detail>
     <type>RG</type>
     <magic>YES</magic>
@@ -7247,7 +7247,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 171 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 171 (Third Party)</text>
   </item>
   <item>
-    <name>Steam Harpoon (TP)</name>
+    <name>Steam Harpoon [TP Legacy]</name>
     <detail>spear, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -7272,7 +7272,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 172 (Third Party)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Stonemason's Companion (TP)</name>
+    <name>Stonemason's Companion [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -7283,7 +7283,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 172 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 172 (Third Party)</text>
   </item>
   <item>
-    <name>Storm Seer Lamp (TP)</name>
+    <name>Storm Seer Lamp [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -7293,7 +7293,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 172 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 172 (Third Party)</text>
   </item>
   <item>
-    <name>Storm's Eye Shield (TP)</name>
+    <name>Storm's Eye Shield [TP Legacy]</name>
     <detail>shield, rare (requires attunement)</detail>
     <type>S</type>
     <magic>YES</magic>
@@ -7315,7 +7315,7 @@ Proficiency: shield
 Source:	The Griffon's Saddlebag: Book Two p. 172 (Third Party)</text>
   </item>
   <item>
-    <name>Stormbrewer Bracers (TP)</name>
+    <name>Stormbrewer Bracers [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -7327,7 +7327,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 172 (Third Party)</text>
     <roll description="Damage Reduction">1d8+4</roll>
   </item>
   <item>
-    <name>Storyteller's Stein (TP)</name>
+    <name>Storyteller's Stein [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -7336,7 +7336,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 172 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 173 (Third Party)</text>
   </item>
   <item>
-    <name>Stuffy Familiar (TP)</name>
+    <name>Stuffy Familiar [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -7346,7 +7346,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 173 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 173 (Third Party)</text>
   </item>
   <item>
-    <name>Stylist's Circlet (TP)</name>
+    <name>Stylist's Circlet [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -7355,7 +7355,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 173 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 173 (Third Party)</text>
   </item>
   <item>
-    <name>Tarrasque Plate  (TP)</name>
+    <name>Tarrasque Plate [TP Legacy]</name>
     <detail>plate armor, legendary (requires attunement)</detail>
     <type>HA</type>
     <magic>YES</magic>
@@ -7377,7 +7377,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 174 (Third Party)</text>
     <roll description="Counterspell">1d6</roll>
   </item>
   <item>
-    <name>Tea Weird (TP)</name>
+    <name>Tea Weird [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -7391,7 +7391,7 @@ Personality: The tea weird is dedicated to making tea. It will happily collect m
 Source:	The Griffon's Saddlebag: Book Two p. 174 (Third Party)</text>
   </item>
   <item>
-    <name>Tempest Griffon Bracers (TP)</name>
+    <name>Tempest Griffon Bracers [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -7402,7 +7402,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 174 (Third Party)</text>
     <roll description="Lightning Damage">2d8</roll>
   </item>
   <item>
-    <name>Thalamus Thread (TP)</name>
+    <name>Thalamus Thread [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -7413,7 +7413,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 174 (Third Party)</text>
     <roll description="Psychic Damage">1d8</roll>
   </item>
   <item>
-    <name>Thomas's Dimensional Trousers (TP)</name>
+    <name>Thomas's Dimensional Trousers [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -7425,7 +7425,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 174 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 175 (Third Party)</text>
   </item>
   <item>
-    <name>Tide Turner (TP)</name>
+    <name>Tide Turner [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -7434,7 +7434,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 175 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 175 (Third Party)</text>
   </item>
   <item>
-    <name>Titan Cricket Greaves (TP)</name>
+    <name>Titan Cricket Greaves [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -7444,7 +7444,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 175 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 175 (Third Party)</text>
   </item>
   <item>
-    <name>Titan's Tooth Claymore (TP)</name>
+    <name>Titan's Tooth Claymore [TP Legacy]</name>
     <detail>greatsword, very rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -7465,7 +7465,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 175 (Third Party)</text>
     <roll description="Extra Slashing Damage">2d6</roll>
   </item>
   <item>
-    <name>Tome of Advanced Fighting Styles (TP)</name>
+    <name>Tome of Advanced Fighting Styles [TP Legacy]</name>
     <detail>very rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -7486,7 +7486,7 @@ You can't take an Advanced Fighting Style option more than once, even if you lat
 Source:	The Griffon's Saddlebag: Book Two p. 176 (Third Party)</text>
   </item>
   <item>
-    <name>Tome of Lost Knowledge (TP)</name>
+    <name>Tome of Lost Knowledge [TP Legacy]</name>
     <detail>spellcasting focus, legendary (requires attunement by a wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -7504,7 +7504,7 @@ Curse: This book is cursed, and becoming attuned to it extends the curse to you.
 Source:	The Griffon's Saddlebag: Book Two p. 176 (Third Party)</text>
   </item>
   <item>
-    <name>Torrdok's Magnificent Forgery (TP)</name>
+    <name>Torrdok's Magnificent Forgery [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -7515,7 +7515,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 176 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 177 (Third Party)</text>
   </item>
   <item>
-    <name>Traitor's Gauntlet (TP)</name>
+    <name>Traitor's Gauntlet [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -7530,7 +7530,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 177 (Third Party)</text>
     <roll description="Fire Damage">1d8</roll>
   </item>
   <item>
-    <name>Trampling Crossbow (TP)</name>
+    <name>Trampling Crossbow [TP Legacy]</name>
     <detail>heavy crossbow, uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -7557,7 +7557,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 177 (Third Party)</text>
     <roll description="Bludgeoning Damage">1d8</roll>
   </item>
   <item>
-    <name>Tremor Spike (TP)</name>
+    <name>Tremor Spike [TP Legacy]</name>
     <detail>spellcasting focus, rare</detail>
     <type>RD</type>
     <magic>YES</magic>
@@ -7571,7 +7571,7 @@ Arcane Focus: An arcane focus is a special item designed to channel the power of
 Source:	The Griffon's Saddlebag: Book Two p. 178 (Third Party)</text>
   </item>
   <item>
-    <name>Turtle Brooch (TP)</name>
+    <name>Turtle Brooch [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -7580,7 +7580,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 178 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 178 (Third Party)</text>
   </item>
   <item>
-    <name>Tyrannosaurus Rax (TP)</name>
+    <name>Tyrannosaurus Rax [TP Legacy]</name>
     <detail>greataxe, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -7602,7 +7602,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 178 (Third Party)</text>
     <roll description="Bludgeoning Damage">1d6</roll>
   </item>
   <item>
-    <name>Underworld Asphodel Regalia (TP)</name>
+    <name>Underworld Asphodel Regalia [TP Legacy]</name>
     <detail>legendary (requires attunement by a cleric or wizard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -7622,7 +7622,7 @@ Ruler of the Dead: You are always under the effects of the sanctuary spell. This
 Source:	The Griffon's Saddlebag: Book Two p. 178 (Third Party)</text>
   </item>
   <item>
-    <name>Urnblade (TP)</name>
+    <name>Urnblade [TP Legacy]</name>
     <detail>scimitar, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -7647,7 +7647,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 179 (Third Party)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Vain Virtuoso's Violin (TP)</name>
+    <name>Vain Virtuoso's Violin [TP Legacy]</name>
     <detail>uncommon (requires attunement by a bard)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -7659,7 +7659,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 179 (Third Party)</text>
     <roll>1d4</roll>
   </item>
   <item>
-    <name>Violet King's Promise (TP)</name>
+    <name>Violet King's Promise [TP Legacy]</name>
     <detail>rapier, legendary (requires attunement by a bard, cleric, paladin or ranger)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -7689,7 +7689,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 180 (Third Party)</text>
     <roll description="Fire Damage">3d8</roll>
   </item>
   <item>
-    <name>Viper Khopesh (TP)</name>
+    <name>Viper Khopesh [TP Legacy]</name>
     <detail>scimitar, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -7709,7 +7709,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 181 (Third Party)</text>
     <roll description="Poison Damage">2d6</roll>
   </item>
   <item>
-    <name>Voyage Collar (TP)</name>
+    <name>Voyage Collar [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -7720,7 +7720,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 181 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 181 (Third Party)</text>
   </item>
   <item>
-    <name>Vyra's Broken Path (TP)</name>
+    <name>Vyra's Broken Path [TP Legacy]</name>
     <detail>very rare (requires attunement by an elf or half-elf)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -7730,7 +7730,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 181 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 181 (Third Party)</text>
   </item>
   <item>
-    <name>Vyra's Broken Path (Longbow) (TP)</name>
+    <name>Vyra's Broken Path (Longbow) [TP Legacy]</name>
     <detail>longbow, very rare (requires attunement by an elf or half-elf)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -7760,7 +7760,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 181 (Third Party)</text>
     <modifier category="bonus">weapon damage +3</modifier>
   </item>
   <item>
-    <name>Wand of Dowsing (TP)</name>
+    <name>Wand of Dowsing [TP Legacy]</name>
     <detail>spellcasting focus, uncommon (requires attunement)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -7772,7 +7772,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 182 (Third Party)</text>
     <roll description="Recharge">1d3</roll>
   </item>
   <item>
-    <name>Wand of Gilding (TP)</name>
+    <name>Wand of Gilding [TP Legacy]</name>
     <detail>spellcasting focus, rare (requires attunement by a bard, sorcerer, or wizard)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -7793,7 +7793,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 182 (Third Party)</text>
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>Wand of Merriment (TP)</name>
+    <name>Wand of Merriment [TP Legacy]</name>
     <detail>spellcasting focus, very rare (requires attunement)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -7813,7 +7813,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 182 (Third Party)</text>
     <roll description="Regrow Berries">1d6+4</roll>
   </item>
   <item>
-    <name>Wand of Necrosis (TP)</name>
+    <name>Wand of Necrosis [TP Legacy]</name>
     <detail>spellcasting focus, very rare (requires attunement by )</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -7827,7 +7827,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 182 (Third Party)</text>
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>Wand of Puppetry (TP)</name>
+    <name>Wand of Puppetry [TP Legacy]</name>
     <detail>spellcasting focus, very rare (requires attunement by a spellcaster)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -7848,7 +7848,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 183 (Third Party)</text>
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>Wand of Stars (TP)</name>
+    <name>Wand of Stars [TP Legacy]</name>
     <detail>spellcasting focus, very rare (requires attunement by a spellcaster)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -7865,7 +7865,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 183 (Third Party)</text>
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>Wand of the Alicorn (TP)</name>
+    <name>Wand of the Alicorn [TP Legacy]</name>
     <detail>spellcasting focus, legendary (requires attunement by a good-aligned spellcaster)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -7883,7 +7883,7 @@ Arcane Focus: An arcane focus is a special item designed to channel the power of
 Source:	The Griffon's Saddlebag: Book Two p. 184 (Third Party)</text>
   </item>
   <item>
-    <name>Wand of the Frostrose (TP)</name>
+    <name>Wand of the Frostrose [TP Legacy]</name>
     <detail>spellcasting focus, rare (requires attunement by a spellcaster)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -7901,7 +7901,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 184 (Third Party)</text>
     <roll description="Recharge">1d6+1</roll>
   </item>
   <item>
-    <name>War's Wager (TP)</name>
+    <name>War's Wager [TP Legacy]</name>
     <detail>greataxe, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -7921,7 +7921,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 185 (Third Party)</text>
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>Wardancer's Spear (TP)</name>
+    <name>Wardancer's Spear [TP Legacy]</name>
     <detail>spear, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -7944,7 +7944,7 @@ Proficiency: simple, spear
 Source:	The Griffon's Saddlebag: Book Two p. 185 (Third Party)</text>
   </item>
   <item>
-    <name>Warding Staff (TP)</name>
+    <name>Warding Staff [TP Legacy]</name>
     <detail>spellcasting focus, very rare (requires attunement by a cleric or paladin)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -7966,7 +7966,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 185 (Third Party)</text>
     <roll description="Radiant Damage">1d6</roll>
   </item>
   <item>
-    <name>Warhammer of Eruptions (TP)</name>
+    <name>Warhammer of Eruptions [TP Legacy]</name>
     <detail>warhammer, rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -7991,7 +7991,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 186 (Third Party)</text>
     <roll description="Hours">2d6</roll>
   </item>
   <item>
-    <name>Warp Anchor (TP)</name>
+    <name>Warp Anchor [TP Legacy]</name>
     <detail>spellcasting focus, rare</detail>
     <type>RD</type>
     <magic>YES</magic>
@@ -8004,7 +8004,7 @@ Arcane Focus: An arcane focus is a special item designed to channel the power of
 Source:	The Griffon's Saddlebag: Book Two p. 186 (Third Party)</text>
   </item>
   <item>
-    <name>Waterskin of Voices (TP)</name>
+    <name>Waterskin of Voices [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -8014,7 +8014,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 186 (Third Party)</text>
     <roll description="Servings">1d6+4</roll>
   </item>
   <item>
-    <name>Wayfinder Sphere (TP)</name>
+    <name>Wayfinder Sphere [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -8026,7 +8026,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 186 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 186 (Third Party)</text>
   </item>
   <item>
-    <name>Weaving Wasp Needles (TP)</name>
+    <name>Weaving Wasp Needles [TP Legacy]</name>
     <detail>dart, uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -8048,7 +8048,7 @@ Proficiency: simple, dart
 Source:	The Griffon's Saddlebag: Book Two p. 187 (Third Party)</text>
   </item>
   <item>
-    <name>Whirling Battleaxe (TP)</name>
+    <name>Whirling Battleaxe [TP Legacy]</name>
     <detail>battleaxe, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8071,7 +8071,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook p. 149</text>
   </item>
   <item>
-    <name>Whirling Club (TP)</name>
+    <name>Whirling Club [TP Legacy]</name>
     <detail>club, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8091,7 +8091,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook p. 149</text>
   </item>
   <item>
-    <name>Whirling Dagger (TP)</name>
+    <name>Whirling Dagger [TP Legacy]</name>
     <detail>dagger, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8116,7 +8116,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook p. 149</text>
   </item>
   <item>
-    <name>Whirling Flail (TP)</name>
+    <name>Whirling Flail [TP Legacy]</name>
     <detail>flail, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8138,7 +8138,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook p. 149</text>
   </item>
   <item>
-    <name>Whirling Handaxe (TP)</name>
+    <name>Whirling Handaxe [TP Legacy]</name>
     <detail>handaxe, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8165,7 +8165,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook p. 149</text>
   </item>
   <item>
-    <name>Whirling Light Hammer (TP)</name>
+    <name>Whirling Light Hammer [TP Legacy]</name>
     <detail>light hammer, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8193,7 +8193,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook p. 149</text>
   </item>
   <item>
-    <name>Whirling Longsword (TP)</name>
+    <name>Whirling Longsword [TP Legacy]</name>
     <detail>longsword, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8219,7 +8219,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook p. 149</text>
   </item>
   <item>
-    <name>Whirling Mace (TP)</name>
+    <name>Whirling Mace [TP Legacy]</name>
     <detail>mace, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8242,7 +8242,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook p. 149</text>
   </item>
   <item>
-    <name>Whirling Morningstar (TP)</name>
+    <name>Whirling Morningstar [TP Legacy]</name>
     <detail>morningstar, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8265,7 +8265,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook p. 149</text>
   </item>
   <item>
-    <name>Whirling Quarterstaff (TP)</name>
+    <name>Whirling Quarterstaff [TP Legacy]</name>
     <detail>quarterstaff, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8291,7 +8291,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook p. 149</text>
   </item>
   <item>
-    <name>Whirling Rapier (TP)</name>
+    <name>Whirling Rapier [TP Legacy]</name>
     <detail>rapier, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8314,7 +8314,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook p. 149</text>
   </item>
   <item>
-    <name>Whirling Hooked Shortspear (TP)</name>
+    <name>Whirling Hooked Shortspear [TP Legacy]</name>
     <detail>hooked shortspear, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8339,7 +8339,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Out of the Abyss p. 224</text>
   </item>
   <item>
-    <name>Whirling Scimitar (TP)</name>
+    <name>Whirling Scimitar [TP Legacy]</name>
     <detail>scimitar, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8362,7 +8362,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook p. 149</text>
   </item>
   <item>
-    <name>Whirling Shortsword (TP)</name>
+    <name>Whirling Shortsword [TP Legacy]</name>
     <detail>shortsword, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8385,7 +8385,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook p. 149</text>
   </item>
   <item>
-    <name>Whirling Sickle (TP)</name>
+    <name>Whirling Sickle [TP Legacy]</name>
     <detail>sickle, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8408,7 +8408,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook p. 149</text>
   </item>
   <item>
-    <name>Whirling Spear (TP)</name>
+    <name>Whirling Spear [TP Legacy]</name>
     <detail>spear, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8439,7 +8439,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook p. 149</text>
   </item>
   <item>
-    <name>Whirling Staff (TP)</name>
+    <name>Whirling Staff [TP Legacy]</name>
     <detail>spellcasting focus, rare</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -8467,7 +8467,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook p. 151</text>
   </item>
   <item>
-    <name>Whirling Trident (TP)</name>
+    <name>Whirling Trident [TP Legacy]</name>
     <detail>trident, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8495,7 +8495,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook p. 149</text>
   </item>
   <item>
-    <name>Whirling War Pick (TP)</name>
+    <name>Whirling War Pick [TP Legacy]</name>
     <detail>war pick, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8515,7 +8515,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook p. 149</text>
   </item>
   <item>
-    <name>Whirling Warhammer (TP)</name>
+    <name>Whirling Warhammer [TP Legacy]</name>
     <detail>warhammer, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8538,7 +8538,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook p. 149</text>
   </item>
   <item>
-    <name>Whirling Whip (TP)</name>
+    <name>Whirling Whip [TP Legacy]</name>
     <detail>whip, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8560,7 +8560,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook p. 149</text>
   </item>
   <item>
-    <name>Whirling Wooden Staff (TP)</name>
+    <name>Whirling Wooden Staff [TP Legacy]</name>
     <detail>druidic focus, rare</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -8587,7 +8587,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Player's Handbook p. 151</text>
   </item>
   <item>
-    <name>Whirling Yklwa (TP)</name>
+    <name>Whirling Yklwa [TP Legacy]</name>
     <detail>yklwa, rare</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8614,7 +8614,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party),
 		Eberron: Rising from the Last War p. 21</text>
   </item>
   <item>
-    <name>Whirlpool Dart (TP)</name>
+    <name>Whirlpool Dart [TP Legacy]</name>
     <detail>dart, uncommon</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -8638,7 +8638,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party)</text>
     <roll description="Bludgeoning Damage">4d4</roll>
   </item>
   <item>
-    <name>Whispergust Mote (TP)</name>
+    <name>Whispergust Mote [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -8652,7 +8652,7 @@ Personality: The whispergust mote ultimately travels where it wants to go, but k
 Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party)</text>
   </item>
   <item>
-    <name>Widemouth Bucket (TP)</name>
+    <name>Widemouth Bucket [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -8661,7 +8661,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 188 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 189 (Third Party)</text>
   </item>
   <item>
-    <name>Widow's Tea (TP)</name>
+    <name>Widow's Tea [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -8672,7 +8672,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 189 (Third Party)</text>
     <roll description="Poison Damage">4d6</roll>
   </item>
   <item>
-    <name>Wildfire Arrow (TP)</name>
+    <name>Wildfire Arrow [TP Legacy]</name>
     <detail>rare</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -8686,7 +8686,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 189 (Third Party)</text>
     <roll description="Fire Damage">2d8</roll>
   </item>
   <item>
-    <name>Wildfire Bolt (TP)</name>
+    <name>Wildfire Bolt [TP Legacy]</name>
     <detail>rare</detail>
     <type>A</type>
     <magic>YES</magic>
@@ -8700,7 +8700,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 189 (Third Party)</text>
     <roll description="Fire Damage">2d8</roll>
   </item>
   <item>
-    <name>Wildskin Armor (TP)</name>
+    <name>Wildskin Armor [TP Legacy]</name>
     <detail>hide armor, uncommon (requires attunement by a druid)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -8712,7 +8712,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 189 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 190 (Third Party)</text>
   </item>
   <item>
-    <name>Wildskin Armor (Wild Shaped) (TP)</name>
+    <name>Wildskin Armor (Wild Shaped) [TP Legacy]</name>
     <detail>hide armor, uncommon (requires attunement by a druid)</detail>
     <type>MA</type>
     <magic>YES</magic>
@@ -8724,7 +8724,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 190 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 190 (Third Party)</text>
   </item>
   <item>
-    <name>Williwig's Time Stopper (TP)</name>
+    <name>Williwig's Time Stopper [TP Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -8733,7 +8733,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 190 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 190 (Third Party)</text>
   </item>
   <item>
-    <name>Wind Riders (TP)</name>
+    <name>Wind Riders [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -8744,7 +8744,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 190 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 190 (Third Party)</text>
   </item>
   <item>
-    <name>Wind and Whirl (TP)</name>
+    <name>Wind and Whirl [TP Legacy]</name>
     <detail>scimitar, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8768,7 +8768,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 190 (Third Party)</text>
     <roll description="Bludgeoning Damage">1d6</roll>
   </item>
   <item>
-    <name>Wind-Up Merchant (TP)</name>
+    <name>Wind-Up Merchant [TP Legacy]</name>
     <detail>rare</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -8799,7 +8799,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 191 (Third Party)</text>
     <roll description="Item">1d12</roll>
   </item>
   <item>
-    <name>Wisp Cloak (TP)</name>
+    <name>Wisp Cloak [TP Legacy]</name>
     <detail>uncommon (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -8810,7 +8810,7 @@ Curse: This cloak is cursed by the spirit of a person who was betrayed by a clos
 Source:	The Griffon's Saddlebag: Book Two p. 191 (Third Party)</text>
   </item>
   <item>
-    <name>Wispy Sour (Common) (TP)</name>
+    <name>Wispy Sour (Common) [TP Legacy]</name>
     <detail>common</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -8819,7 +8819,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 191 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 192 (Third Party)</text>
   </item>
   <item>
-    <name>Wispy Sour (Uncommon) (TP)</name>
+    <name>Wispy Sour (Uncommon) [TP Legacy]</name>
     <detail>uncommon</detail>
     <type>P</type>
     <magic>YES</magic>
@@ -8830,7 +8830,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 192 (Third Party)</text>
     <roll description="Heal">1d8+2</roll>
   </item>
   <item>
-    <name>Wraps of the Restless (TP)</name>
+    <name>Wraps of the Restless [TP Legacy]</name>
     <detail>very rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -8847,7 +8847,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 192 (Third Party)</text>
     <roll description="Necrotic Damage">2d8</roll>
   </item>
   <item>
-    <name>Wyrmling Wristlet (TP)</name>
+    <name>Wyrmling Wristlet [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -8874,7 +8874,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 192 (Third Party)</text>
     <roll description="Bead Color">1d10</roll>
   </item>
   <item>
-    <name>Wrymshide Bow (TP)</name>
+    <name>Wrymshide Bow [TP Legacy]</name>
     <detail>shortbow, rare (requires attunement)</detail>
     <type>R</type>
     <magic>YES</magic>
@@ -8918,7 +8918,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 193 (Third Party)</text>
     <roll description="Extra Damage">1d8</roll>
   </item>
   <item>
-    <name>Xibalban Blade (TP)</name>
+    <name>Xibalban Blade [TP Legacy]</name>
     <detail>longsword, very rare (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -8944,7 +8944,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 193 (Third Party)</text>
     <roll description="Necrotic Damage">1d6</roll>
   </item>
   <item>
-    <name>Xorn-Sole Boots (TP)</name>
+    <name>Xorn-Sole Boots [TP Legacy]</name>
     <detail>rare (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -8955,7 +8955,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 193 (Third Party)</text>
 Source:	The Griffon's Saddlebag: Book Two p. 194 (Third Party)</text>
   </item>
   <item>
-    <name>Arista, Wand of the Spire (TP)</name>
+    <name>Arista, Wand of the Spire [TP Legacy]</name>
     <detail>spellcasting focus, artifact (requires attunement by a spellcaster)</detail>
     <type>WD</type>
     <magic>YES</magic>
@@ -8995,7 +8995,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 196 (Third Party)</text>
     <roll description="Bludgeoning Damage">4d6</roll>
   </item>
   <item>
-    <name>Hatred, the Wrathful Edge (TP)</name>
+    <name>Hatred, the Wrathful Edge [TP Legacy]</name>
     <detail>greataxe, artifact (requires attunement by a creature the axe deems worthy)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -9040,7 +9040,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 197 (Third Party),
     <roll description="Fire or Lightning Damage">1d6</roll>
   </item>
   <item>
-    <name>Morath, Scepter of the Soul Vortex (TP)</name>
+    <name>Morath, Scepter of the Soul Vortex [TP Legacy]</name>
     <detail>spellcasting focus, artifact (requires attunement by a sorcerer, warlock, or wizard)</detail>
     <type>RD</type>
     <magic>YES</magic>
@@ -9077,7 +9077,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 198 (Third Party),
     <roll description="Recharge">1d3+1</roll>
   </item>
   <item>
-    <name>Nimbus, First Staff of the Thunderbirds (TP)</name>
+    <name>Nimbus, First Staff of the Thunderbirds [TP Legacy]</name>
     <detail>spellcasting focus, artifact (requires attunement)</detail>
     <type>ST</type>
     <magic>YES</magic>
@@ -9125,7 +9125,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 199 (Third Party),
     <roll description="Recharge">1d6+2</roll>
   </item>
   <item>
-    <name>Silverwind, the Cleansing Breeze (TP)</name>
+    <name>Silverwind, the Cleansing Breeze [TP Legacy]</name>
     <detail>longsword, artifact (requires attunement)</detail>
     <type>M</type>
     <magic>YES</magic>
@@ -9168,7 +9168,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 200 (Third Party),
     <modifier category="bonus">weapon damage +1</modifier>
   </item>
   <item>
-    <name>The Griffon's Saddlebag (TP)</name>
+    <name>The Griffon's Saddlebag [TP Legacy]</name>
     <detail>artifact</detail>
     <type>W</type>
     <magic>YES</magic>

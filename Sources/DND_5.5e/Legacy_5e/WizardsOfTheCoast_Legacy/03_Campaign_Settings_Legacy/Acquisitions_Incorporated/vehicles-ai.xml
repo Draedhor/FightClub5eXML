@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Battle Balloon</name>
+    <name>Battle Balloon [Legacy]</name>
     <size>G</size>
     <type>vehicle (80 ft. × 20 ft.)</type>
     <alignment/>
@@ -126,7 +126,7 @@ Source:	Acquisitions Incorporated p. 218</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mechanical Beholder</name>
+    <name>Mechanical Beholder [Legacy]</name>
     <size>H</size>
     <type>vehicle (15 ft. × 15 ft.)</type>
     <alignment/>

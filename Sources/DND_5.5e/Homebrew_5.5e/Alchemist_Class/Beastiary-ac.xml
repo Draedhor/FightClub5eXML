@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Alchemical Homunculus (TP)</name>
+    <name>Alchemical Homunculus [TP]</name>
     <sortname>Homunculus, Alchemical</sortname>
     <ancestry>Homunculus</ancestry>
     <size>T</size>
@@ -46,7 +46,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Apothecary (TP)</name>
+    <name>Apothecary [TP]</name>
     <sortname>Apothecary</sortname>
     <ancestry>Apothecary</ancestry>
     <npc>YES</npc>
@@ -120,7 +120,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Fulminaire (TP)</name>
+    <name>Fulminaire [TP]</name>
     <sortname>Apothecary, Fulminaire</sortname>
     <ancestry>Apothecary</ancestry>
     <npc>YES</npc>
@@ -197,7 +197,7 @@
     <environment/>
   </monster>
   <monster>
-    <name>Salbenist (TP)</name>
+    <name>Salbenist [TP]</name>
     <sortname>Apothecary, Salbenist</sortname>
     <ancestry>Apothecary</ancestry>
     <npc>YES</npc>

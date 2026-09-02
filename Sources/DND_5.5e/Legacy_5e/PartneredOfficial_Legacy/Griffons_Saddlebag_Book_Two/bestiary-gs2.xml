@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Bardic Merchant</name>
+    <name>Bardic Merchant [TP Legacy]</name>
     <sortname>Merchant, Bardic</sortname>
     <ancestry>Merchant</ancestry>
     <npc>YES</npc>
@@ -63,7 +63,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 336 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cartographer's Agent</name>
+    <name>Cartographer's Agent [TP Legacy]</name>
     <sortname>Agent, Cartographer's</sortname>
     <ancestry>Agent</ancestry>
     <npc>YES</npc>
@@ -135,7 +135,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 337 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kaybella Dawnquill, The Cartographer</name>
+    <name>Kaybella Dawnquill, The Cartographer [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -225,7 +225,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 337 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Spider Rat</name>
+    <name>Giant Spider Rat [TP Legacy]</name>
     <sortname>Spider Rat, Giant</sortname>
     <ancestry>Spider Rate</ancestry>
     <size>S</size>
@@ -277,7 +277,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 338 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Spore Lizard</name>
+    <name>Giant Spore Lizard [TP Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -331,7 +331,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 338 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Merchant Lord</name>
+    <name>Merchant Lord [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -402,7 +402,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 339 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Chantelle Redcliff, Mercantile Guildmaster</name>
+    <name>Chantelle Redcliff, Mercantile Guildmaster [TP Legacy]</name>
     <sortname>Redcliff, Chantelle</sortname>
     <ancestry>Merchant Lord</ancestry>
     <npc>YES</npc>
@@ -495,7 +495,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 339 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Scarapit</name>
+    <name>Scarapit [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -554,7 +554,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 340 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Seed Coin</name>
+    <name>Seed Coin [TP Legacy]</name>
     <size>T</size>
     <type>plant</type>
     <alignment>Chaotic Evil</alignment>
@@ -606,7 +606,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 340 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Silver Seed Coin</name>
+    <name>Silver Seed Coin [TP Legacy]</name>
     <size>T</size>
     <type>plant</type>
     <alignment>Chaotic Evil</alignment>
@@ -670,7 +670,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 341 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Seed Coin Pollinator</name>
+    <name>Seed Coin Pollinator [TP Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment>Chaotic Evil</alignment>
@@ -727,7 +727,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 341 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Germination Stall</name>
+    <name>Germination Stall [TP Legacy]</name>
     <sortname>Stall, Germination</sortname>
     <ancestry>Stall</ancestry>
     <size>H</size>
@@ -800,7 +800,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 342 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bloodmire Treant</name>
+    <name>Bloodmire Treant [TP Legacy]</name>
     <sortname>Treant, Bloodmire</sortname>
     <ancestry>Treant</ancestry>
     <size>H</size>
@@ -865,7 +865,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 344 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Crimson Legion Imp</name>
+    <name>Crimson Legion Imp [TP Legacy]</name>
     <sortname>Legion Imp, Crimson</sortname>
     <ancestry>Legion Imp</ancestry>
     <size>S</size>
@@ -931,7 +931,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 344 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Blood Eel</name>
+    <name>Giant Blood Eel [TP Legacy]</name>
     <sortname>Blood Eel, Giant</sortname>
     <ancestry>Blood Eel</ancestry>
     <size>L</size>
@@ -983,7 +983,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 345 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Mosquito</name>
+    <name>Giant Mosquito [TP Legacy]</name>
     <sortname>Mosquito, Giant</sortname>
     <ancestry>Mosquito</ancestry>
     <size>S</size>
@@ -1026,7 +1026,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 345 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Swarm of Giant Mosquitoes</name>
+    <name>Swarm of Giant Mosquitoes [TP Legacy]</name>
     <size>L</size>
     <type>swarm of tiny beasts</type>
     <alignment>Unaligned</alignment>
@@ -1072,7 +1072,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 345 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Malfuriel the Betrayer</name>
+    <name>Malfuriel the Betrayer [TP Legacy]</name>
     <npc>YES</npc>
     <size>L</size>
     <type>fiend (devil)</type>
@@ -1189,7 +1189,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 346 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Crest City Druid (Wrymling)</name>
+    <name>Crest City Druid (Wrymling) [TP Legacy]</name>
     <sortname>Druid (Wrymling), Crest City</sortname>
     <ancestry>Druid</ancestry>
     <npc>YES</npc>
@@ -1278,7 +1278,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 348 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Crest City Druid (Youth)</name>
+    <name>Crest City Druid (Youth) [TP Legacy]</name>
     <sortname>Druid (Youth), Crest City</sortname>
     <ancestry>Druid</ancestry>
     <npc>YES</npc>
@@ -1381,7 +1381,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 348 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Vincent von Dreck</name>
+    <name>Vincent von Dreck [TP Legacy]</name>
     <sortname>von Dreck, Vincent</sortname>
     <ancestry>Crest City Druid (Wrymling)</ancestry>
     <npc>YES</npc>
@@ -1489,7 +1489,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 349 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lothrem, the Wreathed Dragon</name>
+    <name>Lothrem, the Wreathed Dragon [TP Legacy]</name>
     <size>G</size>
     <type>dragon</type>
     <alignment>Lawful Neutral</alignment>
@@ -1610,7 +1610,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 350 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Death Coach</name>
+    <name>Death Coach [TP Legacy]</name>
     <size>H</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -1703,7 +1703,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 352 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Durheim Initiate</name>
+    <name>Durheim Initiate [TP Legacy]</name>
     <sortname>Durheim, Initiate</sortname>
     <ancestry>Durheim</ancestry>
     <npc>YES</npc>
@@ -1760,7 +1760,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 353 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Durheim Guide</name>
+    <name>Durheim Guide [TP Legacy]</name>
     <sortname>Durheim, Guide</sortname>
     <ancestry>Durheim</ancestry>
     <npc>YES</npc>
@@ -1841,7 +1841,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 353 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Durheim Leader</name>
+    <name>Durheim Leader [TP Legacy]</name>
     <sortname>Durheim, Leader</sortname>
     <ancestry>Durheim</ancestry>
     <npc>YES</npc>
@@ -1928,7 +1928,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 354 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Durheim Leader with Lightseer's Gaze</name>
+    <name>Durheim Leader with Lightseer's Gaze [TP Legacy]</name>
     <sortname>Durheim, Leader with Lightseer's Gaze</sortname>
     <ancestry>Durheim</ancestry>
     <npc>YES</npc>
@@ -2031,7 +2031,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 354 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ghost Dragon</name>
+    <name>Ghost Dragon [TP Legacy]</name>
     <sortname>Dragon, Ghost</sortname>
     <ancestry>Dragon</ancestry>
     <size>H</size>
@@ -2137,7 +2137,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 355 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Haunted Reflection</name>
+    <name>Haunted Reflection [TP Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Lawful Evil</alignment>
@@ -2199,7 +2199,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 356 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>The Wild Hunt</name>
+    <name>The Wild Hunt [TP Legacy]</name>
     <size>H</size>
     <type>swarm of medium undead</type>
     <alignment>Chaotic Neutral</alignment>
@@ -2286,7 +2286,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 357 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ale Elemental</name>
+    <name>Ale Elemental [TP Legacy]</name>
     <sortname>Elemental, Ale</sortname>
     <ancestry>Elemental</ancestry>
     <size>L</size>
@@ -2348,7 +2348,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 358 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Wine Elemental</name>
+    <name>Wine Elemental [TP Legacy]</name>
     <sortname>Elemental, Wine</sortname>
     <ancestry>Elemental</ancestry>
     <size>L</size>
@@ -2413,7 +2413,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 358 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Festus Battlechef</name>
+    <name>Festus Battlechef [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -2491,7 +2491,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 359 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Purple Jam</name>
+    <name>Purple Jam [TP Legacy]</name>
     <size>S</size>
     <type>ooze</type>
     <ac>10</ac>
@@ -2544,7 +2544,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 360 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mimic Keg</name>
+    <name>Mimic Keg [TP Legacy]</name>
     <sortname>Mimic, Keg</sortname>
     <ancestry>Mimic</ancestry>
     <size>M</size>
@@ -2606,7 +2606,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 361 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Refuse Golem</name>
+    <name>Refuse Golem [TP Legacy]</name>
     <sortname>Golem, Refuse</sortname>
     <ancestry>Golem</ancestry>
     <size>L</size>
@@ -2680,7 +2680,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 361 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rot Monster</name>
+    <name>Rot Monster [TP Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -2740,7 +2740,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 362 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tipsy</name>
+    <name>Tipsy [TP Legacy]</name>
     <size>T</size>
     <type>fey</type>
     <alignment>Chaotic Neutral</alignment>
@@ -2797,7 +2797,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 362 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Archer Flower</name>
+    <name>Archer Flower [TP Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <ac>13</ac>
@@ -2845,7 +2845,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 363 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bramble Creeper</name>
+    <name>Bramble Creeper [TP Legacy]</name>
     <size>L</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -2903,7 +2903,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 364 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cloverback Toad</name>
+    <name>Cloverback Toad [TP Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -2968,7 +2968,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 364 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cyglops</name>
+    <name>Cyglops [TP Legacy]</name>
     <ancestry>Geleton</ancestry>
     <npc>YES</npc>
     <size>H</size>
@@ -3032,7 +3032,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 365 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Geleton Adventurer</name>
+    <name>Geleton Adventurer [TP Legacy]</name>
     <sortname>Geleton, Adventurer</sortname>
     <ancestry>Geleton</ancestry>
     <npc>YES</npc>
@@ -3090,7 +3090,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 365 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Grymhare</name>
+    <name>Grymhare [TP Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Neutral Evil</alignment>
@@ -3163,7 +3163,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 366 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Grym-Mage Tyrannosaur</name>
+    <name>Grym-Mage Tyrannosaur [TP Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <ac>13 (natural armor)</ac>
@@ -3228,7 +3228,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 366 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Psybird</name>
+    <name>Psybird [TP Legacy]</name>
     <size>S</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -3285,7 +3285,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 367 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Alceton</name>
+    <name>Alceton [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <ac>14</ac>
@@ -3339,7 +3339,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 368 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lava Wurm</name>
+    <name>Lava Wurm [TP Legacy]</name>
     <sortname>Lava Wurm</sortname>
     <ancestry>Lava Wurm</ancestry>
     <size>L</size>
@@ -3405,7 +3405,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 369 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Elder Lava Wurm</name>
+    <name>Elder Lava Wurm [TP Legacy]</name>
     <sortname>Lava Wurm, Elder</sortname>
     <ancestry>Lava Wurm</ancestry>
     <size>L</size>
@@ -3478,7 +3478,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 369 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Steel Hawk Soldier</name>
+    <name>Steel Hawk Soldier [TP Legacy]</name>
     <sortname>Steel Hawk, Soldier</sortname>
     <ancestry>Steel Hawk</ancestry>
     <size>M</size>
@@ -3537,7 +3537,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 370 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Steel Hawk Captain</name>
+    <name>Steel Hawk Captain [TP Legacy]</name>
     <sortname>Steel Hawk, Captain</sortname>
     <ancestry>Steel Hawk</ancestry>
     <size>M</size>
@@ -3608,7 +3608,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 370 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Wyvernfly</name>
+    <name>Wyvernfly [TP Legacy]</name>
     <size>L</size>
     <type>dragon</type>
     <alignment>Unaligned</alignment>
@@ -3671,7 +3671,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 371 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Antlion Hatchling</name>
+    <name>Giant Antlion Hatchling [TP Legacy]</name>
     <sortname>Giant Antlion, Hatchling</sortname>
     <ancestry>Giant Antlion</ancestry>
     <size>M</size>
@@ -3726,7 +3726,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 372 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Juvenile Giant Antlion</name>
+    <name>Juvenile Giant Antlion [TP Legacy]</name>
     <sortname>Giant Antlion, Juvenile</sortname>
     <ancestry>Giant Antlion</ancestry>
     <size>L</size>
@@ -3794,7 +3794,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 373 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Adult Giant Antlion</name>
+    <name>Adult Giant Antlion [TP Legacy]</name>
     <sortname>Giant Antlion, Adult</sortname>
     <ancestry>Giant Antlion</ancestry>
     <size>H</size>
@@ -3875,7 +3875,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 373 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Desert Cat</name>
+    <name>Desert Cat [TP Legacy]</name>
     <sortname>Cat, Desert</sortname>
     <ancestry>Cat</ancestry>
     <size>T</size>
@@ -3930,7 +3930,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 374 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sand Lizard</name>
+    <name>Sand Lizard [TP Legacy]</name>
     <sortname>Lizard, Sand</sortname>
     <ancestry>Lizard</ancestry>
     <size>L</size>
@@ -3994,7 +3994,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 375 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sand Spider</name>
+    <name>Sand Spider [TP Legacy]</name>
     <sortname>Spider, Sand</sortname>
     <ancestry>Spider</ancestry>
     <size>L</size>
@@ -4050,7 +4050,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 375 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>H'Rethi, Soul of the Desert</name>
+    <name>H'Rethi, Soul of the Desert [TP Legacy]</name>
     <size>G</size>
     <type>construct</type>
     <alignment>Chaotic Neutral</alignment>
@@ -4156,7 +4156,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 376 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Butcher Dray, Three-Headed Ettin</name>
+    <name>Butcher Dray, Three-Headed Ettin [TP Legacy]</name>
     <sortname>Dray, Butcher</sortname>
     <ancestry>Three-Headed Ettin</ancestry>
     <size>H</size>
@@ -4288,7 +4288,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 379 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ghiroo, The Superhydra</name>
+    <name>Ghiroo, The Superhydra [TP Legacy]</name>
     <size>G</size>
     <type>monstrosities</type>
     <alignment>Neutral</alignment>
@@ -4394,7 +4394,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 380 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Analeptic Lizard</name>
+    <name>Analeptic Lizard [TP Legacy]</name>
     <sortname>Lizard, Analeptic</sortname>
     <ancestry>Lizard</ancestry>
     <size>T</size>
@@ -4450,7 +4450,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 381 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lady Feluciana, Legendary Medusa Sorceress</name>
+    <name>Lady Feluciana, Legendary Medusa Sorceress [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>monstrosity</type>
@@ -4579,7 +4579,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 383 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>The Thousand Voices, Supreme Soul Vortex</name>
+    <name>The Thousand Voices, Supreme Soul Vortex [TP Legacy]</name>
     <size>G</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -4711,7 +4711,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 385 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Vaanor, Primeval Cerebus</name>
+    <name>Vaanor, Primeval Cerebus [TP Legacy]</name>
     <size>G</size>
     <type>fiend</type>
     <alignment>Lawful Neutral</alignment>
@@ -4834,7 +4834,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 386 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Cerberus Pup</name>
+    <name>Cerberus Pup [TP Legacy]</name>
     <sortname>Cerberus, Pup</sortname>
     <ancestry>Cerberus</ancestry>
     <size>T</size>
@@ -4894,7 +4894,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 387 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Infinite Animarum Leader</name>
+    <name>Infinite Animarum Leader [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any)</type>
@@ -4957,7 +4957,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 388 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ochre Elson, Animarum Maestro</name>
+    <name>Ochre Elson, Animarum Maestro [TP Legacy]</name>
     <sortname>Elson, Ochre</sortname>
     <ancestry>Ochre Elson</ancestry>
     <npc>YES</npc>
@@ -5028,7 +5028,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 389 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ochre Elson with Morath, Scepter of the Soul Vortex</name>
+    <name>Ochre Elson with Morath, Scepter of the Soul Vortex [TP Legacy]</name>
     <sortname>Elson, Ochre</sortname>
     <ancestry>Ochre Elson</ancestry>
     <npc>YES</npc>
@@ -5109,7 +5109,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 389 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Iron Maw Barbarian</name>
+    <name>Iron Maw Barbarian [TP Legacy]</name>
     <sortname>Barbarian, Iron Maw</sortname>
     <ancestry>Barbarian</ancestry>
     <npc>YES</npc>
@@ -5178,7 +5178,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 390 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Iron Maw Gladiator</name>
+    <name>Iron Maw Gladiator [TP Legacy]</name>
     <sortname>Gladiator, Iron Maw</sortname>
     <ancestry>Gladiator</ancestry>
     <npc>YES</npc>
@@ -5266,7 +5266,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 391 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Brimstone Drake</name>
+    <name>Brimstone Drake [TP Legacy]</name>
     <sortname>Drake, Brimstone</sortname>
     <ancestry>Drake</ancestry>
     <size>L</size>
@@ -5341,7 +5341,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 392 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dyra</name>
+    <name>Dyra [TP Legacy]</name>
     <size>S</size>
     <type>fiend</type>
     <alignment>Neutral Evil</alignment>
@@ -5410,7 +5410,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 392 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dyra Juggernaut</name>
+    <name>Dyra Juggernaut [TP Legacy]</name>
     <sortname>Dyra, Juggernaut</sortname>
     <ancestry>Dyra</ancestry>
     <size>M</size>
@@ -5483,7 +5483,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 393 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Flintclaw</name>
+    <name>Flintclaw [TP Legacy]</name>
     <size>M</size>
     <type>fiend</type>
     <alignment>Neutral Evil</alignment>
@@ -5543,7 +5543,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 393 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kiir</name>
+    <name>Kiir [TP Legacy]</name>
     <size>T</size>
     <type>fiend</type>
     <alignment>Neutral Evil</alignment>
@@ -5609,7 +5609,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 394 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mizanoros, The Black Iron Fulcrum</name>
+    <name>Mizanoros, The Black Iron Fulcrum [TP Legacy]</name>
     <ancestry>Sanguinor</ancestry>
     <size>H</size>
     <type>fiend</type>
@@ -5741,7 +5741,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 394 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sanguinor</name>
+    <name>Sanguinor [TP Legacy]</name>
     <ancestry>Sanguinor</ancestry>
     <size>H</size>
     <type>fiend</type>
@@ -5826,7 +5826,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 395 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Etherean Trickster</name>
+    <name>Etherean Trickster [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any)</type>
@@ -5885,7 +5885,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 396 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ether Fish</name>
+    <name>Ether Fish [TP Legacy]</name>
     <sortname>Fish, Ether</sortname>
     <ancestry>Fish</ancestry>
     <size>T</size>
@@ -5935,7 +5935,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 397 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hammerhead Ether-Eel</name>
+    <name>Hammerhead Ether-Eel [TP Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -6017,7 +6017,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 397 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Slumber Phantom</name>
+    <name>Slumber Phantom [TP Legacy]</name>
     <size>L</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -6113,7 +6113,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 398 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Aqualisk</name>
+    <name>Aqualisk [TP Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -6190,7 +6190,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 399 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hawkren Bloodstone</name>
+    <name>Hawkren Bloodstone [TP Legacy]</name>
     <sortname>Bloodstone, Hawkren</sortname>
     <ancestry>Bloodstone</ancestry>
     <npc>YES</npc>
@@ -6251,7 +6251,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 400 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ogden Fellweaver</name>
+    <name>Ogden Fellweaver [TP Legacy]</name>
     <sortname>Fellweaver, Ogden</sortname>
     <ancestry>Fellweaver</ancestry>
     <npc>YES</npc>
@@ -6331,7 +6331,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 400 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Pegasus Knight</name>
+    <name>Pegasus Knight [TP Legacy]</name>
     <ancestry>Pegasus Knight</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -6387,7 +6387,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 401 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Pegasus Knight, Exalted</name>
+    <name>Pegasus Knight, Exalted [TP Legacy]</name>
     <ancestry>Pegasus Knight</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -6476,7 +6476,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 401 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Spire Scholar</name>
+    <name>Spire Scholar [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any)</type>
@@ -6526,7 +6526,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 402 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Spire Student</name>
+    <name>Spire Student [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any)</type>
@@ -6574,7 +6574,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 402 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Horned Snake</name>
+    <name>Giant Horned Snake [TP Legacy]</name>
     <sortname>Horned Snake, Giant</sortname>
     <ancestry>Horned Snake</ancestry>
     <size>H</size>
@@ -6644,7 +6644,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 403 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lightning Panther</name>
+    <name>Lightning Panther [TP Legacy]</name>
     <size>L</size>
     <type>monstrosity</type>
     <alignment>Chaotic Neutral</alignment>
@@ -6715,7 +6715,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 404 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rocborne Chief</name>
+    <name>Rocborne Chief [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any)</type>
@@ -6784,7 +6784,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 404 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rocborne Chief with Nimbus, First Staff of the Thunderbirds</name>
+    <name>Rocborne Chief with Nimbus, First Staff of the Thunderbirds [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any)</type>
@@ -6869,7 +6869,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 405 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Skywhale</name>
+    <name>Skywhale [TP Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -6919,7 +6919,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 406 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Storm Spirit</name>
+    <name>Storm Spirit [TP Legacy]</name>
     <sortname>Spirit, Storm</sortname>
     <ancestry>Spirit</ancestry>
     <size>H</size>
@@ -6982,7 +6982,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 406 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Swarm of Rain Hornets</name>
+    <name>Swarm of Rain Hornets [TP Legacy]</name>
     <sortname>Rain Hornets, Swarm</sortname>
     <ancestry>Rain Hornets</ancestry>
     <size>M</size>
@@ -7034,7 +7034,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 407 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Thunderbird</name>
+    <name>Thunderbird [TP Legacy]</name>
     <size>G</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -7106,7 +7106,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 407 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fleshcrafter</name>
+    <name>Fleshcrafter [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any)</type>
@@ -7165,7 +7165,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 408 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Justice</name>
+    <name>Justice [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any)</type>
@@ -7220,7 +7220,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 409 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mage-Arbiter</name>
+    <name>Mage-Arbiter [TP Legacy]</name>
     <ancestry>Mage-Arbiter</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -7309,7 +7309,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 410 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mage-Arbiter with the Sword of the Spelldrinker</name>
+    <name>Mage-Arbiter with the Sword of the Spelldrinker [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any)</type>
@@ -7418,7 +7418,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 410 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Magebreaker</name>
+    <name>Magebreaker [TP Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any)</type>
@@ -7486,7 +7486,7 @@ Source:	The Griffon's Saddlebag: Book Two p. 411 (Third Party)</description>
     <environment/>
   </monster>
   <monster>
-    <name>Swarm of Scorned Familiars</name>
+    <name>Swarm of Scorned Familiars [TP Legacy]</name>
     <ancestry>Scorned Familiars</ancestry>
     <size>M</size>
     <type>swarm of tiny undead</type>

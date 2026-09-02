@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Ahmaergo</name>
+    <name>Ahmaergo [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (dwarf)</type>
@@ -65,7 +65,7 @@ Source:	Waterdeep: Dragon Heist p. 193</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ammalia Cassalanter</name>
+    <name>Ammalia Cassalanter [Legacy]</name>
     <sortname>Cassalanter, Ammalia</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -118,7 +118,7 @@ Source:	Waterdeep: Dragon Heist p. 193</description>
     <environment/>
   </monster>
   <monster>
-    <name>Aurinax</name>
+    <name>Aurinax [Legacy]</name>
     <size>H</size>
     <type>dragon</type>
     <alignment>Lawful Good</alignment>
@@ -229,7 +229,7 @@ If the dragon dies, these effects end immediately.</text>
     <environment>grassland, forest</environment>
   </monster>
   <monster>
-    <name>Avi</name>
+    <name>Avi [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -281,7 +281,7 @@ If the dragon dies, these effects end immediately.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Awakened Rat</name>
+    <name>Awakened Rat [Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -316,7 +316,7 @@ If the dragon dies, these effects end immediately.</text>
     <environment/>
   </monster>
   <monster>
-    <name>Barnibus Blastwind</name>
+    <name>Barnibus Blastwind [Legacy]</name>
     <sortname>Blastwind, Barnibus</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -372,7 +372,7 @@ Source:	Waterdeep: Dragon Heist p. 195</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bepis Honeymaker</name>
+    <name>Bepis Honeymaker [Legacy]</name>
     <sortname>Honeymaker, Bepis</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -411,7 +411,7 @@ Source:	Waterdeep: Dragon Heist p. 112</description>
     <environment/>
   </monster>
   <monster>
-    <name>Black Viper</name>
+    <name>Black Viper [Legacy]</name>
     <sortname>Viper, Black</sortname>
     <ancestry>Viper</ancestry>
     <npc>YES</npc>
@@ -480,7 +480,7 @@ Source:	Waterdeep: Dragon Heist p. 196</description>
     <environment/>
   </monster>
   <monster>
-    <name>Blinded Troll</name>
+    <name>Blinded Troll [Legacy]</name>
     <sortname>Troll, Blinded</sortname>
     <ancestry>Troll</ancestry>
     <size>L</size>
@@ -556,7 +556,7 @@ The troll's speed is halved if it's missing a leg. If it loses both legs, it fal
     <environment>underdark, mountain, forest, swamp, hill, arctic</environment>
   </monster>
   <monster>
-    <name>Bonnie</name>
+    <name>Bonnie [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>monstrosity (shapechanger)</type>
@@ -609,7 +609,7 @@ The troll's speed is halved if it's missing a leg. If it loses both legs, it fal
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Davil Starsong</name>
+    <name>Davil Starsong [Legacy]</name>
     <sortname>Starsong, Davil</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -671,7 +671,7 @@ Source:	Waterdeep: Dragon Heist p. 199</description>
     <environment/>
   </monster>
   <monster>
-    <name>Diatryma</name>
+    <name>Diatryma [Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -703,7 +703,7 @@ Source:	Waterdeep: Dragon Heist p. 199</description>
     <environment>grassland, hill</environment>
   </monster>
   <monster>
-    <name>Dining Table Mimic</name>
+    <name>Dining Table Mimic [Legacy]</name>
     <sortname>Mimic, Table Dining</sortname>
     <ancestry>Mimic</ancestry>
     <size>L</size>
@@ -762,7 +762,7 @@ Source:	Waterdeep: Dragon Heist p. 199</description>
     <environment/>
   </monster>
   <monster>
-    <name>Drow Gunslinger</name>
+    <name>Drow Gunslinger [Legacy]</name>
     <sortname>Drow, Gunslinger</sortname>
     <ancestry>Drow</ancestry>
     <npc>YES</npc>
@@ -828,7 +828,7 @@ Source:	Waterdeep: Dragon Heist p. 201</description>
     <environment/>
   </monster>
   <monster>
-    <name>Durnan</name>
+    <name>Durnan [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -893,7 +893,7 @@ Source:	Waterdeep: Dragon Heist p. 203</description>
     <environment/>
   </monster>
   <monster>
-    <name>Elzerina Cassalanter</name>
+    <name>Elzerina Cassalanter [Legacy]</name>
     <sortname>Cassalanter, Elzerina</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -926,7 +926,7 @@ Source:	Waterdeep: Dragon Heist p. 203</description>
     <environment/>
   </monster>
   <monster>
-    <name>Embric</name>
+    <name>Embric [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -972,7 +972,7 @@ Source:	Waterdeep: Dragon Heist p. 203</description>
     <environment/>
   </monster>
   <monster>
-    <name>Emmek Frewn</name>
+    <name>Emmek Frewn [Legacy]</name>
     <sortname>Frewn, Emmek</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1006,7 +1006,7 @@ Source:	Waterdeep: Dragon Heist p. 203</description>
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Engineer</name>
+    <name>Engineer [Legacy]</name>
     <ancestry>Engineer</ancestry>
     <npc>YES</npc>
     <size>S</size>
@@ -1056,7 +1056,7 @@ Source:	Waterdeep: Dragon Heist p. 141</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fala Lefaliir</name>
+    <name>Fala Lefaliir [Legacy]</name>
     <sortname>Lefaliir, Fala</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1108,7 +1108,7 @@ Source:	Waterdeep: Dragon Heist p. 32</description>
     <environment/>
   </monster>
   <monster>
-    <name>Falcon</name>
+    <name>Falcon [Legacy]</name>
     <ancestry>Falcon</ancestry>
     <size>T</size>
     <type>beast</type>
@@ -1144,7 +1144,7 @@ Source:	Waterdeep: Dragon Heist p. 32</description>
     <environment/>
   </monster>
   <monster>
-    <name>Fel'rekt Lafeen</name>
+    <name>Fel'rekt Lafeen [Legacy]</name>
     <sortname>Lafeen, Fel'rekt</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1207,7 +1207,7 @@ Source:	Waterdeep: Dragon Heist p. 32</description>
     <environment/>
   </monster>
   <monster>
-    <name>Floon Blagmaar</name>
+    <name>Floon Blagmaar [Legacy]</name>
     <sortname>Blagmaar, Floon</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1241,7 +1241,7 @@ Source:	Waterdeep: Dragon Heist p. 32</description>
     <environment>arctic, desert, coastal, grassland, hill, urban, forest</environment>
   </monster>
   <monster>
-    <name>Flying Staff</name>
+    <name>Flying Staff [Legacy]</name>
     <sortname>Animated Object, Flying Staff</sortname>
     <ancestry>Animated Object</ancestry>
     <size>S</size>
@@ -1283,7 +1283,7 @@ Source:	Waterdeep: Dragon Heist p. 32</description>
     <environment/>
   </monster>
   <monster>
-    <name>Griffon Cavalry Rider</name>
+    <name>Griffon Cavalry Rider [Legacy]</name>
     <sortname>Cavalry Rider, Griffon</sortname>
     <ancestry>Cavalry Rider</ancestry>
     <npc>YES</npc>
@@ -1339,7 +1339,7 @@ Source:	Waterdeep: Dragon Heist p. 197</description>
     <environment/>
   </monster>
   <monster>
-    <name>Grinda Garloth</name>
+    <name>Grinda Garloth [Legacy]</name>
     <sortname>Garloth, Grinda</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1390,7 +1390,7 @@ Source:	Waterdeep: Dragon Heist p. 197</description>
     <environment/>
   </monster>
   <monster>
-    <name>Grum'shar</name>
+    <name>Grum'shar [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (half-orc)</type>
@@ -1439,7 +1439,7 @@ Source:	Waterdeep: Dragon Heist p. 29</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hester Barch</name>
+    <name>Hester Barch [Legacy]</name>
     <sortname>Barch, Hester</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1482,7 +1482,7 @@ Source:	Waterdeep: Dragon Heist p. 29</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hlam</name>
+    <name>Hlam [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -1594,7 +1594,7 @@ Source:	Waterdeep: Dragon Heist p. 204</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hrabbaz</name>
+    <name>Hrabbaz [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (half-orc)</type>
@@ -1647,7 +1647,7 @@ Source:	Waterdeep: Dragon Heist p. 205</description>
     <environment/>
   </monster>
   <monster>
-    <name>Istrid Horn</name>
+    <name>Istrid Horn [Legacy]</name>
     <sortname>Horn, Istrid</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1714,7 +1714,7 @@ Source:	Waterdeep: Dragon Heist p. 199</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jalester Silvermane</name>
+    <name>Jalester Silvermane [Legacy]</name>
     <sortname>Silvermane, Jalester</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1778,7 +1778,7 @@ Source:	Waterdeep: Dragon Heist p. 205</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jandar Chergoba</name>
+    <name>Jandar Chergoba [Legacy]</name>
     <sortname>Chergoba, Jandar</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1839,7 +1839,7 @@ Source:	Waterdeep: Dragon Heist p. 116</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jarlaxle Baenre</name>
+    <name>Jarlaxle Baenre [Legacy]</name>
     <sortname>Baenre, Jarlaxle</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -1947,7 +1947,7 @@ Source:	Waterdeep: Dragon Heist p. 206</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jenks</name>
+    <name>Jenks [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (human)</type>
@@ -1979,7 +1979,7 @@ Source:	Waterdeep: Dragon Heist p. 206</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kaevja Cynavern</name>
+    <name>Kaevja Cynavern [Legacy]</name>
     <sortname>Cynavern, Kaevja</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2033,7 +2033,7 @@ Source:	Waterdeep: Dragon Heist p. 158</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kalain</name>
+    <name>Kalain [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (half-elf)</type>
@@ -2097,7 +2097,7 @@ Source:	Waterdeep: Dragon Heist p. 89</description>
     <environment/>
   </monster>
   <monster>
-    <name>Krebbyg Masq'il'yr</name>
+    <name>Krebbyg Masq'il'yr [Legacy]</name>
     <sortname>Masq'il'yr, Krebbyg</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2160,7 +2160,7 @@ Source:	Waterdeep: Dragon Heist p. 89</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lady Gondafrey</name>
+    <name>Lady Gondafrey [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>elemental</type>
@@ -2208,7 +2208,7 @@ Source:	Waterdeep: Dragon Heist p. 152</description>
     <environment/>
   </monster>
   <monster>
-    <name>Laeral Silverhand</name>
+    <name>Laeral Silverhand [Legacy]</name>
     <sortname>Silverhand, Laeral</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2312,7 +2312,7 @@ Source:	Waterdeep: Dragon Heist p. 207</description>
     <environment/>
   </monster>
   <monster>
-    <name>Laiba "Nana" Rosse</name>
+    <name>Laiba "Nana" Rosse [Legacy]</name>
     <sortname>Rosse, Laiba "Nana"</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2373,7 +2373,7 @@ Source:	Waterdeep: Dragon Heist p. 116</description>
     <environment/>
   </monster>
   <monster>
-    <name>Losser Mirklav</name>
+    <name>Losser Mirklav [Legacy]</name>
     <sortname>Mirklav, Losser</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -2431,7 +2431,7 @@ Source:	Waterdeep: Dragon Heist p. 85</description>
     <environment/>
   </monster>
   <monster>
-    <name>Magister Umbero Zastro</name>
+    <name>Magister Umbero Zastro [Legacy]</name>
     <sortname>Umbero, Zastro Magister</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2475,7 +2475,7 @@ Source:	Waterdeep: Dragon Heist p. 82</description>
     <environment/>
   </monster>
   <monster>
-    <name>Manafret Cherryport</name>
+    <name>Manafret Cherryport [Legacy]</name>
     <sortname>Cherryport, Manafret</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -2533,7 +2533,7 @@ Source:	Waterdeep: Dragon Heist p. 149</description>
     <environment/>
   </monster>
   <monster>
-    <name>Manshoon</name>
+    <name>Manshoon [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -2615,7 +2615,7 @@ Source:	Waterdeep: Dragon Heist p. 209</description>
     <environment/>
   </monster>
   <monster>
-    <name>Manshoon Simulacrum</name>
+    <name>Manshoon Simulacrum [Legacy]</name>
     <sortname>Simulacrum, Manshoon</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2670,7 +2670,7 @@ Source:	Waterdeep: Dragon Heist p. 208</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mattrim "Threestrings" Mereg</name>
+    <name>Mattrim "Threestrings" Mereg [Legacy]</name>
     <sortname>Mereg, Mattrim "Threestrings"</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2728,7 +2728,7 @@ Source:	Waterdeep: Dragon Heist p. 208</description>
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Maxeene</name>
+    <name>Maxeene [Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -2762,7 +2762,7 @@ Source:	Waterdeep: Dragon Heist p. 37</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mechanical Bird</name>
+    <name>Mechanical Bird [Legacy]</name>
     <sortname>Bird, Mechanical</sortname>
     <ancestry>Bird</ancestry>
     <size>T</size>
@@ -2800,7 +2800,7 @@ Source:	Waterdeep: Dragon Heist p. 37</description>
     <environment/>
   </monster>
   <monster>
-    <name>Melannor Fellbranch</name>
+    <name>Melannor Fellbranch [Legacy]</name>
     <sortname>Fellbranch, Melannor</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2850,7 +2850,7 @@ Source:	Waterdeep: Dragon Heist p. 36</description>
     <environment/>
   </monster>
   <monster>
-    <name>Meloon Wardragon</name>
+    <name>Meloon Wardragon [Legacy]</name>
     <sortname>Wardragon, Meloon</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2915,7 +2915,7 @@ Source:	Waterdeep: Dragon Heist p. 210</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mirt</name>
+    <name>Mirt [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -2988,7 +2988,7 @@ Source:	Waterdeep: Dragon Heist p. 211</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nar'l Xibrindas</name>
+    <name>Nar'l Xibrindas [Legacy]</name>
     <sortname>Xibrindas, Nar'l</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3063,7 +3063,7 @@ Source:	Waterdeep: Dragon Heist p. 211</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nat</name>
+    <name>Nat [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (human)</type>
@@ -3095,7 +3095,7 @@ Source:	Waterdeep: Dragon Heist p. 211</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nihiloor</name>
+    <name>Nihiloor [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Lawful Evil</alignment>
@@ -3150,7 +3150,7 @@ Source:	Waterdeep: Dragon Heist p. 211</description>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Nimblewright</name>
+    <name>Nimblewright [Legacy]</name>
     <size>M</size>
     <type>construct</type>
     <alignment>Unaligned</alignment>
@@ -3220,7 +3220,7 @@ Source:	Waterdeep: Dragon Heist p. 212</description>
     <environment/>
   </monster>
   <monster>
-    <name>Noska Ur'gray</name>
+    <name>Noska Ur'gray [Legacy]</name>
     <sortname>Ur'gray, Noska</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3277,7 +3277,7 @@ Source:	Waterdeep: Dragon Heist p. 213</description>
     <environment/>
   </monster>
   <monster>
-    <name>Obaya Uday</name>
+    <name>Obaya Uday [Legacy]</name>
     <sortname>Uday, Obaya</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3326,7 +3326,7 @@ Source:	Waterdeep: Dragon Heist p. 213</description>
     <environment/>
   </monster>
   <monster>
-    <name>Obliteros</name>
+    <name>Obliteros [Legacy]</name>
     <size>H</size>
     <type>beast</type>
     <alignment>Chaotic Evil</alignment>
@@ -3368,7 +3368,7 @@ Source:	Waterdeep: Dragon Heist p. 66</description>
     <environment/>
   </monster>
   <monster>
-    <name>Orond Gralhund</name>
+    <name>Orond Gralhund [Legacy]</name>
     <sortname>Gralhund, Orond</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3418,7 +3418,7 @@ Source:	Waterdeep: Dragon Heist p. 213</description>
     <environment/>
   </monster>
   <monster>
-    <name>Osvaldo Cassalanter</name>
+    <name>Osvaldo Cassalanter [Legacy]</name>
     <sortname>Cassalanter, Osvaldo</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3475,7 +3475,7 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to pierci
     <environment/>
   </monster>
   <monster>
-    <name>Ott Steeltoes</name>
+    <name>Ott Steeltoes [Legacy]</name>
     <sortname>Steeltoes, Ott</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3519,7 +3519,7 @@ Source:	Waterdeep: Dragon Heist p. 214</description>
     <environment/>
   </monster>
   <monster>
-    <name>Panopticus Wizard</name>
+    <name>Panopticus Wizard [Legacy]</name>
     <sortname>Wizard, Panopticus</sortname>
     <ancestry>Wizard</ancestry>
     <npc>YES</npc>
@@ -3572,7 +3572,7 @@ Source:	Waterdeep: Dragon Heist p. 106</description>
     <environment/>
   </monster>
   <monster>
-    <name>Remallia Haventree</name>
+    <name>Remallia Haventree [Legacy]</name>
     <sortname>Haventree, Remallia</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3638,7 +3638,7 @@ Source:	Waterdeep: Dragon Heist p. 214</description>
     <environment/>
   </monster>
   <monster>
-    <name>Renaer Neverember</name>
+    <name>Renaer Neverember [Legacy]</name>
     <sortname>Neverember, Renaer</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3699,7 +3699,7 @@ Source:	Waterdeep: Dragon Heist p. 215</description>
     <environment/>
   </monster>
   <monster>
-    <name>Rishaal the Page-Turner</name>
+    <name>Rishaal the Page-Turner [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (dragonborn)</type>
@@ -3750,7 +3750,7 @@ Source:	Waterdeep: Dragon Heist p. 215</description>
     <environment/>
   </monster>
   <monster>
-    <name>Saeth Cromley</name>
+    <name>Saeth Cromley [Legacy]</name>
     <sortname>Cromley, Saeth</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -3800,7 +3800,7 @@ Source:	Waterdeep: Dragon Heist p. 216</description>
     <environment/>
   </monster>
   <monster>
-    <name>Samara Strongbones</name>
+    <name>Samara Strongbones [Legacy]</name>
     <sortname>Strongbones, Samara</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -3860,7 +3860,7 @@ Source:	Waterdeep: Dragon Heist p. 216</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sergeant</name>
+    <name>Sergeant [Legacy]</name>
     <ancestry>Sergeant</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -3894,7 +3894,7 @@ Source:	Waterdeep: Dragon Heist p. 216</description>
     <environment/>
   </monster>
   <monster>
-    <name>Shard Shunner</name>
+    <name>Shard Shunner [Legacy]</name>
     <sortname>Shunner, Shard</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -3960,7 +3960,7 @@ Source:	Waterdeep: Dragon Heist p. 42</description>
     <environment/>
   </monster>
   <monster>
-    <name>Skeemo Weirdbottle</name>
+    <name>Skeemo Weirdbottle [Legacy]</name>
     <sortname>Weirdbottle, Skeemo</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -4019,7 +4019,7 @@ Source:	Waterdeep: Dragon Heist p. 200</description>
     <environment/>
   </monster>
   <monster>
-    <name>Soluun Xibrindas</name>
+    <name>Soluun Xibrindas [Legacy]</name>
     <sortname>Xibrindas, Soluun</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4094,7 +4094,7 @@ Source:	Waterdeep: Dragon Heist p. 202</description>
     <environment/>
   </monster>
   <monster>
-    <name>Squiddly</name>
+    <name>Squiddly [Legacy]</name>
     <npc>YES</npc>
     <size>S</size>
     <type>humanoid (tiefling)</type>
@@ -4126,7 +4126,7 @@ Source:	Waterdeep: Dragon Heist p. 202</description>
     <environment/>
   </monster>
   <monster>
-    <name>Swarm of Books</name>
+    <name>Swarm of Books [Legacy]</name>
     <sortname>Book, Swarm</sortname>
     <ancestry>Book</ancestry>
     <size>M</size>
@@ -4166,7 +4166,7 @@ Source:	Waterdeep: Dragon Heist p. 156</description>
     <environment/>
   </monster>
   <monster>
-    <name>Swarm of Mechanical Spiders</name>
+    <name>Swarm of Mechanical Spiders [Legacy]</name>
     <sortname>Spider, Mechanical Swarm</sortname>
     <ancestry>Spider</ancestry>
     <size>M</size>
@@ -4222,7 +4222,7 @@ Source:	Waterdeep: Dragon Heist p. 143</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sylgar</name>
+    <name>Sylgar [Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -4259,7 +4259,7 @@ Source:	Waterdeep: Dragon Heist p. 220</description>
     <environment/>
   </monster>
   <monster>
-    <name>Talisolvanar "Tally" Fellbranch</name>
+    <name>Talisolvanar "Tally" Fellbranch [Legacy]</name>
     <sortname>Fellbranch, Talisolvanar "Tally"</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4299,7 +4299,7 @@ Source:	Waterdeep: Dragon Heist p. 32</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tashlyn Yafeera</name>
+    <name>Tashlyn Yafeera [Legacy]</name>
     <sortname>Yafeera, Tashlyn</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4365,7 +4365,7 @@ Source:	Waterdeep: Dragon Heist p. 200</description>
     <environment/>
   </monster>
   <monster>
-    <name>Terenzio Cassalanter</name>
+    <name>Terenzio Cassalanter [Legacy]</name>
     <sortname>Cassalanter, Terenzio</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -4398,7 +4398,7 @@ Source:	Waterdeep: Dragon Heist p. 200</description>
     <environment/>
   </monster>
   <monster>
-    <name>Thorvin Twinbeard</name>
+    <name>Thorvin Twinbeard [Legacy]</name>
     <sortname>Twinbeard, Thorvin</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4440,7 +4440,7 @@ Source:	Waterdeep: Dragon Heist p. 216</description>
     <environment/>
   </monster>
   <monster>
-    <name>Thrakkus</name>
+    <name>Thrakkus [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (dragonborn)</type>
@@ -4485,7 +4485,7 @@ Source:	Waterdeep: Dragon Heist p. 89</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tissina Khyret</name>
+    <name>Tissina Khyret [Legacy]</name>
     <sortname>Khyret, Tissina</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4546,7 +4546,7 @@ Source:	Waterdeep: Dragon Heist p. 116</description>
     <environment/>
   </monster>
   <monster>
-    <name>Urstul Floxin</name>
+    <name>Urstul Floxin [Legacy]</name>
     <sortname>Floxin, Urstul</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4608,7 +4608,7 @@ Source:	Waterdeep: Dragon Heist p. 216</description>
     <environment/>
   </monster>
   <monster>
-    <name>Vajra Safahr</name>
+    <name>Vajra Safahr [Legacy]</name>
     <sortname>Safahr, Vajra</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4677,7 +4677,7 @@ Source:	Waterdeep: Dragon Heist p. 217</description>
     <environment/>
   </monster>
   <monster>
-    <name>Valetta</name>
+    <name>Valetta [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (dragonborn)</type>
@@ -4731,7 +4731,7 @@ Source:	Waterdeep: Dragon Heist p. 47</description>
     <environment/>
   </monster>
   <monster>
-    <name>Victoro Cassalanter</name>
+    <name>Victoro Cassalanter [Legacy]</name>
     <sortname>Cassalanter, Victoro</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4813,7 +4813,7 @@ Source:	Waterdeep: Dragon Heist p. 218</description>
     <environment/>
   </monster>
   <monster>
-    <name>Vincent Trench</name>
+    <name>Vincent Trench [Legacy]</name>
     <sortname>Trench, Vincent</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4866,7 +4866,7 @@ The magical curse takes effect whenever the target takes a short or long rest, f
     <environment>urban</environment>
   </monster>
   <monster>
-    <name>Walking Statue of Waterdeep</name>
+    <name>Walking Statue of Waterdeep [Legacy]</name>
     <ancestry>Animated Object</ancestry>
     <size>G</size>
     <type>construct</type>
@@ -4934,7 +4934,7 @@ Source:	Waterdeep: Dragon Heist p. 219</description>
     <environment/>
   </monster>
   <monster>
-    <name>Willifort Crowelle</name>
+    <name>Willifort Crowelle [Legacy]</name>
     <sortname>Crowelle, Willifort</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4988,7 +4988,7 @@ Source:	Waterdeep: Dragon Heist p. 219</description>
     <environment>underdark, urban</environment>
   </monster>
   <monster>
-    <name>Xanathar</name>
+    <name>Xanathar [Legacy]</name>
     <ancestry>Beholder</ancestry>
     <size>L</size>
     <type>aberration</type>
@@ -5089,7 +5089,7 @@ If the beholder dies, these effects fade over the course of 1d10 days.</text>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Yagra Stonefist</name>
+    <name>Yagra Stonefist [Legacy]</name>
     <sortname>Stonefist, Yagra</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -5146,7 +5146,7 @@ Source:	Waterdeep: Dragon Heist p. 20</description>
     <environment/>
   </monster>
   <monster>
-    <name>Yalah Gralhund</name>
+    <name>Yalah Gralhund [Legacy]</name>
     <sortname>Gralhund, Yalah</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -5190,7 +5190,7 @@ Source:	Waterdeep: Dragon Heist p. 220</description>
     <environment/>
   </monster>
   <monster>
-    <name>Yorn</name>
+    <name>Yorn [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (half-orc)</type>
@@ -5243,7 +5243,7 @@ Source:	Waterdeep: Dragon Heist p. 150</description>
     <environment/>
   </monster>
   <monster>
-    <name>Zhent Martial Arts Adept</name>
+    <name>Zhent Martial Arts Adept [Legacy]</name>
     <ancestry>Adept</ancestry>
     <npc>YES</npc>
     <size>S</size>
@@ -5309,7 +5309,7 @@ Source:	Waterdeep: Dragon Heist p. 160</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ziraj the Hunter</name>
+    <name>Ziraj the Hunter [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (half-orc)</type>

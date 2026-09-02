@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <monster>
-    <name>Aruk Thundercaller Thuunlakalaga</name>
+    <name>Aruk Thundercaller Thuunlakalaga [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (goliath)</type>
@@ -58,7 +58,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 169</description>
     <environment/>
   </monster>
   <monster>
-    <name>Auril (First Form)</name>
+    <name>Auril (First Form) [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Neutral Evil</alignment>
@@ -171,7 +171,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 275</description>
     <environment/>
   </monster>
   <monster>
-    <name>Auril (Second Form)</name>
+    <name>Auril (Second Form) [Legacy]</name>
     <size>L</size>
     <type>elemental</type>
     <alignment>Neutral Evil</alignment>
@@ -288,7 +288,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 277</description>
     <environment/>
   </monster>
   <monster>
-    <name>Auril (Third Form)</name>
+    <name>Auril (Third Form) [Legacy]</name>
     <size>S</size>
     <type>elemental</type>
     <alignment>Neutral Evil</alignment>
@@ -391,7 +391,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 278</description>
     <environment/>
   </monster>
   <monster>
-    <name>Avarice</name>
+    <name>Avarice [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (tiefling)</type>
@@ -469,7 +469,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 269</description>
     <environment/>
   </monster>
   <monster>
-    <name>Awakened White Moose</name>
+    <name>Awakened White Moose [Legacy]</name>
     <sortname>Moose, Awakened White</sortname>
     <ancestry>Moose</ancestry>
     <size>L</size>
@@ -522,7 +522,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 82</description>
     <environment/>
   </monster>
   <monster>
-    <name>Battlehammer Dwarf</name>
+    <name>Battlehammer Dwarf [Legacy]</name>
     <sortname>Dwarf, Battlehammer</sortname>
     <ancestry>Dwarf</ancestry>
     <npc>YES</npc>
@@ -574,7 +574,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 82</description>
     <environment/>
   </monster>
   <monster>
-    <name>Bjornhild Solvigsdottir</name>
+    <name>Bjornhild Solvigsdottir [Legacy]</name>
     <sortname>Solvigsdottir, Bjornhild</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -628,7 +628,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 306</description>
     <environment/>
   </monster>
   <monster>
-    <name>Brain in a Jar</name>
+    <name>Brain in a Jar [Legacy]</name>
     <size>S</size>
     <type>undead</type>
     <alignment>Any alignment</alignment>
@@ -698,7 +698,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 278</description>
     <environment/>
   </monster>
   <monster>
-    <name>Chardalyn Berserker</name>
+    <name>Chardalyn Berserker [Legacy]</name>
     <sortname>Chardalyn, Berserker</sortname>
     <ancestry>Chardalyn</ancestry>
     <size>M</size>
@@ -761,7 +761,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 280</description>
     <environment/>
   </monster>
   <monster>
-    <name>Chardalyn Dragon</name>
+    <name>Chardalyn Dragon [Legacy]</name>
     <sortname>Chardalyn, Dragon</sortname>
     <ancestry>Chardalyn</ancestry>
     <size>H</size>
@@ -839,7 +839,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 281</description>
     <environment/>
   </monster>
   <monster>
-    <name>Chimeric Baboon</name>
+    <name>Chimeric Baboon [Legacy]</name>
     <sortname>Baboon, Chimeric</sortname>
     <ancestry>Baboon</ancestry>
     <size>S</size>
@@ -877,7 +877,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 281</description>
     <environment/>
   </monster>
   <monster>
-    <name>Chimeric Cat</name>
+    <name>Chimeric Cat [Legacy]</name>
     <sortname>Cat, Chimeric</sortname>
     <ancestry>Cat</ancestry>
     <size>T</size>
@@ -916,7 +916,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 246</description>
     <environment/>
   </monster>
   <monster>
-    <name>Chimeric Fox</name>
+    <name>Chimeric Fox [Legacy]</name>
     <sortname>Fox, Chimeric</sortname>
     <ancestry>Fox</ancestry>
     <size>T</size>
@@ -959,7 +959,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 246</description>
     <environment/>
   </monster>
   <monster>
-    <name>Chimeric Hare</name>
+    <name>Chimeric Hare [Legacy]</name>
     <sortname>Hare, Chimeric</sortname>
     <ancestry>Hare</ancestry>
     <size>T</size>
@@ -994,7 +994,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 246</description>
     <environment/>
   </monster>
   <monster>
-    <name>Chimeric Rat</name>
+    <name>Chimeric Rat [Legacy]</name>
     <sortname>Rat, Chimeric</sortname>
     <ancestry>Rat</ancestry>
     <size>T</size>
@@ -1035,7 +1035,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 246</description>
     <environment/>
   </monster>
   <monster>
-    <name>Chimeric Weasel</name>
+    <name>Chimeric Weasel [Legacy]</name>
     <sortname>Weasel, Chimeric</sortname>
     <ancestry>Weasel</ancestry>
     <size>T</size>
@@ -1076,7 +1076,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 246</description>
     <environment/>
   </monster>
   <monster>
-    <name>Chwinga</name>
+    <name>Chwinga [Legacy]</name>
     <size>T</size>
     <type>elemental</type>
     <alignment>Neutral</alignment>
@@ -1127,7 +1127,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 246</description>
     <environment/>
   </monster>
   <monster>
-    <name>Coldlight Walker</name>
+    <name>Coldlight Walker [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Chaotic Evil</alignment>
@@ -1186,7 +1186,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 284</description>
     <environment/>
   </monster>
   <monster>
-    <name>Demos Magen</name>
+    <name>Demos Magen [Legacy]</name>
     <sortname>Magen, Demos</sortname>
     <ancestry>Magen</ancestry>
     <size>M</size>
@@ -1247,7 +1247,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 300</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dzaan</name>
+    <name>Dzaan [Legacy]</name>
     <ancestry>Dzaan</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -1324,7 +1324,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 270</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dzaan's Clone</name>
+    <name>Dzaan's Clone [Legacy]</name>
     <sortname>Dzaan, Clone</sortname>
     <ancestry>Dzaan</ancestry>
     <size>M</size>
@@ -1383,7 +1383,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 270</description>
     <environment/>
   </monster>
   <monster>
-    <name>Dzaan's Simulacrum</name>
+    <name>Dzaan's Simulacrum [Legacy]</name>
     <sortname>Dzaan, Simulacrum</sortname>
     <ancestry>Dzaan</ancestry>
     <size>M</size>
@@ -1444,7 +1444,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 270</description>
     <environment/>
   </monster>
   <monster>
-    <name>F'yorl</name>
+    <name>F'yorl [Legacy]</name>
     <size>M</size>
     <type>aberration</type>
     <alignment>Lawful Evil</alignment>
@@ -1499,7 +1499,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 270</description>
     <environment>underdark</environment>
   </monster>
   <monster>
-    <name>Fox</name>
+    <name>Fox [Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -1536,7 +1536,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 288</description>
     <environment/>
   </monster>
   <monster>
-    <name>Frost Druid</name>
+    <name>Frost Druid [Legacy]</name>
     <sortname>Druid, Frost</sortname>
     <ancestry>Druid</ancestry>
     <size>M</size>
@@ -1604,7 +1604,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 288</description>
     <environment/>
   </monster>
   <monster>
-    <name>Frost Giant Skeleton</name>
+    <name>Frost Giant Skeleton [Legacy]</name>
     <sortname>Frost Giant, Skeleton</sortname>
     <ancestry>Frost Giant, Skeleton</ancestry>
     <size>H</size>
@@ -1653,7 +1653,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 288</description>
     <environment/>
   </monster>
   <monster>
-    <name>Galvan Magen</name>
+    <name>Galvan Magen [Legacy]</name>
     <sortname>Magen, Galvan</sortname>
     <ancestry>Magen</ancestry>
     <size>M</size>
@@ -1715,7 +1715,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 301</description>
     <environment/>
   </monster>
   <monster>
-    <name>Giant Walrus</name>
+    <name>Giant Walrus [Legacy]</name>
     <sortname>Walrus, Giant</sortname>
     <ancestry>Walrus</ancestry>
     <size>H</size>
@@ -1764,7 +1764,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 312</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gnoll Vampire</name>
+    <name>Gnoll Vampire [Legacy]</name>
     <sortname>Gnoll, Vampire</sortname>
     <ancestry>Vampire, Gnoll</ancestry>
     <size>M</size>
@@ -1869,7 +1869,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 290</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gnome Ceremorph</name>
+    <name>Gnome Ceremorph [Legacy]</name>
     <sortname>Gnome, Ceremorph</sortname>
     <ancestry>Gnome</ancestry>
     <size>S</size>
@@ -1938,7 +1938,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 303</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gnome Squidling</name>
+    <name>Gnome Squidling [Legacy]</name>
     <sortname>Gnome, Squidling</sortname>
     <ancestry>Gnome</ancestry>
     <size>S</size>
@@ -2000,7 +2000,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 303</description>
     <environment/>
   </monster>
   <monster>
-    <name>Goliath Warrior</name>
+    <name>Goliath Warrior [Legacy]</name>
     <sortname>Goliath, Warrior</sortname>
     <ancestry>Goliath</ancestry>
     <size>M</size>
@@ -2058,7 +2058,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 292</description>
     <environment/>
   </monster>
   <monster>
-    <name>Goliath Werebear</name>
+    <name>Goliath Werebear [Legacy]</name>
     <sortname>Goliath, Werebear</sortname>
     <ancestry>Goliath</ancestry>
     <size>M</size>
@@ -2131,7 +2131,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 293</description>
     <environment/>
   </monster>
   <monster>
-    <name>Grandolpha Muzgardt</name>
+    <name>Grandolpha Muzgardt [Legacy]</name>
     <sortname>Muzgardt, Grandolpha</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2187,7 +2187,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 176</description>
     <environment/>
   </monster>
   <monster>
-    <name>Gunvald Halraggson</name>
+    <name>Gunvald Halraggson [Legacy]</name>
     <sortname>Halraggson, Gunvald</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2249,7 +2249,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 305</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hare</name>
+    <name>Hare [Legacy]</name>
     <size>T</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -2282,7 +2282,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 294</description>
     <environment/>
   </monster>
   <monster>
-    <name>Headless Iron Golem</name>
+    <name>Headless Iron Golem [Legacy]</name>
     <sortname>Iron Golem, Headless</sortname>
     <ancestry>Iron Golem</ancestry>
     <size>L</size>
@@ -2349,7 +2349,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 244</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hengar Aesnvaard</name>
+    <name>Hengar Aesnvaard [Legacy]</name>
     <sortname>Aesnvaard, Hengar</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2406,7 +2406,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 215</description>
     <environment/>
   </monster>
   <monster>
-    <name>Hypnos Magen</name>
+    <name>Hypnos Magen [Legacy]</name>
     <sortname>Magen, Hypnos</sortname>
     <ancestry>Magen</ancestry>
     <size>M</size>
@@ -2464,7 +2464,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 301</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ice Piercer</name>
+    <name>Ice Piercer [Legacy]</name>
     <size>M</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -2510,7 +2510,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 226</description>
     <environment/>
   </monster>
   <monster>
-    <name>Ice Troll</name>
+    <name>Ice Troll [Legacy]</name>
     <sortname>Troll, Ice</sortname>
     <ancestry>Troll</ancestry>
     <size>L</size>
@@ -2578,7 +2578,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 295</description>
     <environment/>
   </monster>
   <monster>
-    <name>Icewind Kobold</name>
+    <name>Icewind Kobold [Legacy]</name>
     <sortname>Kobold, Icewind</sortname>
     <ancestry>Kobold</ancestry>
     <size>S</size>
@@ -2629,7 +2629,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 296</description>
     <environment/>
   </monster>
   <monster>
-    <name>Icewind Kobold Zombie</name>
+    <name>Icewind Kobold Zombie [Legacy]</name>
     <sortname>Kobold Zombie, Icewind</sortname>
     <ancestry>Kobold, Zombie</ancestry>
     <size>S</size>
@@ -2673,7 +2673,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 297</description>
     <environment/>
   </monster>
   <monster>
-    <name>Isarr Kronenstrom</name>
+    <name>Isarr Kronenstrom [Legacy]</name>
     <sortname>Kronenstrom, Isarr</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2733,7 +2733,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 307</description>
     <environment/>
   </monster>
   <monster>
-    <name>Jarund Elkhardt</name>
+    <name>Jarund Elkhardt [Legacy]</name>
     <sortname>Elkhardt, Jarund</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -2793,7 +2793,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 305</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kadroth</name>
+    <name>Kadroth [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (tiefling)</type>
@@ -2850,7 +2850,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 42</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kingsport</name>
+    <name>Kingsport [Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -2890,7 +2890,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 243</description>
     <environment/>
   </monster>
   <monster>
-    <name>Knight of the Black Sword</name>
+    <name>Knight of the Black Sword [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (any race)</type>
@@ -2947,7 +2947,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 259</description>
     <environment/>
   </monster>
   <monster>
-    <name>Knucklehead Trout</name>
+    <name>Knucklehead Trout [Legacy]</name>
     <sortname>Trout, Knucklehead</sortname>
     <ancestry>Trout</ancestry>
     <size>S</size>
@@ -2994,7 +2994,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 295</description>
     <environment/>
   </monster>
   <monster>
-    <name>Kobold Vampire Spawn</name>
+    <name>Kobold Vampire Spawn [Legacy]</name>
     <sortname>Kobold, Vampire Spawn</sortname>
     <ancestry>Vampire, Kobold</ancestry>
     <size>S</size>
@@ -3054,7 +3054,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 297</description>
     <environment/>
   </monster>
   <monster>
-    <name>Living Bigby's Hand</name>
+    <name>Living Bigby's Hand [Legacy]</name>
     <sortname>Living Spell, Bigby's Hand</sortname>
     <ancestry>Living Spell</ancestry>
     <size>L</size>
@@ -3105,7 +3105,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 298</description>
     <environment/>
   </monster>
   <monster>
-    <name>Living Blade of Disaster</name>
+    <name>Living Blade of Disaster [Legacy]</name>
     <sortname>Living Spell, Blade of Disaster</sortname>
     <ancestry>Living Spell</ancestry>
     <size>S</size>
@@ -3159,7 +3159,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 299</description>
     <environment/>
   </monster>
   <monster>
-    <name>Living Demiplane</name>
+    <name>Living Demiplane [Legacy]</name>
     <sortname>Living Spell, Demiplane</sortname>
     <ancestry>Living Spell</ancestry>
     <size>M</size>
@@ -3216,7 +3216,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 299</description>
     <environment/>
   </monster>
   <monster>
-    <name>Lonelywood Banshee</name>
+    <name>Lonelywood Banshee [Legacy]</name>
     <sortname>Banshee, Lonelywood</sortname>
     <ancestry>Banshee</ancestry>
     <size>M</size>
@@ -3270,7 +3270,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 81</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mjenir</name>
+    <name>Mjenir [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -3317,7 +3317,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 215</description>
     <environment/>
   </monster>
   <monster>
-    <name>Mountain Goat</name>
+    <name>Mountain Goat [Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -3361,7 +3361,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 304</description>
     <environment/>
   </monster>
   <monster>
-    <name>Nass Lantomir's Ghost</name>
+    <name>Nass Lantomir's Ghost [Legacy]</name>
     <ancestry>Ghost</ancestry>
     <npc>YES</npc>
     <size>M</size>
@@ -3444,7 +3444,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 272</description>
     <environment/>
   </monster>
   <monster>
-    <name>Prisoner 237</name>
+    <name>Prisoner 237 [Legacy]</name>
     <npc>YES</npc>
     <size>M</size>
     <type>humanoid (human)</type>
@@ -3500,7 +3500,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 160</description>
     <environment/>
   </monster>
   <monster>
-    <name>Reghed Chieftain</name>
+    <name>Reghed Chieftain [Legacy]</name>
     <sortname>Reghed, Chieftain</sortname>
     <ancestry>Reghed</ancestry>
     <npc>YES</npc>
@@ -3566,7 +3566,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 152</description>
     <environment/>
   </monster>
   <monster>
-    <name>Reghed Great Warrior</name>
+    <name>Reghed Great Warrior [Legacy]</name>
     <sortname>Reghed, Great Warrior</sortname>
     <ancestry>Reghed</ancestry>
     <npc>YES</npc>
@@ -3634,7 +3634,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 152</description>
     <environment/>
   </monster>
   <monster>
-    <name>Reghed Shaman</name>
+    <name>Reghed Shaman [Legacy]</name>
     <sortname>Reghed, Shaman</sortname>
     <ancestry>Reghed</ancestry>
     <npc>YES</npc>
@@ -3681,7 +3681,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 152</description>
     <environment/>
   </monster>
   <monster>
-    <name>Reghed Warrior</name>
+    <name>Reghed Warrior [Legacy]</name>
     <sortname>Reghed, Warrior</sortname>
     <ancestry>Reghed</ancestry>
     <npc>YES</npc>
@@ -3722,7 +3722,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 152</description>
     <environment/>
   </monster>
   <monster>
-    <name>Reindeer</name>
+    <name>Reindeer [Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -3763,7 +3763,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 152</description>
     <environment>grassland, forest, hill</environment>
   </monster>
   <monster>
-    <name>Seal</name>
+    <name>Seal [Legacy]</name>
     <size>M</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -3804,7 +3804,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 308</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sephek Kaltro</name>
+    <name>Sephek Kaltro [Legacy]</name>
     <size>M</size>
     <type>undead</type>
     <alignment>Neutral Evil</alignment>
@@ -3858,7 +3858,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 23</description>
     <environment/>
   </monster>
   <monster>
-    <name>Snow Golem</name>
+    <name>Snow Golem [Legacy]</name>
     <sortname>Golem, Snow</sortname>
     <ancestry>Golem</ancestry>
     <size>M</size>
@@ -3919,7 +3919,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 308</description>
     <environment/>
   </monster>
   <monster>
-    <name>Snowy Owlbear</name>
+    <name>Snowy Owlbear [Legacy]</name>
     <sortname>Owlbear, Snowy</sortname>
     <ancestry>Owlbear</ancestry>
     <size>L</size>
@@ -3968,7 +3968,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 309</description>
     <environment/>
   </monster>
   <monster>
-    <name>Spellix Romwod</name>
+    <name>Spellix Romwod [Legacy]</name>
     <sortname>Romwod, Spellix</sortname>
     <npc>YES</npc>
     <size>S</size>
@@ -4022,7 +4022,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 309</description>
     <environment/>
   </monster>
   <monster>
-    <name>Sperm Whale</name>
+    <name>Sperm Whale [Legacy]</name>
     <sortname>Whale, Sperm</sortname>
     <ancestry>Whale</ancestry>
     <size>G</size>
@@ -4080,7 +4080,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 309</description>
     <environment/>
   </monster>
   <monster>
-    <name>Spitting Mimic</name>
+    <name>Spitting Mimic [Legacy]</name>
     <sortname>Mimic, Spitting</sortname>
     <ancestry>Mimic</ancestry>
     <size>L</size>
@@ -4151,7 +4151,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 302</description>
     <environment/>
   </monster>
   <monster>
-    <name>Telepathic Pentacle</name>
+    <name>Telepathic Pentacle [Legacy]</name>
     <size>H</size>
     <type>monstrosity</type>
     <alignment>Unaligned</alignment>
@@ -4209,7 +4209,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 244</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tomb Tapper</name>
+    <name>Tomb Tapper [Legacy]</name>
     <size>H</size>
     <type>construct</type>
     <alignment>Lawful Neutral</alignment>
@@ -4275,7 +4275,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 310</description>
     <environment/>
   </monster>
   <monster>
-    <name>Tribal Warrior Spore Servants</name>
+    <name>Tribal Warrior Spore Servants [Legacy]</name>
     <size>M</size>
     <type>plant</type>
     <alignment>Unaligned</alignment>
@@ -4307,7 +4307,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 310</description>
     <environment/>
   </monster>
   <monster>
-    <name>Vellynne Harpell</name>
+    <name>Vellynne Harpell [Legacy]</name>
     <sortname>Harpell, Vellynne</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4385,7 +4385,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 273</description>
     <environment/>
   </monster>
   <monster>
-    <name>Verbeeg Longstrider</name>
+    <name>Verbeeg Longstrider [Legacy]</name>
     <sortname>Verbeeg, Longstrider</sortname>
     <ancestry>Verbeeg</ancestry>
     <size>L</size>
@@ -4441,7 +4441,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 311</description>
     <environment/>
   </monster>
   <monster>
-    <name>Verbeeg Marauder</name>
+    <name>Verbeeg Marauder [Legacy]</name>
     <sortname>Verbeeg, Marauder</sortname>
     <ancestry>Verbeeg</ancestry>
     <size>L</size>
@@ -4486,7 +4486,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 311</description>
     <environment/>
   </monster>
   <monster>
-    <name>Walrus</name>
+    <name>Walrus [Legacy]</name>
     <size>L</size>
     <type>beast</type>
     <alignment>Unaligned</alignment>
@@ -4524,7 +4524,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 312</description>
     <environment/>
   </monster>
   <monster>
-    <name>Xardorok Sunblight</name>
+    <name>Xardorok Sunblight [Legacy]</name>
     <sortname>Sunblight, Xardorok</sortname>
     <npc>YES</npc>
     <size>M</size>
@@ -4609,7 +4609,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 287</description>
     <environment/>
   </monster>
   <monster>
-    <name>Yeti Tyke</name>
+    <name>Yeti Tyke [Legacy]</name>
     <sortname>Yeti, Tyke</sortname>
     <ancestry>Yeti</ancestry>
     <size>S</size>
@@ -4653,7 +4653,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 313</description>
     <environment/>
   </monster>
   <monster>
-    <name>Young Griffon (Medium)</name>
+    <name>Young Griffon (Medium) [Legacy]</name>
     <sortname>Griffon, Young (Medium)</sortname>
     <ancestry>Griffon</ancestry>
     <size>M</size>
@@ -4702,7 +4702,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 163</description>
     <environment/>
   </monster>
   <monster>
-    <name>Young Griffon (Small)</name>
+    <name>Young Griffon (Small) [Legacy]</name>
     <sortname>Griffon, Young (Small)</sortname>
     <ancestry>Griffon</ancestry>
     <size>S</size>
@@ -4751,7 +4751,7 @@ Source:	Icewind Dale: Rime of the Frostmaiden p. 163</description>
     <environment/>
   </monster>
   <monster>
-    <name>Young Griffon (Tiny)</name>
+    <name>Young Griffon (Tiny) [Legacy]</name>
     <sortname>Griffon, Young (Tiny)</sortname>
     <ancestry>Griffon</ancestry>
     <size>T</size>

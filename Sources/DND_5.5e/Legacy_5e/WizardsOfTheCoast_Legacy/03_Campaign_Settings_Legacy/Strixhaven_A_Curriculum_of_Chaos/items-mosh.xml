@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <item>
-    <name>Alchemist's Doom</name>
+    <name>Alchemist's Doom [Legacy]</name>
     <type>G</type>
     <weight>1</weight>
     <text>This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's doom as an improvised weapon. On a hit, the target takes 7 (2d6) fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
@@ -10,7 +10,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 179</text>
     <roll>2d6</roll>
   </item>
   <item>
-    <name>Bottle of Boundless Coffee</name>
+    <name>Bottle of Boundless Coffee [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -22,7 +22,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 38</text>
     <roll>1d20</roll>
   </item>
   <item>
-    <name>Catapult Munition</name>
+    <name>Catapult Munition [Legacy]</name>
     <type>G</type>
     <text>A catapult munition roughly the size and weight of a cannonball. The munition can be thrown up to 30 feet and explodes on impact. Any creature within a 15-foot-radius sphere centered on the point of impact must make a DC 14 Dexterity saving throw, taking 35 (10d6) fire damage on a failed save, or half as much damage on a successful one. In addition, each object in that area that isn't being worn or carried takes 35 (10d6) fire damage.
 
@@ -30,7 +30,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 174</text>
     <roll description="Fire Damage">10d6</roll>
   </item>
   <item>
-    <name>Cuddly Strixhaven Mascot</name>
+    <name>Cuddly Strixhaven Mascot [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -41,7 +41,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 174</text>
 Source:	Strixhaven: A Curriculum of Chaos p. 38</text>
   </item>
   <item>
-    <name>Lorehold Primer</name>
+    <name>Lorehold Primer [Legacy]</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -54,7 +54,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 39</text>
     <roll description="Bonus">1d4</roll>
   </item>
   <item>
-    <name>Masque Charm</name>
+    <name>Masque Charm [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -63,14 +63,14 @@ Source:	Strixhaven: A Curriculum of Chaos p. 39</text>
 Source:	Strixhaven: A Curriculum of Chaos p. 127</text>
   </item>
   <item>
-    <name>Murgaxor's Elixer of Life</name>
+    <name>Murgaxor's Elixer of Life [Legacy]</name>
     <type>G</type>
     <text>Whoever drinks this concoction gains advantage on death saving throws for 24 hours.
 
 Source:	Strixhaven: A Curriculum of Chaos p. 179</text>
   </item>
   <item>
-    <name>Murgaxor's Orb</name>
+    <name>Murgaxor's Orb [Legacy]</name>
     <detail>legendary (requires attunement)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -98,7 +98,7 @@ Destroying the Orb: Murgaxor's orb has AC 18; 20 hit points; immunity to necroti
 Source:	Strixhaven: A Curriculum of Chaos p. 126</text>
   </item>
   <item>
-    <name>Prismari Primer</name>
+    <name>Prismari Primer [Legacy]</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -111,7 +111,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 39</text>
     <roll description="Bonus">1d4</roll>
   </item>
   <item>
-    <name>Quandrix Primer</name>
+    <name>Quandrix Primer [Legacy]</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -124,7 +124,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 39</text>
     <roll description="Bonus">1d4</roll>
   </item>
   <item>
-    <name>Silverquill Primer</name>
+    <name>Silverquill Primer [Legacy]</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -137,7 +137,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 39</text>
     <roll description="Bonus">1d4</roll>
   </item>
   <item>
-    <name>Strixhaven Pennant</name>
+    <name>Strixhaven Pennant [Legacy]</name>
     <detail>common</detail>
     <type>W</type>
     <magic>YES</magic>
@@ -147,7 +147,7 @@ Source:	Strixhaven: A Curriculum of Chaos p. 39</text>
 Source:	Strixhaven: A Curriculum of Chaos p. 39</text>
   </item>
   <item>
-    <name>Witherbloom Primer</name>
+    <name>Witherbloom Primer [Legacy]</name>
     <detail>uncommon (requires attunement by a spellcaster)</detail>
     <type>W</type>
     <magic>YES</magic>
